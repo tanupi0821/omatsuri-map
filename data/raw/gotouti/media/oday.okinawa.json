@@ -8,7 +8,7 @@
   "沖縄県"
  ],
  "url": "https://oday.okinawa/",
- "skipped": "REST 不可 (404)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",

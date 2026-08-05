@@ -7,8 +7,8 @@ area:
   city: 藤津郡太良町
   ward: null
 venue:
-  name: 太良町B＆G海洋センター運動広場
-  address: 藤津郡太良町大字糸岐
+  name: 太良町役場・太良町B&G海洋センター運動広場
+  address: 佐賀県藤津郡太良町多良1-6
   lat: 33.020242
   lng: 130.180267
 organizer: 太良町納涼夏まつり運営協議会事務局
@@ -23,11 +23,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
+    start_time: 20:00
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1041e00376/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR多良駅から徒歩14分
+    source_url: https://tara-kankou.jp/spot/35.html
+    source_name: 太良町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 花火の打上げは20:00頃から
+station: JR長崎本線 多良駅（徒歩約15分）

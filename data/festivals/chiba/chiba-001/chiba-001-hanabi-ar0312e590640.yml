@@ -26,8 +26,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e590640/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://sbimusiccircus.co.jp/sbimaihanabi/inage/
+    source_name: SBI舞花火 実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 日付・時刻は主催者の公式ページに記載がなく、以前の発表による
 station: JR稲毛海岸駅から徒歩20分

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 篠崎第四小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区篠崎町8-12-8
+  lat: 35.70478123
+  lng: 139.8987718
 organizer: 篠崎七丁目町会
 tags: []
 description: null

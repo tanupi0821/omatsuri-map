@@ -7,8 +7,8 @@ area:
   city: 下妻市
   ward: null
 venue:
-  name: 砂沼南岸及び砂沼湖上
-  address: 下妻市長塚
+  name: 砂沼南岸および砂沼湖上
+  address: 茨城県下妻市
   lat: 36.190217
   lng: 139.948611
 organizer: 下妻市商工観光課
@@ -25,11 +25,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e357291/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.shimotsuma.lg.jp/kanko-business-sangyo/event/shimotsumafestival/shimotsumamatsuri2026/
+    source_name: 下妻市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 17:00から21:00は祭り全体の時間帯。花火の打上時刻は下妻市の告知に記載がない
 station: 関東鉄道常総線下妻駅から徒歩15分

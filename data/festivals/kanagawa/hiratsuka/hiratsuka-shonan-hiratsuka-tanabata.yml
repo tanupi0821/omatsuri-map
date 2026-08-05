@@ -7,16 +7,17 @@ area:
   city: 平塚市
   ward: null
 venue:
-  name: JR平塚駅北口商店街一帯（湘南スターモールほか）
-  address: 平塚市紅谷町
+  name: 平塚市中心街および市内各所
+  address: 神奈川県平塚市
   lat: 35.328932
   lng: 139.350574
-station: 平塚
+station: JR東海道本線 平塚駅北口（徒歩2分）
 organizer: 湘南ひらつか七夕まつり実行委員会
 tags: []
 description: null
 links:
-  - https://www.city.hiratsuka.kanagawa.jp/kanko/page-c_01099.html
+  - title: 平塚市 第74回湘南ひらつか七夕まつり
+    url: https://www.city.hiratsuka.kanagawa.jp/kanko/page-c_01099.html
   - title: 夏休みおでかけガイド2026（ウォーカープラス）
     url: https://summer.walkerplus.com/odekake/detail_e/ar0314e184116/
 occurrences:
@@ -26,11 +27,11 @@ occurrences:
       - 2026-07-04
       - 2026-07-05
     start_time: 20:30
-    end_time: null
+    end_time: 20:30
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/hiratsuka-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
-    note: 日本三大七夕のひとつ。3日・4日は20:30まで、5日は19:00まで
+    source_url: https://www.city.hiratsuka.kanagawa.jp/kanko/page-c_01099.html
+    source_name: 平塚市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月3日・4日は20:30まで、5日は19:00まで
 stalls: yes

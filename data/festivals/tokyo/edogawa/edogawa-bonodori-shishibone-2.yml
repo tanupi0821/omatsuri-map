@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 鹿骨中学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区鹿骨2-12-1
+  lat: 35.70774975
+  lng: 139.8935401
 organizer: 鹿骨二丁目町会
 tags: []
 description: null

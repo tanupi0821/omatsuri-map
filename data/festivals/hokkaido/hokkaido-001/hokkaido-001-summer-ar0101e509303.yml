@@ -7,8 +7,8 @@ area:
   city: 余市郡余市町
   ward: null
 venue:
-  name: JR余市駅横特設会場
-  address: 余市郡町黒川町5
+  name: 余市港
+  address: 北海道余市郡余市町
   lat: 43.187719
   lng: 140.794709
 organizer: 余市町総合政策部商工観光課
@@ -25,8 +25,9 @@ occurrences:
     start_time: 16:00
     end_time: 20:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e509303/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.yoichi.hokkaido.jp/kankou/event/2026-0430-1416-19.html
+    source_name: 余市町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 花火の打上げは19:15頃の予定（余市町の発表）
 station: JR余市駅から徒歩2分

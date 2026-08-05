@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 加西市役所駐車場
-  address: 加西市北条町横尾
+  address: 兵庫県加西市北条町横尾1000番地
   lat: 34.927813
   lng: 134.841819
-organizer: 加西サイサイ祭り祭典委員会
+organizer: 加西サイサイまつり祭典委員会
 stalls: yes
 tags:
   - 花火
@@ -23,10 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0728e355834/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.kasai.hyogo.jp/site/bunka03/
+    source_name: 加西市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 前夜祭は8月1日。20:30〜20:50は花火の時間帯

@@ -7,11 +7,11 @@ area:
   city: 厚木市
   ward: null
 venue:
-  name: 相模川河川敷(三川合流点)
-  address: 厚木市金田
+  name: 相模川 三川合流点
+  address: 神奈川県厚木市
   lat: 35.450898
   lng: 139.370935
-organizer: あつぎ鮎まつり実行委員会
+organizer: あつぎ鮎まつり実行委員会（厚木市商業観光課）
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0314e00243/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 小田急小田原線本厚木駅北口から徒歩20分または海老名駅から徒歩25分
+    source_url: https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html
+    source_name: 厚木市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 2026年から秋開催（10月10日・11日）に変わった。花火の時刻は観光協会のページに記載がない
+station: 小田急小田原線 本厚木駅（東口から徒歩約15分）

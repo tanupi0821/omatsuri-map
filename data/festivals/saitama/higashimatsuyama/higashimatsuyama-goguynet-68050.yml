@@ -7,11 +7,11 @@ area:
   city: 東松山市
   ward: null
 venue:
-  name: 東松山市内
-  address: null
+  name: 本町・材木町・箭弓町・松葉町ほか
+  address: 埼玉県東松山市
   lat: null
   lng: null
-organizer: null
+organizer: 東松山夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -28,7 +28,9 @@ occurrences:
     start_time: 10:00
     end_time: 14:00
     status: confirmed
-    source_url: https://sakado-tsurugashima.goguynet.jp/2026/07/08/higashimatsuyama-natsumatsuri2026/
-    source_name: 号外NET 坂戸市・鶴ヶ島市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.higashimatsuyama.lg.jp/soshiki/18/1502.html
+    source_name: 東松山市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は市のページに記載がない
+station: 東武東上線 東松山駅

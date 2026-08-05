@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 南万領公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市住吉区万代東4丁目2番
+  lat: 34.6132779000004
+  lng: 135.5032559
 organizer: 万代東5丁目町会ほか
 stalls: unknown
 tags: []

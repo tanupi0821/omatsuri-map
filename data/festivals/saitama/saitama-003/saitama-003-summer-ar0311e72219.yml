@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 大宮駅東口周辺
-  address: さいたま市大宮区大門町ほか
+  address: 埼玉県さいたま市大宮区
   lat: 35.90654
   lng: 139.625189
-organizer: null
+organizer: 中山道まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -23,12 +23,12 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e72219/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR・東武アーバンパークライン・埼玉新都市交通大宮駅東口からすぐ
+    source_url: https://visitsaitamacity.jp/events/24
+    source_name: 公益社団法人さいたま観光国際協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月1日は17:00〜21:00、2日は17:00〜22:00
+station: JR・東武 大宮駅

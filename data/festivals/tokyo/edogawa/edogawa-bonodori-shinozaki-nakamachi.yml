@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 篠崎小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区篠崎町3-2-18
+  lat: 35.7048185
+  lng: 139.9091259
 organizer: 篠崎仲町自治会
 tags: []
 description: null

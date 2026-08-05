@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: JA前橋市大胡支所広場
-  address: 前橋市大胡町
+  address: 群馬県前橋市堀越町1115番地1
   lat: 36.414618
   lng: 139.157703
-organizer: 前橋市 大胡支所
+organizer: 大胡町自治会・大胡町青年会
 stalls: yes
 tags: []
 description: null
@@ -28,9 +28,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0310e351778/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: 上毛電気鉄道大胡駅から徒歩3分
+    source_url: https://www.city.maebashi.gunma.jp/soshiki/shimin/ogo/gyomu/1/2120.html
+    source_name: 前橋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は前橋市のページに記載がない
+station: 上毛電気鉄道 大胡駅（徒歩約3分）

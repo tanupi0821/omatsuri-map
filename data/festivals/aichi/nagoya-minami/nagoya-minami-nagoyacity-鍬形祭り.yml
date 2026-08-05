@@ -1,0 +1,32 @@
+id: nagoya-minami-nagoyacity-鍬形祭り
+name: 鍬形祭り
+kind: 春祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 笠寺小学校
+  address: null
+  lat: null
+  lng: null
+recurrence: 5月5日
+recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: 10:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+    source_name: 名古屋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催は「毎年5月5日」という決まり。午前10時から

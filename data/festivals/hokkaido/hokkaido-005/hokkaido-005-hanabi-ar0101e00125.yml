@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00125/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.iwanai-kanko.jp/news/detail.html?id=1518
+    source_name: 岩内町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 祭りは8月8日・9日の2日間。花火の時刻は観光協会のページに記載がない
 station: JR小樽駅から北海道中央バス(高速いわない号岩内行きで約90分)で岩内バスターミナル停留所下車、徒歩5分

@@ -25,8 +25,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0936e511010/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.minami.lg.jp/docs/3324727.html
+    source_name: 美波町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は町のページに記載がない
 station: JR日和佐駅から徒歩20分

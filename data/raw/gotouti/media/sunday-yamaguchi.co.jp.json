@@ -8,7 +8,7 @@
   "山口県"
  ],
  "url": "https://www.sunday-yamaguchi.co.jp/",
- "skipped": "REST 不可 (Unexpected token '<', \"\n<!DOCTYPE \"... is not valid JSON)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",

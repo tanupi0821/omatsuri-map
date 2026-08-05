@@ -8,7 +8,7 @@
   "福島県"
  ],
  "url": "https://fromhere-fukushima.com/",
- "skipped": "REST 不可 (403)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 長居小学校
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市住吉区長居東3-3-40
+  lat: 34.6087110000003
+  lng: 135.513917
 organizer: 長居地域活動協議会
 stalls: unknown
 tags: []

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: たちばな公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市平野区加美西1-4
+  lat: 34.6270110000002
+  lng: 135.5605922
 organizer: 加美地域 たちばな町子ども会
 stalls: unknown
 tags: []

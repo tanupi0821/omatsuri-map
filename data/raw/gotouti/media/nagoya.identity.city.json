@@ -8,7 +8,7 @@
   "愛知県"
  ],
  "url": "https://nagoya.identity.city/",
- "skipped": "REST 不可 (Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",
@@ -17,7 +17,13 @@
   "納涼",
   "例大祭",
   "秋祭り",
-  "夜店"
+  "夜店",
+  "盆おどり",
+  "祭礼",
+  "夜市",
+  "花火大会",
+  "大祭",
+  "神輿"
  ],
  "items": []
 }

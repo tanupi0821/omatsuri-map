@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 大杉小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区中央2-16-15
+  lat: 35.7059514
+  lng: 139.8729749
 organizer: 五南町会
 tags: []
 description: null

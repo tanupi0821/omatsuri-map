@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 第六瑞光小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 荒川区南千住1-4-11
+  lat: 35.73328922
+  lng: 139.78921788
 organizer: 南千住・東日暮里一丁目南町会
 stalls: unknown
 tags: []

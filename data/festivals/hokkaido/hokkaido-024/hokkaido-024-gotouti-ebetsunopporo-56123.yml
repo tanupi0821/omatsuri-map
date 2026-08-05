@@ -1,0 +1,29 @@
+id: hokkaido-024-gotouti-ebetsunopporo-56123
+name: えべつ北海鳴子まつり（えべなる）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 北海道
+  city: 江別市
+  ward: null
+venue:
+  name: かわなか公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ebetsunopporo.com/?p=56123
+    source_name: えべナビ！
+    source_type: media
+    checked_at: 2026-08-06

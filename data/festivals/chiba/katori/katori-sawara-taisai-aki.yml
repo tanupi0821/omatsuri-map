@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-recurrence: 10月第2土曜日を中心とした3日間
+recurrence: 10月第2土曜日を中日とする金・土・日曜日の3日間
 recurrence_source: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
 organizer: 諏訪神社
 shrine: 諏訪神社
@@ -25,15 +25,16 @@ links:
 occurrences:
   - year: 2026
     dates:
+      - 2026-10-09
+      - 2026-10-10
       - 2026-10-11
-      - 2026-10-12
     start_time: 10:00
     end_time: 22:00
-    status: confirmed
+    status: estimated
     source_url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
     source_name: 香取市 公式
     source_type: gov
     checked_at: 2026-08-06
-    note: 時刻は香取市の祭り紹介ページの記載による（山車の曳き廻しの時間帯）
+    note: 香取市が公開している「10月第2土曜日を中日とする金・土・日曜日の3日間」から導いた日付。市のページは令和7年の日程までしか出していない。時刻は市の祭り紹介ページの記載による
 stalls: unknown
 station: JR成田線「佐原駅」（駅前が祭り区域）

@@ -1,0 +1,33 @@
+id: aichi-005-nagoyacity-うそ替え上野天満宮
+name: うそ替え（上野天満宮）
+kind: 神事
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市千種区
+  ward: null
+venue:
+  name: 上野天満宮
+  address: null
+  lat: null
+  lng: null
+recurrence: 1月15日
+recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+organizer: null
+shrine: 上野天満宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-15
+    start_time: 09:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+    source_name: 名古屋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催は「毎年1月15日」という決まり。午前9時から

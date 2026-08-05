@@ -7,8 +7,8 @@ area:
   city: 伊勢崎市
   ward: null
 venue:
-  name: 伊勢崎市内
-  address: null
+  name: 伊勢崎駅南口駅前広場
+  address: 群馬県伊勢崎市今泉町二丁目
   lat: null
   lng: null
 organizer: null
@@ -25,10 +25,13 @@ occurrences:
       - 2026-08-08
       - 2026-08-15
       - 2026-08-22
-    start_time: null
-    end_time: null
+      - 2026-08-29
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://isesaki.goguynet.jp/2026/07/31/isesaki-rakuichi-yoruichi/
-    source_name: 号外NET 伊勢崎市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.isesaki.lg.jp/soshiki/keizai/shoko/machinakakaseika/13542.html
+    source_name: 伊勢崎市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 8月は「夜市」として毎週土曜に開催。市の告知では8月29日も含めて5回
+station: JR両毛線・東武伊勢崎線 伊勢崎駅

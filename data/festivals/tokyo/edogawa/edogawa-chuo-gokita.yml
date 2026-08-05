@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 大杉第二小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区大杉3-11-1
+  lat: 35.70672554
+  lng: 139.8811652
 organizer: 五北町会
 tags: []
 description: null

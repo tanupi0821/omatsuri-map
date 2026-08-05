@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: ふるさと銀河線りくべつ鉄道まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -25,10 +25,11 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
-    source_url: https://obihiro.goguynet.jp/2026/07/18/obihiro_tokachi_rikubetsu_event_tetsudoumatsuri2026071819/
-    source_name: 号外NET 帯広市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.rikubetsu.jp/kanko/event/tetsudoumatsuri/
+    source_name: 陸別町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月18日が前夜祭（18:00〜）、19日が本祭（10:00〜）。開催地は足寄郡陸別町。号外NET帯広版から取り込んだため area.city が帯広市になっているので要修正

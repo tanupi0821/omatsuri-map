@@ -7,8 +7,8 @@ area:
   city: さぬき市
   ward: null
 venue:
-  name: 津田の松原(県立琴林公園)・津田の松原海水浴場
-  address: さぬき市津田町津田
+  name: 津田の松原
+  address: 香川県さぬき市津田町津田
   lat: 34.286463
   lng: 134.256089
 organizer: さぬき市観光協会
@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0937e513593/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://sanuki-kanko.jp/event/summer
+    source_name: さぬき市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 時刻は観光協会のページに記載がない
 station: JR讃岐津田駅から徒歩10分

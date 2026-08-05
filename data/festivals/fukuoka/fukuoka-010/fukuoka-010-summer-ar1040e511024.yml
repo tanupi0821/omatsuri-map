@@ -21,14 +21,15 @@ links:
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-24
       - 2026-07-25
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e511024/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR筑前前原駅から徒歩5分
+    source_url: https://kanko-itoshima.jp/spot/maebaruyamakasa/
+    source_name: 糸島市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 例年は7月24日・25日の2日だが、糸島市観光協会によると2026年は7月25日（土）のみ。山笠は14:30から5分おきに出発
+station: JR筑肥線 筑前前原駅北口（徒歩約5分）
+recurrence: 7月24日（火伏地蔵庵）・7月25日（老松神社）
+recurrence_source: https://kanko-itoshima.jp/spot/maebaruyamakasa/

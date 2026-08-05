@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 東小岩小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区東小岩4-12-1
+  lat: 35.72931022
+  lng: 139.8892326
 organizer: 小岩二東町会
 tags: []
 description: null

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 駒ヶ林小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区野田町6-1-16
+  lat: 34.6500314333416
+  lng: 135.1414645
 organizer: 長楽ふれあいのまちづくり協議会
 stalls: yes
 tags:

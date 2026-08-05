@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 梅香東公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市此花区梅香1-3
+  lat: 34.6823300000005
+  lng: 135.459780000001
 organizer: null
 stalls: unknown
 tags: []

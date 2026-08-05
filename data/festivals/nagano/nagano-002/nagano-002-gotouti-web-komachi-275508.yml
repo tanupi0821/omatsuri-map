@@ -1,0 +1,29 @@
+id: nagano-002-gotouti-web-komachi-275508
+name: 城⼭ 桜まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 長野県
+  city: 長野市
+  ward: null
+venue:
+  name: 「城山公園」ふれあい広場
+  address: null
+  lat: null
+  lng: null
+organizer: カンパイ横丁実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: 13:00
+    end_time: 16:30
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=275508
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

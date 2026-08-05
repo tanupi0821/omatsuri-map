@@ -80,6 +80,16 @@ const csvOrNull = (name) => {
   return existsSync(p) ? parseCsv(decode(p)) : null;
 };
 
+/** HTML の <table> を行の配列にする。列は見出し行の並びで読むこと */
+function tableRows(name) {
+  const p = join(OD, `${name}.html`);
+  if (!existsSync(p)) return null;
+  const html = decode(p);
+  return [...html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/g)]
+    .map((m) => [...m[1].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/g)]
+      .map((c) => c[1].replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim()));
+}
+
 // --- 名前の正規化 ----------------------------------------------------------
 
 /**
@@ -143,15 +153,97 @@ const add = (ward, name, address, src, lat = null, lng = null) => {
   }
 }
 
-// 名古屋市 都市公園一覧（名東区）。見出し行が 3 行あるので列位置で読む
-{
-  const rows = csvOrNull('nagoya-meito-koen');
-  if (rows) {
-    for (const r of rows) {
-      const [, name, addr] = r;
-      if (!/^名東区/.test(addr ?? '')) continue;
-      add('名東区', name, `名古屋市${addr}`, '名古屋市 都市公園一覧');
+// 名古屋市 都市公園一覧。見出し行が 3 行あるので列位置で読む。
+// 所在地が「名東区にじが丘３丁目」の形なので、そこから区を取る（他区の行を拾わない）
+for (const [file, ward] of [['nagoya-meito-koen', '名東区'], ['nagoya-midori-koen', '緑区']]) {
+  const rows = csvOrNull(file);
+  if (!rows) continue;
+  for (const r of rows) {
+    const [, name, addr] = r;
+    if (!addr?.startsWith(ward)) continue;
+    add(ward, name, `名古屋市${addr}`, '名古屋市 都市公園一覧');
+  }
+}
+
+/**
+ * wagmap 系（大阪市「マップナビおおさか」・神戸市）の施設 CSV を読む。
+ * どちらも同じ地図基盤なので列の形が揃っている:
+ *   施設名称 or 施設名 / 所在地 or 住所 / 経度 / 緯度
+ * 住所は「大阪市阿倍野区…」と「住之江区…」のように市名の有無が混在するので、
+ * 区名を取り出したうえで「<市><区>…」の形に揃える（既存データの書き方に合わせる）。
+ */
+function loadWagmap(file, city, label) {
+  const rows = csvOrNull(file);
+  if (!rows) return;
+  const h = rows[0];
+  const col = (...names) => {
+    for (const n of names) { const i = h.indexOf(n); if (i >= 0) return i; }
+    return -1;
+  };
+  const iName = col('施設名称', '施設名');
+  const iAddr = col('所在地', '住所');
+  const iLat = col('緯度');
+  const iLng = col('経度');
+  if (iName < 0 || iAddr < 0) return;
+
+  for (const r of rows.slice(1)) {
+    const name = r[iName];
+    const loc = (r[iAddr] ?? '').replace(new RegExp(`^${city}`), '');
+    const ward = loc.match(/^(\S+?区)/)?.[1];
+    if (!name || !ward) continue;
+    const lat = Number(r[iLat]);
+    const lng = Number(r[iLng]);
+    add(ward, name, `${city}${loc}`, label,
+      Number.isFinite(lat) && lat ? lat : null, Number.isFinite(lng) && lng ? lng : null);
+  }
+}
+
+// 大阪市。**児童遊園・広場・地域集会所まで入っている**ので町内会規模の会場に効く
+for (const f of ['osaka-mapnavi-gakko', 'osaka-mapnavi-koen', 'osaka-mapnavi-kaikan']) {
+  loadWagmap(f, '大阪市', 'マップナビおおさか');
+}
+
+// 神戸市。学校の住所は**指定避難所の一覧**に入っている（市は学校一覧を
+// オープンデータにしていないが、小中学校はほぼ全部が避難所になっている）
+for (const f of ['kobe-hinanjo-indoor', 'kobe-hinanjo-outdoor', 'kobe-fukushi-center']) {
+  loadWagmap(f, '神戸市', '神戸市オープンデータ');
+}
+
+// 東京都防災マップ（避難所・避難場所）。**23区市町村を横断**していて、
+// 小中学校・公園・広場が施設名と所在地住所つきで入っている。
+// 区ごとに公園一覧を探して回るより、これ 1 本の方が広く効く。
+// 見出し行がファイルの先頭に無い（1 行目が空のカンマ列）ので、
+// 「所在地住所」を含む行を見出しとして探す
+for (const file of ['tokyo-hinanjo', 'tokyo-hinanbasho']) {
+  const rows = csvOrNull(file);
+  if (!rows) continue;
+  const hi = rows.findIndex((r) => r.some((c) => c.includes('所在地住所')));
+  if (hi < 0) continue;
+  const h = rows[hi];
+  const idx = (...names) => {
+    for (const n of names) {
+      const i = h.findIndex((c) => c.replace(/\s/g, '').includes(n));
+      if (i >= 0) return i;
     }
+    return -1;
+  };
+  const iName = idx('施設名称', '施設名');
+  const iMuni = idx('指定市区町村名', '区市町村');
+  const iAddr = idx('所在地住所');
+  const iLat = idx('緯度');
+  const iLng = idx('経度');
+  if (iName < 0 || iMuni < 0 || iAddr < 0) continue;
+
+  for (const r of rows.slice(hi + 1)) {
+    const name = r[iName];
+    const muni = (r[iMuni] ?? '').trim();
+    const addr = (r[iAddr] ?? '').trim();
+    if (!name || !muni || !addr) continue;
+    const lat = Number(r[iLat]);
+    const lng = Number(r[iLng]);
+    // 住所が「東京都江戸川区…」なら都を落とす。既存データの書き方に合わせる
+    add(muni, name, addr.replace(/^東京都/, ''), '東京都防災マップ',
+      Number.isFinite(lat) && lat ? lat : null, Number.isFinite(lng) && lng ? lng : null);
   }
 }
 
@@ -163,6 +255,29 @@ const add = (ward, name, address, src, lat = null, lng = null) => {
     const at = (r, k) => r[h.indexOf(k)];
     for (const r of rows.slice(1)) {
       add('足立区', at(r, '名称'), at(r, '所在地_連結表記'), '足立区 都市公園一覧');
+    }
+  }
+}
+
+// 足立区「あだちの盆踊り・あだちのまつり」の一覧。
+// 表が 開催日 / 開始時間 / 町会・自治会名 / 会場 / 住所 / 問い合わせ の 6 列で、
+// **会場と住所が同じ行に並んでいる**。取り込みのときは会場名しか拾っていなかった。
+// 住所は「西綾瀬2-1-8（外部サイトへリンク）」の形なので注記を落とす
+{
+  const rows = tableRows('adachi-bonfes2026');
+  if (rows) {
+    const head = rows.find((r) => r.includes('会場'));
+    if (head) {
+      const iVenue = head.indexOf('会場');
+      const iAddr = head.findIndex((c) => c.startsWith('住所'));
+      for (const r of rows) {
+        if (r.length !== head.length || r === head) continue;
+        const name = r[iVenue];
+        const addr = (r[iAddr] ?? '').replace(/（外部サイトへリンク）/g, '').trim();
+        // 「未定」「町会内」のような住所でないものを入れない。番地らしさを求める
+        if (!name || !/\d/.test(addr)) continue;
+        add('足立区', name, `足立区${addr}`, '足立区 あだちの盆踊り一覧');
+      }
     }
   }
 }
@@ -183,10 +298,29 @@ const add = (ward, name, address, src, lat = null, lng = null) => {
   }
 }
 
-// 名古屋市名東区の小・中学校。
-// CSV では出ていないので、名古屋市の「名東区の小・中学校一覧」から住所だけを写した。
-// https://www.city.nagoya.jp/kodomo/schools/1015850/1015852/1015867.html
-// 出典が市の公式ページで、区も一致しているので同名の別校を掴む余地が無い。
+// 名古屋市の小・中学校。CSV では出ていないので、市の「◯区の小・中学校一覧」から
+// 住所だけを写した。出典が市の公式ページで、区も一致しているので同名の別校を掴む余地が無い。
+// 緑区: https://www.city.nagoya.jp/kodomo/schools/1015850/1015852/1015868.html
+for (const [name, addr] of [
+  ['鳴海小学校', '鳴海町矢切98'], ['平子小学校', '平子が丘236'], ['鳴海東部小学校', '平手北二丁目901'],
+  ['東丘小学校', '鳴海町有松裏9'], ['鳴子小学校', '鳴子町2-69'], ['有松小学校', '有松2803'],
+  ['大高小学校', '大高台三丁目2601'], ['緑小学校', '鳴海町前之輪24'], ['片平小学校', '鳴海町片平18'],
+  ['戸笠小学校', '相川三丁目60'], ['太子小学校', '太子二丁目242'], ['旭出小学校', '旭出一丁目101'],
+  ['浦里小学校', '浦里一丁目77'], ['黒石小学校', '黒沢台二丁目1533'], ['神の倉小学校', '神の倉二丁目198'],
+  ['長根台小学校', '古鳴海二丁目161-1'], ['桶狭間小学校', '桶狭間巻山1908'], ['相原小学校', '若田一丁目301'],
+  ['桃山小学校', '桃山四丁目327'], ['南陵小学校', '桶狭間森前1348'], ['大高北小学校', '大高町町屋川1'],
+  ['大高南小学校', '南大高一丁目1004'], ['徳重小学校', '徳重二丁目801'], ['滝ノ水小学校', '滝ノ水一丁目1901'],
+  ['大清水小学校', '大清水西901'], ['常安小学校', '乗鞍一丁目2101'], ['小坂小学校', '小坂一丁目1001-2'],
+  ['熊の前小学校', '亀が洞一丁目901'],
+  ['鳴海中学校', '六田二丁目96'], ['有松中学校', '有松町桶狭間高根39-83'], ['大高中学校', '森の里一丁目107'],
+  ['鳴子台中学校', '鳴子町3-40'], ['東陵中学校', '東陵1353'], ['千鳥丘中学校', '鳴海町山ノ神108'],
+  ['神沢中学校', '神沢二丁目1201'], ['扇台中学校', '徳重一丁目1201'], ['滝ノ水中学校', '滝ノ水三丁目602'],
+  ['左京山中学校', '左京山1407'], ['鎌倉台中学校', '鎌倉台二丁目402'], ['神の倉中学校', '白土1201'],
+]) {
+  add('緑区', name, `名古屋市緑区${addr}`, '名古屋市 緑区の小・中学校一覧');
+}
+
+// 名東区: https://www.city.nagoya.jp/kodomo/schools/1015850/1015852/1015867.html
 for (const [name, addr] of [
   ['猪高小学校', '丁田町32'], ['藤が丘小学校', '藤が丘54'], ['香流小学校', '香流二丁目1201'],
   ['猪子石小学校', '猪子石二丁目1201'], ['高針小学校', '高針二丁目1103'], ['西山小学校', '西山本通2-35'],
@@ -253,7 +387,11 @@ for (const f of loadFestivals()) {
   for (const c of candidates) {
     const list = index.get(`${ward}|${c}`);
     if (!list) continue;
-    if (list.length > 1) { ambiguous.push(`${f.id} / ${c}（${list.length}件）`); continue; }
+    // 同じ会場が何度も出ることがある（1 つの公園を複数の町会が使う）。
+    // **候補が指す住所が全部同じなら曖昧ではない**ので採る。
+    // 違う住所を指しているときだけ「同名の別の場所」なので捨てる
+    const addrs = new Set(list.map((x) => x.address));
+    if (addrs.size > 1) { ambiguous.push(`${f.id} / ${c}（${addrs.size}通りの住所）`); continue; }
     hit = list[0];
     break;
   }

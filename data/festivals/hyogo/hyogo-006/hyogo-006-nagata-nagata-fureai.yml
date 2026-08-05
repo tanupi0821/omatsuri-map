@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 長田小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区西山町2-4-1
+  lat: 34.6725142333718
+  lng: 135.1428822
 organizer: 青少年育成協議会 長田支部
 stalls: yes
 tags: []

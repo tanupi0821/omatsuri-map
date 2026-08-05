@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 南小岩第二小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区南小岩2-16-1
+  lat: 35.72195204
+  lng: 139.8892439
 organizer: 河原田町会
 tags: []
 description: null

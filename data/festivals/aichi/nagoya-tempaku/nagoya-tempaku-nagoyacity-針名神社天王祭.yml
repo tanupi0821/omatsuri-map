@@ -1,0 +1,33 @@
+id: nagoya-tempaku-nagoyacity-針名神社天王祭
+name: 針名神社天王祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市天白区
+  ward: null
+venue:
+  name: 針名神社
+  address: null
+  lat: null
+  lng: null
+recurrence: 7月第3月曜日
+recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+organizer: null
+shrine: 針名神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: 18:00
+    end_time: null
+    status: estimated
+    source_url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+    source_name: 名古屋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催は「毎年7月第3月曜日」という決まり。提灯トボシは午後6時から

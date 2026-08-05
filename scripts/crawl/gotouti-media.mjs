@@ -3,8 +3,10 @@
  *
  *   node scripts/crawl/gotouti-media.mjs [--workers 6] [--limit 100] [--only <host>]
  *
- * 「◯◯つーしん」や号外NET を 1 件ずつ手で足していたのを、名鑑の
- * **プラットフォーム欄が WordPress の媒体**に対して機械的に広げる。
+ * 「◯◯つーしん」や号外NET を 1 件ずつ手で足していたのを、名鑑に載っている
+ * 媒体すべてに対して機械的に広げる。**SNS のホストだけ除き、REST が
+ * 開いているかは実際に叩いて確かめる**（名鑑の「プラットフォーム」欄は
+ * 当てにならない。「ライブドアブログ」と書かれた浜松つーしんが WordPress だった）。
  *
  * 守ること（docs/kanto-plan.md）:
  *  - robots.txt を読み、`/wp-json/` が Disallow なら触らない
@@ -29,7 +31,14 @@ const DIR = join(ROOT, 'data', 'raw', 'gotouti');
 const OUT = join(DIR, 'media');
 const UA = 'matsuri-map/0.1 (local festival directory; polite crawler)';
 
-const TERMS = ['盆踊り', '夏祭り', '夏まつり', '縁日', '納涼', '例大祭', '秋祭り', '夜店'];
+/**
+ * 検索語。号外NET で 5 語では足りず 12 語に増やした経験と同じで、
+ * **語を足すほど町内会規模が出てくる**。取得済みの語は飛ばすので追記してよい。
+ */
+const TERMS = [
+  '盆踊り', '夏祭り', '夏まつり', '縁日', '納涼', '例大祭', '秋祭り', '夜店',
+  '盆おどり', '祭礼', '夜市', '花火大会', '大祭', '神輿',
+];
 const MIN_DELAY = 2000;
 
 const arg = (k, d) => {
@@ -131,11 +140,25 @@ const hostOf = (u) => {
 // 実際に接続するホストは**元の URL のまま**（www を落とすと引けない媒体がある）
 const realHostOf = (u) => { try { return new URL(u).host; } catch { return null; } };
 
+/**
+ * SNS・動画・ブログサービスのホスト。REST API は無いので叩かない。
+ * （個別ドメインのブログは名鑑の「プラットフォーム」欄が違っていても
+ *   WordPress のことがあるので、ホストで弾くのが確実）
+ */
+const SOCIAL = /(^|\.)(instagram\.com|youtube\.com|youtu\.be|facebook\.com|twitter\.com|x\.com|note\.com|ameblo\.jp|hatenablog\.com|hateblo\.jp|blog\.jp|livedoor\.blog|seesaa\.net|fc2\.com|jugem\.jp|exblog\.jp|goo\.ne\.jp|themedia\.jp|amebaownd\.com|wixsite\.com|jimdofree\.com|tumblr\.com|threads\.com|tiktok\.com|line\.me)$/i;
+
 const candidates = [];
 const seenHost = new Set();
 for (const it of index) {
-  if (!/wordpress/i.test(it.platform)) continue;
-  const host = hostOf(it.url);
+  /**
+   * **「プラットフォーム: WordPress」だけに絞ると取り逃す。**
+   * 名鑑が「ライブドアブログ」と書いている浜松つーしん（hama2.jp）は
+   * 実際には WordPress の REST が開いていた。SNS だけ除いて、
+   * REST が開いているかは `searchWorks` の判定に任せる。
+   */
+  const host0 = hostOf(it.url);
+  if (!host0 || SOCIAL.test(host0)) continue;
+  const host = host0;
   if (!host) continue;
   if (seenHost.has(host)) continue;
   if (ALREADY.some((a) => host === a || host.endsWith(`.${a}`))) continue;
@@ -148,7 +171,7 @@ for (const it of index) {
   candidates.push({ host, realHost: realHostOf(it.url), name: it.name, areas: it.areas, prefs, url: it.url, operator: it.operator });
 }
 
-console.log(`候補 ${candidates.length} 媒体（WordPress・行政区域あり・未取得）`);
+console.log(`候補 ${candidates.length} 媒体（SNS以外・行政区域から県が読める）`);
 
 mkdirSync(OUT, { recursive: true });
 const fileOf = (host) => join(OUT, `${host.replace(/[^a-z0-9.-]/gi, '_')}.json`);
@@ -198,17 +221,31 @@ async function crawlOne(c) {
   const delay = rb.delayMs;
   await sleep(delay);
 
-  // search が本当に効くか。無意味語で 0 件でなければ使わない
-  let sane;
-  try {
-    sane = await getJson(`https://${H}/wp-json/wp/v2/posts?per_page=1&search=zzzqqqxxx&_fields=id`);
-  } catch (e) {
-    save(c, { skipped: `REST 不可 (${e.message})`, terms: TERMS, items: [] });
-    return 'REST不可';
+  /**
+   * search が本当に効くか。無意味語で 0 件でなければ使わない。
+   * **`/wp-json/` を塞いでいても `?rest_route=` は開いている媒体がある**
+   * （セキュリティプラグインが前者だけを弾く。151 媒体中の一部がこれ）。
+   * ただし 200 で HTML を返す媒体も多いので、`getJson` 側で Content-Type も見る。
+   */
+  const endpoints = [
+    (q) => `https://${H}/wp-json/wp/v2/posts?${q}`,
+    (q) => `https://${H}/?rest_route=/wp/v2/posts&${q}`,
+  ];
+  let ep = null;
+  let lastErr = '';
+  for (const e of endpoints) {
+    try {
+      const sane = await getJson(e('per_page=1&search=zzzqqqxxx&_fields=id'));
+      if (sane.total === 0) { ep = e; break; }
+      lastErr = `search が効かない（無意味語で ${sane.total} 件）`;
+    } catch (err) {
+      lastErr = `REST 不可 (${err.message})`;
+    }
+    await sleep(delay);
   }
-  if (sane.total !== 0) {
-    save(c, { skipped: `search が効かない（無意味語で ${sane.total} 件）`, terms: TERMS, items: [] });
-    return 'search無効';
+  if (!ep) {
+    save(c, { skipped: lastErr || 'REST 不可', terms: TERMS, items: [] });
+    return lastErr.startsWith('search') ? 'search無効' : 'REST不可';
   }
   await sleep(delay);
 
@@ -261,4 +298,4 @@ todo.forEach((c, i) => buckets[i % WORKERS].push(c));
 await Promise.all(buckets.map(worker));
 
 console.log(`完了 ${done} 媒体`);
-console.log([...stats].
+console.log([...stats].sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k}: ${v}`).join('\n'));

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 下鎌田東小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区江戸川2-21
+  lat: 35.68680332
+  lng: 139.9012383
 organizer: 下鎌田町会
 tags: []
 description: null

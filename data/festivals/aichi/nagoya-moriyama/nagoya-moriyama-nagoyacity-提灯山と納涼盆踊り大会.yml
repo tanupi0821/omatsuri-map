@@ -1,0 +1,33 @@
+id: nagoya-moriyama-nagoyacity-提灯山と納涼盆踊り大会
+name: 提灯山と納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市守山区
+  ward: null
+venue:
+  name: 勝手社（上志段味）
+  address: null
+  lat: null
+  lng: null
+recurrence: 8月13日
+recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+organizer: null
+shrine: 勝手社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+    source_name: 名古屋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催は「毎年8月13日」という決まり。午後5時から

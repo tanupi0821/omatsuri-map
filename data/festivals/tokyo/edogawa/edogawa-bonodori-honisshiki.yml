@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 本一色小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区本一色2-10-1
+  lat: 35.71858096
+  lng: 139.8722955
 organizer: 本一色自治会
 tags: []
 description: null

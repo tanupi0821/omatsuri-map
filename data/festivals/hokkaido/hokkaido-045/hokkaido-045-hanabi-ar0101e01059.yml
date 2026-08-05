@@ -7,11 +7,11 @@ area:
   city: 広尾郡広尾町
   ward: null
 venue:
-  name: 十勝港第4埠頭
-  address: 広尾郡広尾町会所前五丁目
+  name: 十勝港第4ふ頭
+  address: 北海道広尾郡広尾町会所前6丁目
   lat: 42.297945
   lng: 143.32763
-organizer: 十勝港まつり協賛会
+organizer: 十勝港まつり協賛会（事務局：広尾町役場水産商工観光課）
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e01059/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.hiroo.lg.jp/kankou/event/
+    source_name: 広尾町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 十勝港まつりは第70回、海上花火大会は第36回。花火の時刻は町のページに記載がなく、以前の発表による
 station: JR帯広駅から広尾行バスで約120分、並木通2丁目停留所から徒歩25分

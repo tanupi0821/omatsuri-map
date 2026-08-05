@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 高見公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市此花区高見1-5
+  lat: 34.6914829200005
+  lng: 135.458613800001
 organizer: null
 stalls: unknown
 tags: []

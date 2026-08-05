@@ -7,11 +7,11 @@ area:
   city: 昭島市
   ward: null
 venue:
-  name: JR昭島駅北口
-  address: null
+  name: JR昭島駅北口 モリタウン北側特設会場
+  address: 東京都昭島市田中町562-1
   lat: null
   lng: null
-organizer: null
+organizer: 第十六回あきしま郷土芸能まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -25,7 +25,8 @@ occurrences:
     start_time: 10:00
     end_time: 15:00
     status: confirmed
-    source_url: https://tachikawa-akishima.goguynet.jp/2026/04/17/akishima-kyodo-geino-matsuri-20260524/
-    source_name: 号外NET 立川市・昭島市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://akishima-kanko.org/event/%e7%ac%ac%e5%8d%81%e5%85%ad%e5%9b%9e%e3%81%82%e3%81%8d%e3%81%97%e3%81%be%e9%83%b7%e5%9c%9f%e8%8a%b8%e8%83%bd%e3%81%be%e3%81%a4%e3%82%8a%e9%96%8b%e5%82%ac/
+    source_name: 昭島観光まちづくり協会
+    source_type: official
+    checked_at: 2026-08-06
+station: JR青梅線 昭島駅北口（徒歩2分）

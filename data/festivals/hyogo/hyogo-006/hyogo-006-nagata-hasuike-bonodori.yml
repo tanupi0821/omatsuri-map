@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 蓮池小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区大谷町1-1-10
+  lat: 34.6624350333583
+  lng: 135.1432128
 organizer: 蓮池盆おどり大会実行委員会
 stalls: yes
 tags:

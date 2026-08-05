@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 鹿骨東小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区鹿骨3-7-1
+  lat: 35.71144331
+  lng: 139.892424
 organizer: 鹿骨三丁目町会
 tags: []
 description: null

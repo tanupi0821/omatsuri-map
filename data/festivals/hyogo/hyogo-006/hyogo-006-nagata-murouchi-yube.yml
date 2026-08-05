@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 室内小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区前原町1-17-1
+  lat: 34.6734728333731
+  lng: 135.1543644
 organizer: 青少年育成協議会 室内支部
 stalls: yes
 tags:

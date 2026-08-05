@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 長吉小学校 北運動場
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市平野区長吉長原2-6-55
+  lat: 34.6058810000002
+  lng: 135.569278
 organizer: 長吉長原地域
 stalls: unknown
 tags: []

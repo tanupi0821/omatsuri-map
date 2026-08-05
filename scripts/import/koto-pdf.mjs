@@ -22,7 +22,7 @@ import { emit, ROOT } from './_lib.mjs';
 
 const CHECKED = '2026-08-06';
 const RAW = join(ROOT, 'data', 'raw', 'koto', 'bonodori-2026.json');
-const SOURCE = 'https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html';
+const SOURCE = 'https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/documents/20260708073059.pdf';
 
 if (!existsSync(RAW)) {
   console.error('data/raw/koto/bonodori-2026.json がない。先に scripts/crawl/koto-pdf.mjs を回すこと');

@@ -1,0 +1,30 @@
+id: kasama-gotouti-kitakanto-localbook-5529
+name: 笠間納涼盆踊り花火大会2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 茨城県
+  city: 笠間市
+  ward: null
+venue:
+  name: 笠間市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakanto.localbook.work/2026/08/02/kasama-fireworksfestival/
+    source_name: 北関東ITトレンド
+    source_type: media
+    checked_at: 2026-08-06

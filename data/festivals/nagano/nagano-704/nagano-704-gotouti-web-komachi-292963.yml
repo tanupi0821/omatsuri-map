@@ -1,0 +1,29 @@
+id: nagano-704-gotouti-web-komachi-292963
+name: 長倉神社花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 長野県
+  city: 軽井沢町
+  ward: null
+venue:
+  name: 中軽井沢駅前くつかけ広場（長野県北佐久郡軽井沢町長倉3037-18）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=292963
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

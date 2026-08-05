@@ -25,7 +25,7 @@
   "静岡県"
  ],
  "url": "https://ribridge.link/",
- "skipped": "REST 不可 (Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",

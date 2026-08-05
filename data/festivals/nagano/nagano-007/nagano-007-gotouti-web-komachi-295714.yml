@@ -1,0 +1,29 @@
+id: nagano-007-gotouti-web-komachi-295714
+name: 飯田まつり第45回飯田りんごん
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 長野県
+  city: 飯田市
+  ward: null
+venue:
+  name: 飯田市中心街（長野県飯田市）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 11:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=295714
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

@@ -44,7 +44,10 @@ const mergedInto = existsSync(MERGED) ? JSON.parse(readFileSync(MERGED, 'utf8'))
  * 号外NET どうしでも重なる。いずれも「同じ市の同名は別の祭り」という
  * 神社庁データとは事情が違う。
  */
-const FROM_AGGREGATOR = /-(hanabi|summer)-(ar\d|\d)|-(goguynet|rarea|tokyofesta)-\d/;
+// 名鑑（gotouti）由来も記事媒体なので同じ事情。**行政の一覧と同じ祭りが重なる**
+// （江東区の町会盆踊りが、区の PDF と地域情報サイトの両方から入っている）。
+// つーしん系も同様に、告知と当日レポートで同じ祭りを 2 度記事にする
+const FROM_AGGREGATOR = /-(hanabi|summer)-(ar\d|\d)|-(goguynet|rarea|tokyofesta)-\d|-gotouti-[a-z0-9-]+-\d|-tsushin-/;
 const TIER = { official: 3, gov: 2, media: 1, aggregator: 0 };
 
 // 括弧は全角・半角が混ざる。「入谷朝顔まつり」と「入谷朝顔まつり(入谷朝顔市)」が

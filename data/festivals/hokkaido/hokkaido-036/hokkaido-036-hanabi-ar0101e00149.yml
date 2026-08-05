@@ -11,7 +11,7 @@ venue:
   address: 名寄市字曙
   lat: 44.348709
   lng: 142.43917
-organizer: NPO法人なよろ観光まちづくり協会
+organizer: てっし名寄まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00149/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://nayoro-kankou.com/top/event/tesshi-festival/
+    source_name: 名寄観光まちづくり協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 本祭は12:00から20:30。花火の時刻は協会のページに記載がない
 station: JR名寄駅からタクシーで約5分

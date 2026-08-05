@@ -7,8 +7,8 @@ area:
   city: 富士市
   ward: null
 venue:
-  name: 中央公園
-  address: 富士市蓼原町
+  name: 中央公園・中央公園前 青葉通り
+  address: 静岡県富士市
   lat: 35.160361
   lng: 138.667781
 organizer: 富士まつり運営委員会
@@ -23,11 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e357468/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.fuji.shizuoka.jp/fujijikan/enjoy/kb719c00000006jt.html
+    source_name: 富士市
+    source_type: gov
+    checked_at: 2026-08-06
 station: JR富士駅からバス(吉原中央駅行きで約10分)ロゼシアター入り口・中央病院停留所から徒歩5分

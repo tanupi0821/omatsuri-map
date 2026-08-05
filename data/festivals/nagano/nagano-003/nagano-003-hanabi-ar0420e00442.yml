@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0420e00442/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.inacity.jp/kankojoho/event_kanko/inamatsuri/dai69inamatsuri/index.html
+    source_name: 伊那市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 花火は約600発。時刻・会場は市のページに記載がない
 station: JR伊那市駅から循環バスで約30分、市役所前下車すぐ

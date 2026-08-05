@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 宍喰八坂神社周辺
-  address: 海部郡海陽町久保
+  address: 徳島県海部郡海陽町久保
   lat: 33.569257
   lng: 134.300961
 organizer: 海陽町観光協会
@@ -23,12 +23,15 @@ occurrences:
     dates:
       - 2026-07-16
       - 2026-07-17
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0936e508010/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: 阿佐海岸鉄道 宍喰駅から徒歩3分
+    source_url: https://www.kaiyo-kankou.jp/event/event-961/
+    source_name: 海陽町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 宵宮（16日）は18:00から、奉納花火は20:30から。本祭（17日）は10:00から、奉納餅投げは13:00から
+station: 阿佐海岸鉄道 宍喰駅（徒歩3分）
+shrine: 宍喰八坂神社
+recurrence: 7月16日・17日
+recurrence_source: https://www.kaiyo-kankou.jp/event/event-961/

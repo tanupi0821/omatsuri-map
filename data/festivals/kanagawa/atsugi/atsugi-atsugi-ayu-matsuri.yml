@@ -11,14 +11,16 @@ venue:
   address: null
   lat: null
   lng: null
-station: 本厚木
-organizer: null
+station: 小田急小田原線 本厚木駅（東口から徒歩約15分）
+organizer: あつぎ鮎まつり実行委員会（厚木市商業観光課）
 tags:
   - 花火
 description: null
 links:
   - title: 屋台が出ると出典に記載
     url: https://hanabi.walkerplus.com/detail/ar0314e00243/
+  - title: 厚木市観光協会 第80回あつぎ鮎まつり
+    url: https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html
 occurrences:
   - year: 2026
     dates:
@@ -27,8 +29,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/atsugi-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html
+    source_name: 厚木市観光協会
+    source_type: official
+    checked_at: 2026-08-06
 stalls: yes

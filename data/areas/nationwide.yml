@@ -77,6 +77,20 @@ cities:
     slug: aichi-702
   - name: 名古屋市昭和区
     slug: aichi-703
+  - name: 名古屋市南区
+    slug: nagoya-minami
+  - name: 名古屋市天白区
+    slug: nagoya-tempaku
+  - name: 名古屋市北区
+    slug: nagoya-kita
+  - name: 名古屋市守山区
+    slug: nagoya-moriyama
+  - name: 名古屋市中村区
+    slug: nagoya-nakamura
+  - name: 名古屋市熱田区
+    slug: nagoya-atsuta
+  - name: 名古屋市東区
+    slug: nagoya-higashi
 ---
 pref: 北海道
 cities:
@@ -739,6 +753,8 @@ cities:
     slug: kagoshima-017
   - name: 霧島市
     slug: kagoshima-001
+  - name: 伊佐市
+    slug: kagoshima-701
 ---
 pref: 高知県
 cities:
@@ -955,6 +971,8 @@ cities:
     slug: miyazaki-003
   - name: 西都市
     slug: miyazaki-004
+  - name: えびの市
+    slug: miyazaki-701
 ---
 pref: 長野県
 cities:
@@ -996,6 +1014,10 @@ cities:
     slug: nagano-701
   - name: 大町
     slug: nagano-702
+  - name: 東御市
+    slug: nagano-703
+  - name: 軽井沢町
+    slug: nagano-704
 ---
 pref: 長崎県
 cities:
@@ -1103,6 +1125,8 @@ cities:
     slug: niigata-001
   - name: 新潟市
     slug: niigata-002
+  - name: 弥彦村
+    slug: niigata-701
 ---
 pref: 大分県
 cities:
@@ -1147,6 +1171,8 @@ cities:
     slug: okayama-001
   - name: 倉敷市
     slug: okayama-002
+  - name: 岡山市
+    slug: okayama-701
 ---
 pref: 沖縄県
 cities:
@@ -1423,6 +1449,8 @@ cities:
     slug: shizuoka-002
   - name: 函南町
     slug: shizuoka-003
+  - name: 小山町
+    slug: shizuoka-701
 ---
 pref: 徳島県
 cities:
@@ -1459,6 +1487,10 @@ cities:
     slug: tottori-006
   - name: 倉吉市
     slug: tottori-007
+  - name: 八頭町
+    slug: tottori-701
+  - name: 若桜町
+    slug: tottori-702
 ---
 pref: 富山県
 cities:

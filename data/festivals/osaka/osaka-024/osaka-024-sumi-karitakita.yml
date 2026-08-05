@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 苅田北小学校
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市住吉区苅田1-11-39
+  lat: 34.6038420000003
+  lng: 135.520744
 organizer: 苅田北ほほえみ協議会
 stalls: unknown
 tags: []

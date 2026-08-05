@@ -7,8 +7,8 @@ area:
   city: 東牟婁郡那智勝浦町
   ward: null
 venue:
-  name: 那智湾(ブルービーチなち)
-  address: null
+  name: ブルービーチ那智（打上げは那智漁港）
+  address: 和歌山県東牟婁郡那智勝浦町大字築地7丁目1-1
   lat: 33.644117
   lng: 135.938205
 organizer: 那智勝浦町花火大会実行委員会
@@ -23,11 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: 20:00
+    start_time: 20:15
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0730e00161/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.nachikatsuura.wakayama.jp/info/596
+    source_name: 那智勝浦町
+    source_type: gov
+    checked_at: 2026-08-06
 station: JR那智駅すぐ

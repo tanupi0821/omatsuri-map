@@ -7,11 +7,11 @@ area:
   city: ふじみ野市
   ward: null
 venue:
-  name: 東久保中央公園および周辺道路
-  address: ふじみ野市ふじみ野1-3
+  name: 東久保中央公園および周辺道路・大井東中学校
+  address: 埼玉県ふじみ野市
   lat: 35.858851
   lng: 139.514796
-organizer: おおい祭り実行委員会事務局
+organizer: おおい祭り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -27,8 +27,9 @@ occurrences:
     start_time: 12:00
     end_time: 20:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e69080/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 東武鉄道ふじみ野駅より徒歩10分
+    source_url: https://www.city.fujimino.saitama.jp/soshikiichiran/kyodosuishinka/chiikishinkogakari/ooimatsuri/16727.html
+    source_name: ふじみ野市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 模擬店の販売は11:30から
+station: 東武東上線 ふじみ野駅西口（徒歩10分）

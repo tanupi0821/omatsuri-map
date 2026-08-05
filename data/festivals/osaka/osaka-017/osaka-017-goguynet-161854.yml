@@ -7,11 +7,11 @@ area:
   city: 門真市
   ward: null
 venue:
-  name: 門真市立総合体育館(正午〜午後6時)
-  address: null
+  name: 門真市立総合体育館・門真市役所敷地内・旧第六中学校運動広場
+  address: 大阪府門真市中町1-1
   lat: null
   lng: null
-organizer: null
+organizer: ふるさと門真まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -22,10 +22,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://moriguchikadoma.goguynet.jp/2026/07/23/kadomamatsuri-3/
-    source_name: 号外NET 守口市・門真市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.kadoma.osaka.jp/soshiki/shiminbunkabu/9/5/3_1/furusatokadomamaturi/8kadomamasuri/37683.html
+    source_name: 門真市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 総合体育館は12:00〜18:00、市役所敷地内と旧第六中学校運動広場は16:00〜21:00

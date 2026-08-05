@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 泉公園
-  address: null
+  address: 熱海市泉字塩坪72-1
   lat: null
   lng: null
-station: 湯河原
+station: JR東海道線「湯河原駅」からバス約6分「道中」下車
 organizer: 伊豆湯河原温泉観光協会
 tags:
   - 花火
@@ -31,6 +31,6 @@ occurrences:
     source_url: https://www.yugawara.or.jp/event/1994/
     source_name: 湯河原温泉観光協会
     source_type: official
-    checked_at: 2026-08-05
-    note: 和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から
+    checked_at: 2026-08-06
+    note: 和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から。会場の泉公園は県境を越えた静岡県熱海市泉にある（この祭りは神奈川県湯河原町として載せている）
 stalls: unknown

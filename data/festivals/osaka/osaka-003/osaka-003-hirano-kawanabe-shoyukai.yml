@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 川辺中公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市平野区長吉川辺2-1
+  lat: 34.5975001000002
+  lng: 135.572611
 organizer: 長吉川辺地域
 stalls: unknown
 tags: []

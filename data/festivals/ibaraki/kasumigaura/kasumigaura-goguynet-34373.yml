@@ -7,8 +7,8 @@ area:
   city: かすみがうら市
   ward: null
 venue:
-  name: かすみがうら市内
-  address: null
+  name: 深谷八坂神社
+  address: 茨城県かすみがうら市坂1029-1
   lat: null
   lng: null
 organizer: null
@@ -25,7 +25,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/07/18/fujikirigionsai/
-    source_name: 号外NET 土浦市・かすみがうら市・石岡市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.kasumigaura.lg.jp/page/page000244.html
+    source_name: かすみがうら市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催日は毎年7月第4土曜日。時刻は市のページに記載がない
+shrine: 深谷八坂神社
+recurrence: 7月第4土曜日
+recurrence_source: https://www.city.kasumigaura.lg.jp/page/page000244.html

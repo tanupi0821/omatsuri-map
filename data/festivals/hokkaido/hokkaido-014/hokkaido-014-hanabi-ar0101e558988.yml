@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 白糠漁港特設会場
-  address: 白糠郡白糠町岬一丁目
+  address: 北海道白糠郡白糠町岬1丁目228番地
   lat: 42.952793
   lng: 144.086007
-organizer: null
+organizer: 港inしらぬか花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -23,11 +23,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e558988/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.shiranuka.lg.jp/section/keizai/h8v21a0000001jnq.html
+    source_name: 白糠町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: ステージイベントは16:30から。予備日は8月23日
 station: JR白糠駅から徒歩15分

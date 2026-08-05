@@ -7,11 +7,11 @@ area:
   city: 所沢市
   ward: null
 venue:
-  name: 所沢市内
-  address: null
+  name: ベルーナドーム
+  address: 埼玉県所沢市大字上山口2135
   lat: null
   lng: null
-organizer: null
+organizer: ライオンズ夏祭り2026 事務局
 stalls: yes
 tags: []
 description: null
@@ -26,7 +26,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://tokorozawa.goguynet.jp/2026/07/05/lions-natumaturi/
-    source_name: 号外NET 所沢市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.seibulions.jp/special/lionsnatsumatsuri/
+    source_name: 埼玉西武ライオンズ
+    source_type: official
+    checked_at: 2026-08-06
+    note: 盆踊り（LIONS BON-DANCE SHOW）は19:30〜20:00、配布物は10:00〜18:00

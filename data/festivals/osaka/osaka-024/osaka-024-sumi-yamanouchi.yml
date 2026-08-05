@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 山之内元町児童遊園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市住吉区山之内元町3番
+  lat: 34.5975611000004
+  lng: 135.5052219
 organizer: 山之内元町町会
 stalls: unknown
 tags: []

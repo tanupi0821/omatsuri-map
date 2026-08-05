@@ -7,11 +7,11 @@ area:
   city: 八戸市
   ward: null
 venue:
-  name: 八戸市中心商店街(三日町・十三日町・ヤグラ横町)
-  address: 八戸市三日町
+  name: 八戸市中心商店街（十三日町・三日町・ヤグラ横町）
+  address: 青森県八戸市
   lat: 40.510066
   lng: 141.491467
-organizer: null
+organizer: 八戸商工会議所・株式会社まちづくり八戸
 stalls: yes
 tags: []
 description: null
@@ -22,13 +22,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-17
+      - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e188528/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.8town.co.jp/project/tanabata/
+    source_name: 株式会社まちづくり八戸
+    source_type: official
+    checked_at: 2026-08-06
+    note: 初日（17日）は17:00から、18日・19日は18:00から。いずれも21:00まで
 station: JR本八戸駅から徒歩10分

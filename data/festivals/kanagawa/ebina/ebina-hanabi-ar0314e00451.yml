@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 海老名運動公園
-  address: 海老名市社家
+  address: 神奈川県海老名市
   lat: 35.42906
   lng: 139.374398
-organizer: えびな市民まつり実行委員会事務局
+organizer: 海老名市／えびな市民まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -23,11 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-11-15
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 18:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0314e00451/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.ebina.kanagawa.jp/shisei/profile/1008687/1008890.html
+    source_name: 海老名市
+    source_type: gov
+    checked_at: 2026-08-06
 station: JR・小田急・相鉄海老名駅、海老名市役所から無料シャトルバスで約20分

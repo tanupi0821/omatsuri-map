@@ -1,0 +1,29 @@
+id: kiryu-gotouti-kitakanto-localbook-5112
+name: 桐生八木節まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 桐生市
+  ward: null
+venue:
+  name: 桐生市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakanto.localbook.work/2026/05/07/kiryufestival2026-musicculture/
+    source_name: 北関東ITトレンド
+    source_type: media
+    checked_at: 2026-08-06

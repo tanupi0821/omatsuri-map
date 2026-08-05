@@ -26,9 +26,12 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71658/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.hanedajinja.com/gyouji/index.htm
+    source_name: 羽田神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開催日は毎年7月最終の土曜・日曜。日曜の午後に町内神輿の連合渡御が行われる
 station: 京急電鉄大鳥居駅から徒歩10分
+shrine: 羽田神社
+recurrence: 7月最終土曜日・日曜日
+recurrence_source: https://www.hanedajinja.com/gyouji/index.htm

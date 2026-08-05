@@ -26,7 +26,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/07/15/kakiokamatsuri/
-    source_name: 号外NET 土浦市・かすみがうら市・石岡市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.ishioka.lg.jp/ishiokameguri/omatsuri/page001096.html
+    source_name: 石岡市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 正式名称は「八坂神社祇園祭礼」。開催日は毎年7月第4日曜日を含む土曜・日曜
+shrine: 八坂神社
+recurrence: 7月第4日曜日を含む土曜・日曜
+recurrence_source: https://www.city.ishioka.lg.jp/ishiokameguri/omatsuri/page001096.html

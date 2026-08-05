@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 真陽小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区二葉町1-5-5
+  lat: 34.6555025333489
+  lng: 135.1512872
 organizer: 真陽盆おどり大会応援団
 stalls: yes
 tags: []

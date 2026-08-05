@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 此花公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市此花区春日出北1-5
+  lat: 34.6824893800005
+  lng: 135.450545300001
 organizer: null
 stalls: unknown
 tags: []

@@ -11,7 +11,7 @@ venue:
   address: 長岡市
   lat: 37.447323
   lng: 138.85119
-organizer: 長岡市観光・交流部観光課
+organizer: 長岡商工会議所・長岡観光コンベンション協会・長岡花火財団ほか
 stalls: yes
 tags: []
 description: null
@@ -22,15 +22,16 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
       - 2026-08-03
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e73965/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.nagaoka.niigata.jp/kankou/event/nagaokamatsuri.html
+    source_name: 長岡市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 8月1日は平和祭と柿川灯籠流し、2日・3日が大花火大会（19:20〜21:10）
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2007_Nagaoka_Festival_004.jpg/1280px-2007_Nagaoka_Festival_004.jpg
     width: 1000
@@ -46,4 +47,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:%E9%95%B7%E5%B2%A1%E3%81%BE%E3%81%A4%E3%82%8A%E5%BE%A9%E8%88%88%E7%A5%88%E9%A1%98%E8%8A%B1%E7%81%AB%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9.jpg
-station: JR長岡駅から徒歩3分
+station: JR上越新幹線・信越本線 長岡駅

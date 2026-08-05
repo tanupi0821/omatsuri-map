@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 旧JR新冠駅前広場周辺
-  address: 新冠郡新冠町字本町
+  address: 北海道新冠郡新冠町
   lat: 42.360585
   lng: 142.3124
 organizer: null
@@ -26,9 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e510355/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.niikappu.jp/event/matsuri.html
+    source_name: 新冠町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月18日は21:00まで、19日は20:00まで。開始時刻は町のページに記載がない
 station: 札幌駅から高速バスで新冠停留所下車、徒歩5分

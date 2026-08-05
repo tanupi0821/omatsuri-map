@@ -8,7 +8,7 @@
   "愛知県"
  ],
  "url": "https://okazaki.local-now.jp/",
- "skipped": "REST 不可 (401)",
+ "skipped": "robots取得不可 (UND_ERR_CONNECT_TIMEOUT)",
  "terms": [
   "盆踊り",
   "夏祭り",

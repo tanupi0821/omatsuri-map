@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 下鎌田小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区東瑞江3-11-1
+  lat: 35.691021
+  lng: 139.893669
 organizer: 下鎌田町会
 tags: []
 description: null

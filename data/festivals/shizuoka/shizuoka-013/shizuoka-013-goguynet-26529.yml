@@ -7,8 +7,8 @@ area:
   city: 焼津市
   ward: null
 venue:
-  name: 焼津市内
-  address: null
+  name: 焼津神社
+  address: 静岡県焼津市焼津二丁目7番2号
   lat: null
   lng: null
 organizer: null
@@ -23,10 +23,14 @@ occurrences:
     dates:
       - 2026-08-12
       - 2026-08-13
-    start_time: null
+    start_time: 10:00
     end_time: null
     status: confirmed
-    source_url: https://fujieda-yaizu.goguynet.jp/2026/07/22/aramatsuri/
-    source_name: 号外NET 藤枝市・焼津市・島田市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://yaizujinja.or.jp/annai/aramaturi/
+    source_name: 焼津神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 神輿は朝10時に出発し、夜11時頃に帰着する。一区藤組・二区竹組・三区柳組・四区桜組の四町の祭典委員が運営
+shrine: 焼津神社
+recurrence: 8月12日・13日
+recurrence_source: https://yaizujinja.or.jp/annai/aramaturi/

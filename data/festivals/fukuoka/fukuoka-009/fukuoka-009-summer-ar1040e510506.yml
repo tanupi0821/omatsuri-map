@@ -26,9 +26,12 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e510506/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.dazaifutenmangu.or.jp/omatsuri/25nichisai
+    source_name: 太宰府天満宮
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月24日が夏越祭（14:00〜）、25日が御誕生祭（11:00〜）と千灯明（20:00〜）。茅の輪神事・子供みこし・露店が出る
 station: 西日本鉄道太宰府線太宰府駅から徒歩5分
+shrine: 太宰府天満宮
+recurrence: 7月24日・25日
+recurrence_source: https://www.dazaifutenmangu.or.jp/omatsuri/25nichisai

@@ -7,11 +7,11 @@ area:
   city: 帯広市
   ward: null
 venue:
-  name: 帯広市内
-  address: null
+  name: 歴舟川 大樹橋上流河川敷
+  address: 北海道広尾郡大樹町南通1丁目12番地先
   lat: null
   lng: null
-organizer: null
+organizer: 大樹町観光協会・大樹町
 stalls: unknown
 tags: []
 description: null
@@ -22,10 +22,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 20:30
     status: confirmed
-    source_url: https://obihiro.goguynet.jp/2026/07/29/taiki_tokachi_obihiro_rekifunegawa_seiryuumatsuri20260802/
-    source_name: 号外NET 帯広市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html
+    source_name: 大樹町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催地は広尾郡大樹町。号外NET帯広版から取り込んだため area.city が帯広市になっているので要修正

@@ -7,11 +7,11 @@ area:
   city: さいたま市北区
   ward: null
 venue:
-  name: JR日進駅南口 日進七夕通り周辺
-  address: さいたま市北区日進町
+  name: 日進七夕通り周辺・日進小学校校庭
+  address: 埼玉県さいたま市北区日進町
   lat: 35.931579
   lng: 139.606163
-organizer: null
+organizer: 大宮日進七夕まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -26,9 +26,9 @@ occurrences:
     start_time: 15:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e72577/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://visitsaitamacity.jp/events/26
+    source_name: 公益社団法人さいたま観光国際協会
+    source_type: official
+    checked_at: 2026-08-06
     note: 掲載の2日付は期間の初日と最終日
-station: JR日進駅南口からすぐ
+station: JR川越線 日進駅南口

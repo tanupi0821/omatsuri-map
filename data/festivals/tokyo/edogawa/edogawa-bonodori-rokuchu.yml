@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 北小岩小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区北小岩2-15-1
+  lat: 35.74015089
+  lng: 139.8852015
 organizer: 六中自治会
 tags: []
 description: null

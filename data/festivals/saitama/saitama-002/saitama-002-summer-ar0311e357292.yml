@@ -7,8 +7,8 @@ area:
   city: 秩父郡長瀞町
   ward: null
 venue:
-  name: 長瀞岩畳周辺
-  address: 秩父郡長瀞町大字長瀞地内
+  name: 長瀞岩畳
+  address: 埼玉県秩父郡長瀞町長瀞
   lat: 36.09486
   lng: 139.115663
 organizer: 長瀞船玉まつり実行委員会
@@ -25,8 +25,11 @@ occurrences:
     start_time: 17:00
     end_time: 20:45
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e357292/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.nagatoro.gr.jp/spot/matsuri/
+    source_name: 長瀞町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開催日は毎年8月15日。時刻は観光協会のページに記載がない
 station: 秩父鉄道秩父本線長瀞駅から徒歩5分
+recurrence: 8月15日
+recurrence_source: https://www.nagatoro.gr.jp/spot/matsuri/

@@ -7,8 +7,8 @@ area:
   city: 上川郡当麻町
   ward: null
 venue:
-  name: 当麻町公民館まとまーる前特設会場(当麻町3条東)
-  address: 上川郡当麻町三条東二丁目
+  name: 公民館まとまーる前特設会場
+  address: 北海道上川郡当麻町
   lat: 43.82814
   lng: 142.508648
 organizer: 蟠龍まつり実行委員会事務局
@@ -26,8 +26,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e01012/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.tohma.hokkaido.jp/all-about/04/01/1807
+    source_name: 当麻町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催日は毎年8月第1日曜日。花火の時刻は町のページに記載がない
 station: JR当麻駅からタクシーで約5分
+recurrence: 8月第1日曜日
+recurrence_source: https://www.town.tohma.hokkaido.jp/all-about/04/01/1807

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 伝法コミュニティ広場
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市此花区伝法2-1
+  lat: 34.6871811000005
+  lng: 135.456791700001
 organizer: null
 stalls: unknown
 tags: []

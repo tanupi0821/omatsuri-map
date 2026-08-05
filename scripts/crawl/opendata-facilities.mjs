@@ -56,11 +56,78 @@ const SOURCES = [
     url: 'https://data.bodik.jp/dataset/a3b02650-8722-4555-b813-f07ba49d0c12/resource/86dd60b7-b3a2-4875-9f08-fe5d6358660c/download/15_meito_toshikouen20240401.csv',
     note: '名古屋市 都市公園一覧（名東区）',
   },
-  // --- 東京都 ---------------------------------------------------------------
+  {
+    name: 'nagoya-midori-koen',
+    url: 'https://data.bodik.jp/dataset/a3b02650-8722-4555-b813-f07ba49d0c12/resource/d7de2c3d-f2af-4d4d-96ae-3adb043753d4/download/14_midori_toshikouen20240401.csv',
+    note: '名古屋市 都市公園一覧（緑区）',
+  },
+  // --- 大阪府大阪市 ---------------------------------------------------------
+  // 「マップナビおおさか」のポイントデータ。所在地と緯度経度を持ち、
+  // **児童遊園・広場・地域集会所まで入っている**ので町内会規模の会場に効く
+  {
+    name: 'osaka-mapnavi-gakko',
+    url: 'https://www.mapnavi.city.osaka.lg.jp/osakacity/osakacity/opendatafile/map_1/CSV/opendata_1002.csv',
+    note: 'マップナビおおさか 施設情報（学校・保育所）',
+  },
+  {
+    name: 'osaka-mapnavi-koen',
+    url: 'https://www.mapnavi.city.osaka.lg.jp/osakacity/osakacity/opendatafile/map_1/CSV/opendata_1003.csv',
+    note: 'マップナビおおさか 施設情報（公園・児童遊園・広場・スポーツ）',
+  },
+  {
+    name: 'osaka-mapnavi-kaikan',
+    url: 'https://www.mapnavi.city.osaka.lg.jp/osakacity/osakacity/opendatafile/map_1/CSV/opendata_1004.csv',
+    note: 'マップナビおおさか 施設情報（会館・ホール・地域集会所）',
+  },
+
+  // --- 兵庫県神戸市 ---------------------------------------------------------
+  // 神戸市は学校一覧をオープンデータにしていないが、**小中学校はほぼ全部が指定避難所**なので
+  // 避難所の一覧に住所が載っている。大阪市と同じ wagmap の CSV
+  {
+    name: 'kobe-hinanjo-indoor',
+    url: 'https://www2.wagmap.jp/kobecity/kobecity/opendata/map_999/CSV/opendata_41.csv',
+    note: '神戸市 屋内の緊急避難場所（学校の住所）',
+  },
+  {
+    name: 'kobe-hinanjo-outdoor',
+    url: 'https://www2.wagmap.jp/kobecity/kobecity/opendata/map_999/CSV/opendata_42.csv',
+    note: '神戸市 屋外の緊急避難場所（校庭・広場）',
+  },
+  {
+    name: 'kobe-fukushi-center',
+    url: 'https://www2.wagmap.jp/kobecity/kobecity/opendata/map_999/CSV/opendata_40.csv',
+    note: '神戸市 地域福祉センター一覧',
+  },
+
+  // --- 東京都（全域） -------------------------------------------------------
+  // 東京都総務局「東京都防災マップ」。**23区市町村を横断して**施設名・所在地住所・
+  // 緯度経度を持つ。区ごとに公園一覧を探して回るより、これ 1 本の方が広く効く。
+  // 小中学校・公園・広場が入っている
+  {
+    name: 'tokyo-hinanjo',
+    url: 'https://www.opendata.metro.tokyo.lg.jp/soumu/130001_evacuation_center.csv',
+    note: '東京都 避難所一覧（全区市町村）',
+  },
+  {
+    name: 'tokyo-hinanbasho',
+    url: 'https://www.opendata.metro.tokyo.lg.jp/soumu/130001_evacuation_area.csv',
+    note: '東京都 避難場所一覧（全区市町村）',
+  },
+
+  // --- 東京都（区ごと） -----------------------------------------------------
   {
     name: 'adachi-koen',
     url: 'https://www.opendata.metro.tokyo.lg.jp/adachi/131211_adachiku_toshitoritukouen.csv',
     note: '足立区 都市公園・都立公園一覧',
+  },
+  // 足立区「あだちの盆踊り・あだちのまつり」の一覧そのもの。
+  // **表に「住所（地図リンク）」の列がある**のに、取り込みのときは会場名しか
+  // 拾っていなかった。100 件ぶんの住所がここに載っている
+  {
+    name: 'adachi-bonfes2026',
+    ext: 'html',
+    url: 'https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html',
+    note: '足立区 あだちの盆踊り・あだちのまつり 2026（会場の住所つき）',
   },
   {
     name: 'edogawa-eventspace',
@@ -74,18 +141,27 @@ mkdirSync(OUT, { recursive: true });
 let got = 0;
 let skipped = 0;
 for (const s of SOURCES) {
-  const path = join(OUT, `${s.name}.csv`);
+  const path = join(OUT, `${s.name}.${s.ext ?? 'csv'}`);
   if (existsSync(path)) {
     skipped++;
     continue;
   }
-  const r = await fetch(s.url, { headers: { 'User-Agent': UA } });
-  if (!r.ok) {
-    console.warn(`  ! ${s.name}: ${r.status}`);
+  // 1 か所が落ちても残りは取りにいく。
+  // **マップナビおおさかは TLS の DH 鍵が短く、Node の fetch が接続を拒む**
+  // （`ERR_SSL_DH_KEY_TOO_SMALL`）。curl では取れるので、その場合は
+  //   curl -o data/raw/opendata/osaka-mapnavi-koen.csv <URL>
+  // で手当てする。取得済みならこのスクリプトは触らない
+  let body;
+  try {
+    const r = await fetch(s.url, { headers: { 'User-Agent': UA } });
+    if (!r.ok) throw new Error(String(r.status));
+    body = Buffer.from(await r.arrayBuffer());
+  } catch (e) {
+    console.warn(`  ! ${s.name}: ${e.message}（手動で取得して ${s.name}.csv に置くこと）`);
     await sleep(DELAY_MS);
     continue;
   }
-  writeFileSync(path, Buffer.from(await r.arrayBuffer()));
+  writeFileSync(path, body);
   console.log(`  ${s.name} <- ${s.note}`);
   got++;
   await sleep(DELAY_MS);

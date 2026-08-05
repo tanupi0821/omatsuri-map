@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 池田小学校 校庭
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区池田上町19
+  lat: 34.6678811333656
+  lng: 135.1449296
 organizer: 池田ふれあいのまちづくり協議会
 stalls: yes
 tags: []

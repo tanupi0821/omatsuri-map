@@ -7,11 +7,11 @@ area:
   city: 十日町市
   ward: null
 venue:
-  name: 十日町市
-  address: 十日町市
+  name: 駅通り・本町通りほか
+  address: 新潟県十日町市
   lat: 37.134878
   lng: 138.756376
-organizer: null
+organizer: 十日町市観光協会
 stalls: yes
 tags: []
 description: null
@@ -22,13 +22,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-25
+      - 2026-08-26
       - 2026-08-27
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e196957/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.tokamachishikankou.jp/event/tokamashioomatsuri/
+    source_name: 十日町市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 初日（25日）の民謡流し・明石万灯は19:00から20:15。開催日は例年8月25日〜27日
 station: JR十日町駅から徒歩すぐ

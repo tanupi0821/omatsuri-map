@@ -7,8 +7,8 @@ area:
   city: 敦賀市
   ward: null
 venue:
-  name: 気比の松原海岸沖合
-  address: null
+  name: 名勝「気比の松原」
+  address: 福井県敦賀市松島町
   lat: 35.657645
   lng: 136.051177
 organizer: 株)港都つるが観光協会
@@ -23,11 +23,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
+    start_time: 19:30
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0518e00677/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://tsuruga-kanko.jp/special/sp_fireworks/
+    source_name: 敦賀観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: とうろう流しは18:30から、花火は19:30から
 station: JR敦賀駅からタクシーで約10分

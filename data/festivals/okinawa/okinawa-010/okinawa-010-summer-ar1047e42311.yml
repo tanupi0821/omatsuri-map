@@ -7,11 +7,11 @@ area:
   city: 国頭郡本部町
   ward: null
 venue:
-  name: 大浜多目的広場
-  address: 国頭郡本部町大浜872-5
+  name: 大浜多目的広場・沖縄県栽培漁業センター・渡久地港
+  address: 沖縄県国頭郡本部町字大浜872番地5
   lat: 26.656578
   lng: 127.883511
-organizer: 本部まつり実行委員会事務局
+organizer: 本部まつり実行委員会（本部町企画商工観光課内）
 stalls: yes
 tags: []
 description: null
@@ -23,11 +23,11 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1047e42311/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.town.motobu.okinawa.jp/doc/2026060300025/
+    source_name: 本部町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月18日は14:00〜21:00、19日は10:00〜21:00

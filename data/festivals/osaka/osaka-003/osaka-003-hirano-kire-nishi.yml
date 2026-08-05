@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 喜連西中央公園
-  address: null
-  lat: null
-  lng: null
+  address: 大阪市平野区喜連西2-1
+  lat: 34.6135768800002
+  lng: 135.5414435
 organizer: 喜連西地域
 stalls: unknown
 tags: []

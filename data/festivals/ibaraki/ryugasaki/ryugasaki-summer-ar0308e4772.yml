@@ -7,11 +7,11 @@ area:
   city: 龍ケ崎市
   ward: null
 venue:
-  name: 龍ケ崎市街地
-  address: 龍ケ崎市根町
+  name: 根町 撞舞通り
+  address: 茨城県龍ケ崎市根町
   lat: 35.91161
   lng: 140.182326
-organizer: 龍ケ崎市商工観光課
+organizer: 龍ケ崎市撞舞保存会
 stalls: yes
 tags:
   - 重要無形民俗文化財
@@ -28,8 +28,11 @@ occurrences:
     start_time: 18:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e4772/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 関東鉄道竜ケ崎線竜ケ崎駅から徒歩15分
+    source_url: https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html
+    source_name: 龍ケ崎市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 「午後6時頃から」と市のページに記載。八坂神社祇園祭の最終日に行われる
+station: 関東鉄道竜ヶ崎線 竜ヶ崎駅
+recurrence: 7月下旬（八坂神社祇園祭の最終日）
+recurrence_source: https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html

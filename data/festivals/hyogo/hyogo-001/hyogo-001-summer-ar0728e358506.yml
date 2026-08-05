@@ -7,11 +7,11 @@ area:
   city: 神戸市中央区
   ward: null
 venue:
-  name: 生田神社
-  address: 神戸市中央区下山手通1-2-1
+  name: 生田神社（境内の大海神社）
+  address: 兵庫県神戸市中央区下山手通1丁目2-1
   lat: 34.694789
   lng: 135.190649
-organizer: null
+organizer: 生田神社
 stalls: yes
 tags: []
 description: null
@@ -22,13 +22,15 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
+      - 2026-08-08
       - 2026-08-09
     start_time: 15:00
     end_time: 20:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e358506/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://ikutajinja.or.jp/info/daikai
+    source_name: 生田神社
+    source_type: official
+    checked_at: 2026-08-06
     note: 掲載の2日付は期間の初日と最終日
 station: 阪急電鉄神戸三宮駅西口からいくたロードを北へ徒歩5分
+shrine: 生田神社

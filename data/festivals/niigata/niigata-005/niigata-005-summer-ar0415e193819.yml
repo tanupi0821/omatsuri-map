@@ -7,11 +7,11 @@ area:
   city: 燕市
   ward: null
 venue:
-  name: 燕市吉田駅前他
-  address: 燕市吉田堤町1
+  name: 吉田駅前広場ほか
+  address: 新潟県燕市吉田
   lat: 37.687056
   lng: 138.878424
-organizer: 吉田まつり協賛会
+organizer: 吉田まつり協賛会（つばめ商工会吉田本所）
 stalls: yes
 tags: []
 description: null
@@ -26,9 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e193819/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.tsubame.niigata.jp/soshiki/sangyo_shinko/1/3/14427.html
+    source_name: 燕市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は燕市のページに記載がない
 station: JR吉田駅すぐ

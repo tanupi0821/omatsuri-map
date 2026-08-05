@@ -25,8 +25,9 @@ occurrences:
     start_time: 17:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e115393/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 近畿日本鉄道富田林駅から徒歩10分
+    source_url: https://www.city.tondabayashi.lg.jp/soshiki/36/76474.html
+    source_name: 富田林市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 点灯は18:30から21:00。雨天時は8月23日に順延
+station: 近鉄長野線 富田林駅・富田林西口駅

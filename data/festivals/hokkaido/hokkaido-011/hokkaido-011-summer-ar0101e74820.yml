@@ -7,11 +7,11 @@ area:
   city: 伊達市
   ward: null
 venue:
-  name: 道の駅 だて歴史の杜
-  address: 伊達市松ヶ枝町34-1
+  name: 総合公園だて歴史の杜 カルチャーセンター前広場ほか
+  address: 北海道伊達市
   lat: 42.470483
   lng: 140.875614
-organizer: 伊達市商工観光課
+organizer: 伊達武者まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -26,9 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74820/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR伊達紋別駅駅からバスで伊達道の駅・カルチャーセンター前下車、徒歩すぐ
+    source_url: https://www.city.date.hokkaido.jp/hotnews/detail/00007654.html
+    source_name: 伊達市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 前夜祭（7月31日）は15:00〜21:00、本祭（8月1日）は10:00〜15:00と18:00〜22:00
+station: JR室蘭本線 伊達紋別駅

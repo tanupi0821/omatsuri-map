@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 真壁町市街地
-  address: 桜川市真壁町真壁
+  address: 茨城県桜川市真壁町
   lat: 36.278065
   lng: 140.09966
 organizer: 桜川市商工観光課
@@ -26,13 +26,18 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-23
+      - 2026-07-24
+      - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:50
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e4843/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.kankou-sakuragawa.jp/page/page000031.html
+    source_name: 桜川市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 23日は14:00〜19:00、24日は15:00〜19:30、25日は19:00〜21:15、26日は18:50〜21:50。五所駒瀧神社の祭礼
 station: JR岩瀬駅からタクシーで約20分
+shrine: 五所駒瀧神社
+recurrence: 7月23日〜26日
+recurrence_source: https://www.kankou-sakuragawa.jp/page/page000031.html

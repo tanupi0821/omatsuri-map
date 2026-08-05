@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 知覧まち商店街
-  address: 南九州市知覧町郡
+  address: 鹿児島県南九州市知覧町郡6204番地一帯
   lat: 31.376514
   lng: 130.438632
-organizer: 知覧ねぷた祭実行員会 事務局
+organizer: 知覧ねぷた祭実行委員会
 stalls: yes
 tags: []
 description: null
@@ -22,11 +22,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1046e187805/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.minamikyushu.lg.jp/kankosite/event/5566.html
+    source_name: 南九州市
+    source_type: gov
+    checked_at: 2026-08-06
 station: JR平川駅から徒歩20分

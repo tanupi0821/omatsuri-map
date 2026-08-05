@@ -57,17 +57,27 @@ for (const a of loadAreaList(ROOT)) {
 const generated = new Map();
 const seq = new Map();
 
+/**
+ * 市区町村名 → エリア定義。
+ *
+ * **同じ県に同名の候補が複数あるとき**、以前は null を返して create() に流していた。
+ * ところが create() は byCity に足すので、次の記事でも候補が増えて null のまま
+ * になり、**同じ市に slug が次々と作られる**。実際に多摩市の同じ記事が
+ * tokyo-702 と tokyo-704 の 2 か所に登録された。
+ * 指している場所が同じ（市＋区が同じ）なら 1 つにまとめて先頭を使う。
+ * 本当に別の場所（横浜市緑区と相模原市緑区のような同名の区）なら null のまま。
+ */
 function lookup(city, pref) {
-  const cands = byCity.get(city) ?? [];
+  const cands = (byCity.get(city) ?? []).filter((a) => !pref || a.pref === pref);
   if (!cands.length) return null;
-  const hit = cands.filter((a) => a.pref === pref);
-  if (hit.length === 1) return hit[0];
-  if (cands.length === 1 && !pref) return cands[0];
-  return null;
+  const uniq = [...new Map(cands.map((a) => [`${a.city}|${a.ward ?? ''}`, a])).values()];
+  return uniq.length === 1 ? uniq[0] : null;
 }
 
 function create(city, pref) {
   if (!/[市区町村]$/.test(city)) return null;
+  // 既にこの県で登録済みの名前なら作らない（上記の暴走を止める最後の砦）
+  if ((byCity.get(city) ?? []).some((a) => a.pref === pref)) return null;
   const p = byName(pref);
   if (!p) return null;
   const used = new Set([...byCity.values()].flat().map((r) => r.citySlug));
@@ -121,6 +131,96 @@ function coverage(areas) {
   // 同じ市が何度も出るのを落とす
   const seen = new Set();
   return out.filter((x) => (seen.has(x.full) ? false : (seen.add(x.full), true)));
+}
+
+/**
+ * 市区町村の辞書（県 → 市区町村名の集合）。
+ *
+ * **行政区域が「群馬県」までしか無い媒体が 59 あり、そこに 562 記事ある。**
+ * しかも北関東・山形・鳥取・宮崎・福井といった、このサイトがいちばん薄い県ばかり。
+ * 市が決められないという理由で捨てていたが、**題名に市名が出ていれば決まる**。
+ *
+ * 辞書は名鑑の「行政区域」欄そのものから作る（1,736 媒体分を集めると 1,397 件）。
+ * 全国の市区町村表を別に持ち込むより、出典と同じ表記で揃うぶん確実。
+ */
+const GAZETTEER = new Map();
+{
+  const idxPath = join(ROOT, 'data', 'raw', 'gotouti', 'index.json');
+  const src = existsSync(idxPath) ? JSON.parse(readFileSync(idxPath, 'utf8')).items : [];
+  const put = (pref, city) => {
+    if (!GAZETTEER.has(pref)) GAZETTEER.set(pref, new Set());
+    GAZETTEER.get(pref).add(city);
+  };
+  for (const it of src) {
+    for (const a of it.areas ?? []) {
+      const p = parseArea(a);
+      if (!p?.city) continue;
+      put(p.pref, typeof p.city === 'string' ? p.city : p.city.city + p.city.ward);
+    }
+  }
+  for (const a of loadAreaList(ROOT)) {
+    put(a.pref, a.city);
+    for (const w of a.wards ?? []) put(a.pref, w.name);
+  }
+}
+
+/**
+ * 県だけしか分からない媒体で、題名から市区町村を決める。
+ * **本文ではなく題名だけを見る**（本文には近隣の市の名前も出るため）。
+ * 2 文字の地名（原村など）は誤爆しやすいので使わない。
+ */
+function cityFromTitle(title, prefs) {
+  const hits = [];
+  for (const pref of prefs) {
+    for (const c of GAZETTEER.get(pref) ?? []) {
+      if (c.length < 3) continue;
+      if (title.includes(c)) hits.push({ pref, name: c, full: c });
+    }
+  }
+  if (!hits.length) return null;
+  // 「つくば市」と「つくばみらい市」が両方当たることがある。長い方だけ残す
+  const longest = hits.filter((h) => !hits.some((o) => o !== h && o.full.includes(h.full)));
+  return longest.length === 1 ? longest[0] : null;
+}
+
+/** 実在の市区町村名か（辞書の全県ぶんを串刺しで見る） */
+const ALL_CITIES = new Set([...GAZETTEER.values()].flatMap((s2) => [...s2]));
+const isRealCity = (c) => ALL_CITIES.has(c);
+
+/**
+ * 文中に出てくる**実在する市区町村名**を全部返す。
+ *
+ * 正規表現で `.{2,6}[市区町村]` と書くと貪欲に伸びて、
+ * 「西都市中心市街地」から「西都市中心市」という実在しない名前を作ってしまう。
+ * 市区町村で終わる位置ごとに、長い方から辞書に当てる。
+ */
+function citiesIn(text) {
+  const out = [];
+  const s = String(text ?? '');
+  for (let i = 0; i < s.length; i++) {
+    if (!/[市区町村]/.test(s[i])) continue;
+    for (let L = 7; L >= 2; L--) {
+      if (i - L + 1 < 0) continue;
+      const c = s.slice(i - L + 1, i + 1);
+      if (ALL_CITIES.has(c)) { out.push(c); break; }
+    }
+  }
+  return [...new Set(out)];
+}
+
+/**
+ * 本文の「住所：◯◯県△△市…」が掲載市と違うなら、その記事は別の市の祭り。
+ * 「くりこま夜市マーケット（住所：宮城県栗原市…）」を登米市に入れていた。
+ */
+function otherCityInBody(body, own, name) {
+  const m = body.match(/住\s*所\s*[：:]?\s*([^\s、。]{6,40})/);
+  if (!m) return false;
+  const pref = PREF_NAMES.find((p) => m[1].includes(p));
+  if (!pref) return false;
+  const rest = m[1].slice(m[1].indexOf(pref) + pref.length);
+  const c = (rest.match(/^(.+?[市区町村])/) ?? [])[1];
+  if (!c || !isRealCity(c)) return false;
+  return c !== own && c !== name && !own.includes(c);
 }
 
 /** 守備範囲の 1 件をエリア定義に結びつける */
@@ -236,7 +336,7 @@ function pickOrganizer(body) {
  * `_article.mjs` の NOT_FESTIVAL に加えて、この入口で実際に混ざったものを足す。
  */
 // 後半（ビアホール〜）は店の企画。「納涼ビアホール」「流しそうめん大会」は地域の祭りではない
-const NOT_FESTIVAL_EXTRA = /マラソン|駅伝|清掃|イルミネーション|カラオケ|ライブ|物産展|献血|講演|セミナー|説明会|表彰|選挙|募集|求人|クーポン|プレゼントキャンペーン|福袋|初売り|婚活|献花|追悼|慰霊祭|供養|法要|プロ野球|ボートレース|競馬|パチンコ|閉館|リニューアル|ビアホール|ビアガーデン|流しそうめん|ファッションショー|ビュッフェ|バイキング|フリーマーケット|マルシェ|謎解き|eスポーツ|婚礼/;
+const NOT_FESTIVAL_EXTRA = /マラソン|駅伝|清掃|イルミネーション|カラオケ|ライブ|物産展|献血|講演|セミナー|説明会|表彰|選挙|募集|求人|クーポン|プレゼントキャンペーン|福袋|初売り|婚活|献花|追悼|慰霊祭|供養|法要|プロ野球|ボートレース|競馬|パチンコ|閉館|リニューアル|ビアホール|ビアガーデン|流しそうめん|ファッションショー|大学祭|学園祭|名大祭|学祭|ビュッフェ|バイキング|フリーマーケット|マルシェ|体験会|ベイブレード|謎解き|eスポーツ|婚礼/;
 
 /**
  * 「国立市内の盆踊り」「名古屋駅前・レジャック跡地で盆踊り」のように、
@@ -244,6 +344,36 @@ const NOT_FESTIVAL_EXTRA = /マラソン|駅伝|清掃|イルミネーション|
  * どの祭りを指すのか決まらないので、載せると利用者が現地に行けない。
  */
 const ROUNDUP_NAME = /[市区町村]内(の|で)|情報まとめ|まとめ$|一覧$|[はがで]\s*(盆踊り|夏祭り|夏まつり|縁日)$|特集/;
+
+/**
+ * 名前として使えない切れ端を落とす。**ここは全部このデータで実際に出たもの**。
+ *
+ *   「/23（土）24（日）浦安市堀江・久助稲荷神社にて久助稲荷大祭」 日付ごと切り出した
+ *   「までです。 住吉神社例大祭期間中（7/14」                     文の途中
+ *   「”のぼり”がお祭りを感じさせますね」                          地の文
+ *   「おんまくってどんな祭り？」                                  見出しの問いかけ
+ *   「㈯夏まつり」「・花火大会」「【第32回まほろば夏まつり」        記号から始まる
+ */
+function brokenName(n) {
+  if (/^[^ぁ-んァ-ヶ一-鿿A-Za-z0-9]/.test(n)) return true;      // 記号・スラッシュ始まり
+  if (/[。？?！!、]/.test(n)) return true;                        // 文が混ざっている
+  if (/[【（(「][^】）)」]*$/.test(n)) return true;               // 括弧が閉じていない
+  if (/[】）)」]/.test(n) && !/[【（(「]/.test(n)) return true;   // 閉じ括弧だけ
+  if (/にて|期間中|ですね|でしょう|しましょう|おどろう|どんな|について|とは$/.test(n)) return true;
+  if (/^(ピカチュウ|AIフォト)/.test(n)) return true;              // 見出しの飾り
+  // 絵文字が入る題名は本文の呼びかけ（「富山最大のお祭り🪅楽しいな」）
+  if (/[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B00}-\u{2BFF}]/u.test(n)) return true;
+  // 「…楽しいな」「…だね」のような口語で終わるものは祭りの名前ではない
+  if (/(いな|しいな|だね|ですね|かな)$/.test(n)) return true;
+  if (/[㈪-㈰㊊-㊐]/.test(n)) return true;                        // 丸囲みの曜日
+  return false;
+}
+
+/**
+ * 商業施設・店舗の集客企画。地域の祭りではない。
+ * 「イオンモール富谷 納涼祭」「Suicaのペンギン夏まつり」「そよら金剛 誕生祭」など。
+ */
+const COMMERCIAL = /イオンモール|イオンスタイル|アリオ|ららぽーと|イトーヨーカ|ドン・?キホーテ|パルコ|ルミネ|アトレ|エキュート|三井アウトレット|プレミアム・?アウトレット|コストコ|Suicaのペンギン|そよら|周年記念|誕生祭|感謝祭|リゾート|ホテル|パインアメ|モデルハウス|住宅展示場|展示場|営業所|オープン記念/;
 
 /**
  * まとめ記事か。**1 記事に祭りが 3 つ以上並ぶと、日付・時刻・会場が混ざる**。
@@ -284,7 +414,12 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
   if (!j.items?.length) continue;
 
   const cov = coverage(j.areas ?? []);
-  if (!cov.length) { skipReasons.set('行政区域が県までしか無い', (skipReasons.get('行政区域が県までしか無い') ?? 0) + 1); continue; }
+  /**
+   * 行政区域が県までしかない媒体は、**題名に市名が出ている記事だけ**を使う。
+   * 4 県以上をまたぐ媒体は誤りやすいので使わない。
+   */
+  const wide = !cov.length && (j.prefs ?? []).length >= 1 && (j.prefs ?? []).length <= 3;
+  if (!cov.length && !wide) { skipReasons.set('行政区域が県までしか無い', (skipReasons.get('行政区域が県までしか無い') ?? 0) + 1); continue; }
   // 守備範囲が広すぎる媒体は市の判定を誤りやすい（県内全市など）
   if (cov.length > 12) { skipReasons.set('守備範囲が広すぎる（13市以上）', (skipReasons.get('守備範囲が広すぎる（13市以上）') ?? 0) + 1); continue; }
 
@@ -294,7 +429,9 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
   for (const it of j.items) {
     // --- 市区町村を決める ---
     let hit = null;
-    if (cov.length === 1) {
+    if (wide) {
+      hit = cityFromTitle(it.title, j.prefs ?? []);
+    } else if (cov.length === 1) {
       hit = cov[0];
     } else {
       // 題名 → 本文の頭 300 字の順に、守備範囲の市名を探す。
@@ -316,10 +453,13 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
      * 題名に実在する別の市区町村名が出ていて、自分の市の名前が出ていなければ捨てる。
      */
     const own = hit.full;
-    const others = [...it.title.matchAll(/([一-鿿ぁ-んァ-ヶヵヶー]{2,6}[市区町村])/g)]
-      .map((m) => m[1])
-      .filter((c) => byCity.has(c) && c !== hit.name && c !== own && !own.includes(c));
+    // **辞書全体で見る**。byCity（既に登録済みの市）だけだと、まだ載せたことの
+    // 無い市の名前が素通りする。登米市の媒体に栗原市・一関市の祭りが入っていた
+    const others = citiesIn(it.title)
+      .filter((c) => c !== hit.name && c !== own && !own.includes(c));
     if (others.length && !it.title.includes(hit.name)) { otherCity++; continue; }
+    // 本文の住所が別の市を指しているものも捨てる（題名に市名が出ないことがある）
+    if (otherCityInBody(it.body, own, hit.name)) { otherCity++; continue; }
 
     // まとめ記事は日付・時刻・会場が混ざるので丸ごと捨てる
     if (isRoundup(it.body)) { roundup++; continue; }
@@ -328,6 +468,7 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     const name = pickName(it.body, it.title);
     if (!usableName(name) || !IS_FESTIVAL.test(name) || NOT_FESTIVAL.test(name)) { notFestival++; continue; }
     if (NOT_FESTIVAL_EXTRA.test(name) || ROUNDUP_NAME.test(name)) { notFestival++; continue; }
+    if (brokenName(name) || COMMERCIAL.test(name)) { notFestival++; continue; }
     // 店舗の集客企画。商店街・町内会・神社のものは残す
     if (/来店|ご来店|店舗限定|開店記念|新装開店/.test(it.body)
       && !/商店街|町内会|自治会|神社|公園|小学校|中学校|八幡|稲荷/.test(name + it.body.slice(0, 200))) {
@@ -341,14 +482,34 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     const year = Number(dates[0].slice(0, 4));
     if (dates.some((d) => Number(d.slice(0, 4)) !== year)) { noDate++; continue; }
     // 記事の掲載日より 1 年以上先／2 年以上前は読み違い
-    if (year < 2025 || year > 2027) { noDate++; continue; }
+    // 記事は 2026-03 以降のものしか取っていない。2025 年の日付は回顧の文を拾ったもの
+    if (year < 2026 || year > 2027) { noDate++; continue; }
 
     // 会場に括弧が開いたまま残ることがある（「…ふれあい広場（玉川3-24-16先」）
-    const venue = pickVenue(it.body)?.replace(/[（(][^）)]*$/, '').trim() || null;
+    /**
+     * 会場に題名の【】や括弧の片割れが残ることがある（「】一関市大町ほか」）。
+     * また記事の見出し（「MAP」「マップ＆出店リスト」「北側道路通行止め」）を
+     * 会場として拾ってしまう。場所を指していないものは会場にしない。
+     */
+    const VENUE_NG = /^(MAP|マップ|地図|会場|アクセス|出店|屋台|日時|時間|入り|注意|備考)|マップ|出店リスト|通行止|交通規制|お問い合わせ|詳細|一覧$/i;
+    const rawVenue = pickVenue(it.body)
+      ?.replace(/[（(][^）)]*$/, '')
+      .replace(/^[】）)」』\]／\/・]+/, '')
+      .replace(/[【（(「『\[]+$/, '')
+      .trim() || null;
+    const venue = rawVenue && !VENUE_NG.test(rawVenue) && rawVenue.length >= 2 ? rawVenue : null;
     const t = pickTime(it.body, dates);
     const cityLabel = area.ward ? area.ward : area.city;
     // 住所は「千葉県船橋市西習志野1-47-1」の形。政令市は区まで突き合わせる
     const address = pickAddress(it.body, area.pref, area.ward ? area.city + area.ward : area.city);
+
+    /**
+     * **会場名に別の市の名前が入っていたら捨てる。**
+     * 宮崎県のみを守備範囲とする媒体の「西都夏まつり（西都市中心市街地）」を
+     * 宮崎市の祭りとして入れていた。題名に市名が出ないぶん、会場で気づける。
+     */
+    const vc = citiesIn(venue).find((c) => c !== cityLabel && c !== area.city && !area.city.includes(c));
+    if (vc) { otherCity++; continue; }
 
     const key = `${area.pref}|${area.citySlug}|${area.wardSlug ?? ''}`;
     if (!rowsByArea.has(key)) rowsByArea.set(key, { area, rows: [] });

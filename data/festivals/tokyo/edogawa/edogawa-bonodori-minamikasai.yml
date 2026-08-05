@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 南葛西小学校
-  address: null
-  lat: null
-  lng: null
+  address: 江戸川区南葛西5-10-1
+  lat: 35.6467051
+  lng: 139.8746222
 organizer: 南葛西町会
 tags: []
 description: null

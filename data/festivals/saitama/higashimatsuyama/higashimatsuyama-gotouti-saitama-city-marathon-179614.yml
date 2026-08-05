@@ -1,0 +1,29 @@
+id: higashimatsuyama-gotouti-saitama-city-marathon-179614
+name: とうろう祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 東松山市
+  ward: null
+venue:
+  name: 岩殿観音正法寺・参道
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/07/27/higasimatuyamasi-1006/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06
