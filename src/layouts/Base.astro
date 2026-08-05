@@ -110,7 +110,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       <div class="wrap">
         <strong><a href="/">{SITE_NAME}</a></strong>
         <span>{TAGLINE}</span>
-        <a class="tosearch" href="/search">さがす</a>
+        <a class="tosearch" href="/search/">さがす</a>
       </div>
     </header>
     <main class="wrap">
@@ -118,7 +118,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     </main>
     <footer class="site">
       <div class="wrap">
-        <p><a href="/about">このサイトについて</a> ／ <a href="/privacy">プライバシーポリシー</a></p>
+        <p><a href="/about/">このサイトについて</a> ／ <a href="/privacy/">プライバシーポリシー</a></p>
         <p>掲載しているのは公開告知されている祭りだけです。日時・場所は各出典元の発表にもとづきますが、変更・中止の可能性があります。おでかけ前に主催者の情報をご確認ください。</p>
         {(CONTACT.email || CONTACT.url) && (
           <p>
