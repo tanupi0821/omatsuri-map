@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: 敷島神社、志木市本町通り
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 志木市本町二丁目
+  lat: 35.833197
+  lng: 139.582194
+organizer: 志木市役所産業観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shikishima-jinja.com/summer_festival/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e72043/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東武東上線志木駅から徒歩7分

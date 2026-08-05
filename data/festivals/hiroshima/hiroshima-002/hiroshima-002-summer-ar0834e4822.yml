@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 福山市内中心部
-  address: null
-  lat: null
-  lng: null
+  address: 福山市水呑町
+  lat: 34.451845
+  lng: 133.386166
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fukuyama-natsumatsuri.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0834e4822/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 8月13日(木)・14日(金)JR福山駅から徒歩5分、15日(土)JR福山駅から花火大会会場行き臨時バス

@@ -9,13 +9,15 @@ area:
 venue:
   name: 前橋市中心部および周辺部商店街
   address: 前橋市千代田町
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.391855
+  lng: 139.069126
+organizer: 前橋七夕まつり実施委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://maebashi-tanabata.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0310e187243/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR前橋駅から徒歩10分

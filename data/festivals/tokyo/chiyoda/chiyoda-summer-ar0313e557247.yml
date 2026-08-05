@@ -9,21 +9,24 @@ area:
 venue:
   name: 行幸通り
   address: 千代田区丸の内2-2
-  lat: null
-  lng: null
+  lat: 35.682122
+  lng: 139.762603
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.marunouchi.com/pickup/event/9833/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 22:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557247/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR・東京メトロ東京駅からすぐ

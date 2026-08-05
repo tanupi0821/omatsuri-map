@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: 山中湖交流プラザ きらら
-  address: null
-  lat: null
-  lng: null
+  address: 南都留郡山中湖村平野
+  lat: 35.420448
+  lng: 138.900937
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yamanakako-hanabi.com/
 occurrences:
   - year: 2025
     dates:
       - 2025-10-25
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0419e566102/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 富士急行線富士山駅または河口湖駅からバスで約30分

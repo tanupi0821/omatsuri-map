@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: 48万人の広場(中央通り一帯)ほか、市内中心部
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 大分市中央町一丁目
+  lat: 33.234954
+  lng: 131.607437
+organizer: 大分市まつり振興会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.oita.oita.jp/o154/tanabata2025.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 21:20
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e4898/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR大分駅からすぐ

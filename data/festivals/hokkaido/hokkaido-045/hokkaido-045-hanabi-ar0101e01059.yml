@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 十勝港第4埠頭
-  address: null
+  address: 広尾郡広尾町会所前五丁目
   lat: 42.297945
   lng: 143.32763
-organizer: null
+organizer: 十勝港まつり協賛会
 stalls: yes
 tags:
   - 花火

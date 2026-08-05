@@ -9,23 +9,26 @@ area:
 venue:
   name: JR博多シティ
   address: 福岡市博多区博多駅中央街1-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.589849
+  lng: 130.419989
+organizer: はかた夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://natumaturi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-04
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e359927/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR博多駅直結

@@ -9,23 +9,26 @@ area:
 venue:
   name: 大崎ニューシティ
   address: 品川区大崎1-6-4
-  lat: null
-  lng: null
+  lat: 35.619777
+  lng: 139.729402
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ohsaki-nc.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-21
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e318203/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・東京高速鉄道大崎駅から徒歩1分

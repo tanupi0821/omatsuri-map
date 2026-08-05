@@ -9,13 +9,15 @@ area:
 venue:
   name: 六本木ヒルズ
   address: 港区六本木6-10-1 ほか
-  lat: null
-  lng: null
+  lat: 35.660539
+  lng: 139.729139
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.roppongihills.com/events/2026/08/0598.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e108283/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東京メトロ六本木駅1C出口すぐ(コンコースにて直結)

@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 大浜公園内
-  address: null
+  address: 洲本市海岸通一丁目
   lat: 34.340455
   lng: 134.904084
-organizer: null
+organizer: 淡路島まつり実行委員会
 stalls: yes
 tags:
   - 花火

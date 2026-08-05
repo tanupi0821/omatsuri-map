@@ -9,21 +9,24 @@ area:
 venue:
   name: 新宿駅東口・西口一帯
   address: 新宿区新宿駅東口/西口一帯
-  lat: null
-  lng: null
+  lat: 35.692448
+  lng: 139.70125
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.shinjuku-eisa.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 20:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4784/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR・東京メトロ・地下鉄・小田急電鉄小田急線・京王電鉄京王線新宿駅周辺

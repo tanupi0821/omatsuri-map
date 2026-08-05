@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 福生駅西口周辺
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 福生市大字福生
+  lat: 35.741611
+  lng: 139.326903
+organizer: 七夕まつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.fussa.tokyo.jp/sightseeing/osusumeevent/tanabata/1021068.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e74533/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR福生駅または牛浜駅から徒歩すぐ

@@ -9,13 +9,15 @@ area:
 venue:
   name: 真壁町市街地
   address: 桜川市真壁町真壁
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.278065
+  lng: 140.09966
+organizer: 桜川市商工観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kankou-sakuragawa.jp/page/page000031.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e4843/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR岩瀬駅からタクシーで約20分

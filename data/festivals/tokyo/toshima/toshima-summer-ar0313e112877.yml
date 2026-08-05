@@ -9,23 +9,26 @@ area:
 venue:
   name: サンシャインシティ
   address: 豊島区東池袋3-1
-  lat: null
-  lng: null
+  lat: 35.72889
+  lng: 139.719784
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sunshinecity.jp/event/entry-37720.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-30
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:15
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e112877/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・東京メトロ・西武池袋線・東武東上線池袋駅から徒歩8分

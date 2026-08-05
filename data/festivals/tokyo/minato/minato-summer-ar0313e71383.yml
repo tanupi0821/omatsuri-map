@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: JR新橋駅周辺
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 港区新橋二丁目
+  lat: 35.667067
+  lng: 139.757633
+organizer: 新橋こいち祭事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.shinbashi.net/top/koichi/2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-23
       - 2026-07-24
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71383/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・東京メトロ・都営地下鉄・ゆりかもめ新橋駅からすぐ

@@ -9,23 +9,26 @@ area:
 venue:
   name: 麻布十番商店街一帯
   address: 港区麻布十番
-  lat: null
-  lng: null
+  lat: 35.655608
+  lng: 139.735999
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.azabujuban.or.jp/topics/topics_event/23867/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e76132/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東京メトロ・都営地下鉄麻布十番駅から徒歩4分

@@ -9,13 +9,15 @@ area:
 venue:
   name: 水戸市内
   address: 水戸市三の丸、南町、泉町、大工町
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.374813
+  lng: 140.473266
+organizer: 水戸観光コンベンション協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://mitokoumon.com/koumon/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e72432/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・鹿島臨海鉄道水戸駅から徒歩15分

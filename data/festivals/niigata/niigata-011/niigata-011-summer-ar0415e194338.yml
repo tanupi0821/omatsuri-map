@@ -9,13 +9,15 @@ area:
 venue:
   name: 和納各地および三社神社境内
   address: 新潟市西蒲区和納
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.722622
+  lng: 138.877111
+organizer: 岩室温泉観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.iwamurokankou.com/blog/2024/06/28/岩室温泉まつり＆和納十五夜祭りのお知らせ/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e194338/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR岩室駅から徒歩5分

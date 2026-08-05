@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 弁天島・鞆支所周辺一帯
-  address: null
+  address: 福山市鞆町後地
   lat: 34.383049
   lng: 133.386243
-organizer: null
+organizer: 福山鞆の浦弁天島花火大会実施本部
 stalls: yes
 tags:
   - 花火

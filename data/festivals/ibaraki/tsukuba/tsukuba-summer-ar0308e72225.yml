@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: つくばエクスプレスつくば駅周辺
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: つくば市吾妻一丁目
+  lat: 36.081897
+  lng: 140.114125
+organizer: つくば市観光推進課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.matsuri-tsukuba.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e72225/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: つくばエクスプレスつくば駅から徒歩すぐ

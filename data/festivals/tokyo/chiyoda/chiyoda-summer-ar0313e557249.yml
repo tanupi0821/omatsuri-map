@@ -9,23 +9,26 @@ area:
 venue:
   name: 大手町仲通り、大手町フィナンシャルシティ1階・2階、川端緑道
   address: 千代田区大手町1丁目
-  lat: null
-  lng: null
+  lat: 35.687984
+  lng: 139.765407
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.marunouchi.com/pickup/event/9868/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-30
       - 2026-07-31
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557249/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・東京メトロ東京駅から徒歩10分

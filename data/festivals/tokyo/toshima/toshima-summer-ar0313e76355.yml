@@ -9,21 +9,24 @@ area:
 venue:
   name: トランパル大塚(大塚駅南口駅前広場)
   address: 豊島区南大塚
-  lat: null
-  lng: null
+  lat: 35.730292
+  lng: 139.729135
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://otsuka-awaodori.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e76355/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR大塚駅すぐ

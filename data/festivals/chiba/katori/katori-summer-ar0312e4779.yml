@@ -9,23 +9,26 @@ area:
 venue:
   name: 佐原本宿地区(八坂神社周辺)
   address: 香取市佐原
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.889905
+  lng: 140.501526
+organizer: 香取市商工観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/202407_sawarataisai.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-10
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0312e4779/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR佐原駅から徒歩10分

@@ -9,23 +9,26 @@ area:
 venue:
   name: 尾島商店街大通り(県道142号線)および周辺
   address: 太田市尾島町
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.258692
+  lng: 139.320692
+organizer: 尾島ねぷたまつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.ota.gunma.jp/site/kankou/1037648.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-14
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0310e4773/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR 両毛線伊勢崎駅から東武伊勢崎線木崎駅に乗り継ぎ、シャトルバス5分

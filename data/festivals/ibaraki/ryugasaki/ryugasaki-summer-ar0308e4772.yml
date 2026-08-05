@@ -9,21 +9,24 @@ area:
 venue:
   name: 龍ケ崎市街地
   address: 龍ケ崎市根町
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.91161
+  lng: 140.182326
+organizer: 龍ケ崎市商工観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e4772/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 関東鉄道竜ケ崎線竜ケ崎駅から徒歩15分

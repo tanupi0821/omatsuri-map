@@ -9,13 +9,15 @@ area:
 venue:
   name: あなぶきアリーナ香川、サンポート高松多目的広場・石のステージほか
   address: 高松市サンポート6-11 (あなぶきアリーナ香川)
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.354164
+  lng: 134.046756
+organizer: 高松まつり振興会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.takamatsu.kagawa.jp/smph/kanko/takamatsumatsuri/matsuri.html
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0937e4825/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg
+station: JR高松駅またはことでん高松築港駅から徒歩4分

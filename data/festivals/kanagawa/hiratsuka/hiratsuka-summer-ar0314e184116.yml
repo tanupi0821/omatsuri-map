@@ -9,23 +9,26 @@ area:
 venue:
   name: JR平塚駅北口商店街を中心とする平塚市内全域
   address: 平塚市紅谷町
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.328932
+  lng: 139.350574
+organizer: 湘南ひらつか七夕まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tanabata-hiratsuka.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-03
       - 2026-07-05
-    start_time: null
+    start_time: 20:30
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e184116/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR平塚駅北口から徒歩2分

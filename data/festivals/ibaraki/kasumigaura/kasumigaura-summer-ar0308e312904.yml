@@ -9,21 +9,24 @@ area:
 venue:
   name: 歩崎公園
   address: かすみがうら市坂4784番地先
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.071321
+  lng: 140.375551
+organizer: あゆみ祭り実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kasumigaura-kankou.jp/page/page000018.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e312904/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR神立駅からタクシーで約20分

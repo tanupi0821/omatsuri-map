@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 道の駅 どうし
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 南都留郡道志村−
+  lat: 35.503572
+  lng: 138.989887
+organizer: 水源の郷道志清流の花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.vill.doshi.lg.jp/ka/info.php?if_id=1281&amp;rt_id=
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,4 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0419e198712/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

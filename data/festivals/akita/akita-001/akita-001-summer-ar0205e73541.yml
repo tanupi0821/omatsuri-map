@@ -9,13 +9,15 @@ area:
 venue:
   name: 秋田市土崎地区一帯
   address: 秋田市土崎港西5丁目3-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 39.757254
+  lng: 140.070355
+organizer: 土崎港祭り実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tutizaki-hikiyama.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e73541/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR土崎駅から徒歩5分

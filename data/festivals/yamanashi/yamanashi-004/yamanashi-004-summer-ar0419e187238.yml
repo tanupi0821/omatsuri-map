@@ -15,7 +15,9 @@ organizer: 産業振興課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.uenohara.yamanashi.jp/site/kankou/1018661.html
 occurrences:
   - year: 2026
     dates:

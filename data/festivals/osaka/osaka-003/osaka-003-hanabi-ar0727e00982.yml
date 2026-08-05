@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 新御堂筋淀川鉄橋から下流、国道2号線までの淀川河川敷
-  address: null
+  address: 大阪市淀川区新北野三丁目
   lat: 34.709355
   lng: 135.477376
-organizer: null
+organizer: なにわ淀川花火大会運営委員会
 stalls: yes
 tags:
   - 花火

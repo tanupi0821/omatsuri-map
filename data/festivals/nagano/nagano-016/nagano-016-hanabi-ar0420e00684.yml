@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 野尻湖上
-  address: null
+  address: 上水内郡信濃町大字野尻
   lat: 36.831959
   lng: 138.21142
-organizer: null
+organizer: 野尻湖花火大会実行委員会
 stalls: yes
 tags:
   - 花火

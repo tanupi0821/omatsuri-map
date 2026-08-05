@@ -9,23 +9,26 @@ area:
 venue:
   name: 春日部駅東口周辺
   address: 春日部市粕壁東1丁目
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.981305
+  lng: 139.758386
+organizer: 一社)春日部市観光協会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kasukabe.lg.jp/eventjoho/eventjoho_kanko_omatsuri/32072.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e70364/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東武鉄道春日部駅から徒歩すぐ

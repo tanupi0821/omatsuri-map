@@ -9,13 +9,15 @@ area:
 venue:
   name: 大通公園
   address: 札幌市中央区大通西2丁目、5丁目～11丁目
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.060009
+  lng: 141.348323
+organizer: さっぽろ夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.sapporo.travel/summerfes/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e4761/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 札幌市営地下鉄大通駅または西11丁目駅からすぐ

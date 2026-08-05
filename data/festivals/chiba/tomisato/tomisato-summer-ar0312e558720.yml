@@ -9,21 +9,24 @@ area:
 venue:
   name: WNSとみさとスマイルパーク(富里中央公園)野球場
   address: 富里市七栄652-12
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.728402
+  lng: 140.344292
+organizer: とみちゃん夏まつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.tomisato.lg.jp/category/14-2-2-0-0-0-0-0-0-0.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0312e558720/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 京成電鉄京成成田駅・JR成田駅から路線バスで大六天停留所下車徒歩1分、または富里中学校停留所下車徒歩5分～10分

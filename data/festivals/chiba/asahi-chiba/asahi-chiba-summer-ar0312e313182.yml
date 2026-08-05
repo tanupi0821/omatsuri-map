@@ -9,23 +9,26 @@ area:
 venue:
   name: 旭中央商店街
   address: 旭市ロ795-6
-  lat: null
-  lng: null
+  lat: 35.718826
+  lng: 140.654228
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://asahi-tanabata.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:45
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0312e313182/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR旭駅から徒歩3分

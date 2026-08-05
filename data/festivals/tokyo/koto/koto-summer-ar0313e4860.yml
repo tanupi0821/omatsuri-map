@@ -9,13 +9,15 @@ area:
 venue:
   name: 富岡八幡宮とその周辺
   address: 江東区富岡1-20-3
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.672132
+  lng: 139.799588
+organizer: 富岡八幡宮
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.tomiokahachimangu.or.jp/annai/maturi/maturih1.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4860/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東京メトロ門前仲町駅から徒歩3分

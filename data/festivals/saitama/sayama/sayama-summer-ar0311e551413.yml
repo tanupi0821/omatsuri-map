@@ -9,13 +9,15 @@ area:
 venue:
   name: 狭山市駅西口市民広場、七夕通り商店街一帯
   address: 狭山市入間川
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.857806
+  lng: 139.411541
+organizer: 狭山市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tanabata.sayama-kanko.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e551413/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 西武新宿線狭山市駅西口から徒歩5分

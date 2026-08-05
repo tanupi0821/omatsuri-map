@@ -9,23 +9,26 @@ area:
 venue:
   name: 天王寺公園エントランスエリア「てんしば」
   address: 大阪市天王寺区茶臼山町5-55
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.648587
+  lng: 135.511105
+organizer: てんしば管理事務所
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tennoji-park.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e316663/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・Osaka Metro天王寺駅からすぐ

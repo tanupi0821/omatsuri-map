@@ -188,9 +188,14 @@ export function parseOrganizer(s) {
   if (!v || v.length < 3 || v.length > 40) return null;
   // 日本語が入っていない（英字だけ）ものは団体名ではない
   if (!/[ぁ-んァ-ヶ一-龥]/.test(v)) return null;
-  if (/案内所|インフォメーション|コールセンター|テレホン|ダイヤル/.test(v)) return null;
-  if (!ORG_RE.test(v)) return null;
-  return v;
+  if (/案内所|インフォメーション|コールセンター|テレホン|ダイヤル|ダイアル/.test(v)) return null;
+  if (ORG_RE.test(v)) return v;
+  // 「渥美半島花火大会実行委員会((一社)渥美半島観光ビューロー)」のように
+  // 括弧の中にもう一つ括弧が入ると、末尾の括弧だけを落とす処理では剥がれない。
+  // 最初の括弧より前を団体名として見直す
+  const head = v.split(/[（(]/)[0].trim();
+  if (head.length >= 3 && ORG_RE.test(head)) return head;
+  return null;
 }
 
 /**

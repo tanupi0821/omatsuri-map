@@ -9,23 +9,26 @@ area:
 venue:
   name: ふじの市商店街
   address: 川口市幸町2丁目
-  lat: null
-  lng: null
+  lat: 35.805832
+  lng: 139.719821
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.fujinoichi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-03
       - 2026-07-07
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e552340/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR川口駅東口から徒歩5分

@@ -9,23 +9,26 @@ area:
 venue:
   name: JR阿佐ヶ谷駅周辺～阿佐谷パールセンター青梅街道口
   address: 杉並区阿佐谷
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.704676
+  lng: 139.636807
+organizer: 阿佐ケ谷商店街振興組合
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.asagaya.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71668/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR阿佐ケ谷駅からすぐ

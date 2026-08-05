@@ -9,23 +9,26 @@ area:
 venue:
   name: 東口会場(福岡中央公園)、西口会場(ココネ広場)、上福岡駅周辺各商店街
   address: ふじみ野市上野台、ほか
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.875467
+  lng: 139.516343
+organizer: ふじみ野市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fujiminokanko.jp/festival.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e551539/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東武東上線上福岡駅下車すぐ
