@@ -9,6 +9,7 @@ import Base from '../../../layouts/Base.astro';
 import FestivalList from '../../../components/FestivalList.astro';
 import { loadFestivals } from '../../../lib/data.js';
 import { SITE_NAME } from '../../../lib/site.js';
+import { areaSummary } from '../../../lib/summary.js';
 
 export function getStaticPaths() {
   const byCity = new Map();
@@ -36,6 +37,9 @@ for (const f of festivals) {
 const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
 const machi = festivals.filter((f) => f.scale === '町内会').length;
 
+// 検索から来た人が最初に読む文章。数えれば分かることだけを書く
+const summary = areaSummary(festivals, `${prefName}${cityName}`);
+
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -49,18 +53,14 @@ const jsonld = {
 
 <Base
   title={`${cityName}の祭り・盆踊り`}
-  description={`${prefName}${cityName}の夏祭り・盆踊り・例大祭を${festivals.length}件掲載。町内会や自治会の小さな盆踊りまで、出典と最終確認日つきで探せます。`}
+  description={summary.slice(0, 120)}
   jsonld={jsonld}
 >
   <nav class="crumb">
     <a href="/">{SITE_NAME}</a> ／ <a href={`/a/${pref}/`}>{prefName}</a> ／ {cityName}
   </nav>
   <h1>{cityName}の祭り</h1>
-  <p class="lede">
-    <strong>{festivals.length} 件</strong>
-    {stallsTotal > 0 && <>（屋台が出ると分かっているもの {stallsTotal} 件）</>}
-    {machi > 0 && <>。うち町内会・自治会の祭りが {machi} 件</>}。
-  </p>
+  <p class="summary">{summary}</p>
 
   {wards.size > 0 && (
     <ul class="areas">
@@ -83,6 +83,7 @@ const jsonld = {
     .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
     h1 { margin-top: 4px; }
     .lede { color: var(--muted); font-size: 14px; }
+    .summary { font-size: 15px; line-height: 1.9; margin: 12px 0; }
     .areas { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 6px; }
     .areas li {
       display: inline-flex; gap: 6px; align-items: baseline;

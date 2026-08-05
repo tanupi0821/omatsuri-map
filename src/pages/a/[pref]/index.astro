@@ -9,6 +9,7 @@ import Base from '../../../layouts/Base.astro';
 import FestivalList from '../../../components/FestivalList.astro';
 import { loadFestivals } from '../../../lib/data.js';
 import { SITE_NAME } from '../../../lib/site.js';
+import { prefSummary } from '../../../lib/summary.js';
 
 export function getStaticPaths() {
   const all = loadFestivals();
@@ -51,6 +52,7 @@ for (const f of festivals) {
 }
 const cityList = [...cities.values()].sort((a, b) => b.n - a.n);
 const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
+const summary = prefSummary(festivals, prefName, cities.size);
 
 // 検索結果に階層を出すためのパンくず
 const prefSlug = festivals[0]._prefSlug;
@@ -66,15 +68,12 @@ const jsonld = {
 
 <Base
   title={`${prefName}の祭り・盆踊り`}
-  description={`${prefName}の夏祭り・盆踊り・例大祭を${festivals.length}件掲載。町内会や自治会の小さな盆踊りまで、出典と最終確認日つきで探せます。`}
+  description={summary.slice(0, 120)}
   jsonld={jsonld}
 >
   <nav class="crumb"><a href="/">{SITE_NAME}</a> ／ {prefName}</nav>
   <h1>{prefName}の祭り</h1>
-  <p class="lede">
-    <strong>{festivals.length} 件</strong>（うち屋台が出ると分かっているもの {stallsTotal} 件）。
-    {cityList.length} 市区町村を収録しています。
-  </p>
+  <p class="summary">{summary}</p>
 
   <ul class="areas">
     {cityList.map((c) => (
@@ -103,6 +102,7 @@ const jsonld = {
     .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
     h1 { margin-top: 4px; }
     .lede { color: var(--muted); font-size: 14px; }
+    .summary { font-size: 15px; line-height: 1.9; margin: 12px 0; }
     .areas { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 6px; }
     .areas a {
       display: inline-flex; gap: 6px; align-items: baseline;
