@@ -7,26 +7,31 @@ area:
   city: つくばみらい市
   ward: null
 venue:
-  name: 高岡地区
-  address: null
+  name: 高岡愛宕神社 境内
+  address: 茨城県つくばみらい市高岡630
   lat: null
   lng: null
-organizer: null
+organizer: 高岡流綱火更進団
 tags:
   - 重要無形民俗文化財
   - 綱火
 description: null
-links: []
+links:
+  - title: つくばみらい市観光協会 綱火
+    url: https://mirai-kankou.com/events/102
+  - title: つくばみらい市観光協会 綱火
+    url: https://mirai-kankou.com/events/102
 occurrences:
   - year: 2026
     dates:
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://mirai-kankou.com/events/102
+    source_name: つくばみらい市観光協会
+    source_type: gov
+    checked_at: 2026-08-05
     note: 操り人形と仕掛け花火を組み合わせた伝統行事
 stalls: unknown
+shrine: 高岡愛宕神社

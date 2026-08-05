@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 東栄町大字下田字市場周辺
-  address: null
-  lat: null
-  lng: null
+  address: 北設楽郡東栄町大字本郷
+  lat: 35.073384
+  lng: 137.707253
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.toeinavi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00201/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR東栄駅からタクシーで約10分、またはバス(とうえい温泉前行きで約15分)で市場停留所下車、徒歩5分

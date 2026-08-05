@@ -8,13 +8,15 @@ area:
   ward: null
 venue:
   name: 中山法華経寺 境内
-  address: null
+  address: 千葉県市川市中山2-10-1
   lat: null
   lng: null
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 正中山 法華経寺（日蓮宗 寺院ページ）
+    url: https://temple.nichiren.or.jp/1041026-hokekyoji/
 occurrences:
   - year: 2025
     dates:

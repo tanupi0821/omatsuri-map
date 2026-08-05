@@ -9,13 +9,15 @@ area:
 venue:
   name: 青森市中心市街地運行コース
   address: 青森市
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.822392
+  lng: 140.747339
+organizer: 青森観光コンベンション協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.nebuta.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e4763/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR青森駅から徒歩15分

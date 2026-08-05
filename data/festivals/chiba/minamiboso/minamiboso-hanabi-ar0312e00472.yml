@@ -9,14 +9,16 @@ area:
 venue:
   name: 白浜野島埼灯台前公園広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.901604
+  lng: 139.886924
+organizer: 南房総市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://amamatsuri.com/
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +30,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00472/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR館山駅からJRバス(関東白浜行き)で灯台入口停留所下車、徒歩10分

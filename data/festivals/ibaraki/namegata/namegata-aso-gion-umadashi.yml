@@ -7,7 +7,7 @@ area:
   city: 行方市
   ward: null
 venue:
-  name: 行方市内
+  name: 八坂神社（麻生）参道・天王崎
   address: null
   lat: null
   lng: null
@@ -15,7 +15,15 @@ organizer: null
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 行方市 麻生祇園馬出し祭り
+    url: https://www.city.namegata.ibaraki.jp/page/page001557.html
+  - title: 行方市観光協会
+    url: http://namekan.jp/event/
+  - title: 行方市 麻生祇園馬出し祭り
+    url: https://www.city.namegata.ibaraki.jp/page/page001557.html
+  - title: 行方市観光協会
+    url: http://namekan.jp/event/
 occurrences:
   - year: 2026
     dates:
@@ -24,8 +32,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.namegata.ibaraki.jp/page/page001557.html
+    source_name: 行方市
+    source_type: gov
+    checked_at: 2026-08-05
 stalls: unknown
+shrine: 八坂神社

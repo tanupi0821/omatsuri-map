@@ -1,0 +1,34 @@
+id: zushi-kameoka-hachimangu-reitaisai
+name: 亀岡八幡宮 例大祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 逗子市
+  ward: null
+venue:
+  name: 亀岡八幡宮および周辺商店街
+  address: null
+  lat: null
+  lng: null
+station: 逗子
+organizer: 亀岡八幡宮
+shrine: 亀岡八幡宮
+stalls: unknown
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+      - 2026-07-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/zushi-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 7/15 宵宮、7/16 本宮

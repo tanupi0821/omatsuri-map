@@ -1,6 +1,6 @@
 id: osaka-006-ward-osaka-konohana-梅香秋まつり
 name: 梅香秋まつり
-kind: 秋祭り
+kind: 夏祭り
 scale: 町内会
 area:
   pref: 大阪府
@@ -20,7 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-10-11
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html

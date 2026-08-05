@@ -7,24 +7,29 @@ area:
   city: 日光市
   ward: null
 venue:
-  name: 鬼怒川温泉街
-  address: null
+  name: 鬼怒川温泉 くろがね橋周辺
+  address: 栃木県日光市鬼怒川温泉
   lat: null
   lng: null
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 日光旅ナビ 鬼怒川温泉 龍王祭
+    url: https://www.nikko-kankou.org/event/403
+  - title: 日光旅ナビ 鬼怒川温泉 龍王祭
+    url: https://www.nikko-kankou.org/event/403
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.nikko-kankou.org/event/403
+    source_name: 日光市観光協会
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 龍王峡 五龍王神社での神事は7月24日11時から11時50分
 stalls: unknown

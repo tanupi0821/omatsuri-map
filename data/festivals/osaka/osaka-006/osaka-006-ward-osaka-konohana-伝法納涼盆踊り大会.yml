@@ -21,7 +21,7 @@ occurrences:
     dates:
       - 2026-08-21
       - 2026-08-22
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
     source_url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html

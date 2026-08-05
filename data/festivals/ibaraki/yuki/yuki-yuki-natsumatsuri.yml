@@ -7,25 +7,34 @@ area:
   city: 結城市
   ward: null
 venue:
-  name: 結城市内
+  name: 健田須賀神社および駅通り
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 結城夏祭り実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 結城市 結城夏祭り
+    url: https://www.city.yuki.lg.jp/kankou/event/page000147.html
+  - title: 健田須賀神社
+    url: http://www.takedasugajinja.com/yukimaturi.html
+  - title: 結城市 結城夏祭り
+    url: https://www.city.yuki.lg.jp/kankou/event/page000147.html
+  - title: 健田須賀神社
+    url: http://www.takedasugajinja.com/yukimaturi.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-12
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
-    note: 7/12〜7/19の期間。掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.yuki.lg.jp/kankou/event/page000147.html
+    source_name: 結城市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 町内渡御は10時から17時、夜間渡御は18時から21時30分
 stalls: unknown
+shrine: 健田須賀神社

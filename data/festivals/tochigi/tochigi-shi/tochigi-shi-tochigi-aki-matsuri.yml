@@ -17,7 +17,15 @@ stalls: unknown
 tags:
   - 山車
 description: null
-links: []
+links:
+  - title: 栃木市 とちぎ秋まつり（令和8年開催のお知らせ）
+    url: https://www.city.tochigi.lg.jp/site/tourism/26060.html
+  - title: 栃木市観光協会 とちぎ秋まつり
+    url: https://www.tochigi-kankou.or.jp/event/akimatsuri
+  - title: 栃木市 とちぎ秋まつり（令和8年開催のお知らせ）
+    url: https://www.city.tochigi.lg.jp/site/tourism/26060.html
+  - title: 栃木市観光協会 とちぎ秋まつり
+    url: https://www.tochigi-kankou.or.jp/event/akimatsuri
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +34,7 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://www.walkerplus.com/event_list/ar0309/eg0055/
-    source_name: ウォーカープラス お祭り一覧
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.tochigi.lg.jp/site/tourism/26060.html
+    source_name: 栃木市
+    source_type: gov
+    checked_at: 2026-08-05

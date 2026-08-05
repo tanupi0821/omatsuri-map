@@ -1,0 +1,30 @@
+id: tokyo-008-goguynet-16764
+name: 第52回 吉祥寺ふれあい夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 武蔵野市
+  ward: null
+venue:
+  name: 武蔵野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://musashino.goguynet.jp/2026/07/24/natumaturi/
+    source_name: 号外NET 武蔵野市・小金井市
+    source_type: media
+    checked_at: 2026-08-04

@@ -9,22 +9,25 @@ area:
 venue:
   name: 三津ふ頭
   address: null
-  lat: null
-  lng: null
+  lat: 33.862284
+  lng: 132.708619
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mitsuhama-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0938e00029/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 伊予鉄道三津駅から徒歩15分またはJR三津浜駅から徒歩30分

@@ -11,21 +11,25 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 笠間納涼盆踊り花火大会実行委員会
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 笠間納涼盆踊り花火大会2026 開催のお知らせ（主催者発表）
+    url: https://prtimes.jp/main/html/rd/p/000000010.000169739.html
+  - title: 笠間納涼盆踊り花火大会2026 開催のお知らせ（主催者発表）
+    url: https://prtimes.jp/main/html/rd/p/000000010.000169739.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
       - 2026-08-10
-    start_time: null
-    end_time: null
+    start_time: 15:50
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://prtimes.jp/main/html/rd/p/000000010.000169739.html
+    source_name: 笠間納涼盆踊り花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-05
 stalls: unknown

@@ -7,27 +7,31 @@ area:
   city: 藤沢市
   ward: null
 venue:
-  name: 江の島島内各所
+  name: 江島神社（瑞心門〜辺津宮）・江の島サムエル・コッキング苑ほか
   address: null
   lat: null
   lng: null
 station: 片瀬江ノ島
-organizer: null
+organizer: 湘南藤沢活性化コンソーシアム
 tags:
   - 灯籠
 description: null
-links: []
+links:
+  - title: 藤沢市 江の島灯籠2026
+    url: https://www.city.fujisawa.kanagawa.jp/kankou/event/2025tourou.html
+  - title: 江の島灯籠2026 公式
+    url: https://enoshima-seacandle.com/event/enoshimatourou/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-09-23
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/fujisawa-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
-    note: 8/1〜9/23の期間、江の島島内をライトアップ。掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.fujisawa.kanagawa.jp/kankou/event/2025tourou.html
+    source_name: 藤沢市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 土日祝と8月10日から14日は21時まで点灯
 stalls: unknown

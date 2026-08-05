@@ -12,19 +12,23 @@ venue:
   lat: null
   lng: null
 station: 磯原
-organizer: null
+organizer: 北茨城市民夏まつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北茨城市 第16回北茨城市民夏まつり
+    url: https://www.city.kitaibaraki.lg.jp/docs/2026042400026
+  - title: 北茨城市 第16回北茨城市民夏まつり
+    url: https://www.city.kitaibaraki.lg.jp/docs/2026042400026
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:00
     status: confirmed
-    source_url: https://www.walkerplus.com/event_list/ar0308/eg0055/
-    source_name: ウォーカープラス お祭り一覧
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.kitaibaraki.lg.jp/docs/2026042400026
+    source_name: 北茨城市
+    source_type: gov
+    checked_at: 2026-08-05

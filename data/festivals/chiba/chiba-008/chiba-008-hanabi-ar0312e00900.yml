@@ -9,22 +9,25 @@ area:
 venue:
   name: 一宮海岸
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.382035
+  lng: 140.391637
+organizer: 一宮町観光協会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ichinomiya.org/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 19:10
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00900/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR上総一ノ宮駅からタクシーで約5分

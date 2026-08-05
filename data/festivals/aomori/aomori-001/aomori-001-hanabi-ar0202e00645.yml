@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 青森港内(青い海公園、青い海公園西側、新中央埠頭)
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 青森市安方二丁目
+  lat: 40.83033
+  lng: 140.741577
+organizer: 青森花火大会実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://aomorihanabitaikai.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0202e00645/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR・青い森鉄道青森駅東口から徒歩10分

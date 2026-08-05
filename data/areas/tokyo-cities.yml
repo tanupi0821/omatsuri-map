@@ -146,27 +146,3 @@ cities:
       - name: 東京都神社庁
         url: http://www.tokyo-jinjacho.or.jp/
         type: official
-  - name: 八王子市
-    slug: hachioji
-    sources:
-      - name: 夏休みおでかけガイド（ウォーカープラス）
-        url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
-        type: aggregator
-  - name: 福生市
-    slug: fussa
-    sources:
-      - name: 夏休みおでかけガイド（ウォーカープラス）
-        url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
-        type: aggregator
-  - name: 奥多摩町
-    slug: okutama
-  - name: 大島町
-    slug: oshima
-  - name: 八丈町
-    slug: hachijo
-  - name: 昭島市
-    slug: akishima
-  - name: 調布市
-    slug: chofu
-  - name: あきる野市
-    slug: akiruno

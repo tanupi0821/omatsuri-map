@@ -9,23 +9,26 @@ area:
 venue:
   name: 一宮駅、銀座通り、本町商店街、真清田神社周辺
   address: 一宮市
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.302104
+  lng: 136.796974
+organizer: おりもの感謝祭一宮七夕まつり協進会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.138ss.com/tanabata/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-23
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74800/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR尾張一宮駅または名古屋鉄道名鉄一宮駅から徒歩すぐ

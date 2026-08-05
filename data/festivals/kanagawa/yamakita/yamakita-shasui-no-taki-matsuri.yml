@@ -7,24 +7,31 @@ area:
   city: 山北町
   ward: null
 venue:
-  name: 洒水の滝周辺
-  address: null
+  name: 洒水の滝・滝不動尊境内
+  address: 神奈川県足柄上郡山北町平山
   lat: null
   lng: null
 station: 山北
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 山北町観光協会 洒水の滝まつり
+    url: https://www.yamakita.net/event/detail.php?id=38
+  - title: 山北町 洒水の滝
+    url: https://www.town.yamakita.kanagawa.jp/0000000198.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
+    start_time: 11:20
     end_time: null
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/yamakita-machi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://www.yamakita.net/event/detail.php?id=38
+    source_name: 山北町観光協会
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 滝祭り式典が11時20分から。時刻は前回の発表による
 stalls: unknown
+recurrence: 7月第4日曜日
+recurrence_source: https://www.yamakita.net/event/detail.php?id=38

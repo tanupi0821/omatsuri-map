@@ -9,13 +9,15 @@ area:
 venue:
   name: JR安城駅南側周辺市街地一帯
   address: 安城市御幸本町1-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.959995
+  lng: 137.087162
+organizer: 安城市商工課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://anjo-tanabata.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74989/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/a/af/%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E7%A5%AD%E3%82%8A.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC0
     license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
     source: https://commons.wikimedia.org/wiki/File:Anjo-Tanabata-Matsuri-2023-6.jpg
+station: JR安城駅または名古屋鉄道南安城駅から徒歩すぐ

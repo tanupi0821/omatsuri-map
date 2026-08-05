@@ -7,23 +7,28 @@ area:
   city: 常総市
   ward: null
 venue:
-  name: 常総市内
+  name: 常総市地域交流センター（豊田城）駐車場
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 常総市観光物産協会
 tags: []
 description: null
-links: []
+links:
+  - title: 常総市観光物産協会
+    url: https://www.joso-kankou.com/festival/
+  - title: 常総市観光物産協会
+    url: https://www.joso-kankou.com/festival/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回（第42回）の発表による。2026年の発表は未確認
 stalls: unknown

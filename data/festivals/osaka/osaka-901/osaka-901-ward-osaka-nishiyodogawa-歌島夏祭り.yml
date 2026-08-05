@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 歌島コミュニティ会館
-  address: "大阪市西淀川区 歌島1-19-12 "
+  address: 大阪市西淀川区歌島1-19-12
   lat: null
   lng: null
 organizer: 歌島地域

@@ -8,16 +8,14 @@ area:
   ward: null
 venue:
   name: 折尾駅北側駅前
-  address: 北九州市八幡西区学園大通り口
+  address: null
   lat: null
   lng: null
-organizer: 折尾まつり実行委員会 電話：093-691-1462（折尾商連）
-stalls: yes
+organizer: 折尾まつり実行委員会
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: 号外NET 北九州市八幡西区・八幡東区・若松区
-    url: https://kitakyushuyahatanishi.goguynet.jp/2026/06/03/oriomaturi-2/
+links: []
 occurrences:
   - year: 2026
     dates:

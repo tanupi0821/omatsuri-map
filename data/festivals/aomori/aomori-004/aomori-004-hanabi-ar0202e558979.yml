@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 大間港(旧フェリー埠頭)
-  address: null
-  lat: null
-  lng: null
+  address: 下北郡大間町大字大間
+  lat: 41.526162
+  lng: 140.898911
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.ooma.lg.jp/sightseeing/event/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0202e558979/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR下北駅から下北交通佐井線バスで約1時間40分、大間停留所下車徒歩15分

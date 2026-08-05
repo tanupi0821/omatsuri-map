@@ -8,13 +8,17 @@ area:
   ward: null
 venue:
   name: 霞ケ浦ふれあいランド 親水公園
-  address: null
+  address: 茨城県行方市玉造甲1234
   lat: null
   lng: null
-organizer: null
+organizer: 霞ケ浦ふれあいランド株式会社
 tags: []
 description: null
-links: []
+links:
+  - title: 行方市観光協会 イベント情報
+    url: http://namekan.jp/event/
+  - title: 行方市観光協会 イベント情報
+    url: http://namekan.jp/event/
 occurrences:
   - year: 2026
     dates:

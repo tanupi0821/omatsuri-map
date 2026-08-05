@@ -9,14 +9,16 @@ area:
 venue:
   name: フェスティバルウォーク蘇我
   address: null
-  lat: null
-  lng: null
+  lat: 35.592502
+  lng: 140.118026
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://9entertainment.net/ohkaranman/index.html
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0312e512140/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR蘇我駅から無料巡回バスで約15分

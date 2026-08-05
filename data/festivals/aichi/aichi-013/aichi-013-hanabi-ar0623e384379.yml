@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: ラグーナテンボス ラグナシア
-  address: null
-  lat: null
-  lng: null
+  address: 蒲郡市海陽町二丁目
+  lat: 34.808259
+  lng: 137.270321
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.lagunatenbosch.co.jp/index.html
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +30,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0623e384379/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・名鉄蒲郡駅から無料シャトルバスで約15分、JR三河大塚駅から徒歩20分

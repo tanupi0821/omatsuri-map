@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 平川河畔白鳥ふれあい広場
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 南津軽郡藤崎町大字藤崎
+  lat: 40.651911
+  lng: 140.48918
+organizer: 藤崎町商工会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://r.goope.jp/fujisakimachi/info
 occurrences:
   - year: 2026
     dates:
       - 2026-08-20
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0202e01116/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR藤崎駅から徒歩10分

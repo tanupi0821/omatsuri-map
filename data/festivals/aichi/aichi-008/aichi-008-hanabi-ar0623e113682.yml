@@ -9,14 +9,16 @@ area:
 venue:
   name: 新舞子マリンパーク ブルーサンビーチ
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.950256
+  lng: 136.821421
+organizer: 新舞子ビーチフェスティバル実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://chita-kanko.com/feature/detail/14/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0623e113682/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄常滑線新舞子駅から徒歩10分

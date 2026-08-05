@@ -7,25 +7,27 @@ area:
   city: 相模原市
   ward: 中央区
 venue:
-  name: 淵野辺駅周辺
+  name: 鹿沼公園（淵野辺駅前）
   address: null
   lat: null
   lng: null
 station: 淵野辺
-organizer: null
+organizer: 大野北銀河まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 第38回 大野北銀河まつり 公式
+    url: https://gingamatsuri.jimdofree.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0314/sg0999/yatai/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://gingamatsuri.jimdofree.com/
+    source_name: 大野北銀河まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-05

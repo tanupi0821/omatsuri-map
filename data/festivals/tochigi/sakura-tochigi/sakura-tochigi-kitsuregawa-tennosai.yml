@@ -7,23 +7,29 @@ area:
   city: さくら市
   ward: null
 venue:
-  name: 喜連川地区
+  name: 喜連川中央商店街通り
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 喜連川観光協会
 tags: []
 description: null
-links: []
+links:
+  - title: さくら市 喜連川天王祭2026
+    url: https://www.city.tochigi-sakura.lg.jp/event/000060/p005141.html
+  - title: さくら市観光ナビ 喜連川天王祭2026
+    url: https://sakura-navi.net/event/kitsuregawa-tennnousai2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 23:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.tochigi-sakura.lg.jp/event/000060/p005141.html
+    source_name: さくら市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: お下がりが10時、お上がりが23時ごろ。商店街通りは14時から23時まで通行止め
 stalls: unknown
+shrine: 喜連川神社

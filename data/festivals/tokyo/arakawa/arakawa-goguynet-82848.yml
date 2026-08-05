@@ -1,0 +1,30 @@
+id: arakawa-goguynet-82848
+name: 日暮里繊維街夏祭りin ふらっとにっぽり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: ふらっとにっぽり
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/06/22/nipporisenigainatumaturi/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

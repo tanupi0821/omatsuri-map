@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 大仙市中仙支所前「ドンパン広場」
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 大仙市長野
+  lat: 39.544709
+  lng: 140.542372
+organizer: ドンパン祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://donpan.hana.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0205e00362/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR羽後長野駅から徒歩5分

@@ -8,13 +8,21 @@ area:
   ward: null
 venue:
   name: 大宝八幡宮
-  address: null
+  address: 茨城県下妻市大宝667
   lat: null
   lng: null
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 大宝八幡宮
+    url: https://www.daiho.or.jp/
+  - title: 下妻市観光協会 風鈴まつり
+    url: http://www.shimotsuma-kankou.jp/page/page000223.html
+  - title: 大宝八幡宮
+    url: https://www.daiho.or.jp/
+  - title: 下妻市観光協会 風鈴まつり
+    url: http://www.shimotsuma-kankou.jp/page/page000223.html
 occurrences:
   - year: 2026
     dates:
@@ -23,10 +31,10 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.daiho.or.jp/
+    source_name: 大宝八幡宮
+    source_type: official
+    checked_at: 2026-08-05
     note: 7/25〜8/23の期間開催。掲載の2日付は期間の初日と最終日
 stalls: unknown
 shrine: 大宝八幡宮

@@ -9,21 +9,24 @@ area:
 venue:
   name: どんぐり工房前駐車場
   address: 豊田市武節町ソト田
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.215045
+  lng: 137.503917
+organizer: 稲武まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.inabu-kankou.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 20:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e195274/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 名古屋鉄道豊田市駅からおいでんバスでどんぐりの湯前停留所下車、徒歩すぐ

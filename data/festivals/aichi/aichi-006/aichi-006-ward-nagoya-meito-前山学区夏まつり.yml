@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
     source_name: 名古屋市名東区

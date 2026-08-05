@@ -1,0 +1,30 @@
+id: kasukabe-hanabi-ar0311e115907
+name: 春日部大凧花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 埼玉県
+  city: 春日部市
+  ward: null
+venue:
+  name: 庄和総合公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0311e115907/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

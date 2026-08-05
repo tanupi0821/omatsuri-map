@@ -7,15 +7,19 @@ area:
   city: 筑西市
   ward: null
 venue:
-  name: 筑西市内
+  name: 羽黒神社・下館駅北口駅前通り 他
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 筑西市観光協会
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 筑西市 下館祇園まつり開催のお知らせ
+    url: https://www.city.chikusei.lg.jp/kankou/kankou-news/page010455.html
+  - title: 筑西市 下館祇園まつり開催のお知らせ
+    url: https://www.city.chikusei.lg.jp/kankou/kankou-news/page010455.html
 occurrences:
   - year: 2026
     dates:
@@ -23,11 +27,13 @@ occurrences:
       - 2026-07-24
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.chikusei.lg.jp/kankou/kankou-news/page010455.html
+    source_name: 筑西市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 最終日（7月26日）は早朝6時からの川渡御
 stalls: unknown
+shrine: 羽黒神社

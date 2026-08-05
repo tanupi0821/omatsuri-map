@@ -9,13 +9,15 @@ area:
 venue:
   name: 名鉄豊田市駅 東側一帯、ほか
   address: 豊田市喜多町、ほか
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.08691
+  lng: 137.156876
+organizer: 豊田おいでんまつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.oidenmaturi.com
 occurrences:
   - year: 2025
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e73964/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/PIZZA-LA_%283764263264%29.jpg/1280px-PIZZA-LA_%283764263264%29.jpg
@@ -37,3 +39,4 @@ photos:
     license: CC BY 2.0
     license_url: https://creativecommons.org/licenses/by/2.0
     source: https://commons.wikimedia.org/wiki/File:PIZZA-LA_(3764263264).jpg
+station: 名鉄豊田市駅または愛知環状鉄道新豊田駅下車すぐ

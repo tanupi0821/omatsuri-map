@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 豊明市文化会館
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 豊明市西川町
+  lat: 35.061952
+  lng: 137.013658
+organizer: 愛知県豊明市 市民生活部 共生社会課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://smart-share.com/app/profile/qr/b8148e377333b10fa5bd9f1f22eeb962s1000000315s/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00185/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄名古屋本線前後駅からバスでセンター前停留所下車、徒歩10分

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:20
     status: confirmed
     source_url: https://www.city.chiba.jp/mihama/chiikizukuri/tiikiibento_08.html
     source_name: 千葉市美浜区

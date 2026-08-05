@@ -7,15 +7,17 @@ area:
   city: 江東区
   ward: null
 venue:
-  name: 富岡八幡宮
+  name: 富岡八幡宮 境内
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 深川十五夜まつり実行委員会
 shrine: 富岡八幡宮
 tags: []
 description: null
-links: []
+links:
+  - title: 深川十五夜まつり 公式
+    url: https://www.fukagawa-jugoya.com
 occurrences:
   - year: 2026
     dates:
@@ -24,11 +26,12 @@ occurrences:
       - 2026-09-25
       - 2026-09-26
       - 2026-09-27
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:30
     status: confirmed
     source_url: https://minamisuna1.com/37573/
     source_name: 江東区の情報サイト
     source_type: media
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による。2026年の発表は未確認
 stalls: unknown

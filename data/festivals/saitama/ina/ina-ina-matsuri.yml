@@ -11,20 +11,23 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 一般社団法人 伊奈町観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 伊奈町観光協会 まつり
+    url: https://inakanko.com/?p=we-page-entrylist&spotlist=24191
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/list/ar0311/yatai/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 花火の打ち上げは20時10分から

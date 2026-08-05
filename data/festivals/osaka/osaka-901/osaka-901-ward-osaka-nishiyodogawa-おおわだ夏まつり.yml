@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 大和田中央公園
-  address: "大阪市西淀川区 大和田4-4 "
+  address: 大阪市西淀川区大和田4-4
   lat: null
   lng: null
 organizer: 大和田地域

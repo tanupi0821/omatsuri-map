@@ -9,23 +9,26 @@ area:
 venue:
   name: 宮崎漁港周辺
   address: null
-  lat: null
-  lng: null
+  lat: 34.776777
+  lng: 137.091986
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://nishiokanko.com/list/special/fireworks
 occurrences:
   - year: 2025
     dates:
       - 2025-09-20
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00818/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 名鉄吉良吉田駅からからタクシーで約7分

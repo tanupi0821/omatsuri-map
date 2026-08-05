@@ -1,0 +1,31 @@
+id: chiba-chuo-oyako-sandai-natsumatsuri
+name: 千葉の親子三代夏祭り
+kind: 市民祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 千葉市
+  ward: 中央区
+venue:
+  name: 千葉市中心部
+  address: null
+  lat: null
+  lng: null
+station: 千葉
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

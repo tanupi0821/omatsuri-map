@@ -9,22 +9,25 @@ area:
 venue:
   name: 稲毛海浜公園(いなげの浜)
   address: null
-  lat: null
-  lng: null
+  lat: 35.614883
+  lng: 140.063913
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sbimusiccircus.co.jp/sbimaihanabi/inage/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-30
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e590640/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR稲毛海岸駅から徒歩20分

@@ -20,7 +20,7 @@ occurrences:
   - year: 2024
     dates:
       - 2024-07-20
-    start_time: null
+    start_time: 17:30
     end_time: null
     status: confirmed
     source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html

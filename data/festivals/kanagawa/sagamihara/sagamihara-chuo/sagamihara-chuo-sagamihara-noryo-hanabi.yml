@@ -1,0 +1,30 @@
+id: sagamihara-chuo-sagamihara-noryo-hanabi
+name: 相模原納涼花火大会（第53回）
+kind: 花火
+scale: 区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 中央区
+venue:
+  name: 相模川 高田橋上流
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0314/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

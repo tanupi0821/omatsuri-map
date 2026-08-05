@@ -9,13 +9,15 @@ area:
 venue:
   name: 長木川花火会場
   address: 大館市
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.277361
+  lng: 140.569556
+organizer: 大館市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.odate.lg.jp/city/kankou/festibal
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +28,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e4769/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Odate_daimonjiyaki_and_laser_beam_2018.jpg/1280px-Odate_daimonjiyaki_and_laser_beam_2018.jpg
     width: 1000
@@ -42,3 +44,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Odate_Daimonji_Festival_02.jpg
+station: JR大館駅からタクシーで約10分

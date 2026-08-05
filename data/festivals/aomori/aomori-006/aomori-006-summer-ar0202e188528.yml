@@ -9,13 +9,15 @@ area:
 venue:
   name: 八戸市中心商店街(三日町・十三日町・ヤグラ横町)
   address: 八戸市三日町
-  lat: null
-  lng: null
+  lat: 40.510066
+  lng: 141.491467
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.8town.co.jp/project/tanabata/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e188528/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR本八戸駅から徒歩10分

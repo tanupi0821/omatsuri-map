@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 知立神社境内
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 知立市西町
+  lat: 35.012995
+  lng: 137.041701
+organizer: 知立神社社務所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.chiryu-kanko.com/event/detail/4/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-20
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00242/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄知立駅から北西へ徒歩12分

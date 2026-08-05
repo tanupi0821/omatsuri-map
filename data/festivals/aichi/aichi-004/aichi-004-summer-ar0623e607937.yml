@@ -9,13 +9,15 @@ area:
 venue:
   name: 香嵐渓
   address: 豊田市足助町飯盛
-  lat: null
-  lng: null
+  lat: 35.131472
+  lng: 137.313127
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://asuke.info/event/aug/entry-699.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e607937/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 名鉄豊田線浄水駅からとよたおいでんバス百年草行きまたは名鉄豊田市駅から名鉄バス矢並線足助行きまたは名鉄東岡崎駅から名鉄バ

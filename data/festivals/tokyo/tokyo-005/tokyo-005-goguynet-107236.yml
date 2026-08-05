@@ -1,0 +1,29 @@
+id: tokyo-005-goguynet-107236
+name: フリースクール寺子屋 のびの〜び 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 日野市
+  ward: null
+venue:
+  name: 】カワセミハウス芝生広場・集会室3
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hino.goguynet.jp/2026/06/25/nobino_bi_hino/
+    source_name: 号外NET 日野市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: tokyo-015-goguynet-69812
+name: 落合・ふるさと夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 多摩市
+  ward: null
+venue:
+  name: 多摩市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tama-inagi.goguynet.jp/2026/07/13/ochiai-furusato-summer-fes-2026/
+    source_name: 号外NET 多摩市・稲城市
+    source_type: media
+    checked_at: 2026-08-04

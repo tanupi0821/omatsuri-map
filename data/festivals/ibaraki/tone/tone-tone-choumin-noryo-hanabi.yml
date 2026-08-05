@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 利根川 栄橋下河川敷
-  address: null
+  address: 茨城県北相馬郡利根町布川
   lat: null
   lng: null
 organizer: null
@@ -16,15 +16,20 @@ stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 利根町 第49回利根町民納涼花火大会
+    url: https://www.town.tone.ibaraki.jp/kanko-bunka/ibenntogyouzi/hanabi/page006051.html
+  - title: 利根町 第49回利根町民納涼花火大会
+    url: https://www.town.tone.ibaraki.jp/kanko-bunka/ibenntogyouzi/hanabi/page006051.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/list/ar0308/yatai/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.town.tone.ibaraki.jp/kanko-bunka/ibenntogyouzi/hanabi/page006051.html
+    source_name: 利根町
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 花火の打ち上げは20時から（予定）。予備日は8月23日

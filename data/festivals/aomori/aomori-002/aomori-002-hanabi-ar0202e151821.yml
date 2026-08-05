@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 大平岸壁
-  address: null
-  lat: null
-  lng: null
+  address: むつ市港町
+  lat: 41.280613
+  lng: 141.182599
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shimokita-tourism.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0202e151821/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR下北駅から徒歩20分

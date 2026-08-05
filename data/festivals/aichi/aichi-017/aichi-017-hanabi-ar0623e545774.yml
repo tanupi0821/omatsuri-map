@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 常滑りんくう海浜緑地
-  address: null
-  lat: null
-  lng: null
+  address: 常滑市りんくう町一丁目
+  lat: 34.886864
+  lng: 136.822933
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://rinku-beach.jp/sunset-hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-13
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e545774/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名古屋鉄道りんくう常滑駅徒歩13分

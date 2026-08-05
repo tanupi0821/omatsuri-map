@@ -9,13 +9,15 @@ area:
 venue:
   name: 土手町コースほか
   address: 弘前市
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.603662
+  lng: 140.467751
+organizer: 弘前市立観光館
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hirosaki-kanko.or.jp/edit.html?id=cat02_summer_neputa
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e4839/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neputa_%28Hirosaki%2C_Japan%29.jpg/1280px-Neputa_%28Hirosaki%2C_Japan%29.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Hirosaki_Neputa_Festival_02.jpg
+station: JR弘前駅から徒歩15分

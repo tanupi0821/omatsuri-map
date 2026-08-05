@@ -7,8 +7,8 @@ area:
   city: 潮来市
   ward: null
 venue:
-  name: 潮来地区
-  address: null
+  name: 素鵞熊野神社および潮来地区
+  address: 茨城県潮来市潮来1337
   lat: null
   lng: null
 organizer: null
@@ -16,7 +16,15 @@ tags:
   - 山車
   - 神輿
 description: null
-links: []
+links:
+  - title: 潮来市 潮来祇園祭禮
+    url: https://www.city.itako.lg.jp/kankou/kankou-event/kankou-mainevent/page001342.html
+  - title: 潮来お祭り委員会
+    url: https://www.omaturi.jp/
+  - title: 潮来市 潮来祇園祭禮
+    url: https://www.city.itako.lg.jp/kankou/kankou-event/kankou-mainevent/page001342.html
+  - title: 潮来お祭り委員会
+    url: https://www.omaturi.jp/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +34,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.itako.lg.jp/kankou/kankou-event/kankou-mainevent/page001342.html
+    source_name: 潮来市
+    source_type: gov
+    checked_at: 2026-08-05
 stalls: unknown
+shrine: 素鵞熊野神社
+recurrence: 8月第1金曜日から3日間
+recurrence_source: https://www.city.itako.lg.jp/kankou/kankou-event/kankou-mainevent/page001342.html

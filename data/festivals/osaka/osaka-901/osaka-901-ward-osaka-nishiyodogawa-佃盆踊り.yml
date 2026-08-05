@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 新佃公園
-  address: "大阪市西淀川区 佃2-6 "
+  address: 大阪市西淀川区佃2-6
   lat: null
   lng: null
 organizer: 佃地域

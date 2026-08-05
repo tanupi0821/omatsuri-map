@@ -9,13 +9,15 @@ area:
 venue:
   name: 大街道商店街、千舟町、城山公園(堀之内地区)
   address: 松山市千舟町、堀之内
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.836713
+  lng: 132.767608
+organizer: 松山まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://baseball-dance.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0938e4760/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 伊予鉄道松山市駅からすぐ

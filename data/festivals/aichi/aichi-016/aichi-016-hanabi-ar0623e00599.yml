@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 東栄ドーム周辺
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 北設楽郡東栄町大字本郷
+  lat: 35.066713
+  lng: 137.707101
+organizer: 東栄町観光まちづくり協会
 stalls: yes
 tags:
   - 花火
@@ -27,5 +27,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00599/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR東栄駅からタクシーで約10分、JR東栄駅から町営バス(うえい温泉前行き)で約10分、本郷停留所下車徒歩5分

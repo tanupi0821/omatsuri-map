@@ -9,13 +9,15 @@ area:
 venue:
   name: 八戸市中心街
   address: 八戸市内丸
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.511558
+  lng: 141.489273
+organizer: 八戸三社大祭実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://visithachinohe.com/stories/sannshataisai_schedule/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e473095/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-001.JPG
+station: JR本八戸駅から徒歩5分

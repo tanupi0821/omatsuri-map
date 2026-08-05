@@ -9,13 +9,15 @@ area:
 venue:
   name: 綴子神社
   address: 北秋田市綴子字西館46
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.252984
+  lng: 140.368442
+organizer: 道の駅たかのす 大太鼓の館
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kitaakita.akita.jp/archive/contents-6038
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e507415/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR鷹ノ巣駅からタクシーで約10分

@@ -7,26 +7,29 @@ area:
   city: 長瀞町
   ward: null
 venue:
-  name: 荒川岩畳周辺
+  name: 長瀞岩畳周辺
   address: null
   lat: null
   lng: null
 station: 長瀞
-organizer: null
+organizer: 長瀞船玉まつり実行委員会
 stalls: yes
 tags:
   - 花火
   - 灯籠流し
 description: null
-links: []
+links:
+  - title: 長瀞町観光協会 令和8年度 長瀞船玉まつり
+    url: https://www.nagatoro.gr.jp/funadama2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:45
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.nagatoro.gr.jp/funadama2026/
+    source_name: 長瀞町観光協会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 万灯船は17時10分から、灯ろう流しは18時20分から、花火は19時15分から

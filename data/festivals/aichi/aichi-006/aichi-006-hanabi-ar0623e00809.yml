@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 刈谷市総合運動公園
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 刈谷市新田町五丁目
+  lat: 35.017606
+  lng: 137.00323
+organizer: 刈谷わんさか祭り事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kariya-guide.com/festival/000030.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00809/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄富士松駅または一ツ木駅から徒歩20分

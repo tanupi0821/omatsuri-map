@@ -1,0 +1,32 @@
+id: nikko-nantaisan-tohai-taisai
+name: 男体山登拝大祭
+kind: 神事
+scale: 市
+area:
+  pref: 栃木県
+  city: 日光市
+  ward: null
+venue:
+  name: 日光二荒山神社・男体山
+  address: null
+  lat: null
+  lng: null
+organizer: 日光二荒山神社
+shrine: 日光二荒山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 7/31〜8/7の期間。掲載の2日付は期間の初日と最終日

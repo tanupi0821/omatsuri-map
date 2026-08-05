@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 日間賀島西浜海水浴場
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 知多郡南知多町大字日間賀島
+  lat: 34.705287
+  lng: 136.996685
+organizer: 日間賀島観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://minamichita-kk.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 20:40
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00180/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名古屋鉄道河和駅から河和港まで徒歩10分、河和港から名鉄海上観光船で約20分、日間賀島西港下船すぐ

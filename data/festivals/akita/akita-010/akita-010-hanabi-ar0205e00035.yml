@@ -9,22 +9,25 @@ area:
 venue:
   name: 道川漁港海上
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 39.542813
+  lng: 140.047163
+organizer: 由利本荘市観光協会岩城支部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.yurihonjo-kanko.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0205e00035/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR岩城みなと駅から徒歩5分

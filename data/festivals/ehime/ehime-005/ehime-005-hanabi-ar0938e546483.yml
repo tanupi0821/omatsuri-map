@@ -9,22 +9,25 @@ area:
 venue:
   name: 佐田岬はなはな
   address: null
-  lat: null
-  lng: null
+  lat: 33.390802
+  lng: 132.117081
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.shirasu.jp/park/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-16
-    start_time: null
+    start_time: 19:45
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0938e546483/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR八幡浜駅から伊予鉄南予バスで約70分、三崎港口停留所下車すぐ

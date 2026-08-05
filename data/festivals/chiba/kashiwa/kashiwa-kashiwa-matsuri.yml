@@ -12,10 +12,14 @@ venue:
   lat: null
   lng: null
 station: 柏
-organizer: null
+organizer: 柏まつり実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 柏市 2026柏まつりの開催時期の変更について
+    url: https://www.city.kashiwa.lg.jp/koho/pressrelease/r7houdou/2gatsu/r8020601.html
+  - title: 柏商工会議所 柏まつり
+    url: https://www.kashiwa-cci.or.jp/other-organizations/kashiwamaturi
 occurrences:
   - year: 2026
     dates:
@@ -24,8 +28,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
-    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
-    source_type: media
-    checked_at: 2026-08-03
+    source_url: https://www.city.kashiwa.lg.jp/koho/pressrelease/r7houdou/2gatsu/r8020601.html
+    source_name: 柏市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 2026年から開催時期を7月下旬から9月に変更
 stalls: unknown

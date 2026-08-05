@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 姫島公園
-  address: "大阪市西淀川区 姫島4-14 "
+  address: 大阪市西淀川区姫島4-14
   lat: null
   lng: null
 organizer: 姫島地域

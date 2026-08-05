@@ -1,0 +1,33 @@
+id: shiki-jinjacho-8878-0
+name: 敷島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 志木市
+  ward: null
+venue:
+  name: 敷島神社
+  address: 志木市本町2-9-40
+  lat: null
+  lng: null
+recurrence: 5月10日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8878/
+organizer: 敷島神社
+shrine: 敷島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8878/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月10日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -9,13 +9,15 @@ area:
 venue:
   name: 秋田県雄勝郡羽後町中心部
   address: 雄勝郡羽後町西馬音内本町
-  lat: null
-  lng: null
-organizer: null
+  lat: 39.199628
+  lng: 140.404308
+organizer: 西馬音内盆踊り実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ugokanko.com/nishimonaibonodori2026/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e41986/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nishimonai_Bon_Odori.jpg/1280px-Nishimonai_Bon_Odori.jpg
@@ -37,3 +39,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori.jpg
+station: JR湯沢駅からバスで約25分、橋場停留所下車徒歩4分

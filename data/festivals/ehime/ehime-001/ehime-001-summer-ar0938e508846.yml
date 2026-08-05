@@ -9,13 +9,15 @@ area:
 venue:
   name: 今治港、広小路、銀座商店街、本町商店街
   address: 今治市
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.07006
+  lng: 133.004342
+organizer: 今治市民のまつり振興会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://onmaku.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0938e508846/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR今治駅から徒歩15分

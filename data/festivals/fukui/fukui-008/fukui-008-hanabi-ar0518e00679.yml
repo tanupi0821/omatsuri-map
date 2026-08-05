@@ -9,22 +9,25 @@ area:
 venue:
   name: 足羽川河川敷(木田橋～板垣橋)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.053023
+  lng: 136.224487
+organizer: 公益財団法人福井市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fuku-iro.jp/fukui_fes
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0518e00679/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR福井駅から徒歩10分

@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 北秋田市　阿仁河川公園
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 北秋田市阿仁水無
+  lat: 40.000175
+  lng: 140.398439
+organizer: 阿仁の花火実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kitaakita.akita.jp/archive/contents-6041
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0205e00040/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 秋田内陸縦貫鉄道阿仁合駅から徒歩2分

@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 友水公園(ボートプラザアクアパル前河川敷)
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 由利本荘市下川原中島
+  lat: 39.394188
+  lng: 140.039259
+organizer: 由利本荘市観光協会本荘支部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yurihonjo-kanko.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0205e00036/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR羽後本荘駅から徒歩30分

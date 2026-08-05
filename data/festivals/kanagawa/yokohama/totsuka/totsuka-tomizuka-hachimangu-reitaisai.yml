@@ -7,16 +7,20 @@ area:
   city: 横浜市
   ward: 戸塚区
 venue:
-  name: 富塚八幡宮および周辺
-  address: null
+  name: 冨塚八幡宮および周辺
+  address: 横浜市戸塚区戸塚町3828
   lat: null
   lng: null
 organizer: null
-shrine: 富塚八幡宮
+shrine: 冨塚八幡宮
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 冨塚八幡宮
+    url: http://www.tomiduka.net/
+  - title: 神奈川県神社庁 冨塚八幡宮
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204082-000/
 occurrences:
   - year: 2026
     dates:
@@ -31,5 +35,5 @@ occurrences:
     note: 8/1は宵宮、8/2は例大祭・神輿渡御
     source_type: media
 recurrence: 8月第1日曜日
-recurrence_source: https://www.totsuka-pallso.jp/mailmagazine/yado/44.html
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1204082-000/
 stalls: unknown

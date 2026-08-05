@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 八木下川原
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 横手市増田町八木
+  lat: 39.194583
+  lng: 140.538759
+organizer: 一般社団法人 増田町観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://masuda-matta.com/20260914_102hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-14
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0205e00042/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR十文字駅からバス(稲川方面行きで約10分)で役場前停留所下車、徒歩5分

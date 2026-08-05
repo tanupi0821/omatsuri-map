@@ -7,7 +7,7 @@ area:
   city: 多古町
   ward: null
 venue:
-  name: 多古町内
+  name: 八坂神社周辺（多古町本町・新町・仲町・高根）
   address: null
   lat: null
   lng: null
@@ -17,16 +17,21 @@ tags:
   - 神輿
   - 山車
 description: null
-links: []
+links:
+  - title: 多古町 多古祇園祭
+    url: https://www.town.tako.chiba.jp/docs/2018012900186/
+  - title: 多古町商工会 多古祇園祭・しいかご舞
+    url: http://tako.or.jp/kankou/gionmaturi.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.town.tako.chiba.jp/docs/2018012900186/
+    source_name: 多古町
+    source_type: gov
+    checked_at: 2026-08-05
+shrine: 八坂神社

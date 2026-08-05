@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
     source_name: 堺市南区

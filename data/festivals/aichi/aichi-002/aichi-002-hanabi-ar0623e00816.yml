@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 桜淵公園
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 新城市庭野
+  lat: 34.893134
+  lng: 137.505216
+organizer: 新城市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shinshirokankou.com/feature/detail/124/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00816/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR新城駅から徒歩15分

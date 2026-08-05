@@ -7,15 +7,23 @@ area:
   city: 益子町
   ward: null
 venue:
-  name: 八坂神社周辺
-  address: null
+  name: 鹿島神社周辺
+  address: 栃木県芳賀郡益子町益子1685-1
   lat: null
   lng: null
-organizer: null
-shrine: 八坂神社
+organizer: 鹿島神社総代会
+shrine: 八坂神社（鹿島神社境内社）
 tags: []
 description: null
-links: []
+links:
+  - title: 益子町 八坂神社祇園祭（益子祇園祭・天王祭）
+    url: https://www.town.mashiko.lg.jp/page/page002973.html
+  - title: 益子町観光協会 益子祇園祭
+    url: http://blog.mashiko-kankou.org/staff/?p=22629
+  - title: 益子町 八坂神社祇園祭（益子祇園祭・天王祭）
+    url: https://www.town.mashiko.lg.jp/page/page002973.html
+  - title: 益子町観光協会 益子祇園祭
+    url: http://blog.mashiko-kankou.org/staff/?p=22629
 occurrences:
   - year: 2026
     dates:
@@ -25,8 +33,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.town.mashiko.lg.jp/page/page002973.html
+    source_name: 益子町
+    source_type: gov
+    checked_at: 2026-08-05
 stalls: unknown

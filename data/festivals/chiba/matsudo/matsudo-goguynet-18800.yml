@@ -1,0 +1,31 @@
+id: matsudo-goguynet-18800
+name: 第27回小金宿まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: JR北小金駅前広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsudo.goguynet.jp/2026/07/22/post-18800/
+    source_name: 号外NET 松戸市
+    source_type: media
+    checked_at: 2026-08-04

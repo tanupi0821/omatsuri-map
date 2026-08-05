@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 明和町ふるさとの広場
-  address: null
+  address: 群馬県邑楽郡明和町南大島1073
   lat: null
   lng: null
-organizer: null
+organizer: 明和まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/list/ar0310/yatai/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回（令和7年度）の発表による。2026年の発表は未確認

@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: サンセットビーチあさむし
-  address: null
-  lat: null
-  lng: null
+  address: 青森市大字浅虫
+  lat: 40.895321
+  lng: 140.859783
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://asamushi.org/column/662/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0202e00011/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 青い森鉄道浅虫温泉駅から徒歩5分

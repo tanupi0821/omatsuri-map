@@ -9,13 +9,15 @@ area:
 venue:
   name: 円頓寺商店街・円頓寺本町商店街内
   address: 名古屋市西区那古野1～2
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.176373
+  lng: 136.890082
+organizer: 円頓寺本町商店街
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://endojishotengai.com/news01/3075.html
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74976/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nagoya-Endoji-2.jpg/1280px-Nagoya-Endoji-2.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC0
     license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
     source: https://commons.wikimedia.org/wiki/File:Nagoya-Endoji-3.jpg
+station: 名古屋市営地下鉄国際センター駅から徒歩5分

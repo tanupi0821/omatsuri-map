@@ -9,22 +9,25 @@ area:
 venue:
   name: 肱北河原
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.509956
+  lng: 132.543157
+organizer: 大洲市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.oozukankou.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-03
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0938e00116/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR伊予大洲駅から肱北河原まで徒歩15分

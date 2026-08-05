@@ -8,23 +8,25 @@ area:
   ward: null
 venue:
   name: 秋田県大仙市協和船岡庄内地区
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 大仙市協和船岡
+  lat: 39.679079
+  lng: 140.386546
+organizer: 協和七夕花火実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://daisenkankou.com/near/協和七夕花火
 occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0205e467443/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

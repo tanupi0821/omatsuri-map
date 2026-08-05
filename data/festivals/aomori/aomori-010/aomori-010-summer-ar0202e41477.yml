@@ -9,23 +9,26 @@ area:
 venue:
   name: 五所川原市内中心部
   address: 五所川原市
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.810926
+  lng: 140.443222
+organizer: 五所川原市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tachineputa-official.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-04
       - 2026-08-08
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e41477/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR五所川原駅から徒歩5分

@@ -9,13 +9,15 @@ area:
 venue:
   name: 小川原湖公園(小川原湖湖水浴場)
   address: 上北郡東北町上野南谷地
-  lat: null
-  lng: null
+  lat: 40.730417
+  lng: 141.281831
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.tohoku.lg.jp/kankou/event2024_02.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e151494/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 青い森鉄道上北町駅からタクシーで約5分

@@ -9,23 +9,26 @@ area:
 venue:
   name: 名古屋城
   address: 名古屋市中区本丸1-1
-  lat: null
-  lng: null
+  lat: 35.18555
+  lng: 136.899048
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.nagoyajo.city.nagoya.jp/nagoya-jo_interactive/fes2025-2026/summer/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e411060/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 名古屋市営地下鉄名城線名古屋城駅から徒歩5分、または名古屋駅からなごや観光ルートバス「メーグル」名古屋城下車すぐ

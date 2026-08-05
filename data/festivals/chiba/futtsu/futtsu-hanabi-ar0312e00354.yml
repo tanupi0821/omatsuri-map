@@ -9,22 +9,24 @@ area:
 venue:
   name: 富津海水浴場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.302756
+  lng: 139.816967
+organizer: 富津市民花火大会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://futtsu-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00354/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

@@ -7,24 +7,29 @@ area:
   city: 大田原市
   ward: null
 venue:
-  name: 大田原市内
+  name: 大田原市 荒町・上町・仲町・下町商店街通り
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 与一まつり実行委員会（大田原市商工観光課内）
 tags: []
 description: null
-links: []
+links:
+  - title: 大田原市 大田原与一まつり
+    url: https://www.city.ohtawara.tochigi.jp/docs/2023061300023/
+  - title: とちぎ旅ネット 第43回大田原与一まつり
+    url: https://www.tochigiji.or.jp/event/e15399
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/2.html
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回（第42回）の発表による。2026年の発表は未確認
 stalls: unknown

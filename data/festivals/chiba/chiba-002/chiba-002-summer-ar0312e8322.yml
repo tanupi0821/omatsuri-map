@@ -9,13 +9,15 @@ area:
 venue:
   name: 片貝海水浴場
   address: 山武郡九十九里町片貝地先
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.527581
+  lng: 140.452276
+organizer: ふるさとまつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.kujukuri.chiba.jp/0000008435.html
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0312e8322/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR東金駅からバスで西の下停留所下車、徒歩5分

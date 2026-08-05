@@ -7,14 +7,16 @@ area:
   city: 草津町
   ward: null
 venue:
-  name: 草津温泉
+  name: 湯路広場・熱乃湯・白根神社ほか
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 草津町・草津温泉観光協会
 tags: []
 description: null
-links: []
+links:
+  - title: 草津温泉観光協会 草津温泉感謝祭
+    url: https://www.kusatsu-onsen.ne.jp/kusatsu_kansya/
 occurrences:
   - year: 2026
     dates:
@@ -23,8 +25,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.kusatsu-onsen.ne.jp/kusatsu_kansya/
+    source_name: 草津温泉観光協会
+    source_type: official
+    checked_at: 2026-08-05
 stalls: unknown

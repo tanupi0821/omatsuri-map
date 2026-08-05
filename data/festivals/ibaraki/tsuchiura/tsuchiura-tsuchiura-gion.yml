@@ -11,21 +11,31 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 一般社団法人 土浦市観光協会
 tags: []
 description: null
-links: []
+links:
+  - title: 土浦市観光協会 令和8年度 土浦八坂神社祇園祭
+    url: https://www.tsuchiura-kankou.jp/whats_new/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6-%E5%9C%9F%E6%B5%A6%E5%85%AB%E5%9D%82%E7%A5%9E%E7%A4%BE%E7%A5%87%E5%9C%92%E7%A5%AD/
+  - title: 土浦八坂神社
+    url: https://www.tuchiura-yasakajinja.com/
+  - title: 土浦市観光協会 令和8年度 土浦八坂神社祇園祭
+    url: https://www.tsuchiura-kankou.jp/whats_new/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6-%E5%9C%9F%E6%B5%A6%E5%85%AB%E5%9D%82%E7%A5%9E%E7%A4%BE%E7%A5%87%E5%9C%92%E7%A5%AD/
+  - title: 土浦八坂神社
+    url: https://www.tuchiura-yasakajinja.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.tsuchiura-kankou.jp/whats_new/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6-%E5%9C%9F%E6%B5%A6%E5%85%AB%E5%9D%82%E7%A5%9E%E7%A4%BE%E7%A5%87%E5%9C%92%E7%A5%AD/
+    source_name: 土浦市観光協会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 初日（7月24日）は19時から19時30分の神事のみ
 stalls: unknown
+shrine: 八坂神社

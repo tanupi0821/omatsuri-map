@@ -15,7 +15,11 @@ station: 宇都宮
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 宇都宮商工会議所 2026年度オリオン七夕まつり 開催概要
+    url: https://www.u-cci.or.jp/chiikishinkou/tanabata_fes/
+  - title: 宇都宮観光ナビ オリオン七夕まつり
+    url: https://www.utsunomiya-cvb.org/event/detail_20039.html
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.u-cci.or.jp/chiikishinkou/tanabata_fes/
+    source_name: 宇都宮商工会議所
+    source_type: official
+    checked_at: 2026-08-05
 stalls: unknown

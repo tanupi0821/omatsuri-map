@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 八戸館鼻漁港
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 八戸市新湊三丁目
+  lat: 40.528203
+  lng: 141.529394
+organizer: 八戸花火大会実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://8hanabi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0202e00027/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR陸奥湊駅から徒歩10分またはJR白銀駅から徒歩20分

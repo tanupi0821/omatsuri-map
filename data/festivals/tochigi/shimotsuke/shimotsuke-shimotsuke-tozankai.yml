@@ -7,24 +7,29 @@ area:
   city: 下野市
   ward: null
 venue:
-  name: 下野国分寺
+  name: 天平の丘公園（下野国分寺跡に隣接）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 下野市観光協会
 tags:
   - 灯籠
 description: null
-links: []
+links:
+  - title: 下野市 しもつけ燈桜会
+    url: https://www.city.shimotsuke.lg.jp/0386/info-0000010553-3.html
+  - title: プチハピしもつけ しもつけ燈桜会
+    url: https://shimotsuke-pr.jp/tooue
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.shimotsuke.lg.jp/0386/info-0000010553-3.html
+    source_name: 下野市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による。2026年の発表は未確認
 stalls: unknown

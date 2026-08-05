@@ -7,7 +7,7 @@ area:
   city: 成田市
   ward: null
 venue:
-  name: 成田山新勝寺および成田山表参道
+  name: 成田山表参道・大本堂前・JR成田駅前広場
   address: null
   lat: null
   lng: null
@@ -16,7 +16,9 @@ organizer: null
 tags:
   - 山車
 description: null
-links: []
+links:
+  - title: 成田市観光協会 成田祇園祭
+    url: http://www.nrtk.jp/enjoy/shikisaisai/gion-festival.html
 occurrences:
   - year: 2026
     dates:
@@ -26,9 +28,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://maruchiba.jp/event/detail_10868.html
-    source_name: ちば観光ナビ（千葉県公式観光サイト）
+    source_url: http://www.nrtk.jp/enjoy/shikisaisai/gion-festival.html
+    source_name: 成田市観光協会
     source_type: gov
-    checked_at: 2026-08-02
+    checked_at: 2026-08-05
     note: 2026年は佐原の大祭夏祭りと11年ぶりに同日開催
 stalls: unknown

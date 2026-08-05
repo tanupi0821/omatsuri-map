@@ -9,13 +9,15 @@ area:
 venue:
   name: 弘前城
   address: 弘前市大字下白銀町1
-  lat: null
-  lng: null
-organizer: null
+  lat: 40.607449
+  lng: 140.464183
+organizer: 弘前市観光部公園緑地課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.hirosaki.aomori.jp/ishigaki/2025-1209-1422-48.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e602632/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR弘前駅から徒歩30分またはタクシーで約10分
