@@ -2,12 +2,32 @@
 import Base from '../../layouts/Base.astro';
 import Ad from '../../components/Ad.astro';
 import { SITE_NAME } from '../../lib/site.js';
-import { loadFestivals, latestOccurrence, formatDates, formatTime, STATUS_LABEL, staleDays } from '../../lib/data.js';
+import { loadFestivals, latestOccurrence, formatDates, formatTime, STATUS_LABEL, staleDays, locators } from '../../lib/data.js';
 import { festivalSummary, festivalMetaDescription } from '../../lib/festival-summary.js';
 
 export function getStaticPaths() {
   const all = loadFestivals();
   const today = new Date().toISOString().slice(0, 10);
+
+  // 同じ市区町村に同じ名前の祭りが何件あるかを先に数える。
+  // 1 件しかないものは地名を細かくする必要がない
+  const groups = new Map();
+  for (const f of all) {
+    const k = `${f.area.city}${f.area.ward ?? ''}|${f.name}`;
+    groups.set(k, (groups.get(k) ?? 0) + 1);
+  }
+  // 衝突している組の中で、どこまで細かくすれば全員バラバラになるかを決める
+  const whereOf = new Map();
+  for (const f of all) {
+    const k = `${f.area.city}${f.area.ward ?? ''}|${f.name}`;
+    const cand = locators(f);
+    if (groups.get(k) === 1) { whereOf.set(f.id, cand[0]); continue; }
+    const peers = all.filter((x) => `${x.area.city}${x.area.ward ?? ''}|${x.name}` === k);
+    // 粗い方から試して、その粒度で自分だけになる最初のものを使う
+    const lv = [1, 2, 3].find((i) =>
+      peers.filter((x) => locators(x)[i] === cand[i]).length === 1);
+    whereOf.set(f.id, cand[lv ?? 1]);
+  }
 
   return all.map((f) => {
     // 同じ市区町村の他の祭り。1 件見た人は「近所で他に何かないか」を知りたい。
@@ -24,7 +44,7 @@ export function getStaticPaths() {
       .sort((a, b) => (a.next ?? '9999').localeCompare(b.next ?? '9999'))
       .slice(0, 8);
 
-    return { params: { id: f.id }, props: { f, nearby } };
+    return { params: { id: f.id }, props: { f, nearby, where: whereOf.get(f.id) } };
   });
 }
 
@@ -37,7 +57,7 @@ const SOURCE_TIER = {
   aggregator: 'まとめサイト',
 };
 
-const { f, nearby } = Astro.props;
+const { f, nearby, where } = Astro.props;
 const occ = latestOccurrence(f);
 const past = [...(f.occurrences ?? [])].sort((a, b) => b.year - a.year).slice(1);
 const thisYear = new Date().getFullYear();
@@ -99,22 +119,8 @@ const jsonld =
  */
 const place = `${f.area.city}${f.area.ward ?? ''}`;
 const bare = place.replace(/[市区町村]$/, '');
-// 同じ区に同名の神社が複数ある（足立区の稲荷神社 例祭が 4 件）。
-// 鎮座地の町名まで入れて初めて区別が付く
-// 住所は「横浜市青葉区元石川町」のように市も区も含む。素朴に最初の
-// 市区町村で切ると「青葉区元石川町」が残り、「横浜市青葉区青葉区…」になる
-//
-// **区が無い市（ward が null）では区での切り出しを試してはいけない。**
-// 選択肢を `^.*?${''}` にすると空文字にマッチして 1 文字も削られず、
-// town に市名ごと残って「藤沢市藤沢市藤沢 白旗神社…」になる（1206 件で発生していた）
-const cut = f.area.ward
-  ? new RegExp(`^.*?${f.area.ward}|^.*?[市区町村]`)
-  : /^.*?[市区町村]/;
-const town = (f.venue?.address ?? '')
-  .replace(cut, '')
-  .replace(/[0-9０-９\-ー－].*$/, '')
-  .trim();
-const where = town.length >= 2 && !place.includes(town) ? `${place}${town}` : place;
+// where（題名に付ける地名）は getStaticPaths 側で、同名の祭りと
+// 区別が付く粒度まで細かくしたものが渡ってくる。`locators()` を参照
 const title = f.name.includes(bare)
   ? `${f.name}｜${occ?.year}年の日程`
   : `${where} ${f.name}｜${occ?.year}年の日程`;

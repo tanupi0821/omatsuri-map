@@ -106,3 +106,34 @@ export function staleDays(occ, today = new Date()) {
   const d = new Date(`${occ.checked_at}T00:00:00Z`);
   return Math.floor((today - d) / 86400000);
 }
+
+/**
+ * 題名に付ける地名を、**同名の祭り同士が区別できるところまで**細かくする。
+ *
+ * 大田区西糀谷には天祖神社が 5 社あり、町名までだと 5 ページとも
+ * 「大田区西糀谷 天祖神社 例祭」で同じ題名になる。住所は
+ * 1-25-3 / 2-20-22 / 3-19-18 / 4-9-17 / 4-7-18 と全部違うので、
+ * 丁目まで入れれば区別が付く。
+ *
+ * 最初から丁目まで入れると、衝突していない大多数の題名が無駄に長くなる。
+ * **区別が必要なときだけ細かくする**のが狙い。
+ */
+export function locators(f) {
+  const place = `${f.area.city}${f.area.ward ?? ''}`;
+  // 住所は「横浜市青葉区元石川町」のように市も区も含む。素朴に最初の
+  // 市区町村で切ると「青葉区元石川町」が残り「横浜市青葉区青葉区…」になる。
+  // 区が無い市（ward が null）で区の切り出しを試すと `^.*?` が空文字に
+  // マッチして 1 文字も削れず、市名ごと残ってしまう
+  const cut = f.area.ward
+    ? new RegExp(`^.*?${f.area.ward}|^.*?[市区町村]`)
+    : /^.*?[市区町村]/;
+  const tail = (f.venue?.address ?? '').replace(cut, '').trim();
+  const town = tail.replace(/[0-9０-９\-ー－].*$/, '').trim();
+  // 丁目まで（「西糀谷3」）。番地まで出すと題名が住所録になるので止める
+  const block = tail.replace(/^([^0-9０-９]*[0-9０-９]+).*$/, '$1').trim();
+
+  const add = (s) => (s.length >= 2 && !place.includes(s) ? `${place}${s}` : place);
+  // 粗い順に並べる。呼ぶ側が衝突しなくなるまで後ろへ進む。
+  // 最後は番地まで（西糀谷 4-9-17 と 4-7-18 は丁目が同じで区別が付かない）
+  return [place, add(town), add(block), add(tail)];
+}
