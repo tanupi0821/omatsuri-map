@@ -438,12 +438,12 @@ const fmt = (d) => `${Number(d.slice(5, 7))}月${Number(d.slice(8, 10))}日`;
     }
     /* 花火は見出しと重なるので、上ではなく空の余白へ寄せて小さくする */
     .fw { width: 46%; right: -2%; top: -6px; opacity: .7; }
-    .yag { width: 30%; right: -1%; bottom: 26px; opacity: .8; }
+    .yag { width: 26%; right: -1%; bottom: 4px; opacity: .75; }
     .ground { height: 108px; }
     .hero .wrap { padding-top: var(--s3); padding-bottom: 100px; }
     /* 幅いっぱいに置いて、端の揃わない見た目をなくす */
     .weekend { display: flex; width: 100%; }
     .weekend .go { padding: 0 var(--s3) 0 var(--s1); }
-    .herostats { gap: var(--s1) var(--s3); font-size: var(--t1); }
+    .herostats { gap: var(--s1) var(--s3); font-size: var(--t1); max-width: 74%; }
   }
 </style>
