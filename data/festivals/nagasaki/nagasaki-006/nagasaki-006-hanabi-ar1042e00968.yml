@@ -9,9 +9,9 @@ area:
 venue:
   name: 口之津港緑地公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.610277
+  lng: 130.18563
+organizer: マリンフェスタ振興委員会事務局
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00968/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR諫早駅から口之津・大屋行バスで約80分、口之津ターミナル下車すぐ

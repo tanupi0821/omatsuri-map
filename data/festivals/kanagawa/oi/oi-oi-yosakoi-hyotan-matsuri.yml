@@ -7,24 +7,57 @@ area:
   city: 大井町
   ward: null
 venue:
-  name: 大井町役場周辺・中央通り
-  address: null
+  name: おおい中央公園（大井町役場北側）
+  address: 神奈川県足柄上郡大井町大井中央284
   lat: null
   lng: null
 station: 上大井
-organizer: null
+organizer: 大井町 地域振興課
 tags: []
 description: null
-links: []
+links:
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
+  - title: 大井よさこいひょうたん祭 公式
+    url: https://ooi-hyoutanmatsuri.com/
+  - title: 大井町観光サイト 大井よさこいひょうたん祭
+    url: https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/oi-machi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://ooi-hyoutanmatsuri.com/
+    source_name: 大井よさこいひょうたん祭実行委員会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 荒天のときは翌8月9日に延期
 stalls: unknown

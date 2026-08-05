@@ -9,23 +9,25 @@ area:
 venue:
   name: 青い海と緑の広場
   address: null
-  lat: null
-  lng: null
+  lat: 33.746719
+  lng: 129.67948
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.instagram.com/ikishimahurusatohanabi/
 occurrences:
   - year: 2025
     dates:
       - 2025-10-04
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1042e386428/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない

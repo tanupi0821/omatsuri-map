@@ -9,13 +9,15 @@ area:
 venue:
   name: JR日向市駅前交流広場(あくがれ広場)、JR日向市駅西口周辺市街地
   address: 日向市上町
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.424927
+  lng: 131.625505
+organizer: 日向ひょっとこ夏祭り実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hyottoko.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e112864/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%95.jpg/1280px-%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%95.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%96.jpg
+station: JR日向市駅すぐ

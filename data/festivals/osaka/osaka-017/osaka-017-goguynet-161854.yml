@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ◎門真市ホームページ(第8回ふるさと門真まつり
+    url: https://www.city.kadoma.osaka.jp/soshiki/shiminbunkabu/9/5/3_1/furusatokadomamaturi/8kadomamasuri/37683.html
 occurrences:
   - year: 2026
     dates:

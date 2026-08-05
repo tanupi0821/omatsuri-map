@@ -9,8 +9,8 @@ area:
 venue:
   name: 白井総合公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.792627
+  lng: 140.05896
 organizer: null
 stalls: yes
 tags: []

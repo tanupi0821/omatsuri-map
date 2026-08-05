@@ -9,8 +9,8 @@ area:
 venue:
   name: 松戸中央公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.782647
+  lng: 139.903451
 organizer: null
 stalls: yes
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-29
       - 2026-08-30
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://matsudo.goguynet.jp/2026/07/27/post-18834/
     source_name: 号外NET 松戸市

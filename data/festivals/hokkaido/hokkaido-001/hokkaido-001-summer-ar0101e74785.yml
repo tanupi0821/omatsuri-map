@@ -9,25 +9,27 @@ area:
 venue:
   name: 大通公園
   address: 札幌市中央区大通西
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.060009
+  lng: 141.348323
+organizer: さっぽろ夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.sapporo.travel/summerfes/event/odori02/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74785/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg/1280px-SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY 2.0
     license_url: https://creativecommons.org/licenses/by/2.0
     source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._(20764442536).jpg
+station: 札幌市営地下鉄大通駅または西11丁目駅からすぐ

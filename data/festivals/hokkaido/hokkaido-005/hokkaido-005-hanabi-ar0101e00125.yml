@@ -9,14 +9,16 @@ area:
 venue:
   name: 岩内地方文化センター西側特設会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.983142
+  lng: 140.51424
+organizer: いわない怒涛まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.iwanai-kanko.jp/news/detail.html?id=1518
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00125/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR小樽駅から北海道中央バス(高速いわない号岩内行きで約90分)で岩内バスターミナル停留所下車、徒歩5分

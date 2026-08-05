@@ -9,21 +9,24 @@ area:
 venue:
   name: 釧路市北大通6丁目～13丁目
   address: 釧路市北大通6丁目～13丁目
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.987077
+  lng: 144.38355
+organizer: くしろ市民北海盆踊り会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fm946.com/broadcast/information/2026/06/post-14331/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-19
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:10
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e75780/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR釧路駅から徒歩すぐ

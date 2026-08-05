@@ -9,22 +9,25 @@ area:
 venue:
   name: 佐賀城跡北濠周辺
   address: null
-  lat: null
-  lng: null
+  lat: 33.249979
+  lng: 130.301811
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.saga.lg.jp/main/90584.html
 occurrences:
   - year: 2026
     dates:
       - 2026-05-23
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00312/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR佐賀駅から徒歩20分

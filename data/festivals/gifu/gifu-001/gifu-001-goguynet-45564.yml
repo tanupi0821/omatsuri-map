@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 08:00
+    end_time: 13:00
     status: confirmed
     source_url: https://ogaki.goguynet.jp/2026/07/19/ogaki_ichiba_summer2026/
     source_name: 号外NET 大垣市（西濃地域）

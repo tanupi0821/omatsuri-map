@@ -15,14 +15,16 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 花巻観光協会のHP
+    url: https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=41
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/08/04/tutizawatanabatamaturi/
     source_name: 号外NET 花巻市・北上市・遠野市

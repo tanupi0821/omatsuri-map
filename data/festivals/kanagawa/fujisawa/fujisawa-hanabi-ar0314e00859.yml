@@ -9,22 +9,25 @@ area:
 venue:
   name: 片瀬海岸西浜
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.308801
+  lng: 139.479922
+organizer: 公益社団法人藤沢市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.fujisawa-kanko.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-17
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00859/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 小田急片瀬江ノ島駅から徒歩2分、江ノ島電鉄江ノ島駅から徒歩5分、湘南モノレール湘南江の島駅から徒歩7分

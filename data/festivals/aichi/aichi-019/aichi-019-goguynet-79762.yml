@@ -8,20 +8,24 @@ area:
   ward: null
 venue:
   name: イズモホール豊橋（豊橋市東新町115）
-  address: null
+  address: 豊橋市東新町115
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: イズモホール豊橋 公式ホームページ
+    url: https://www.izumo-sosai.jp/ceremonyhall/toyohashi/toyohashi.html
+  - title: イズモホール豊橋 公式Instagram
+    url: https://www.instagram.com/izumo_toyohashi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 13:00
     status: confirmed
     source_url: https://toyohashi-tahara.goguynet.jp/2026/07/20/ad_2338_04726/
     source_name: 号外NET 豊橋市・田原市

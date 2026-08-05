@@ -9,8 +9,8 @@ area:
 venue:
   name: 大正大学
   address: null
-  lat: null
-  lng: null
+  lat: 35.743002
+  lng: 139.724591
 organizer: 大正大学
 stalls: unknown
 tags: []

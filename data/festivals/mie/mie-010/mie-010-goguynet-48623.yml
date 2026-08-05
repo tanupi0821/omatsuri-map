@@ -12,10 +12,14 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: イベント詳細(松菱公式サイト
+    url: https://tsu-matsubishi.co.jp/6f/entry57468.php
+  - title: イベント詳細(松菱公式サイト
+    url: https://tsu-matsubishi.co.jp/6f/entry57587.php
 occurrences:
   - year: 2026
     dates:

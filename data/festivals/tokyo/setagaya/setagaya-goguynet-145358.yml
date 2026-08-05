@@ -22,8 +22,8 @@ occurrences:
       - 2026-07-31
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://setagaya.goguynet.jp/2026/07/30/ryuunji/
     source_name: 号外NET 世田谷区

@@ -9,14 +9,16 @@ area:
 venue:
   name: 清水港(鹿島周辺)
   address: null
-  lat: null
-  lng: null
+  lat: 32.776765
+  lng: 132.959206
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ashizuri-fes.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0939e00708/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 土佐くろしお鉄道中村駅からバス(あしずり岬行きで約60分)でプラザパル停留所下車、徒歩5分

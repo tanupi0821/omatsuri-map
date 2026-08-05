@@ -9,14 +9,16 @@ area:
 venue:
   name: 狩野川千歳橋付近河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.03869
+  lng: 138.943084
+organizer: 伊豆の国市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://izunotabi.com/news/%e5%a4%8f%e5%ad%a3%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e9%96%8b%e5%82%ac%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%ef%bc%81/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0622e506941/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 伊豆箱根鉄道駿豆線伊豆長岡駅から徒歩5分

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 21:15
     status: confirmed
     source_url: https://neyagawa.goguynet.jp/2026/07/10/otoshi_bonodori-2/
     source_name: 号外NET 寝屋川市

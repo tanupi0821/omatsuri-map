@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-06-03
       - 2026-04-15
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 19:00
     status: confirmed
     source_url: https://amagasaki.goguynet.jp/2026/04/14/miyakohotelamagasaki-beer-garden-open-0603/
     source_name: 号外NET 尼崎市

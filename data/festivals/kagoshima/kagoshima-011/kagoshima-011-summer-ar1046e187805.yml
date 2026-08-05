@@ -9,13 +9,15 @@ area:
 venue:
   name: 知覧まち商店街
   address: 南九州市知覧町郡
-  lat: null
-  lng: null
-organizer: null
+  lat: 31.376514
+  lng: 130.438632
+organizer: 知覧ねぷた祭実行員会 事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.minamikyushu.lg.jp/kankosite/event/5566.html
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1046e187805/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR平川駅から徒歩20分

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ogaki.goguynet.jp/2026/07/11/sunomatatennomatsuri_ogaki2026/
     source_name: 号外NET 大垣市（西濃地域）

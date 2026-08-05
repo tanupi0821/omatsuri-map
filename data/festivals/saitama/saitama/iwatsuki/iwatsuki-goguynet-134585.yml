@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hisaizu.jp/event/5193/
+  - title: 「栄町通り商店街」公式Instagram
+    url: https://www.instagram.com/sakaecho_street
 occurrences:
   - year: 2026
     dates:

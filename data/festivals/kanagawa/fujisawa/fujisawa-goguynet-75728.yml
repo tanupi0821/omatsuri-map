@@ -9,8 +9,8 @@ area:
 venue:
   name: 辻堂・神台公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.340402
+  lng: 139.444258
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:00
     status: confirmed
     source_url: https://fujisawa.goguynet.jp/2026/07/03/fujisawatanabatamatsuri2026/
     source_name: 号外NET 藤沢市

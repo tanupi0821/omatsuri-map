@@ -9,13 +9,15 @@ area:
 venue:
   name: 古奈地区、長岡地区各所
   address: 伊豆の国市長岡1343(あやめ御前広場)
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.034252
+  lng: 138.935966
+organizer: 伊豆の国市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://izunotabi.com/schedule/genji-ayame-festival/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e309143/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 伊豆箱根鉄道伊豆長岡駅から徒歩15分

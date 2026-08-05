@@ -161,10 +161,110 @@ function usableAddress(raw, f) {
   // 市名から始まるように整える（既存データの書き方に合わせる）
   const i = Math.min(...needles.map((n) => a.indexOf(n)).filter((x) => x >= 0));
   if (i > 0) a = a.slice(i);
+
+  /**
+   * 番地の後ろに建物名や説明が続いていることがある。
+   *   「船橋市薬円台3丁目20-1 習志野駐屯地厚生センタ 内」
+   *   「新潟市秋葉区新津本町3丁目3-26 にいつ0番線待合室来て基地」
+   * 空白の前が数字で終わっていれば、そこまでが住所。
+   * 「多摩市落合 パルテノン大通り」のように数字で終わらないものは町名の続きなので残す。
+   */
+  a = a.replace(/^(.*\d)\s+(?![~〜～])\S.*$/, '$1');
+
   // 市名だけ、区名だけは情報として薄いので入れない（「一宮市」で終わるもの）
   const tail = a.replace(new RegExp(`^(${needles.map((n) => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})`), '');
   if (tail.replace(/[\s-]/g, '').length < 2) return null;
+  // 「新宿区2-9-2」のように町名が抜けているもの。出典の書き落としで、
+  // このままでは別の場所を指してしまう
+  if (/^\d/.test(tail)) return null;
+
+  // 政令市の区だけで始まっているときは市名を足す（既存データの書き方に合わせる）
+  if (ward && a.startsWith(ward) && city && !a.includes(city)) a = city + a;
   return a;
+}
+
+const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+/**
+ * 記事の地の文から住所を拾う。
+ *
+ * **形を厳しく見ないと文章を住所にしてしまう。** 素朴に「市名＋続き」で拾うと
+ *   「印西市大森にある六軒厳島神社の夏の祭礼が…」
+ *   「茅ヶ崎市は6月5日」「津市合併20周年」「鈴鹿市駅から徒歩約5分」
+ * を住所として取り込んでいた。そこで
+ *   - 使える文字を漢字・カタカナ・数字・「の」「丁目」「番地」「号」に限る
+ *     （ひらがなが入るのは地の文）
+ *   - 末尾が番地らしいこと（数字・丁目・番地・号で終わる）
+ *   - 年月日・徒歩・駅・周年などの語を含まない
+ * を全部満たすものだけを候補にする。
+ *
+ * さらに**どの会場の住所か**が言えるものに限る:
+ *   a) 直前に「住所」「所在地」の見出しがある
+ *   b) 会場名の直後にある（「◯◯公園（印西市戸神1045）」）
+ *   c) まとめ記事でなく、記事中で住所らしき文字列が 1 つだけ
+ */
+function addressFromText(text, f, { venueName, roundup }) {
+  const t = hanNum(text);
+  const needles = [f.area?.ward, f.area?.city, (f.area?.city ?? '').replace(/市.+区$/, '市')]
+    .filter(Boolean);
+  const BODY = '[一-鿿ァ-ヶー0-9の丁目番地号-]';
+  const NG = /年|月|日|周年|徒歩|駅|歴史|時|分|円|以上|限定|以降|以内|番線|号線|号館|周辺|付近/;
+
+  const cands = [];
+  for (const n of needles) {
+    for (const m of t.matchAll(new RegExp(`${esc(n)}${BODY}{2,25}`, 'g'))) {
+      const v = m[0];
+      if (NG.test(v.slice(n.length))) continue;
+      if (!/(\d|丁目|番地|号)$/.test(v)) continue;
+      if (!/\d/.test(v)) continue;
+      cands.push({ v, i: m.index });
+    }
+  }
+  if (!cands.length) return null;
+
+  const pick = (c) => usableAddress(c.v, f);
+
+  // a) 「住所：」「所在地：」の直後
+  for (const c of cands) {
+    if (/(住\s*所|所在地)[^\S\n]{0,3}[：:]?[^\S\n]{0,3}$/.test(t.slice(Math.max(0, c.i - 12), c.i))) {
+      const a = pick(c);
+      if (a) return a;
+    }
+  }
+  // b) 会場名のすぐ後ろ
+  if (venueName && venueName.length >= 3 && !/^.+[市区町村]内$/.test(venueName)) {
+    const vi = t.indexOf(venueName);
+    if (vi >= 0) {
+      for (const c of cands) {
+        if (c.i > vi && c.i - (vi + venueName.length) <= 40) {
+          const a = pick(c);
+          if (a) return a;
+        }
+      }
+    }
+  }
+  // c) 候補が 1 種類だけならそれ。まとめ記事はどの祭りのものか決められない
+  if (!roundup) {
+    const uniq = [...new Set(cands.map((c) => c.v))];
+    if (uniq.length === 1) return pick(cands[0]);
+  }
+  return null;
+}
+
+/**
+ * 会場名にカッコ書きで住所が入っていることがある。
+ * 「京都市立砂川小学校グラウンド（伏見区深草ケナサ町25-5）」
+ * 取り込みのときに会場名ごと入れてしまっているので、ここで住所として取り出す。
+ */
+function addressFromVenueName(venueName, f) {
+  if (!venueName) return null;
+  // 閉じ括弧まで揃っているものだけ。取り込みで会場名が途中で切れていることがあり、
+  // 「…（大阪市平野区長吉出戸5-3-5」を採ると番地を 1 桁落とす
+  for (const m of venueName.matchAll(/[（(]([^）)]{5,40})[）)]/g)) {
+    const a = usableAddress(m[1], f);
+    if (a && /(\d|丁目|番地|号)$/.test(a)) return a;
+  }
+  return null;
 }
 
 // ---------------------------------------------------------------------------
@@ -299,7 +399,20 @@ function pickLinks(html) {
     // 計測用のパラメータは落とす。同じ URL が別物として溜まるのを防ぐ
     const clean = url.replace(/[?&](utm_[^=]+|fbclid|igsh|ref_src|ref_url)=[^&]*/g, '')
       .replace(/[?&]$/, '');
-    if (!out.includes(clean)) out.push(clean);
+    if (out.some((x) => x.url === clean)) continue;
+    // 詳細ページは {title,url} で出す（素の URL 文字列だと URL がそのまま表示される）
+    // 記事の見出し記号や「〜はこちら」は題名ではないので落とす
+    const title = text
+      .replace(/^[・\-–—\s]+/, '')
+      .replace(/^[【\[（(]|[】\]）)]$/g, '')
+      // アンカーが複数行にまたがると煽り文まで入る
+      // （「◯◯公式サイト 開催決定！8月30日」）。最初の一文だけにする
+      .split(/[！!。]/)[0]
+      .replace(/\s*(はこちら|こちら|より|はコチラ)\s*$/, '')
+      .replace(/[、,。]+$/, '')
+      .slice(0, 30)
+      .trim();
+    out.push({ title: title || clean, url: clean });
   }
   return out;
 }
@@ -399,14 +512,14 @@ for (const path of walk(join(ROOT, 'data', 'festivals'))) {
   const ch = {};
 
   // ---- 住所 ----
+  // 強い順に見る。地図の埋め込み > 会場名のカッコ書き > 本文の「住所：」 > 地の文
   if (!f.venue?.address) {
-    let raw = chosen?.address ?? null;
-    if (!raw) {
-      // 本文に「住所：」「所在地：」があればそれ
-      const m = text.match(/(?:住\s*所|所在地)\s*[：:]?\s*([^\s、。]{5,50})/);
-      if (m) raw = m[1];
-    }
-    const addr = usableAddress(raw, f);
+    const addr = usableAddress(chosen?.address, f)
+      ?? addressFromVenueName(venueName, f)
+      ?? usableAddress(
+        (text.match(/(?:住\s*所|所在地)\s*[：:]?\s*([^\s、。]{5,50})/) ?? [])[1], f,
+      )
+      ?? addressFromText(text, f, { venueName, roundup });
     if (addr) { ch.venue = { ...(ch.venue ?? {}), address: addr }; stat.addr++; }
   }
 
@@ -437,11 +550,26 @@ for (const path of walk(join(ROOT, 'data', 'festivals'))) {
   }
 
   // ---- 公式リンク ----
-  const links = roundup ? [] : pickLinks(it.html).filter((u) => !(f.links ?? []).includes(u));
-  if (links.length) {
-    // 1 記事から大量に採らない。まとめ記事で他の祭りの公式サイトが混ざる
-    ch.links = links.slice(0, 2);
-    stat.links++;
+  // 1 記事から大量に採らない。まとめ記事で他の祭りの公式サイトが混ざる
+  const found = roundup ? [] : pickLinks(it.html).slice(0, 2);
+  if (found.length) {
+    /**
+     * 既存の links には**素の URL 文字列と {title,url} が混ざっている**。
+     * URL で突き合わせ、こちらが拾い直したものは題名つきに差し替える。
+     * 追加だけだと同じ URL が 2 通りの形で並んでしまう。
+     */
+    const urlOf = (l) => (typeof l === 'string' ? l : l?.url);
+    const mine = new Map(found.map((l) => [l.url, l]));
+    const merged = (f.links ?? []).map((l) => mine.get(urlOf(l)) ?? l);
+    const haveUrls = new Set(merged.map(urlOf));
+    const added = found.filter((l) => !haveUrls.has(l.url));
+    const next = [...merged, ...added];
+    // 中身で比べる。参照で比べると毎回「変わった」ことになり、
+    // 何度流しても差分が出続ける
+    if (JSON.stringify(next) !== JSON.stringify(f.links ?? [])) {
+      ch.links_set = next;
+      stat.links++;
+    }
   }
 
   if (!Object.keys(ch).length) continue;

@@ -36,3 +36,18 @@ occurrences:
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hachioji-matsuri_2019b6.jpg/1280px-Hachioji-matsuri_2019b6.jpg
+    width: 1000
+    height: 1499
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji-matsuri_2019b6.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hachioji-matsuri_2019b7.jpg/1280px-Hachioji-matsuri_2019b7.jpg
+    width: 1000
+    height: 1499
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji-matsuri_2019b7.jpg

@@ -9,13 +9,15 @@ area:
 venue:
   name: 杵築天満社および杵築城下町一帯
   address: 杵築市南杵築260
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.416863
+  lng: 131.615025
+organizer: 一般社団法人杵築市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kit-suki.com/pages/29/#block174
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e186356/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR杵築駅からバスで杵築バスターミナル下車、徒歩3分

@@ -9,14 +9,16 @@ area:
 venue:
   name: 阿蘇市総合センター多目的広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.970801
+  lng: 131.038207
+organizer: 大阿蘇火の山まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.aso.kumamoto.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1043e00564/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR阿蘇駅からタクシーで約10分

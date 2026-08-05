@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 東金中央公園
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 東金市東岩崎
+  lat: 35.559162
+  lng: 140.365704
+organizer: ヤッサ東金祭推進協議会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.togane.chiba.jp/0000011479.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00503/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR東金駅から徒歩5分

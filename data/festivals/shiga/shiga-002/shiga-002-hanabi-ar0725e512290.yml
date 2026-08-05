@@ -9,14 +9,16 @@ area:
 venue:
   name: 湖東ひばり公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.125653
+  lng: 136.248605
+organizer: 湖東まち協事務局・夏まつり実行委員会総務部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://hmachinet9.wixsite.com/kotobon
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0725e512290/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 近江鉄道八日市駅からタクシーで約15分

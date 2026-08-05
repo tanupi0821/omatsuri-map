@@ -9,8 +9,8 @@ area:
 venue:
   name: 柏木町2丁目の豊陵公園
   address: null
-  lat: null
-  lng: null
+  lat: 42.625049
+  lng: 141.523617
 organizer: null
 stalls: yes
 tags: []

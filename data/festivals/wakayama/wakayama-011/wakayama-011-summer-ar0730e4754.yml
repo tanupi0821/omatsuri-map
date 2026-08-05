@@ -9,13 +9,15 @@ area:
 venue:
   name: 和歌山県串本町古座川一帯
   address: 東牟婁郡串本町古座～古田
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.537567
+  lng: 135.810199
+organizer: 串本町役場産業課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kankou-kushimoto.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0730e4754/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR古座駅から徒歩20分(河内神社)

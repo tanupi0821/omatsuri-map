@@ -9,23 +9,26 @@ area:
 venue:
   name: 福良天満宮
   address: 臼杵市福良211
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.115621
+  lng: 131.794661
+organizer: 福良天満宮
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fukuragu.jp/wp/event/event07
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e190685/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR上臼杵駅から徒歩5分

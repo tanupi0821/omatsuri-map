@@ -9,21 +9,24 @@ area:
 venue:
   name: 洞爺湖汽船駅前桟橋特設会場
   address: 虻田郡洞爺湖町洞爺湖温泉
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.566058
+  lng: 140.818734
+organizer: 洞爺湖温泉観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.laketoya.com/event/サマーフェスタ/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e469540/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR洞爺駅からバスで洞爺湖温泉バスターミナル下車、徒歩3分

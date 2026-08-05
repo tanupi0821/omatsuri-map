@@ -18,12 +18,14 @@ description: null
 links:
   - title: 屋台が出ると出典に記載
     url: https://hanabi.walkerplus.com/detail/ar0621e00830/
+  - title: 公式の予約サイト
+    url: https://reserve.aerushop.jp/provider/plans?providerId=36&un=on&unguest=on&r=1&roomUsage=010000000
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://tajimi.goguynet.jp/2026/07/23/enakyohanabi/
     source_name: 号外NET 多治見市（東濃地域）

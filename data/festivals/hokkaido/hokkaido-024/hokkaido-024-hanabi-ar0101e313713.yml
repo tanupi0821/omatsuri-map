@@ -9,22 +9,24 @@ area:
 venue:
   name: 江別花火大会会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.11787
+  lng: 141.473843
+organizer: えべつ花火実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ebetsu-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-27
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 21:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e313713/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

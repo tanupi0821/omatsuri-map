@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 麻布台ヒルズ
-  address: null
+  address: 港区麻布台1丁目3-19
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31905/
     source_name: 東京フェスタ

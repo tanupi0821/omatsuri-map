@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 14:40
+    end_time: 21:00
     status: confirmed
     source_url: https://rarea.events/event/304761
     source_name: レアリア

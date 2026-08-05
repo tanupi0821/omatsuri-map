@@ -1,0 +1,31 @@
+id: minato-summer-ar0313e71383
+name: 第29回 新橋こいち祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: JR新橋駅周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71383/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

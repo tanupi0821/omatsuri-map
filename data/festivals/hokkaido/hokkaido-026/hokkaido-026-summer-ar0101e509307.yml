@@ -9,13 +9,15 @@ area:
 venue:
   name: 末広多目的広場(本祭)、訓子府駅前通り(前夜祭)
   address: 常呂郡訓子府町末広(常呂川河川敷)
-  lat: null
-  lng: null
+  lat: 43.721218
+  lng: 143.741903
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.kunneppu.hokkaido.jp/life/norinsyoko/furusatomaturi.html
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e509307/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR北見駅からバスで訓子府停留所下車、徒歩10分

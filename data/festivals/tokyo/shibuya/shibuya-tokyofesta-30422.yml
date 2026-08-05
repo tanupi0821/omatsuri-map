@@ -9,8 +9,8 @@ area:
 venue:
   name: LINE
   address: null
-  lat: null
-  lng: null
+  lat: 35.664204
+  lng: 139.69598
 organizer: 一般社団法人日本音楽事業者協会
 stalls: unknown
 tags: []

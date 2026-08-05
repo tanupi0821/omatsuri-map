@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 高岡御車山保存会HP
+    url: https://www.mikurumayama.jp/
 occurrences:
   - year: 2026
     dates:

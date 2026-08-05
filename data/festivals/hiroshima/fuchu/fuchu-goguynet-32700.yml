@@ -27,3 +27,11 @@ occurrences:
     source_name: 号外NET 府中市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Okunitama-jinja-24.jpg/1280px-Okunitama-jinja-24.jpg
+    width: 1000
+    height: 750
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Okunitama-jinja-24.jpg

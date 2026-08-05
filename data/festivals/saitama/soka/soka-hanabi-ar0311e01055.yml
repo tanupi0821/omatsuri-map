@@ -9,22 +9,25 @@ area:
 venue:
   name: そうか公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.861165
+  lng: 139.827788
+organizer: 草加市みんなでまちづくり課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://soka-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:25
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0311e01055/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 東武スカイツリーライン獨協大学前(草加松原)駅から東武バス新田駅東口行で約15分、総合グランド前下車徒歩1分

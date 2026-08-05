@@ -1,0 +1,29 @@
+id: fujimino-summer-ar0311e69080
+name: 第26回 おおい祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: ふじみ野市
+  ward: null
+venue:
+  name: 東久保中央公園および周辺道路
+  address: ふじみ野市ふじみ野1-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e69080/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

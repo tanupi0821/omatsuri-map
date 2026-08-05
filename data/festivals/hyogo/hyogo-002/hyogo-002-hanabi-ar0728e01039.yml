@@ -9,9 +9,9 @@ area:
 venue:
   name: せせらぎ公園多目的広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.009114
+  lng: 134.549345
+organizer: 山崎納涼夏祭り実行委員会
 stalls: yes
 tags:
   - 花火
@@ -27,4 +27,4 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e01039/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 蓮田市内
-  address: null
+  address: 蓮田市東6丁目 のくぼ通り
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 蓮田市公式ホームページ
+    url: https://www.city.hasuda.saitama.jp/
 occurrences:
   - year: 2026
     dates:

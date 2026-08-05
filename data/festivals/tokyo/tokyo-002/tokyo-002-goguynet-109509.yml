@@ -11,19 +11,36 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 東久留米駅前商店会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 駅前夏祭りの詳細はこちら（東久留米駅前商店会 ホームページ
+    url: https://higashikurume.net/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://higashikurume-kiyose.goguynet.jp/2026/07/29/202607ekimaematuri/
     source_name: 号外NET 東久留米市・清瀬市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg/1280px-DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg
+    width: 1000
+    height: 562
+    credit: つくつくば
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg/1280px-DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg
+    width: 1000
+    height: 563
+    credit: つくつくば
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg

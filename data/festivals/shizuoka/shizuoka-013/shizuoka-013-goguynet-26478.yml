@@ -9,8 +9,8 @@ area:
 venue:
   name: 焼津PORTERS
   address: null
-  lat: null
-  lng: null
+  lat: 34.873177
+  lng: 138.322176
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 18:30
     status: confirmed
     source_url: https://fujieda-yaizu.goguynet.jp/2026/06/27/irodoribiyori-natsumatsuri/
     source_name: 号外NET 藤枝市・焼津市・島田市

@@ -9,8 +9,8 @@ area:
 venue:
   name: 在日米陸軍キャンプ座間
   address: null
-  lat: null
-  lng: null
+  lat: 35.492109
+  lng: 139.394571
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ebina-zama-ayase.goguynet.jp/2026/07/19/camp-zama-bon-odori-festival-2026/
     source_name: 号外NET 海老名市・座間市・綾瀬市

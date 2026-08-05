@@ -9,13 +9,15 @@ area:
 venue:
   name: 入善町町営中央駐車場、うるおい館周辺
   address: 下新川郡入善入善町入膳5232-5
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.938515
+  lng: 137.501323
+organizer: 入善町商工会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://r.goope.jp/srb-16-29/info/6770675
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0516e188851/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: あいの風とやま鉄道入善駅から徒歩5分

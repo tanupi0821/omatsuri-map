@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-18
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 14:10
     status: confirmed
     source_url: https://sakai-nishi.goguynet.jp/2026/04/11/hanatsumisai2026/
     source_name: 号外NET 堺市堺区・西区

@@ -15,7 +15,23 @@ organizer: null
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
+  - title: 箱根町観光協会 箱根の花火大会
+    url: https://www.hakone.or.jp/8230
 occurrences:
   - year: 2026
     dates:
@@ -25,11 +41,12 @@ occurrences:
       - 2026-08-03
       - 2026-08-04
       - 2026-08-05
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/hakone-machi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://www.hakone.or.jp/8230
+    source_name: 箱根町観光協会
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 打ち上げはいずれも20時から。日によって元箱根湾・箱根湾・箱根園湾・湖尻湾と会場が変わる
 stalls: yes

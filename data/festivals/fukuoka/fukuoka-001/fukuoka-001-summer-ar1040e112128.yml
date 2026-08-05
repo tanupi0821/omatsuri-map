@@ -9,21 +9,24 @@ area:
 venue:
   name: 志井公園
   address: 北九州市小倉南区志井公園1番
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.819315
+  lng: 130.881018
+organizer: 小倉南区役所コミュニティ支援課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kitakyushu.lg.jp/kokuraminami/w3200178.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e112128/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR日田彦山線志井公園駅から徒歩1分

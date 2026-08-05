@@ -9,8 +9,8 @@ area:
 venue:
   name: 築地本願寺
   address: null
-  lat: null
-  lng: null
+  lat: 35.666486
+  lng: 139.772284
 organizer: 築地本願寺奉讃会
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-29
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/30953/
     source_name: 東京フェスタ

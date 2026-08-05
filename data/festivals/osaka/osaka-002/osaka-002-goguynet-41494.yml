@@ -9,8 +9,8 @@ area:
 venue:
   name: 高槻城公園芸術文化劇場南館
   address: null
-  lat: null
-  lng: null
+  lat: 34.844233
+  lng: 135.621216
 organizer: null
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://takatsuki.goguynet.jp/2026/07/26/takatsukimaturi2026/
     source_name: 号外NET 高槻市

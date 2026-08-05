@@ -18,12 +18,14 @@ description: null
 links:
   - title: 屋台が出ると出典に記載
     url: https://hanabi.walkerplus.com/detail/ar0621e356763/
+  - title: 公式SNS
+    url: https://www.instagram.com/tokimemo_official_tokijc/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 19:40
+    end_time: 20:10
     status: confirmed
     source_url: https://tajimi.goguynet.jp/2026/07/30/tokihanabi/
     source_name: 号外NET 多治見市（東濃地域）

@@ -9,8 +9,8 @@ area:
 venue:
   name: 葛飾区立小松南小学校
   address: null
-  lat: null
-  lng: null
+  lat: 35.716897
+  lng: 139.861216
 organizer: 新小岩栄通り会
 stalls: yes
 tags: []
@@ -18,12 +18,14 @@ description: null
 links:
   - title: 号外NET 葛飾区
     url: https://katsushika.goguynet.jp/2026/07/05/shinkoiwanoryobonodori-2026/
+  - title: 新小岩納涼盆踊り大会開催 2026 - 新小岩栄通り商店街公
+    url: https://e-shinkoiwa.com/event/event-99
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31502/
     source_name: 東京フェスタ

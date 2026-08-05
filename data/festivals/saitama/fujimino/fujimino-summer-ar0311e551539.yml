@@ -1,0 +1,31 @@
+id: fujimino-summer-ar0311e551539
+name: 第72回 上福岡七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: ふじみ野市
+  ward: null
+venue:
+  name: 東口会場(福岡中央公園)、西口会場(ココネ広場)、上福岡駅周辺各商店街
+  address: ふじみ野市上野台、ほか
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e551539/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

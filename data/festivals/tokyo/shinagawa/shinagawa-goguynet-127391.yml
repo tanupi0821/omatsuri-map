@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: しながわスネークタウン
-  address: null
+  address: 品川区二葉4-4-12
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-11
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://shinagawa.goguynet.jp/2026/07/07/post-127391/
     source_name: 号外NET 品川区

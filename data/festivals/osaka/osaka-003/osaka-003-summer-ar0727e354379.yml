@@ -9,13 +9,15 @@ area:
 venue:
   name: 杭全神社
   address: 大阪市平野区平野宮町2-1-67
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.629053
+  lng: 135.554925
+organizer: 杭全神社
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kumata.jp/natsumatsuri/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e354379/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR平野駅から徒歩6分

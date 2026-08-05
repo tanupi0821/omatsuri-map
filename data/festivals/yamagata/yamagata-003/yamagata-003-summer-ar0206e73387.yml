@@ -9,13 +9,15 @@ area:
 venue:
   name: 楯岡商店街通り、ふれあい通り、村山駅前通り
   address: 村山市楯岡地内
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.477327
+  lng: 140.386691
+organizer: 村山市商工観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.murayamatokunai.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0206e73387/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR村山駅から徒歩すぐ

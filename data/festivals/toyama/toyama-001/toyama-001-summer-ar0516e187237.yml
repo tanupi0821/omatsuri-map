@@ -9,23 +9,26 @@ area:
 venue:
   name: 高岡市戸出地区一円
   address: 高岡市戸出町3-8-10
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.683324
+  lng: 136.979189
+organizer: 戸出七夕まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.shokoren-toyama.or.jp/~takaoka/archives/2265
 occurrences:
   - year: 2026
     dates:
       - 2026-07-03
       - 2026-07-07
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0516e187237/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR戸出駅からすぐ

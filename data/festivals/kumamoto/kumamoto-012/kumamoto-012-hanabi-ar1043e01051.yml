@@ -9,22 +9,25 @@ area:
 venue:
   name: 球磨川河川緑地(新萩原橋上流)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.494083
+  lng: 130.62875
+organizer: やつしろ全国花火競技大会実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kinasse-yatsushiro.jp/hanabi/#second
 occurrences:
   - year: 2026
     dates:
       - 2026-10-17
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1043e01051/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR・肥薩おれんじ鉄道八代駅から徒歩10分

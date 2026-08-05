@@ -9,8 +9,8 @@ area:
 venue:
   name: 今年も石橋駅前公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.806208
+  lng: 135.442229
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 22:00
     status: confirmed
     source_url: https://minoh.goguynet.jp/2026/07/22/ishibashimatsuri/
     source_name: 号外NET 箕面市・池田市

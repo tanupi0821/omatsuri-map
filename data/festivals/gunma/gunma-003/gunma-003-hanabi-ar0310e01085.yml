@@ -9,22 +9,25 @@ area:
 venue:
   name: 明和町ふるさとの広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.21115
+  lng: 139.53674
+organizer: 明和町役場産業振興課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0310e01085/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 東武伊勢崎線川俣駅から徒歩15分

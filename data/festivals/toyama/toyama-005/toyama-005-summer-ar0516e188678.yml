@@ -9,23 +9,26 @@ area:
 venue:
   name: ほたるいかミュージアム周辺
   address: 滑川市中川原
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.7744
+  lng: 137.344544
+organizer: ふるさと龍宮まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ccis-toyama.or.jp/namerikawa/ryugu/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0516e188678/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: あいの風とやま鉄道・富山地方鉄道滑川駅から徒歩10分

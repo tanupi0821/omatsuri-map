@@ -9,22 +9,25 @@ area:
 venue:
   name: 高瀬大橋上流付近
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.927188
+  lng: 130.566675
+organizer: 玉名花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tamana-cci.or.jp/festivals_events/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-03
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1043e00953/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR玉名駅から徒歩20分、JR新玉名駅から徒歩25分

@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 直方リバーサイドパーク
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 直方市殿町
+  lat: 33.743223
+  lng: 130.730605
+organizer: MAKE A MONOGATARI 運営事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://monogatari.fun/
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1040e561052/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR直方駅から徒歩15分

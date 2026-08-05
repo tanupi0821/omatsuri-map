@@ -12,16 +12,18 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ララガーデン春日部の公式サイト
+    url: https://mitsui-shopping-park.com/lalag-kasukabe/event/3526915.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://kasukabe.goguynet.jp/2026/07/28/lala_kodomoennichi/
     source_name: 号外NET 春日部市

@@ -9,8 +9,8 @@ area:
 venue:
   name: 品川区立宮前小学校校庭および周辺
   address: null
-  lat: null
-  lng: null
+  lat: 35.611867
+  lng: 139.715762
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-07
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 19:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/30875/
     source_name: 東京フェスタ

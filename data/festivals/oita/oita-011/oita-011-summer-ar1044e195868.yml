@@ -9,9 +9,9 @@ area:
 venue:
   name: 浜脇温泉
   address: 別府市浜脇 浜脇温泉
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.269751
+  lng: 131.508198
+organizer: ツーリズム浜脇まちづくり推進協議会
 stalls: yes
 tags: []
 description: null
@@ -27,5 +27,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e195868/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR東別府駅から徒歩5分

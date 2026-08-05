@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 直方市役所下(直方リバーサイドパーク)
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 直方市殿町
+  lat: 33.744186
+  lng: 130.732403
+organizer: 直方商工会議所
 stalls: yes
 tags:
   - 花火
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1040e00933/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR筑豊本線直方駅から徒歩10分

@@ -7,24 +7,54 @@ area:
   city: 日光市
   ward: null
 venue:
-  name: 日光市清滝
+  name: 古河電気工業 日光事業所（日光市清滝）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 古河電気工業株式会社 日光事業所
 tags: []
 description: null
-links: []
+links:
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
+  - title: 日光旅ナビ 日光和楽踊り
+    url: https://www.nikko-kankou.org/event/618
+  - title: 古河電気工業 日光事業所
+    url: https://www.furukawa.co.jp/company/office/nikkou.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.nikko-kankou.org/event/618
+    source_name: 日光市観光協会
+    source_type: gov
+    checked_at: 2026-08-05
     note: 古河電工日光事業所を会場とする、地域を代表する盆踊り
 stalls: unknown
+recurrence: 8月第1金曜日
+recurrence_source: https://www.nikko-kankou.org/event/618

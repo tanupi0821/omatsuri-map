@@ -9,22 +9,25 @@ area:
 venue:
   name: 高崎市ふれあい公園付近河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.395071
+  lng: 138.950334
+organizer: 高崎市箕郷支所産業課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.takasaki.gunma.jp/page/40646.html
 occurrences:
   - year: 2026
     dates:
       - 2026-09-27
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0310e00577/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR高崎駅から箕郷行バスで約40分、箕郷本町停留所下車徒歩15分

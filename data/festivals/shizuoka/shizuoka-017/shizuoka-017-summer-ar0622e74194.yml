@@ -9,13 +9,15 @@ area:
 venue:
   name: 清水駅前銀座商店街 ほか
   address: 静岡市清水区
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.023693
+  lng: 138.489388
+organizer: 清水七夕まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shimizutanabata.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e74194/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shimizu_Tanabata_Matsuri_01.jpg/1280px-Shimizu_Tanabata_Matsuri_01.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY 4.0
     license_url: https://creativecommons.org/licenses/by/4.0
     source: https://commons.wikimedia.org/wiki/File:Shimizu_Tanabata_Matsuri_02.jpg
+station: JR清水駅から徒歩すぐ

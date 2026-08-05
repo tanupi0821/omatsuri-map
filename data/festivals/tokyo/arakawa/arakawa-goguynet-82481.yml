@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 素盞雄神社公式サイト・天王祭マップ
+    url: https://susanoo.or.jp/pdf/r8_tennosai_map.pdf
 occurrences:
   - year: 2026
     dates:

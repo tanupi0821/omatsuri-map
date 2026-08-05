@@ -9,14 +9,16 @@ area:
 venue:
   name: 宮城県大崎市古川福沼 江合土手上など
   address: null
-  lat: null
-  lng: null
+  lat: 38.58242
+  lng: 140.977054
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://osaki-hanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0204e470589/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR古川駅から徒歩30分

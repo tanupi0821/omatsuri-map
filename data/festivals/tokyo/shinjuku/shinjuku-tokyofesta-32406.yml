@@ -9,8 +9,8 @@ area:
 venue:
   name: 花園神社
   address: 新宿区新宿5-17-3
-  lat: null
-  lng: null
+  lat: 35.693531
+  lng: 139.702753
 organizer: 花園神社
 stalls: yes
 tags: []

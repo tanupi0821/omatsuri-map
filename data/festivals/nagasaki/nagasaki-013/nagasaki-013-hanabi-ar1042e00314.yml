@@ -9,8 +9,8 @@ area:
 venue:
   name: 有川港堤防
   address: null
-  lat: null
-  lng: null
+  lat: 32.989477
+  lng: 129.109673
 organizer: null
 stalls: yes
 tags:
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00314/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR松浦鉄道佐世保駅から高速船で90分またはフェリーで150分

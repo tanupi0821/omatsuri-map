@@ -9,9 +9,9 @@ area:
 venue:
   name: 東坂町愛宕神社境内
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.727036
+  lng: 137.864224
+organizer: 遠州見付天狗会
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0622e00519/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR磐田駅からバス(見付または袋井行き)で約15分 、見付停留所下車徒歩2分

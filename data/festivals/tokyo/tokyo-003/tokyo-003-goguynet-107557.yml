@@ -9,8 +9,8 @@ area:
 venue:
   name: 山下児童遊園（生活保健センターそば・高速道路下）
   address: null
-  lat: null
-  lng: null
+  lat: 35.675159
+  lng: 139.396887
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hino.goguynet.jp/2026/07/28/yanakayama-2026/
     source_name: 号外NET 日野市

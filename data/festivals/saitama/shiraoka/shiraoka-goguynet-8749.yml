@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 白岡市内
-  address: null
+  address: 白岡市篠津1834-1
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://shiraoka-hasuda.goguynet.jp/2026/07/16/yokojyuku_ennichi/
     source_name: 号外NET 白岡市・蓮田市

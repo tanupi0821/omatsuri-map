@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 小石原川甘木橋下流
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 朝倉市甘木
+  lat: 33.422695
+  lng: 130.650149
+organizer: 朝倉商工会議所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.asakura.lg.jp/site/kanko/13553.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 19:40
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1040e01031/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 甘木鉄道甘木駅から徒歩10分、または西鉄甘木駅から徒歩15分

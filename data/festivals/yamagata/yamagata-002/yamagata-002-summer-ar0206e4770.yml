@@ -9,25 +9,27 @@ area:
 venue:
   name: 山形市中心市街地直線コース
   address: 山形市十日町
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.246721
+  lng: 140.335519
+organizer: 山形県花笠協議会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hanagasa.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-05
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:45
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0206e4770/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg/1280px-Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg
@@ -37,3 +39,4 @@ photos:
     license: CC0
     license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
     source: https://commons.wikimedia.org/wiki/File:Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg
+station: JR山形駅から徒歩10分

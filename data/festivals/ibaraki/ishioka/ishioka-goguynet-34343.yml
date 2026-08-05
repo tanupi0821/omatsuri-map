@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 石岡市のホームページ
+    url: https://www.city.ishioka.lg.jp/ishiokameguri/omatsuri/page001096.html
 occurrences:
   - year: 2026
     dates:

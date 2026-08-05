@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-25
       - 2026-08-26
-    start_time: null
-    end_time: null
+    start_time: 18:45
+    end_time: 21:30
     status: confirmed
     source_url: https://niigatakonan-akiha-minami.goguynet.jp/2026/06/22/kamedamaturi26/
     source_name: 号外NET 新潟市江南区・秋葉区・南区

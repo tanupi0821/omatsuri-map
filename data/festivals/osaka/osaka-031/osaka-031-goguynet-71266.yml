@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-11
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://yao.goguynet.jp/2026/04/10/yaonan-yoruiti/
     source_name: 号外NET 八尾市

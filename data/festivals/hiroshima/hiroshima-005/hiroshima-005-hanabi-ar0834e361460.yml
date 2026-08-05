@@ -9,22 +9,25 @@ area:
 venue:
   name: 海上自衛隊第1術科学校
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.243144
+  lng: 132.470795
+organizer: 江田島市役所 産業部商工観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.etajima.hiroshima.jp/cms/articles/show/12090
 occurrences:
   - year: 2026
     dates:
       - 2026-10-31
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0834e361460/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR広島駅から市電(約35分)で広島港下車、高速艇(約25分)で小用港下船、タクシーで約5分

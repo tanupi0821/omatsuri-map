@@ -9,8 +9,8 @@ area:
 venue:
   name: 難波田城公園・南畑八幡神社（出陣式・武者行列）
   address: null
-  lat: null
-  lng: null
+  lat: 35.858081
+  lng: 139.565048
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-07
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://fujimi-fujimino.goguynet.jp/2026/06/04/nanbatajyoukouenmatsuri-2/
     source_name: 号外NET 富士見市・ふじみ野市

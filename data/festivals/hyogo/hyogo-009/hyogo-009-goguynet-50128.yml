@@ -9,8 +9,8 @@ area:
 venue:
   name: 須磨海浜公園内
   address: null
-  lat: null
-  lng: null
+  lat: 34.643947
+  lng: 135.125016
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 11:45
     status: confirmed
     source_url: https://kobetarumi.goguynet.jp/2026/07/07/gocyamazenatsumatsuri/
     source_name: 号外NET 神戸市垂水区・須磨区

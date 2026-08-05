@@ -9,8 +9,8 @@ area:
 venue:
   name: 東急歌舞伎町タワー
   address: null
-  lat: null
-  lng: null
+  lat: 35.695751
+  lng: 139.698014
 organizer: null
 stalls: unknown
 tags: []

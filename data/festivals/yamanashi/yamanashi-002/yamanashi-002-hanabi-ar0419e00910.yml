@@ -9,22 +9,25 @@ area:
 venue:
   name: 三郡橋下流笛吹川河畔
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.562136
+  lng: 138.483227
+organizer: 市川三郷町ふるさと夏まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.ichikawamisato.yamanashi.jp/shinmei/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0419e00910/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR市川大門駅から徒歩10分

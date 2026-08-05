@@ -9,21 +9,24 @@ area:
 venue:
   name: ケヤキ広場
   address: 阿蘇郡小国町大字宮原
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.122883
+  lng: 131.06441
+organizer: 小国町商工会青年部
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e153733/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR日田駅からタクシーで約50分

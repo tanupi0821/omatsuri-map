@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 茅ヶ崎市内
-  address: null
+  address: 茅ヶ崎市浜須賀18の38
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: ハヤシグループ
+stalls: yes
 tags: []
 description: null
 links: []

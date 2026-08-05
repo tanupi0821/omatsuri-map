@@ -7,24 +7,62 @@ area:
   city: 杉並区
   ward: null
 venue:
-  name: 阿佐ヶ谷神明宮
-  address: null
+  name: 阿佐ヶ谷神明宮 能楽殿
+  address: 東京都杉並区阿佐谷北1-25-5
   lat: null
   lng: null
-organizer: null
+organizer: 阿佐ヶ谷バリ舞踊祭実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
+  - title: 阿佐ヶ谷バリ舞踊祭
+    url: https://asabalidance.wixsite.com/asabali
+  - title: 阿佐ヶ谷神明宮
+    url: https://shinmeiguu.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
+    start_time: 17:00
     end_time: null
     status: confirmed
-    source_url: https://suginami.mypl.net/article/summer-fes_suginami
-    source_name: まいぷれ[杉並区]
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://asabalidance.wixsite.com/asabali
+    source_name: 阿佐ヶ谷バリ舞踊祭実行委員会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 両日とも16時開場・17時開演
+shrine: 阿佐ヶ谷神明宮

@@ -9,14 +9,16 @@ area:
 venue:
   name: 海の駅「とろむ」
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.268768
+  lng: 134.160491
+organizer: 室戸市観光ジオパーク推進課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.muroto-kankou.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0939e00445/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 阿佐海岸鉄道甲浦駅から室戸岬方面行バスで約45分、室戸営業所下車徒歩10分

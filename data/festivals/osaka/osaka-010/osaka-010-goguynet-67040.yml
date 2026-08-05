@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 穴師神社氏子青年会と穴師校区のまちづくりを考える会
 stalls: yes
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://kanku-area.goguynet.jp/2026/04/11/izumi-anashi-jinja-5/
     source_name: 号外NET 泉大津市・高石市・忠岡町

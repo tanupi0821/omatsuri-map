@@ -9,21 +9,24 @@ area:
 venue:
   name: 大地主神社
   address: 七尾市山王町1-13
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.042558
+  lng: 136.971572
+organizer: 七尾市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hot-ishikawa.jp/event/21220
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 24:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0517e73383/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR七尾駅から徒歩15分

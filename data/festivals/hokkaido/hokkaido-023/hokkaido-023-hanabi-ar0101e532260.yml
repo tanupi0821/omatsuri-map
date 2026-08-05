@@ -9,22 +9,25 @@ area:
 venue:
   name: こぶしの湯あつま
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.734506
+  lng: 141.867074
+organizer: 厚真町商工会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.facebook.com/impulse.atsuma/
 occurrences:
   - year: 2026
     dates:
       - 2026-02-07
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e532260/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR早来駅からタクシーで約15分

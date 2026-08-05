@@ -9,13 +9,15 @@ area:
 venue:
   name: 八坂神社
   address: 京都市東山区祇園町北側625
-  lat: null
-  lng: null
+  lat: 35.003658
+  lng: 135.778601
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ja.kyoto.travel/event/major/gion/seat.php
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,14 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0726e4809/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR京都駅からバスで祇園下車すぐ
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gion_Matsuri_2017-5.jpg/1280px-Gion_Matsuri_2017-5.jpg
+    width: 1000
+    height: 664
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg

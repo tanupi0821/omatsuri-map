@@ -9,14 +9,16 @@ area:
 venue:
   name: 富岩運河環水公園
   address: null
-  lat: null
-  lng: null
+  lat: 36.709376
+  lng: 137.212432
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://webun.jp/articles/-/921715
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0516e576447/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR富山駅から徒歩9分

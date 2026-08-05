@@ -9,13 +9,15 @@ area:
 venue:
   name: 幸手市中央通り周辺
   address: 幸手市中4丁目(実行委員会本部)
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.078488
+  lng: 139.719615
+organizer: 幸手市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.satte-k.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e69078/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東武鉄道幸手駅から徒歩5分

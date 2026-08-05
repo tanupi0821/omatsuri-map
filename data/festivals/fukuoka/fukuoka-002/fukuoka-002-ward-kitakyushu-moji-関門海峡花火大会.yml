@@ -7,7 +7,7 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
+  name: 門司港・西海岸周辺
   address: null
   lat: null
   lng: null
@@ -15,15 +15,34 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
+  - title: 関門海峡花火大会（門司側）公式
+    url: https://www.kanmon-hanabi.love/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
-    source_name: 北九州市門司区
-    source_type: gov
+    source_url: https://www.kanmon-hanabi.love/
+    source_name: 関門海峡花火大会実行委員会
+    source_type: official
     checked_at: 2026-08-05
+    note: 門司側の打ち上げ時間。下関側と同時開催

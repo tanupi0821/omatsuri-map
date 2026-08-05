@@ -9,9 +9,9 @@ area:
 venue:
   name: 月見ヶ池
   address: 上野原市上野原3428
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.630724
+  lng: 139.11387
+organizer: 産業振興課
 stalls: yes
 tags: []
 description: null
@@ -26,4 +26,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0419e187238/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR上野原駅からタクシーで約10分

@@ -9,8 +9,8 @@ area:
 venue:
   name: イオンモール千葉ニュータウン
   address: null
-  lat: null
-  lng: null
+  lat: 35.802211
+  lng: 140.112095
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:00
     status: confirmed
     source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/10/kocoharematsuri2026pre-event/
     source_name: 号外NET 鎌ケ谷市・白井市・印西市

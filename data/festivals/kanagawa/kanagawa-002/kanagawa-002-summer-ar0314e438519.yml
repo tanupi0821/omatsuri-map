@@ -9,23 +9,26 @@ area:
 venue:
   name: 鹿沼公園
   address: 相模原市中央区鹿沼台2-15
-  lat: null
-  lng: null
+  lat: 35.566822
+  lng: 139.391977
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://gingamatsuri.jimdofree.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e438519/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR淵野辺駅から徒歩3分

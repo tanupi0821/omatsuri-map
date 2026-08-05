@@ -9,14 +9,16 @@ area:
 venue:
   name: 荒川運動公園(川口市荒川町) グラウンドおよび土手沿い斜面
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.793585
+  lng: 139.715524
+organizer: 川口花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://1110hanabi.com/
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0311e484341/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR川口駅から徒歩15分

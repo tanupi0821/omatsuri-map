@@ -9,14 +9,16 @@ area:
 venue:
   name: 日田市内一円、三隈川周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.31104
+  lng: 130.929283
+organizer: 日田市 文化スポーツ観光部 観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.hita.oita.jp/site/hitanioideyo/2722.html
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +30,14 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1044e183827/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR日田駅から徒歩17分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg/1280px-%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg
+    width: 1000
+    height: 667
+    credit: Watofamily
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg

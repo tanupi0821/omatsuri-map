@@ -9,22 +9,25 @@ area:
 venue:
   name: 根尾川河畔(藪川橋上流)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.466734
+  lng: 136.64826
+organizer: 本巣市役所 商工観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.motosu.lg.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-10
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:40
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00822/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR穂積駅から岐阜バス(大野穂積線大野バスセンター行きで約25分)で相羽東停留所下車、徒歩5分

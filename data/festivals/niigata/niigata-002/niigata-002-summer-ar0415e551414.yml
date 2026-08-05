@@ -9,13 +9,15 @@ area:
 venue:
   name: 佐渡市両津夷・両津湊周辺
   address: 佐渡市両津夷
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.07816
+  lng: 138.440936
+organizer: 両津川開き協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ryotsukawabiraki.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e551414/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日

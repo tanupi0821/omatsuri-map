@@ -9,8 +9,8 @@ area:
 venue:
   name: 下新庄公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.746798
+  lng: 135.516858
 organizer: null
 stalls: yes
 tags: []

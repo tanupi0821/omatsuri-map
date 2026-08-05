@@ -9,8 +9,8 @@ area:
 venue:
   name: 上野公園不忍池周辺・水上音楽堂
   address: null
-  lat: null
-  lng: null
+  lat: 35.711463
+  lng: 139.770865
 organizer: 一般社団法人
 stalls: yes
 tags: []
@@ -20,6 +20,8 @@ links:
     url: https://taito.goguynet.jp/2026/07/22/summer/
   - title: 屋台が出ると出典に記載
     url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4789/
+  - title: 公式】うえの夏まつり2026｜7月10日〜8月11日｜上野公
+    url: https://enjoy.ueno.or.jp/summer2026/
 occurrences:
   - year: 2026
     dates:

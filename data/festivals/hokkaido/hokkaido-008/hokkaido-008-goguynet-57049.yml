@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 中札内村観光協会公式Instagram
+    url: https://www.instagram.com/nakasatsunai_kankou
 occurrences:
   - year: 2026
     dates:

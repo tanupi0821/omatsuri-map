@@ -9,10 +9,10 @@ area:
 venue:
   name: パークタワー向ヶ丘遊園
   address: null
-  lat: null
-  lng: null
+  lat: 35.6185
+  lng: 139.56207
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://kawasakitama.goguynet.jp/2026/07/18/kids00day/
     source_name: 号外NET 川崎市多摩区

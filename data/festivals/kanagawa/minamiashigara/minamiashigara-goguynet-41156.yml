@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県南足柄市観光協会公式ホームページ「Ya hoo
+    url: https://mcity-kankokyokai.com/?p=7397
 occurrences:
   - year: 2026
     dates:

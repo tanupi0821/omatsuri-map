@@ -12,21 +12,41 @@ venue:
   lat: null
   lng: null
 station: 東林間
-organizer: null
+organizer: 東林間サマーわぁ！ニバル実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 東林間サマーわぁ！ニバル 公式
+    url: https://higashirinkan-awaodori.com/
+  - title: 相模原市南区 東林間サマーわぁ！ニバル
+    url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
+  - title: 東林間サマーわぁ！ニバル 公式
+    url: https://higashirinkan-awaodori.com/
+  - title: 相模原市南区 東林間サマーわぁ！ニバル
+    url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
+  - title: 東林間サマーわぁ！ニバル 公式
+    url: https://higashirinkan-awaodori.com/
+  - title: 相模原市南区 東林間サマーわぁ！ニバル
+    url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
+  - title: 東林間サマーわぁ！ニバル 公式
+    url: https://higashirinkan-awaodori.com/
+  - title: 相模原市南区 東林間サマーわぁ！ニバル
+    url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
+  - title: 東林間サマーわぁ！ニバル 公式
+    url: https://higashirinkan-awaodori.com/
+  - title: 相模原市南区 東林間サマーわぁ！ニバル
+    url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 17:20
+    end_time: 20:00
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/sagamihara-minami-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
-    note: 東林間の夏を彩る阿波おどりイベント。入場無料
+    source_url: https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html
+    source_name: 相模原市南区
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 初日は17時20分から開会式、踊りは17時40分から
 stalls: unknown

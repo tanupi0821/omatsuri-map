@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 県立八千代広域公園周辺
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 八千代市村上
+  lat: 35.733034
+  lng: 140.112285
+organizer: 八千代ふるさと親子祭実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yachiyocci.jp/info/news/51th-oyako/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00921/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 東葉高速鉄道村上駅から徒歩10分

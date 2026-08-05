@@ -9,14 +9,16 @@ area:
 venue:
   name: 長浜親水公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.50551
+  lng: 138.71581
+organizer: 奥河口湖観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fujisan.ne.jp/pages/397/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0419e195711/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 富士山麓電気鉄道河口湖駅からバス(約25分)で長浜停留所下車、徒歩3分

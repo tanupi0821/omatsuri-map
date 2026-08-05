@@ -18,13 +18,15 @@ description: null
 links:
   - title: 号外NET 渋谷区
     url: https://shibuya.goguynet.jp/2026/06/22/post-8439/
+  - title: 第71回恵比寿駅前盆踊り大会 【2026年7月31日(金)・
+    url: https://ebisubondance.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 21:30
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31035/
     source_name: 東京フェスタ

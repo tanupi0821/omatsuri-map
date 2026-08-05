@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-13
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31675/
     source_name: 東京フェスタ

@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-23
       - 2026-07-30
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 13:00
     status: confirmed
     source_url: https://tsurumi-joto.goguynet.jp/2026/07/19/cospa-2/
     source_name: 号外NET 大阪市鶴見区・城東区

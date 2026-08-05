@@ -9,13 +9,15 @@ area:
 venue:
   name: 湯河原小学校、桜木公園、幕山公園通り
   address: 足柄下郡湯河原町
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.14234
+  lng: 139.100346
+organizer: 湯河原町観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.yugawara.or.jp/event/920/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e4727/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR湯河原駅から徒歩10分～15分

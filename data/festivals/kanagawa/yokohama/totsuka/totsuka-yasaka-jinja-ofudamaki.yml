@@ -8,15 +8,47 @@ area:
   ward: 戸塚区
 venue:
   name: 八坂神社・旧東海道沿い
-  address: null
+  address: 横浜市戸塚区戸塚町4189
   lat: null
   lng: null
 station: 戸塚
 organizer: null
-shrine: 八坂神社
+shrine: 八坂神社（戸塚）
 tags: []
 description: null
-links: []
+links:
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
+  - title: 横浜市戸塚区 八坂神社の「お札まき」と地域のつながり
+    url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+  - title: 神奈川県神社庁 八坂神社（戸塚区）
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204080-000/
 occurrences:
   - year: 2026
     dates:
@@ -24,8 +56,18 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/totsuka-ku-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    checked_at: 2026-08-02
-    source_type: aggregator
+    source_url: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+    source_name: 横浜市戸塚区
+    checked_at: 2026-08-05
+    source_type: gov
 stalls: unknown
+recurrence: 7月14日
+recurrence_source: https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg/1280px-C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg
+    width: 1000
+    height: 662
+    credit: 横浜市戸塚区役所・職員
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg

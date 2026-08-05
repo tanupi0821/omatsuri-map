@@ -8,9 +8,9 @@ area:
   ward: 磯子区
 venue:
   name: 洋光台中央団地
-  address: null
-  lat: null
-  lng: null
+  address: 横浜市磯子区洋光台4丁目1-4
+  lat: 35.377022
+  lng: 139.59446
 organizer: null
 stalls: yes
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-05-23
       - 2026-05-24
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://yokohamakanazawa-isogo.goguynet.jp/2026/04/25/yokodai_craft-marche/
     source_name: 号外NET 横浜市磯子区・金沢区

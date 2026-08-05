@@ -9,8 +9,8 @@ area:
 venue:
   name: グリーンランド
   address: null
-  lat: null
-  lng: null
+  lat: 32.989714
+  lng: 130.46241
 organizer: null
 stalls: yes
 tags:
@@ -19,15 +19,18 @@ description: null
 links:
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/detail/ar1043e531719/
+  - title: 公式サイト
+    url: https://www.greenland.co.jp/park/event/tamahomespecial26th/
 occurrences:
   - year: 2025
     dates:
       - 2025-09-13
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1043e43866/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR大牟田駅から西鉄バス(ホテルヴェルデ前行き)で約20分、グリーンランド正門前停留所下車すぐ

@@ -9,13 +9,17 @@ area:
 venue:
   name: HOWAパーク
   address: null
-  lat: null
-  lng: null
+  lat: 34.794833
+  lng: 136.503342
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://chuseigreenpark.jp/
+  - title: 公式Instagram
+    url: https://www.instagram.com/howa.park/
 occurrences:
   - year: 2026
     dates:
@@ -23,8 +27,8 @@ occurrences:
       - 2026-07-11
       - 2026-07-18
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tsu.goguynet.jp/2026/06/24/howapark-yorumatsuri/
     source_name: 号外NET 津市

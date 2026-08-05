@@ -9,8 +9,8 @@ area:
 venue:
   name: 妙延寺
   address: null
-  lat: null
-  lng: null
+  lat: 35.751647
+  lng: 139.588942
 organizer: null
 stalls: unknown
 tags: []

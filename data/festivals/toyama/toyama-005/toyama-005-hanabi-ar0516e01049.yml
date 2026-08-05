@@ -9,22 +9,25 @@ area:
 venue:
   name: 富山湾(ほたるいかミュージアム周辺)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.774402
+  lng: 137.342791
+organizer: 滑川市水産観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ccis-toyama.or.jp/namerikawa/ryugu/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 20:10
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0516e01049/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: あいの風とやま鉄道・富山地方鉄道滑川駅から徒歩8分

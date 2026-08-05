@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 福山市の公式ホームページ（広報ふくやま電子版
+    url: https://www.city.fukuyama.hiroshima.jp/koho-detail02/koho-202607/400830.html
 occurrences:
   - year: 2026
     dates:

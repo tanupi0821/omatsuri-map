@@ -1,0 +1,31 @@
+id: fukuoka-005-summer-ar1040e359927
+name: はかた夏まつり2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 福岡市博多区
+  ward: null
+venue:
+  name: JR博多シティ
+  address: 福岡市博多区博多駅中央街1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e359927/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

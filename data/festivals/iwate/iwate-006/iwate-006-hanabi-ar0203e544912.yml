@@ -9,22 +9,25 @@ area:
 venue:
   name: 湯田庁舎周辺・錦秋湖川尻地区湖畔
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 39.317838
+  lng: 140.779428
+organizer: 西和賀町観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yamanoideyu.com/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-05-30
-    start_time: null
-    end_time: null
+    start_time: 19:45
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0203e544912/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JRほっとゆだ駅から徒歩5分

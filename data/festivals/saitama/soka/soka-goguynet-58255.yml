@@ -9,8 +9,8 @@ area:
 venue:
   name: そうか公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.861771
+  lng: 139.824333
 organizer: null
 stalls: yes
 tags: []

@@ -9,22 +9,24 @@ area:
 venue:
   name: 底土港
   address: null
-  lat: null
-  lng: null
+  lat: 33.123833
+  lng: 139.82189
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hachijo.gr.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 20:11
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0313e00508/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

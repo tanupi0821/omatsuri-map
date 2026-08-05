@@ -9,14 +9,16 @@ area:
 venue:
   name: 宮リバー度会パーク付近 河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.431302
+  lng: 136.631851
+organizer: 度会町商工会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://watarai.or.jp/
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0624e00239/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR・近鉄伊勢市駅からタクシーで約30分

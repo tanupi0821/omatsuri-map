@@ -9,14 +9,16 @@ area:
 venue:
   name: 公園橋下河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.845873
+  lng: 130.050408
+organizer: 諫早商工会議所業務課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.isahaya-portal.com/three-festival/river
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1042e01036/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR諫早駅から徒歩15分

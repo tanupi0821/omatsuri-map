@@ -9,22 +9,25 @@ area:
 venue:
   name: 新御堂筋淀川鉄橋から下流、国道2号線までの淀川河川敷
   address: null
-  lat: null
-  lng: null
+  lat: 34.709355
+  lng: 135.477376
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.yodohanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-17
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0727e00982/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 阪急電鉄十三駅または南方駅・阪神電鉄姫島駅・JR塚本駅または御幣島駅・大阪メトロ西中島南方駅から徒歩15分(十三会場)

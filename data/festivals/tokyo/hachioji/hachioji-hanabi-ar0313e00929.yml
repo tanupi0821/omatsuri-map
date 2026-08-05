@@ -9,22 +9,40 @@ area:
 venue:
   name: 富士森公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.651621
+  lng: 139.321575
+organizer: 公社)八王子観光コンベンション協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hkc.or.jp/fireworks/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0313e00929/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR八王子駅またはJR西八王子駅から徒歩20分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg/1280px-Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg
+    width: 1000
+    height: 750
+    credit: Dick Thomas Johnson from Tokyo, Japan
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji_Fireworks_Festival_2012_(7850144310).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hachioji_Fireworks_Festival_2012_%287850141832%29.jpg/1280px-Hachioji_Fireworks_Festival_2012_%287850141832%29.jpg
+    width: 1000
+    height: 750
+    credit: Dick Thomas Johnson from Tokyo, Japan
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji_Fireworks_Festival_2012_(7850141832).jpg

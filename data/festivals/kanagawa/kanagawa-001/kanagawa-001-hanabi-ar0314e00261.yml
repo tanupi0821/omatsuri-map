@@ -9,24 +9,27 @@ area:
 venue:
   name: 箱根園湾(箱根園湖上)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.212826
+  lng: 139.009597
+organizer: 箱根園
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.princehotels.co.jp/features/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-02
       - 2026-08-03
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00261/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 箱根登山鉄道箱根湯本駅からバス(約65分)で箱根園停留所下車、徒歩すぐ

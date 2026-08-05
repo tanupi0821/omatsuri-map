@@ -11,18 +11,20 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 摂津まつり振興会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 摂津まつり公式サイト
+    url: http://www.settsu-matsuri.sakura.ne.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://settsu.goguynet.jp/2026/07/26/settsumatsuri-15/
     source_name: 号外NET 摂津・千里丘・南茨木

@@ -9,9 +9,9 @@ area:
 venue:
   name: 弥五郎伝説の里広場内
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 31.593095
+  lng: 130.99114
+organizer: 曽於市商工会大隅支所
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,10 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 21:00
+    end_time: 21:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1046e00389/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-14
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://aoi.goguynet.jp/2026/06/25/yomiseichi/
     source_name: 号外NET 静岡市葵区

@@ -9,22 +9,24 @@ area:
 venue:
   name: 名瀬商港区
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 28.384616
+  lng: 129.498232
+organizer: 奄美市役所紬観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.amami.lg.jp/kanko/event/newslist.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1046e00972/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

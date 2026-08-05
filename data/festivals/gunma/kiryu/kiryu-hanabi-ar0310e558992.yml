@@ -9,14 +9,16 @@ area:
 venue:
   name: 小梅琴平公園
   address: null
-  lat: null
-  lng: null
+  lat: 36.393658
+  lng: 139.337896
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kiryuhanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0310e558992/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 東武線臨桐生駅から徒歩27分

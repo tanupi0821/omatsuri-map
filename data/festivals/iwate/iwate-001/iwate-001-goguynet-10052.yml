@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 遠野市役所HP
+    url: https://www.city.tono.iwate.jp/index.cfm/25,0,124,453,html
 occurrences:
   - year: 2026
     dates:

@@ -13,7 +13,7 @@ venue:
   lng: null
 station: 三浦海岸
 organizer: null
-stalls: unknown
+stalls: yes
 tags:
   - 花火
 description: null

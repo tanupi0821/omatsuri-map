@@ -554,4 +554,555 @@ patchAll([
       end_time: '20:20',
     },
   }],
-], '検索で見つけた公式・行政ページで裏取り（茨城・栃木・群馬・埼玉・千葉・神奈川・東京）');
+  // ------------------------------------------------------------------
+  // 東京都杉並区（まいぷれ由来。会場が神社・寺なので神社の公式サイトで住所が取れる）
+  // ------------------------------------------------------------------
+
+  // 例祭は8月最終土日。神社が自分で日程を出している
+  ['suginami-mypl-高円寺氷川神社例大祭神幸祭', {
+    shrine: '高円寺氷川神社',
+    venue: { name: '高円寺氷川神社（気象神社）', address: '東京都杉並区高円寺南4-44-19' },
+    recurrence: '8月最終土曜日・日曜日',
+    recurrence_source: 'https://koenji-hikawa.com/about/',
+    links: [
+      L('高円寺氷川神社・気象神社', 'https://koenji-hikawa.com/'),
+      L('東京都神社庁 氷川神社（杉並区）', 'http://www.tokyo-jinjacho.or.jp/suginami/5296'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://koenji-hikawa.com/about/', '高円寺氷川神社', 'official'),
+      note: '神幸祭は初日10時の開祭式のあと、11時から12時に高円寺駅南北ロータリーで神輿渡御',
+    },
+  }],
+
+  // 例祭日は8月26日で固定。前日が宵宮祭
+  ['suginami-mypl-天沼八幡神社宵宮祭例大祭', {
+    shrine: '天沼八幡神社',
+    venue: { name: '天沼八幡神社', address: '東京都杉並区天沼2-18-5' },
+    recurrence: '8月26日',
+    recurrence_source: 'https://amanumahachiman.jp/reitaisai/',
+    links: [
+      L('天沼八幡神社 例大祭', 'https://amanumahachiman.jp/reitaisai/'),
+      L('東京都神社庁 八幡神社（杉並区天沼）', 'http://www.tokyo-jinjacho.or.jp/suginami/5410'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://amanumahachiman.jp/reitaisai/', '天沼八幡神社', 'official'),
+      note: '宵宮は14時に子ども神輿、18時から奉納演芸、20時に宵宮祭。翌日は10時に例大祭',
+    },
+  }],
+
+  // 日付が毎年7月23日・24日で動かない祭り
+  ['suginami-mypl-湯の花祭り夏祭り湯の花神楽', {
+    shrine: '久我山稲荷神社',
+    venue: { name: '久我山稲荷神社', address: '東京都杉並区久我山3-37-14' },
+    recurrence: '7月23日（宵宮）・7月24日（湯の花神楽）',
+    recurrence_source: 'https://k-g-y.sakura.ne.jp/wp303/',
+    links: [L('久我山稲荷神社', 'https://k-g-y.sakura.ne.jp/wp303/')],
+    occurrence: {
+      ...src(2026, 'https://k-g-y.sakura.ne.jp/wp303/', '久我山稲荷神社', 'official'),
+      note: '湯立神事は2日目の20時から',
+    },
+  }],
+
+  ['suginami-mypl-阿佐ヶ谷バリ舞踊祭', {
+    organizer: '阿佐ヶ谷バリ舞踊祭実行委員会',
+    shrine: '阿佐ヶ谷神明宮',
+    venue: { name: '阿佐ヶ谷神明宮 能楽殿', address: '東京都杉並区阿佐谷北1-25-5' },
+    links: [
+      L('阿佐ヶ谷バリ舞踊祭', 'https://asabalidance.wixsite.com/asabali'),
+      L('阿佐ヶ谷神明宮', 'https://shinmeiguu.com/'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://asabalidance.wixsite.com/asabali', '阿佐ヶ谷バリ舞踊祭実行委員会', 'official'),
+      start_time: '17:00',
+      note: '両日とも16時開場・17時開演',
+    },
+  }],
+
+  // 区がイベントとして告知している。2026年は7月5日
+  ['suginami-mypl-千日紅花祭り', {
+    venue: { name: '堀之内妙法寺 境内', address: '東京都杉並区堀ノ内3-48-8' },
+    links: [
+      L('杉並区 夏のふれあい千日紅花祭り（妙法寺）', 'https://www.city.suginami.tokyo.jp/event/sangyoshinko/1094208.html'),
+      L('妙法寺門前通り商店会', 'http://monzendori.com/'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.suginami.tokyo.jp/event/sangyoshinko/1094208.html', '杉並区', 'gov'),
+      start_time: '10:00',
+      end_time: '15:00',
+    },
+  }],
+
+  // ------------------------------------------------------------------
+  // 福岡県北九州市門司区（区の行事カレンダーは会場が「区内」としか無かった）
+  // ------------------------------------------------------------------
+
+  ['fukuoka-002-ward-kitakyushu-moji-門司みなと祭', {
+    organizer: '門司みなと祭協賛会',
+    venue: { name: '門司港レトロ中央広場ほか', address: '北九州市門司区東港町1-12' },
+    links: [L('門司みなと祭 公式', 'https://mojiminato.jp/2026/program.html')],
+    occurrence: src(2026, 'https://mojiminato.jp/2026/program.html', '門司みなと祭協賛会', 'official'),
+  }],
+
+  ['fukuoka-002-ward-kitakyushu-moji-関門海峡花火大会', {
+    venue: { name: '門司港・西海岸周辺' },
+    links: [L('関門海峡花火大会（門司側）公式', 'https://www.kanmon-hanabi.love/')],
+    occurrence: {
+      ...src(2026, 'https://www.kanmon-hanabi.love/', '関門海峡花火大会実行委員会', 'official'),
+      start_time: '20:00',
+      end_time: '20:30',
+      note: '門司側の打ち上げ時間。下関側と同時開催',
+    },
+  }],
+
+  ['fukuoka-002-ward-kitakyushu-moji-門司海峡フェスタ', {
+    organizer: '門司海峡フェスタ実行委員会',
+    venue: { name: '門司港レトロ中央広場周辺' },
+    links: [L('門司港レトロインフォメーション 第30回門司海峡フェスタ2026', 'https://www.mojiko.info/event/info/2605-4/')],
+    occurrence: {
+      ...src(2026, 'https://www.mojiko.info/event/info/2605-4/', '門司港レトロインフォメーション', 'official'),
+      start_time: '11:00',
+      end_time: '20:00',
+      note: '初日は11時から17時、2日目は12時から20時',
+    },
+  }],
+
+  // 市指定無形民俗文化財。毎年11月3日に大積天疫神社の祭りで奉納される
+  ['fukuoka-002-ward-kitakyushu-moji-大積神楽', {
+    shrine: '大積天疫神社',
+    venue: { name: '大積天疫神社' },
+    recurrence: '11月3日',
+    recurrence_source: 'https://www.city.kitakyushu.lg.jp/moji/w1100037.html',
+    links: [
+      L('北九州市 大積神楽（おおつみかぐら）', 'https://www.city.kitakyushu.lg.jp/moji/w1100037.html'),
+      L('北九州市 【市指定】大積神楽', 'https://www.city.kitakyushu.lg.jp/contents/02100236.html'),
+    ],
+    occurrence: {
+      start_time: '18:00',
+      end_time: '22:00',
+      note: '時刻は区の行事カレンダーの記載による（予定）',
+      year: 2026,
+      checked_at: CHECKED,
+    },
+  }],
+
+  ['fukuoka-002-ward-kitakyushu-moji-関門よさこい大会', {
+    organizer: '関門よさこい実行委員会（門司・下関）',
+    venue: { name: '門司港駅前ほか（親水広場・カモンワーフ）' },
+    links: [L('北九州市門司区 関門よさこい大会', 'https://www.city.kitakyushu.lg.jp/moji/w1100627.html')],
+    occurrence: {
+      start_time: '10:00',
+      end_time: '17:00',
+      note: '時刻は前回の発表による。メイン・審査会場は門司港駅前',
+      year: 2026,
+      checked_at: CHECKED,
+    },
+  }],
+
+  // ------------------------------------------------------------------
+  // 群馬県・茨城県（続き）
+  // ------------------------------------------------------------------
+
+  // 5地区から山車が出る。問い合わせ先は鬼石商工会
+  ['fujioka-oniishi-natsumatsuri', {
+    venue: { name: 'おまつり広場周辺（藤岡市鬼石）' },
+    tags: ['山車'],
+    links: [L('藤岡市鬼石商工会', 'https://onishoko.or.jp/')],
+    occurrence: {
+      start_time: '14:00',
+      end_time: '22:00',
+      note: '2日目19時40分の「新田坂駆け上がり」、20時25分の「寄合い」が見どころ',
+      year: 2026,
+      checked_at: CHECKED,
+    },
+  }],
+  // ------------------------------------------------------------------
+  // 神奈川県（続き）
+  // ------------------------------------------------------------------
+
+  // 横浜市指定無形民俗文化財。区が解説ページを持っている。例祭日は7月14日で固定
+  ['totsuka-yasaka-jinja-ofudamaki', {
+    shrine: '八坂神社（戸塚）',
+    venue: { name: '八坂神社・旧東海道沿い', address: '横浜市戸塚区戸塚町4189' },
+    recurrence: '7月14日',
+    recurrence_source: 'https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html',
+    links: [
+      L('横浜市戸塚区 八坂神社の「お札まき」と地域のつながり', 'https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html'),
+      L('神奈川県神社庁 八坂神社（戸塚区）', 'https://www.kanagawa-jinja.or.jp/shrine/1204080-000/'),
+    ],
+    occurrence: src(2026, 'https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/oralhistory/ohudamaki.html', '横浜市戸塚区', 'gov'),
+  }],
+
+  // 会場は役場周辺ではなく、役場北側の「おおい中央公園」
+  ['oi-oi-yosakoi-hyotan-matsuri', {
+    organizer: '大井町 地域振興課',
+    venue: { name: 'おおい中央公園（大井町役場北側）', address: '神奈川県足柄上郡大井町大井中央284' },
+    links: [
+      L('大井よさこいひょうたん祭 公式', 'https://ooi-hyoutanmatsuri.com/'),
+      L('大井町観光サイト 大井よさこいひょうたん祭', 'https://www.town.oi.kanagawa.jp/site/kanko/list18-103.html'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://ooi-hyoutanmatsuri.com/', '大井よさこいひょうたん祭実行委員会', 'official'),
+      start_time: '11:00',
+      end_time: '21:00',
+      note: '荒天のときは翌8月9日に延期',
+    },
+  }],
+
+  // 会場は海水浴場周辺ではなく泉公園（伊豆湯河原＝泉地区）
+  ['yugawara-izu-yugawara-noryo-hanabi', {
+    organizer: '伊豆湯河原温泉観光協会',
+    venue: { name: '泉公園' },
+    links: [
+      L('湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会', 'https://www.yugawara.or.jp/event/1994/'),
+      L('伊豆湯河原温泉観光協会', 'https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.yugawara.or.jp/event/1994/', '湯河原温泉観光協会', 'official'),
+      start_time: '19:40',
+      end_time: '21:00',
+      note: '和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から',
+    },
+  }],
+
+  // 7月31日から8月6日まで、芦ノ湖の4つの湾を巡って毎晩どこかで花火が上がる
+  ['hakone-ashinoko-natsumatsuri-week', {
+    links: [L('箱根町観光協会 箱根の花火大会', 'https://www.hakone.or.jp/8230')],
+    occurrence: {
+      ...src(2026, 'https://www.hakone.or.jp/8230', '箱根町観光協会', 'gov'),
+      start_time: '20:00',
+      end_time: '20:30',
+      note: '打ち上げはいずれも20時から。日によって元箱根湾・箱根湾・箱根園湾・湖尻湾と会場が変わる',
+    },
+  }],
+
+  // ------------------------------------------------------------------
+  // 栃木県（続き）
+  // ------------------------------------------------------------------
+
+  ['mibu-mibu-furusato-matsuri', {
+    organizer: '壬生町観光協会（共催: 壬生町・壬生町商工会）',
+    venue: { name: '壬生町総合公園 陸上競技場' },
+    links: [
+      L('壬生町観光協会 壬生ふるさとまつり', 'https://mibu-kankou.org/'),
+      L('壬生町 壬生ふるさとまつり', 'https://www.town.mibu.tochigi.jp/docs/2024080900034/'),
+    ],
+    occurrence: {
+      start_time: '18:30',
+      end_time: '21:00',
+      note: '時刻は前回の発表による。かんぴょう音頭が18時30分から、花火は20時から',
+      year: 2026,
+      checked_at: CHECKED,
+    },
+  }],
+  // 会場は古河電工の事業所そのもの。毎年8月第1金曜
+  ['nikko-nikko-waraku-odori', {
+    organizer: '古河電気工業株式会社 日光事業所',
+    venue: { name: '古河電気工業 日光事業所（日光市清滝）' },
+    recurrence: '8月第1金曜日',
+    recurrence_source: 'https://www.nikko-kankou.org/event/618',
+    links: [
+      L('日光旅ナビ 日光和楽踊り', 'https://www.nikko-kankou.org/event/618'),
+      L('古河電気工業 日光事業所', 'https://www.furukawa.co.jp/company/office/nikkou.html'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.nikko-kankou.org/event/618', '日光市観光協会', 'gov'),
+      start_time: '19:00',
+      end_time: '21:00',
+    },
+  }],
+
+  ['inashiki-edosaki-gion', {
+    organizer: '稲敷市観光協会',
+    venue: { name: '江戸崎地区（本町通り周辺）' },
+    occurrence: {
+      year: 2026,
+      checked_at: CHECKED,
+      start_time: '12:00',
+      end_time: '21:30',
+      note: '土日の時間帯。初日（金曜）は19時ごろから21時ごろまで',
+    },
+  }],
+
+  // ------------------------------------------------------------------
+  // 千葉県（続き）
+  // ------------------------------------------------------------------
+
+  ['chiba-chuo-oyako-sandai-natsumatsuri', {
+    organizer: '千葉市を美しくする会（共催: 千葉市）',
+    venue: { name: '中央公園・栄町通り・千葉銀座通り・千葉中央一番街ほか' },
+    links: [
+      L('千葉市 千葉の親子三代夏祭り', 'https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html'),
+      L('千葉市を美しくする会 まつり部会', 'https://www.bikai.org/page/matsuri'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html', '千葉市', 'gov'),
+      note: '初日が前夜祭、2日目が本祭り',
+    },
+  }],
+
+  ['noda-noda-mikoshi-parade', {
+    organizer: '野田みこしパレード実行委員会（野田商工会議所内）',
+    venue: { name: '野田市 本町通り周辺' },
+    links: [L('野田市 みこしパレード', 'https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html')],
+    occurrence: {
+      ...src(2026, 'https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html', '野田市', 'gov'),
+      start_time: '16:00',
+      end_time: '21:30',
+      note: '子どもみこしは16時から17時、大人みこしは17時40分から21時30分',
+    },
+  }],
+
+  // 勝浦会場と興津会場で日も場所も違う。この回は勝浦会場（8月11日）
+  ['katsuura-katsuura-wakashio-noryosai', {
+    organizer: 'かつうら若潮まつり実行委員会',
+    venue: { name: '遠見岬神社 駐車場（勝浦会場）' },
+    links: [L('勝浦市観光協会 イベント', 'https://www.katsuura-kankou.net/event/')],
+    occurrence: {
+      ...src(2026, 'https://www.katsuura-kankou.net/event/', '勝浦市観光協会', 'official'),
+      start_time: '15:00',
+      note: '興津会場は8月14日19時から（花火・灯篭流し）',
+    },
+  }],
+  // ------------------------------------------------------------------
+  // 群馬県（続き）
+  // ------------------------------------------------------------------
+
+  ['kanra-kanra-hanabi', {
+    organizer: '甘楽町商工会',
+    venue: { name: '甘楽ふれあいの丘' },
+    occurrence: {
+      year: 2026,
+      checked_at: CHECKED,
+      start_time: '16:00',
+      end_time: '20:10',
+      note: '時刻は前回の発表による。夏まつりが16時から、花火は19時30分から',
+    },
+  }],
+
+  // 会場は水沼駅周辺ではなく黒保根運動公園（駅から徒歩1分）
+  ['kiryu-kurohone-natsumatsuri', {
+    organizer: '桐生市 黒保根支所 地域振興整備課',
+    venue: { name: '黒保根運動公園（わたらせ渓谷鐵道 水沼駅前）' },
+    links: [L('桐生市 くろほね夏まつり', 'https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html')],
+    occurrence: {
+      ...src(2026, 'https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html', '桐生市', 'gov'),
+      note: '初日は八木節競演大会、2日目に花火。時刻は前回の発表で初日18時から21時、2日目12時から21時',
+    },
+  }],
+
+  ['shimonita-shimonita-konnyaku-natsumatsuri', {
+    organizer: '下仁田町商工会',
+    venue: { name: 'こんにゃく手作り体験道場 広場', address: '群馬県甘楽郡下仁田町大字下仁田390-1' },
+    links: [L('下仁田町 下仁田こんにゃく夏祭り', 'https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html')],
+    occurrence: {
+      ...src(2026, 'https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html', '下仁田町', 'gov'),
+      start_time: '13:00',
+      end_time: '20:20',
+      note: '時刻は前回の発表による',
+    },
+  }],
+
+  // 富岡市指定の重要民俗文化財。日付は8月16日で固定、火文字の点火は19時ごろ
+  ['tomioka-oshima-no-himatsuri', {
+    recurrence: '8月16日',
+    recurrence_source: 'https://gunma-kanko.jp/events/13',
+    links: [L('心にググっと観光ぐんま 大島の火まつり・富岡花火大会', 'https://gunma-kanko.jp/events/13')],
+    occurrence: {
+      ...src(2026, 'https://gunma-kanko.jp/events/13', '群馬県観光物産国際協会', 'gov'),
+      start_time: '19:00',
+      note: '火文字の点火は19時ごろ',
+    },
+  }],
+  // ------------------------------------------------------------------
+  // 横浜市・相模原市（続き）
+  // ------------------------------------------------------------------
+
+  ['seya-shirahime-matsuri', {
+    organizer: '白姫まつり実行委員会（三ツ境駅前の商店会・町内会）',
+    shrine: '白姫神社',
+    recurrence: '8月第1土曜日・日曜日',
+    recurrence_source: 'https://www.townnews.co.jp/0105/2026/07/30/846579.html',
+    occurrence: {
+      year: 2026,
+      checked_at: CHECKED,
+      start_time: '13:00',
+      end_time: '21:00',
+    },
+  }],
+
+  // 杉田八幡宮の例大祭に合わせて商店街ぐるみで行う
+  ['isogo-sugita-matsuri', {
+    shrine: '杉田八幡宮',
+    links: [
+      L('杉田八幡宮', 'https://sugitahatimangu.jp/'),
+      L('横浜市磯子区 杉田地区の夏まつり', 'https://www.city.yokohama.lg.jp/isogo/kusei/koho/isogophotonews/R06/sugitamatsuri.html'),
+    ],
+  }],
+
+  // 阿波踊りの祭り。区が日程と時刻を出している
+  ['sagamihara-minami-torinma-summer-warnival', {
+    organizer: '東林間サマーわぁ！ニバル実行委員会',
+    links: [
+      L('東林間サマーわぁ！ニバル 公式', 'https://higashirinkan-awaodori.com/'),
+      L('相模原市南区 東林間サマーわぁ！ニバル', 'https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.sagamihara.kanagawa.jp/minamiku/1009519/1035729.html', '相模原市南区', 'gov'),
+      start_time: '17:20',
+      end_time: '20:00',
+      note: '初日は17時20分から開会式、踊りは17時40分から',
+    },
+  }],
+
+  ['aoba-tamaplaza-summer-festival-15', {
+    organizer: 'we love tamaplaza project',
+    links: [L('we love tamaplaza project', 'https://welovetamaplaza.jp/information/')],
+    occurrence: {
+      ...src(2026, 'https://welovetamaplaza.jp/2026_summer_program/', 'we love tamaplaza project', 'official'),
+      note: '期間中の7月25日・26日が各商店街の夏まつり（16時から20時）',
+    },
+  }],
+
+  ['suginami-mypl-セシオン杉並祭り', {
+    organizer: 'セシオン杉並まつり実行委員会・高円寺地域区民センター協議会',
+    venue: { name: 'セシオン杉並（高円寺地域区民センター）', address: '東京都杉並区梅里1-22-32' },
+    links: [L('セシオン杉並', 'https://www.sesion-suginami.jp/')],
+    occurrence: {
+      year: 2026,
+      checked_at: CHECKED,
+      start_time: '10:30',
+      end_time: '15:00',
+      note: '時刻は前回の発表による',
+    },
+  }],
+
+  // ------------------------------------------------------------------
+  // 栃木県・神奈川県（最終ぶん）
+  // ------------------------------------------------------------------
+
+  ['sakura-tochigi-ujiie-shoko-matsuri', {
+    organizer: '氏家商工まつり実行委員会（氏家商工会）',
+    venue: { name: '石町市営駐車場・大通り歩行者天国・本町駐車場（氏家地区）' },
+    links: [
+      L('さくら市 氏家商工まつり2026', 'https://www.city.tochigi-sakura.lg.jp/event/000060/p005250.html'),
+      L('氏家商工会', 'http://ujiie-shokokai.or.jp/'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.tochigi-sakura.lg.jp/event/000060/p005250.html', 'さくら市', 'gov'),
+      start_time: '15:50',
+      note: '開会式が15時50分から。イベントは夜まで',
+    },
+  }],
+
+  // 会場は市内一円ではなく大平運動公園。「なつこい Sound Stage」と同時開催
+  ['tochigi-shi-tochigi-bon-matsuri', {
+    venue: { name: '栃木市大平運動公園' },
+    links: [L('栃木市 “なつこい” Sound Stage TOCHIGI 2026 with とちぎ盆祭り', 'https://www.city.tochigi.lg.jp/site/tourism/88004.html')],
+    occurrence: src(2026, 'https://www.city.tochigi.lg.jp/site/tourism/88004.html', '栃木市', 'gov'),
+  }],
+
+  // 当初7月18日の予定が19日に順延された。日付を出典に合わせる
+  ['utsunomiya-oya-natsumatsuri', {
+    organizer: 'NPO法人 大谷商工観光協力会',
+    venue: { name: '大谷景観公園' },
+    links: [
+      L('宇都宮市 第4回大谷夏祭り', 'https://www.city.utsunomiya.lg.jp/event/event/1047972.html'),
+      L('大谷地域観光情報サイト', 'https://oya-stone-city.jp/event'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.utsunomiya.lg.jp/event/event/1047972.html', '宇都宮市', 'gov'),
+      dates: ['2026-07-19'],
+      start_time: '16:00',
+      end_time: '21:00',
+      note: '当初は7月18日の予定だったが19日に順延',
+    },
+  }],
+
+  ['nasu-ashino-shoten-hanabi', {
+    organizer: '芦野聖天花火大会実行委員会',
+    venue: { name: '芦野御殿山' },
+    links: [L('那須町観光協会 芦野聖天花火大会', 'https://www.nasukogen.org/calendar/detail.php?id=1214')],
+    occurrence: {
+      start_time: '19:00',
+      end_time: '20:30',
+      note: '時刻は前回の発表による。会場周辺の仲町通りに露店が並ぶ',
+      year: 2026,
+      checked_at: CHECKED,
+    },
+  }],
+
+  ['sagamihara-chuo-sagamihara-noryo-hanabi', {
+    organizer: '相模原納涼花火大会実行委員会',
+    venue: { name: '相模川 高田橋上流（相模原市中央区水郷田名）' },
+    links: [L('相模原納涼花火大会 公式', 'https://sagamiharahanabi.com/')],
+    occurrence: {
+      ...src(2026, 'https://sagamiharahanabi.com/', '相模原納涼花火大会実行委員会', 'official'),
+      start_time: '19:00',
+      end_time: '20:15',
+    },
+  }],
+  // 花火は日程が冬（グルミネーションと同時開催）なので、前回の時刻は入れない
+  ['haga-haga-roman-hanabi', {
+    organizer: '芳賀町・芳賀町観光協会・芳賀町商工会ほか',
+    links: [L('芳賀町観光協会', 'https://hagamachi-kanko.com/')],
+  }],
+
+  ['ichikai-ichikai-aki-matsuri', {
+    venue: { name: '市貝町役場 さわやか広場周辺' },
+    links: [
+      L('市貝町 ICHIKAI秋まつり開催', 'https://www.town.ichikai.tochigi.jp/info/1911'),
+      L('市貝町観光協会 ICHIKAI秋まつり', 'https://www.ichikai-kankou.jp/news/news-1287/'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.town.ichikai.tochigi.jp/info/1911', '市貝町', 'gov'),
+      start_time: '09:00',
+      end_time: '19:00',
+      note: '時刻は前回の発表による。町民祭・JAまつりと同日開催で、花火は18時から',
+    },
+  }],
+
+  // 実行委員会が公式サイトを持っている
+  ['tsukuba-sekai-no-tsukuba-bonodori', {
+    organizer: '世界のつくばで盆おどり実行委員会',
+    venue: { name: 'デイズタウン 平面駐車場', address: '茨城県つくば市竹園1-9-2' },
+    links: [L('世界のつくばで盆おどり 公式', 'https://sites.google.com/view/sekabon298/home-2')],
+    occurrence: {
+      ...src(2026, 'https://sites.google.com/view/sekabon298/home-2', '世界のつくばで盆おどり実行委員会', 'official'),
+      start_time: '15:00',
+      end_time: '20:40',
+      note: '盆おどりは18時30分から19時50分。荒天のときは翌26日に順延',
+    },
+  }],
+
+  ['suginami-mypl-ふるさと和泉みんなの夏祭り', {
+    organizer: 'あすをりなすの会（杉並和泉学園校区 地域教育推進協議会）',
+    venue: { name: '杉並和泉学園 校庭' },
+    links: [
+      L('あすをりなすの会', 'https://asuworinasu.com/'),
+      L('杉並和泉学園 学校支援本部 みんなの夏祭り', 'https://shinsen-izumi.sakura.ne.jp/minna-no-natsumatsuri'),
+    ],
+    occurrence: {
+      year: 2026,
+      checked_at: CHECKED,
+      start_time: '16:00',
+      end_time: '20:00',
+      note: '時刻は前回の発表による',
+    },
+  }],
+
+  // 会場は赤城山一帯ではなく大沼湖畔
+  ['maebashi-akagisan-lantern', {
+    organizer: '赤城山夏祭り実行委員会',
+    venue: { name: '赤城大沼湖畔' },
+    links: [
+      L('前橋市 赤城山らんたん祭り', 'https://www.city.maebashi.gunma.jp/7/49614.html'),
+      L('前橋まるごとガイド 赤城山らんたん祭り', 'https://www.maebashi-cvb.com/event/8759'),
+    ],
+    occurrence: {
+      ...src(2026, 'https://www.city.maebashi.gunma.jp/7/49614.html', '前橋市', 'gov'),
+      start_time: '10:00',
+      end_time: '20:00',
+      note: 'ランタンの点灯は18時から21時',
+    },
+  }],
+], '検索で見つけた公式・行政ページで裏取り（茨城・栃木・群馬・埼玉・千葉・神奈川・東京・福岡）');

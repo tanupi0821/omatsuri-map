@@ -1,0 +1,29 @@
+id: chiyoda-summer-ar0313e557247
+name: 丸の内盆踊り 2026
+kind: 盆踊り
+scale: 市
+area:
+  pref: 東京都
+  city: 千代田区
+  ward: null
+venue:
+  name: 行幸通り
+  address: 千代田区丸の内2-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557247/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

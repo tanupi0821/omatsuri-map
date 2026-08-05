@@ -9,14 +9,16 @@ area:
 venue:
   name: 周防大島町役場橘庁舎周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.899177
+  lng: 132.279779
+organizer: 周防大島花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://park22.wakwak.com/~suo-oshima-shoko/tachibana/index.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0835e00963/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR大畠駅から安下庄線バスで約50分、安下庄停留所下車すぐ

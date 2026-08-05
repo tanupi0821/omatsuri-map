@@ -9,22 +9,25 @@ area:
 venue:
   name: 浅川町大字滝輪 滝輪郷地内
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.086246
+  lng: 140.412338
+organizer: 浅川町役場企画商工課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.asakawa.fukushima.jp/asakawa_hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0207e78009/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR磐城浅川駅から徒歩10分

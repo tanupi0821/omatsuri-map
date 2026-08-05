@@ -9,14 +9,16 @@ area:
 venue:
   name: 奈半利駅前
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.424971
+  lng: 134.017788
+organizer: 奈半利町港まつり執行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.nahari.kochi.jp/kanko/dtl.php?hdnKey=1706
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0939e518024/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 土佐くろしお鉄道奈半利駅すぐ

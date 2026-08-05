@@ -9,9 +9,9 @@ area:
 venue:
   name: みゆき公園多目的広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.11148
+  lng: 129.981516
+organizer: 嬉野市商工会青年部
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00282/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR武雄温泉駅からJRバス(嬉野温泉行きで約30分)で公会堂前停留所下車、徒歩15分

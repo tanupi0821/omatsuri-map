@@ -9,14 +9,16 @@ area:
 venue:
   name: 姫路港(飾磨地区)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.780909
+  lng: 134.660038
+organizer: 姫路市産業振興課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://himeji-minatohanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e00353/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 山陽電鉄飾磨駅から徒歩25分

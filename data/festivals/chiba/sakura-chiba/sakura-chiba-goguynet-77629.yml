@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 佐倉市内
-  address: null
+  address: 佐倉市中志津3-36-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 角栄ガス公式HP
+    url: https://www.kakuei-gas.co.jp/
+  - title: 角栄ホームズ公式HP
+    url: https://www.kakuei-homes.co.jp/
 occurrences:
   - year: 2026
     dates:

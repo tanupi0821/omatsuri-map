@@ -9,8 +9,8 @@ area:
 venue:
   name: メリケンパーク
   address: null
-  lat: null
-  lng: null
+  lat: 34.682294
+  lng: 135.18607
 organizer: null
 stalls: yes
 tags: []

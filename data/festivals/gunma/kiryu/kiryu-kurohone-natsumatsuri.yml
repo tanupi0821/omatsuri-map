@@ -7,14 +7,26 @@ area:
   city: 桐生市
   ward: null
 venue:
-  name: わたらせ渓谷鐵道 水沼駅周辺
+  name: 黒保根運動公園（わたらせ渓谷鐵道 水沼駅前）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 桐生市 黒保根支所 地域振興整備課
 tags: []
 description: null
-links: []
+links:
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+  - title: 桐生市 くろほね夏まつり
+    url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
 occurrences:
   - year: 2026
     dates:
@@ -23,8 +35,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
+    source_name: 桐生市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 初日は八木節競演大会、2日目に花火。時刻は前回の発表で初日18時から21時、2日目12時から21時
 stalls: unknown

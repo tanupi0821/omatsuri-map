@@ -9,22 +9,25 @@ area:
 venue:
   name: 久慈川・押川合流点中州
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.766397
+  lng: 140.358027
+organizer: 大子町花火大会と灯籠流し実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.daigo-kanko.jp
 occurrences:
   - year: 2026
     dates:
       - 2026-11-21
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0308e01089/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR常陸大子駅から徒歩5分

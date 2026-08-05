@@ -9,22 +9,25 @@ area:
 venue:
   name: 幾春別川三笠山橋下流周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.239831
+  lng: 141.872281
+organizer: 三笠北海盆おどり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.mikasa.hokkaido.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00137/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR岩見沢駅から中央バス(幾春別行きで約25分)で三笠市民会館停留所下車、徒歩5分

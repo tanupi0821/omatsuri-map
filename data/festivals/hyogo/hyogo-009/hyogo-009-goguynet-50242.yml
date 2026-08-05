@@ -9,19 +9,21 @@ area:
 venue:
   name: 板宿小学校
   address: null
-  lat: null
-  lng: null
+  lat: 34.662956
+  lng: 135.133167
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式インスタグラム
+    url: https://www.instagram.com/yagura_kai/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 20:30
     status: confirmed
     source_url: https://kobetarumi.goguynet.jp/2026/07/21/itayadonatsumatsuri/
     source_name: 号外NET 神戸市垂水区・須磨区

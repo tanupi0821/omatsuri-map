@@ -9,8 +9,8 @@ area:
 venue:
   name: 鎌ケ谷小学校
   address: null
-  lat: null
-  lng: null
+  lat: 35.772826
+  lng: 140.002452
 organizer: null
 stalls: yes
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/30/minamihatsutominatsumatsuri/
     source_name: 号外NET 鎌ケ谷市・白井市・印西市

@@ -9,8 +9,8 @@ area:
 venue:
   name: 錦糸公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.698885
+  lng: 139.81639
 organizer: すみだ沖縄まつり実行委員会
 stalls: yes
 tags: []

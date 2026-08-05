@@ -9,14 +9,16 @@ area:
 venue:
   name: 釧路川河口付近(幣舞橋下流)
   address: null
-  lat: null
-  lng: null
+  lat: 42.980272
+  lng: 144.377464
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hokkaido-np.co.jp/hanabi2026/kushiro/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00342/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR釧路駅から南へ徒歩15分

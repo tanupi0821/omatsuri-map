@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 法蔵寺
-  address: null
+  address: 富士市中野
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-05-02
       - 2026-05-04
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/04/30/event5253/
     source_name: 号外NET 富士市・富士宮市

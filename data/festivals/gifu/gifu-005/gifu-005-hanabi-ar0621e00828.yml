@@ -9,22 +9,25 @@ area:
 venue:
   name: 大和奥長良ウィンドパーク周辺(大和町徳永)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.809099
+  lng: 136.899458
+organizer: 郡上長良川夢花火実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tabitabigujo.com/yamato/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-14
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00828/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 長良川鉄道徳永駅から徒歩5分

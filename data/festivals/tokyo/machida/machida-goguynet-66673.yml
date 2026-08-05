@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 原町田地区協議会
 stalls: unknown
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 20:00
     status: confirmed
     source_url: https://machida.goguynet.jp/2026/07/06/haramachidanoryomatsuri/
     source_name: 号外NET 町田市

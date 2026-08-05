@@ -7,11 +7,11 @@ area:
   city: 稲敷市
   ward: null
 venue:
-  name: 稲敷市内
+  name: 江戸崎地区（本町通り周辺）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 稲敷市観光協会
 tags: []
 description: null
 links: []
@@ -21,11 +21,12 @@ occurrences:
       - 2026-07-24
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 土日の時間帯。初日（金曜）は19時ごろから21時ごろまで
 stalls: unknown

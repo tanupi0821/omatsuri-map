@@ -9,23 +9,26 @@ area:
 venue:
   name: 佐賀玄海漁業協同組合呼子支所前防波堤
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.544666
+  lng: 129.890311
+organizer: 佐賀玄海漁協 呼子町統括支所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.karatsu-kankou.jp/events/detail/875
 occurrences:
   - year: 2025
     dates:
       - 2025-10-11
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00967/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR唐津駅から徒歩5分、唐津大手口バスセンターから昭和バス(呼子行きで訳30分)で呼子停留所下車すぐ

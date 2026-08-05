@@ -9,8 +9,8 @@ area:
 venue:
   name: 佐竹商店街アーケード下
   address: null
-  lat: null
-  lng: null
+  lat: 35.705167
+  lng: 139.778519
 organizer: 佐竹商店街振興組合
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 19:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31614/
     source_name: 東京フェスタ

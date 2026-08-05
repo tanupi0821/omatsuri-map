@@ -9,23 +9,26 @@ area:
 venue:
   name: 須古港湾
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 28.275392
+  lng: 129.291591
+organizer: 宇検村やけうちどんと祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://uken.kashoren.or.jp/
 occurrences:
   - year: 2025
     dates:
       - 2025-11-02
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1046e00973/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 奄美空港から道の島交通バス名瀬(市街地)行きで約50分

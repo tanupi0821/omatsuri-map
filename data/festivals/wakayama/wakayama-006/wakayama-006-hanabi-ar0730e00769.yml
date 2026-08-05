@@ -9,22 +9,40 @@ area:
 venue:
   name: 和歌山港中埠頭沖合
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.209542
+  lng: 135.140472
+organizer: 港まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.w-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 20:20
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0730e00769/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/bb/%E3%81%A4%E3%81%8F%E3%81%BF%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+    width: 1000
+    height: 1500
+    credit: Torochan22
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%A4%E3%81%8F%E3%81%BF%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG/1280px-%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG
+    width: 1000
+    height: 667
+    credit: Carpawa
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG
+station: 南海電鉄和歌山港駅から徒歩10分

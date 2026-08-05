@@ -9,13 +9,15 @@ area:
 venue:
   name: 厄除観音 法多山 尊永寺
   address: 袋井市豊沢2777
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.73779
+  lng: 137.977236
+organizer: 法多山尊永寺
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hattasan.or.jp/saiji/mantousai/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e188688/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR愛野駅から徒歩30分

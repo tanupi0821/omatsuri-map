@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://isesaki-auto.jp/6807/
 occurrences:
   - year: 2026
     dates:

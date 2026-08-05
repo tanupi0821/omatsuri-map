@@ -9,8 +9,8 @@ area:
 venue:
   name: お出かけしようか悩まれている方は和歌山城西の丸広場
   address: null
-  lat: null
-  lng: null
+  lat: 34.22975
+  lng: 135.170661
 organizer: null
 stalls: yes
 tags: []

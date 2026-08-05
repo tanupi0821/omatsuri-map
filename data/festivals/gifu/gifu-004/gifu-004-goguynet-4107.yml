@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-17
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 22:00
     status: confirmed
     source_url: https://tajimi.goguynet.jp/2026/07/15/akechigion/
     source_name: 号外NET 多治見市（東濃地域）

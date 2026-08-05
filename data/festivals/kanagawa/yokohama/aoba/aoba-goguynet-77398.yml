@@ -9,8 +9,8 @@ area:
 venue:
   name: 美しが丘公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.581857
+  lng: 139.553385
 organizer: null
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/21/tamaplaza-natsumatsuri-bonodori/
     source_name: 号外NET 横浜市緑区・青葉区

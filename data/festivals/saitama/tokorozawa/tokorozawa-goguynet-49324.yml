@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.seibulions.jp/special/lionsnatsumatsuri/
 occurrences:
   - year: 2026
     dates:

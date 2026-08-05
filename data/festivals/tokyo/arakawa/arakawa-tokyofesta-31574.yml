@@ -9,8 +9,8 @@ area:
 venue:
   name: ふらっとにっぽり1階・2階
   address: null
-  lat: null
-  lng: null
+  lat: 35.728853
+  lng: 139.774847
 organizer: 荒川区
 stalls: unknown
 tags: []
@@ -25,8 +25,8 @@ occurrences:
     dates:
       - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31574/
     source_name: 東京フェスタ

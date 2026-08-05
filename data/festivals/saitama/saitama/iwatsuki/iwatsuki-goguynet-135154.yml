@@ -15,13 +15,17 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 「キラリいわつき」公式Instagram
+    url: https://www.instagram.com/kirari_iwatsuki/
+  - title: 株式会社つなぐホームページ
+    url: https://www.home.saitama-tsunagu.com/news/5592/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:00
     status: confirmed
     source_url: https://saitamaminuma-iwatsuki.goguynet.jp/2026/07/29/saitamashi-minnanoapptown-iwatsuki/
     source_name: 号外NET さいたま市見沼区・岩槻区

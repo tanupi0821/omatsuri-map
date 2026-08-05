@@ -9,14 +9,16 @@ area:
 venue:
   name: 大瀬川大瀬大橋下流河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.571823
+  lng: 131.654681
+organizer: まつりのべおか推進協議会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://matsurinobeoka.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1045e00955/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR延岡駅から宮崎交通バス(九州医療科学大学行き)で約10分、桜小路停留所下車徒歩5分

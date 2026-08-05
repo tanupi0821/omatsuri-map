@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: …戸神ホームズ/戸神ベーカリー/とかみらいぶらりの敷地内（印西市戸神1045）
-  address: null
-  lat: null
-  lng: null
+  address: 印西市戸神1045
+  lat: 35.791478
+  lng: 140.115996
 organizer: null
 stalls: yes
 tags: []

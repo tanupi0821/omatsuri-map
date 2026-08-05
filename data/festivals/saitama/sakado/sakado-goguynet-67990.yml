@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 坂戸市内
-  address: null
+  address: 坂戸市日の出町2-2
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 20:00
     status: confirmed
     source_url: https://sakado-tsurugashima.goguynet.jp/2026/06/29/tanabatamatsuri2026/
     source_name: 号外NET 坂戸市・鶴ヶ島市

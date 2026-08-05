@@ -9,21 +9,24 @@ area:
 venue:
   name: 水田天満宮・恋木神社
   address: 筑後市水田62-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.198608
+  lng: 130.485682
+organizer: 水田天満宮
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mizuta-koinoki.jp/mizuta/event.shtml
 occurrences:
   - year: 2026
     dates:
       - 2026-08-25
-    start_time: null
-    end_time: null
+    start_time: 16:30
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e510682/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR羽犬塚駅からタクシーで約5分(徒歩20分)、JR筑後船小屋駅からタクシーで約5分(徒歩20分)

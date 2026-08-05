@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://www.kakurinji.or.jp/post-1897/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-07
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:00
     status: confirmed
     source_url: https://kakogawa.goguynet.jp/2026/07/04/tanabatakakurinji/
     source_name: 号外NET 加古川市・高砂市

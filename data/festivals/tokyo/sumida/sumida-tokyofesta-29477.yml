@@ -9,19 +9,21 @@ area:
 venue:
   name: 墨田区本所地域プラザ
   address: null
-  lat: null
-  lng: null
+  lat: 35.703196
+  lng: 139.798796
 organizer: 錦糸町商店街振興組合
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 5月16日(土)】唄って踊る 第2回すみだ河内音頭小盆踊り開
+    url: https://www.kinshicho-kawachiondo.jp/archives/1067
 occurrences:
   - year: 2026
     dates:
       - 2026-05-16
-    start_time: null
-    end_time: null
+    start_time: 13:30
+    end_time: 17:30
     status: confirmed
     source_url: https://tokyofesta.com/23ku/29477/
     source_name: 東京フェスタ

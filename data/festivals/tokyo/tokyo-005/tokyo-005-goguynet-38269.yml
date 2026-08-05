@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式ホームページ
+    url: https://www.mitaka-cc.jp/shinkawa-nakahara/event/1646.html
 occurrences:
   - year: 2026
     dates:

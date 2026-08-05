@@ -9,8 +9,8 @@ area:
 venue:
   name: 巣鴨駅南口ロータリー
   address: null
-  lat: null
-  lng: null
+  lat: 35.73263
+  lng: 139.737313
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-17
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31235/
     source_name: 東京フェスタ

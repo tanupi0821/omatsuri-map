@@ -9,22 +9,25 @@ area:
 venue:
   name: 旧真庭市役所落合振興局跡地前 旭川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.018826
+  lng: 133.756218
+organizer: 真庭商工会落合支所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.maniwasci.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:40
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0833e00691/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR姫新線美作落合駅から徒歩5分

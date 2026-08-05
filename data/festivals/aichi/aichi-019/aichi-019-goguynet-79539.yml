@@ -27,3 +27,11 @@ occurrences:
     source_name: 号外NET 豊橋市・田原市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nagasaki_Electric_Tramway_Beer_train.jpg/1280px-Nagasaki_Electric_Tramway_Beer_train.jpg
+    width: 1000
+    height: 750
+    credit: Houjyou-Minori
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Nagasaki_Electric_Tramway_Beer_train.jpg

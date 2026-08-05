@@ -11,8 +11,8 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 八王子駅北口商店会
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-05
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://hachioji.goguynet.jp/2026/06/19/hachiouji-north/
     source_name: 号外NET 八王子市

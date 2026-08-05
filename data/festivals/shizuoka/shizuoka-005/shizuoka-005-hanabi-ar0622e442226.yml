@@ -9,24 +9,27 @@ area:
 venue:
   name: 熱海湾(熱海港7.5メートル岸壁～海釣り施設)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.092125
+  lng: 139.079744
+organizer: 熱海市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.ataminews.gr.jp
 occurrences:
   - year: 2026
     dates:
       - 2026-09-13
       - 2026-11-23
-    start_time: null
-    end_time: null
+    start_time: 20:20
+    end_time: 20:40
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0622e442226/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR熱海駅から徒歩20分

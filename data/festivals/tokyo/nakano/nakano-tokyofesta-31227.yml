@@ -9,13 +9,15 @@ area:
 venue:
   name: 中野セントラルパーク
   address: null
-  lat: null
-  lng: null
+  lat: 35.707278
+  lng: 139.643984
 organizer: 中野駅前大盆踊り大会実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 中野駅前大盆踊り大会 中野駅前大盆踊り大会2026公式サイト
+    url: https://nakabon.jp/
 occurrences:
   - year: 2026
     dates:

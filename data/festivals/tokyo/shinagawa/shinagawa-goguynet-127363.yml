@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 杜松ホーム
-  address: null
+  address: 品川区豊町4-24-15
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 19:00
     status: confirmed
     source_url: https://shinagawa.goguynet.jp/2026/07/01/shinagawakuminnmaturi-6/
     source_name: 号外NET 品川区

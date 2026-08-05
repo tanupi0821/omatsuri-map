@@ -9,21 +9,23 @@ area:
 venue:
   name: 高浜漁港埋立地
   address: 対馬市美津島町鷄知甲1287-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.268159
+  lng: 129.316074
+organizer: 対馬市商工会青年部美津島支部
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tsushima-net.org/news/fnnbDXvw
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1042e185653/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05

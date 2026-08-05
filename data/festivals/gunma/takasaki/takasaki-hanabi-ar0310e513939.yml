@@ -9,22 +9,25 @@ area:
 venue:
   name: 烏川公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.38244
+  lng: 138.886609
+organizer: 榛名支所産業観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://harunavi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0310e513939/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR高崎駅から群馬バス本郷経由室田行きで約30分、下室田小学校前停留所下車徒歩7分

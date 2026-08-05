@@ -9,8 +9,8 @@ area:
 venue:
   name: 浜町公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.688142
+  lng: 139.784832
 organizer: 中央区大江戸まつり実行委員会・中央区
 stalls: yes
 tags: []
@@ -23,8 +23,8 @@ occurrences:
     dates:
       - 2026-08-21
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31822/
     source_name: 東京フェスタ

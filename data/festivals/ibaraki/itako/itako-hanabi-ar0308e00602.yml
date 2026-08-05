@@ -9,23 +9,26 @@ area:
 venue:
   name: 水郷北斎公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.958314
+  lng: 140.514053
+organizer: 潮来市観光商工課内 水郷潮来花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.itako.lg.jp/page/page008329.html
 occurrences:
   - year: 2025
     dates:
       - 2025-10-18
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0308e00602/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR潮来駅からタクシーで約10分

@@ -9,8 +9,8 @@ area:
 venue:
   name: 駿府城公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.979002
+  lng: 138.380546
 organizer: null
 stalls: yes
 tags: []
@@ -18,6 +18,8 @@ description: null
 links:
   - title: 号外NET 静岡市葵区
     url: https://aoi.goguynet.jp/2026/06/08/post-13474/
+  - title: アイスフェス＆アジアン夜市 SHIZUOKA 公式サイト
+    url: https://ice-asian.jp/
 occurrences:
   - year: 2026
     dates:

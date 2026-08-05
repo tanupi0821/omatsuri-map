@@ -9,21 +9,24 @@ area:
 venue:
   name: 舞鶴城公園(甲府城跡)
   address: 甲府市丸の内
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.664502
+  lng: 138.571434
+organizer: 小江戸甲府の夏祭り実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kofu-tourism.com/event/67
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0419e192849/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR甲府駅から徒歩5分

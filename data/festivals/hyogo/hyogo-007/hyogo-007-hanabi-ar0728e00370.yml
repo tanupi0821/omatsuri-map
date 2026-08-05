@@ -9,14 +9,16 @@ area:
 venue:
   name: 関宮コミュニティスポーツセンター周辺
   address: null
-  lat: null
-  lng: null
+  lat: 35.375054
+  lng: 134.644479
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kitakinki.gr.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e00370/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR山陰本線八鹿駅から全但バス(鉢伏・村岡行きで約30分)で関宮停留所下車、徒歩すぐ

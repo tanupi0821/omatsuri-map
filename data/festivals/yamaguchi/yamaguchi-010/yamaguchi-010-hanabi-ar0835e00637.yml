@@ -9,14 +9,16 @@ area:
 venue:
   name: 椹野川東津河川公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.100521
+  lng: 131.406992
+organizer: 吉南青年会議所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ochikyou.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0835e00637/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR周防下郷駅から徒歩7分、JR新山口駅から徒歩15分

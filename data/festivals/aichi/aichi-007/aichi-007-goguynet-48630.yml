@@ -9,8 +9,8 @@ area:
 venue:
   name: 乙川左岸河川敷（殿橋付近）
   address: null
-  lat: null
-  lng: null
+  lat: 34.954456
+  lng: 137.161668
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-09
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 22:00
     status: confirmed
     source_url: https://okazaki.goguynet.jp/2026/05/07/otogawanightmarket202605/
     source_name: 号外NET 岡崎市

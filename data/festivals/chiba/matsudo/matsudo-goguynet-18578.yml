@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 20:00
     status: confirmed
     source_url: https://matsudo.goguynet.jp/2026/06/23/sinmatudomaturi/
     source_name: 号外NET 松戸市

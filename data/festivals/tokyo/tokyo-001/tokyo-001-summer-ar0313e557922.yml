@@ -9,23 +9,26 @@ area:
 venue:
   name: 江戸東京たてもの園
   address: 小金井市桜町3-7-1
-  lat: null
-  lng: null
+  lat: 35.715827
+  lng: 139.512642
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tatemonoen.jp/event/page/2026_yusuzumi.php
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557922/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR武蔵小金井駅からバスで小金井公園西口停留所下車、徒歩5分

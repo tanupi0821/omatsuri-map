@@ -22,8 +22,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:00
     status: confirmed
     source_url: https://yokosuka.goguynet.jp/2026/07/20/miurakaiganhanabinouryoumatsuri2026/
     source_name: 号外NET 横須賀市・三浦市

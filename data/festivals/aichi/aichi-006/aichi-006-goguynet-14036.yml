@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 刈谷市内
-  address: null
+  address: 刈谷市小垣江町柿ノ湫56-1
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-28
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 14:00
     status: confirmed
     source_url: https://kariya-chiryu.goguynet.jp/2026/06/24/nanbuuchanfesta/
     source_name: 号外NET 刈谷市・知立市

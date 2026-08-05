@@ -9,22 +9,25 @@ area:
 venue:
   name: 川口オートレース場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.819849
+  lng: 139.72406
+organizer: 川口市たたら祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tatara-matsuri.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-27
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0311e00256/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 埼玉高速鉄道南鳩ヶ谷駅から徒歩15分、またはJR川口駅・西川口駅・蕨駅

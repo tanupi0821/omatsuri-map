@@ -9,8 +9,8 @@ area:
 venue:
   name: 慶應義塾大学
   address: null
-  lat: null
-  lng: null
+  lat: 35.388017
+  lng: 139.422124
 organizer: null
 stalls: yes
 tags: []

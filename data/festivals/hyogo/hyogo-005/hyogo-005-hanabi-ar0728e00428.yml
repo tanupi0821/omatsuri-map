@@ -9,22 +9,25 @@ area:
 venue:
   name: 夢前川河川公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.969165
+  lng: 134.683843
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.facebook.com/profile.php?id=61559044569694
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 20:20
+    end_time: 20:40
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0728e00428/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR姫路駅から神姫バス(前之庄行きまたは山之内行きで約50分)で松之本停留所下車、徒歩3分

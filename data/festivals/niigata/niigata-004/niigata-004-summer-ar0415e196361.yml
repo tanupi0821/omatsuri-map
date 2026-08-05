@@ -9,13 +9,15 @@ area:
 venue:
   name: 関川村役場前駐車場
   address: 岩船郡関川村下関912
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.089513
+  lng: 139.564956
+organizer: 関川村観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sekikawa-kankou.com/taishitamonja-matsuri-2026-2/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e196361/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Echigo_Sekikawa_Jabami_Village_Sign_Oct2022.jpg/1280px-Echigo_Sekikawa_Jabami_Village_Sign_Oct2022.jpg
@@ -37,3 +39,4 @@ photos:
     license: CC BY 4.0
     license_url: https://creativecommons.org/licenses/by/4.0
     source: https://commons.wikimedia.org/wiki/File:Echigo_Sekikawa_Jabami_Village_Sign_Oct2022.jpg
+station: JR越後下関駅から徒歩5分

@@ -9,13 +9,15 @@ area:
 venue:
   name: 新潟県小千谷市本町ほか
   address: 小千谷市本町
-  lat: null
-  lng: null
+  lat: 37.31041
+  lng: 138.80322
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.ojiyakanko.com/festa_ojiya.html
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e72025/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2006_Ojiya_Festival_007.jpg/1280px-2006_Ojiya_Festival_007.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 3.0
     license_url: http://creativecommons.org/licenses/by-sa/3.0/
     source: https://commons.wikimedia.org/wiki/File:2006_Ojiya_Festival_011.jpg
+station: JR小千谷駅から徒歩15分

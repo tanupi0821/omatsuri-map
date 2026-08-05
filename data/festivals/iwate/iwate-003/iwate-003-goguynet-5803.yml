@@ -9,8 +9,8 @@ area:
 venue:
   name: 盛岡城跡公園内
   address: null
-  lat: null
-  lng: null
+  lat: 39.7003
+  lng: 141.148499
 organizer: null
 stalls: yes
 tags: []

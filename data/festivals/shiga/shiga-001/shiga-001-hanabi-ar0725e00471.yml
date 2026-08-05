@@ -9,22 +9,25 @@ area:
 venue:
   name: 近江舞子中浜水泳場一帯
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.231754
+  lng: 135.965457
+organizer: 志賀観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shigacho.jimdofree.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-23
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0725e00471/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR近江舞子駅から東へ徒歩5分

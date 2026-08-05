@@ -9,14 +9,16 @@ area:
 venue:
   name: 中央公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.160361
+  lng: 138.667781
+organizer: 富士まつり運営委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.fuji.shizuoka.jp/fujijikan/enjoy/kb719c00000006jt.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0622e357468/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR富士駅からバス(吉原中央駅行きで約10分)ロゼシアター入り口・中央病院停留所から徒歩5分

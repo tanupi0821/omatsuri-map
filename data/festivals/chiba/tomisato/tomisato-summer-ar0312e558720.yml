@@ -1,0 +1,29 @@
+id: tomisato-summer-ar0312e558720
+name: とみちゃん夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 富里市
+  ward: null
+venue:
+  name: WNSとみさとスマイルパーク(富里中央公園)野球場
+  address: 富里市七栄652-12
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0312e558720/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

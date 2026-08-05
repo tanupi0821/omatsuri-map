@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 14:00
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/07/16/furin-3/
     source_name: 号外NET 富士市・富士宮市

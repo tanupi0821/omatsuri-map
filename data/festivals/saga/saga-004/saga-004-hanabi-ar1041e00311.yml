@@ -9,22 +9,25 @@ area:
 venue:
   name: 川上峡官人橋下流
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.326178
+  lng: 130.268236
+organizer: 大和町観光事業実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.sagabai.com/main/?cont=event&amp;eid=213703
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
+    start_time: 20:00
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00311/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR佐賀駅バスセンターからバス(古湯北山方面行きで約30分)で川上橋停留所下車、徒歩3分

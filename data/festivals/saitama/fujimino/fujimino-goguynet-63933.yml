@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://fujimi-fujimino.goguynet.jp/2026/07/24/kidseventaeontownfujimino/
     source_name: 号外NET 富士見市・ふじみ野市

@@ -9,22 +9,24 @@ area:
 venue:
   name: 北上川河畔(北上大橋付近)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.895158
+  lng: 141.262983
+organizer: かわさき夏まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.facebook.com/kawasaki.hanabi
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0203e00648/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

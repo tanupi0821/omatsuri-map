@@ -1,0 +1,29 @@
+id: shibuya-summer-ar0313e557931
+name: 第7回渋谷盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: SHIBUYA109前イベントスペース
+  address: 渋谷区道玄坂2-29-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557931/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

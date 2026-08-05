@@ -9,14 +9,16 @@ area:
 venue:
   name: 高山市久々野支所駐車場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.048459
+  lng: 137.275223
+organizer: ひだ桃源郷くぐの観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kuguno.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00191/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR久々野駅から徒歩5分

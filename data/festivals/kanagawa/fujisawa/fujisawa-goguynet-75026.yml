@@ -9,8 +9,8 @@ area:
 venue:
   name: 藤沢駅北口
   address: null
-  lat: null
-  lng: null
+  lat: 35.339499
+  lng: 139.485033
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-07
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 20:00
     status: confirmed
     source_url: https://fujisawa.goguynet.jp/2026/06/07/fujinobon-syokanijin/
     source_name: 号外NET 藤沢市

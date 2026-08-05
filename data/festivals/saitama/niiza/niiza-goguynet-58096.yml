@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 平林寺（埼玉県新座市野火止3-1-1）および周辺道路
-  address: null
-  lat: null
-  lng: null
+  address: 新座市野火止3-1-1
+  lat: 35.813251
+  lng: 139.548254
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 平林寺公式サイト
+    url: https://www.heirinji.or.jp/information/event/
 occurrences:
   - year: 2026
     dates:
       - 2026-04-17
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://niiza-shiki.goguynet.jp/2026/04/04/heirinji-9/
     source_name: 号外NET 新座市・志木市

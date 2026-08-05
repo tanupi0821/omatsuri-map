@@ -31,3 +31,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「10月8日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Yahagi-Jinja-1.jpg
+    width: 1000
+    height: 750
+    credit: Evelyn-rose
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Yahagi-Jinja-1.jpg

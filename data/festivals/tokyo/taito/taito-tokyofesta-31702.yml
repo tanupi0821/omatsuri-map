@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 並木通り界隈（浅草雷門前）
-  address: null
+  address: 台東区雷門2丁目18
   lat: null
   lng: null
 organizer: 雷門東部商店会・雷門一之宮商店会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 雷門盆踊り 〜夢灯篭〜 【公式サイト】 2026年9月5日(
+    url: https://www.kaminari-bonodori.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-05
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 20:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31702/
     source_name: 東京フェスタ

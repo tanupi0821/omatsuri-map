@@ -9,22 +9,25 @@ area:
 venue:
   name: 旧佐世保市役所鹿町支所周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.272349
+  lng: 129.587923
+organizer: 鹿町の海と山交流会・事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.sasebo99.com/event/61957
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 21:00
+    end_time: 21:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00317/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 松浦鉄道江迎鹿町駅からタクシーで約10分

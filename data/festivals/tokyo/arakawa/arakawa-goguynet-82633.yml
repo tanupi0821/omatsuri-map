@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 石濱神社公式サイト・神輿渡御順路
+    url: https://www.ishihamajinja.jp/_files/ugd/a7d89b_252856441b8a41f0b1efc16656a95fd7.pdf
 occurrences:
   - year: 2026
     dates:

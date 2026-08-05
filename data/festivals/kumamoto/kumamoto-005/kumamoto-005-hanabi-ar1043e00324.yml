@@ -9,9 +9,9 @@ area:
 venue:
   name: 多良木町多目的総合グラウンド一帯
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.26436
+  lng: 130.933746
+organizer: 多良木町商工会
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-17
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1043e00324/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: くま川鉄道多良木駅から徒歩すぐ

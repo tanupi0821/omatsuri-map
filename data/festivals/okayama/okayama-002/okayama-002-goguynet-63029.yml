@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 倉敷市内
-  address: null
+  address: 倉敷市北畝1丁目23-25
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-26
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kurashiki.goguynet.jp/2026/06/24/mizusimanightmarche/
     source_name: 号外NET 倉敷市

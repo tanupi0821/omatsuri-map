@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 南沢 氷川神社のホームページ
+    url: https://www.hikawa-jinja.jp/sp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 15:00
     status: confirmed
     source_url: https://higashikurume-kiyose.goguynet.jp/2026/07/08/202607tennousai/
     source_name: 号外NET 東久留米市・清瀬市
@@ -35,3 +37,10 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:%E8%8D%8F%E5%8E%9F%E7%A5%9E%E7%A4%BE_%E5%A4%A9%E7%8E%8B%E7%A5%AD.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg/1280px-%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg
+    width: 1000
+    height: 629
+    credit: Utagawa Hiroshige
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg

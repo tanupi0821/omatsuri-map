@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 14:30
     status: confirmed
     source_url: https://ebina-zama-ayase.goguynet.jp/2026/04/10/ebina-sakurastreet-festival-2026/
     source_name: 号外NET 海老名市・座間市・綾瀬市

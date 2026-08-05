@@ -9,8 +9,8 @@ area:
 venue:
   name: 日当山温泉公園
   address: null
-  lat: null
-  lng: null
+  lat: 31.767846
+  lng: 130.752842
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 15:30
+    end_time: 21:00
     status: confirmed
     source_url: https://kirishima-aira.goguynet.jp/2026/07/30/hinatayama-natumatsuri/
     source_name: 号外NET 霧島市・姶良市

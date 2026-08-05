@@ -11,12 +11,16 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 芳賀町・芳賀町観光協会・芳賀町商工会ほか
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 芳賀町観光協会
+    url: https://hagamachi-kanko.com/
+  - title: 芳賀町観光協会
+    url: https://hagamachi-kanko.com/
 occurrences:
   - year: 2026
     dates:

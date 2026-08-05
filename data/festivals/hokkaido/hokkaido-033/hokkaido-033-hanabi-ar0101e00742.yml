@@ -9,22 +9,25 @@ area:
 venue:
   name: 北千歳駐屯地内 スキー山
   address: null
-  lat: null
-  lng: null
+  lat: 42.829812
+  lng: 141.628337
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.chitose-cci.or.jp/information/view/87#gsc.tab=0
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:45
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00742/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR千歳駅から北海道中央バス桜木線で北部隊前停留所下車(約12分)、またはJR千歳駅から徒歩35分

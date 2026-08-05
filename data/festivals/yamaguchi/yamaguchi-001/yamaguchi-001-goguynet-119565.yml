@@ -9,8 +9,8 @@ area:
 venue:
   name: 中須自然の家（旧中須中学校）
   address: null
-  lat: null
-  lng: null
+  lat: 34.115575
+  lng: 131.917003
 organizer: null
 stalls: yes
 tags: []

@@ -9,22 +9,25 @@ area:
 venue:
   name: 修善寺温泉
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.972635
+  lng: 138.933136
+organizer: 伊豆市観光協会修善寺支部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.shuzenji-kankou.com/hanabi.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-21
-    start_time: null
-    end_time: null
+    start_time: 20:15
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0622e512788/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 伊豆箱根鉄道駿豆線修善寺駅から東海バス(修善寺温泉行きで約8分)で修善寺温泉停留所下車、徒歩すぐ

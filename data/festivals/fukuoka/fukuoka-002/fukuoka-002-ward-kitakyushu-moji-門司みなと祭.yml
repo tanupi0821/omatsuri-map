@@ -7,15 +7,33 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
-  address: null
+  name: 門司港レトロ中央広場ほか
+  address: 北九州市門司区東港町1-12
   lat: null
   lng: null
-organizer: null
+organizer: 門司みなと祭協賛会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
+  - title: 門司みなと祭 公式
+    url: https://mojiminato.jp/2026/program.html
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +42,7 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
-    source_name: 北九州市門司区
-    source_type: gov
+    source_url: https://mojiminato.jp/2026/program.html
+    source_name: 門司みなと祭協賛会
+    source_type: official
     checked_at: 2026-08-05

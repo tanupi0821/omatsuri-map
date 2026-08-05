@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-05-15
       - 2026-05-16
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 15:00
     status: confirmed
     source_url: https://takaoka.goguynet.jp/2026/05/15/kenkayama/
     source_name: 号外NET 高岡市・氷見市

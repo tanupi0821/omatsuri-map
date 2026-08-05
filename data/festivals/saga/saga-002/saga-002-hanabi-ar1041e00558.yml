@@ -9,22 +9,25 @@ area:
 venue:
   name: 波戸岬海水浴場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.553087
+  lng: 129.851772
+organizer: 鎮西町夏まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.asobo-saga.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00558/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR唐津駅から徒歩5分、唐津大手口バスセンターから昭和バス(波戸岬行きで約50分)で波戸岬停留所下車、徒歩5分

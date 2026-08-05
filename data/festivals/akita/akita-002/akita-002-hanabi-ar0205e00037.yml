@@ -31,3 +31,18 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR鹿角花輪駅から徒歩10分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hanawa_Neputa_02.jpg/1280px-Hanawa_Neputa_02.jpg
+    width: 1000
+    height: 750
+    credit: Aoiwaaki
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_02.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hanawa_Neputa_01.jpg/1280px-Hanawa_Neputa_01.jpg
+    width: 1000
+    height: 1337
+    credit: Aoiwaaki
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_01.jpg

@@ -9,13 +9,15 @@ area:
 venue:
   name: 高知県高知市追手筋、高知県高知市帯屋町ほか
   address: 高知市帯屋町ほか
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.561061
+  lng: 133.535848
+organizer: 高知市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.cciweb.or.jp/kochi/yosakoiweb/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0939e4827/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2008_40.jpg

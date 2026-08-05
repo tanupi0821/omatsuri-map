@@ -9,23 +9,26 @@ area:
 venue:
   name: 細島商業港一帯
   address: 日向市細島
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.427476
+  lng: 131.662796
+organizer: 細島公民館
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://hososhima-minato.net/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-17
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e148556/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR日向市駅から宮崎交通バスに乗りイオンタウン日向で下車、徒歩10分

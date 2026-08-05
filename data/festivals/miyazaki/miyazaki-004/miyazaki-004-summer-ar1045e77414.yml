@@ -9,9 +9,9 @@ area:
 venue:
   name: 宮崎市田野運動公園
   address: 宮崎市田野町乙10905-26
-  lat: null
-  lng: null
-organizer: null
+  lat: 31.843788
+  lng: 131.307422
+organizer: 宮崎市田野総合支所地域市民福祉課
 stalls: yes
 tags: []
 description: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e77414/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR田野駅から徒歩7分

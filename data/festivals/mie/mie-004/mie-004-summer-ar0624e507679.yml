@@ -9,15 +9,17 @@ area:
 venue:
   name: 関宿街道一帯
   address: 亀山市関町
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.849129
+  lng: 136.399671
+organizer: 亀山市観光協会
 stalls: yes
 tags: []
 description: null
 links:
   - title: 号外NET 鈴鹿市・亀山市
     url: https://suzuka-kameyama.goguynet.jp/2026/07/16/sekijuku-summerfestival/
+  - title: 公式サイト
+    url: https://kameyama-kanko.com/
 occurrences:
   - year: 2026
     dates:
@@ -29,5 +31,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0624e507679/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR関駅から徒歩5分

@@ -9,14 +9,16 @@ area:
 venue:
   name: 潮芦屋ビーチ
   address: null
-  lat: null
-  lng: null
+  lat: 34.70624
+  lng: 135.307349
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ashiya-hanabi.com/summercarnival/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,13 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e00985/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 阪神電鉄芦屋駅から徒歩30分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2017mainvisual.jpg/1280px-2017mainvisual.jpg
+    width: 1000
+    height: 668
+    credit: 芦屋市民まつり協議会広報
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:2017mainvisual.jpg

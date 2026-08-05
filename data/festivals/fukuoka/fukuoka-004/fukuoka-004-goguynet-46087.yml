@@ -23,10 +23,18 @@ occurrences:
       - 2026-07-07
       - 2026-07-04
       - 2026-07-05
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://fukuokachuo.goguynet.jp/2026/07/05/terumotanabata/
     source_name: 号外NET 福岡市中央区・城南区
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Asagaya_Tanabata_2015_11.JPG/1280px-Asagaya_Tanabata_2015_11.JPG
+    width: 1000
+    height: 1778
+    credit: ITA-ATU
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Asagaya_Tanabata_2015_11.JPG

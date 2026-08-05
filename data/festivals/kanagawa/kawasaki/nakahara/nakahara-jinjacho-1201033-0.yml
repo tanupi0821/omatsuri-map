@@ -31,3 +31,18 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「8月第4土曜日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/0/0e/Ibayashi.jpg
+    width: 1000
+    height: 750
+    credit: 湖の国の王子
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Ibayashi.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/ac/Ome-Festival-Seriai.jpg
+    width: 1000
+    height: 750
+    credit: 湖の国の王子
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Ome-Festival-Seriai.jpg

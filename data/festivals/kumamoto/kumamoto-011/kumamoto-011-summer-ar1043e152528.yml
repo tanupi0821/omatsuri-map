@@ -9,21 +9,24 @@ area:
 venue:
   name: 草枕温泉てんすい
   address: 玉名市天水町小天511-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.852424
+  lng: 130.594114
+organizer: 天水町夏祭り実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tamanashishokokai.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e152528/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR玉名駅からタクシーで約20分

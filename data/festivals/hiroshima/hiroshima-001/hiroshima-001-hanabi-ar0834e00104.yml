@@ -9,9 +9,9 @@ area:
 venue:
   name: 東城小学校グラウンド
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.896283
+  lng: 133.275757
+organizer: 東城遊夏祭実行委員会
 stalls: yes
 tags:
   - 花火
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0834e00104/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR東城駅から徒歩5分

@@ -8,22 +8,27 @@ area:
   ward: null
 venue:
   name: デイズタウン 平面駐車場
-  address: null
+  address: 茨城県つくば市竹園1-9-2
   lat: null
   lng: null
-organizer: null
+organizer: 世界のつくばで盆おどり実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 世界のつくばで盆おどり 公式
+    url: https://sites.google.com/view/sekabon298/home-2
+  - title: 世界のつくばで盆おどり 公式
+    url: https://sites.google.com/view/sekabon298/home-2
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:40
     status: confirmed
-    source_url: https://www.tour.ne.jp/matome/articles/j545/
-    source_name: トラベルコ
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://sites.google.com/view/sekabon298/home-2
+    source_name: 世界のつくばで盆おどり実行委員会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 盆おどりは18時30分から19時50分。荒天のときは翌26日に順延
 stalls: unknown

@@ -9,22 +9,25 @@ area:
 venue:
   name: 秋吉台カルスト展望台周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.238286
+  lng: 131.300801
+organizer: 秋吉台観光まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://karusuto.com/event/hanabi2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-05
-    start_time: null
-    end_time: null
+    start_time: 19:10
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0835e00698/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR新山口駅から秋芳洞方面行きバスで約40分、秋芳洞停留所下車徒歩20分

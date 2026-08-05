@@ -9,14 +9,16 @@ area:
 venue:
   name: 小山町総合文化会館
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.349429
+  lng: 138.958155
+organizer: 富士山金太郎夏まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.fuji-oyama.jp/kankoubunka_event.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,4 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0622e191293/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

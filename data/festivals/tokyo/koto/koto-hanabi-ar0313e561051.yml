@@ -9,24 +9,27 @@ area:
 venue:
   name: 海の森水上競技場 特設会場
   address: null
-  lat: null
-  lng: null
+  lat: 35.607252
+  lng: 139.817258
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://jo1.jp/feature/5th_anniv_matsuri
 occurrences:
   - year: 2025
     dates:
       - 2025-10-18
       - 2025-10-19
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0313e561051/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない
+station: りんかい線東京テレポート駅から専用往復シャトルバス(東京テレポート駅からの始発便10:30、最終便17:00)

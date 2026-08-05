@@ -9,22 +9,25 @@ area:
 venue:
   name: 常呂川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.720884
+  lng: 143.741436
+organizer: 訓子府町産業観光振興協議会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.kunneppu.hokkaido.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 21:00
+    end_time: 21:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00141/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR北見駅から北海道北見バスで約30分、訓子府停留所下車徒歩10分

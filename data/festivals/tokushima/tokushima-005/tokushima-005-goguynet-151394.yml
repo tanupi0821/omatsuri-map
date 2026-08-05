@@ -9,13 +9,15 @@ area:
 venue:
   name: 藍場浜公園（徳島市藍場町）
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.073883
+  lng: 134.544596
+organizer: 阿波音食祭実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 「阿波音食祭」公式ホームページ
+    url: https://hapika0105.amebaownd.com/pages/8147499/pa
 occurrences:
   - year: 2026
     dates:

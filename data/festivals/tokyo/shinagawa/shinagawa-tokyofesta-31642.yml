@@ -9,8 +9,8 @@ area:
 venue:
   name: アイルしながわ
   address: null
-  lat: null
-  lng: null
+  lat: 35.62254
+  lng: 139.748826
 organizer: null
 stalls: unknown
 tags: []
@@ -22,8 +22,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-21
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31642/
     source_name: 東京フェスタ

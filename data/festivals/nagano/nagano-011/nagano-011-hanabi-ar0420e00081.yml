@@ -9,22 +9,25 @@ area:
 venue:
   name: 真田運動公園グラウンド周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.4396
+  lng: 138.312236
+organizer: 真田まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ueda-kanko.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0420e00081/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR上田駅からバス(真田行きまたは菅原高原行きで約25分)で幸村の郷夢工房前停留所下車、徒歩10分

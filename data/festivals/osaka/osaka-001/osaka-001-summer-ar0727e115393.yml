@@ -9,21 +9,24 @@ area:
 venue:
   name: 富田林寺内町界隈
   address: 富田林市富田林町および本町の一部
-  lat: null
-  lng: null
+  lat: 34.499995
+  lng: 135.600705
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.tondabayashi.lg.jp/soshiki/36/76474.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e115393/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 近畿日本鉄道富田林駅から徒歩10分

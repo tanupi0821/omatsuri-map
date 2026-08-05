@@ -9,14 +9,16 @@ area:
 venue:
   name: 吉野ヶ里歴史公園 ふれあい広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.3351
+  lng: 130.387673
+organizer: 吉野ヶ里町 商工観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.yoshinogari.lg.jp/lifeinfo/soshiki/shoukou_kankou/1/4/5250.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1041e469989/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR吉野ヶ里公園駅北口または神埼駅北口から徒歩15分

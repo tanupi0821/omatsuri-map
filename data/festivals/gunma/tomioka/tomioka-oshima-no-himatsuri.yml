@@ -15,16 +15,31 @@ organizer: null
 tags:
   - 火祭り
 description: null
-links: []
+links:
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
+  - title: 心にググっと観光ぐんま 大島の火まつり・富岡花火大会
+    url: https://gunma-kanko.jp/events/13
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://gunma-kanko.jp/events/13
+    source_name: 群馬県観光物産国際協会
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 火文字の点火は19時ごろ
 stalls: unknown
+recurrence: 8月16日
+recurrence_source: https://gunma-kanko.jp/events/13

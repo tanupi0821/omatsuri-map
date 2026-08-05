@@ -9,14 +9,16 @@ area:
 venue:
   name: 松原湖湖上
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.052951
+  lng: 138.456939
+organizer: 小海町観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.koumi-town.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0420e00086/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR小海駅から町営バス(松原湖行きで約15分)で松原湖観光案内所前停留所または松原湖入口停留所下車すぐ

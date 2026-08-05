@@ -9,21 +9,24 @@ area:
 venue:
   name: 香春町立総合運動公園
   address: 田川郡香春町高野1390
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.661538
+  lng: 130.851329
+organizer: 香春町観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kawara-kankoh.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
+    start_time: 18:30
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e511032/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR香春駅から徒歩11分

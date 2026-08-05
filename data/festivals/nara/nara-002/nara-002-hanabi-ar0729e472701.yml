@@ -9,14 +9,16 @@ area:
 venue:
   name: 平維盛歴史の里
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.113302
+  lng: 135.644941
+organizer: 平維盛の大祭実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yamatoji.nara-kankou.or.jp/02nature/07park/04south_area/tairanokoremorirekishinosato/event/76f9h4rjpl
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0729e472701/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 南海電鉄高野山駅からタクシーで約50分

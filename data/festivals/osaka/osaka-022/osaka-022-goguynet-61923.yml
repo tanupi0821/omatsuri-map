@@ -8,22 +8,24 @@ area:
   ward: null
 venue:
   name: 三島公園（摂津市三島3-13）
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 摂津市三島3-13
+  lat: 34.779972
+  lng: 135.556336
+organizer: 三島自治会とみしまつり実行委員会
 stalls: yes
 tags: []
 description: null
 links:
   - title: 号外NET 摂津・千里丘・南茨木
     url: https://settsu.goguynet.jp/2026/05/18/mishimatsuri-10/
+  - title: 公式Instagram
+    url: https://www.instagram.com/mishimatsuri/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-17
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://settsu.goguynet.jp/2026/05/10/mishimatsuri-9/
     source_name: 号外NET 摂津・千里丘・南茨木

@@ -9,21 +9,24 @@ area:
 venue:
   name: 航空自衛隊浜松基地
   address: 浜松市中央区西山町無番地
-  lat: null
-  lng: null
+  lat: 34.741224
+  lng: 137.698683
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mod.go.jp/asdf/hamamatsu/nouryou/nouryou2025.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-10
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e316871/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR浜松駅からバスで浜松基地停留所下車、徒歩すぐ

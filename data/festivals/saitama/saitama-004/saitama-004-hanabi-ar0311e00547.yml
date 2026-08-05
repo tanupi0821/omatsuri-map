@@ -9,24 +9,27 @@ area:
 venue:
   name: 東武動物公園　東ゲート白鳥の池周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.019253
+  lng: 139.718188
+organizer: 東武動物公園
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tobuzoo.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 19:35
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0311e00547/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 東武鉄道東武動物公園駅西口から徒歩10分

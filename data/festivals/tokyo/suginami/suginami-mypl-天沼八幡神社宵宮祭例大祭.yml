@@ -7,15 +7,51 @@ area:
   city: 杉並区
   ward: null
 venue:
-  name: 天沼八幡神社／荻窪駅前
-  address: null
+  name: 天沼八幡神社
+  address: 東京都杉並区天沼2-18-5
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
+  - title: 天沼八幡神社 例大祭
+    url: https://amanumahachiman.jp/reitaisai/
+  - title: 東京都神社庁 八幡神社（杉並区天沼）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5410
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +60,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://suginami.mypl.net/article/summer-fes_suginami
-    source_name: まいぷれ[杉並区]
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://amanumahachiman.jp/reitaisai/
+    source_name: 天沼八幡神社
+    source_type: official
+    checked_at: 2026-08-05
+    note: 宵宮は14時に子ども神輿、18時から奉納演芸、20時に宵宮祭。翌日は10時に例大祭
+shrine: 天沼八幡神社
+recurrence: 8月26日
+recurrence_source: https://amanumahachiman.jp/reitaisai/

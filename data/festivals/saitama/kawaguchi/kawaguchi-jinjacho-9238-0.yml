@@ -31,3 +31,18 @@ occurrences:
     source_type: official
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「2月15日」から導いたもので、神社が2026年の日程として発表したものではない
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/63/%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE%E5%B1%B1%E9%89%BE%E5%B7%A1%E8%A1%8CPA160707.jpg
+    width: 1000
+    height: 1333
+    credit: 松岡明芳
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE%E5%B1%B1%E9%89%BE%E5%B7%A1%E8%A1%8CPA160707.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/27/%E7%AF%A0%E5%B1%B1%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE%E6%9C%AC%E6%AE%BFsasayama-kasugajinjaPA156109.jpg
+    width: 1000
+    height: 1333
+    credit: 松岡明芳
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E7%AF%A0%E5%B1%B1%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE%E6%9C%AC%E6%AE%BFsasayama-kasugajinjaPA156109.jpg

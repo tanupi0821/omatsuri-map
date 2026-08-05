@@ -9,22 +9,25 @@ area:
 venue:
   name: 四郎ヶ浜ビーチ沖
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.509813
+  lng: 130.307043
+organizer: さざ波フェスタ実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.amakusa.kumamoto.jp/default.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:55
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1043e00423/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR三角駅から産交バス(天草アレグリアガーデンズ行きで約60分)で下津江四郎ヶ浜ビーチ停留所下車すぐ

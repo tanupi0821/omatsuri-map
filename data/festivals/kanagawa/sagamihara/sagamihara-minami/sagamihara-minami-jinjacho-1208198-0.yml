@@ -31,3 +31,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「9月上旬日曜」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shimousamiyamanoshichinennmatsuri.jpg/1280px-Shimousamiyamanoshichinennmatsuri.jpg
+    width: 1000
+    height: 750
+    credit: Kosei Kitahara
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Shimousamiyamanoshichinennmatsuri.jpg

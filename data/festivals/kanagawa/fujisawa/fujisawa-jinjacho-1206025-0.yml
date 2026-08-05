@@ -31,3 +31,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「2月上午の日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Usitora_kanayamahiko_7fuku.jpg/1280px-Usitora_kanayamahiko_7fuku.jpg
+    width: 1000
+    height: 750
+    credit: 㭍月例祭
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Usitora_kanayamahiko_7fuku.jpg

@@ -9,15 +9,17 @@ area:
 venue:
   name: 平和通買物公園
   address: 旭川市
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.770861
+  lng: 142.362071
+organizer: 旭川商工会議所産業支援部産業振興課
 stalls: yes
 tags: []
 description: null
 links:
   - title: 号外NET 旭川市
     url: https://asahikawa.goguynet.jp/2026/07/30/2026sanrokumaturi-0730asahikawa/
+  - title: 公式サイト
+    url: https://www.ccia.or.jp/event/summer_fes/index.html
 occurrences:
   - year: 2026
     dates:
@@ -29,5 +31,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74521/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR旭川駅から徒歩8分

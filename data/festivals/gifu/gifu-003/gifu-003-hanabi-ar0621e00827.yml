@@ -9,22 +9,25 @@ area:
 venue:
   name: 中津川市駒場桃山中津川河畔
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.501643
+  lng: 137.498998
+organizer: 中津川夏まつり「おいでん祭」実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://cci.nakatsugawa.gifu.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-12
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00827/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR中津川駅から西へ徒歩10分

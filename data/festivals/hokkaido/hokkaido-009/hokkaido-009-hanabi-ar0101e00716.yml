@@ -9,9 +9,9 @@ area:
 venue:
   name: 北村中央公園ふれあい広場(北村環境改善センター横)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.259784
+  lng: 141.69563
+organizer: 岩見沢市役所北村支所
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00716/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR岩見沢駅から(有)アオヤナギ観光バス(月形行または北村行きで約20分)で北村温泉前停留所下車、徒歩すぐ

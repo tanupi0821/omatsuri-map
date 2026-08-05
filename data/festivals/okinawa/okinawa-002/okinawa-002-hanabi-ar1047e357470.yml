@@ -9,24 +9,26 @@ area:
 venue:
   name: ふれあい公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.34255
+  lng: 126.750669
+organizer: 久米島まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.kumejima.okinawa.jp/docs/2026071000037/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-05
       - 2026-09-06
-    start_time: null
-    end_time: null
+    start_time: 20:40
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1047e357470/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日

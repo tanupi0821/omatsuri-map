@@ -9,13 +9,15 @@ area:
 venue:
   name: 沼田町市街
   address: 雨竜郡沼田町本通2丁目3-6
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.809089
+  lng: 141.934777
+organizer: 沼田町観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://numata-youtaka.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e75587/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR石狩沼田駅から徒歩1分

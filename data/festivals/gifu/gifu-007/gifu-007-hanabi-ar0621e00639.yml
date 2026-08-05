@@ -9,9 +9,9 @@ area:
 venue:
   name: 岩佐西武芸橋周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.550582
+  lng: 136.800936
+organizer: みやま川祭り実行委員会
 stalls: yes
 tags:
   - 花火
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00639/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄名鉄岐阜駅・JR岐阜駅から岐阜バスで約50分、岩佐停留所下車徒歩5分

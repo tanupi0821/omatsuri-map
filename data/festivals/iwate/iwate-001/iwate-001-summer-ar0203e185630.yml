@@ -9,13 +9,15 @@ area:
 venue:
   name: 岩手県一関市大町
   address: 一関市大町
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.926904
+  lng: 141.135524
+organizer: 一関商工会議所
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ichinoseki-cci.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0203e185630/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR一ノ関駅から徒歩5分

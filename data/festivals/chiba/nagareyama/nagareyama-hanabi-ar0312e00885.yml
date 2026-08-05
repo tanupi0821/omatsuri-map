@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: 流山1丁目～3丁目地先江戸川堤
-  address: null
-  lat: null
-  lng: null
+  address: 流山市流山三丁目
+  lat: 35.853892
+  lng: 139.896764
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.nagareyama.chiba.jp/tourism/1013059/1050206.html
 occurrences:
   - year: 2025
     dates:
       - 2025-10-04
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:40
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00885/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 流鉄流山線流山駅または平和台駅から徒歩5分

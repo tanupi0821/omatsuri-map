@@ -15,13 +15,15 @@ organizer: 一般社団法人銀座通連合会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ゆかたで銀ぶら - オフィシャルサイト 銀座の夏の風物詩「ゆ
+    url: https://ginbura.ginza.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31190/
     source_name: 東京フェスタ

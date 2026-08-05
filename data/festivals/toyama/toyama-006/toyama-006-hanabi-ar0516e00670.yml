@@ -9,22 +9,25 @@ area:
 venue:
   name: 海王丸パーク
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.781085
+  lng: 137.107955
+organizer: 富山新港花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.imizu-kanko.jp/events/fireworks-festival/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:40
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0516e00670/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 路面電車万葉線海王丸駅(JR高岡駅から万葉線で45分)から徒歩5分

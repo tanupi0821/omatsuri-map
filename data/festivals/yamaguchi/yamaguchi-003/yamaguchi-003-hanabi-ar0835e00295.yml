@@ -9,14 +9,16 @@ area:
 venue:
   name: ゆめマート川棚駐車場特設会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.14664
+  lng: 130.927327
+organizer: 下関市豊浦町ふるさとづくり推進協議会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.shimonoseki.lg.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0835e00295/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR山陰本線川棚温泉駅から徒歩30分

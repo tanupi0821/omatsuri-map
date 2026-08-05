@@ -9,8 +9,8 @@ area:
 venue:
   name: 隅田公園内山谷堀広場
   address: null
-  lat: null
-  lng: null
+  lat: 35.71697
+  lng: 139.804115
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-27
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://taito.goguynet.jp/2026/06/13/bonodori-4/
     source_name: 号外NET 台東区

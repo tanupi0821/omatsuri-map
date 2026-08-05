@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-29
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://kobehyogoku-nagataku.goguynet.jp/2026/04/24/2026hanamizukimaturi/
     source_name: 号外NET 神戸市兵庫区・長田区

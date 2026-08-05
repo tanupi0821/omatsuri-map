@@ -9,8 +9,8 @@ area:
 venue:
   name: 南鳩ヶ谷スプリングフェスは駅の目の前
   address: null
-  lat: null
-  lng: null
+  lat: 35.816615
+  lng: 139.736203
 organizer: null
 stalls: unknown
 tags: []

@@ -9,22 +9,25 @@ area:
 venue:
   name: 六日町大橋下流魚野川河畔
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.073284
+  lng: 138.890145
+organizer: 南魚沼市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://niigata-kankou.or.jp/event/2451
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0415e01053/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR六日町駅から徒歩5分

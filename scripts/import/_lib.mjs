@@ -158,6 +158,9 @@ export function patch(id, ch) {
     if (ch.photos_set?.length) f.photos = ch.photos_set;
     else delete f.photos;
   }
+  // links は既定では足すだけ。素の URL 文字列を {title,url} に直すなど、
+  // 既存の要素そのものを差し替えたいときは links_set で置き換える（photos_set と同じ）
+  if (ch.links_set !== undefined) f.links = ch.links_set;
   if (ch.tags) f.tags = uniq([...(f.tags ?? []), ...ch.tags]);
   if (ch.venue) f.venue = { ...f.venue, ...ch.venue };
 

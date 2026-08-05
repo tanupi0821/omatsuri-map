@@ -9,19 +9,21 @@ area:
 venue:
   name: 北区立赤羽小学校
   address: null
-  lat: null
-  lng: null
+  lat: 35.780569
+  lng: 139.719052
 organizer: 赤羽一番街商店街振興組合
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 赤羽一番街商店街公式サイト：2026赤羽納涼フェスタ 赤羽納
+    url: https://www.1bangai.org/2026akabanenouryou
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/31940/
     source_name: 東京フェスタ

@@ -9,13 +9,15 @@ area:
 venue:
   name: 風紋広場、鳥取市中心市街地、千代河原市民スポーツ広場
   address: 鳥取市東品治町
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.49603
+  lng: 134.228315
+organizer: 鳥取しゃんしゃん祭振興会 事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tottori-shanshan.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0831e511367/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Tottori_ShanShan_Fes_2013-A.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-Night-A.jpg
+station: JR鳥取駅から徒歩1分

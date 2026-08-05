@@ -9,8 +9,8 @@ area:
 venue:
   name: 今福町浦免今福港堤防～疫神社周辺
   address: null
-  lat: null
-  lng: null
+  lat: 33.355597
+  lng: 129.764798
 organizer: null
 stalls: yes
 tags:
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00559/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 松浦鉄道鷹島口駅から徒歩3分

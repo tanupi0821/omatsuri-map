@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-16
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 14:00
     status: confirmed
     source_url: https://obihiro.goguynet.jp/2026/05/15/sarabetsu_event_sumomo_20260516/
     source_name: 号外NET 帯広市

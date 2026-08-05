@@ -9,8 +9,8 @@ area:
 venue:
   name: 垂水商店街（JR・山陽「垂水駅」より徒歩約2分）
   address: null
-  lat: null
-  lng: null
+  lat: 34.629293
+  lng: 135.049814
 organizer: null
 stalls: yes
 tags: []

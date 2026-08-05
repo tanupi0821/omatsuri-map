@@ -9,14 +9,16 @@ area:
 venue:
   name: 中川郡 本別町 利別川河川敷地特設会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.12292
+  lng: 143.60597
+organizer: 実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.honbetsu.hokkaido.jp/sightseeing/fes/details/kirameki.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00127/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR池田駅から十勝バス陸別行きで約40分、本別停留所下車徒歩5分

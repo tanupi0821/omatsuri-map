@@ -8,7 +8,7 @@ area:
   ward: 保土ケ谷区
 venue:
   name: 横浜ビジネスパーク
-  address: null
+  address: 横浜市保土ケ谷区神戸町134番地
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 21:00
     status: confirmed
     source_url: https://yokohamahodogaya.goguynet.jp/2026/07/30/rakuen/
     source_name: 号外NET 横浜市保土ケ谷区

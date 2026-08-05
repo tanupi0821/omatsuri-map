@@ -28,3 +28,18 @@ occurrences:
     source_name: 号外NET 藤沢市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nishimonai_Bon_Odori_20190817c.jpg/1280px-Nishimonai_Bon_Odori_20190817c.jpg
+    width: 1000
+    height: 668
+    credit: 掬茶
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817c.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nishimonai_Bon_Odori_20190817a.jpg/1280px-Nishimonai_Bon_Odori_20190817a.jpg
+    width: 1000
+    height: 665
+    credit: 掬茶
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817a.jpg

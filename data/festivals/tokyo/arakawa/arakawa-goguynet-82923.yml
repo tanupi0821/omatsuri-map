@@ -15,14 +15,18 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 荒川区公式サイト
+    url: https://www.city.arakawa.tokyo.jp/a022/event/monofes2026event.html
+  - title: 日暮里繊維街公式サイト
+    url: https://www.nippori-senigai.com/2026/06/25/monofesinnippori/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://arakawa.goguynet.jp/2026/07/03/monofes-3/
     source_name: 号外NET 荒川区

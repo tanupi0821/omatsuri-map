@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 甘楽町商工会
 stalls: yes
 tags:
   - 花火
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-14
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/list/ar0310/yatai/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による。夏まつりが16時から、花火は19時30分から

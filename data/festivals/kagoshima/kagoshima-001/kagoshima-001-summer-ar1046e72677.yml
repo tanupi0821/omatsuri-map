@@ -1,0 +1,31 @@
+id: kagoshima-001-summer-ar1046e72677
+name: 第61回 霧島国分夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 鹿児島県
+  city: 霧島市
+  ward: null
+venue:
+  name: 霧島市国分市街地周辺
+  address: 霧島市国分中央3-45-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1046e72677/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

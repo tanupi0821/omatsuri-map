@@ -7,24 +7,33 @@ area:
   city: 前橋市
   ward: null
 venue:
-  name: 赤城山
+  name: 赤城大沼湖畔
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 赤城山夏祭り実行委員会
 tags:
   - 灯籠
 description: null
-links: []
+links:
+  - title: 前橋市 赤城山らんたん祭り
+    url: https://www.city.maebashi.gunma.jp/7/49614.html
+  - title: 前橋まるごとガイド 赤城山らんたん祭り
+    url: https://www.maebashi-cvb.com/event/8759
+  - title: 前橋市 赤城山らんたん祭り
+    url: https://www.city.maebashi.gunma.jp/7/49614.html
+  - title: 前橋まるごとガイド 赤城山らんたん祭り
+    url: https://www.maebashi-cvb.com/event/8759
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.maebashi.gunma.jp/7/49614.html
+    source_name: 前橋市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: ランタンの点灯は18時から21時
 stalls: unknown

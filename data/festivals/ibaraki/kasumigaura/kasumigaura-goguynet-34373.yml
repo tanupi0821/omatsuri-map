@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: かすみがうら市公式ホームページ
+    url: https://www.city.kasumigaura.lg.jp/page/page000244.html
 occurrences:
   - year: 2026
     dates:

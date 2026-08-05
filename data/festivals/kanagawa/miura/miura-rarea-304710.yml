@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 一般社団法人BUSHIDO文化協会ホームページ
+    url: https://bushidobunka.com/2026/06/17/bontake2026/
 occurrences:
   - year: 2026
     dates:

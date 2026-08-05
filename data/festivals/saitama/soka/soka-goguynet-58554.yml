@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 「GOOD THINGS」公式Instagram
+    url: https://www.instagram.com/good_things_jpn/?__pwa=1
 occurrences:
   - year: 2026
     dates:

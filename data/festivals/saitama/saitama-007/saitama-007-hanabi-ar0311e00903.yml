@@ -9,22 +9,25 @@ area:
 venue:
   name: 寄居町玉淀河原
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.110851
+  lng: 139.194526
+organizer: 寄居玉淀水天宮祭実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.yorii.saitama.jp/soshiki/13/yoriitamayodosuitengusai.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0311e00903/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR・東武鉄道・秩父鉄道寄居駅南口から徒歩15分

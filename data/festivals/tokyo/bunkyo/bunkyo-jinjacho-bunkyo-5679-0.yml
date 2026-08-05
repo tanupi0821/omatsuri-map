@@ -32,3 +32,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「5月25日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Maurice_Farman.png
+    width: 1000
+    height: 563
+    credit: Hiyokochan08mar
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Maurice_Farman.png

@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 主催者公式Instagram
+    url: https://www.instagram.com/manten_market/
 occurrences:
   - year: 2026
     dates:

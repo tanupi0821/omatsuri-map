@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 三島公園内
-  address: null
+  address: 摂津市三島3丁目13-4
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:00
     status: confirmed
     source_url: https://settsu.goguynet.jp/2026/07/17/akky-to-11/
     source_name: 号外NET 摂津・千里丘・南茨木

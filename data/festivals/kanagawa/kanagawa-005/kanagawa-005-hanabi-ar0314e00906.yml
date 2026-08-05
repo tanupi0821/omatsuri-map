@@ -9,22 +9,25 @@ area:
 venue:
   name: 湯河原町 吉浜海岸沖合
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.146292
+  lng: 139.122789
+organizer: 湯河原町観光課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.yugawara.or.jp/event/8097/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00906/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR湯河原駅から箱根登山バス(真鶴駅行きで約10分)で海の家下車、徒歩すぐ

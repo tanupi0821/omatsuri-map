@@ -9,13 +9,15 @@ area:
 venue:
   name: 北見市内中心商店街
   address: 北見市
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.804149
+  lng: 143.894
+organizer: 北見商工会議所
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kitamicci.or.jp/bonchi_matsuri/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e510354/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR北見駅から徒歩5分

@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 台東区私立幼稚園連合会
 stalls: unknown
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 14:00
     status: confirmed
     source_url: https://taito.goguynet.jp/2026/07/01/taitoue/
     source_name: 号外NET 台東区

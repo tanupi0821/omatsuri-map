@@ -9,21 +9,24 @@ area:
 venue:
   name: 森町大通り(JR森駅～森郵便局)
   address: 茅部郡森町字本町
-  lat: null
-  lng: null
+  lat: 42.1084
+  lng: 140.573748
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://mori.hokkaido.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e112299/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR森駅から徒歩1分

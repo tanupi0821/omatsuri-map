@@ -9,13 +9,15 @@ area:
 venue:
   name: 住吉神社
   address: 広島市中区住吉町5-10
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.384923
+  lng: 132.447419
+organizer: 住吉神社
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.sumiyoshijinja.net/summer.php
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0834e4758/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 広島電鉄舟入本町停留所から徒歩5分

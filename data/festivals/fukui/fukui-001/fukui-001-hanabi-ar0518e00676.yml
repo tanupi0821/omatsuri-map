@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 三国サンセットビーチ・九頭竜川ボートパーク
-  address: null
+  address: 坂井市三国町米ケ脇四丁目
   lat: 36.222632
   lng: 136.135304
 organizer: 三国花火実行委員会事務局
@@ -31,3 +31,11 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: えちぜん鉄道三国港駅から徒歩5分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mikuni_fireworks_2013.JPG/1280px-Mikuni_fireworks_2013.JPG
+    width: 1000
+    height: 667
+    credit: 藤谷良秀
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Mikuni_fireworks_2013.JPG

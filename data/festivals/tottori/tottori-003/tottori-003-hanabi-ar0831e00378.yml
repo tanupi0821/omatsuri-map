@@ -9,22 +9,25 @@ area:
 venue:
   name: 若桜駅前広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.345005
+  lng: 134.398559
+organizer: 若桜町観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kanko.town.wakasa.tottori.jp/feature/osusume/smr-matsuri/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0831e00378/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 若桜鉄道若桜駅からすぐ

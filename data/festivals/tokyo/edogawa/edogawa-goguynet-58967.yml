@@ -15,15 +15,17 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式ホームページ
+    url: https://petstokyo.com/newsdetail/?blogSlug=oshirase&slug=xin-dian-pu-openxiao-yan-dian-opunnoozhi-rase20260701070626
 occurrences:
   - year: 2026
     dates:
       - 2026-07-28
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 19:00
     status: confirmed
     source_url: https://edogawa.goguynet.jp/2026/07/06/petstokyo-koiwa/
     source_name: 号外NET 江戸川区

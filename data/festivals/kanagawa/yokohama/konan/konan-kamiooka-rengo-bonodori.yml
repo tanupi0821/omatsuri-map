@@ -1,0 +1,30 @@
+id: konan-kamiooka-rengo-bonodori
+name: 上大岡連合町内会 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港南区
+venue:
+  name: 上大岡公園
+  address: null
+  lat: null
+  lng: null
+organizer: 上大岡連合町内会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/konan-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: media
+    checked_at: 2026-08-02
+    note: 雨天のときは翌2日に順延

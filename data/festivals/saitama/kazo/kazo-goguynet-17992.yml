@@ -22,8 +22,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:30
     status: confirmed
     source_url: https://kazo-hanyu.goguynet.jp/2026/07/23/kisai-natsumatsuri/
     source_name: 号外NET 加須市・羽生市・行田市

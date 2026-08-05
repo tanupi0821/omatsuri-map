@@ -7,16 +7,45 @@ area:
   city: 千葉市
   ward: 中央区
 venue:
-  name: 千葉市中心部
+  name: 中央公園・栄町通り・千葉銀座通り・千葉中央一番街ほか
   address: null
   lat: null
   lng: null
 station: 千葉
-organizer: null
-stalls: unknown
+organizer: "千葉市を美しくする会（共催: 千葉市）"
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
+  - title: 千葉市 千葉の親子三代夏祭り
+    url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+  - title: 千葉市を美しくする会 まつり部会
+    url: https://www.bikai.org/page/matsuri
 occurrences:
   - year: 2026
     dates:
@@ -25,7 +54,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
+    source_name: 千葉市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 初日が前夜祭、2日目が本祭り

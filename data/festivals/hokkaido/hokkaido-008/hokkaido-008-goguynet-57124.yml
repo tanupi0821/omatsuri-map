@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 大樹町公式サイト
+    url: https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html
 occurrences:
   - year: 2026
     dates:

@@ -9,14 +9,16 @@ area:
 venue:
   name: ボートレース大村沖
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.897375
+  lng: 129.950504
+organizer: 一社)大村市観光コンベンション協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.omura.nagasaki.jp/kanko/joho/event/index.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1042e01032/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR大村駅から徒歩25分、または長崎県営バス(約10分)で大村市役所前停留所下車、徒歩10分

@@ -9,22 +9,25 @@ area:
 venue:
   name: 鬼怒川河畔、橋本運動公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.027418
+  lng: 139.985295
+organizer: 常総きぬ川花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://joso-hanabi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 18:05
+    end_time: 19:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0308e00248/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 関東鉄道水海道駅から徒歩15分

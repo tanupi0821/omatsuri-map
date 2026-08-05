@@ -32,3 +32,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「10月第1土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inasaki_Jinjya%2CYosano10.jpg/1280px-Inasaki_Jinjya%2CYosano10.jpg
+    width: 1000
+    height: 750
+    credit: 漱石の猫
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Inasaki_Jinjya,Yosano10.jpg

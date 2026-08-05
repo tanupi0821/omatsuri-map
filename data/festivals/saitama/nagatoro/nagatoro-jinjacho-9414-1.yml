@@ -31,3 +31,11 @@ occurrences:
     source_type: official
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「10月17日に近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Clownish_mask.jpg
+    width: 1000
+    height: 666
+    credit: d. FUKA
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:Clownish_mask.jpg

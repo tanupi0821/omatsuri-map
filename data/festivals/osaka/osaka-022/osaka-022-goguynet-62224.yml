@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 鶴野（第一）公園（モノレール摂津駅前）
-  address: null
+  address: 摂津市鶴野1丁目1-3
   lat: null
   lng: null
-organizer: null
+organizer: つるの七夕防災祭り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://settsu.goguynet.jp/2026/06/27/tsuruno-tanabata-bousai-matsuri/
     source_name: 号外NET 摂津・千里丘・南茨木

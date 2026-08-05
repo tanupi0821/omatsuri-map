@@ -9,14 +9,16 @@ area:
 venue:
   name: 利根川栄橋下河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.848613
+  lng: 140.146156
+organizer: 利根町観光協会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.tone.ibaraki.jp/kanko-bunka/ibenntogyouzi/hanabi/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0308e00587/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR布佐駅から徒歩15分

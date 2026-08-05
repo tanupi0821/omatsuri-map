@@ -7,23 +7,42 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
+  name: 門司港駅前ほか（親水広場・カモンワーフ）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 関門よさこい実行委員会（門司・下関）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
+  - title: 北九州市門司区 関門よさこい大会
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100627.html
 occurrences:
   - year: 2026
     dates:
       - 2026-09-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
     source_name: 北九州市門司区
     source_type: gov
     checked_at: 2026-08-05
+    note: 時刻は前回の発表による。メイン・審査会場は門司港駅前

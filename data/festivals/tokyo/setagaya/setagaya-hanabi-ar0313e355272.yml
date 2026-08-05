@@ -9,14 +9,16 @@ area:
 venue:
   name: 区立二子玉川緑地運動場(二子橋上流)
   address: null
-  lat: null
-  lng: null
+  lat: 35.614007
+  lng: 139.615716
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tamagawa-hanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0313e355272/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 二子玉川駅から徒歩15分

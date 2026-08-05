@@ -9,14 +9,16 @@ area:
 venue:
   name: 日生駅前港
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.733554
+  lng: 134.276395
+organizer: ひなせ夏祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://minatomaturi2024.wixsite.com/my-site-1
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0833e00597/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR日生駅すぐ

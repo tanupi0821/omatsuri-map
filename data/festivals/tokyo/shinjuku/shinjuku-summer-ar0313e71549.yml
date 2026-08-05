@@ -1,0 +1,31 @@
+id: shinjuku-summer-ar0313e71549
+name: 第52回 神楽坂まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 新宿区神楽坂1丁目から神楽坂通り沿道
+  address: 新宿区新宿区神楽坂1丁目～神楽坂上、神楽坂通り周辺
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71549/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -9,23 +9,26 @@ area:
 venue:
   name: 篠山城跡
   address: 丹波篠山市北新町2-3
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.072826
+  lng: 135.218249
+organizer: デカンショ祭実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://dekansho.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:15
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e72975/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR篠山口駅から神姫グリーンバス(篠山営業所行き)で約15分、二階町停留所下車徒歩5分

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: アイルしながわ（品川区東品川2-3）
-  address: null
+  address: 品川区東品川2-3
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://www.tennozmarket.com/
 occurrences:
   - year: 2026
     dates:

@@ -32,3 +32,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「9月19日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/3/34/%E8%B5%A4%E5%9F%8E%E5%A4%A7%E6%B2%BC%E3%81%AE%E5%95%84%E6%9C%A8%E9%B3%A5%E6%A9%8B.jpg
+    width: 1000
+    height: 663
+    credit: 㭍月例祭
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%9F%8E%E5%A4%A7%E6%B2%BC%E3%81%AE%E5%95%84%E6%9C%A8%E9%B3%A5%E6%A9%8B.jpg

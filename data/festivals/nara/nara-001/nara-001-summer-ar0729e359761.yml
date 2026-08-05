@@ -9,13 +9,15 @@ area:
 venue:
   name: 東大寺
   address: 奈良市雑司町406-1
-  lat: null
-  lng: null
+  lat: 34.689006
+  lng: 135.839834
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.basaramatsuri.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0729e359761/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR奈良駅から市内循環バスで大仏殿春日大社前下車、徒歩5分

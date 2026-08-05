@@ -9,23 +9,26 @@ area:
 venue:
   name: 魚沼市堀之内
   address: null
-  lat: null
-  lng: null
+  lat: 37.253911
+  lng: 138.949103
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://niigata-kankou.or.jp/event/2314
 occurrences:
   - year: 2025
     dates:
       - 2025-09-13
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0415e00440/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR越後堀之内駅から徒歩5分

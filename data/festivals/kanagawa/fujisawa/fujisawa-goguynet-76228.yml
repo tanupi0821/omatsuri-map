@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: ライフケアガーデン湘南
-  address: null
-  lat: null
-  lng: null
+  address: 藤沢市稲荷1丁目9-40
+  lat: 35.352672
+  lng: 139.464117
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 16:00
     status: confirmed
     source_url: https://fujisawa.goguynet.jp/2026/07/18/lcg-shonan-nouryousai/
     source_name: 号外NET 藤沢市

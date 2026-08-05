@@ -9,14 +9,16 @@ area:
 venue:
   name: 国営ひたち海浜公園
   address: null
-  lat: null
-  lng: null
+  lat: 36.401964
+  lng: 140.591327
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://rockinstarcarnival.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0308e555797/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR勝田駅から会場へ直行するシャトルバスあり(有料)

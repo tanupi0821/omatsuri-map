@@ -9,22 +9,25 @@ area:
 venue:
   name: 宜野湾海浜公園トロピカルビーチ特設会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.281437
+  lng: 127.731812
+organizer: 沖縄かなさ花火運営事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kanasahanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-19
-    start_time: null
+    start_time: 20:00
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1047e514318/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 那覇空港から宜野湾市行きバスで約74分、宜野湾海浜公園前停留所下車徒歩10分

@@ -7,24 +7,39 @@ area:
   city: 野田市
   ward: null
 venue:
-  name: 野田市内
+  name: 野田市 本町通り周辺
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 野田みこしパレード実行委員会（野田商工会議所内）
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: 野田市 みこしパレード
+    url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+    source_name: 野田市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 子どもみこしは16時から17時、大人みこしは17時40分から21時30分
 stalls: unknown

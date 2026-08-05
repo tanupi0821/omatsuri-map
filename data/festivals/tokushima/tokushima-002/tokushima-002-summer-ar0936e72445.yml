@@ -9,23 +9,26 @@ area:
 venue:
   name: JR鳴門駅周辺特設演舞場
   address: 鳴門市撫養町斎田字北浜
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.177815
+  lng: 134.606172
+organizer: 鳴門商工会議所
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.narutocci.or.jp/awaodori/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-09
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0936e72445/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR鳴門駅から徒歩3分

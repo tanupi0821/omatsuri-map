@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://www.city.isesaki.lg.jp/soshiki/keizai/shoko/machinakakaseika/13542.html
 occurrences:
   - year: 2026
     dates:

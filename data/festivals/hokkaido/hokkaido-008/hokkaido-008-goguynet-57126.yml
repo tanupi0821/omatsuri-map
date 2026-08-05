@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 広尾町公式サイト
+    url: https://www.town.hiroo.lg.jp/kankou/event/
 occurrences:
   - year: 2026
     dates:

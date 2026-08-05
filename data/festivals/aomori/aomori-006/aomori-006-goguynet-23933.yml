@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 陸上自衛隊
-  address: null
+  address: 八戸市市川町桔梗野官地
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 16:45
+    end_time: 20:30
     status: confirmed
     source_url: https://hachinohe.goguynet.jp/2026/07/21/riku/
     source_name: 号外NET 八戸市（三八）

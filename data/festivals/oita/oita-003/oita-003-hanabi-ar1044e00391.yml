@@ -9,22 +9,25 @@ area:
 venue:
   name: 国東市武蔵港沖
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.501066
+  lng: 131.732289
+organizer: 大分合同新聞社営業部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.instagram.com/musashinatsunoyomatsuri/?igsh=NGV6Zno0dW8yOXRv#
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 20:40
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1044e00391/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR杵築駅からタクシーで約30分

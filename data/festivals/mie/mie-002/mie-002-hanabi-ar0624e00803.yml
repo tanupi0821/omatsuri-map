@@ -9,22 +9,25 @@ area:
 venue:
   name: 七里御浜海岸
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.886163
+  lng: 136.103506
+organizer: 熊野市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kumano-kankou.info/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-17
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0624e00803/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR熊野市駅から徒歩5分

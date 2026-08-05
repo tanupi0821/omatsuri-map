@@ -9,24 +9,27 @@ area:
 venue:
   name: 滋賀農業公園 ブルーメの丘
   address: null
-  lat: null
-  lng: null
+  lat: 35.014129
+  lng: 136.279599
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.blumenooka.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 20:15
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0725e387765/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR近江八幡駅からバス(約50分)で幅野町停留所下車、徒歩10分

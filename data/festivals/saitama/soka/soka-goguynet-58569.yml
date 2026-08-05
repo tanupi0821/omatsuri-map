@@ -9,8 +9,8 @@ area:
 venue:
   name: 新里文化センター
   address: null
-  lat: null
-  lng: null
+  lat: 35.816676
+  lng: 139.774571
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 16:00
     status: confirmed
     source_url: https://soka.goguynet.jp/2026/07/18/kodomonatsumatsuri-nissato/
     source_name: 号外NET 草加市

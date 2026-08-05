@@ -9,22 +9,25 @@ area:
 venue:
   name: ラピール・ゆめマート豊田店駐車場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.199802
+  lng: 131.077665
+organizer: 豊田のホタル祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://blog.toyotacho.com/%E7%AC%AC57%E5%9B%9E-%E8%B1%8A%E7%94%B0%E3%81%AE%E3%83%9B%E3%82%BF%E3%83%AB%E7%A5%AD%E3%82%8A/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-06
-    start_time: null
-    end_time: null
+    start_time: 20:50
+    end_time: 21:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0835e547657/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR小月駅からバスで約33分、豊田町西市停留所下車徒歩7分

@@ -18,13 +18,15 @@ description: null
 links:
   - title: 号外NET 福山市
     url: https://fukuyama.goguynet.jp/2026/05/10/setogawakoji/
+  - title: 公式ホームページ
+    url: https://kusadoinari.com/newsfeed/20260428-763/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-09
       - 2026-05-10
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 16:00
     status: confirmed
     source_url: https://fukuyama.goguynet.jp/2026/05/04/unotaisai/
     source_name: 号外NET 福山市

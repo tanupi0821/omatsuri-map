@@ -31,3 +31,11 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「4月10日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Harunajinja-mannnennizumi.jpg
+    width: 1000
+    height: 500
+    credit: 㭍月例祭
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Harunajinja-mannnennizumi.jpg

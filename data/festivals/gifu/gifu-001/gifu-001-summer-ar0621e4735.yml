@@ -9,23 +9,26 @@ area:
 venue:
   name: JR瑞浪駅周辺
   address: 瑞浪市寺河戸町
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.36907
+  lng: 137.252032
+organizer: 瑞浪美濃氏七夕まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mzcci.or.jp/tanabata_matsuri/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0621e4735/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR瑞浪駅から徒歩すぐ

@@ -9,14 +9,16 @@ area:
 venue:
   name: 相模川河川敷(三川合流点)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.450898
+  lng: 139.370935
+organizer: あつぎ鮎まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00243/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 小田急小田原線本厚木駅北口から徒歩20分または海老名駅から徒歩25分

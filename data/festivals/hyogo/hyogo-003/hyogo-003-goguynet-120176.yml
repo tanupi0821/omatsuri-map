@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 塚口本町社会福祉連絡協議会・つかしん夏祭り盆踊り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:30
     status: confirmed
     source_url: https://amagasaki.goguynet.jp/2026/07/22/tsukashin-bonodori-2026/
     source_name: 号外NET 尼崎市

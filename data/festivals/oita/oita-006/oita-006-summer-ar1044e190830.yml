@@ -9,23 +9,26 @@ area:
 venue:
   name: 湯布院町内
   address: 由布湯布院町
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.26282
+  lng: 131.35538
+organizer: 湯布院振興局地域振興課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.yufu.oita.jp/event08/yufuinbontimaturi
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
       - 2026-08-16
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e190830/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR由布院駅から徒歩5分

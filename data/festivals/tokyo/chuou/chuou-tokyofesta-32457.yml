@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-28
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 20:30
     status: confirmed
     source_url: https://tokyofesta.com/23ku/32457/
     source_name: 東京フェスタ

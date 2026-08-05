@@ -9,22 +9,25 @@ area:
 venue:
   name: 出水市総合運動公園多目的広場周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.086842
+  lng: 130.346879
+organizer: 夏祭りいずみ鶴翔祭実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.izumi-navi.jp/events/post-2083/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1046e00331/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR出水駅から徒歩20分

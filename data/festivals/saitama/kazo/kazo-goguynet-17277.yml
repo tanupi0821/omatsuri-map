@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-02
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 12:30
     status: confirmed
     source_url: https://kazo-hanyu.goguynet.jp/2026/05/02/tamashiki-syunkitaisai/
     source_name: 号外NET 加須市・羽生市・行田市

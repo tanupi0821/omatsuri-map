@@ -9,22 +9,25 @@ area:
 venue:
   name: 松が岬公園の堀
   address: null
-  lat: null
-  lng: null
+  lat: 37.908636
+  lng: 140.105778
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.yonezawa-np.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0206e00655/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR米沢駅から徒歩25分

@@ -1,0 +1,31 @@
+id: tatebayashi-summer-ar0310e305050
+name: 館林まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 館林市
+  ward: null
+venue:
+  name: 館林市本町通り　ほか
+  address: 館林市本町1丁目～3丁目周辺
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0310e305050/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

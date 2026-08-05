@@ -9,8 +9,8 @@ area:
 venue:
   name: 稲荷小学校
   address: null
-  lat: null
-  lng: null
+  lat: 35.838107
+  lng: 139.818846
 organizer: null
 stalls: yes
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://soka.goguynet.jp/2026/07/20/natsumatsuribonodoritaikai2026/
     source_name: 号外NET 草加市

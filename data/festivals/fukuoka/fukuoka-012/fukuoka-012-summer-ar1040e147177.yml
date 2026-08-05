@@ -9,23 +9,26 @@ area:
 venue:
   name: 大正町おまつり広場
   address: 大牟田市大正町3丁目付近
-  lat: null
-  lng: null
+  lat: 33.034396
+  lng: 130.443341
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.omuta-daijayama.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 17:20
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e147177/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR大牟田駅または西鉄大牟田駅から徒歩5分

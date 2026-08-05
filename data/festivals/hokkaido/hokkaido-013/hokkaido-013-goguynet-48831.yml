@@ -11,8 +11,8 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 函館市
+stalls: yes
 tags: []
 description: null
 links: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://hakodate.goguynet.jp/2026/07/08/hakodate-marine-festival-2026/
     source_name: 号外NET 函館市

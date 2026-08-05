@@ -9,23 +9,26 @@ area:
 venue:
   name: 忌宮神社
   address: 下宮の内町1-18
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.999037
+  lng: 130.987608
+organizer: 忌宮神社
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://iminomiya-jinjya.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0835e4759/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR下関駅からバスで約20分、城下町長府下車徒歩5分

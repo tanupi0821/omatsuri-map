@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://www.echigo-tokimeki.co.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:30
     status: confirmed
     source_url: https://joetsu-itoigawa-myoko.goguynet.jp/2026/06/29/araistationfes/
     source_name: 号外NET 上越市・糸魚川市・妙高市

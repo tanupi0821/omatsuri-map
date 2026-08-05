@@ -9,13 +9,15 @@ area:
 venue:
   name: 大浜多目的広場
   address: 国頭郡本部町大浜872-5
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.656578
+  lng: 127.883511
+organizer: 本部まつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.motobu.okinawa.jp/doc/2026060300025/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1047e42311/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日

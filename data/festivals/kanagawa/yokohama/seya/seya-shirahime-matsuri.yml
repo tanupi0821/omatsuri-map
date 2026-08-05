@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 白姫まつり実行委員会（三ツ境駅前の商店会・町内会）
 shrine: 白姫神社
 tags: []
 description: null
@@ -21,11 +21,13 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
     source_name: あさひさんぽ
-    checked_at: 2026-08-02
+    checked_at: 2026-08-05
     source_type: media
 stalls: unknown
+recurrence: 8月第1土曜日・日曜日
+recurrence_source: https://www.townnews.co.jp/0105/2026/07/30/846579.html

@@ -9,13 +9,15 @@ area:
 venue:
   name: 三嶋大社・三島大通り(三島広小路駅前～三嶋大社前)
   address: 三島市大宮町2-1-5ほか
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.122177
+  lng: 138.919397
+organizer: 三島市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mishima-cci.com/maturi/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e4736/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR三島駅から徒歩10分

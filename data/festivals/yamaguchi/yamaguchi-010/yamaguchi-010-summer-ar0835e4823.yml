@@ -9,23 +9,26 @@ area:
 venue:
   name: 山口市中心商店街およびパークロード周辺
   address: 山口市亀山町
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.176358
+  lng: 131.47688
+organizer: 山口市ふるさとまつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://y-chouchin.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0835e4823/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR山口駅から徒歩5分

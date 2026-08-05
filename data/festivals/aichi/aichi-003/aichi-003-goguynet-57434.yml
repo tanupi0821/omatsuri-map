@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: ピアゴ碧南東店駐車場
-  address: null
+  address: 碧南市東浦町6丁目17-17
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://anjo-takahama-hekinan.goguynet.jp/2026/04/09/ennichimatsuri20260411/
     source_name: 号外NET 安城市・高浜市・碧南市

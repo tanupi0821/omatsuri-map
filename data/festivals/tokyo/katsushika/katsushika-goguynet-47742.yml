@@ -15,14 +15,16 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://e-shinkoiwa.com/news/news-363
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://katsushika.goguynet.jp/2026/07/05/shinkoiwanoryobonodori-2026/
     source_name: 号外NET 葛飾区

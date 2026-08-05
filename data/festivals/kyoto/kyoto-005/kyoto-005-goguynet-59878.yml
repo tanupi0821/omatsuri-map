@@ -9,8 +9,8 @@ area:
 venue:
   name: 伏見大手筋商店街
   address: null
-  lat: null
-  lng: null
+  lat: 34.93279
+  lng: 135.763062
 organizer: null
 stalls: yes
 tags: []

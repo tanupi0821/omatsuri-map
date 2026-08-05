@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: GREEN
-  address: null
+  address: 立川市緑町3-1
   lat: null
   lng: null
 organizer: たちかわ妖怪盆踊り実行委員会
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-10-10
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/tama/29987/
     source_name: 東京フェスタ

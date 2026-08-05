@@ -9,8 +9,8 @@ area:
 venue:
   name: 上戸田地域交流センター
   address: null
-  lat: null
-  lng: null
+  lat: 35.813015
+  lng: 139.67911
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-07
-    start_time: null
-    end_time: null
+    start_time: 09:30
+    end_time: 16:00
     status: confirmed
     source_url: https://toda-warabi.goguynet.jp/2026/06/05/ipal-11/
     source_name: 号外NET 戸田市・蕨市

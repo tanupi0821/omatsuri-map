@@ -12,7 +12,7 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-04-30
       - 2026-05-06
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 16:00
     status: confirmed
     source_url: https://tokyokita.goguynet.jp/2026/05/04/jujoginza20260506/
     source_name: 号外NET 北区

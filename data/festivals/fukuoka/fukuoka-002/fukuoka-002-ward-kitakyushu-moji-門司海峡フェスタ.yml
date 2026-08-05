@@ -7,24 +7,43 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
+  name: 門司港レトロ中央広場周辺
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 門司海峡フェスタ実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
+  - title: 門司港レトロインフォメーション 第30回門司海峡フェスタ2026
+    url: https://www.mojiko.info/event/info/2605-4/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-03
       - 2026-05-04
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 20:00
     status: confirmed
-    source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
-    source_name: 北九州市門司区
-    source_type: gov
+    source_url: https://www.mojiko.info/event/info/2605-4/
+    source_name: 門司港レトロインフォメーション
+    source_type: official
     checked_at: 2026-08-05
+    note: 初日は11時から17時、2日目は12時から20時

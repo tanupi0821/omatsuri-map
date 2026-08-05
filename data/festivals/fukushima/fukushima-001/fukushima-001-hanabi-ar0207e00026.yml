@@ -9,22 +9,25 @@ area:
 venue:
   name: 富久山河川敷多目的広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.420354
+  lng: 140.41483
+organizer: ふくやま夏祭り実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fukuyama-s.or.jp/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0207e00026/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR郡山駅から福島交通バス(舞木経由三春行きで約15分)で水穴停留所下車、徒歩5分

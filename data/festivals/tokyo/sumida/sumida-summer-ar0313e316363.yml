@@ -1,0 +1,31 @@
+id: sumida-summer-ar0313e316363
+name: ソラマチこども縁日・墨田区民納涼民踊大会
+kind: 納涼祭
+scale: 市
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 東京スカイツリータウン(R)
+  address: 墨田区押上1-1-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e316363/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -15,14 +15,18 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 江戸川区花火大会ホームページ
+    url: https://www.city.edogawa.tokyo.jp/hanabi/index.html
+  - title: いたばし花火大会ホームページ
+    url: https://itabashihanabi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://soka.goguynet.jp/2026/08/01/2026-8-1-2omatsuri/
     source_name: 号外NET 草加市

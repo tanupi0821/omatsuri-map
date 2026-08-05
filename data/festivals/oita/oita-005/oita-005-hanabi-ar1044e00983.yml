@@ -9,22 +9,25 @@ area:
 venue:
   name: 大分川弁天大橋上流
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.245197
+  lng: 131.618937
+organizer: おおいた「夢」花火実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://oitayumehanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1044e00983/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR大分駅からタクシーで約10分

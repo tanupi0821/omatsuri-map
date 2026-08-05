@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 福太郎スタジアム＆福太郎アリーナ
-  address: null
-  lat: null
-  lng: null
+  address: 鎌ケ谷市初富
+  lat: 35.781816
+  lng: 140.01279
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kamagayanohanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e196701/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 北総鉄道・京成電鉄・新京成電鉄・東武鉄道新鎌ヶ谷駅から徒歩25分

@@ -8,21 +8,23 @@ area:
   ward: null
 venue:
   name: 鎌倉市内
-  address: null
+  address: 鎌倉市大船1丁目4-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大船ルミネウィング公式サイト
+    url: https://www.lumine.ne.jp/luminewing/topics/detail/?cd=003786
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 10:30
+    end_time: 17:00
     status: confirmed
     source_url: https://kamakura-zushi.goguynet.jp/2026/07/25/ennichi/
     source_name: 号外NET 鎌倉市・逗子市

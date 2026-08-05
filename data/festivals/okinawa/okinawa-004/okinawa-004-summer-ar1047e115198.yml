@@ -9,21 +9,23 @@ area:
 venue:
   name: 東村村民の森つつじ園
   address: 国頭郡東村平良861−28
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.636522
+  lng: 128.15618
+organizer: 東村夏祭り実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.vill.higashi.okinawa.jp/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1047e115198/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05

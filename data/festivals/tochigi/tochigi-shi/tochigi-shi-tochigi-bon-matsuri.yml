@@ -7,14 +7,20 @@ area:
   city: 栃木市
   ward: null
 venue:
-  name: 栃木市内
+  name: 栃木市大平運動公園
   address: null
   lat: null
   lng: null
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 栃木市 “なつこい” Sound Stage TOCHIGI 2026 with とちぎ盆祭り
+    url: https://www.city.tochigi.lg.jp/site/tourism/88004.html
+  - title: 栃木市 “なつこい” Sound Stage TOCHIGI 2026 with とちぎ盆祭り
+    url: https://www.city.tochigi.lg.jp/site/tourism/88004.html
+  - title: 栃木市 “なつこい” Sound Stage TOCHIGI 2026 with とちぎ盆祭り
+    url: https://www.city.tochigi.lg.jp/site/tourism/88004.html
 occurrences:
   - year: 2026
     dates:
@@ -22,8 +28,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/2.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.tochigi.lg.jp/site/tourism/88004.html
+    source_name: 栃木市
+    source_type: gov
+    checked_at: 2026-08-05
 stalls: unknown

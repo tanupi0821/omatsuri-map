@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 荒島よいとね祭り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://matsue-yasugi.goguynet.jp/2026/07/17/arashimayoitone/
     source_name: 号外NET 松江市・安来市

@@ -9,13 +9,15 @@ area:
 venue:
   name: 神柱宮
   address: 都城市前田町1417-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 31.732228
+  lng: 131.072042
+organizer: おかげ祭り振興会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.okagematsuri.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e185650/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/8/85/2007okagematsuri_honmatsuri1.JPG
@@ -37,3 +39,4 @@ photos:
     license: CC BY-SA 3.0
     license_url: https://creativecommons.org/licenses/by-sa/3.0
     source: https://commons.wikimedia.org/wiki/File:2007okagematsuri_honmatsuri1.JPG
+station: JR都城駅から徒歩15分

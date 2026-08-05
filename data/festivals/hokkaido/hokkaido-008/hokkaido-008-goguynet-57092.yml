@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 幕別町観光物産協会公式Instagram
+    url: https://www.instagram.com/makubetsu_kankobussan/
+  - title: 幕別町公式サイト
+    url: https://www.town.makubetsu.lg.jp/news/event/1061.html
 occurrences:
   - year: 2026
     dates:

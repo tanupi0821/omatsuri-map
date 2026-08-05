@@ -9,22 +9,25 @@ area:
 venue:
   name: 網代港海上
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.04843
+  lng: 139.08452
+organizer: 網代温泉観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ajirospa.com/annual-event/%e7%b6%b2%e4%bb%a3%e6%b5%b7%e4%b8%8a%e8%8a%b1%e7%81%ab%e5%a4%a7%e4%bc%9a/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0622e389327/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR伊東線網代駅から徒歩3分

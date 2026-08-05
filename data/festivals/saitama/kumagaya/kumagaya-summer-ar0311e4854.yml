@@ -9,13 +9,15 @@ area:
 venue:
   name: 熊谷市中心市街地
   address: 熊谷市
-  lat: null
-  lng: null
+  lat: 36.142631
+  lng: 139.387021
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://uchiwamatsuri.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e4854/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/4/48/Hoshikawa_Street%28Star-river_Street%29_%28Kumagaya_Uchiwa_Festival_2012%29_-_%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD2012%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E6%98%9F%E5%B7%9D%E9%80%9A%E3%82%8A%E5%95%86%E5%BA%97%E8%A1%97_-_panoramio.jpg
@@ -44,3 +46,4 @@ photos:
     license: CC BY 2.0
     license_url: https://creativecommons.org/licenses/by/2.0
     source: https://commons.wikimedia.org/wiki/File:%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD%E3%81%AE%E3%81%9F%E3%82%81_%E8%BB%8A%E4%B8%A1%E9%80%9A%E8%A1%8C%E6%AD%A2%E3%82%81_Jul_19,_2012.jpg
+station: JR・秩父鉄道熊谷駅北口から徒歩5分

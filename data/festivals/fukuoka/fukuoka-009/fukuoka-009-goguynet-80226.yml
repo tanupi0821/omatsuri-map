@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 竈門神社（福岡県太宰府市内山883）
-  address: null
-  lat: null
-  lng: null
+  address: 太宰府市内山883
+  lat: 33.528838
+  lng: 130.552531
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 22:00
     status: confirmed
     source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/07/10/kamado_tanabata2026/
     source_name: 号外NET 筑紫野市・太宰府市・朝倉市

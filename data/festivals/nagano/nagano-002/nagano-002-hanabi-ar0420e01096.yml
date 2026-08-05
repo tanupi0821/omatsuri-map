@@ -9,14 +9,16 @@ area:
 venue:
   name: 川中島古戦場史跡公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.590534
+  lng: 138.18779
+organizer: 川中島古戦場まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.naganoshi-sci.or.jp/kawanakajimakosenjoumatsuri/kawanakajima_kosenjo_festival_hanabi
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0420e01096/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR長野駅からバス(松代行き)で約30分、川中島古戦場停留所下車すぐ

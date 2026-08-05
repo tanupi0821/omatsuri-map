@@ -9,23 +9,26 @@ area:
 venue:
   name: 渡良瀬遊水地・藤岡渡良瀬運動公園
   address: null
-  lat: null
-  lng: null
+  lat: 36.256375
+  lng: 139.656664
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://watarase-hanabi.info/
 occurrences:
   - year: 2025
     dates:
       - 2025-10-25
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0309e522950/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 東武日光線藤岡駅から徒歩15分

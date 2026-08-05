@@ -9,14 +9,16 @@ area:
 venue:
   name: 伊那市役所周辺(まつり会場) 、天竜川・三峰(花火打ち上げ場所)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.827459
+  lng: 137.953992
+organizer: 伊那市役所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.inacity.jp/kankojoho/event_kanko/inamatsuri/dai69inamatsuri/index.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0420e00442/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR伊那市駅から循環バスで約30分、市役所前下車すぐ

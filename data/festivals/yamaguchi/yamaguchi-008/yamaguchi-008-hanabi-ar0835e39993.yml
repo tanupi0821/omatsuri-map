@@ -9,22 +9,25 @@ area:
 venue:
   name: 上関大橋周辺
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.836857
+  lng: 132.115421
+organizer: 上関水軍まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kaminoseki-kanko.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0835e39993/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR柳井駅から防長バス(上関行で約50分)で室津停留所下車、徒歩3分

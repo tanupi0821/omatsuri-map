@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-22
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://chigasaki.goguynet.jp/2026/08/03/branch-chigasaki-summer-event-20260822-23/
     source_name: 号外NET 茅ヶ崎市

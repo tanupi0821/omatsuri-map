@@ -9,14 +9,16 @@ area:
 venue:
   name: 志佐町浦免(志佐川下流)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.346236
+  lng: 129.706339
+organizer: まつうら観光物産協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.nagasaki-tabinet.com/event/60909
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00561/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 松浦鉄道松浦駅から徒歩5分

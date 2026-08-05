@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-01
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 18:00
     status: confirmed
     source_url: https://hakodate.goguynet.jp/2026/07/04/goryokaku-tower-19/
     source_name: 号外NET 函館市

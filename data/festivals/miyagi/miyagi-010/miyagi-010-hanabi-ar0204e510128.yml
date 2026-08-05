@@ -9,22 +9,25 @@ area:
 venue:
   name: 女川町海岸広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.445356
+  lng: 141.447335
+organizer: おながわみなと祭り協賛会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://onagawa-matsuri.jp/summer/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0204e510128/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR女川駅から徒歩5分

@@ -23,8 +23,8 @@ occurrences:
     dates:
       - 2026-07-07
       - 2026-09-01
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 16:00
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/07/05/tanabata-6/
     source_name: 号外NET 富士市・富士宮市

@@ -7,23 +7,36 @@ area:
   city: 下仁田町
   ward: null
 venue:
-  name: 下仁田こんにゃく手作り体験道場 広場
-  address: null
+  name: こんにゃく手作り体験道場 広場
+  address: 群馬県甘楽郡下仁田町大字下仁田390-1
   lat: null
   lng: null
-organizer: null
+organizer: 下仁田町商工会
 tags: []
 description: null
-links: []
+links:
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+  - title: 下仁田町 下仁田こんにゃく夏祭り
+    url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-14
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 20:20
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.town.shimonita.lg.jp/kanko/m03/m06/11.html
+    source_name: 下仁田町
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による
 stalls: unknown

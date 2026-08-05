@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 松阪市内
-  address: null
+  address: 松阪市本町
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 鈴バル公式Instagram
+    url: https://www.instagram.com/suzubaru_official/
 occurrences:
   - year: 2026
     dates:

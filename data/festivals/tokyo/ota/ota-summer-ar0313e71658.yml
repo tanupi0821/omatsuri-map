@@ -9,13 +9,15 @@ area:
 venue:
   name: 羽田神社
   address: 大田区本羽田3-9-12
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.546968
+  lng: 139.740384
+organizer: 羽田神社
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.hanedajinja.com/gyouji/index.htm
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71658/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: 京急電鉄大鳥居駅から徒歩10分

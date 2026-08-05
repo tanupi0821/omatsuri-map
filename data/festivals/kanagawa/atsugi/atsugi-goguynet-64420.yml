@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 厚木ガス
-  address: null
-  lat: null
-  lng: null
+  address: 厚木市中町3-13-6
+  lat: 35.442401
+  lng: 139.359275
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-03
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://atsugi.goguynet.jp/2026/07/28/lucky_marche-3/
     source_name: 号外NET 厚木市

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-18
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://fujimi-fujimino.goguynet.jp/2026/04/13/kondoharumatsuri/
     source_name: 号外NET 富士見市・ふじみ野市

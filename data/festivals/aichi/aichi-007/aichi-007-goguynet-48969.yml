@@ -9,8 +9,8 @@ area:
 venue:
   name: 出会いの杜公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.924551
+  lng: 137.158341
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-24
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://okazaki.goguynet.jp/2026/07/22/deainookazaki-ekimaeennichi2026/
     source_name: 号外NET 岡崎市

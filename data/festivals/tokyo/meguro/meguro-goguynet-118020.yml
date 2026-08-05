@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 】フナイリバ（⽬⿊区中⽬⿊1-11-18）
-  address: null
+  address: 目黒区中目黒3-1-6
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-29
       - 2026-08-30
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: https://meguro.goguynet.jp/2026/07/27/nakameguro_bonodori2026/
     source_name: 号外NET 目黒区

@@ -9,8 +9,8 @@ area:
 venue:
   name: 柏崎市東本町2丁目～西本町1丁目
   address: 柏崎市
-  lat: null
-  lng: null
+  lat: 37.369556
+  lng: 138.55864
 organizer: null
 stalls: yes
 tags: []
@@ -27,5 +27,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e73384/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR柏崎駅から徒歩12分

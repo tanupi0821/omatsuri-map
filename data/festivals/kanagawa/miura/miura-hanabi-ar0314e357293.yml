@@ -9,23 +9,26 @@ area:
 venue:
   name: うらり
   address: null
-  lat: null
-  lng: null
+  lat: 35.137553
+  lng: 139.617379
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.instagram.com/misakihanabi/?igsh=MTdiOTZpaWllajF3eA%3D%3D&amp;utm_source=qr
 occurrences:
   - year: 2025
     dates:
       - 2025-11-23
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e357293/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 京急線 三崎口駅から京急バスで三崎港停留所下車、徒歩1分

@@ -8,14 +8,32 @@ area:
   ward: null
 venue:
   name: 久我山稲荷神社
-  address: null
+  address: 東京都杉並区久我山3-37-14
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
+  - title: 久我山稲荷神社
+    url: https://k-g-y.sakura.ne.jp/wp303/
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +42,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://suginami.mypl.net/article/summer-fes_suginami
-    source_name: まいぷれ[杉並区]
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://k-g-y.sakura.ne.jp/wp303/
+    source_name: 久我山稲荷神社
+    source_type: official
+    checked_at: 2026-08-05
+    note: 湯立神事は2日目の20時から
+shrine: 久我山稲荷神社
+recurrence: 7月23日（宵宮）・7月24日（湯の花神楽）
+recurrence_source: https://k-g-y.sakura.ne.jp/wp303/

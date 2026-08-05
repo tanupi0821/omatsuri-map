@@ -9,22 +9,25 @@ area:
 venue:
   name: 赤鉄橋たもと(四万十川河川敷)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.988037
+  lng: 132.927506
+organizer: 一社)四万十市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shimanto-kankou.com/shiminsai/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0939e00706/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 土佐くろしお鉄道中村駅から徒歩30分

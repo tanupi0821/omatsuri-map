@@ -9,21 +9,24 @@ area:
 venue:
   name: 西桂中学校グラウンド
   address: 南都留郡西桂町下暮地884-1
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.523037
+  lng: 138.841932
+organizer: 西桂町企画財政課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.nishikatsura.yamanashi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0419e195520/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 富士山麓電気鉄道三つ峠駅から徒歩5分

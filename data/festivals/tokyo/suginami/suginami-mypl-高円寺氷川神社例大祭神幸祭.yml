@@ -8,14 +8,50 @@ area:
   ward: null
 venue:
   name: 高円寺氷川神社（気象神社）
-  address: null
+  address: 東京都杉並区高円寺南4-44-19
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
+  - title: 高円寺氷川神社・気象神社
+    url: https://koenji-hikawa.com/
+  - title: 東京都神社庁 氷川神社（杉並区）
+    url: http://www.tokyo-jinjacho.or.jp/suginami/5296
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +60,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://suginami.mypl.net/article/summer-fes_suginami
-    source_name: まいぷれ[杉並区]
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://koenji-hikawa.com/about/
+    source_name: 高円寺氷川神社
+    source_type: official
+    checked_at: 2026-08-05
+    note: 神幸祭は初日10時の開祭式のあと、11時から12時に高円寺駅南北ロータリーで神輿渡御
+shrine: 高円寺氷川神社
+recurrence: 8月最終土曜日・日曜日
+recurrence_source: https://koenji-hikawa.com/about/

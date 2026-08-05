@@ -9,8 +9,8 @@ area:
 venue:
   name: 山口県光市
   address: null
-  lat: null
-  lng: null
+  lat: 33.969542
+  lng: 131.902093
 organizer: null
 stalls: yes
 tags: []

@@ -7,24 +7,44 @@ area:
   city: 藤岡市
   ward: null
 venue:
-  name: 鬼石地区
+  name: おまつり広場周辺（藤岡市鬼石）
   address: null
   lat: null
   lng: null
 organizer: null
-tags: []
+tags:
+  - 山車
 description: null
-links: []
+links:
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
+  - title: 藤岡市鬼石商工会
+    url: https://onishoko.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 2日目19時40分の「新田坂駆け上がり」、20時25分の「寄合い」が見どころ
 stalls: unknown

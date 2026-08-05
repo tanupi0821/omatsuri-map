@@ -9,14 +9,16 @@ area:
 venue:
   name: 長崎港、長崎水辺の森公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.739822
+  lng: 129.867096
+organizer: ながさきみなとまつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.minatomatsuri.com/
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +30,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1042e00949/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR長崎駅から長崎電気軌道1号系統正覚寺下行きで約5分、出島電停下車徒歩3分

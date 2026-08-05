@@ -60,10 +60,28 @@ function toDates(monthText, dayText, year) {
   return [...new Set(out)];
 }
 
+/**
+ * 地域を指定せずに呼ばれたとき（`import-all.mjs` はこちら）は、
+ * **取得済みの地域を順に処理する**。
+ * 引数必須のまま終了コード 1 で落ちていたので、`npm run collect` が
+ * ここで止まり、m より後ろのインポーター（nakahara・nerima・ota…）が
+ * まるごと流れていなかった。
+ */
 const area = process.argv[2];
 if (!AREAS[area]) {
-  console.error(`使い方: node scripts/import/mypl.mjs <${Object.keys(AREAS).join('|')}>`);
-  process.exit(1);
+  const flags = process.argv.slice(2).filter((a) => a.startsWith('-'));
+  const rest = process.argv.slice(2).filter((a) => !a.startsWith('-'));
+  if (rest.length) {
+    console.error(`使い方: node scripts/import/mypl.mjs <${Object.keys(AREAS).join('|')}>`);
+    process.exit(1);
+  }
+  const { spawnSync } = await import('node:child_process');
+  for (const key of Object.keys(AREAS)) {
+    if (!existsSync(join(ROOT, 'data', 'raw', 'mypl', `${key}.html`))) continue;
+    const r = spawnSync(process.execPath, [process.argv[1], key, ...flags], { stdio: 'inherit' });
+    if (r.status !== 0) process.exit(r.status ?? 1);
+  }
+  process.exit(0);
 }
 const A = AREAS[area];
 const path = join(ROOT, 'data', 'raw', 'mypl', `${area}.html`);

@@ -9,22 +9,25 @@ area:
 venue:
   name: 遠賀川河口一帯
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.894571
+  lng: 130.668763
+organizer: あしや花火大会実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ashikan.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1040e00942/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR折尾駅から北九州市営バス(芦屋行き)で約25分、山鹿郵便局前停留所下車徒歩5分

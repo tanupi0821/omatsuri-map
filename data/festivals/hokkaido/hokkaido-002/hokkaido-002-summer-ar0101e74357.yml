@@ -9,13 +9,15 @@ area:
 venue:
   name: 小樽港第3号ふ頭基部及び市内中心部
   address: 小樽市港町
-  lat: null
-  lng: null
+  lat: 43.199937
+  lng: 141.003267
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://otaru.ushiomatsuri.net/
 occurrences:
   - year: 2026
     dates:
@@ -27,7 +29,7 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74357/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png
@@ -44,3 +46,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Main_Venue.png
+station: JR小樽駅から徒歩10分

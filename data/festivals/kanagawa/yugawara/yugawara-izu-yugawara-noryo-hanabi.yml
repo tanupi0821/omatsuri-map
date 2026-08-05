@@ -7,25 +7,58 @@ area:
   city: 湯河原町
   ward: null
 venue:
-  name: 湯河原海水浴場周辺
+  name: 泉公園
   address: null
   lat: null
   lng: null
 station: 湯河原
-organizer: null
+organizer: 伊豆湯河原温泉観光協会
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
+  - title: 湯河原温泉 公式観光サイト 伊豆湯河原温泉納涼花火大会
+    url: https://www.yugawara.or.jp/event/1994/
+  - title: 伊豆湯河原温泉観光協会
+    url: https://izuyu-kanko.jp/%E5%B9%B4%E9%96%93%E8%A1%8C%E4%BA%8B/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:40
+    end_time: 21:00
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/yugawara-machi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://www.yugawara.or.jp/event/1994/
+    source_name: 湯河原温泉観光協会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から
 stalls: unknown

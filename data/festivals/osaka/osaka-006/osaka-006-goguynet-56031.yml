@@ -9,8 +9,8 @@ area:
 venue:
   name: 茨木市文化・子育て複合施設「おにクル」2階わっくる
   address: null
-  lat: null
-  lng: null
+  lat: 34.816278
+  lng: 135.568594
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://ibaraki.goguynet.jp/2026/07/10/kodomomatsuri/
     source_name: 号外NET 茨木市

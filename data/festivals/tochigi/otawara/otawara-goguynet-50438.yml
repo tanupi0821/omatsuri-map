@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 栃木県大田原市山の手1-6-3
-  address: null
+  address: 大田原市山の手1-6-3
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://nasushiobara-ohtawara.goguynet.jp/2026/07/18/ohtawara-nichiyouyoruichi2607/
     source_name: 号外NET 那須塩原市・大田原市

@@ -9,22 +9,25 @@ area:
 venue:
   name: ワモア川本南 荒川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.133813
+  lng: 139.284286
+organizer: 深谷花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://fukaya-sci.net/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0311e01022/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 秩父鉄道武川駅から徒歩7分

@@ -9,22 +9,25 @@ area:
 venue:
   name: 都南大橋下流 北上川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 39.659074
+  lng: 141.170648
+organizer: 盛岡花火の祭典実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.ccimorioka.or.jp/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 19:25
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0203e00646/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR岩手飯岡駅から徒歩30分

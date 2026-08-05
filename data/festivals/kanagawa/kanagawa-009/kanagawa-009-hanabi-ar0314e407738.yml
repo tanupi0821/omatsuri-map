@@ -9,22 +9,25 @@ area:
 venue:
   name: 臨港パーク海上
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.461061
+  lng: 139.636894
+organizer: 横浜開港祭実行委員会 事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.kaikosai.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-02
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e407738/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: みなとみらい線みなとみらい駅から徒歩5分

@@ -9,22 +9,25 @@ area:
 venue:
   name: J-POWER(電源開発)グラウンド沖
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.336119
+  lng: 132.947795
+organizer: 竹原市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.takeharakankou.jp/event/8297/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 19:45
+    end_time: 20:15
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0834e00106/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR大乗駅から徒歩10分

@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 1F
-  address: null
+  address: 草津市新浜町300
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-05-16
       - 2026-05-17
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 18:00
     status: confirmed
     source_url: https://kusatsuritto.goguynet.jp/2026/05/15/aeonkids/
     source_name: 号外NET 草津市・栗東市

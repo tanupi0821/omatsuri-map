@@ -9,14 +9,16 @@ area:
 venue:
   name: 猪名川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.824133
+  lng: 135.418952
+organizer: 池田市シティプロモーション課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kawanishi.hyogo.jp/shiseijoho/shokai/kisetu/1022518.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,13 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e00767/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 阪急電鉄川西能勢口駅または池田駅から徒歩10分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Inagawa_Hanabi.jpeg
+    width: 1000
+    height: 918
+    credit: Skate-song at Japanese Wikipedia
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Inagawa_Hanabi.jpeg

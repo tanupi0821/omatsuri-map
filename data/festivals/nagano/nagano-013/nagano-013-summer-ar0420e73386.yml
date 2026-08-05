@@ -9,21 +9,24 @@ area:
 venue:
   name: 松本市中心市街地
   address: 松本市
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.234581
+  lng: 137.969176
+organizer: 松本ぼんぼん実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://matsubon.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 19:50
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0420e73386/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR・アルピコ交通上高地線松本駅から徒歩5分

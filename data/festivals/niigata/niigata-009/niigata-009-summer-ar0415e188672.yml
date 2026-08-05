@@ -9,13 +9,15 @@ area:
 venue:
   name: みしま体育館駐車場 特設会場
   address: 長岡市三島中条1434
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.493705
+  lng: 138.787582
+organizer: 三島まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://e-mishima.info/
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e188672/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR長岡駅からタクシーで約20分

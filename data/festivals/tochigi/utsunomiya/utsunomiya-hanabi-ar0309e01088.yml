@@ -9,14 +9,16 @@ area:
 venue:
   name: 宇都宮市道場宿緑地(鬼怒川河川敷)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.564443
+  lng: 139.969447
+organizer: NPO法人うつのみや百年花火事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.utsunomiya-hanabi.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0309e01088/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR宇都宮駅からバス(ライトライン芳賀・高根沢工業団地行きで約20分)で飛山城跡停留所下車、徒歩30分(2キロ)

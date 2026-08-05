@@ -9,23 +9,26 @@ area:
 venue:
   name: 仙台市内
   address: 仙台市青葉区宮城県
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.262119
+  lng: 140.880458
+organizer: 仙台七夕まつり協賛会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.sendaitanabata.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0204e4767/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR仙台駅から徒歩5分

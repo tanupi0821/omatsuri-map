@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 焼津神社のHP
+    url: https://yaizujinja.or.jp/annai/aramaturi/
 occurrences:
   - year: 2026
     dates:

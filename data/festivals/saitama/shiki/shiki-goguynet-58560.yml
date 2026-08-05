@@ -9,19 +9,21 @@ area:
 venue:
   name: 天神社（志木市中宗岡1丁目付近）
   address: 志木市中宗岡1-4-36
-  lat: null
-  lng: null
+  lat: 35.837883
+  lng: 139.579821
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 志木市観光協会 公式配布資料（外部リンク
+    url: https://kanko-shiki.com/wp-content/uploads/2026/05/%E5%AE%BF%E7%B5%84%E5%85%AB%E5%9D%82%E7%A5%9E%E7%A4%BE%E3%80%80%E3%83%81%E3%83%A9%E3%82%B7%E3%83%BB%E4%BA%A4%E9%80%9A%E8%A6%8F%E5%88%B6%E5%9B%B3.pdf
 occurrences:
   - year: 2026
     dates:
       - 2026-06-21
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://niiza-shiki.goguynet.jp/2026/06/16/kanko-shiki-3/
     source_name: 号外NET 新座市・志木市

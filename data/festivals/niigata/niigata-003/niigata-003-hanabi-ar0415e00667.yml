@@ -9,24 +9,27 @@ area:
 venue:
   name: 片貝町浅原神社裏手
   address: null
-  lat: null
-  lng: null
+  lat: 37.369946
+  lng: 138.773957
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://katakaimachi-enkakyokai.info/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-11
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 22:20
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0415e00667/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR小千谷駅から片貝経由長岡行バスで約20分、ニ之町下車徒歩10分、JR長岡駅から片貝経由小千谷行バスで約30分

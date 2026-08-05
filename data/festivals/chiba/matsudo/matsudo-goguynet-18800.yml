@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式ホームページ
+    url: https://www.koganejukukumatsuri.com/blog/2026-07-12-22.html
 occurrences:
   - year: 2026
     dates:

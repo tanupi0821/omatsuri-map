@@ -32,3 +32,18 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「10月3日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ibi_Festival_Nakamachi-gumi_Sumiyoshi-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Nakamachi-gumi_Sumiyoshi-yama_2020-11_ac.jpg
+    width: 1000
+    height: 665
+    credit: Asturio Cantabrio
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Ibi_Festival_Nakamachi-gumi_Sumiyoshi-yama_2020-11_ac.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg
+    width: 1000
+    height: 1333
+    credit: Asturio Cantabrio
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg

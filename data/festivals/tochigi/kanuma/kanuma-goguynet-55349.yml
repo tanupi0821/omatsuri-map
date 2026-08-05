@@ -9,8 +9,8 @@ area:
 venue:
   name: 鹿沼市立南摩中学校
   address: null
-  lat: null
-  lng: null
+  lat: 36.521482
+  lng: 139.697479
 organizer: null
 stalls: yes
 tags: []

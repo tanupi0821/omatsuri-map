@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 袋井市の公式HP
+    url: https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/kyoiku_gakushu/12766.html
 occurrences:
   - year: 2026
     dates:
@@ -30,3 +32,18 @@ occurrences:
     source_name: 号外NET 磐田市・袋井市・掛川市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lucca_Summer_Festival_stage_2023.jpg/1280px-Lucca_Summer_Festival_stage_2023.jpg
+    width: 1000
+    height: 750
+    credit: Gabriele85
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Lucca_Summer_Festival_stage_2023.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Traditional_fishing_festival_46.jpg/1280px-Traditional_fishing_festival_46.jpg
+    width: 1000
+    height: 666
+    credit: Azimronnie
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Traditional_fishing_festival_46.jpg

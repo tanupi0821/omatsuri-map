@@ -9,13 +9,15 @@ area:
 venue:
   name: 日和佐八幡神社、大浜海岸、桜町通り、日和佐川河川敷付近
   address: 海部郡美波町日和佐浦
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.732845
+  lng: 134.541108
+organizer: 日和佐うみがめまつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.minami.lg.jp/docs/3324727.html
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,5 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0936e511010/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR日和佐駅から徒歩20分

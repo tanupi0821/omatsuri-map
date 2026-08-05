@@ -9,22 +9,24 @@ area:
 venue:
   name: 国営沖縄記念公園(海洋博公園)・エメラルドビーチ
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.699267
+  lng: 127.877956
+organizer: 海洋博公園花火大会運営事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://oki-park.jp/hanabi2025/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1047e00709/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

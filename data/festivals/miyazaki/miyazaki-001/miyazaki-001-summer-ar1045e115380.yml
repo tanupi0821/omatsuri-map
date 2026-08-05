@@ -9,9 +9,9 @@ area:
 venue:
   name: 都井岬観光交流館
   address: 串間市大字大納42番地3
-  lat: null
-  lng: null
-organizer: null
+  lat: 31.366462
+  lng: 131.333322
+organizer: 串間市観光協会
 stalls: yes
 tags: []
 description: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
+    start_time: 17:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e115380/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR串間駅からタクシーで約25分

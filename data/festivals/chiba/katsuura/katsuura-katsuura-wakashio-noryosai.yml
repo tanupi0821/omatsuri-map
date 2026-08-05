@@ -7,23 +7,38 @@ area:
   city: 勝浦市
   ward: null
 venue:
-  name: 勝浦市内
+  name: 遠見岬神社 駐車場（勝浦会場）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: かつうら若潮まつり実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
+  - title: 勝浦市観光協会 イベント
+    url: https://www.katsuura-kankou.net/event/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
+    start_time: 15:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.katsuura-kankou.net/event/
+    source_name: 勝浦市観光協会
+    source_type: official
+    checked_at: 2026-08-05
+    note: 興津会場は8月14日19時から（花火・灯篭流し）
 stalls: unknown

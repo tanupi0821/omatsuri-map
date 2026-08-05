@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 関宿ふれあい広場(江戸川河川敷)
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 野田市東宝珠花
+  lat: 36.029709
+  lng: 139.819187
+organizer: 関宿まつり運営委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://r.goope.jp/sekiyadomatsuri/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0312e00408/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 東武鉄道川間駅から朝日バス(関宿城または境車庫行きで約30分)で関宿中央ターミナル下車、徒歩5分

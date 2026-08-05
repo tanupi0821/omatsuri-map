@@ -11,20 +11,27 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 芦野聖天花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 那須町観光協会 芦野聖天花火大会
+    url: https://www.nasukogen.org/calendar/detail.php?id=1214
+  - title: 那須町観光協会 芦野聖天花火大会
+    url: https://www.nasukogen.org/calendar/detail.php?id=1214
+  - title: 那須町観光協会 芦野聖天花火大会
+    url: https://www.nasukogen.org/calendar/detail.php?id=1214
 occurrences:
   - year: 2026
     dates:
       - 2026-08-19
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/list/ar0309/yatai/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による。会場周辺の仲町通りに露店が並ぶ

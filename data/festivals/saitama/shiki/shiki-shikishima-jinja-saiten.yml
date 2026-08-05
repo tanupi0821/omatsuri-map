@@ -1,0 +1,31 @@
+id: shiki-shikishima-jinja-saiten
+name: 敷島神社 祭典
+kind: 例大祭
+scale: 市
+area:
+  pref: 埼玉県
+  city: 志木市
+  ward: null
+venue:
+  name: 敷島神社
+  address: null
+  lat: null
+  lng: null
+organizer: 敷島神社
+shrine: 敷島神社
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 北海道 十勝観光連盟公式Instagram
+    url: https://www.instagram.com/tokachi_kannkou_rennmei/
+  - title: 北海道陸別町公式サイト
+    url: https://www.rikubetsu.jp/kanko/event/tetsudoumatsuri/
 occurrences:
   - year: 2026
     dates:

@@ -9,22 +9,25 @@ area:
 venue:
   name: 松川浦新漁港
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.82721
+  lng: 140.977931
+organizer: 事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sites.google.com/view/somahanabi/%E3%83%9B%E3%83%BC%E3%83%A0
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
+    start_time: 18:30
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0207e469988/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR常磐線相馬駅からバスで約30分、またはタクシーで約15分

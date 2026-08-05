@@ -7,24 +7,35 @@ area:
   city: 杉並区
   ward: null
 venue:
-  name: セシオン杉並
-  address: null
+  name: セシオン杉並（高円寺地域区民センター）
+  address: 東京都杉並区梅里1-22-32
   lat: null
   lng: null
-organizer: null
+organizer: セシオン杉並まつり実行委員会・高円寺地域区民センター協議会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: セシオン杉並
+    url: https://www.sesion-suginami.jp/
+  - title: セシオン杉並
+    url: https://www.sesion-suginami.jp/
+  - title: セシオン杉並
+    url: https://www.sesion-suginami.jp/
+  - title: セシオン杉並
+    url: https://www.sesion-suginami.jp/
+  - title: セシオン杉並
+    url: https://www.sesion-suginami.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-05
       - 2026-09-06
-    start_time: null
-    end_time: null
+    start_time: 10:30
+    end_time: 15:00
     status: confirmed
     source_url: https://suginami.mypl.net/article/summer-fes_suginami
     source_name: まいぷれ[杉並区]
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による

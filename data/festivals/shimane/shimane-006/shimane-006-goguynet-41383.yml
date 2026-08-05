@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:30
+    end_time: 20:00
     status: confirmed
     source_url: https://izumo-unnan.goguynet.jp/2026/07/13/mamingfan/
     source_name: 号外NET 出雲市・雲南市

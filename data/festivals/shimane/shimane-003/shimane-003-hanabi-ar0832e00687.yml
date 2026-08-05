@@ -9,14 +9,16 @@ area:
 venue:
   name: 浜田漁港7号岸壁周辺(浜田市原井町)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.892663
+  lng: 132.061987
+organizer: 浜田市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kankou-hamada.or.jp/lp/hamakko-natsumaturi/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0832e00687/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR浜田駅から周布行バスで約15分、お魚センター前停留所下車すぐ

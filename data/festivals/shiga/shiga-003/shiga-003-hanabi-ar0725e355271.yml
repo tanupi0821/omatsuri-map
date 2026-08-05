@@ -9,14 +9,16 @@ area:
 venue:
   name: 日野町役場駐車場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.017997
+  lng: 136.246022
+organizer: 日野町イベント実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://hino-shokokai.com/archives/1209
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0725e355271/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 近江鉄道日野駅から町営バス鎌掛線で日野町役場停留所下車

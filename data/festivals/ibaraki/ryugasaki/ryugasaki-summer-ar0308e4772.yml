@@ -1,0 +1,29 @@
+id: ryugasaki-summer-ar0308e4772
+name: 撞舞(つくまい)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 茨城県
+  city: 龍ケ崎市
+  ward: null
+venue:
+  name: 龍ケ崎市街地
+  address: 龍ケ崎市根町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e4772/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

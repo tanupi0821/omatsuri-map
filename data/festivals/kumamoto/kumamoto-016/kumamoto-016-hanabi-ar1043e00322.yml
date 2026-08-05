@@ -9,14 +9,16 @@ area:
 venue:
   name: 菊池市ふるさと創生市民広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.98592
+  lng: 130.815455
+organizer: 菊池市役所観光振興課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kikuchi-hakuryu.com/
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1043e00322/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR熊本駅から熊本電鉄バス菊池温泉行きで約70分、菊池プラザ下車徒歩15分

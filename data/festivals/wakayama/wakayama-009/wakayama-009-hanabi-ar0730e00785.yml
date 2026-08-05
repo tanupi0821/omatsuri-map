@@ -9,14 +9,16 @@ area:
 venue:
   name: 南馬場緑地広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.309008
+  lng: 135.590809
+organizer: 紀の川橋本SUMMERBALL実行委員会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.hashimoto.lg.jp/hashimototaikan/asobu/ibennto/summerball/index.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0730e00785/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR・南海高野線橋本駅から無料シャトルバスで伊都振興局下車、徒歩15分

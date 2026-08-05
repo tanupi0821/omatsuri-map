@@ -9,22 +9,25 @@ area:
 venue:
   name: 十勝港第4埠頭
   address: null
-  lat: null
-  lng: null
+  lat: 42.297945
+  lng: 143.32763
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.hiroo.lg.jp/kankou/event/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e01059/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR帯広駅から広尾行バスで約120分、並木通2丁目停留所から徒歩25分

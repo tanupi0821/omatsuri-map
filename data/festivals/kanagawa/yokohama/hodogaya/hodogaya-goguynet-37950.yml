@@ -8,21 +8,23 @@ area:
   ward: 保土ケ谷区
 venue:
   name: 陸上自衛隊
-  address: null
+  address: 横浜市保土ケ谷区岡沢町273
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 横浜駐屯地の公式ホームページ
+    url: https://www.mod.go.jp/gsdf/yokohama/sp_400-event.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://yokohamahodogaya.goguynet.jp/2026/07/15/cyutonchi/
     source_name: 号外NET 横浜市保土ケ谷区

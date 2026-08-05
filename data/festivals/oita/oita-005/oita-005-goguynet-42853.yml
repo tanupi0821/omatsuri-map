@@ -9,8 +9,8 @@ area:
 venue:
   name: センチュリーモール駐車場
   address: null
-  lat: null
-  lng: null
+  lat: 33.24252
+  lng: 131.720467
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:00
     status: confirmed
     source_url: https://ooita.goguynet.jp/2026/07/25/oitabest_c21/
     source_name: 号外NET 大分市

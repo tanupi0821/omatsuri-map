@@ -9,8 +9,8 @@ area:
 venue:
   name: 大手町仲通り
   address: null
-  lat: null
-  lng: null
+  lat: 35.688039
+  lng: 139.765335
 organizer: 大手町・丸の内・有楽町夏祭り実行委員会
 stalls: yes
 tags: []

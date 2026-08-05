@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: フナイリバ（目黒区中目黒1-11-18）
-  address: null
-  lat: null
-  lng: null
+  address: 目黒区中目黒1-11-18
+  lat: 35.641551
+  lng: 139.69954
 organizer: 中目黒盆踊り大会実行委員会
 stalls: yes
 tags: []
@@ -18,12 +18,14 @@ description: null
 links:
   - title: 号外NET 目黒区
     url: https://meguro.goguynet.jp/2026/07/27/nakameguro_bonodori2026/
+  - title: 中目黒盆踊り大会2025公式サイト 中目黒盆踊り大会2025
+    url: https://nakamebonodori.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/32273/
     source_name: 東京フェスタ

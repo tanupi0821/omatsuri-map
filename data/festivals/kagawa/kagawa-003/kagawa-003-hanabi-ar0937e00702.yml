@@ -9,22 +9,25 @@ area:
 venue:
   name: サンポート高松周辺、水城通り
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.356484
+  lng: 134.047909
+organizer: 高松まつり振興会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.takamatsu.kagawa.jp/smph/kanko/takamatsumatsuri/matsuri.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 20:15
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0937e00702/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR高松駅またはことでん高松築港駅から徒歩4分

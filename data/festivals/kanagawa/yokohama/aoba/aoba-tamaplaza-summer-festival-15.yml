@@ -11,10 +11,20 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: we love tamaplaza project
 tags: []
 description: null
-links: []
+links:
+  - title: we love tamaplaza project
+    url: https://welovetamaplaza.jp/information/
+  - title: we love tamaplaza project
+    url: https://welovetamaplaza.jp/information/
+  - title: we love tamaplaza project
+    url: https://welovetamaplaza.jp/information/
+  - title: we love tamaplaza project
+    url: https://welovetamaplaza.jp/information/
+  - title: we love tamaplaza project
+    url: https://welovetamaplaza.jp/information/
 occurrences:
   - year: 2026
     dates:
@@ -31,9 +41,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
-    source_name: 号外NET 横浜市緑区・青葉区
-    checked_at: 2026-08-02
-    note: 7/17〜26の期間開催
-    source_type: media
+    source_url: https://welovetamaplaza.jp/2026_summer_program/
+    source_name: we love tamaplaza project
+    checked_at: 2026-08-05
+    note: 期間中の7月25日・26日が各商店街の夏まつり（16時から20時）
+    source_type: official
 stalls: unknown

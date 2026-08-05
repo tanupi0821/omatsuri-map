@@ -9,22 +9,25 @@ area:
 venue:
   name: 苫小牧漁港区西側広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.623755
+  lng: 141.615369
+organizer: 苫小牧港まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://100hanabi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-10
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00714/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR苫小牧駅からバスでぷらっとみなと市場前停留所下車、徒歩5分

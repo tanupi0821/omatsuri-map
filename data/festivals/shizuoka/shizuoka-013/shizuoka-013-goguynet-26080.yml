@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 焼津さかなセンター（
-  address: null
-  lat: null
-  lng: null
+  address: 焼津市八楠4-13-7
+  lat: 34.880071
+  lng: 138.30057
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-03
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 17:00
     status: confirmed
     source_url: https://fujieda-yaizu.goguynet.jp/2026/04/20/haruno-yaizu-sakana-center-matsuri/
     source_name: 号外NET 藤枝市・焼津市・島田市

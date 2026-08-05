@@ -9,22 +9,25 @@ area:
 venue:
   name: 阿武隈川河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.513013
+  lng: 140.403538
+organizer: 本宮市夏まつり運営委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.motomiyamatsuri.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0207e196360/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR本宮駅から徒歩5分

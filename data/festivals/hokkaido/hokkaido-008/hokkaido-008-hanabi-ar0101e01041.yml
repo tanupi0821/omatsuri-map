@@ -9,22 +9,40 @@ area:
 venue:
   name: 十勝川河川敷特設会場(十勝大橋下流400メートル付近)
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.935102
+  lng: 143.206585
+organizer: 十勝毎日新聞社営業局事業部
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kachimai-hanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e01041/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR帯広駅から徒歩20分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kachimai_Hanabi_Taikai.jpg/1280px-Kachimai_Hanabi_Taikai.jpg
+    width: 1000
+    height: 744
+    credit: カイロス
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kachimai_Hanabi_Taikai_2010.jpg/1280px-Kachimai_Hanabi_Taikai_2010.jpg
+    width: 1000
+    height: 444
+    credit: カイロス
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai_2010.jpg

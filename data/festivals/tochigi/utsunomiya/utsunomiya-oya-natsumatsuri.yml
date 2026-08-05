@@ -7,23 +7,36 @@ area:
   city: 宇都宮市
   ward: null
 venue:
-  name: 大谷地区
+  name: 大谷景観公園
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: NPO法人 大谷商工観光協力会
 tags: []
 description: null
-links: []
+links:
+  - title: 宇都宮市 第4回大谷夏祭り
+    url: https://www.city.utsunomiya.lg.jp/event/event/1047972.html
+  - title: 大谷地域観光情報サイト
+    url: https://oya-stone-city.jp/event
+  - title: 宇都宮市 第4回大谷夏祭り
+    url: https://www.city.utsunomiya.lg.jp/event/event/1047972.html
+  - title: 大谷地域観光情報サイト
+    url: https://oya-stone-city.jp/event
+  - title: 宇都宮市 第4回大谷夏祭り
+    url: https://www.city.utsunomiya.lg.jp/event/event/1047972.html
+  - title: 大谷地域観光情報サイト
+    url: https://oya-stone-city.jp/event
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-18
-    start_time: null
-    end_time: null
+      - 2026-07-19
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/3.html
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.city.utsunomiya.lg.jp/event/event/1047972.html
+    source_name: 宇都宮市
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 当初は7月18日の予定だったが19日に順延
 stalls: unknown

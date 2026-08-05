@@ -9,8 +9,8 @@ area:
 venue:
   name: 地蔵尊境内
   address: null
-  lat: null
-  lng: null
+  lat: 42.573152
+  lng: 141.945161
 organizer: null
 stalls: yes
 tags:
@@ -21,10 +21,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 19:45
+    end_time: 20:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00401/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR鵡川駅から道南バス(平取・静内方面行きで約5分)でイモッペ地蔵堂前停留所下車すぐ、またはタクシーで約5分

@@ -9,13 +9,15 @@ area:
 venue:
   name: 十日町市
   address: 十日町市
-  lat: null
-  lng: null
+  lat: 37.134878
+  lng: 138.756376
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tokamachishikankou.jp/event/tokamashioomatsuri/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e196957/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR十日町駅から徒歩すぐ

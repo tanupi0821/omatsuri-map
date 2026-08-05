@@ -9,21 +9,23 @@ area:
 venue:
   name: 見附公園駐車場
   address: 珠洲市宝立町
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.397663
+  lng: 137.24345
+organizer: 見附島観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.instagram.com/houryu_fes/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 17:30
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0517e73371/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05

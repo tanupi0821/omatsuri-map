@@ -9,14 +9,16 @@ area:
 venue:
   name: 温根湯温泉無加川河畔
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.759184
+  lng: 143.505336
+organizer: おんねゆ温泉観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.onneyuonsen.jp/index.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,20 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00147/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR留辺蘂駅から温根湯行バスで約15分、温根湯停留所下車徒歩3分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg
+    width: 1000
+    height: 716
+    credit: 田頭寛
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg
+    width: 1000
+    height: 748
+    credit: 田頭寛
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg

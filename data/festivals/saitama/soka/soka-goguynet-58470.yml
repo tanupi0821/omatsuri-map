@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 中根町ふれあい広場
-  address: null
-  lat: null
-  lng: null
+  address: 草加市中根2丁目
+  lat: 35.847277
+  lng: 139.804607
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-05
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 12:00
     status: confirmed
     source_url: https://soka.goguynet.jp/2026/07/03/nakane-tanabatamatsuri/
     source_name: 号外NET 草加市

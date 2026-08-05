@@ -1,0 +1,47 @@
+id: taito-iriya-asagao
+name: 入谷朝顔まつり（入谷朝顔市）
+kind: 縁日
+scale: 区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 入谷鬼子母神（真源寺）・言問通り
+  address: null
+  lat: null
+  lng: null
+station: 入谷
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-06
+      - 2026-07-07
+      - 2026-07-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iriyaasagaomatsuri-flowerstallfromback-july8-2016.jpg/1280px-Iriyaasagaomatsuri-flowerstallfromback-july8-2016.jpg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Iriyaasagaomatsuri-flowerstallfromback-july8-2016.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iriyaasagaomatsuri-tag-july8-2016.jpg/1280px-Iriyaasagaomatsuri-tag-july8-2016.jpg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Iriyaasagaomatsuri-tag-july8-2016.jpg

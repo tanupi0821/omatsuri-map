@@ -12,7 +12,7 @@ venue:
   lat: null
   lng: null
 organizer: DM三井グループ
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-23
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 15:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/29628/
     source_name: 東京フェスタ

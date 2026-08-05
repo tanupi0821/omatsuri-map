@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: むつみ会のホームページ
+    url: https://kiyose-mutsumi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 19:30
     status: confirmed
     source_url: https://higashikurume-kiyose.goguynet.jp/2026/07/24/202607keyakiro-dofesuthibaru/
     source_name: 号外NET 東久留米市・清瀬市

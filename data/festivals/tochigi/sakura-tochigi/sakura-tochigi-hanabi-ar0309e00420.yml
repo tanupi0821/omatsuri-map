@@ -9,23 +9,26 @@ area:
 venue:
   name: さくら市水辺公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.714605
+  lng: 140.033046
+organizer: さくら市喜連川観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sakura-navi.net/
 occurrences:
   - year: 2025
     dates:
       - 2025-11-08
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0309e00420/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR宇都宮線氏家駅から関東バス(馬頭車庫行で約15分)で連城橋停留所下車、徒歩10分

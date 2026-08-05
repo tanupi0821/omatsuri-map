@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 茨木神社ホームページ
+    url: https://ibarakijinja.or.jp/natsumatsuri/
 occurrences:
   - year: 2026
     dates:

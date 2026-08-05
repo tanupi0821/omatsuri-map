@@ -9,9 +9,9 @@ area:
 venue:
   name: 北波多中学校付近河川敷
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.376923
+  lng: 129.955472
+organizer: 北波多ふるさと夏まつり実行委員会事務局
 stalls: yes
 tags:
   - 花火
@@ -27,4 +27,4 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1041e00554/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

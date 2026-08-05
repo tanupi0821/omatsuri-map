@@ -9,22 +9,25 @@ area:
 venue:
   name: おがせ池
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.412129
+  lng: 136.910312
+organizer: 各務原市役所観光交流課
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kakamigahara.lg.jp/event/1005356/1010019/1027755.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0621e00190/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 名鉄苧ヶ瀬駅から徒歩15分

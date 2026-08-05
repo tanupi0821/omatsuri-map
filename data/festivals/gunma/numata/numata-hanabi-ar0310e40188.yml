@@ -9,22 +9,25 @@ area:
 venue:
   name: 沼田市運動公園(住所：沼田市硯田町626)
   address: null
-  lat: null
-  lng: null
+  lat: 36.647738
+  lng: 139.022947
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://numatahanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0310e40188/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR沼田駅から徒歩25分

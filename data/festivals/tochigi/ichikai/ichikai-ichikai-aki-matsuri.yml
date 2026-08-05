@@ -7,7 +7,7 @@ area:
   city: 市貝町
   ward: null
 venue:
-  name: 市貝町役場周辺 特設会場
+  name: 市貝町役場 さわやか広場周辺
   address: null
   lat: null
   lng: null
@@ -16,15 +16,24 @@ stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 市貝町 ICHIKAI秋まつり開催
+    url: https://www.town.ichikai.tochigi.jp/info/1911
+  - title: 市貝町観光協会 ICHIKAI秋まつり
+    url: https://www.ichikai-kankou.jp/news/news-1287/
+  - title: 市貝町 ICHIKAI秋まつり開催
+    url: https://www.town.ichikai.tochigi.jp/info/1911
+  - title: 市貝町観光協会 ICHIKAI秋まつり
+    url: https://www.ichikai-kankou.jp/news/news-1287/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-17
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 19:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/list/ar0309/yatai/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.town.ichikai.tochigi.jp/info/1911
+    source_name: 市貝町
+    source_type: gov
+    checked_at: 2026-08-05
+    note: 時刻は前回の発表による。町民祭・JAまつりと同日開催で、花火は18時から

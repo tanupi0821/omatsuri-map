@@ -9,8 +9,8 @@ area:
 venue:
   name: ヒューリック浅草橋ビル前路上
   address: null
-  lat: null
-  lng: null
+  lat: 35.697811
+  lng: 139.781827
 organizer: null
 stalls: unknown
 tags: []

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: なら心配無用
-  address: null
+  address: 寝屋川市宝町14
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://neyagawa.goguynet.jp/2026/08/02/takaramachi-2/
     source_name: 号外NET 寝屋川市

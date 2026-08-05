@@ -20,10 +20,18 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-15
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 17:00
     status: confirmed
     source_url: https://rarea.events/event/298847
     source_name: レアリア
     source_type: media
     checked_at: 2026-08-05
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%98%A5%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD.jpg/1280px-%E6%98%A5%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD.jpg
+    width: 1000
+    height: 705
+    credit: 田頭寛
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E6%98%A5%E5%AD%A3%E4%BE%8B%E5%A4%A7%E7%A5%AD.jpg

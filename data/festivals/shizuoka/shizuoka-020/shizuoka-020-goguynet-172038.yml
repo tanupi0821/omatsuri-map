@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 富士市内
-  address: null
+  address: 富士市大淵
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Instagram
+    url: https://www.instagram.com/fuji_pool/
 occurrences:
   - year: 2026
     dates:

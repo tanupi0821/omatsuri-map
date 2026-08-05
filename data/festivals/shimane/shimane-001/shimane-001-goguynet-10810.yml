@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-19
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
     source_url: https://matsue-yasugi.goguynet.jp/2026/07/18/hirosegion/
     source_name: 号外NET 松江市・安来市

@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 吉田神社境内、豊川河畔
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 豊橋市下地町
+  lat: 34.772421
+  lng: 137.389048
+organizer: 豊橋祇園祭奉賛会事務局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.toyohashigion.org
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +30,21 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0623e00992/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR・名鉄豊橋駅から徒歩20分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Toyohashi_Gion_Maturi.JPG/1280px-Toyohashi_Gion_Maturi.JPG
+    width: 1000
+    height: 750
+    credit: Mikkabie
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Toyohashi_Gion_Maturi.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aichi_Toyohashi_c20260718_2020c.jpg/1280px-Aichi_Toyohashi_c20260718_2020c.jpg
+    width: 1000
+    height: 667
+    credit: 円周率３パーセント
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Aichi_Toyohashi_c20260718_2020c.jpg

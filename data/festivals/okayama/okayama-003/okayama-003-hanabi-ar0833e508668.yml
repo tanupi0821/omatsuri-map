@@ -9,22 +9,24 @@ area:
 venue:
   name: 岡山国際サーキット
   address: null
-  lat: null
-  lng: null
+  lat: 34.9153
+  lng: 134.221602
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://oic-event.studio.site/hanabi-2026
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 19:45
+    end_time: 20:45
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0833e508668/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05

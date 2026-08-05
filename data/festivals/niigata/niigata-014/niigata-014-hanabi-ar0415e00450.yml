@@ -9,22 +9,25 @@ area:
 venue:
   name: 能生弁天岩
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 37.109237
+  lng: 137.992702
+organizer: 能生商工会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://niigata-kankou.or.jp/event/2396
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 19:30
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0415e00450/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: トキめき鉄道日本海ひすいライン能生駅から徒歩15分

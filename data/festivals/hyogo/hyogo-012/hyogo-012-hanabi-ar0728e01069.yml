@@ -9,14 +9,16 @@ area:
 venue:
   name: 東条湖
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.930733
+  lng: 135.068804
+organizer: 加東市夏まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kato.lg.jp/kakukanogoannai/sangyoushinkoubu/shokokankoka/event/17065.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,13 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0728e01069/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR新三田駅からタクシーで約30分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hiraike-park_%28%E5%B9%B3%E6%B1%A0%E5%85%AC%E5%9C%92_%E5%A4%A7%E8%B3%80%E3%83%8F%E3%82%B9%29%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%8A%A0%E6%9D%B1%E5%B8%82%E6%9D%B1%E5%8F%A4%E7%80%AC_6390.jpg/1280px-Hiraike-park_%28%E5%B9%B3%E6%B1%A0%E5%85%AC%E5%9C%92_%E5%A4%A7%E8%B3%80%E3%83%8F%E3%82%B9%29%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%8A%A0%E6%9D%B1%E5%B8%82%E6%9D%B1%E5%8F%A4%E7%80%AC_6390.jpg
+    width: 1000
+    height: 667
+    credit: 松岡明芳
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hiraike-park_(%E5%B9%B3%E6%B1%A0%E5%85%AC%E5%9C%92_%E5%A4%A7%E8%B3%80%E3%83%8F%E3%82%B9)%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%8A%A0%E6%9D%B1%E5%B8%82%E6%9D%B1%E5%8F%A4%E7%80%AC_6390.jpg

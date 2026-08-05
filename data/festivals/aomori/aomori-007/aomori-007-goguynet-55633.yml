@@ -23,8 +23,8 @@ occurrences:
       - 2026-07-12
       - 2026-07-23
       - 2026-07-28
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 21:00
     status: confirmed
     source_url: https://hirosaki.goguynet.jp/2026/07/12/renga-hiroba-no-hi/
     source_name: 号外NET 弘前市

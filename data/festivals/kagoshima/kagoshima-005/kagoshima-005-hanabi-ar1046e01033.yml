@@ -9,14 +9,16 @@ area:
 venue:
   name: 鹿児島港本港区
   address: null
-  lat: null
-  lng: null
+  lat: 31.594692
+  lng: 130.568457
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://hanabi.kankou-kagoshima.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,13 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1046e01033/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR鹿児島駅から徒歩15分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/1/12/Kagoshima_Kinko-bay_Summer_night_Firework_Event.jpg
+    width: 1000
+    height: 666
+    credit: 鹿児島市
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Kagoshima_Kinko-bay_Summer_night_Firework_Event.jpg

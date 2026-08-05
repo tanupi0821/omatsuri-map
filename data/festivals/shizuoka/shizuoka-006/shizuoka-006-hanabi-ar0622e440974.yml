@@ -9,24 +9,27 @@ area:
 venue:
   name: 御殿場プレミアム・アウトレット
   address: null
-  lat: null
-  lng: null
+  lat: 35.307384
+  lng: 138.964675
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.premiumoutlets.co.jp/gotemba/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
       - 2026-08-16
-    start_time: null
+    start_time: 20:10
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0622e440974/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR御殿場駅から無料シャトルバスで約15分

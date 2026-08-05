@@ -9,8 +9,8 @@ area:
 venue:
   name: 】阿佐谷一番街商店街
   address: null
-  lat: null
-  lng: null
+  lat: 35.704735
+  lng: 139.634233
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 20:00
     status: confirmed
     source_url: https://suginami.goguynet.jp/2026/07/16/otonanoennichi2026/
     source_name: 号外NET 杉並区

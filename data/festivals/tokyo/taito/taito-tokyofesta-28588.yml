@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 東本願寺境内（東京都台東区西浅草1-5-5）
-  address: null
-  lat: null
-  lng: null
+  address: 台東区西浅草1-5-5
+  lat: 35.711733
+  lng: 139.789678
 organizer: null
 stalls: unknown
 tags: []

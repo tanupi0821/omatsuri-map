@@ -9,21 +9,24 @@ area:
 venue:
   name: やまいちサステナパーク七北田公園
   address: 仙台市泉区
-  lat: null
-  lng: null
-organizer: null
+  lat: 38.31981
+  lng: 140.876411
+organizer: 泉区民ふるさとまつり協賛会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.sendai.jp/izumi-katsudo/izumiku/machizukuri/event/hurumatu/44izumihurusato.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 20:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0204e607794/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: 仙台市営地下鉄泉中央駅から徒歩5分

@@ -9,21 +9,24 @@ area:
 venue:
   name: 八鹿酒造横駐車場
   address: 玖珠郡九重町右田3364
-  lat: null
-  lng: null
-organizer: null
+  lat: 33.255422
+  lng: 131.176055
+organizer: 九重町観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.instagram.com/shimodangion/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
+    start_time: 15:00
     end_time: null
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e188686/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
+station: JR恵良駅から徒歩5分

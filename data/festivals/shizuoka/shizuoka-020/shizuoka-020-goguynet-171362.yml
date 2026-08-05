@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 富士市内
-  address: null
+  address: 富士市吉原
   lat: null
   lng: null
 organizer: null
@@ -18,13 +18,17 @@ description: null
 links:
   - title: 号外NET 富士市・富士宮市
     url: https://fuji-fujinomiya.goguynet.jp/2026/06/12/hana-4/
+  - title: 吉原祇園祭公式Instagram
+    url: https://www.instagram.com/yoshiwaragion/
+  - title: 吉原祇園祭公式Facebook
+    url: https://www.facebook.com/yoshiwaragion/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-13
       - 2026-06-14
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 12:00
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/06/11/gionnsai-3/
     source_name: 号外NET 富士市・富士宮市

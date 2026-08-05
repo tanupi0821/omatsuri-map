@@ -12,7 +12,7 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -23,8 +23,8 @@ occurrences:
       - 2026-07-19
       - 2026-07-20
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://hirosaki.goguynet.jp/2026/07/22/en-nichi/
     source_name: 号外NET 弘前市

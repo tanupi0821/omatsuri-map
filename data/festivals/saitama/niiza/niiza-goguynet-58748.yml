@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 栗原の森集会所（新座市栗原2丁目）
-  address: null
-  lat: null
-  lng: null
+  address: 新座市栗原2丁目
+  lat: 35.759077
+  lng: 139.546977
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 10:30
+    end_time: 14:00
     status: confirmed
     source_url: https://niiza-shiki.goguynet.jp/2026/07/28/natsumaturi-2/
     source_name: 号外NET 新座市・志木市

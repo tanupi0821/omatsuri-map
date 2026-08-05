@@ -9,23 +9,26 @@ area:
 venue:
   name: コミュニティ広場
   address: 河東郡士幌町士幌225
-  lat: null
-  lng: null
-organizer: null
+  lat: 43.168915
+  lng: 143.244068
+organizer: しほろ7000人のまつり実行委員会事務局
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.shihoro.jp/tourism/detail.php?content=126
 occurrences:
   - year: 2026
     dates:
       - 2026-08-16
       - 2026-08-20
-    start_time: null
-    end_time: null
+    start_time: 10:30
+    end_time: 16:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e76032/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR帯広駅からバスでタウンプラザ前停留所下車、徒歩すぐ

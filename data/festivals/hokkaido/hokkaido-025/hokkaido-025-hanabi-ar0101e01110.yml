@@ -9,22 +9,25 @@ area:
 venue:
   name: 真駒内セキスイハイムスタジアム
   address: null
-  lat: null
-  lng: null
+  lat: 42.996267
+  lng: 141.34292
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.makomanai-hanabi.com
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 19:50
+    end_time: 20:50
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0101e01110/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 札幌市営地下鉄真駒内駅から徒歩30分

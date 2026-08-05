@@ -9,22 +9,25 @@ area:
 venue:
   name: 千代河原市民スポーツ広場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.504603
+  lng: 134.216477
+organizer: 新日本海新聞社事業局
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://hanabi-nihonkai.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-    start_time: null
+    start_time: 19:50
     end_time: null
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0831e00686/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR鳥取駅から徒歩15分

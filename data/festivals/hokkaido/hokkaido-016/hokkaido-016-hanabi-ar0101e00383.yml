@@ -9,14 +9,16 @@ area:
 venue:
   name: 湧別川河川敷緑地せせらぎ広場特設会場
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 44.053899
+  lng: 143.530669
+organizer: 遠軽青年会議所
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.facebook.com/engaru.hanabi/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0101e00383/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR遠軽駅から徒歩10分

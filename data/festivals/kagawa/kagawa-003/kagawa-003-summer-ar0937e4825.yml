@@ -1,0 +1,46 @@
+id: kagawa-003-summer-ar0937e4825
+name: 第59回 さぬき高松まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 香川県
+  city: 高松市
+  ward: null
+venue:
+  name: あなぶきアリーナ香川、サンポート高松多目的広場・石のステージほか
+  address: 高松市サンポート6-11 (あなぶきアリーナ香川)
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0937e4825/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg
+    width: 1000
+    height: 666
+    credit: Vanvelthem Cédric
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/25/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg
+    width: 1000
+    height: 666
+    credit: Vanvelthem Cédric
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg

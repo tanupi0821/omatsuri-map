@@ -9,8 +9,8 @@ area:
 venue:
   name: 新開地商店街一帯
   address: null
-  lat: null
-  lng: null
+  lat: 34.677165
+  lng: 135.168053
 organizer: null
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-06-06
       - 2026-06-07
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 19:00
     status: confirmed
     source_url: https://kobehyogoku-nagataku.goguynet.jp/2026/06/03/post-58807/
     source_name: 号外NET 神戸市兵庫区・長田区

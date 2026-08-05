@@ -9,23 +9,26 @@ area:
 venue:
   name: 東品川海上公園・天王洲公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.616935
+  lng: 139.749332
+organizer: しながわ運河まつり実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://unga.jp/unga/autumn/da8eea2f5f43a043a1e282ca2e3648d7/25002#top
 occurrences:
   - year: 2025
     dates:
       - 2025-10-11
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0313e567828/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: 東京モノレール天王洲アイル駅から徒歩6分

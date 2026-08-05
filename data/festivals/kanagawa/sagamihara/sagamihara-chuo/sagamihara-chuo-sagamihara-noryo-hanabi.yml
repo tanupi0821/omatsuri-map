@@ -7,24 +7,30 @@ area:
   city: 相模原市
   ward: 中央区
 venue:
-  name: 相模川 高田橋上流
+  name: 相模川 高田橋上流（相模原市中央区水郷田名）
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 相模原納涼花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 相模原納涼花火大会 公式
+    url: https://sagamiharahanabi.com/
+  - title: 相模原納涼花火大会 公式
+    url: https://sagamiharahanabi.com/
+  - title: 相模原納涼花火大会 公式
+    url: https://sagamiharahanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-05
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:15
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/list/ar0314/yatai/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://sagamiharahanabi.com/
+    source_name: 相模原納涼花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-05

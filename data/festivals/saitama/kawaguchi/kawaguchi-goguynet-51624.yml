@@ -9,10 +9,10 @@ area:
 venue:
   name: ぜひ今週末はキュポ・ラ広場
   address: null
-  lat: null
-  lng: null
+  lat: 35.801518
+  lng: 139.715977
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []

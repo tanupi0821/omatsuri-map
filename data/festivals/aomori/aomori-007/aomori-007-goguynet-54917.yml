@@ -21,10 +21,25 @@ occurrences:
     dates:
       - 2026-04-20
       - 2026-04-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://hirosaki.goguynet.jp/2026/04/21/umematsuri-tenmangu/
     source_name: 号外NET 弘前市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/a8/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A20100503.JPG
+    width: 1000
+    height: 750
+    credit: Crescent moon
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E7%9C%9F%E5%AE%A4%E5%B7%9D%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A20100503.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A.jpg/1280px-%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A.jpg
+    width: 1000
+    height: 750
+    credit: Unknown authorUnknown author
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A.jpg

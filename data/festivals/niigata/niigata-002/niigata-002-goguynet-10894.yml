@@ -9,8 +9,8 @@ area:
 venue:
   name: 味方野球場
   address: null
-  lat: null
-  lng: null
+  lat: 37.789834
+  lng: 139.00947
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:30
     status: confirmed
     source_url: https://niigatakonan-akiha-minami.goguynet.jp/2026/07/23/ajikatamaturi26/
     source_name: 号外NET 新潟市江南区・秋葉区・南区

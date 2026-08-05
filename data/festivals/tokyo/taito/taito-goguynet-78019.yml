@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 一葉桜開運振興会
 stalls: yes
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-20
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 17:00
     status: confirmed
     source_url: https://taito.goguynet.jp/2026/06/04/hydrangea/
     source_name: 号外NET 台東区

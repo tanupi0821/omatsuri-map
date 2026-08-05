@@ -9,22 +9,25 @@ area:
 venue:
   name: 滋賀県営大津港沖水面一帯
   address: null
-  lat: null
-  lng: null
+  lat: 35.013426
+  lng: 135.873134
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.biwako-visitors.jp/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0725e00765/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR大津駅から徒歩15分、京阪電鉄びわ湖浜大津駅から徒歩5分

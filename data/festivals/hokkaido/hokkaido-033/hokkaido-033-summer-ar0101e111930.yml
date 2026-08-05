@@ -9,13 +9,15 @@ area:
 venue:
   name: グリーンベルト
   address: 千歳市千代田町、幸町、栄町
-  lat: null
-  lng: null
+  lat: 42.825102
+  lng: 141.649519
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://yosakoi.welcome-to-chitose.jp/
 occurrences:
   - year: 2026
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e111930/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
+station: JR千歳駅から徒歩6分

@@ -31,3 +31,18 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「8月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg/1280px-%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg
+    width: 1000
+    height: 563
+    credit: Shizuha
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg/1280px-%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg
+    width: 1000
+    height: 563
+    credit: Shizuha
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg

@@ -9,22 +9,25 @@ area:
 venue:
   name: 葉桜ふれあい公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 32.433591
+  lng: 131.427766
+organizer: 御田祭実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.miyazaki-misato.lg.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-04
-    start_time: null
-    end_time: null
+    start_time: 20:15
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar1045e00334/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR日向市駅からバス(塚原行きまたは上椎葉行きで約50分)で美郷町役場前停留所下車、徒歩5分

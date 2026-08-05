@@ -9,14 +9,16 @@ area:
 venue:
   name: 東京サマーランド第2駐車場
   address: null
-  lat: null
-  lng: null
+  lat: 35.717793
+  lng: 139.263462
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://machizukuri-con.or.jp/
 occurrences:
   - year: 2025
     dates:
@@ -27,5 +29,6 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0313e561061/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR秋川駅からバスまたはタクシーで約20分

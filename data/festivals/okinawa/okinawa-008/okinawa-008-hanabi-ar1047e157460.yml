@@ -9,14 +9,16 @@ area:
 venue:
   name: 宜野座村農村公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 26.483934
+  lng: 127.973126
+organizer: 宜野座村観光商工課 人材サポートセンター
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.vill.ginoza.okinawa.jp/
 occurrences:
   - year: 2025
     dates:
@@ -28,5 +30,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1047e157460/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない

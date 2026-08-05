@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 鎌倉市内
-  address: null
+  address: 鎌倉市梶原1丁目11-1
   lat: null
   lng: null
 organizer: null
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kamakura-zushi.goguynet.jp/2026/07/15/fukasawanatumaturi/
     source_name: 号外NET 鎌倉市・逗子市

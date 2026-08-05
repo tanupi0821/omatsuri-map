@@ -8,15 +8,17 @@ area:
   ward: null
 venue:
   name: 梶原運動広場、安徳南小学校運動場
-  address: null
-  lat: null
-  lng: null
+  address: 那珂川市上梶原一丁目
+  lat: 33.496507
+  lng: 130.432754
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.nakagawa.lg.jp/soshiki/47/maturi2026.html
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar1040e00981/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: JR博多南駅からタクシーで約15分

@@ -9,23 +9,26 @@ area:
 venue:
   name: 登別温泉街
   address: 登別市登別温泉街
-  lat: null
-  lng: null
-organizer: null
+  lat: 42.493239
+  lng: 141.143049
+organizer: 登別国際観光コンベンション協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://noboribetsu-spa.jp/spot/spot1006/
 occurrences:
   - year: 2025
     dates:
       - 2025-08-30
       - 2025-08-31
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e72431/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-04
+    checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR登別駅からタクシーで15分

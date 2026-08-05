@@ -9,14 +9,16 @@ area:
 venue:
   name: 航空自衛隊入間基地
   address: null
-  lat: null
-  lng: null
+  lat: 35.840023
+  lng: 139.397474
 organizer: null
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mod.go.jp/asdf/iruma/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,5 @@ occurrences:
     source_url: https://hanabi.walkerplus.com/detail/ar0311e01021/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-03
+    checked_at: 2026-08-05
+station: 稲荷山門：西武鉄道稲荷山公園駅から徒歩10分

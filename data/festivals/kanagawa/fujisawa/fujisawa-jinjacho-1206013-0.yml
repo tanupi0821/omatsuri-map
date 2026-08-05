@@ -34,3 +34,18 @@ occurrences:
     checked_at: 2026-08-02
     note: 日付は神社庁が公開している例祭日「8月25日／8月25日近い日曜日／8月26日／8月27日」から導いたもので、神社が2026年の日程として発表したものではない
 stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fujisawa_Suwa-jinja_05.jpg/1280px-Fujisawa_Suwa-jinja_05.jpg
+    width: 1000
+    height: 750
+    credit: Thirteen-fri
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Fujisawa_Suwa-jinja_05.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fujisawa_Suwa-jinja_01b.jpg/1280px-Fujisawa_Suwa-jinja_01b.jpg
+    width: 1000
+    height: 750
+    credit: Thirteen-fri
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Fujisawa_Suwa-jinja_01b.jpg
