@@ -83,6 +83,9 @@ function parseList(html) {
       startDate: ev.startDate ?? null,
       endDate: ev.endDate ?? null,
       venue: loc.name ?? null,
+      // **住所を捨てていた。** JSON-LD には streetAddress が入っている。
+      // 会場名だけだと地図が引けず、「◯◯公園 盆踊り」の検索にも当たらない
+      address: addr.streetAddress ?? null,
       pref: addr.addressRegion ?? null,
       city: addr.addressLocality ?? null,
       description: (ev.description ?? '').slice(0, 300),

@@ -28,18 +28,3 @@ occurrences:
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itabashi_Hanabi_Taikai_Zenkei_1.jpg/1280px-Itabashi_Hanabi_Taikai_Zenkei_1.jpg
-    width: 1000
-    height: 1333
-    credit: 板橋区Open Photo
-    license: CC BY 4.0
-    license_url: https://creativecommons.org/licenses/by/4.0
-    source: https://commons.wikimedia.org/wiki/File:Itabashi_Hanabi_Taikai_Zenkei_1.jpg
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Itabashi_Fireworks_Festival_20230805c.jpg/1280px-Itabashi_Fireworks_Festival_20230805c.jpg
-    width: 1000
-    height: 889
-    credit: 江戸村のとくぞう
-    license: CC BY-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    source: https://commons.wikimedia.org/wiki/File:Itabashi_Fireworks_Festival_20230805c.jpg

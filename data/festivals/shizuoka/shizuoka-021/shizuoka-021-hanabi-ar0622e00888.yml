@@ -30,18 +30,3 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-03
     note: 掲載の2日付は期間の初日と最終日
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20130727200552_DSC_3411.JPG/1280px-20130727200552_DSC_3411.JPG
-    width: 1000
-    height: 662
-    credit: Krmt
-    license: CC BY-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    source: https://commons.wikimedia.org/wiki/File:20130727200552_DSC_3411.JPG
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20130727200752_DSC_3415.JPG/1280px-20130727200752_DSC_3415.JPG
-    width: 1000
-    height: 662
-    credit: Krmt
-    license: CC BY-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    source: https://commons.wikimedia.org/wiki/File:20130727200752_DSC_3415.JPG

@@ -28,18 +28,3 @@ occurrences:
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Noshiro_Fireworks_2017a.jpg/1280px-Noshiro_Fireworks_2017a.jpg
-    width: 1000
-    height: 750
-    credit: 掬茶
-    license: CC BY-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    source: https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2017a.jpg
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Noshiro_Fireworks_2017c.jpg/1280px-Noshiro_Fireworks_2017c.jpg
-    width: 1000
-    height: 750
-    credit: 掬茶
-    license: CC BY-SA 4.0
-    license_url: https://creativecommons.org/licenses/by-sa/4.0
-    source: https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2017c.jpg

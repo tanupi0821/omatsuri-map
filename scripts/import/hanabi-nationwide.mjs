@@ -93,6 +93,11 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
       name: it.name,
       kind: KIND(it.name),
       venue: it.venue ?? `${it.city}内`,
+      // emit() は住所に市区町村名を前置するので、出典側の「愛知県東海市中央町…」
+      // から都道府県＋市区町村を削っておく。でないと「東海市愛知県東海市…」になる
+      address: it.address
+        ? it.address.replace(new RegExp(`^${j.pref}\\s*${it.city}\\s*`), '') || null
+        : null,
       scale: '市',
       stalls: 'yes',
       tags: ['花火'],

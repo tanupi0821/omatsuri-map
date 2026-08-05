@@ -28,18 +28,3 @@ occurrences:
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A_-_panoramio.jpg/1280px-%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A_-_panoramio.jpg
-    width: 1000
-    height: 750
-    credit: 浅野ます道
-    license: CC BY 3.0
-    license_url: https://creativecommons.org/licenses/by/3.0
-    source: https://commons.wikimedia.org/wiki/File:%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A_-_panoramio.jpg
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%E6%97%A7%E5%8D%97%E9%83%A8%E6%A9%8B%EF%BC%88%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A%EF%BC%89_-_panoramio.jpg/1280px-%E6%97%A7%E5%8D%97%E9%83%A8%E6%A9%8B%EF%BC%88%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A%EF%BC%89_-_panoramio.jpg
-    width: 1000
-    height: 750
-    credit: 浅野ます道
-    license: CC BY 3.0
-    license_url: https://creativecommons.org/licenses/by/3.0
-    source: https://commons.wikimedia.org/wiki/File:%E6%97%A7%E5%8D%97%E9%83%A8%E6%A9%8B%EF%BC%88%E5%8D%97%E9%83%A8%E3%81%AE%E7%81%AB%E7%A5%AD%E3%82%8A%EF%BC%89_-_panoramio.jpg
