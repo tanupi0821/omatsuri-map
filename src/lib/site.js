@@ -30,7 +30,7 @@ export const TAGLINE = '全国｜町内会の盆踊りまで';
  */
 export const ADS = {
   /** ca-pub-… を入れると広告が出る。空なら何も出さない */
-  adsense: '',
+  adsense: 'ca-pub-9249302357436285',
   /** 記事下に出す広告ユニットの slot 番号 */
   slot: '',
   /** AdSense の管理画面に出る ads.txt の 1 行をそのまま */
