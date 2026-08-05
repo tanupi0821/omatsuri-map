@@ -103,8 +103,15 @@ const bare = place.replace(/[市区町村]$/, '');
 // 鎮座地の町名まで入れて初めて区別が付く
 // 住所は「横浜市青葉区元石川町」のように市も区も含む。素朴に最初の
 // 市区町村で切ると「青葉区元石川町」が残り、「横浜市青葉区青葉区…」になる
+//
+// **区が無い市（ward が null）では区での切り出しを試してはいけない。**
+// 選択肢を `^.*?${''}` にすると空文字にマッチして 1 文字も削られず、
+// town に市名ごと残って「藤沢市藤沢市藤沢 白旗神社…」になる（1206 件で発生していた）
+const cut = f.area.ward
+  ? new RegExp(`^.*?${f.area.ward}|^.*?[市区町村]`)
+  : /^.*?[市区町村]/;
 const town = (f.venue?.address ?? '')
-  .replace(new RegExp(`^.*?${f.area.ward ?? ''}|^.*?[市区町村]`), '')
+  .replace(cut, '')
   .replace(/[0-9０-９\-ー－].*$/, '')
   .trim();
 const where = town.length >= 2 && !place.includes(town) ? `${place}${town}` : place;
@@ -247,7 +254,7 @@ const desc = festivalMetaDescription(f);
       <ul class="nearby">
         {nearby.map(({ x, next, o }) => (
           <li>
-            <a href={`/f/${x.id}`}>
+            <a href={`/f/${x.id}/`}>
               <span class="n">{x.name}</span>
               <span class="d">{formatDates(o) || '日程未確認'}</span>
             </a>
@@ -259,6 +266,8 @@ const desc = festivalMetaDescription(f);
       <p><a href={`/a/${f._prefSlug}/${f._citySlug}/`}>{f.area.city}の祭りをすべて見る →</a></p>
     </>
   )}
+
+  <Ad />
 
   <p style="margin-top:32px"><a href={`/a/${f._prefSlug}/${f._citySlug}/`}>← {f.area.city}の一覧にもどる</a></p>
 

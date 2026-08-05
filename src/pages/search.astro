@@ -202,7 +202,7 @@ const stalls = festivals.filter((f) => f.stalls === 'yes').length;
       const slice = matched.slice(shown, shown + PAGE);
       const html = slice.map((x) => `
         <li class="card">
-          <a href="/f/${x.i}">
+          <a href="/f/${x.i}/">
             <div class="meta">
               <span class="badge">${x.k}</span>
               <span>${x.p} ${x.c}${x.w ? ' ' + x.w : ''}</span>

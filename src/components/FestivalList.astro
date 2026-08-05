@@ -88,7 +88,7 @@ const rows = festivals.map((f) => {
       data-q={[f.name, f.venue.name, f.organizer, f.shrine, f.area.city, f.area.ward]
         .filter(Boolean).join(' ')}
     >
-      <a href={`/f/${f.id}`}>
+      <a href={`/f/${f.id}/`}>
         {f.photos?.[0] && <img class="thumb" src={f.photos[0].url} alt="" loading="lazy" />}
         <div class="meta">
           <span class="badge">{f.kind}</span>
@@ -237,5 +237,15 @@ const rows = festivals.map((f) => {
   });
   stalls?.addEventListener('change', apply);
   q?.addEventListener('input', apply);
+
+  // 掲載が数件しかない市区町村では、既定の「これから」で 0 件になることが多い
+  // （765 市区町村のうち 249 で発生していた）。開いた瞬間「条件に合う祭りが
+  // ありません」しか出ないページは、中身が無いページに見える。
+  // 初回だけ、0 件なら「すべて」に落として過去の開催回を見せる
   apply();
+  if (!cards.some((c) => !c.hidden)) {
+    range = 'all';
+    tabs.forEach((x) => x.classList.toggle('on', x.dataset.range === 'all'));
+    apply();
+  }
 </script>
