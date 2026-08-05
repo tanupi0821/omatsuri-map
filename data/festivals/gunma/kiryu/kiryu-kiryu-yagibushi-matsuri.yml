@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 桐生市内各所
-  address: null
-  lat: null
-  lng: null
+  address: 桐生市内
+  lat: 36.404729
+  lng: 139.329271
 station: 桐生
-organizer: null
+organizer: 桐生市役所観光交流課
 tags:
   - 八木節
 description: null

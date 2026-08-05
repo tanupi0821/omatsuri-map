@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 岡崎市
+    url: https://okazaki.goguynet.jp/2026/07/25/milk-hanabi2026/
+  - title: 号外NET 岡崎市
+    url: https://okazaki.goguynet.jp/2026/07/31/okazakihanabi2026/
 occurrences:
   - year: 2026
     dates:

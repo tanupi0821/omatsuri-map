@@ -9,10 +9,10 @@ area:
 venue:
   name: サザンビーチちがさき
   address: null
-  lat: null
-  lng: null
+  lat: 35.313096
+  lng: 139.398881
 station: 茅ケ崎
-organizer: null
+organizer: 茅ヶ崎市観光協会
 tags:
   - 花火
 description: null

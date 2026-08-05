@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 東久留米市・清瀬市
+    url: https://higashikurume-kiyose.goguynet.jp/2026/07/28/22607hureairo-donatumatri/
 occurrences:
   - year: 2026
     dates:

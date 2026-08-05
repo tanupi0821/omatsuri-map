@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 甲州街道（西放射線ユーロード周辺）
-  address: null
-  lat: null
-  lng: null
+  address: 八王子市横山町
+  lat: 35.6598
+  lng: 139.339065
 station: 八王子
-organizer: null
+organizer: 八王子まつり実行委員会事務局
 stalls: yes
 tags:
   - 山車
@@ -29,8 +29,8 @@ occurrences:
       - 2026-08-07
       - 2026-08-08
       - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
     source_name: 夏休みおでかけガイド（ウォーカープラス）

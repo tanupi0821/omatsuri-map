@@ -14,11 +14,15 @@ venue:
 station: 逗子
 organizer: 亀岡八幡宮
 shrine: 亀岡八幡宮
-stalls: unknown
+stalls: yes
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 号外NET 鎌倉市・逗子市
+    url: https://kamakura-zushi.goguynet.jp/2026/07/10/kameokareitaisai/
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1205122-000/
 occurrences:
   - year: 2026
     dates:
@@ -32,3 +36,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-02
     note: 7/15 宵宮、7/16 本宮
+recurrence: 7月16日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205122-000/

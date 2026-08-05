@@ -11,13 +11,17 @@ venue:
   address: 千代田区丸の内2-2
   lat: 35.682122
   lng: 139.762603
-organizer: null
+organizer: 大手町・丸の内・有楽町夏祭り実行委員会
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.marunouchi.com/pickup/event/9833/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31534/
 occurrences:
   - year: 2026
     dates:
@@ -28,5 +32,15 @@ occurrences:
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557247/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
+    checked_at: 2026-08-05
+  - year: 2025
+    dates:
+      - 2025-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31534/
+    source_name: 東京フェスタ
+    source_type: media
     checked_at: 2026-08-05
 station: JR・東京メトロ東京駅からすぐ

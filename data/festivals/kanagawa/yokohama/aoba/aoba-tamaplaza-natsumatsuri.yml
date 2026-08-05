@@ -9,8 +9,8 @@ area:
 venue:
   name: たまプラーザ テラス、駅前通り商店会、中央通り商店街、東急百貨店
   address: null
-  lat: null
-  lng: null
+  lat: 35.581857
+  lng: 139.553385
 organizer: null
 tags: []
 description: null
@@ -22,8 +22,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
     source_name: 号外NET 横浜市緑区・青葉区

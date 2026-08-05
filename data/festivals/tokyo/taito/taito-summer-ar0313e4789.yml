@@ -11,13 +11,19 @@ venue:
   address: 台東区上野公園
   lat: 35.712336
   lng: 139.772326
-organizer: null
+organizer: 一般社団法人上野観光連盟
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://ueno.or.jp/
+  - title: 号外NET 台東区
+    url: https://taito.goguynet.jp/2026/07/22/summer/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31312/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
 occurrences:
   - year: 2026
     dates:

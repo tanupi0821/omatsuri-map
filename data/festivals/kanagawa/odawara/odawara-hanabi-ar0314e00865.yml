@@ -19,12 +19,16 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.odawara-kankou.com/
+  - title: レアリア
+    url: https://rarea.events/event/303230
+  - title: 神奈川すまいラボ
+    url: https://kanagawa-sumai-labo.com/odawara-shi-natsumatsuri/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 20:10
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00865/
     source_name: 花火大会2026（ウォーカープラス）

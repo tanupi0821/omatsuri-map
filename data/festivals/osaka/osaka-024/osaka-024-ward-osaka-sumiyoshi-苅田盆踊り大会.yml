@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: 苅田地域活動協議会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市住吉区・東住吉区
+    url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/08/03/karitabonodori/
 occurrences:
   - year: 2026
     dates:

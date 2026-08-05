@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://hanabi.csa.gr.jp/
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/list/ar0313/yatai/
 occurrences:
   - year: 2026
     dates:
@@ -31,3 +33,18 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 布田会場：京王線布田駅から徒歩20分、調布駅・国領駅から徒歩25分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fireworks_%E8%8A%B1%E7%81%AB_%2848693032326%29.jpg/1280px-Fireworks_%E8%8A%B1%E7%81%AB_%2848693032326%29.jpg
+    width: 1000
+    height: 750
+    credit: nakashi from Chofu, Tokyo, JAPAN
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:Fireworks_%E8%8A%B1%E7%81%AB_(48693032326).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fireworks_%E8%8A%B1%E7%81%AB_%2848692933843%29.jpg/1280px-Fireworks_%E8%8A%B1%E7%81%AB_%2848692933843%29.jpg
+    width: 1000
+    height: 750
+    credit: nakashi from Chofu, Tokyo, JAPAN
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:Fireworks_%E8%8A%B1%E7%81%AB_(48692933843).jpg

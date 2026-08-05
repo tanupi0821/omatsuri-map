@@ -23,8 +23,8 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 15:30
+    end_time: 21:00
     status: confirmed
     source_url: https://suginami.mypl.net/article/summer-fes_suginami
     source_name: まいぷれ[杉並区]

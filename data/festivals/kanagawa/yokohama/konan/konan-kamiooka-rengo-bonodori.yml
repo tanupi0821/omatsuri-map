@@ -9,13 +9,15 @@ area:
 venue:
   name: 上大岡公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.403505
+  lng: 139.593487
 organizer: 上大岡連合町内会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 横浜市港南区・栄区
+    url: https://yokohamakonan-sakae.goguynet.jp/2026/07/04/bonodori-kamioooka2026/
 occurrences:
   - year: 2026
     dates:

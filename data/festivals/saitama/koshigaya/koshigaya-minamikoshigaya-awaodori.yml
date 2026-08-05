@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 南越谷駅・新越谷駅周辺
-  address: null
-  lat: null
-  lng: null
+  address: 越谷市南越谷
+  lat: 35.875348
+  lng: 139.790722
 station: 南越谷
-organizer: null
+organizer: 南越谷阿波踊り振興会
 stalls: yes
 tags: []
 description: null

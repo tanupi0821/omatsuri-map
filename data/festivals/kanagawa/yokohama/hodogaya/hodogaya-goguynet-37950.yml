@@ -11,13 +11,15 @@ venue:
   address: 横浜市保土ケ谷区岡沢町273
   lat: null
   lng: null
-organizer: null
+organizer: 陸上自衛隊
 stalls: yes
 tags: []
 description: null
 links:
   - title: 横浜駐屯地の公式ホームページ
     url: https://www.mod.go.jp/gsdf/yokohama/sp_400-event.html
+  - title: 神奈川すまいラボ
+    url: https://kanagawa-sumai-labo.com/hodogaya-ku-natsumatsuri/
 occurrences:
   - year: 2026
     dates:

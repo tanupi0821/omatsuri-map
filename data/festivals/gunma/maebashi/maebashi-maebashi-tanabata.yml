@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 前橋市中心商店街
-  address: null
-  lat: null
-  lng: null
+  address: 前橋市千代田町
+  lat: 36.391855
+  lng: 139.069126
 station: 前橋
-organizer: null
+organizer: 前橋七夕まつり実施委員会
 tags: []
 description: null
 links:

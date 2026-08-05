@@ -9,9 +9,9 @@ area:
 venue:
   name: 元町港・元町港ロータリー付近
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 34.752051
+  lng: 139.34902
+organizer: 大島町商工会
 stalls: yes
 tags:
   - 花火

@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 陸上自衛隊勝田駐屯地
-  address: null
-  lat: null
-  lng: null
+  address: ひたちなか市大字勝倉
+  lat: 36.38198
+  lng: 140.530943
 station: 勝田
-organizer: null
+organizer: ひたちなか祭り実行委員会事務局
 stalls: yes
 tags:
   - 花火
@@ -25,8 +25,8 @@ occurrences:
     dates:
       - 2026-08-22
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/list/ar0308/yatai/
     source_name: 花火大会2026（ウォーカープラス）

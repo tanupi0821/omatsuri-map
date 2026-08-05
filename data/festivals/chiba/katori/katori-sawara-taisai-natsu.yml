@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 八坂神社および小野川周辺（佐原本宿地区）
-  address: null
-  lat: null
-  lng: null
+  address: 香取市佐原
+  lat: 35.889905
+  lng: 140.501526
 recurrence: 7月10日以降の金・土・日曜日
 recurrence_source: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/natsu.html
 organizer: 八坂神社
@@ -38,3 +38,4 @@ occurrences:
     checked_at: 2026-08-02
     note: 関東三大山車祭りのひとつ。2026年は成田祇園祭と11年ぶりに同日開催
 stalls: yes
+station: JR佐原駅から徒歩10分

@@ -15,7 +15,9 @@ organizer: 下里住宅自治会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 東久留米市・清瀬市
+    url: https://higashikurume-kiyose.goguynet.jp/2026/07/31/202607simosatonomaturi/
 occurrences:
   - year: 2026
     dates:

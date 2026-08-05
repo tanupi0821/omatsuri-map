@@ -9,8 +9,8 @@ area:
 venue:
   name: 渡良瀬遊水地
   address: 栃木市藤岡
-  lat: null
-  lng: null
+  lat: 36.256375
+  lng: 139.656664
 organizer: null
 tags:
   - 花火
@@ -33,11 +33,12 @@ occurrences:
   - year: 2025
     dates:
       - 2025-10-25
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0309e522950/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
 stalls: yes
+station: 東武日光線藤岡駅から徒歩15分

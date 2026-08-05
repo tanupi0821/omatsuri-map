@@ -12,16 +12,18 @@ venue:
   lat: null
   lng: null
 organizer: 折尾まつり実行委員会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 北九州市八幡西区・八幡東区・若松区
+    url: https://kitakyushuyahatanishi.goguynet.jp/2026/06/03/oriomaturi-2/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-06
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://www.city.kitakyushu.lg.jp/yahatanishi/w6200022.html
     source_name: 北九州市八幡西区

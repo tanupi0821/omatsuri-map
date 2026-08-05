@@ -9,15 +9,19 @@ area:
 venue:
   name: 三浦海岸沿岸
   address: null
-  lat: null
-  lng: null
+  lat: 35.186371
+  lng: 139.657832
 station: 三浦海岸
-organizer: null
+organizer: 一社)三浦市観光協会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 号外NET 横須賀市・三浦市
+    url: https://yokosuka.goguynet.jp/2026/07/20/miurakaiganhanabinouryoumatsuri2026/
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0314e00279/
 occurrences:
   - year: 2026
     dates:

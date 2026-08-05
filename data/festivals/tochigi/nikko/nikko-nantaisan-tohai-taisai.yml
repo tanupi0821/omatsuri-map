@@ -16,7 +16,9 @@ shrine: 日光二荒山神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 日光市・鹿沼市
+    url: https://nikko-kanuma.goguynet.jp/2026/07/21/nantaisan_tohaitaisai-3/
 occurrences:
   - year: 2026
     dates:

@@ -24,8 +24,8 @@ occurrences:
       - 2026-07-18
       - 2026-07-25
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ube-sanyoonoda.goguynet.jp/2026/07/15/2026_satmarket/
     source_name: 号外NET 宇部市・山陽小野田市

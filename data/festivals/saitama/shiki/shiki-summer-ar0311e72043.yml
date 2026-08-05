@@ -18,6 +18,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://shikishima-jinja.com/summer_festival/
+  - title: 号外NET 新座市・志木市
+    url: https://niiza-shiki.goguynet.jp/2026/07/13/shikisai-partners-6/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
 occurrences:
   - year: 2026
     dates:
@@ -32,3 +36,4 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: 東武東上線志木駅から徒歩7分
+shrine: 敷島神社

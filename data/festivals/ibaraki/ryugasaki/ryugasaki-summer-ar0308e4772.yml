@@ -13,11 +13,14 @@ venue:
   lng: 140.182326
 organizer: 龍ケ崎市商工観光課
 stalls: yes
-tags: []
+tags:
+  - 重要無形民俗文化財
 description: null
 links:
   - title: 公式サイト
     url: https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/2.html
 occurrences:
   - year: 2026
     dates:

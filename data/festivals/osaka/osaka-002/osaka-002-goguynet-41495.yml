@@ -9,8 +9,8 @@ area:
 venue:
   name: 芥川商店街
   address: null
-  lat: null
-  lng: null
+  lat: 34.852465
+  lng: 135.61169
 organizer: null
 stalls: yes
 tags: []

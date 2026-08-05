@@ -24,8 +24,8 @@ occurrences:
       - 2026-07-17
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:00
     status: confirmed
     source_url: https://aizu.goguynet.jp/2026/06/27/machinakanatumaturi/
     source_name: 号外NET 会津若松市・喜多方市

@@ -18,6 +18,10 @@ description: null
 links:
   - title: 公式サイト
     url: http://www.shinbashi.net/top/koichi/2026/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/29820/
 occurrences:
   - year: 2026
     dates:
@@ -32,3 +36,18 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: JR・東京メトロ・都営地下鉄・ゆりかもめ新橋駅からすぐ
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shimbashi_koichi_festival_2018_7_26_various.jpeg/1280px-Shimbashi_koichi_festival_2018_7_26_various.jpeg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Shimbashi_koichi_festival_2018_7_26_various.jpeg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg/1280px-Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg

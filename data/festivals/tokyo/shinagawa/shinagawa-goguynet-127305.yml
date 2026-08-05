@@ -9,8 +9,8 @@ area:
 venue:
   name: アイルしながわ（品川区東品川2-3）
   address: 品川区東品川2-3
-  lat: null
-  lng: null
+  lat: 35.62254
+  lng: 139.748826
 organizer: null
 stalls: unknown
 tags: []
@@ -18,13 +18,15 @@ description: null
 links:
   - title: ホームページ
     url: https://www.tennozmarket.com/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31642/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://shinagawa.goguynet.jp/2026/06/23/tennnouzunatuiyasai-with-okinawa/
     source_name: 号外NET 品川区

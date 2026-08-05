@@ -18,13 +18,15 @@ description: null
 links:
   - title: 公式サイト
     url: https://kankou43yokkaichi.com/matsuri/
+  - title: 号外NET 四日市市
+    url: https://yokkaichi.goguynet.jp/2026/07/30/daiyokkaichimatsuri2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 08:30
+    end_time: 16:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0624e507840/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）

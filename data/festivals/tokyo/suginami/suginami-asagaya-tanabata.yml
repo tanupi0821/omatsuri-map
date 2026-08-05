@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 阿佐谷パールセンター商店街ほか
-  address: null
-  lat: null
-  lng: null
+  address: 杉並区阿佐谷
+  lat: 35.704676
+  lng: 139.636807
 station: 阿佐ケ谷
-organizer: null
+organizer: 阿佐ケ谷商店街振興組合
 stalls: yes
 tags: []
 description: null
@@ -27,8 +27,8 @@ occurrences:
       - 2026-08-09
       - 2026-08-10
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
     source_name: 夏休みおでかけガイド（ウォーカープラス）

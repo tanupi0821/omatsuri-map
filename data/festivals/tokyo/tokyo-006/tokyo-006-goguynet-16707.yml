@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 武蔵野市・小金井市
+    url: https://musashino.goguynet.jp/2026/07/14/maturi/
 occurrences:
   - year: 2026
     dates:

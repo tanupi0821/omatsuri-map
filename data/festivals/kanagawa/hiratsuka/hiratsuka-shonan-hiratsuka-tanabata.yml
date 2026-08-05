@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: JR平塚駅北口商店街一帯（湘南スターモールほか）
-  address: null
-  lat: null
-  lng: null
+  address: 平塚市紅谷町
+  lat: 35.328932
+  lng: 139.350574
 station: 平塚
-organizer: null
+organizer: 湘南ひらつか七夕まつり実行委員会
 tags: []
 description: null
 links:
@@ -25,7 +25,7 @@ occurrences:
       - 2026-07-03
       - 2026-07-04
       - 2026-07-05
-    start_time: null
+    start_time: 20:30
     end_time: null
     status: confirmed
     source_url: https://kanagawa-sumai-labo.com/hiratsuka-shi-natsumatsuri/

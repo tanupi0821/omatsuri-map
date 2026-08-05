@@ -17,12 +17,24 @@
  * 残す方は出典の質で決める（公式 > 行政 > メディア > まとめ）。
  * 消す方が持っていた屋台の有無・写真・リンク・日付は残す方に移す。
  */
-import { readdirSync, readFileSync, writeFileSync, statSync, unlinkSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, statSync, unlinkSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { parse, stringify } from 'yaml';
 import { ROOT } from './import/_lib.mjs';
 
 const APPLY = process.argv.includes('--apply');
+
+/**
+ * **統合済みの記録**。これが無いと、消しても次の `npm run collect` で
+ * 取り込み側が同じ祭りを作り直してしまう（実際に 238 件が復活した）。
+ * 消した id と、その代わりに残した id を覚えておき、
+ * 復活したものは毎回だまって片付ける。
+ *
+ * 「新しく統合する」のは --apply のときだけ。**一度も人の目を通していない
+ * 統合を勝手に実行しない**（小さな祭りが黙って減るのが一番こわい）。
+ */
+const MERGED = join(ROOT, 'data', 'merged.json');
+const mergedInto = existsSync(MERGED) ? JSON.parse(readFileSync(MERGED, 'utf8')) : {};
 
 /**
  * 統合してよい組の目印になる id。
@@ -64,6 +76,17 @@ const files = [];
     else if (e.endsWith('.yml')) files.push(p);
   }
 })(join(ROOT, 'data', 'festivals'));
+
+// 取り込みで復活した統合済みの id を片付ける
+let revived = 0;
+for (let i = files.length - 1; i >= 0; i--) {
+  const f = parse(readFileSync(files[i], 'utf8'));
+  if (!mergedInto[f.id]) continue;
+  unlinkSync(files[i]);
+  files.splice(i, 1);
+  revived++;
+}
+if (revived) console.log(`統合済みなのに取り込みで戻っていた ${revived} 件を片付けた`);
 
 const groups = new Map();
 for (const path of files) {
@@ -134,6 +157,28 @@ for (const [key, items] of groups) {
       k.photos = [...(k.photos ?? []), ...o.photos.filter((p) => !have.has(p.url))];
     }
 
+    /**
+     * **統合で情報を減らさない。** 消す方にしか無い項目を引き取る。
+     *
+     * 花火大会の 924 件は、地図埋め込みの緯度経度を逆ジオコーディングして
+     * ようやく住所を入れたもの。ここで引き取らないと、記事版が残ったときに
+     * 住所・最寄駅・主催がまるごと消える。
+     * 残す方に入っている値は正しいものとして扱い、上書きはしない。
+     */
+    if (!k.venue.address && o.venue?.address) k.venue.address = o.venue.address;
+    if (k.venue.lat == null && o.venue?.lat != null) {
+      k.venue.lat = o.venue.lat;
+      k.venue.lng = o.venue.lng;
+    }
+    if (!k.organizer && o.organizer) k.organizer = o.organizer;
+    if (!k.station && o.station) k.station = o.station;
+    if (!k.shrine && o.shrine) k.shrine = o.shrine;
+    if (!k.recurrence && o.recurrence) {
+      k.recurrence = o.recurrence;
+      k.recurrence_source = o.recurrence_source;
+    }
+    if (o.tags?.length) k.tags = [...new Set([...(k.tags ?? []), ...o.tags])];
+
     // 消す方の出典は、裏取りの手がかりとしてリンクに残す
     const links = k.links ?? [];
     for (const oc of o.occurrences) {
@@ -152,6 +197,11 @@ for (const [key, items] of groups) {
         mine.status = oc.status;
         mine.note = [mine.note, `日付は${oc.source_name ?? '別の出典'}による`].filter(Boolean).join('／');
       }
+      // 時刻も同じ。片方にしか無いことが多い
+      if (!mine.start_time && oc.start_time) {
+        mine.start_time = oc.start_time;
+        mine.end_time = mine.end_time ?? oc.end_time;
+      }
     }
     k.occurrences.sort((a, b) => b.year - a.year);
   }
@@ -163,9 +213,17 @@ for (const [key, items] of groups) {
 
   if (APPLY) {
     writeFileSync(keep.path, stringify(k, { lineWidth: 0 }), 'utf8');
-    for (const x of others) unlinkSync(x.path);
+    for (const x of others) {
+      mergedInto[x.f.id] = k.id;
+      unlinkSync(x.path);
+    }
   }
 }
 
 console.log(`\n${APPLY ? 'まとめた' : 'まとめる候補'}: ${merged} 組 / ${removed} 件を削除`
   + `${APPLY ? '' : '\n（--apply を付けると実際に書き換える）'}`);
+
+if (APPLY) {
+  writeFileSync(MERGED, `${JSON.stringify(mergedInto, null, 2)}
+`, 'utf8');
+}

@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://teganuma-hanabi.kashiwa-cci.or.jp/
+  - title: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
 occurrences:
   - year: 2026
     dates:
@@ -31,3 +33,11 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR北柏駅から徒歩25分、JR柏駅東口から徒歩40分(柏会場・有料観覧エリア)
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Teganuma_Fireworks_Festival_2014.jpg/1280px-Lake_Teganuma_Fireworks_Festival_2014.jpg
+    width: 1000
+    height: 667
+    credit: Takarkey
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:Lake_Teganuma_Fireworks_Festival_2014.jpg

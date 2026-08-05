@@ -11,13 +11,17 @@ venue:
   address: 千代田区大手町1丁目
   lat: 35.687984
   lng: 139.765407
-organizer: null
+organizer: 大手町・丸の内・有楽町夏祭り実行委員会
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.marunouchi.com/pickup/event/9868/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31538/
 occurrences:
   - year: 2026
     dates:

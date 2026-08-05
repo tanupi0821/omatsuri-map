@@ -9,15 +9,19 @@ area:
 venue:
   name: ふらっとにっぽり
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.728853
+  lng: 139.774847
+organizer: 荒川区
 stalls: unknown
 tags: []
 description: null
 links:
   - title: 荒川区公式サイト／日暮里繊維街夏祭り in ふらっとにっぽり
     url: https://www.city.arakawa.tokyo.jp/a020/sangyou/furattonippori/natsumatsuri2026.html
+  - title: 号外NET 荒川区
+    url: https://arakawa.goguynet.jp/2026/07/03/monofes-3/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31574/
 occurrences:
   - year: 2026
     dates:

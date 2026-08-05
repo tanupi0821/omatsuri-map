@@ -13,11 +13,15 @@ venue:
   lng: 139.320692
 organizer: 尾島ねぷたまつり実行委員会
 stalls: yes
-tags: []
+tags:
+  - ねぷた
+  - 山車
 description: null
 links:
   - title: 公式サイト
     url: https://www.city.ota.gunma.jp/site/kankou/1037648.html
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
 occurrences:
   - year: 2026
     dates:

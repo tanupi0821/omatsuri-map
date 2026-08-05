@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: JR福生駅・牛浜駅周辺
-  address: null
-  lat: null
-  lng: null
+  address: 福生市大字福生
+  lat: 35.741611
+  lng: 139.326903
 station: 福生
-organizer: null
+organizer: 七夕まつり実行委員会事務局
 stalls: yes
 tags: []
 description: null

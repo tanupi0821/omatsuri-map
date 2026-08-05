@@ -11,7 +11,7 @@
     "import": "node scripts/import-all.mjs",
     "enrich": "node scripts/enrich-all.mjs",
     "areas": "node scripts/gen-areas.mjs saitama && node scripts/gen-areas.mjs tokyo",
-    "collect": "npm run areas && node scripts/import-all.mjs && node scripts/enrich-all.mjs && node scripts/validate.mjs"
+    "collect": "npm run areas && node scripts/import-all.mjs && node scripts/enrich-all.mjs && node scripts/dedupe.mjs && node scripts/validate.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

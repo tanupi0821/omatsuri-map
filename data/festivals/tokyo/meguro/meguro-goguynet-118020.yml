@@ -9,13 +9,15 @@ area:
 venue:
   name: 】フナイリバ（⽬⿊区中⽬⿊1-11-18）
   address: 目黒区中目黒3-1-6
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.641551
+  lng: 139.69954
+organizer: 中目黒盆踊り大会実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/32273/
 occurrences:
   - year: 2026
     dates:

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: サンシャインシティ 噴水広場
-  address: null
-  lat: null
-  lng: null
+  address: 豊島区東池袋3-1
+  lat: 35.72889
+  lng: 139.719784
 station: 東池袋
 organizer: null
 stalls: yes
@@ -27,8 +27,8 @@ occurrences:
       - 2026-07-30
       - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:15
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
     source_name: 夏休みおでかけガイド（ウォーカープラス）

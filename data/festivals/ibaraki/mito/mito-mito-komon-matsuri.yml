@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 国道50号（水戸駅北口〜大工町交差点）・千波湖
-  address: null
-  lat: null
-  lng: null
+  address: 水戸市三の丸、南町、泉町、大工町
+  lat: 36.374813
+  lng: 140.473266
 station: 水戸
-organizer: null
+organizer: 水戸観光コンベンション協会
 stalls: yes
 tags:
   - 花火

@@ -18,6 +18,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.tatebayashi.gunma.jp/s059/kanko/020/20210506113415.html
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
 occurrences:
   - year: 2026
     dates:
@@ -32,3 +34,11 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: 東武鉄道館林駅から徒歩5分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yagoe_building_-_In_Festival.jpg/1280px-Yagoe_building_-_In_Festival.jpg
+    width: 1000
+    height: 750
+    credit: Kochizufan
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Yagoe_building_-_In_Festival.jpg

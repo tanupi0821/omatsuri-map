@@ -13,11 +13,14 @@ venue:
   lng: 139.482879
 organizer: 川越百万灯夏まつり実行委員会
 stalls: yes
-tags: []
+tags:
+  - 灯籠
 description: null
 links:
   - title: 公式サイト
     url: https://www.kawagoe.or.jp/natsumatsuri/
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
 occurrences:
   - year: 2026
     dates:

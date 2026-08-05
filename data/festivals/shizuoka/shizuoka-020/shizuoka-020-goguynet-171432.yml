@@ -8,22 +8,32 @@ area:
   ward: null
 venue:
   name: ）・JinCafe／庭園内（吉原駅北口そば）
-  address: null
+  address: 富士市吉原
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 富士市・富士宮市
+    url: https://fuji-fujinomiya.goguynet.jp/2026/06/11/gionnsai-3/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-12
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 12:00
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/06/12/hana-4/
     source_name: 号外NET 富士市・富士宮市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg/1280px-Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg
+    width: 1000
+    height: 1333
+    credit: Sai10ukazuki
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg

@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: JR茂原駅周辺の商店街
-  address: null
-  lat: null
-  lng: null
+  address: 茂原市町保
+  lat: 35.426793
+  lng: 140.303934
 station: 茂原
-organizer: null
+organizer: 茂原七夕まつり実行委員会
 tags: []
 description: null
 links:

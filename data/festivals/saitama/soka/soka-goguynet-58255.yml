@@ -8,12 +8,13 @@ area:
   ward: null
 venue:
   name: そうか公園
-  address: null
+  address: 草加市柿木町
   lat: 35.861771
   lng: 139.824333
-organizer: null
+organizer: 草加市みんなでまちづくり課
 stalls: yes
-tags: []
+tags:
+  - 花火
 description: null
 links:
   - title: 号外NET 草加市
@@ -29,10 +30,11 @@ occurrences:
     dates:
       - 2026-06-03
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://soka.goguynet.jp/2026/06/04/sokashiminnouryodaihanabitaikai2026/
     source_name: 号外NET 草加市
     source_type: media
     checked_at: 2026-08-04
+station: 東武スカイツリーライン獨協大学前(草加松原)駅から東武バス新田駅東口行で約15分、総合グランド前下車徒歩1分

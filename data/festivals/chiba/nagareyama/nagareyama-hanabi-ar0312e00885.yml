@@ -19,7 +19,21 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.nagareyama.chiba.jp/tourism/1013059/1050206.html
+  - title: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00885/
 occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 18:00
+    end_time: 18:40
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
   - year: 2025
     dates:
       - 2025-10-04

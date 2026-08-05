@@ -8,23 +8,27 @@ area:
   ward: null
 venue:
   name: 入谷鬼子母神（真源寺）・言問通り
-  address: null
-  lat: null
-  lng: null
+  address: 台東区下谷1-12-16
+  lat: 35.719899
+  lng: 139.782698
 station: 入谷
-organizer: null
+organizer: 下谷観光連盟・入谷朝顔実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 台東区
+    url: https://taito.goguynet.jp/2026/07/04/asagao-2/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e189588/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-06
       - 2026-07-07
       - 2026-07-08
-    start_time: null
-    end_time: null
+    start_time: 05:00
+    end_time: 23:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
     source_name: 夏休みおでかけガイド（ウォーカープラス）
@@ -45,3 +49,10 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Iriyaasagaomatsuri-tag-july8-2016.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Iriya_Asagao_Matsuri_-_for_sale_-_July_8_2015.jpg/1280px-Iriya_Asagao_Matsuri_-_for_sale_-_July_8_2015.jpg
+    width: 1000
+    height: 798
+    credit: Nesnad
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0
+    source: https://commons.wikimedia.org/wiki/File:Iriya_Asagao_Matsuri_-_for_sale_-_July_8_2015.jpg

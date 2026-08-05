@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 六本木ヒルズ アリーナ
-  address: null
-  lat: null
-  lng: null
+  address: 港区六本木6-10-1 ほか
+  lat: 35.660539
+  lng: 139.729139
 station: 六本木
-organizer: null
+organizer: 六本木ヒルズ自治会
 stalls: yes
 tags: []
 description: null

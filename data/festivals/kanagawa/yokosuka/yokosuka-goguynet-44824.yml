@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 横須賀市・三浦市
+    url: https://yokosuka.goguynet.jp/2026/07/14/buchiagesummer-2026-soleil/
 occurrences:
   - year: 2026
     dates:

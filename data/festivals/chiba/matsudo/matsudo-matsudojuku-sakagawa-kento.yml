@@ -23,8 +23,8 @@ occurrences:
     dates:
       - 2026-08-09
       - 2026-08-10
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
     source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 川口駅前・本町大通り
-  address: null
-  lat: null
-  lng: null
+  address: 川口市幸町2丁目
+  lat: 35.805832
+  lng: 139.719821
 station: 川口
 organizer: null
 stalls: yes
@@ -27,8 +27,8 @@ occurrences:
       - 2026-07-05
       - 2026-07-06
       - 2026-07-07
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 20:30
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
     source_name: 夏休みおでかけガイド（ウォーカープラス）

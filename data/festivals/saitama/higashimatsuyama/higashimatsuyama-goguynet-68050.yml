@@ -25,8 +25,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 14:00
     status: confirmed
     source_url: https://sakado-tsurugashima.goguynet.jp/2026/07/08/higashimatsuyama-natsumatsuri2026/
     source_name: 号外NET 坂戸市・鶴ヶ島市

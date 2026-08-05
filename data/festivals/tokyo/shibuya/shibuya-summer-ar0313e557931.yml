@@ -11,13 +11,17 @@ venue:
   address: 渋谷区道玄坂2-29-1
   lat: 35.659573
   lng: 139.699085
-organizer: null
+organizer: 渋谷道玄坂商店街振興組合
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://shibuyadogenzaka.com/?p=9030
+  - title: 夏休みおでかけガイド（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31513/
 occurrences:
   - year: 2026
     dates:

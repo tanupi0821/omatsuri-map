@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 弘前市
+    url: https://hirosaki.goguynet.jp/2026/07/06/craft-hirosaki/
 occurrences:
   - year: 2026
     dates:

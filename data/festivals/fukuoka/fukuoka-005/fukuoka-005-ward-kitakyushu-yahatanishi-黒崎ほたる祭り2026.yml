@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: 黒崎ほたる祭り実行委員会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 北九州市八幡西区・八幡東区・若松区
+    url: https://kitakyushuyahatanishi.goguynet.jp/2026/05/21/kurosakihotarumaturi/
 occurrences:
   - year: 2026
     dates:

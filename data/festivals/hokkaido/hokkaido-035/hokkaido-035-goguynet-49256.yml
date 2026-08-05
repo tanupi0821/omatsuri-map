@@ -8,12 +8,13 @@ area:
   ward: null
 venue:
   name: 上磯漁港
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 北斗市飯生一丁目
+  lat: 41.816217
+  lng: 140.649901
+organizer: 北斗夏まつり協賛花火大会実行委員会
 stalls: yes
-tags: []
+tags:
+  - 花火
 description: null
 links:
   - title: 屋台が出ると出典に記載
@@ -23,10 +24,11 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 19:40
+    end_time: 20:10
     status: confirmed
     source_url: https://hakodate.goguynet.jp/2026/07/22/post-49256/
     source_name: 号外NET 函館市
     source_type: media
     checked_at: 2026-08-04
+station: JR上磯駅から徒歩10分

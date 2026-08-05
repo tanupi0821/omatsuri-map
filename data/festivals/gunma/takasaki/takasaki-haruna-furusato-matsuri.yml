@@ -9,8 +9,8 @@ area:
 venue:
   name: 烏川公園
   address: 高崎市下室田町
-  lat: null
-  lng: null
+  lat: 36.38244
+  lng: 138.886609
 recurrence: 8月15日
 recurrence_source: https://www.city.takasaki.gunma.jp/site/digital/44456.html
 organizer: 榛名支所産業観光課
@@ -44,3 +44,4 @@ occurrences:
     checked_at: 2026-08-03
     note: 2024年（令和6年）の記事。2026年の日程は未確認
 stalls: yes
+station: JR高崎駅から群馬バス本郷経由室田行きで約30分、下室田小学校前停留所下車徒歩7分

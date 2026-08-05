@@ -12,18 +12,20 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 周南市・下松市・光市
+    url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/06/26/2026-7-8shunanevent/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
     source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/07/16/2026-7-18-19-20event-shunan/
     source_name: 号外NET 周南市・下松市・光市
