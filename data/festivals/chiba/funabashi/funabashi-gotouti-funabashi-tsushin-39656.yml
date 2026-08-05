@@ -1,0 +1,29 @@
+id: funabashi-gotouti-funabashi-tsushin-39656
+name: 栄町一丁目 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 栄町一丁目公園
+  address: 船橋市栄町1-6-19
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://funabashi-tsushin.com/39656.html
+    source_name: 船橋つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 緑の島
-  address: 函館市大町
+  address: 北海道函館市大町15
   lat: 41.771568
   lng: 140.714289
-organizer: null
+organizer: 函館港まつり実行委員会・北海道新聞函館支社
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,18 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.hokkaido-np.co.jp/hanabi2026/hakodate/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e00710/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
     start_time: 19:45
-    end_time: 21:00
+    end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00710/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR函館駅から徒歩5分
+    source_url: https://www.hokkaido-np.co.jp/hanabi2026/hakodate/
+    source_name: 北海道新聞函館支社（主催）
+    source_type: official
+    checked_at: 2026-08-06
+    note: 小雨決行、荒天の場合は8月5日（水）に延期予定
+station: JR函館駅

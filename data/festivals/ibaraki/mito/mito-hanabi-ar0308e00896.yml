@@ -11,7 +11,7 @@ venue:
   address: 水戸市千波町
   lat: 36.370968
   lng: 140.454187
-organizer: 水戸観光コンベンション協会
+organizer: 水戸黄門まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://mitokoumon.com/koumon/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e00896/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,8 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e00896/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://mitokoumon.com/koumon/
+    source_name: 水戸黄門まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: JR水戸駅から徒歩15分

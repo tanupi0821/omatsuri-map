@@ -1,0 +1,25 @@
+{
+ "host": "nakatsunosusume.com",
+ "name": "中津のすすめ",
+ "areas": [
+  "大分県中津市",
+  "大分県豊前市",
+  "大分県宇佐市"
+ ],
+ "prefs": [
+  "大分県"
+ ],
+ "url": "https://nakatsunosusume.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

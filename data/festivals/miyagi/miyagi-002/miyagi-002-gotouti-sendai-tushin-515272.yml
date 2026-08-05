@@ -1,0 +1,30 @@
+id: miyagi-002-gotouti-sendai-tushin-515272
+name: BRANCH仙台 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: BRANCH仙台
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/07/06/post-515272/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

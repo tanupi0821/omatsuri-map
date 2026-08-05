@@ -1,0 +1,33 @@
+id: hyogo-006-nagata-komabayashi-natsu
+name: 駒林神社 夏祭り
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 神戸市長田区
+  ward: null
+venue:
+  name: 駒林神社 境内
+  address: null
+  lat: null
+  lng: null
+organizer: 駒林神社
+stalls: yes
+tags:
+  - 雨天決行
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+      - 2026-07-15
+    start_time: 16:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://www.city.kobe.lg.jp/h53961/kuyakusho/nagataku/jyouhou/natsumatsuri.html
+    source_name: 神戸市長田区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 小雨決行。荒天時は規模を縮小することがある。14日15時から夏越の大祓

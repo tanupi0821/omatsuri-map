@@ -1,0 +1,23 @@
+{
+ "host": "herenow.city",
+ "name": "HereNow Fukuoka",
+ "areas": [
+  "福岡県福岡市"
+ ],
+ "prefs": [
+  "福岡県"
+ ],
+ "url": "https://www.herenow.city/fukuoka/",
+ "skipped": "REST 不可 (Unexpected token '<', \"<!doctype \"... is not valid JSON)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

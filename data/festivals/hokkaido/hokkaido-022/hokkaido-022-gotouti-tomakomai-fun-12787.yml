@@ -1,0 +1,30 @@
+id: hokkaido-022-gotouti-tomakomai-fun-12787
+name: 出雲神社例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 出雲神社・出雲公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+      - 2026-06-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.fun/events/event-izumokouen/
+    source_name: とまこまいFUN
+    source_type: media
+    checked_at: 2026-08-06

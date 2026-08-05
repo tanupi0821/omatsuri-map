@@ -17,7 +17,9 @@ organizer: 菊名神社
 shrine: 菊名神社
 tags: []
 description: null
-links: []
+links:
+  - title: 菊名神社 公式サイト
+    url: http://www.kikunajinja.jp
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,23 @@
+{
+ "host": "cometubu.com",
+ "name": "こめつぶ",
+ "areas": [
+  "滋賀県米原市"
+ ],
+ "prefs": [
+  "滋賀県"
+ ],
+ "url": "http://cometubu.com/",
+ "skipped": "robots取得不可 (ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

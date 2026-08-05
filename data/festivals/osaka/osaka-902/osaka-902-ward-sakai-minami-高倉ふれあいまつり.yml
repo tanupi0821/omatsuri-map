@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 泉北高倉小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区高倉台3丁5-1
+  lat: 34.49028
+  lng: 135.52888
 organizer: 高倉台地域
 stalls: unknown
 tags: []

@@ -1,0 +1,31 @@
+id: osaka-006-konohana-asahishinmeisha
+name: 朝日神明社 夏祭り
+kind: 例大祭
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市此花区
+  ward: null
+venue:
+  name: 朝日神明社
+  address: null
+  lat: null
+  lng: null
+organizer: 朝日神明社
+shrine: 朝日神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html
+    source_name: 大阪市此花区
+    source_type: gov
+    checked_at: 2026-08-06

@@ -7,11 +7,11 @@ area:
   city: 釧路市
   ward: null
 venue:
-  name: 釧路川河口付近(幣舞橋下流)
-  address: null
+  name: 釧路川河口付近（幣舞橋下流）
+  address: 北海道釧路市幸町3丁目ほか
   lat: 42.980272
   lng: 144.377464
-organizer: null
+organizer: 北海道新聞釧路支社
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,17 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.hokkaido-np.co.jp/hanabi2026/kushiro/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e00342/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00342/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR釧路駅から南へ徒歩15分
+    source_url: https://www.hokkaido-np.co.jp/hanabi2026/kushiro/
+    source_name: 北海道新聞釧路支社（主催）
+    source_type: official
+    checked_at: 2026-08-06
+station: JR釧路駅

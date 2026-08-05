@@ -1,0 +1,29 @@
+id: koto-kotopdf-21
+name: 亀戸６丁目東町会 ふるさとまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 亀戸平岩公園
+  address: 江東区亀戸6-47-12
+  lat: null
+  lng: null
+organizer: 亀戸６丁目東町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06

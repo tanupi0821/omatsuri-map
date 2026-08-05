@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 鹿島神宮および大町通り
-  address: null
+  address: 鹿嶋市宮中2306-1
   lat: null
   lng: null
 station: 鹿島神宮
@@ -19,7 +19,9 @@ shrine: 鹿島神宮
 tags:
   - 重要無形民俗文化財
 description: null
-links: []
+links:
+  - title: 鹿島神宮
+    url: https://kashimajingu.jp/
 occurrences:
   - year: 2026
     dates:

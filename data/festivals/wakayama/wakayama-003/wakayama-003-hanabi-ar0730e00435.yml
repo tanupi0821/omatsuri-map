@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 日高川河川敷
-  address: 御坊市岩内
+  address: 和歌山県御坊市
   lat: 33.886805
   lng: 135.165977
-organizer: 御坊市花火大会実行委員会事務局
+organizer: 御坊市花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 20:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0730e00435/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.gobo.lg.jp/topics/4691.html
+    source_name: 御坊市
+    source_type: gov
+    checked_at: 2026-08-06
 station: 紀州鉄道西御坊駅から徒歩13分、JR御坊駅から徒歩25分

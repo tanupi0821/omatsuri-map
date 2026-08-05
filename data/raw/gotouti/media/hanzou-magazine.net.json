@@ -1,0 +1,23 @@
+{
+ "host": "hanzou-magazine.net",
+ "name": "HANZOU",
+ "areas": [
+  "三重県伊賀市",
+  "三重県名張市"
+ ],
+ "prefs": [
+  "三重県"
+ ],
+ "url": "https://hanzou-magazine.net/",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

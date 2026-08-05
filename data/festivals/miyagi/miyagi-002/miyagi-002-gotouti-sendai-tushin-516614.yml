@@ -1,0 +1,29 @@
+id: miyagi-002-gotouti-sendai-tushin-516614
+name: 【富谷市】イオンモール富谷 納涼祭
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 1Ｆ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/07/12/post-516614/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

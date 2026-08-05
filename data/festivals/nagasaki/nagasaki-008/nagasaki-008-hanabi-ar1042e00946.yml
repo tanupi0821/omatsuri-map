@@ -7,11 +7,11 @@ area:
   city: 島原市
   ward: null
 venue:
-  name: 島原港
-  address: null
+  name: 島原港（島原外港南側防波堤）
+  address: 長崎県島原市下川尻町7-5
   lat: 32.765468
   lng: 130.374635
-organizer: null
+organizer: 島原温泉ガマダス花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.shimabaraonsen.com/event/summer/hanabi
+  - title: 島原温泉 第32回島原温泉ガマダス花火大会
+    url: https://www.shimabaraonsen.com/guide/gamadasuhanabi
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,8 @@ occurrences:
     start_time: 20:15
     end_time: 20:45
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1042e00946/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 島原鉄道島原港駅から徒歩5分
+    source_url: https://www.shimabaraonsen.com/guide/gamadasuhanabi
+    source_name: 島原温泉観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: 島原鉄道 島原港駅

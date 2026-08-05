@@ -1,0 +1,47 @@
+{
+ "host": "leafkyoto.net",
+ "name": "Leaf KYOTO",
+ "areas": [
+  "京都府",
+  "京都府京都市",
+  "滋賀県"
+ ],
+ "prefs": [
+  "京都府",
+  "滋賀県"
+ ],
+ "url": "https://www.leafkyoto.net/",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": [
+  {
+   "id": 183189,
+   "title": "江戸の街並み全体が夏祭りの舞台に！京都の夜を彩る夏イベントが［太秦映画村］で開催",
+   "date": "2026-07-17",
+   "url": "https://www.leafkyoto.net/260706-kyoto-eigamura/",
+   "body": ""
+  },
+  {
+   "id": 180823,
+   "title": "京都駅前の［京都新阪急ホテル］で夏を楽しむ、京の夏祭りハーフビュッフェ",
+   "date": "2026-05-29",
+   "url": "https://www.leafkyoto.net/260529-kyoto-shinhankyu/",
+   "body": ""
+  },
+  {
+   "id": 22807,
+   "title": "【2026年最新】京都川床・納涼床ガイド｜鴨川・貴船のおすすめランチ＆ディナー完全版",
+   "date": "2026-04-24",
+   "url": "https://www.leafkyoto.net/220414-kyoto-kawayuka/",
+   "body": ""
+  }
+ ]
+}

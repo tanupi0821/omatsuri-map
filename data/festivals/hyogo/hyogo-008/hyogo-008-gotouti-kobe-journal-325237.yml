@@ -1,0 +1,30 @@
+id: hyogo-008-gotouti-kobe-journal-325237
+name: 送り火・盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 摩耶山天上寺「摩耶天空之庭」
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+      - 2026-08-17
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/2862395388.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

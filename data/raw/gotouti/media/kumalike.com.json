@@ -1,0 +1,23 @@
+{
+ "host": "kumalike.com",
+ "name": "熊本ポータル！くまライク",
+ "areas": [
+  "熊本県"
+ ],
+ "prefs": [
+  "熊本県"
+ ],
+ "url": "https://kumalike.com/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

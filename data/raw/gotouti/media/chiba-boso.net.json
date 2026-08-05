@@ -1,0 +1,23 @@
+{
+ "host": "chiba-boso.net",
+ "name": "千葉・房総NET",
+ "areas": [
+  "千葉県房総"
+ ],
+ "prefs": [
+  "千葉県"
+ ],
+ "url": "https://chiba-boso.net/",
+ "skipped": "robots取得不可 (CERT_HAS_EXPIRED)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

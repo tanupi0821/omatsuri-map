@@ -17,7 +17,9 @@ organizer: 寒田神社
 shrine: 寒田神社
 tags: []
 description: null
-links: []
+links:
+  - title: 寒田神社 公式サイト
+    url: https://samutajinjya.jp/
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,29 @@
+id: tachikawa-gotouti-iine-tachikawa-160981
+name: 東立川自衛隊 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 立川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://iine-tachikawa.net/topics/event/160981/
+    source_name: いいね！立川
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: osaka-024-sumi-karitakita
+name: 苅田北ほほえみ盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市住吉区
+  ward: null
+venue:
+  name: 苅田北小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 苅田北ほほえみ協議会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
+    source_name: 大阪市住吉区
+    source_type: gov
+    checked_at: 2026-08-06

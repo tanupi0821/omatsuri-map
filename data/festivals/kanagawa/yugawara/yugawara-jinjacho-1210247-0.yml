@@ -17,7 +17,9 @@ organizer: 子之神社
 shrine: 子之神社
 tags: []
 description: null
-links: []
+links:
+  - title: 子之神社 公式サイト
+    url: https://sites.google.com/view/nenojinja/
 occurrences:
   - year: 2026
     dates:

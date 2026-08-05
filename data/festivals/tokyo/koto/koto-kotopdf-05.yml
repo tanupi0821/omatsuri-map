@@ -1,0 +1,31 @@
+id: koto-kotopdf-05
+name: 千田町会納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東公園（扇橋二丁目バス停前）
+  address: 江東区千田16-5
+  lat: null
+  lng: null
+organizer: 千田町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 19:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 出典の終了時刻は「12:00」で開始より前。誤記とみて載せていない

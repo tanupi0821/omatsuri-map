@@ -1,0 +1,23 @@
+{
+ "host": "ilovetokushima.com",
+ "name": "I LOVE TOKUSHIMA",
+ "areas": [
+  "徳島県"
+ ],
+ "prefs": [
+  "徳島県"
+ ],
+ "url": "http://ilovetokushima.com/",
+ "skipped": "REST 不可 (Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

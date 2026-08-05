@@ -8,13 +8,15 @@ area:
   ward: 高津区
 venue:
   name: 川崎市民プラザ 屋内広場
-  address: null
+  address: 川崎市高津区新作1-19-1
   lat: null
   lng: null
 organizer: 新作第一町内会
 tags: []
 description: null
-links: []
+links:
+  - title: 川崎市民プラザ 新作第一町内会 納涼盆踊り大会
+    url: https://www.kawasaki-shiminplaza.jp/event/detail?id=15821
 occurrences:
   - year: 2026
     dates:

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 七里御浜海岸
-  address: null
+  address: 三重県熊野市井戸町
   lat: 33.886163
   lng: 136.103506
 organizer: 熊野市観光協会
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.kumano-kankou.info/
+  - title: 熊野市観光協会 熊野大花火大会
+    url: https://www.kumano-kankou.info/kumano-fireworks/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0624e00803/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0624e00803/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR熊野市駅から徒歩5分
+    source_url: https://www.kumano-kankou.info/kumano-fireworks/
+    source_name: 熊野市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 予備日は8月21日・24日・27日（熊野市観光協会の発表）
+station: JR紀勢本線 熊野市駅（徒歩5分）

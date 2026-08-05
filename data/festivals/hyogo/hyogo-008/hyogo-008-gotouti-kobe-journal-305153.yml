@@ -1,0 +1,30 @@
+id: hyogo-008-gotouti-kobe-journal-305153
+name: 兵庫但馬縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: コウノトリ但馬空港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+      - 2026-05-17
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/8559472355.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

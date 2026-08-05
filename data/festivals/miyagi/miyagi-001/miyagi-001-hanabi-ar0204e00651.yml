@@ -7,8 +7,8 @@ area:
   city: 仙台市青葉区
   ward: null
 venue:
-  name: 西公園付近一帯、広瀬川河川区域及び川内地区
-  address: 仙台市青葉区桜ケ岡公園
+  name: 青葉山公園周辺・広瀬川河川敷
+  address: 宮城県仙台市青葉区
   lat: 38.261326
   lng: 140.861216
 organizer: 公益社団法人仙台青年会議所
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://sendai-tanabatahanabi.com/
+  - title: 第57回仙台七夕花火祭 公式サイト 開催概要
+    url: https://sendai-tanabatahanabi.com/overview/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0204e00651/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0204e00651/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://sendai-tanabatahanabi.com/overview/
+    source_name: 公益社団法人仙台青年会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 雨天決行・荒天中止で順延なし
 station: JR仙台駅西口から徒歩30分

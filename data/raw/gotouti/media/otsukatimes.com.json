@@ -1,0 +1,23 @@
+{
+ "host": "otsukatimes.com",
+ "name": "大塚新聞",
+ "areas": [
+  "東京都豊島区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://otsukatimes.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

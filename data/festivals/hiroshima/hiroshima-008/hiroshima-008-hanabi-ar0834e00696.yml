@@ -7,11 +7,11 @@ area:
   city: 広島市南区
   ward: null
 venue:
-  name: 広島港1万トンバース(広島市南区)
-  address: null
+  name: 広島港 1万トンバース沖
+  address: 広島県広島市南区宇品海岸3丁目
   lat: 34.351532
   lng: 132.473863
-organizer: 広島祭委員会事務局 事業推進本部
+organizer: 広島祭委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.minato-yumehanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0834e00696/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 20:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0834e00696/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.minato-yumehanabi.com/
+    source_name: 広島祭委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 会場は17:00開場、19:20からオープニングセレモニー
 station: JR広島駅から広島電鉄広島港行きで43分、海岸通電停下車徒歩15分

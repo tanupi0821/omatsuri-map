@@ -1,0 +1,23 @@
+{
+ "host": "kanazawatime.net",
+ "name": "金沢時間",
+ "areas": [
+  "石川県金沢市"
+ ],
+ "prefs": [
+  "石川県"
+ ],
+ "url": "http://kanazawatime.net/",
+ "skipped": "REST 不可 (Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

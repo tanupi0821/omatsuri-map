@@ -21,6 +21,10 @@ links:
     url: https://joso-hanabi.jp/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0308/yatai/
+  - title: 常総きぬ川花火大会 公式WEBサイト
+    url: https://www.joso-hanabi.jp/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e00248/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +32,8 @@ occurrences:
     start_time: 18:05
     end_time: 19:45
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e00248/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.joso-hanabi.jp/
+    source_name: 常総きぬ川花火大会 実行委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: 関東鉄道水海道駅から徒歩15分

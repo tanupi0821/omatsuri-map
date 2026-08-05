@@ -1,0 +1,23 @@
+{
+ "host": "tokuyamap.com",
+ "name": "Tokuyamap",
+ "areas": [
+  "山口県周南市"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "https://www.tokuyamap.com/",
+ "skipped": "robots取得不可 (UNABLE_TO_GET_ISSUER_CERT_LOCALLY)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

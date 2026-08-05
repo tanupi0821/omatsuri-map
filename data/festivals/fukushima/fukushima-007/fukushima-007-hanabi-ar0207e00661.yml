@@ -7,8 +7,8 @@ area:
   city: いわき市
   ward: null
 venue:
-  name: アクアマリンパーク(小名浜港1・2号埠頭)
-  address: いわき市小名浜
+  name: アクアマリンパーク（小名浜港1・2号埠頭間）
+  address: 福島県いわき市小名浜本町11-1
   lat: 36.941146
   lng: 140.905416
 organizer: いわき花火大会実行委員会
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.iwakihanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0207e00661/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0207e00661/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR泉駅からバスで約15分
+    source_url: https://www.iwakihanabi.com/
+    source_name: いわき花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: ゲートの開場は16:00。終了時刻は公式サイトに記載がない
+station: JR常磐線 泉駅（バスで約15分）

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 福泉中央小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区桃山台4丁17-1
+  lat: 34.49649512
+  lng: 135.4839119
 organizer: 福泉中央地域
 stalls: unknown
 tags: []

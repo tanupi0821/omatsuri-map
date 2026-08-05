@@ -1,0 +1,30 @@
+id: ehime-001-gotouti-imabari-shimanami-4675
+name: おんまくってどんな祭り？
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 今治市
+  ward: null
+venue:
+  name: 今治市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://imabari-shimanami.com/sportsculture/post-4675/
+    source_name: 今治しまなみ通信
+    source_type: media
+    checked_at: 2026-08-06

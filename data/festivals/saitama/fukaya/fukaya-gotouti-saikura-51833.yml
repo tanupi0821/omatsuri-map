@@ -1,0 +1,29 @@
+id: fukaya-gotouti-saikura-51833
+name: 第76回 深谷七夕まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 深谷市
+  ward: null
+venue:
+  name: 中山道および市役所通りの一部
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: 14:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://saikura.info/fukaya-tanabata-2026/
+    source_name: さいくら
+    source_type: media
+    checked_at: 2026-08-06

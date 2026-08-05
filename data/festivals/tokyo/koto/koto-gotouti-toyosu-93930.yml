@@ -1,0 +1,29 @@
+id: koto-gotouti-toyosu-93930
+name: 豊洲ふれあい納涼祭2026
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://toyosu.tokyo/event/toyosu-fureai-nouryousai-2026-info/
+    source_name: とよすと
+    source_type: media
+    checked_at: 2026-08-06

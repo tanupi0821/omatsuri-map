@@ -1,0 +1,29 @@
+id: osaka-005-gotouti-ebisubashi-magazine-17658
+name: 難波八阪神社のお祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市中央区
+  ward: null
+venue:
+  name: 大阪市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ebisubashi-magazine.com/namba-yasaka-jinjya-rikutogyo/
+    source_name: ぶらっとなんば
+    source_type: media
+    checked_at: 2026-08-06

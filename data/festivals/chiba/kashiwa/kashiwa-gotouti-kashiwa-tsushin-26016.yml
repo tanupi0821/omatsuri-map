@@ -1,0 +1,30 @@
+id: kashiwa-gotouti-kashiwa-tsushin-26016
+name: 緑ヶ丘町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 一本松公園
+  address: 柏市緑ヶ丘24-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/26016.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

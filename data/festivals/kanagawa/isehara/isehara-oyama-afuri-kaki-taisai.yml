@@ -17,7 +17,9 @@ organizer: 大山阿夫利神社
 shrine: 大山阿夫利神社
 tags: []
 description: null
-links: []
+links:
+  - title: 大山阿夫利神社
+    url: https://www.afuri.or.jp/
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,23 @@
+{
+ "host": "shizuokakeizaishimbun.com",
+ "name": "静岡経済新聞",
+ "areas": [
+  "静岡県"
+ ],
+ "prefs": [
+  "静岡県"
+ ],
+ "url": "https://shizuokakeizaishimbun.com/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -7,11 +7,11 @@ area:
   city: 東海市
   ward: null
 venue:
-  name: 東海市中央町大池公園内
-  address: 東海市中央町三丁目
+  name: 大池公園
+  address: 愛知県東海市中央町3丁目
   lat: 35.024251
   lng: 136.904383
-organizer: 東海市観光協会事務局
+organizer: 第57回東海まつり花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.tokaikanko.com/
+  - title: 東海市 第57回東海まつり花火大会
+    url: https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009628.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0623e00812/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,8 @@ occurrences:
     start_time: 19:20
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0623e00812/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 名鉄太田川駅から徒歩15分
+    source_url: https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009628.html
+    source_name: 東海市
+    source_type: gov
+    checked_at: 2026-08-06
+station: 名鉄常滑線 太田川駅

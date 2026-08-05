@@ -1,0 +1,29 @@
+id: osaka-003-hirano-tanabata
+name: 第12回 こども七夕フェスティバル
+kind: こどもまつり
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: コミュニティプラザ平野（平野区民センター）
+  address: null
+  lat: null
+  lng: null
+organizer: 平野区まちづくりセンター
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: 10:00
+    end_time: 13:00
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06

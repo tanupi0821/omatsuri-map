@@ -7,11 +7,11 @@ area:
   city: 諏訪市
   ward: null
 venue:
-  name: 諏訪市湖畔公園前諏訪湖上
-  address: 諏訪市−
+  name: 上諏訪温泉 諏訪湖上（湖畔公園前）
+  address: 長野県諏訪市
   lat: 36.049585
   lng: 138.109077
-organizer: 諏訪湖祭実行委員会
+organizer: 諏訪湖祭実行委員会（諏訪市役所観光課内）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://suwako-hanabi.com
+  - title: 諏訪市観光ガイド（諏訪観光協会）2026 諏訪湖の花火
+    url: https://www.suwakanko.jp/story/hanabi-suwako/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0420e00799/
 occurrences:
   - year: 2026
     dates:
@@ -26,10 +30,11 @@ occurrences:
     start_time: 19:00
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0420e00799/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.suwakanko.jp/story/hanabi-suwako/
+    source_name: 諏訪観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 終了時刻は主催側のページに記載がない
 station: JR上諏訪駅から徒歩10分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Suwa-ko_firework_20080815_02.jpg/1280px-Suwa-ko_firework_20080815_02.jpg

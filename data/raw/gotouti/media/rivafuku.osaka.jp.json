@@ -1,0 +1,23 @@
+{
+ "host": "rivafuku.osaka.jp",
+ "name": "リバフク",
+ "areas": [
+  "大阪府大阪市福島区"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://rivafuku.osaka.jp/",
+ "skipped": "robots取得不可 (CERT_HAS_EXPIRED)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

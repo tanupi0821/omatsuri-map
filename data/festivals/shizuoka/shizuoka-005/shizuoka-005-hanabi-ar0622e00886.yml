@@ -7,8 +7,8 @@ area:
   city: 熱海市
   ward: null
 venue:
-  name: 熱海湾(熱海港7.5m岸壁～海釣り施設)
-  address: 熱海市和田浜南町
+  name: 熱海湾（熱海港7.5m岸壁〜海釣り施設）
+  address: 静岡県熱海市渚町地先
   lat: 35.093564
   lng: 139.08071
 organizer: 熱海市観光協会
@@ -19,17 +19,25 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.ataminews.gr.jp
+  - title: あたみニュース（熱海市観光協会）熱海海上花火大会
+    url: https://www.ataminews.gr.jp/event/8/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0622e00886/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-20
+      - 2026-07-26
+      - 2026-08-05
+      - 2026-08-09
+      - 2026-08-18
       - 2026-08-24
     start_time: 20:15
     end_time: 20:40
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e00886/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR熱海駅から徒歩20分
+    source_url: https://www.ataminews.gr.jp/event/8/
+    source_name: 熱海市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: まとめサイトは7月20日と8月24日の2日分しか載せていなかったが、主催の熱海市観光協会は夏季6日を発表している。雨天決行
+station: JR東海道本線 熱海駅

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 槇塚台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区槇塚台3丁39-1
+  lat: 34.48268881
+  lng: 135.5275566
 organizer: 槇塚台地域
 stalls: unknown
 tags: []

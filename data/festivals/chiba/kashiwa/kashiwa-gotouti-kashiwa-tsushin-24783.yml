@@ -1,0 +1,29 @@
+id: kashiwa-gotouti-kashiwa-tsushin-24783
+name: 昔なつかし 縁日ひろば
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: モラージュ柏
+  address: 柏市大山台2-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-29
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/24783.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

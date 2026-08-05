@@ -1,0 +1,25 @@
+{
+ "host": "sendai-osb.jp",
+ "name": "仙台おもせいぶ",
+ "areas": [
+  "宮城県仙台市太白区",
+  "宮城県仙台市青葉区",
+  "宮城県仙台市泉区"
+ ],
+ "prefs": [
+  "宮城県"
+ ],
+ "url": "https://sendai-osb.jp/",
+ "skipped": "robots取得不可 (ERR_TLS_CERT_ALTNAME_INVALID)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

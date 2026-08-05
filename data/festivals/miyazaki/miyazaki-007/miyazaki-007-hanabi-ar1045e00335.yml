@@ -7,11 +7,11 @@ area:
   city: 日南市
   ward: null
 venue:
-  name: 油津港周辺
-  address: null
+  name: 油津港内
+  address: 宮崎県日南市西町
   lat: 31.575152
   lng: 131.399754
-organizer: null
+organizer: 油津港まつり協賛会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 20:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1045e00335/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.kankou-nichinan.jp/tourisms/15686/
+    source_name: 日南市観光協会
+    source_type: official
+    checked_at: 2026-08-06
 station: JR日南線油津駅から徒歩15分

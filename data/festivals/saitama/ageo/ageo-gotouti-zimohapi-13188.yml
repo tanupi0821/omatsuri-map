@@ -1,0 +1,29 @@
+id: ageo-gotouti-zimohapi-13188
+name: 清水公園つつじ祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 上尾市
+  ward: null
+venue:
+  name: 上尾市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://zimohapi.com/shimizukouentsutsujimatsuri/
+    source_name: ジモハピ上尾
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,23 @@
+{
+ "host": "sodatecoibaraki.com",
+ "name": "そだてこ茨木",
+ "areas": [
+  "大阪府茨木市"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://www.sodatecoibaraki.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -69,6 +69,14 @@ cities:
     slug: aichi-007
   - name: 豊川市
     slug: aichi-008
+  - name: 名古屋市
+    slug: aichi-701
+  - name: 名古屋市緑区
+    slug: aichi-midori
+  - name: 名古屋市瑞穂区
+    slug: aichi-702
+  - name: 名古屋市昭和区
+    slug: aichi-703
 ---
 pref: 北海道
 cities:
@@ -214,6 +222,10 @@ cities:
     slug: hokkaido-005
   - name: 札幌市西区
     slug: hokkaido-006
+  - name: 今金町
+    slug: hokkaido-701
+  - name: 札幌市
+    slug: hokkaido-702
 ---
 pref: 秋田県
 cities:
@@ -295,6 +307,14 @@ cities:
     slug: ehime-009
   - name: 喜多郡内子町
     slug: ehime-001
+  - name: 内子町
+    slug: ehime-701
+  - name: 松前町
+    slug: ehime-702
+  - name: 伊予市
+    slug: ehime-703
+  - name: 東温市
+    slug: ehime-704
 ---
 pref: 福井県
 cities:
@@ -395,6 +415,14 @@ cities:
     slug: fukuoka-008
   - name: 福津市
     slug: fukuoka-001
+  - name: 八女市
+    slug: fukuoka-701
+  - name: うきは市
+    slug: fukuoka-702
+  - name: みやま市
+    slug: fukuoka-703
+  - name: 柳川市
+    slug: fukuoka-704
 ---
 pref: 福島県
 cities:
@@ -430,6 +458,10 @@ cities:
     slug: fukushima-001
   - name: 会津坂下町
     slug: fukushima-002
+  - name: 浪江町
+    slug: fukushima-701
+  - name: 川俣町
+    slug: fukushima-702
 ---
 pref: 岐阜県
 cities:
@@ -514,6 +546,12 @@ cities:
     slug: hiroshima-003
   - name: 広島市
     slug: hiroshima-001
+  - name: 東広島市
+    slug: hiroshima-701
+  - name: 廿日市
+    slug: hiroshima-702
+  - name: 世羅町
+    slug: hiroshima-703
 ---
 pref: 兵庫県
 cities:
@@ -587,6 +625,18 @@ cities:
     slug: hyogo-010
   - name: 宝塚市
     slug: hyogo-011
+  - name: 三田市
+    slug: hyogo-701
+  - name: 南あわじ市
+    slug: hyogo-702
+  - name: 淡路市
+    slug: hyogo-703
+  - name: 猪名川町
+    slug: hyogo-704
+  - name: 丹波市
+    slug: hyogo-705
+  - name: 三木市
+    slug: hyogo-706
 ---
 pref: 石川県
 cities:
@@ -648,6 +698,8 @@ cities:
     slug: kagawa-008
   - name: 仲多度郡多度津町
     slug: kagawa-009
+  - name: 東かがわ市
+    slug: kagawa-701
 ---
 pref: 鹿児島県
 cities:
@@ -706,6 +758,8 @@ cities:
     slug: kochi-007
   - name: 土佐清水市
     slug: kochi-008
+  - name: 黒潮町
+    slug: kochi-701
 ---
 pref: 熊本県
 cities:
@@ -792,6 +846,10 @@ cities:
     slug: kyoto-003
   - name: 京都市
     slug: kyoto-001
+  - name: 宇治市
+    slug: kyoto-701
+  - name: 京都市中京区
+    slug: kyoto-702
 ---
 pref: 三重県
 cities:
@@ -835,6 +893,8 @@ cities:
     slug: mie-003
   - name: 玉城町
     slug: mie-004
+  - name: 四日市
+    slug: mie-701
 ---
 pref: 宮城県
 cities:
@@ -932,6 +992,10 @@ cities:
     slug: nagano-016
   - name: 小諸市
     slug: nagano-001
+  - name: 安曇野市
+    slug: nagano-701
+  - name: 大町
+    slug: nagano-702
 ---
 pref: 長崎県
 cities:
@@ -1116,6 +1180,8 @@ cities:
     slug: okinawa-004
   - name: 那覇市
     slug: okinawa-001
+  - name: 宮古島市
+    slug: okinawa-701
 ---
 pref: 大阪府
 cities:
@@ -1217,6 +1283,10 @@ cities:
     slug: osaka-901
   - name: 堺市南区
     slug: osaka-902
+  - name: 千早赤阪村
+    slug: osaka-701
+  - name: 大阪市
+    slug: osaka-702
 ---
 pref: 佐賀県
 cities:

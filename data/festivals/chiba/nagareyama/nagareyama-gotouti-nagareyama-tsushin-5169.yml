@@ -1,0 +1,29 @@
+id: nagareyama-gotouti-nagareyama-tsushin-5169
+name: 宿連合自治会 第48回納涼祭
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 赤城神社境内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagareyama-tsushin.com/5169.html
+    source_name: 流山つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -7,8 +7,8 @@ area:
   city: 下呂市
   ward: null
 venue:
-  name: 下呂大橋周辺・飛騨川河川敷、下呂大橋下流
-  address: 下呂市湯之島
+  name: 下呂大橋上流 河川敷
+  address: 岐阜県下呂市森960番地
   lat: 35.810286
   lng: 137.238085
 organizer: null
@@ -26,8 +26,8 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0621e440135/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR高山本線下呂駅から徒歩6分
+    source_url: https://www.city.gero.lg.jp/site/kanko/23881.html
+    source_name: 下呂市
+    source_type: gov
+    checked_at: 2026-08-06
+station: JR高山本線 下呂駅（徒歩約3分）

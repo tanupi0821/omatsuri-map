@@ -11,7 +11,7 @@ venue:
   address: 世田谷区鎌田一丁目
   lat: 35.614007
   lng: 139.615716
-organizer: null
+organizer: 世田谷区たまがわ花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -21,15 +21,22 @@ links:
     url: https://www.tamagawa-hanabi.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0313/yatai/
+  - title: 世田谷区「第48回世田谷区たまがわ花火大会」の開催決定について
+    url: https://www.city.setagaya.lg.jp/02219/23775.html
+  - title: 世田谷区たまがわ花火大会 公式サイト
+    url: https://tamagawa-hanabi.com/about/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e355272/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-03
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e355272/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.setagaya.lg.jp/02219/23775.html
+    source_name: 世田谷区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 川崎市制記念多摩川花火大会と合同開催。ステージイベントは15:00から、出店は15:00から20:00
 station: 二子玉川駅から徒歩15分

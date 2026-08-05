@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 愛宕山広場
-  address: null
+  address: 西多摩郡奥多摩町氷川
   lat: null
   lng: null
-station: 奥多摩
+station: JR青梅線「奥多摩駅」下車すぐ
 organizer: null
 stalls: yes
 tags:

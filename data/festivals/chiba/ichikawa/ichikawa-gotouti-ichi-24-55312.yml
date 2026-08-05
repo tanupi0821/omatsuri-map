@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-55312
+name: 新田くるみ子ども会 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 新田胡録神社
+  address: null
+  lat: null
+  lng: null
+organizer: 新田くるみ子ども会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 16:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55312
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

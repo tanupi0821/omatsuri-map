@@ -7,8 +7,8 @@ area:
   city: 北秋田市
   ward: null
 venue:
-  name: 北秋田市　阿仁河川公園
-  address: 北秋田市阿仁水無
+  name: 阿仁河川公園
+  address: 秋田県北秋田市阿仁銀山字下新町
   lat: 40.000175
   lng: 140.398439
 organizer: 阿仁の花火実行委員会
@@ -23,11 +23,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-16
-    start_time: null
+    start_time: 19:15
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0205e00040/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 秋田内陸縦貫鉄道阿仁合駅から徒歩2分
+    source_url: https://www.city.kitaakita.akita.jp/archive/contents-6041
+    source_name: 北秋田市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 灯籠流しは18:30から、花火は19:15から。開催日は毎年8月16日で固定
+station: 秋田内陸線 阿仁合駅（徒歩5分）
+recurrence: 8月16日
+recurrence_source: https://www.city.kitaakita.akita.jp/archive/contents-6041

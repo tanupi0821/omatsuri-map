@@ -1,0 +1,33 @@
+id: osaka-003-hirano-shogakuji
+name: 正覚寺 だんじり祭り（三十周年）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: 正覚寺周辺
+  address: null
+  lat: null
+  lng: null
+organizer: 加美地域
+stalls: unknown
+tags:
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-16
+      - 2026-07-18
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 宮入は16日19時30分〜21時30分、宵宮は18日9時〜11時45分と16時〜22時30分、本宮は20日9時〜11時10分と15時〜22時30分

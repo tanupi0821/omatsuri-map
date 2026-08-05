@@ -1,0 +1,29 @@
+id: misato-gotouti-misato-gurashi-43084
+name: 松戸花火大会2026
+kind: 花火
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 三郷市
+  ward: null
+venue:
+  name: 古ケ崎河川敷スポーツ広場
+  address: null
+  lat: null
+  lng: null
+organizer: 松戸花火大会実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:15
+    end_time: 20:20
+    status: confirmed
+    source_url: https://misato-gurashi.com/2026073001.html
+    source_name: 三郷ぐらし
+    source_type: media
+    checked_at: 2026-08-06

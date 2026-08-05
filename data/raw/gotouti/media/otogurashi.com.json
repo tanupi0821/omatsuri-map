@@ -1,0 +1,23 @@
+{
+ "host": "otogurashi.com",
+ "name": "おおとうぐらし",
+ "areas": [
+  "福岡県田川郡大任町"
+ ],
+ "prefs": [
+  "福岡県"
+ ],
+ "url": "http://otogurashi.com/",
+ "skipped": "robots取得不可 (UND_ERR_CONNECT_TIMEOUT)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

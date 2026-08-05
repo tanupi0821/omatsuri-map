@@ -1,0 +1,29 @@
+id: miyagi-012-gotouti-sasakizai-14727
+name: 西馬音内盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 大崎市
+  ward: null
+venue:
+  name: 六日町通り商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sasakizai.com/kurikomayoruiti20260613/
+    source_name: ミヤキジ
+    source_type: media
+    checked_at: 2026-08-06

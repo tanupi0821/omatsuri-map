@@ -1,0 +1,23 @@
+{
+ "host": "yurakucho.today",
+ "name": "有楽町.today",
+ "areas": [
+  "東京都千代田区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://yurakucho.today/",
+ "skipped": "robots取得不可 (ERR_TLS_CERT_ALTNAME_INVALID)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

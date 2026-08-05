@@ -1,0 +1,29 @@
+id: koto-kotopdf-34
+name: 南砂中央町会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 三砂小学校校庭
+  address: 江東区南砂6-3-13
+  lat: null
+  lng: null
+organizer: 南砂中央町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06

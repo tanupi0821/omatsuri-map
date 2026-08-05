@@ -1,0 +1,23 @@
+{
+ "host": "sandada.fun",
+ "name": "さんだふるらいふ",
+ "areas": [
+  "兵庫県三田市"
+ ],
+ "prefs": [
+  "兵庫県"
+ ],
+ "url": "https://sandada.fun/",
+ "skipped": "robots取得不可 (UNABLE_TO_GET_ISSUER_CERT_LOCALLY)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

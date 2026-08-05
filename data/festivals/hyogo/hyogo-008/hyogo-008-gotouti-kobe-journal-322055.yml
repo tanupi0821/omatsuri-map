@@ -1,0 +1,30 @@
+id: hyogo-008-gotouti-kobe-journal-322055
+name: 夏越ゆかた祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 長田神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/7559767927.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

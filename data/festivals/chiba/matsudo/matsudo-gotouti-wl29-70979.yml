@@ -1,0 +1,30 @@
+id: matsudo-gotouti-wl29-70979
+name: 小根本 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 小根本公園
+  address: 松戸市小根本94-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://wl29.net/2026/07/06/matsudok8892235/
+    source_name: 松戸ロード　松戸の地域情報ブログ
+    source_type: media
+    checked_at: 2026-08-06

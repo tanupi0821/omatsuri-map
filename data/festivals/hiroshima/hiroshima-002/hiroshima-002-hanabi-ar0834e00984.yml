@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 芦田川大橋上流
-  address: 福山市水呑町
+  address: 広島県福山市
   lat: 34.452191
   lng: 133.385368
-organizer: 福山祭委員会福山夏まつり実施本部
+organizer: 福山祭委員会 福山夏まつり実施本部
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://fukuyama-natsumatsuri.jp/
+  - title: 福山夏まつり2026 あしだ川花火大会 公式サイト
+    url: https://fukuyama-natsumatsuri.jp/ashida/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0834e00984/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,8 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0834e00984/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://fukuyama-natsumatsuri.jp/ashida/
+    source_name: 福山祭委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: JR福山駅から花火大会会場行き有料臨時バスで約20分

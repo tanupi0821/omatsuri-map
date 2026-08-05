@@ -1,0 +1,23 @@
+{
+ "host": "standardweb.jp",
+ "name": "青森-Standard Web &#8211; スポーツマガジンスタンダード",
+ "areas": [
+  "青森県"
+ ],
+ "prefs": [
+  "青森県"
+ ],
+ "url": "https://standardweb.jp/aomori/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

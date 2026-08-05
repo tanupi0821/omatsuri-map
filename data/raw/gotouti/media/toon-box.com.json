@@ -1,0 +1,23 @@
+{
+ "host": "toon-box.com",
+ "name": "TOON BOX",
+ "areas": [
+  "愛媛県東温市"
+ ],
+ "prefs": [
+  "愛媛県"
+ ],
+ "url": "https://toon-box.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -1,0 +1,23 @@
+{
+ "host": "otaku-times.com",
+ "name": "大田区タイムズ",
+ "areas": [
+  "東京都大田区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://otaku-times.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -7,11 +7,11 @@ area:
   city: 宇部市
   ward: null
 venue:
-  name: 宇部港内
-  address: 宇部市港町一丁目
+  name: 宇部港
+  address: 山口県宇部市港町一丁目15番28号
   lat: 33.944874
   lng: 131.242185
-organizer: 宇部市花火大会実行委員会
+organizer: 宇部市花火大会実行委員会（宇部商工会議所内）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.ubecci.or.jp/
+  - title: 宇部市 第72回宇部市花火大会
+    url: https://www.city.ube.yamaguchi.jp/kyouyou/event/1029412/1029394.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0835e01001/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0835e01001/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.ube.yamaguchi.jp/kyouyou/event/1029412/1029394.html
+    source_name: 宇部市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天の場合は7月26日（日）に延期。19:45から20:00はドローンショー
 station: JR琴芝駅から徒歩15分

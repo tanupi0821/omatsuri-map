@@ -1,0 +1,24 @@
+{
+ "host": "aomonohanto.com",
+ "name": "aoもの",
+ "areas": [
+  "愛知県豊橋市",
+  "愛知県田原市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://aomonohanto.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

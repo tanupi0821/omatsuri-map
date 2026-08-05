@@ -7,8 +7,8 @@ area:
   city: 佐久市
   ward: null
 venue:
-  name: 千曲川河川敷(佐久大橋～野沢橋間)
-  address: 佐久市中込二丁目
+  name: 千曲川河川敷（佐久大橋〜野沢橋間）
+  address: 長野県佐久市
   lat: 36.22864
   lng: 138.474507
 organizer: 佐久千曲川大花火大会組織委員会
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:30
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0420e513309/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR中込駅から徒歩7分
+    source_url: https://www.sakukankou.jp/news/2777/
+    source_name: 佐久市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: JR小海線 中込駅

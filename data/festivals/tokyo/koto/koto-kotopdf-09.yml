@@ -1,0 +1,29 @@
+id: koto-kotopdf-09
+name: 猿江一丁目町会納涼まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 猿江一丁目公園
+  address: 江東区猿江1-11-5
+  lat: null
+  lng: null
+organizer: 猿江一丁目町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06

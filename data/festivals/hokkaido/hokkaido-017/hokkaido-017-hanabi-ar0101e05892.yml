@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: モエレ沼公園
-  address: 札幌市東区モエレ沼公園
+  address: 北海道札幌市東区モエレ沼公園1-1
   lat: 43.124546
   lng: 141.427852
-organizer: 北海道芸術花火事務局
+organizer: 北海道芸術花火2026開催委員会／NPO法人北海道芸術花火
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.moere.jp/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e05892/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e05892/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.moere.jp/
+    source_name: 北海道芸術花火2026開催委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開場は16:00
 station: 札幌地下鉄東豊線環状通東駅または新道東駅からバスでモエレ沼公園東口停留所または西口停留所下車、徒歩すぐ

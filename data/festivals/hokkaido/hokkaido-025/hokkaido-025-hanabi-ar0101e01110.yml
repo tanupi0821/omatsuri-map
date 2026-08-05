@@ -11,7 +11,7 @@ venue:
   address: 札幌市南区真駒内公園
   lat: 42.996267
   lng: 141.34292
-organizer: null
+organizer: 特定非営利活動法人真駒内花火大会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.makomanai-hanabi.com
+  - title: 北海道真駒内花火大会 2026 花火大会概要
+    url: https://www.makomanai-hanabi.com/about/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e01110/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:50
     end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e01110/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.makomanai-hanabi.com/about/
+    source_name: 特定非営利活動法人真駒内花火大会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開場は17:00。会場に駐車場はない
 station: 札幌市営地下鉄真駒内駅から徒歩30分

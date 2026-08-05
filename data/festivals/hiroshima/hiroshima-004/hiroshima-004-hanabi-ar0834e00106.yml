@@ -7,11 +7,11 @@ area:
   city: 竹原市
   ward: null
 venue:
-  name: J-POWER(電源開発)グラウンド沖
-  address: null
+  name: 高崎町
+  address: 広島県竹原市高崎町
   lat: 34.336119
   lng: 132.947795
-organizer: 竹原市観光協会
+organizer: 一般社団法人竹原市観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:45
     end_time: 20:15
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0834e00106/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR大乗駅から徒歩10分
+    source_url: https://www.takeharakankou.jp/event/8297/
+    source_name: 一般社団法人竹原市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: JR呉線 大乗駅（徒歩約10分）

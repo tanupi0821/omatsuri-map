@@ -1,0 +1,23 @@
+{
+ "host": "fukuoka-sanpo-blog.com",
+ "name": "福岡散歩ブログ",
+ "areas": [
+  "福岡県福岡市"
+ ],
+ "prefs": [
+  "福岡県"
+ ],
+ "url": "https://fukuoka-sanpo-blog.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

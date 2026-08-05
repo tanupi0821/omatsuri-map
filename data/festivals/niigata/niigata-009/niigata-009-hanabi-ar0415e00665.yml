@@ -11,7 +11,7 @@ venue:
   address: 長岡市岡村町
   lat: 37.44944
   lng: 138.831511
-organizer: null
+organizer: 一般財団法人 長岡花火財団
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.nagaokamatsuri.com
+  - title: 長岡花火 公式ウェブサイト（一般財団法人 長岡花火財団）
+    url: https://nagaokamatsuri.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0415e00665/
 occurrences:
   - year: 2026
     dates:
@@ -27,9 +31,9 @@ occurrences:
     start_time: 19:20
     end_time: 21:25
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0415e00665/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://nagaokamatsuri.com/
+    source_name: 一般財団法人 長岡花火財団
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開催日は毎年8月2日・3日で固定。会場内の観覧には有料観覧席チケットが必要（無料席はない）
 station: JR長岡駅から徒歩30分

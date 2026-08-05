@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 特定非営利活動法人うつのみや百年花火
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/detail/ar0309e01088/
+  - title: 2026うつのみや花火大会 公式サイト 開催概要
+    url: https://www.utsunomiya-hanabi.jp/summary
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +28,7 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/list/ar0309/yatai/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.utsunomiya-hanabi.jp/summary
+    source_name: 特定非営利活動法人うつのみや百年花火
+    source_type: official
+    checked_at: 2026-08-06

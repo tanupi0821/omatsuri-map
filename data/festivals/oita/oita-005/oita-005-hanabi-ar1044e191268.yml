@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 七瀬川自然公園
-  address: 大分市大字市
+  address: 大分県大分市大字市字赤池188
   lat: 33.182167
   lng: 131.575061
 organizer: ななせの火群まつり実行委員会
@@ -26,7 +26,8 @@ occurrences:
     start_time: 20:45
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1044e191268/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.oita.oita.jp/o058/bunkasports/guide/2026homura.html
+    source_name: 大分市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 花火は20:45から。終了時刻は大分市のページに記載がない

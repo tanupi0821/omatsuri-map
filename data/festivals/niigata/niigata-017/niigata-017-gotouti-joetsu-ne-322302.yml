@@ -1,0 +1,29 @@
+id: niigata-017-gotouti-joetsu-ne-322302
+name: 昔からずっといいお祭り、賑やか。元気でいられるようにお参りした
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 新潟県
+  city: 上越市
+  ward: null
+venue:
+  name: 上越市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://joetsu.yukiguni.town/l-news/322302/
+    source_name: 上越妙高タウン情報
+    source_type: media
+    checked_at: 2026-08-06

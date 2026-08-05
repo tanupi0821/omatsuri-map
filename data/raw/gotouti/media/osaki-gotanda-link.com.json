@@ -1,0 +1,23 @@
+{
+ "host": "osaki-gotanda-link.com",
+ "name": "大崎×五反田LINK",
+ "areas": [
+  "東京都品川区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://osaki-gotanda-link.com/",
+ "skipped": "robots取得不可 (CERT_SIGNATURE_FAILURE)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

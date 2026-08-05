@@ -1,0 +1,23 @@
+{
+ "host": "kameido-turtles.jp",
+ "name": "カメイドタートルズ",
+ "areas": [
+  "東京都江東区亀戸"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://kameido-turtles.jp/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

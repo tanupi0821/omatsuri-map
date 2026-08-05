@@ -11,7 +11,7 @@ venue:
   address: さいたま市北区見沼一丁目
   lat: 35.923585
   lng: 139.639607
-organizer: null
+organizer: さいたま市花火大会実行委員会（事務局：公益社団法人さいたま観光国際協会）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://visitsaitamacity.jp/events/28
+  - title: さいたま市「令和8年度『さいたま市花火大会』と『夏まつり』を開催します」
+    url: https://www.city.saitama.lg.jp/006/014/008/003/015/003/p131231.html
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00873/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.saitama.lg.jp/006/014/008/003/015/003/p131231.html
+    source_name: さいたま市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天中止で順延日なし。当日の開催可否は13時に決定（さいたま市の発表）
 station: 東武アーバンパークライン(野田線)大宮公園駅または大和田駅から徒歩15分

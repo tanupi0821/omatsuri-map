@@ -1,0 +1,30 @@
+id: hyogo-011-gotouti-awaji-journal-24
+name: 第79回淡路島まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 洲本市
+  ward: null
+venue:
+  name: 本町７・８丁目演舞場⇒コモード56演舞場⇒堀端筋演舞場⇒特設ステージ
+  address: 洲本市海岸通1丁目2（花火大会）
+  lat: null
+  lng: null
+organizer: 淡路島まつり実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://awaji-journal.com/awajishima-matsuri/
+    source_name: 淡路ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

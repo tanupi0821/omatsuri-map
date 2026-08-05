@@ -1,0 +1,29 @@
+{
+ "host": "log-oita.com",
+ "name": "LOG OITA",
+ "areas": [
+  "大分県（大分県大分市",
+  "大分県別府市",
+  "大分県竹田市",
+  "大分県速見郡日出町",
+  "大分県中津市",
+  "大分県臼杵市",
+  "大分県佐伯市ほか）"
+ ],
+ "prefs": [
+  "大分県"
+ ],
+ "url": "https://log-oita.com/",
+ "skipped": "REST 不可 (The operation was aborted due to timeout)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

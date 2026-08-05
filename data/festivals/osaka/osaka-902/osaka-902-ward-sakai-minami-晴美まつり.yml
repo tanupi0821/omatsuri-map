@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: はるみ小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区晴美台3丁3-1
+  lat: 34.49612665
+  lng: 135.535898
 organizer: 晴美台地域
 stalls: unknown
 tags: []

@@ -1,0 +1,30 @@
+id: katsushika-gotouti-katsushika-tsushin-29224
+name: 新栄町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 新宿日枝神社
+  address: 葛飾区新宿2-1-17
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/29224.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

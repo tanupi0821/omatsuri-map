@@ -7,8 +7,8 @@ area:
   city: みよし市
   ward: null
 venue:
-  name: 三好池
-  address: みよし市三好町
+  name: 三好池周辺
+  address: 愛知県みよし市三好町池ノ原1
   lat: 35.09147
   lng: 137.092092
 organizer: 三好池まつり実行委員会
@@ -23,11 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 18:40
+    end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0623e00820/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.aichi-miyoshi.lg.jp/soshiki/shiminkeizai/sangyo/kankou/117.html
+    source_name: みよし市
+    source_type: gov
+    checked_at: 2026-08-06
 station: 名古屋市営地下鉄赤池駅から名鉄バス(新屋経由豊田市駅行きで約37分)で新屋停留所下車、徒歩10分

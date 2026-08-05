@@ -7,11 +7,11 @@ area:
   city: 薩摩川内市
   ward: null
 venue:
-  name: 薩摩川内市西開聞町～大小路町　川内川河川敷一帯
-  address: 薩摩川内市西開聞町
+  name: 川内川河川敷一帯（西開聞町〜大小路町）
+  address: 鹿児島県薩摩川内市西開聞町
   lat: 31.816333
   lng: 130.296101
-organizer: 川内商工会議所
+organizer: 川内川花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://sendaihanabi.com/index.php
+  - title: 川内川花火大会 公式サイト
+    url: https://www.sendaihanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar1046e00998/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:40
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1046e00998/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.sendaihanabi.com/
+    source_name: 川内川花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 雨天時は8月23日に延期
 station: JR川内駅から徒歩15分(太平橋付近まで約1.3キロ)

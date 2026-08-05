@@ -1,0 +1,23 @@
+{
+ "host": "a-meguro-st.com",
+ "name": "目黒駅前新聞",
+ "areas": [
+  "東京都目黒区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://a-meguro-st.com/top/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -1,0 +1,29 @@
+id: koto-gotouti-toyosu-91530
+name: スーパー縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyosu.tokyo/event/super-ennichi-march-2026/
+    source_name: とよすと
+    source_type: media
+    checked_at: 2026-08-06

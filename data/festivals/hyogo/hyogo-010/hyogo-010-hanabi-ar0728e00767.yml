@@ -7,11 +7,11 @@ area:
   city: 川西市
   ward: null
 venue:
-  name: 猪名川河川敷
-  address: 川西市小花二丁目
+  name: 猪名川河川敷（大阪側＝池田市桃園／兵庫側＝川西市小花・下加茂）
+  address: 兵庫県川西市小花
   lat: 34.824133
   lng: 135.418952
-organizer: 池田市シティプロモーション課
+organizer: 猪名川花火大会開催委員会（池田市・川西市）
 stalls: yes
 tags:
   - 花火
@@ -19,17 +19,22 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.kawanishi.hyogo.jp/shiseijoho/shokai/kisetu/1022518.html
+  - title: 池田市「令和8年第77回猪名川花火大会の開催について」
+    url: https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/citypro/event/18901.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0728e00767/
 occurrences:
   - year: 2026
     dates:
       - 2026-11-07
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0728e00767/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/citypro/event/18901.html
+    source_name: 池田市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 従来は8月開催だったが、熱中症対策・安全面の理由で2026年度は11月7日に変更された
 station: 阪急電鉄川西能勢口駅または池田駅から徒歩10分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Inagawa_Hanabi.jpeg

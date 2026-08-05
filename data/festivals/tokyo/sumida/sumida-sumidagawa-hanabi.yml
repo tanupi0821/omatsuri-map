@@ -7,28 +7,33 @@ area:
   city: 墨田区
   ward: null
 venue:
-  name: 隅田川沿い（第一・第二会場）
-  address: null
+  name: 隅田川（第一会場：桜橋下流〜言問橋上流／第二会場：駒形橋下流〜厩橋上流）
+  address: 東京都墨田区
   lat: null
   lng: null
 station: 浅草
-organizer: null
+organizer: 隅田川花火大会実行委員会
 stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 東京都「令和8年（第49回）隅田川花火大会」
+    url: https://www.kasenrikatsuyou.metro.tokyo.lg.jp/events/info/sumida-fireworks-2026.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00858/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
     start_time: 19:00
-    end_time: null
+    end_time: 20:30
     status: confirmed
-    source_url: https://sumida-media.tokyo.jp/archives/1023
-    source_name: すみだデスク
-    source_type: media
-    checked_at: 2026-08-03
+    source_url: https://www.kasenrikatsuyou.metro.tokyo.lg.jp/events/info/sumida-fireworks-2026.html
+    source_name: 東京都
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 第一会場の打上開始は19:00、第二会場は19:30。会場は台東区と墨田区にまたがる
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg/1280px-2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
     width: 1000

@@ -1,0 +1,30 @@
+id: osaka-020-hsumi-yatahigashi
+name: 矢田東ふれ愛フェスティバル 花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市東住吉区
+  ward: null
+venue:
+  name: 西浦池グラウンド
+  address: 大阪市東住吉区住道矢田3-9
+  lat: null
+  lng: null
+organizer: 矢田東地域
+stalls: unknown
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 19:30
+    end_time: 20:15
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000600898.html
+    source_name: 大阪市東住吉区
+    source_type: gov
+    checked_at: 2026-08-06

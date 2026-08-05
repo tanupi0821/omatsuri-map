@@ -7,11 +7,11 @@ area:
   city: 能代市
   ward: null
 venue:
-  name: 能代港下浜ふ頭特設会場
-  address: 能代市能代町
+  name: 能代港下浜ふ頭 特設会場
+  address: 秋田県能代市
   lat: 40.219591
   lng: 140.015172
-organizer: 能代の花火実行委員会
+organizer: 能代の花火実行委員会（能代商工会議所内）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://noshiro-hanabi.com/
+  - title: 能代観光協会 第22回港まつり 能代の花火
+    url: https://welcomenoshiro.com/event/22thnoshiro%EF%BD%B0hanabi/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0205e01043/
 occurrences:
   - year: 2026
     dates:
@@ -26,11 +30,12 @@ occurrences:
     start_time: 19:30
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0205e01043/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR能代駅から徒歩30分
+    source_url: https://welcomenoshiro.com/event/22thnoshiro%EF%BD%B0hanabi/
+    source_name: 能代観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 雨天決行。荒天の場合は7月19日（日）・20日（月）に順延
+station: JR五能線 能代駅
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Noshiro_Fireworks_2017a.jpg/1280px-Noshiro_Fireworks_2017a.jpg
     width: 1000

@@ -1,0 +1,29 @@
+id: hyogo-001-gotouti-akashitowns-37362
+name: 手持ち花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: 】明石T3テラス
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://akashitowns.com/event/37362/
+    source_name: 明石たうんず
+    source_type: media
+    checked_at: 2026-08-06

@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 秋吉台カルスト展望台周辺
-  address: 美祢市秋芳町秋吉
+  address: 山口県美祢市秋芳町秋吉3506-2
   lat: 34.238286
   lng: 131.300801
-organizer: 秋吉台観光まつり実行委員会事務局
+organizer: 秋吉台観光まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:10
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0835e00698/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://karusuto.com/event/hanabi2026/
+    source_name: 美祢市観光協会
+    source_type: official
+    checked_at: 2026-08-06
 station: JR新山口駅から秋芳洞方面行きバスで約40分、秋芳洞停留所下車徒歩20分

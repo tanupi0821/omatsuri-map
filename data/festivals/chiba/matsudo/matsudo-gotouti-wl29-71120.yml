@@ -1,0 +1,30 @@
+id: matsudo-gotouti-wl29-71120
+name: 納涼 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: いちご公園
+  address: 松戸市二十世紀が丘萩町38
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://wl29.net/2026/07/14/matsudoi6777253/
+    source_name: 松戸ロード　松戸の地域情報ブログ
+    source_type: media
+    checked_at: 2026-08-06

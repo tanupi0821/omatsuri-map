@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 江戸川河川敷（大洲三丁目地先）
-  address: null
+  address: 千葉県市川市大洲3丁目地先
   lat: 35.7188
   lng: 139.901351
-organizer: 市川市民納涼花火大会実行委員会事務局
+organizer: 市川市民納涼花火大会実行委員会
 tags:
   - 花火
 description: null
@@ -20,6 +20,10 @@ links:
     url: https://hanabi.walkerplus.com/detail/ar0312e01102/
   - title: 号外NET 市川市
     url: https://ichikawa.goguynet.jp/2026/06/07/ichikawashihanabitakai/
+  - title: 市川市「令和8年度 第42回市川市民納涼花火大会」
+    url: https://www.city.ichikawa.lg.jp/eco04/1111000127.html
+  - title: 市川市民納涼花火大会 公式ホームページ
+    url: https://www.ichikawa-hanabi.net/
 occurrences:
   - year: 2026
     dates:
@@ -27,10 +31,11 @@ occurrences:
     start_time: 19:15
     end_time: 20:20
     status: confirmed
-    source_url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/
-    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
-    source_type: media
-    checked_at: 2026-08-03
+    source_url: https://www.city.ichikawa.lg.jp/eco04/1111000127.html
+    source_name: 市川市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 打上時刻は市川市のページに記載がなく、以前の発表による
 stalls: yes
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%83%BB%E5%B8%82%E5%B7%9D%E5%B8%82%E6%B0%91%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2019.jpg/1280px-%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%83%BB%E5%B8%82%E5%B7%9D%E5%B8%82%E6%B0%91%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2019.jpg

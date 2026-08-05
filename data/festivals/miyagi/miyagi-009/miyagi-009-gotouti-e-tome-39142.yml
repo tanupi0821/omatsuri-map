@@ -1,0 +1,29 @@
+id: miyagi-009-gotouti-e-tome-39142
+name: くりこま夜市マーケット
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 登米市
+  ward: null
+venue:
+  name: 六日町通り商店街（住所：宮城県栗原市栗駒岩ケ崎六日町３４）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://e-tome.info/articles/kurikoma_nightmarket/
+    source_name: e-tomeINFO
+    source_type: media
+    checked_at: 2026-08-06

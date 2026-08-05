@@ -1,0 +1,29 @@
+id: hyogo-004-gotouti-nishinomiya-style-71897
+name: こどもフェスタ
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 西宮市
+  ward: null
+venue:
+  name: 赤胴車のある広場／メルカードむこがわ三角広場の2ヶ所で開催
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://nishinomiya-style.jp/blog/2026/05/05/71897
+    source_name: 西宮流
+    source_type: media
+    checked_at: 2026-08-06

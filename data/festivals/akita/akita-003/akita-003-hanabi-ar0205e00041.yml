@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 長木川河川敷
-  address: 大館市字観音堂
+  address: 秋田県大館市
   lat: 40.276825
   lng: 140.572123
-organizer: 一社)大館市観光協会
+organizer: 大館大文字まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,18 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.odate.lg.jp/city/kankou/festibal/festa/summer/daimonzi
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0205e00041/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: 20:10
+    start_time: 20:15
     end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0205e00041/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.odate.lg.jp/city/kankou/festibal/festa/summer/daimonzi
+    source_name: 大館市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 大文字焼きは20:00から。市の告知に花火の終了時刻は記載がない
 station: JR大館駅からタクシーで約5分

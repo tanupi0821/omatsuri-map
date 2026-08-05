@@ -7,11 +7,11 @@ area:
   city: 長生郡一宮町
   ward: null
 venue:
-  name: 一宮海岸
-  address: 長生郡一宮町新地
+  name: 一宮海岸（2号突堤）
+  address: 千葉県長生郡一宮町一宮地先
   lat: 35.382035
   lng: 140.391637
-organizer: 一宮町観光協会事務局
+organizer: 一宮町観光協会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://ichinomiya.org/
+  - title: 一宮町観光協会 一宮町納涼花火大会
+    url: https://ichinomiya.org/spot/%E4%B8%80%E5%AE%AE%E7%94%BA%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00900/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,11 @@ occurrences:
     start_time: 19:10
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e00900/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR上総一ノ宮駅からタクシーで約5分
+    source_url: https://ichinomiya.org/spot/%E4%B8%80%E5%AE%AE%E7%94%BA%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/
+    source_name: 一宮町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 打上時刻は観光協会のページに記載がなく、以前の発表による
+station: JR外房線 上総一ノ宮駅
+recurrence: 8月第1土曜日
+recurrence_source: https://ichinomiya.org/spot/%E4%B8%80%E5%AE%AE%E7%94%BA%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/

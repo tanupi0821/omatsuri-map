@@ -1,0 +1,29 @@
+id: osaka-014-gotouti-machitto-209736
+name: こども縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 箕面市
+  ward: null
+venue:
+  name: 箕面市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machitto.jp/kashiwa/209736/
+    source_name: まちっと北摂
+    source_type: media
+    checked_at: 2026-08-06

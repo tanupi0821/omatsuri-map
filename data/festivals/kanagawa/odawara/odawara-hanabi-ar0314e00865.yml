@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 酒匂川スポーツ広場
-  address: 小田原市寿町五丁目
+  address: 神奈川県小田原市寿町5-22
   lat: 35.267013
   lng: 139.173331
 organizer: 一社)小田原市観光協会
@@ -23,6 +23,12 @@ links:
     url: https://rarea.events/event/303230
   - title: 神奈川すまいラボ
     url: https://kanagawa-sumai-labo.com/odawara-shi-natsumatsuri/
+  - title: 小田原市 第37回小田原酒匂川花火大会
+    url: https://www.city.odawara.kanagawa.jp/kanko/event/AUG/p36642.html
+  - title: 小田原市観光協会 第37回小田原酒匂川花火大会
+    url: https://www.odawara-kankou.com/hanabi/sakawa-hanabi.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0314e00865/
 occurrences:
   - year: 2026
     dates:
@@ -30,8 +36,9 @@ occurrences:
     start_time: 18:30
     end_time: 20:10
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0314e00865/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR鴨宮駅南口から徒歩15分、JR・小田急小田原駅から城東車庫行きバスで今井停留所下車、徒歩5分
+    source_url: https://www.city.odawara.kanagawa.jp/kanko/event/AUG/p36642.html
+    source_name: 小田原市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 18:30〜19:10はオープニングセレモニー、花火の打上げは19:10から20:10
+station: JR東海道線 鴨宮駅（徒歩約15分）／小田原駅（徒歩約20分）

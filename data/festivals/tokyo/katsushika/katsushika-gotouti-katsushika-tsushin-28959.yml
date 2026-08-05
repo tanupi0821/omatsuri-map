@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-28959
+name: 第38回 西小菅ふるさと祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 西小菅小学校
+  address: 葛飾区小菅1-25-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/28959.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,23 @@
+{
+ "host": "takara-machinet.com",
+ "name": "宝まちねっと",
+ "areas": [
+  "石川県羽咋郡宝達志水町"
+ ],
+ "prefs": [
+  "石川県"
+ ],
+ "url": "https://takara-machinet.com/",
+ "skipped": "REST 不可 (403)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

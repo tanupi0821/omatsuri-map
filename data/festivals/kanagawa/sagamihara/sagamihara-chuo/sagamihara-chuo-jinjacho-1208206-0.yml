@@ -17,7 +17,9 @@ organizer: 亀ヶ池八幡宮
 shrine: 亀ヶ池八幡宮
 tags: []
 description: null
-links: []
+links:
+  - title: 亀ヶ池八幡宮 公式サイト
+    url: http://www.kamegaike.jp
 occurrences:
   - year: 2026
     dates:

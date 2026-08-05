@@ -11,7 +11,7 @@ venue:
   address: 島田市河原一丁目
   lat: 34.828604
   lng: 138.151488
-organizer: 一社)島田市観光協会
+organizer: 一般社団法人島田市観光協会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://ooigawa-hanabi.jp/
+  - title: 島田市 第39回大井川大花火大会
+    url: https://www.city.shimada.shizuoka.jp/kanko-docs/ooigawa_hanabi.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0622e01025/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e01025/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://ooigawa-hanabi.jp/
+    source_name: 一般社団法人島田市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天時は8月2日（日）に順延、2日も荒天なら8月22日（土）に延期
 station: JR島田駅から徒歩25分、JR金谷駅から徒歩20分、大井川鉄道新金谷駅から徒歩5分

@@ -7,8 +7,8 @@ area:
   city: 八代市
   ward: null
 venue:
-  name: 球磨川河川緑地(新萩原橋上流)
-  address: 八代市渡町
+  name: 球磨川河川緑地（新萩原橋上流）
+  address: 熊本県八代市
   lat: 32.494083
   lng: 130.62875
 organizer: やつしろ全国花火競技大会実行委員会事務局
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.kinasse-yatsushiro.jp/hanabi/#second
+  - title: 第39回やつしろ全国花火競技大会 公式サイト
+    url: https://www.8246hanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar1043e01051/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 18:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1043e01051/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.8246hanabi.com/
+    source_name: やつしろ全国花火競技大会実行委員会（事務局：八代市観光振興課）
+    source_type: official
+    checked_at: 2026-08-06
+    note: 小雨決行。荒天や増水で打上げ現場が流失した場合は11月7日（土）に延期。物産展・露店は12:00から
 station: JR・肥薩おれんじ鉄道八代駅から徒歩10分

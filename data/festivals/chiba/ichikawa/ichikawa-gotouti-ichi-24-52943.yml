@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-52943
+name: 第28回浦安市民まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 浦安公園側（市役所前）停留所
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/52943
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

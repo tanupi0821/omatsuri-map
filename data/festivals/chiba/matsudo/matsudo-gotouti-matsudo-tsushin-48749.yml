@@ -1,0 +1,29 @@
+id: matsudo-gotouti-matsudo-tsushin-48749
+name: こども縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 栗ヶ沢公園
+  address: 松戸市小金原8-26
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 15:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://matsudo-tsushin.com/48749.html
+    source_name: 松戸つうしん
+    source_type: media
+    checked_at: 2026-08-06

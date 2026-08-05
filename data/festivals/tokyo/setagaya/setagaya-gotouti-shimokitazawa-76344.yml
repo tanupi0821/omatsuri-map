@@ -1,0 +1,30 @@
+id: setagaya-gotouti-shimokitazawa-76344
+name: 下北沢の街を巡る夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: だけでなく
+  address: null
+  lat: null
+  lng: null
+organizer: 下北緑日実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.shimokitazawa.info/news/2026/07/shimokitaennichi2026/
+    source_name: しもブロ
+    source_type: media
+    checked_at: 2026-08-06

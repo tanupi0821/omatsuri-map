@@ -11,7 +11,7 @@ venue:
   address: 鶴岡市大宝寺
   lat: 38.730986
   lng: 139.847903
-organizer: 赤川花火大会実行委員会事務局
+organizer: 赤川花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://akagawahanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0206e00656/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:15
     end_time: 20:45
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0206e00656/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://akagawahanabi.com/
+    source_name: 赤川花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 無料観覧席はなく、事前のチケット予約が必要。日付・時刻は公式サイトに記載がなく、以前の発表による
 station: JR鶴岡駅から徒歩30分

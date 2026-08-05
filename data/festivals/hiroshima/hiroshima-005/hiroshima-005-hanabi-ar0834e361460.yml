@@ -26,8 +26,9 @@ occurrences:
     start_time: 18:00
     end_time: 18:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0834e361460/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.etajima.hiroshima.jp/cms/articles/show/12090
+    source_name: 江田島市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は江田島市のページに記載がなく、以前の発表による
 station: JR広島駅から市電(約35分)で広島港下車、高速艇(約25分)で小用港下船、タクシーで約5分

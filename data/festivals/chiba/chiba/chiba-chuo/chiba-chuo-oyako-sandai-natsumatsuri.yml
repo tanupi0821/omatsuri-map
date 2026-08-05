@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-station: 千葉
+station: JR「千葉駅」徒歩約7分／千葉都市モノレール「葭川公園駅」徒歩約3分
 organizer: "千葉市を美しくする会（共催: 千葉市）"
 stalls: yes
 tags: []
@@ -29,11 +29,11 @@ occurrences:
     dates:
       - 2026-08-15
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 20:00
     status: confirmed
     source_url: https://www.city.chiba.jp/shimin/shimin/jichi/event/documents/oyakosandai50.html
     source_name: 千葉市
     source_type: gov
-    checked_at: 2026-08-05
-    note: 初日が前夜祭、2日目が本祭り
+    checked_at: 2026-08-06
+    note: 初日（8月15日）は11時開始、2日目（8月16日）は20時終了

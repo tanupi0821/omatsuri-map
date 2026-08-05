@@ -26,8 +26,11 @@ occurrences:
     start_time: 19:40
     end_time: 20:20
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0516e00064/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: あいの風とやま鉄道線魚津駅から徒歩15分
+    source_url: https://uozu-kanko.jp/library/jyantokoi_uozu_matsuri/
+    source_name: 魚津市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 祭り全体は8月7日から9日の3日間で、花火は台船から打ち上げる。花火の時刻は観光協会のページに記載がなく、以前の発表による
+station: あいの風とやま鉄道 魚津駅
+recurrence: 8月第1週の金・土・日
+recurrence_source: https://uozu-kanko.jp/library/jyantokoi_uozu_matsuri/

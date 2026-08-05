@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 明和町ふるさとの広場
-  address: 邑楽郡明和町南大島
+  address: 群馬県邑楽郡明和町南大島1073番地
   lat: 36.21115
   lng: 139.53674
 organizer: 明和町役場産業振興課
@@ -26,8 +26,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0310e01085/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 東武伊勢崎線川俣駅から徒歩15分
+    source_url: https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html
+    source_name: 明和町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天時は9月19日に順延
+station: 東武伊勢崎線 川俣駅東口（徒歩約15分）

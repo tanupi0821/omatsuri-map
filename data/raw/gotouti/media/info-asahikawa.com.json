@@ -1,0 +1,23 @@
+{
+ "host": "info-asahikawa.com",
+ "name": "旭川・生活暮らし情報お届けブログ",
+ "areas": [
+  "北海道旭川市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://info-asahikawa.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

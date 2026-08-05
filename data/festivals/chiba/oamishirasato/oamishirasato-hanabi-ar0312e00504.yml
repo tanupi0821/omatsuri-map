@@ -7,8 +7,8 @@ area:
   city: 大網白里市
   ward: null
 venue:
-  name: 白里海岸
-  address: 大網白里市南今泉
+  name: 白里海岸（白里海水浴場）
+  address: 千葉県大網白里市
   lat: 35.48889
   lng: 140.424297
 organizer: 大網白里市なつまつり実行委員会
@@ -21,6 +21,10 @@ links:
     url: https://www.city.oamishirasato.lg.jp/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0312/yatai/
+  - title: 大網白里市「おおあみしらさとの花火を9月26日（土曜日）に開催します！」
+    url: https://www.city.oamishirasato.lg.jp/0000015266.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00504/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +32,9 @@ occurrences:
     start_time: 18:30
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e00504/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.oamishirasato.lg.jp/0000015266.html
+    source_name: 大網白里市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 予備日は9月27日。例年は7月開催だったが2026年は9月開催
 station: JR大網駅から小湊鐵道バス(白子車庫行き、またはサンライズ九十九里行き)で約30分、白里海岸停留所下車徒歩5分

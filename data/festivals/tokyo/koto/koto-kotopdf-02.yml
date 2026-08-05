@@ -1,0 +1,29 @@
+id: koto-kotopdf-02
+name: 深川福住町会 納涼会＆子どもえんにち
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 福住会館
+  address: 江東区福住1-3-8
+  lat: null
+  lng: null
+organizer: 深川福住町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 15:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06

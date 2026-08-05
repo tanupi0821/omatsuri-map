@@ -17,7 +17,9 @@ organizer: 糸縄神社
 shrine: 糸縄神社
 tags: []
 description: null
-links: []
+links:
+  - title: 糸縄神社 公式サイト
+    url: http://www.sugiyama-jinja.or.jp/itonawa/
 occurrences:
   - year: 2026
     dates:

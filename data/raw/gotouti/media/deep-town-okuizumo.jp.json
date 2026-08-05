@@ -1,0 +1,23 @@
+{
+ "host": "deep-town-okuizumo.jp",
+ "name": "Deep Town Okuizumo",
+ "areas": [
+  "島根県仁多郡奥出雲町"
+ ],
+ "prefs": [
+  "島根県"
+ ],
+ "url": "https://deep-town-okuizumo.jp/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

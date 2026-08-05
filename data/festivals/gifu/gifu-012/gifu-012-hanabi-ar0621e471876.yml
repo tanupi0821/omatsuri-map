@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 下渡橋下流 長良川河畔
-  address: 美濃市生櫛
+  address: 岐阜県美濃市横越中島地内
   lat: 35.532843
   lng: 136.900076
-organizer: null
+organizer: 美濃市花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:30
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0621e471876/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 長良川鉄道美濃市駅から徒歩40分
+    source_url: https://minokanko.com/event/category/summer/p7968/
+    source_name: 美濃市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: 長良川鉄道 美濃市駅

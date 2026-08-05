@@ -1,0 +1,29 @@
+id: osaka-005-gotouti-machitto-204642
+name: 子ども縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 吹田市
+  ward: null
+venue:
+  name: 吹田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machitto.jp/kashiwa/204642/
+    source_name: まちっと北摂
+    source_type: media
+    checked_at: 2026-08-06

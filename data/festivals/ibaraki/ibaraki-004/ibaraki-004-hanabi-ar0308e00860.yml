@@ -11,7 +11,7 @@ venue:
   address: 東茨城郡大洗町港中央
   lat: 36.303734
   lng: 140.571674
-organizer: null
+organizer: 大洗のまつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://oarai-senyagura.com/
+  - title: 大洗海上花火大会2026 公式ホームページ
+    url: https://www.oarai-hanabi.jp/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e00860/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,8 @@ occurrences:
     start_time: 18:00
     end_time: 19:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e00860/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.oarai-hanabi.jp/
+    source_name: 大洗のまつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: 鹿島臨海鉄道大洗駅から徒歩20分

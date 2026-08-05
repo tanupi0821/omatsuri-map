@@ -1,0 +1,25 @@
+{
+ "host": "urban-notes.net",
+ "name": "URBAN NOTES",
+ "areas": [
+  "大阪府",
+  "兵庫県"
+ ],
+ "prefs": [
+  "大阪府",
+  "兵庫県"
+ ],
+ "url": "https://urban-notes.net/",
+ "skipped": "REST 不可 (401)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

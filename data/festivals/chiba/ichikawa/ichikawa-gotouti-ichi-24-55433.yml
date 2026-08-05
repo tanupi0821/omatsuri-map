@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-55433
+name: 第42回 市川市民納涼花火大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: マップによると
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55433
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

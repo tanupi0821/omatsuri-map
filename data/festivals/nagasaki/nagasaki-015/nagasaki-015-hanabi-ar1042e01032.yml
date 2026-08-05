@@ -7,11 +7,11 @@ area:
   city: 大村市
   ward: null
 venue:
-  name: ボートレース大村沖
-  address: null
+  name: ボートレース大村（大村湾）
+  address: 長崎県大村市玖島1丁目45-3
   lat: 32.897375
   lng: 129.950504
-organizer: 一社)大村市観光コンベンション協会
+organizer: 一般社団法人大村市観光コンベンション協会
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,20 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.omura.nagasaki.jp/kanko/joho/event/index.html
+  - title: 大村市観光コンベンション協会 おおむら夏越花火大会特設ページ
+    url: https://e-oomura.jp/pages/45/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar1042e01032/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 21:30
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1042e01032/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://e-oomura.jp/pages/45/
+    source_name: 一般社団法人大村市観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 打上げは長崎空港の最終便が発着したあと（21:30頃）から約15分。雨天中止
 station: JR大村駅から徒歩25分、または長崎県営バス(約10分)で大村市役所前停留所下車、徒歩10分

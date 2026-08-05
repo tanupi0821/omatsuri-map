@@ -11,7 +11,7 @@ venue:
   address: 柏市大井新田
   lat: 35.861508
   lng: 140.008208
-organizer: null
+organizer: 手賀沼花火大会実行委員会（柏市・我孫子市の両市役所および商工団体で構成）
 stalls: yes
 tags:
   - 花火
@@ -21,18 +21,25 @@ links:
     url: https://teganuma-hanabi.kashiwa-cci.or.jp/
   - title: 地域メディア（まいぷれ船橋／千葉すまいラボ）
     url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
+  - title: 柏市 手賀沼花火大会2026
+    url: https://www.city.kashiwa.lg.jp/shoko/teganumahanabi2026.html
+  - title: 我孫子市 手賀沼花火大会2026の開催について
+    url: https://www.city.abiko.chiba.jp/event/event_moyooshi/hanabi2026.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00930/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: 19:10
+    start_time: 19:00
     end_time: 20:10
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e00930/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR北柏駅から徒歩25分、JR柏駅東口から徒歩40分(柏会場・有料観覧エリア)
+    source_url: https://www.city.kashiwa.lg.jp/shoko/teganumahanabi2026.html
+    source_name: 柏市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 19:00開会式、19:10頃から打上開始。柏会場は手賀沼自然ふれあい緑道、我孫子会場は手賀沼公園ほか（我孫子市若松1番地ほか）
+station: JR常磐線 北柏駅・柏駅
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Teganuma_Fireworks_Festival_2014.jpg/1280px-Lake_Teganuma_Fireworks_Festival_2014.jpg
     width: 1000

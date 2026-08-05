@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 息栖神社周辺 常陸利根川河畔
-  address: 神栖市息栖
+  address: 茨城県神栖市息栖
   lat: 35.885468
   lng: 140.620511
-organizer: 一社)神栖市観光協会
+organizer: 一般社団法人神栖市観光協会・神栖市商工会
 stalls: yes
 tags:
   - 花火
@@ -19,16 +19,19 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.kamisu-kanko.jp/event-page/natsumatsuri.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e358258/
 occurrences:
   - year: 2025
     dates:
       - 2025-11-22
     start_time: 17:50
-    end_time: null
+    end_time: 18:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e358258/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 出典は2025年の日程のまま。2026年の開催は発表されていない
-station: JR潮来駅・鹿島神宮駅からタクシーで約20分
+    source_url: https://www.kamisu-kanko.jp/event-page/natsumatsuri.html
+    source_name: 一般社団法人神栖市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: メイン会場は息栖にぎわいテラス駐車場。2026年の開催は本稿の確認時点で未発表
+station: JR総武線 小見川駅（タクシー10分）／JR鹿島線 鹿島神宮駅・潮来駅（タクシー20分）
+shrine: 息栖神社

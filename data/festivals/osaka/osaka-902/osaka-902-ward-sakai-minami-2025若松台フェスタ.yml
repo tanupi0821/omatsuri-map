@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 若松台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区若松台1丁3-1
+  lat: 34.49150454
+  lng: 135.5066883
 organizer: 若松台地域
 stalls: unknown
 tags: []

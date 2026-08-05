@@ -7,11 +7,11 @@ area:
   city: 大仙市
   ward: null
 venue:
-  name: 大仙市大曲雄物川河畔(「大曲の花火」公園)
-  address: 大仙市小貫高畑
+  name: 「大曲の花火」公園（雄物川河畔）
+  address: 秋田県大仙市大曲雄物川河畔
   lat: 39.453857
   lng: 140.467554
-organizer: 大曲商工会議所 花火振興事業部
+organizer: 大曲商工会議所・大仙市
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,20 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.omagari-hanabi.com/
+  - title: 大曲の花火 公式サイト 開催概要（全国花火競技大会）
+    url: https://www.omagari-hanabi.com/overview/summer
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0205e00654/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
     start_time: 17:10
-    end_time: 18:00
+    end_time: 21:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0205e00654/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.omagari-hanabi.com/overview/summer
+    source_name: 大曲商工会議所・大仙市
+    source_type: official
+    checked_at: 2026-08-06
+    note: 昼花火は17:10〜18:00、夜花火は19:00〜21:30
 station: JR大曲駅から徒歩30分

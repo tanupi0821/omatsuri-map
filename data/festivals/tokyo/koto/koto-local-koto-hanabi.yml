@@ -7,14 +7,18 @@ area:
   city: 江東区
   ward: null
 venue:
-  name: 荒川・砂町水辺公園
-  address: null
+  name: 荒川・砂町水辺公園（葛西橋と清砂大橋の間）
+  address: 東京都江東区
   lat: null
   lng: null
-organizer: null
+organizer: 江東花火大会実行委員会
 tags: []
 description: null
-links: []
+links:
+  - title: 江東区 江東花火大会2026
+    url: https://www.city.koto.lg.jp/101000/kotohanabi.html
+  - title: 江東花火大会 公式WEBサイト
+    url: https://koto-hanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -22,8 +26,9 @@ occurrences:
     start_time: 19:00
     end_time: 20:00
     status: confirmed
-    source_url: https://minamisuna1.com/37573/
-    source_name: 江東区の情報サイト
-    source_type: media
-    checked_at: 2026-08-03
+    source_url: https://www.city.koto.lg.jp/101000/kotohanabi.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 小雨決行、荒天等の場合は中止で順延日なし。時刻は区のページに記載がなく、以前の発表による
 stalls: unknown

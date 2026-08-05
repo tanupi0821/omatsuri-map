@@ -11,7 +11,7 @@ venue:
   address: 狭山市広瀬東二丁目
   lat: 35.855944
   lng: 139.398512
-organizer: 狭山市観光協会
+organizer: 狭山市入間川七夕まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.sayama-kanko.jp/
+  - title: 狭山市 狭山市入間川七夕まつり
+    url: https://www.city.sayama.saitama.jp/kankou/kanko/tanabata/index.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e00413/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00413/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 西武鉄道狭山市駅西口から徒歩3分
+    source_url: https://www.city.sayama.saitama.jp/kankou/kanko/tanabata/index.html
+    source_name: 狭山市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 七夕まつり自体は8月1日・2日の2日間。花火は初日のみ
+station: 西武新宿線 狭山市駅

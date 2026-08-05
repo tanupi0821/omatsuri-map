@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-29231
+name: 第18回 小菅四丁目町会子ども祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 白鷺公園
+  address: 葛飾区小菅4-2-25
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 10:00
+    end_time: 11:30
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/29231.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 富士森公園
-  address: 八王子市台町二丁目
+  address: 東京都八王子市台町2-2
   lat: 35.651621
   lng: 139.321575
 organizer: 公社)八王子観光コンベンション協会
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.hkc.or.jp/fireworks/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00929/
 occurrences:
   - year: 2026
     dates:
@@ -26,11 +28,12 @@ occurrences:
     start_time: 19:00
     end_time: 20:15
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e00929/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR八王子駅またはJR西八王子駅から徒歩20分
+    source_url: https://www.hkc.or.jp/fireworks/
+    source_name: 公益社団法人八王子観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天中止
+station: JR八王子駅南口・JR西八王子駅南口・京王線 山田駅
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg/1280px-Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg
     width: 1000

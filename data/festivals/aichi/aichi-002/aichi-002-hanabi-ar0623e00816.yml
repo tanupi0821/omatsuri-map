@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 桜淵公園
-  address: 新城市庭野
+  address: 愛知県新城市庭野字八名井田2-1
   lat: 34.893134
   lng: 137.505216
 organizer: 新城市観光協会
@@ -26,8 +26,9 @@ occurrences:
     start_time: 19:20
     end_time: 20:45
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0623e00816/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://shinshirokankou.com/feature/detail/124/
+    source_name: 新城市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天時は8月15日に延期
 station: JR新城駅から徒歩15分

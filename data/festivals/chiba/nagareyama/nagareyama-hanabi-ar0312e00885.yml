@@ -1,5 +1,5 @@
 id: nagareyama-hanabi-ar0312e00885
-name: 令和7年度  流山花火大会
+name: 令和8年度 流山花火大会
 kind: 花火
 scale: 市
 area:
@@ -7,8 +7,8 @@ area:
   city: 流山市
   ward: null
 venue:
-  name: 流山1丁目～3丁目地先江戸川堤
-  address: 流山市流山三丁目
+  name: 江戸川堤（流山1〜3丁目地先）
+  address: 千葉県流山市流山1〜3丁目地先
   lat: 35.853892
   lng: 139.896764
 organizer: null
@@ -30,10 +30,11 @@ occurrences:
     start_time: 18:00
     end_time: 18:40
     status: confirmed
-    source_url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
-    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
-    source_type: media
-    checked_at: 2026-08-03
+    source_url: https://www.city.nagareyama.chiba.jp/tourism/1013059/1050206.html
+    source_name: 流山市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 市制施行60周年記念。三郷花火大会と同時開催
   - year: 2025
     dates:
       - 2025-10-04
@@ -45,4 +46,4 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
-station: 流鉄流山線流山駅または平和台駅から徒歩5分
+station: 流鉄流山線 流山駅・平和台駅（徒歩約5分）

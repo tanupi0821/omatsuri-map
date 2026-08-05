@@ -7,8 +7,8 @@ area:
   city: 能美郡川北町
   ward: null
 venue:
-  name: 川北町手取川河川敷(手取川簡易グラウンド)
-  address: 能美郡川北町字与九郎島
+  name: 手取川河川敷
+  address: 石川県能美郡川北町
   lat: 36.463353
   lng: 136.541032
 organizer: 北國新聞社事業局
@@ -24,10 +24,10 @@ occurrences:
     dates:
       - 2026-08-01
     start_time: 20:15
-    end_time: 21:00
+    end_time: 20:15
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0517e00674/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://hk-event.jp/hanabi/kawakita/index.html
+    source_name: 北國新聞社
+    source_type: official
+    checked_at: 2026-08-06
 station: JR美川駅からタクシーで約15分

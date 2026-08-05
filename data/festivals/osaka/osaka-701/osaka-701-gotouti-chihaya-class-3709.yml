@@ -1,0 +1,29 @@
+id: osaka-701-gotouti-chihaya-class-3709
+name: ㈯夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 千早赤阪村
+  ward: null
+venue:
+  name: 千早赤阪村内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 17:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://chihaya-class.com/archives/3709
+    source_name: 千早赤阪村コンシェルジュ
+    source_type: media
+    checked_at: 2026-08-06

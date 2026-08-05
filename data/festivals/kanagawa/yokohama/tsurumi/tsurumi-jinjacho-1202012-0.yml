@@ -17,7 +17,9 @@ organizer: 鶴見神社
 shrine: 鶴見神社
 tags: []
 description: null
-links: []
+links:
+  - title: 鶴見神社 公式サイト
+    url: http://www18.ocn.ne.jp/~tsurujin/
 occurrences:
   - year: 2026
     dates:

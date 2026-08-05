@@ -21,6 +21,10 @@ links:
     url: https://matsudo-hanabi.com/
   - title: 地域メディア（まいぷれ船橋／千葉すまいラボ）
     url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
+  - title: 松戸市「松戸花火大会2026 8月1日（土曜）開催！」
+    url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/matsuri/summer/matsudohanabi.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00979/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +32,9 @@ occurrences:
     start_time: 19:15
     end_time: 20:20
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e00979/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 松戸駅または北松戸駅から徒歩35分
+    source_url: https://www.city.matsudo.chiba.jp/miryoku/kankoumiryokubunka/matsuri/summer/matsudohanabi.html
+    source_name: 松戸市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天の場合は中止・順延なし
+station: JR常磐線 松戸駅・北松戸駅（徒歩約35分）

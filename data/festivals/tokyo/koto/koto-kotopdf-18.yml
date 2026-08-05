@@ -1,0 +1,31 @@
+id: koto-kotopdf-18
+name: 亀戸二丁目町会夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 文泉公園
+  address: 江東区亀戸2-4-14
+  lat: null
+  lng: null
+organizer: 亀戸２丁目町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 会場は 文泉公園 と 第一亀戸小学校 の 2 か所

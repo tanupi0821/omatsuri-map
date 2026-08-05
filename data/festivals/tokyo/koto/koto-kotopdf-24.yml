@@ -1,0 +1,30 @@
+id: koto-kotopdf-24
+name: 大島１・２丁目町会納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 第一大島小学校
+  address: 江東区大島2-41-4
+  lat: null
+  lng: null
+organizer: 大島１丁目・大島２丁目
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06

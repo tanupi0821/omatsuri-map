@@ -11,7 +11,7 @@ venue:
   address: 小樽市色内三丁目
   lat: 43.204541
   lng: 141.004443
-organizer: null
+organizer: おたる潮まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://otaru.ushiomatsuri.net/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e00713/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00713/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR小樽駅から徒歩10分
+    source_url: https://otaru.ushiomatsuri.net/
+    source_name: おたる潮まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 潮まつり自体は7月24日〜26日の3日間で、大花火大会は最終日。時刻は公式サイトに記載がなく、以前の発表による
+station: JR函館本線 小樽駅

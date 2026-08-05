@@ -1,0 +1,29 @@
+id: setagaya-gotouti-futakoloco-36419
+name: ラムズの縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 二子玉川ライズ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 11:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://futakoloco.com/36419/
+    source_name: futakoloco
+    source_type: media
+    checked_at: 2026-08-06

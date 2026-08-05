@@ -1,0 +1,23 @@
+{
+ "host": "local-with.me",
+ "name": "localwith",
+ "areas": [
+  "石川県"
+ ],
+ "prefs": [
+  "石川県"
+ ],
+ "url": "https://local-with.me/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

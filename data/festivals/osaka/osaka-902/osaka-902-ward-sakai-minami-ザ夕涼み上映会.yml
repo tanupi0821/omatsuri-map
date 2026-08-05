@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 茶山台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区茶山台2丁5-1
+  lat: 34.49089727
+  lng: 135.5171664
 organizer: 茶山台地域
 stalls: unknown
 tags: []

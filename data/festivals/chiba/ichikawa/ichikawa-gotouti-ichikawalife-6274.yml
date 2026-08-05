@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-6274
+name: 第42回市川市民納涼花火大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 江戸川河川敷（大洲三丁目地先）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:15
+    end_time: 20:20
+    status: confirmed
+    source_url: https://ichikawalife.com/ichikawa-fireworks/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-station: 成田
+station: JR成田線・京成本線「成田駅」
 organizer: null
 tags:
   - 山車
@@ -25,12 +25,12 @@ occurrences:
       - 2026-07-10
       - 2026-07-11
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 23:00
     status: confirmed
     source_url: http://www.nrtk.jp/enjoy/shikisaisai/gion-festival.html
     source_name: 成田市観光協会
     source_type: gov
-    checked_at: 2026-08-05
-    note: 2026年は佐原の大祭夏祭りと11年ぶりに同日開催
+    checked_at: 2026-08-06
+    note: 7月10日は13時30分から22時ごろ、11日は9時から22時ごろ、12日は13時から23時ごろ
 stalls: unknown

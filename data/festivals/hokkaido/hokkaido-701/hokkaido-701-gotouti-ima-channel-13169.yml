@@ -1,0 +1,29 @@
+id: hokkaido-701-gotouti-ima-channel-13169
+name: 第３回夢らんまん祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 北海道
+  city: 今金町
+  ward: null
+venue:
+  name: デ・モーレンいまかね(風車下)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ima-channel.com/enjoy/13169.html
+    source_name: いまCh.
+    source_type: media
+    checked_at: 2026-08-06

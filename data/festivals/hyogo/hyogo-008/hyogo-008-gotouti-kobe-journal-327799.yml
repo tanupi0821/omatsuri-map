@@ -1,0 +1,30 @@
+id: hyogo-008-gotouti-kobe-journal-327799
+name: しあわせの村まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: しあわせの村
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/5944876752.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

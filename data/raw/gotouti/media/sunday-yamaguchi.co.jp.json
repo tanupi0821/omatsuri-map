@@ -1,0 +1,23 @@
+{
+ "host": "sunday-yamaguchi.co.jp",
+ "name": "サンデー山口",
+ "areas": [
+  "山口県山口市"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "https://www.sunday-yamaguchi.co.jp/",
+ "skipped": "REST 不可 (Unexpected token '<', \"\n<!DOCTYPE \"... is not valid JSON)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

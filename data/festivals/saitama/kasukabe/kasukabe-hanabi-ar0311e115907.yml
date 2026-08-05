@@ -7,11 +7,11 @@ area:
   city: 春日部市
   ward: null
 venue:
-  name: 庄和総合公園
-  address: 春日部市金崎
+  name: レジデンシャルパークSHOWA（庄和総合公園）
+  address: 埼玉県春日部市
   lat: 35.991702
   lng: 139.800753
-organizer: 春日部市大凧花火大会実行委員会
+organizer: 庄和商工会・春日部大凧花火大会実行委員会（花火の部）
 stalls: yes
 tags:
   - 花火
@@ -21,15 +21,20 @@ links:
     url: https://www.city.kasukabe.lg.jp/index.html
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0311/yatai/
+  - title: 春日部市「第2回春日部大凧花火大会を開催（令和8年8月22日開催）」
+    url: https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminsankasuishinka/eventjoho/32193.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e115907/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 20:10
+    end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e115907/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 東武アーバンパークライン南桜井駅から徒歩25分
+    source_url: https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminsankasuishinka/eventjoho/32193.html
+    source_name: 春日部市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: イベント全体は15:30から21:00。まつりの部の主催は春日部市コミュニティ推進協議会
+station: 東武アーバンパークライン 南桜井駅

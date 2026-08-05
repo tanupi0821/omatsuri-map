@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 大船津地内北浦湖上
-  address: 鹿嶋市−
+  address: 茨城県鹿嶋市大船津
   lat: 35.958468
   lng: 140.609604
 organizer: 鹿嶋市観光協会
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: http://www.sopia.or.jp/kashima-kanko/2026hanabi.html
+  - title: 鹿嶋市「鹿嶋市花火大会（令和8年度開催について）」
+    url: https://www.city.kashima.ibaraki.jp/site/kankou/9118.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e01114/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0308e01114/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.kashima.ibaraki.jp/site/kankou/9118.html
+    source_name: 鹿嶋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天・霧・強風の場合は7月5日（日）に順延（鹿嶋市の発表）
 station: JR鹿島神宮駅から徒歩25分

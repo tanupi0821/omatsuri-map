@@ -1,0 +1,23 @@
+{
+ "host": "shin-okubo-plus.com",
+ "name": "新大久保プラス",
+ "areas": [
+  "東京都新宿区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://shin-okubo-plus.com/",
+ "skipped": "REST 不可 (502)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

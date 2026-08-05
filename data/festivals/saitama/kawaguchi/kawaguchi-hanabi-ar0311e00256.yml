@@ -21,6 +21,8 @@ links:
     url: https://www.tatara-matsuri.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0311/yatai/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e00256/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +30,9 @@ occurrences:
     start_time: 19:00
     end_time: 19:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00256/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.tatara-matsuri.com/
+    source_name: 川口市たたら祭り実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: たたら祭り本体は9月26日（土）・27日（日）の2日間。フィナーレ花火の時刻は公式サイトに記載がなく、以前の発表による
 station: 埼玉高速鉄道南鳩ヶ谷駅から徒歩15分、またはJR川口駅・西川口駅・蕨駅

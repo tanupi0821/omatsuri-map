@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-316475
+name: ハーバー盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 神戸ガス燈通り・はねっこ広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/9488772777.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

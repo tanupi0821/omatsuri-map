@@ -1,0 +1,29 @@
+id: fukuoka-004-gotouti-kitaq-media-139614
+name: 赤坂池公園夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kitaq.media/139614/
+    source_name: 北九州ノコト
+    source_type: media
+    checked_at: 2026-08-06

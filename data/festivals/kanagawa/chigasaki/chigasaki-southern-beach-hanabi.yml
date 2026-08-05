@@ -11,7 +11,7 @@ venue:
   address: null
   lat: 35.313096
   lng: 139.398881
-station: 茅ケ崎
+station: JR東海道線 茅ケ崎駅
 organizer: 茅ヶ崎市観光協会
 tags:
   - 花火
@@ -19,15 +19,17 @@ description: null
 links:
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/detail/ar0314e00899/
+  - title: 茅ヶ崎市観光協会 サザンビーチちがさき花火大会
+    url: https://www.chigasaki-kankou.org/event/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: 19:30
+    start_time: 19:20
     end_time: 20:10
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/chigasaki-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
+    source_url: https://www.chigasaki-kankou.org/event/hanabi/
+    source_name: 茅ヶ崎市観光協会
+    source_type: official
+    checked_at: 2026-08-06
 stalls: yes

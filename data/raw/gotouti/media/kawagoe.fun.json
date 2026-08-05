@@ -1,0 +1,23 @@
+{
+ "host": "kawagoe.fun",
+ "name": "川越マガジン",
+ "areas": [
+  "埼玉県川越市"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://kawagoe.fun/magazine/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

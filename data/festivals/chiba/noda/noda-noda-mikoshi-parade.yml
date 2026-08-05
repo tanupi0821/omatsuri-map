@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 野田市 本町通り周辺
-  address: null
+  address: 野田市野田
   lat: null
   lng: null
 organizer: 野田みこしパレード実行委員会（野田商工会議所内）
@@ -18,16 +18,19 @@ description: null
 links:
   - title: 野田市 みこしパレード
     url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
+  - title: ちば観光ナビ（千葉県公式観光サイト） 野田みこしパレード
+    url: https://maruchiba.jp/event/detail_12907.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: 16:00
-    end_time: 21:30
+    start_time: 15:30
+    end_time: 22:00
     status: confirmed
-    source_url: https://www.city.noda.chiba.jp/shisei/profile/bunkazai/matsuri/1000829.html
-    source_name: 野田市
+    source_url: https://maruchiba.jp/event/detail_12907.html
+    source_name: ちば観光ナビ（千葉県公式観光サイト）
     source_type: gov
-    checked_at: 2026-08-05
-    note: 子どもみこしは16時から17時、大人みこしは17時40分から21時30分
+    checked_at: 2026-08-06
+    note: 子どもみこしは16時から、大人みこしは17時40分から
 stalls: unknown
+station: 東武アーバンパークライン「愛宕駅」徒歩約5分

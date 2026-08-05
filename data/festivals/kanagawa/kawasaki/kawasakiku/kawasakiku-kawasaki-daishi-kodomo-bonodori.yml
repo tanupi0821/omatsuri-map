@@ -8,14 +8,16 @@ area:
   ward: 川崎区
 venue:
   name: 川崎大師 薬師殿やすらぎ広場
-  address: null
+  address: 川崎市川崎区大師町4-48
   lat: null
   lng: null
 organizer: 川崎大師 日曜教苑
 tags:
   - 子ども向け
 description: null
-links: []
+links:
+  - title: 川崎大師平間寺 8月の行事
+    url: https://www.kawasakidaishi.com/event/aug/
 occurrences:
   - year: 2026
     dates:

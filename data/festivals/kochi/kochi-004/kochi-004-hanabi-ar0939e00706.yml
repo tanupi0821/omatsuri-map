@@ -7,11 +7,11 @@ area:
   city: 四万十市
   ward: null
 venue:
-  name: 赤鉄橋たもと(四万十川河川敷)
-  address: 四万十市具同
+  name: 四万十川お祭り広場（赤鉄橋たもとの四万十川河川敷）
+  address: 高知県四万十市
   lat: 32.988037
   lng: 132.927506
-organizer: 一社)四万十市観光協会
+organizer: 一般社団法人四万十市観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0939e00706/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://shimanto-kankou.com/shiminsai/hanabi/
+    source_name: 一般社団法人四万十市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天・増水時は9月5日に延期
 station: 土佐くろしお鉄道中村駅から徒歩30分

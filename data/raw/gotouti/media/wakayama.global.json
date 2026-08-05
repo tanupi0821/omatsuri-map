@@ -1,0 +1,23 @@
+{
+ "host": "wakayama.global",
+ "name": "wakayama.global",
+ "areas": [
+  "和歌山県"
+ ],
+ "prefs": [
+  "和歌山県"
+ ],
+ "url": "http://wakayama.global/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

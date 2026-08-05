@@ -1,0 +1,30 @@
+id: osaka-003-hirano-kire-nishi
+name: 喜連西盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: 喜連西中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: 喜連西地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06

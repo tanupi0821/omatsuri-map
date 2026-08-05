@@ -1,0 +1,29 @@
+id: honjo-gotouti-sai2-200194
+name: こだま夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 本庄市
+  ward: null
+venue:
+  name: ／埼玉県本庄市児玉町市街地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 11:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://sai2.info/archives/20260717-03.html
+    source_name: 埼北つうしん
+    source_type: media
+    checked_at: 2026-08-06

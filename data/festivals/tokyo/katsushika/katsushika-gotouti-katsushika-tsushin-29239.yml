@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-29239
+name: 東水元一丁目町会 納涼盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 東水元みどり公園
+  address: 葛飾区東水元1-7-19
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 20:45
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/29239.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

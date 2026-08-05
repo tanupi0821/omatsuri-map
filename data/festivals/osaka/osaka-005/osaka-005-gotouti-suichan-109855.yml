@@ -1,0 +1,30 @@
+id: osaka-005-gotouti-suichan-109855
+name: 藤白台地区 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 吹田市
+  ward: null
+venue:
+  name: 藤白台小学校（大阪府吹田市藤白台3丁目3-3-1）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suichan.jp/event/2026/07/p=109855
+    source_name: 吹チャン！
+    source_type: media
+    checked_at: 2026-08-06

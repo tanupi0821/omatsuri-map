@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 赤坂台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区赤坂台2丁2-1
+  lat: 34.48672571
+  lng: 135.4761982
 organizer: 赤坂台地域
 stalls: unknown
 tags: []

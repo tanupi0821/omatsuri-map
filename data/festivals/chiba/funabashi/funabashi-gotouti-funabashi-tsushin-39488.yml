@@ -1,0 +1,30 @@
+id: funabashi-gotouti-funabashi-tsushin-39488
+name: 三町会合同 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 高郷小学校（船橋市西習志野1-47-1）
+  address: 船橋市西習志野1-47-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://funabashi-tsushin.com/39488.html
+    source_name: 船橋つうしん
+    source_type: media
+    checked_at: 2026-08-06

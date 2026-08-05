@@ -1,0 +1,23 @@
+{
+ "host": "media.neriman.jp",
+ "name": "ネリマンタイムス",
+ "areas": [
+  "東京都練馬区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://media.neriman.jp/",
+ "skipped": "robots取得不可 (ERR_TLS_CERT_ALTNAME_INVALID)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

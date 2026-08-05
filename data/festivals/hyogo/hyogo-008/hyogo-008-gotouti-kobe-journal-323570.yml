@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-323570
+name: 納涼風雅
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 購入者限定特典も
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: 10:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/7689576752.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

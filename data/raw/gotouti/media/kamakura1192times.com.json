@@ -1,0 +1,23 @@
+{
+ "host": "kamakura1192times.com",
+ "name": "鎌倉新聞",
+ "areas": [
+  "神奈川県鎌倉市"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "http://kamakura1192times.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

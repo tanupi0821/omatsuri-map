@@ -1,0 +1,29 @@
+id: okinawa-701-gotouti-myakuzumi-148098
+name: 宮古島夏まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 沖縄県
+  city: 宮古島市
+  ward: null
+venue:
+  name: 漲水御嶽・宮古神社
+  address: null
+  lat: null
+  lng: null
+organizer: 宮古島夏まつり2026実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://myakuzumi.com/148098/
+    source_name: みゃーくずみ
+    source_type: media
+    checked_at: 2026-08-06

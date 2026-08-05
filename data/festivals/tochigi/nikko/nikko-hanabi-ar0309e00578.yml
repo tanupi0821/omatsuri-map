@@ -7,8 +7,8 @@ area:
   city: 日光市
   ward: null
 venue:
-  name: 日光だいや川公園、丸山公園
-  address: 日光市瀬川
+  name: 日光だいや川公園河川敷・丸山公園
+  address: 栃木県日光市瀬川
   lat: 36.735354
   lng: 139.663008
 organizer: 日光花火大会実行委員会
@@ -21,6 +21,8 @@ links:
     url: https://www.nikko-hanabi.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0309/yatai/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0309e00578/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +30,8 @@ occurrences:
     start_time: 19:00
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0309e00578/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.nikko-hanabi.com/
+    source_name: 日光花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: 東武日光線上今市駅から徒歩20分

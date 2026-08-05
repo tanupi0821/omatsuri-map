@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 霞城公園
-  address: 山形市霞城町
+  address: 山形県山形市霞城町1-7
   lat: 38.254805
   lng: 140.328295
-organizer: 山形青年会議所 花火大会実行委員会
+organizer: 山形大花火大会実行委員会（公益社団法人山形青年会議所内）
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,20 @@ description: null
 links:
   - title: 公式サイト
     url: https://yamagatahanabi.com/
+  - title: 山形大花火大会 公式サイト 2026年花火大会概要
+    url: https://yamagatahanabi.com/overview/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0206e00657/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-14
-    start_time: 19:00
-    end_time: 20:30
+    start_time: 19:12
+    end_time: 20:25
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0206e00657/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://yamagatahanabi.com/overview/
+    source_name: 山形大花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開場は16:00（市役所観覧席は18:00）、屋台は14:00から
 station: JR山形駅から徒歩10分

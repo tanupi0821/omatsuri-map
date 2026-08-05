@@ -1,0 +1,23 @@
+{
+ "host": "helen-harumin.com",
+ "name": "北海道「江別」の暮らし情報 Hokkaido Ebetsu Life",
+ "areas": [
+  "北海道江別市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://helen-harumin.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -11,7 +11,7 @@ venue:
   address: 昭島市東町五丁目
   lat: 35.70298
   lng: 139.386092
-organizer: 昭島市商工会
+organizer: 昭島市民くじら祭実行委員会（事務局：昭島市商工会）
 stalls: yes
 tags:
   - 花火
@@ -21,6 +21,8 @@ links:
     url: https://akishima-kujiramatsuri.jp/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0313/yatai/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00898/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +30,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e00898/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR東中神駅から徒歩5分
+    source_url: https://akishima-kujiramatsuri.jp/
+    source_name: 昭島市民くじら祭実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: くじら祭は8月29日・30日の2日間で、夢花火は初日の夜。時刻は公式サイトに記載がなく、以前の発表による
+station: JR青梅線 東中神駅（徒歩8分）／西立川駅（徒歩10分）

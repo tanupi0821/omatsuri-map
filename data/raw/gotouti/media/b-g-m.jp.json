@@ -1,0 +1,23 @@
+{
+ "host": "b-g-m.jp",
+ "name": "BGM",
+ "areas": [
+  "宮城県仙台市"
+ ],
+ "prefs": [
+  "宮城県"
+ ],
+ "url": "https://b-g-m.jp/",
+ "skipped": "robots取得不可 (ECONNRESET)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

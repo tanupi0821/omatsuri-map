@@ -7,11 +7,11 @@ area:
   city: 上田市
   ward: null
 venue:
-  name: 千曲川河川敷(常田新橋下流(上田市常田1丁目))
-  address: 上田市常入
+  name: 千曲川河川敷（常田新橋下流）
+  address: 長野県上田市常田1丁目
   lat: 36.391165
   lng: 138.251544
-organizer: 信州上田大花火大会実行委員会事務局
+organizer: 信州上田大花火大会実行委員会（上田商工会議所内）
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0420e00685/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR北陸新幹線・しなの鉄道・上田電鉄上田駅から徒歩5分
+    source_url: https://www.ucci.or.jp/info/event/shinsyuuedadaihanabitaikai2026/
+    source_name: 上田商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+station: JR北陸新幹線・しなの鉄道・上田電鉄 上田駅

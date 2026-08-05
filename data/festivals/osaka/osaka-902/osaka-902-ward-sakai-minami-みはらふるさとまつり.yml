@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 三原台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区三原台3丁2-1
+  lat: 34.50152198
+  lng: 135.5206226
 organizer: 三原台地域
 stalls: unknown
 tags: []

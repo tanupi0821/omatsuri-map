@@ -1,0 +1,29 @@
+id: aichi-midori-midori-moronoki
+name: 諸ノ木自治会夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市緑区
+  ward: null
+venue:
+  name: 日本ガイシ諸の木グラウンド
+  address: null
+  lat: null
+  lng: null
+organizer: 諸ノ木自治会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/midori/oshirase/1024402/1051527.html
+    source_name: 名古屋市緑区
+    source_type: gov
+    checked_at: 2026-08-06

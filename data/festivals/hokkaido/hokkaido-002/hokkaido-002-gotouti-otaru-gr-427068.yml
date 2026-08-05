@@ -1,0 +1,30 @@
+id: hokkaido-002-gotouti-otaru-gr-427068
+name: 旧日本郵船株式会社小樽支店・竣工120周年祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 北海道
+  city: 小樽市
+  ward: null
+venue:
+  name: 旧日本郵船株式会社小樽支店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otaru.gr.jp/tourist/kyunihonnyuusennsyuunnkou120syunenn9-19-20
+    source_name: 小樽通
+    source_type: media
+    checked_at: 2026-08-06

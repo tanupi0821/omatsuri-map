@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.naoetsu-crs.com/gionsai/
+  - title: 上越観光Navi（上越市公式観光情報サイト）上越まつり 大花火大会
+    url: https://joetsukankonavi.jp/joetsumatsuri/hanabi/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0415e00664/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0415e00664/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://joetsukankonavi.jp/joetsumatsuri/hanabi/
+    source_name: 上越市（上越観光Navi）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 上越まつりは7月23日〜29日。大花火大会は直江津地区の祇園祭の一部。打上時刻は上越市のページに記載がなく、以前の発表による
 station: えちごトキめき鉄道直江津駅から徒歩10分

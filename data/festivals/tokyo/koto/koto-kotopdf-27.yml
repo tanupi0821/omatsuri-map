@@ -1,0 +1,30 @@
+id: koto-kotopdf-27
+name: 大島３丁目団地自治会 夕涼み会花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 団地内
+  address: 江東区大島3-26-1
+  lat: null
+  lng: null
+organizer: 大島３丁目団地自治会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 16:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://www.city.koto.lg.jp/101010/kurashi/komyunitei/chokai/jichikai/bonnodorinatsumatsuri/index.html
+    source_name: 江東区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: この行事は時間帯が 16:00〜18:00 と 17:00〜19:30 に分かれる

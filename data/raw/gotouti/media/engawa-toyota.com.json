@@ -1,0 +1,23 @@
+{
+ "host": "engawa-toyota.com",
+ "name": "縁側",
+ "areas": [
+  "愛知県豊田市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://engawa-toyota.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

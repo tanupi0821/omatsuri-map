@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 御池台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区御池台2丁3-1
+  lat: 34.46543746
+  lng: 135.5035762
 organizer: 御池台地域
 stalls: unknown
 tags: []

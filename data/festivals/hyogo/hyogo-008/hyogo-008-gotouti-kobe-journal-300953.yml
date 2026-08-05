@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-300953
+name: 花水木まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 長田神社境内・周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-29
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/5848775765.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

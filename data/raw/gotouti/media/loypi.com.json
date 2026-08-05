@@ -1,0 +1,23 @@
+{
+ "host": "loypi.com",
+ "name": "LOYPI",
+ "areas": [
+  "長崎県"
+ ],
+ "prefs": [
+  "長崎県"
+ ],
+ "url": "http://loypi.com/",
+ "skipped": "REST 不可 (503)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -1,0 +1,25 @@
+{
+ "host": "kameido6.com",
+ "name": "亀戸まわり",
+ "areas": [
+  "東京都江東区亀戸",
+  "東京都江東区",
+  "東京都墨田区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://kameido6.com/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

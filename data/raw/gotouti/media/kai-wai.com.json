@@ -1,0 +1,23 @@
+{
+ "host": "kai-wai.com",
+ "name": "kai-wai SAPPORO",
+ "areas": [
+  "北海道札幌市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://www.kai-wai.com/",
+ "skipped": "REST 不可 (Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

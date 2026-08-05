@@ -1,0 +1,30 @@
+id: setagaya-gotouti-shimokitazawa-75783
+name: 下北沢盆踊り2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: MAP
+  address: null
+  lat: null
+  lng: null
+organizer: しもきた商店街振興組合
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 13:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.shimokitazawa.info/news/2026/06/bonodori2026/
+    source_name: しもブロ
+    source_type: media
+    checked_at: 2026-08-06

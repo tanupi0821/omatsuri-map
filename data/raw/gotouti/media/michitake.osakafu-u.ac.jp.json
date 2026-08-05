@@ -1,0 +1,25 @@
+{
+ "host": "michitake.osakafu-u.ac.jp",
+ "name": "ミチテイク・プラス",
+ "areas": [
+  "大阪府堺市中区",
+  "大阪府羽曳野市",
+  "大阪府泉佐野市"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "http://michitake.osakafu-u.ac.jp/",
+ "skipped": "robots取得不可 (DEPTH_ZERO_SELF_SIGNED_CERT)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

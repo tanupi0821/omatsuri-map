@@ -1,0 +1,35 @@
+id: osaka-003-hirano-kumata
+name: 平野郷 杭全神社 夏まつり
+kind: 例大祭
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: 杭全神社周辺（南港通りを含む）
+  address: null
+  lat: null
+  lng: null
+organizer: 平野地域・平野西地域・新平野西地域・平野南地域
+shrine: 杭全神社
+stalls: unknown
+tags:
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+      - 2026-07-13
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 神輿・太鼓台川行神事は11日6時ごろ、九町合同曳行（南港通り）は12日21時45分ごろ、地車宮入は13日19時ごろ、14日が本宮

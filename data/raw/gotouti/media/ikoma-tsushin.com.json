@@ -1,0 +1,23 @@
+{
+ "host": "ikoma-tsushin.com",
+ "name": "いこまつうしん",
+ "areas": [
+  "奈良県生駒市"
+ ],
+ "prefs": [
+  "奈良県"
+ ],
+ "url": "https://ikoma-tsushin.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

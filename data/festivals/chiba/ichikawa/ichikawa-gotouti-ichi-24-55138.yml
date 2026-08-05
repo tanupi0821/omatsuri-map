@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-55138
+name: いちマル縁日（ヨーヨー・お菓子釣り、ポップコーン）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 市川地方卸売市場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55138
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

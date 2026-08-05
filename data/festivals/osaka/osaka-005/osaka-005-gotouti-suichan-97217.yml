@@ -1,0 +1,29 @@
+id: osaka-005-gotouti-suichan-97217
+name: なかどおりフェスタ2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 吹田市
+  ward: null
+venue:
+  name: 中通商店街と空き地ぷぷくさぽ～と
+  address: 吹田市高浜町10付近
+  lat: null
+  lng: null
+organizer: 中通商店街
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-20
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://suichan.jp/open/2026/03/p=97217
+    source_name: 吹チャン！
+    source_type: media
+    checked_at: 2026-08-06

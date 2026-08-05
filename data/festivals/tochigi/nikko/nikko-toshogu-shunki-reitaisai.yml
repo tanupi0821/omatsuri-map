@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 日光東照宮および表参道
-  address: null
+  address: 日光市山内2301
   lat: null
   lng: null
-station: 日光
+station: JR日光線「日光駅」・東武日光線「東武日光駅」からバス約6分「安川町」下車 徒歩約5分
 recurrence: 5月17日〜18日
 recurrence_source: https://toshogu.jp/pages/28/
 organizer: 日光東照宮
@@ -22,6 +22,8 @@ tags:
 description: null
 links:
   - https://toshogu.jp/pages/28/
+  - title: とちぎ旅ネット 日光東照宮春季例大祭
+    url: https://www.tochigiji.or.jp/event/e15062/
 occurrences:
   - year: 2026
     dates:

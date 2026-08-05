@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 陸上自衛隊勝田駐屯地
-  address: ひたちなか市大字勝倉
+  address: 茨城県ひたちなか市勝倉3433
   lat: 36.38198
   lng: 140.530943
 station: 勝田
-organizer: ひたちなか祭り実行委員会事務局
+organizer: 第32回ひたちなか祭り実行委員会
 stalls: yes
 tags:
   - 花火
@@ -20,15 +20,19 @@ description: null
 links:
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/detail/ar0308e00418/
+  - title: 第32回ひたちなか祭り 公式サイト
+    url: https://www.hitachinaka-fes.com/
+  - title: ひたちなか市 2026年 夏のイベント情報
+    url: https://www.city.hitachinaka.lg.jp/business/kankoshinko/1002695/1015568.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-      - 2026-08-23
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/list/ar0308/yatai/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.hitachinaka-fes.com/
+    source_name: 第32回ひたちなか祭り実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月22日（土）が花火大会、翌23日（日）が本祭り。まとめサイトは2日とも花火の日としていたが、公式サイトの記載に合わせた

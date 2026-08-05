@@ -1,0 +1,23 @@
+{
+ "host": "chiba-tsushin.com",
+ "name": "千葉つうしん",
+ "areas": [
+  "千葉県千葉市"
+ ],
+ "prefs": [
+  "千葉県"
+ ],
+ "url": "https://chiba-tsushin.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

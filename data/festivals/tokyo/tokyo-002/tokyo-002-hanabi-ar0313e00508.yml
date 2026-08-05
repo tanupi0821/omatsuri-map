@@ -7,11 +7,11 @@ area:
   city: 八丈島八丈町
   ward: null
 venue:
-  name: 底土港
-  address: null
+  name: 底土海岸（底土港）
+  address: 東京都八丈島八丈町三根
   lat: 33.123833
   lng: 139.82189
-organizer: null
+organizer: 八丈島納涼花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.hachijo.gr.jp/
+  - title: 八丈町 第25回八丈島納涼花火大会
+    url: https://www.town.hachijo.tokyo.jp/articles/oshirase-20260701-06/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00508/
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +30,8 @@ occurrences:
     start_time: 20:11
     end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e00508/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.hachijo.tokyo.jp/articles/oshirase-20260701-06/
+    source_name: 八丈町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 町の告知では8月10日・11日の開催で、花火の打上げは11日20:11から

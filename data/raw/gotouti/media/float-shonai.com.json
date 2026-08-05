@@ -1,0 +1,26 @@
+{
+ "host": "float-shonai.com",
+ "name": "FLOAT SHONAI",
+ "areas": [
+  "山形県鶴岡市",
+  "山形県酒田市",
+  "山形県庄内町",
+  "山形県三川町"
+ ],
+ "prefs": [
+  "山形県"
+ ],
+ "url": "http://float-shonai.com/",
+ "skipped": "REST 不可 (404)",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

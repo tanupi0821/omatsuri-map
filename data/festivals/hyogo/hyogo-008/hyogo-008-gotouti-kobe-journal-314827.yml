@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-314827
+name: 垂水区 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 舞子六神社／海神社／塩屋町東市民公園（ぼんどこひろっぱ）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:30
+    end_time: 17:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/6263865675.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

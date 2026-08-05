@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 竹城台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区竹城台3丁2-1
+  lat: 34.49630636
+  lng: 135.5036329
 organizer: 竹城台地域
 stalls: unknown
 tags: []

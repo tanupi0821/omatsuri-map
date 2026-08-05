@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 野洲川親水公園
-  address: 湖南市夏見
+  address: 滋賀県湖南市夏見地先
   lat: 34.999539
   lng: 136.097947
 organizer: 湖南市三大まつり実行委員会
@@ -26,8 +26,9 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0725e512144/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR甲西駅から徒歩20分
+    source_url: https://www.burari-konan.jp/kanko/event/post_114/
+    source_name: 湖南市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 花火の時刻は観光協会のページに記載がなく、以前の発表による
+station: JR草津線 甲西駅（徒歩約20分）

@@ -1,0 +1,29 @@
+id: kagawa-003-gotouti-pugkko-50963
+name: 大内交流館ふれあい夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 香川県
+  city: 高松市
+  ward: null
+venue:
+  name: 東かがわ市人権センター大内交流館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-20
+    start_time: 17:30
+    end_time: 20:00
+    status: confirmed
+    source_url: https://pugkko.com/event/eventinfo/post-50963
+    source_name: ガーカガワ
+    source_type: media
+    checked_at: 2026-08-06

@@ -21,17 +21,20 @@ links:
     url: https://hanabi.csa.gr.jp/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0313/yatai/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00881/
 occurrences:
   - year: 2026
     dates:
       - 2026-09-12
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 19:15
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e00881/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://hanabi.csa.gr.jp/
+    source_name: 調布市花火実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 18:00開会式、花火の打上げは18:15から19:15。会場は布田・京王多摩川・電通大グランドの3か所
 station: 布田会場：京王線布田駅から徒歩20分、調布駅・国領駅から徒歩25分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fireworks_%E8%8A%B1%E7%81%AB_%2848693032326%29.jpg/1280px-Fireworks_%E8%8A%B1%E7%81%AB_%2848693032326%29.jpg

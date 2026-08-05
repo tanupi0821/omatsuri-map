@@ -7,8 +7,8 @@ area:
   city: 別府市
   ward: null
 venue:
-  name: 別府スパビーチ沖
-  address: null
+  name: 北浜緑地帯（打上げは別府湾沖）
+  address: 大分県別府市北浜
   lat: 33.284446
   lng: 131.506827
 organizer: べっぷ火の海まつり実行委員会
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: http://beppu-event.jp/natsuyoi/
+  - title: 別府市観光協会 2026年度 べっぷ火の海まつり
+    url: https://beppu-event.jp/natsuyoi/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar1044e00990/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 20:08
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1044e00990/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://beppu-event.jp/natsuyoi/
+    source_name: 別府市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 火の海まつりは7月25日・26日の2日間で、納涼花火大会は26日。時刻は主催側のページに記載がなく、以前の発表による
 station: JR別府駅から徒歩10分

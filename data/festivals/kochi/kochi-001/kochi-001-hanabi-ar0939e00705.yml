@@ -7,11 +7,11 @@ area:
   city: 高知市
   ward: null
 venue:
-  name: 高知市鏡川河畔(みどりの広場)
-  address: 高知市唐人町
+  name: 鏡川河畔（みどりの広場）
+  address: 高知県高知市
   lat: 33.555335
   lng: 133.534671
-organizer: 公社)高知市観光協会
+organizer: 公益社団法人高知市観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 19:45
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0939e00705/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR高知駅から路面電車で県庁前下車、徒歩3分
+    source_url: https://welcome-kochi.jp/event/hanabi/index.html
+    source_name: 公益社団法人高知市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: とさでん交通 県庁前電停

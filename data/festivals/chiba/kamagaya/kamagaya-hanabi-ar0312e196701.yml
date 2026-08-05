@@ -11,7 +11,7 @@ venue:
   address: 鎌ケ谷市初富
   lat: 35.781816
   lng: 140.01279
-organizer: null
+organizer: かまがやの花火実行委員会
 stalls: yes
 tags:
   - 花火
@@ -21,6 +21,10 @@ links:
     url: https://www.kamagayanohanabi.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0312/yatai/
+  - title: 鎌ケ谷市 かまがやの花火開催のお知らせ
+    url: https://www.city.kamagaya.chiba.jp/kanko-bunka-sports/kanko/kamagayanohanabi.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0312e196701/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +32,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e196701/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.kamagaya.chiba.jp/kanko-bunka-sports/kanko/kamagayanohanabi.html
+    source_name: 鎌ケ谷市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 観覧場所は福太郎スタジアム、打上場所は市制記念公園。縁日は16:00から20:30。荒天中止で順延なし
 station: 北総鉄道・京成電鉄・新京成電鉄・東武鉄道新鎌ヶ谷駅から徒歩25分

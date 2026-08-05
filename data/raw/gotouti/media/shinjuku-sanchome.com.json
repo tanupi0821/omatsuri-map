@@ -1,0 +1,22 @@
+{
+ "host": "shinjuku-sanchome.com",
+ "name": "新宿三丁目新聞",
+ "areas": [
+  "東京都新宿区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://shinjuku-sanchome.com/",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

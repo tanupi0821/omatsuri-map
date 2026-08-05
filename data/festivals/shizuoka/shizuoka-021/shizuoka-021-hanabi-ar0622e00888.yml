@@ -11,7 +11,7 @@ venue:
   address: 沼津市市場町
   lat: 35.096116
   lng: 138.859563
-organizer: 沼津夏まつり実行委員会事務局
+organizer: 沼津夏まつり実行委員会（沼津市産業振興部観光戦略課）
 stalls: yes
 tags:
   - 花火
@@ -27,12 +27,12 @@ occurrences:
     start_time: 19:10
     end_time: 20:10
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e00888/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR沼津駅南口から徒歩10分
+    source_url: https://numazukanko.jp/event/50051
+    source_name: 沼津市観光戦略課（沼津観光ポータル）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 日付・時刻は沼津観光ポータルに記載がなく、以前の発表による
+station: JR東海道本線 沼津駅
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20130727200552_DSC_3411.JPG/1280px-20130727200552_DSC_3411.JPG
     width: 1000
@@ -48,3 +48,5 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:20130727200752_DSC_3415.JPG
+recurrence: 7月下旬の2日間
+recurrence_source: https://numazukanko.jp/event/50051

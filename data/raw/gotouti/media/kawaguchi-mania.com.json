@@ -1,0 +1,23 @@
+{
+ "host": "kawaguchi-mania.com",
+ "name": "カワグチマニア",
+ "areas": [
+  "埼玉県川口市"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://kawaguchi-mania.com/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

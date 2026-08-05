@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 常陸國總社宮および石岡市中心部
-  address: null
+  address: 石岡市総社2-8-1
   lat: null
   lng: null
-station: 石岡
+station: JR常磐線「石岡駅」徒歩20分（約1.2km）
 recurrence: 敬老の日を最終日とする3日間
 recurrence_source: https://sosyagu-reitaisai.com/
 organizer: 常陸國總社宮
@@ -22,7 +22,8 @@ tags:
   - 神輿
 description: null
 links:
-  - https://www.ishioka-kankou.com/events/ishioka-matsuri/
+  - title: 石岡市観光協会 石岡のおまつり
+    url: https://www.ishioka-kankou.com/events/ishioka-matsuri/
   - title: 号外NET 土浦市・かすみがうら市・石岡市
     url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/05/31/ishioka_manhallcard/
 occurrences:

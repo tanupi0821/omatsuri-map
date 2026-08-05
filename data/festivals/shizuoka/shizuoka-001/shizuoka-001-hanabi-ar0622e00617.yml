@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 蓮華寺池公園
-  address: 藤枝市若王子
+  address: 静岡県藤枝市若王子474-1
   lat: 34.875207
   lng: 138.256765
-organizer: null
+organizer: 一般社団法人藤枝市観光協会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.fujieda.gr.jp/news/n24551/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0622e00617/
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +28,8 @@ occurrences:
     start_time: 19:15
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e00617/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.fujieda.gr.jp/news/n24551/
+    source_name: 一般社団法人藤枝市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 小雨決行、荒天の場合は8月8日（土）に延期

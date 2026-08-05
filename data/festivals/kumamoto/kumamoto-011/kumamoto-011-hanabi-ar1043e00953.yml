@@ -7,8 +7,8 @@ area:
   city: 玉名市
   ward: null
 venue:
-  name: 高瀬大橋上流付近
-  address: 玉名市向津留
+  name: 菊池川 高瀬大橋一帯
+  address: 熊本県玉名市高瀬
   lat: 32.927188
   lng: 130.566675
 organizer: 玉名花火大会実行委員会
@@ -26,8 +26,9 @@ occurrences:
     start_time: 19:00
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1043e00953/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.tamana-cci.or.jp/festivals_events/hanabi/
+    source_name: 玉名商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 悪天候時は10月4日または10月12日に延期
 station: JR玉名駅から徒歩20分、JR新玉名駅から徒歩25分

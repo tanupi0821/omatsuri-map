@@ -19,17 +19,21 @@ tags:
   - 山車
   - ユネスコ無形文化遺産
 description: null
-links: []
+links:
+  - title: 香取市 佐原の大祭 秋祭り
+    url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
 occurrences:
   - year: 2026
     dates:
       - 2026-10-11
       - 2026-10-12
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 22:00
     status: confirmed
     source_url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
     source_name: 香取市 公式
     source_type: gov
-    checked_at: 2026-08-02
+    checked_at: 2026-08-06
+    note: 時刻は香取市の祭り紹介ページの記載による（山車の曳き廻しの時間帯）
 stalls: unknown
+station: JR成田線「佐原駅」（駅前が祭り区域）

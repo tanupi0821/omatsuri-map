@@ -7,11 +7,11 @@ area:
   city: 酒田市
   ward: null
 venue:
-  name: 酒田市最上川河川公園
-  address: 酒田市落野目
+  name: 最上川河川公園（国道7号両羽橋〜国道112号出羽大橋の間）
+  address: 山形県酒田市
   lat: 38.895957
   lng: 139.838911
-organizer: 酒田の花火実行委員会事務局
+organizer: 酒田の花火実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://sakata-hanabi.com/
+  - title: 酒田の花火2026 公式サイト 開催概要
+    url: https://sakata-hanabi.com/summary/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0206e00028/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,8 @@ occurrences:
     start_time: 19:00
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0206e00028/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://sakata-hanabi.com/summary/
+    source_name: 酒田の花火実行委員会
+    source_type: official
+    checked_at: 2026-08-06
 station: JR酒田駅から徒歩45分

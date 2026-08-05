@@ -12,23 +12,27 @@ venue:
   lat: null
   lng: null
 station: 逗子
-organizer: null
+organizer: 逗子市観光協会・逗子市（共催）
 tags:
   - 花火
 description: null
 links:
   - title: レアリア
     url: https://rarea.events/event/299040
+  - title: 逗子市「（2026年度）第69回逗子海岸花火大会」
+    url: https://www.city.zushi.kanagawa.jp/shiminkatsudo/kanko/1004356/1013768.html
+  - title: 第69回逗子海岸花火大会 公式サイト
+    url: https://zushihanabi.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-21
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 20:15
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/zushi-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
-    note: 逗子の花火は春開催
+    source_url: https://www.city.zushi.kanagawa.jp/shiminkatsudo/kanko/1004356/1013768.html
+    source_name: 逗子市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 安全確保のため打上開始が19:30から19:20に変更された（逗子市の発表）
 stalls: unknown

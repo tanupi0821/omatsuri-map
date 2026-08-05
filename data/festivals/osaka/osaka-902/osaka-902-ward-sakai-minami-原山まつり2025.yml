@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 原山ひかり小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区原山台4丁3-1
+  lat: 34.47645
+  lng: 135.49718
 organizer: 原山台地域
 stalls: unknown
 tags: []

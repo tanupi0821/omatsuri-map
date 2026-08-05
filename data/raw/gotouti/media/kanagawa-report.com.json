@@ -1,0 +1,31 @@
+{
+ "host": "kanagawa-report.com",
+ "name": "かなレポ川崎",
+ "areas": [
+  "神奈川県川崎市川崎区",
+  "神奈川県川崎市幸区"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://kanagawa-report.com/",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": [
+  {
+   "id": 60186,
+   "title": "川崎市等々力緑地で肉祭2026開催！GW5日間限定メニュー公開",
+   "date": "2026-04-13",
+   "url": "https://kanagawa-report.com/niku-matsuri-2026-kawasaki-todoroki/",
+   "body": "/* かなレポ 広告スタイル */ .kanarepo-ad { clear: both; overflow: hidden; } .kanarepo-ad ins { display: block !important; min-height: 90px; } /* モバイルで記事内中部広告を非表示（ページあたり最大2枚） */ @media (max-width: 768px) { .kanarepo-ad--desktop-only { display: none !important; } } /* テーブル・グラフの直後への広告間隔 */ .kanarepo-ad + table, table + .kanarepo-ad, .kanarepo-ad + figure, figure + .kanarepo-ad { margin-top: 2em; } 「肉祭2026in等々力緑地」がゴールデンウィークに開催 2026年5月2日（土）～6日（水・祝）の5日間、川崎市中原区の等々力緑地・催し物広場にて「肉祭2026in等々力緑地」が開催されます。 会場では、焼き物・揚げ物・ご飯ものなど、素材に”ひと手間”加えた多彩な肉料理が楽しめます。各店舗が工夫を凝らしたメニューとともに、クラフトビールやスイーツも登場。ファミリーからカップル、友達同士まで、幅広い層が楽しめるイベントです。 (adsbygoogle = window.adsbygoogle || []).push({}); 注目の肉料理メニュー 今回出店するグルメには、九条ネギと黒煎り七味のハラミステーキ、北海道小樽名物の若鶏半身揚げ、本場シュラスコ、熟成厚切り牛タン、アメリカ発祥のチーズステーキサンドなどが並びます。また、丼グランプリ金賞受賞店の牛ハラミ丼や、デビット伊東が店主のらーめんなど、バラエティ豊かなラインアップとなっています。 地元川崎のクラフトビールも登場 肉料理と相性抜群のクラフトビールも充実。川崎市麻生区初のブルワリー「ペコラビール」をはじめ、宮城県川崎町の「ForestBrewing」、信州産フルーツを使ったフルーツエールなど、それぞれ異なる個性を持つビールが揃います。 こどもの日にダンスコンテスト開催 5月5日（火・祝）には特設ステージで「肉祭ダンスコンテスト2026」を開催。U-12部門、U-15部門、U-18部門の3カテゴリーで実施され、各部門の優勝チームには記念トロフィーとフードチケット1万円分がプレゼントされます。 キッズエリアやフォトスポットも充実 会場内にはトランポリンやスライダーなどの「ふわふわ遊具」、射的などの縁日コーナー、バスケットフリースローやサッカーストラックアウトなどを設置。SNS映えするフォトスポットも用意され、子どもから大人まで楽しめる内容となっています。 開催概要 開催期間：2026年5月2日（土）～6日（水・祝） 開催時間：10:00～18:00 会場：等々力緑地・催し物広場（川崎市中原区） 入場料：無料（飲食代別途） 支払方法：現金、タッチ決済、電子マネー、QRコード決済対応 関連記事 川崎市内のスイーツ 川崎ラゾーナの限定グルメ 川崎市の食と音楽イベント 川崎市麻生区のクラフトビール (adsbygoogle = window.adsbygoogle || []).push({}); 📩 かなレポ川崎メルマガ（無料） 川崎の開店・イベント・防犯・住みやすさデータを週1でお届け。いつでも解除できます。 登録する (function(){ var box=document.currentScript.previousElementSibling; var form=box.querySelector('.kanarepo-signup-form'); var msg=box.querySelector('.kanarepo-signup-msg'); form.addEventListener('submit',function(){ var email=form.querySelector('input[type=email]').value; msg.textContent='送信中...'; fetch('https://kanagawa-report.com/wp-json/kanarepo/v1/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})}) .then(function(r){return r.json();}) .then(function(d){msg.style.color=d.ok?'#137333':'#c5221f';msg.textContent=d.message||'';if(d.ok)form.reset();}) .catch(function(){msg.style.color='#c5221f';msg.textContent='通信エラーが発生しました。';}); }); })();"
+  }
+ ]
+}

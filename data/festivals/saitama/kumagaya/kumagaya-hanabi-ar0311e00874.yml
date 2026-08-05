@@ -7,8 +7,8 @@ area:
   city: 熊谷市
   ward: null
 venue:
-  name: 荒川河畔(荒川大橋下流)
-  address: 熊谷市手島
+  name: 荒川河畔（荒川大橋下流側）
+  address: 埼玉県熊谷市
   lat: 36.131809
   lng: 139.383212
 organizer: 熊谷市観光協会
@@ -21,6 +21,10 @@ links:
     url: https://www.oideyo-kumagaya.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0311/yatai/
+  - title: 熊谷市 熊谷花火大会
+    url: https://www.city.kumagaya.lg.jp/kanko/matsuri/kumagayahanabitaikai/index.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e00874/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +32,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00874/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.kumagaya.lg.jp/kanko/matsuri/kumagayahanabitaikai/index.html
+    source_name: 熊谷市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 雨天時は翌8月9日（日）に順延
 station: JR・秩父鉄道熊谷駅南口から徒歩5分

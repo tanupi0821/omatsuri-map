@@ -1,0 +1,29 @@
+id: kita-gotouti-akabane-shinbun-254134
+name: 鴨台盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 北区
+  ward: null
+venue:
+  name: 北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: 18:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://akabane-shinbun.com/archives/254134
+    source_name: 赤羽マガジン新聞
+    source_type: media
+    checked_at: 2026-08-06

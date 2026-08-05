@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 宮山台小学校
-  address: null
-  lat: null
-  lng: null
+  address: 堺市南区宮山台2丁2-1
+  lat: 34.50419469
+  lng: 135.4991866
 organizer: 宮山台地域
 stalls: unknown
 tags: []

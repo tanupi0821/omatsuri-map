@@ -1,0 +1,29 @@
+id: shibuya-gotouti-shibuya-shimbun-14632
+name: 渋谷センター街のお祭りを構想する
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: 渋谷区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shibuya-shimbun.com/archives/14632
+    source_name: 渋谷新聞
+    source_type: media
+    checked_at: 2026-08-06

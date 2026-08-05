@@ -7,11 +7,11 @@ area:
   city: 笛吹市
   ward: null
 venue:
-  name: 笛吹市役所本館前 笛吹川河川敷
-  address: 笛吹市石和町市部
+  name: 笛吹市役所前 笛吹川河川敷
+  address: 山梨県笛吹市石和町市部777
   lat: 35.646935
   lng: 138.640983
-organizer: null
+organizer: 一般社団法人笛吹市観光物産連盟（共催：笛吹市）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.fuefuki-kanko.jp
+  - title: 笛吹市観光物産連盟 2026笛吹市夏祭り
+    url: https://www.fuefuki-kanko.jp/scontents/summerfes/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0419e00682/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:30
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0419e00682/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.fuefuki-kanko.jp/scontents/summerfes/
+    source_name: 一般社団法人笛吹市観光物産連盟
+    source_type: official
+    checked_at: 2026-08-06
+    note: 警報級の荒天の場合は8月23日（日）に延期。協賛者席以外は無料観覧席
 station: JR石和温泉駅から徒歩20分

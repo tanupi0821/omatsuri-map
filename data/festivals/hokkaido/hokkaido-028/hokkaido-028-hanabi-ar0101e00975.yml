@@ -7,11 +7,11 @@ area:
   city: 北見市
   ward: null
 venue:
-  name: 春光町・小泉河川敷地
-  address: 北見市春光町八丁目
+  name: 小泉河川敷グラウンド（常呂川河畔）
+  address: 北海道北見市
   lat: 43.817962
   lng: 143.925082
-organizer: 北見ぼんちまつり実行委員会
+organizer: 第73回北見ぼんちまつり実行委員会・北見市観光協会・北海道新聞北見支社
 stalls: yes
 tags:
   - 花火
@@ -19,15 +19,20 @@ description: null
 links:
   - title: 公式サイト
     url: https://kitamicci.or.jp/
+  - title: 北海道新聞「2026年夏 道新主催花火大会情報（北見市）」
+    url: https://www.hokkaido-np.co.jp/hanabi2026/kitami/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e00975/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
     start_time: 19:40
-    end_time: 21:00
+    end_time: 20:25
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00975/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.hokkaido-np.co.jp/hanabi2026/kitami/
+    source_name: 北海道新聞北見支社（主催）
+    source_type: official
+    checked_at: 2026-08-06
+    note: 打上げは約45分間。荒天の場合は7月19日（日）に順延
 station: JR北見駅からタクシーで約10分

@@ -22,12 +22,13 @@ occurrences:
     dates:
       - 2026-08-15
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 13:30
+    end_time: 21:00
     status: confirmed
     source_url: https://www.city.kiryu.lg.jp/kankou/event/kurohone/1001873.html
     source_name: 桐生市
     source_type: gov
-    checked_at: 2026-08-05
-    note: 初日は八木節競演大会、2日目に花火。時刻は前回の発表で初日18時から21時、2日目12時から21時
+    checked_at: 2026-08-06
+    note: 初日（8月15日）は18時から21時、2日目（8月16日）は13時30分から21時
 stalls: unknown
+station: わたらせ渓谷鐵道「水沼駅」徒歩1分

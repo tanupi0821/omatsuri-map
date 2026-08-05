@@ -21,6 +21,8 @@ links:
     url: https://www.oyamanohanabi.com/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/list/ar0309/yatai/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0309e00890/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +30,9 @@ occurrences:
     start_time: 18:00
     end_time: 19:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0309e00890/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.oyamanohanabi.com/
+    source_name: 小山の花火実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 時刻は公式サイトに記載がなく、以前の発表による
 station: JR小山駅西口から徒歩8分

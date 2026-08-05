@@ -1,0 +1,24 @@
+{
+ "host": "ogunigo.info",
+ "name": "Ogunigo.info",
+ "areas": [
+  "熊本県阿蘇郡小国町",
+  "熊本県阿蘇郡南小国町"
+ ],
+ "prefs": [
+  "熊本県"
+ ],
+ "url": "https://ogunigo.info/",
+ "skipped": "媒体が消えている（DNS不可）",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

@@ -11,7 +11,7 @@ venue:
   address: 横須賀市久里浜七丁目
   lat: 35.224795
   lng: 139.713526
-organizer: 久里浜行政センター内久里浜観光協会事務局
+organizer: 久里浜観光協会
 stalls: yes
 tags:
   - 花火
@@ -21,6 +21,8 @@ links:
     url: https://perryfes.jp/
   - title: 神奈川すまいラボ
     url: https://kanagawa-sumai-labo.com/yokosuka-shi-natsumatsuri/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0314e00880/
 occurrences:
   - year: 2026
     dates:
@@ -28,8 +30,9 @@ occurrences:
     start_time: 19:30
     end_time: 20:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0314e00880/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 京浜急行京急久里浜駅から徒歩15分
+    source_url: https://perryfes.jp/
+    source_name: 久里浜観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天中止・順延なし。会場は久里浜海岸・ペリー公園・カインズ裏岸壁（旧ニチロ岸壁）・久里浜ふ頭
+station: 京急久里浜線 京急久里浜駅

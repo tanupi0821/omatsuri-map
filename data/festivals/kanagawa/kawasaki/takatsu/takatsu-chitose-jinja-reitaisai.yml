@@ -18,7 +18,9 @@ shrine: 千年神社
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: 千年神社 公式サイト
+    url: http://nanajinjakonwakai.la.coocan.jp
 occurrences:
   - year: 2026
     dates:

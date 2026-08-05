@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-28897
+name: 水元猿町東町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 白ゆり公園
+  address: 葛飾区水元5-5-20
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/28897.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

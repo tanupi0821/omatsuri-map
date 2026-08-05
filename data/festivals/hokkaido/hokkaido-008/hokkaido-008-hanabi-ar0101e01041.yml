@@ -7,11 +7,11 @@ area:
   city: 帯広市
   ward: null
 venue:
-  name: 十勝川河川敷特設会場(十勝大橋下流400メートル付近)
-  address: 帯広市東二条北三丁目
+  name: 十勝川河川敷特設会場（十勝大橋下流400m付近）
+  address: 北海道帯広市
   lat: 42.935102
   lng: 143.206585
-organizer: 十勝毎日新聞社営業局事業部
+organizer: 十勝毎日新聞社
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://kachimai-hanabi.com/
+  - title: 勝毎花火大会 公式サイト 大会概要
+    url: https://kachimai-hanabi.com/pg.php?c=about_overview
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0101e01041/
 occurrences:
   - year: 2026
     dates:
@@ -26,10 +30,11 @@ occurrences:
     start_time: 19:20
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e01041/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://kachimai-hanabi.com/pg.php?c=about_overview
+    source_name: 十勝毎日新聞社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開場は15:00。荒天の場合は8月14日（金）に順延
 station: JR帯広駅から徒歩20分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kachimai_Hanabi_Taikai.jpg/1280px-Kachimai_Hanabi_Taikai.jpg

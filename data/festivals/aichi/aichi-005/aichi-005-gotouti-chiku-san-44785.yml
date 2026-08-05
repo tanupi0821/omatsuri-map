@@ -1,0 +1,29 @@
+id: aichi-005-gotouti-chiku-san-44785
+name: 仲田銀座 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市千種区
+  ward: null
+venue:
+  name: 名古屋市千種区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiku-san.com/20260623-nakataginza-matsuri/
+    source_name: ちくさん
+    source_type: media
+    checked_at: 2026-08-06

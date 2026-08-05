@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 遠見岬神社 駐車場（勝浦会場）
-  address: null
+  address: 勝浦市浜勝浦1
   lat: null
   lng: null
 organizer: かつうら若潮まつり実行委員会
@@ -17,6 +17,8 @@ description: null
 links:
   - title: 勝浦市観光協会 イベント
     url: https://www.katsuura-kankou.net/event/
+  - title: ちば観光ナビ（千葉県公式観光サイト） 遠見岬神社
+    url: https://maruchiba.jp/spot/detail_10398.html
 occurrences:
   - year: 2026
     dates:
@@ -30,3 +32,5 @@ occurrences:
     checked_at: 2026-08-05
     note: 興津会場は8月14日19時から（花火・灯篭流し）
 stalls: unknown
+shrine: 遠見岬神社
+station: JR外房線「勝浦駅」徒歩約10分

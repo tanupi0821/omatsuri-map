@@ -17,7 +17,9 @@ organizer: 御嶽神社
 shrine: 御嶽神社
 tags: []
 description: null
-links: []
+links:
+  - title: 御嶽神社 公式サイト
+    url: http://www06.u-page.so-net.ne.jp/rf6/izumosan/
 occurrences:
   - year: 2026
     dates:

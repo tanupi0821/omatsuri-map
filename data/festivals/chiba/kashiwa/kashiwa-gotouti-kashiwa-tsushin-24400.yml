@@ -1,0 +1,29 @@
+id: kashiwa-gotouti-kashiwa-tsushin-24400
+name: 関東最大級のメダカの祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: あけぼの山農業公園
+  address: 柏市布施2005-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-22
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/24400.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

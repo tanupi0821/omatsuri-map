@@ -17,7 +17,9 @@ organizer: 熊野神社
 shrine: 熊野神社
 tags: []
 description: null
-links: []
+links:
+  - title: 熊野神社 公式サイト
+    url: http://www.kumanojinja.or.jp
 occurrences:
   - year: 2026
     dates:

@@ -11,7 +11,7 @@ venue:
   address: null
   lat: 37.375582
   lng: 138.546519
-organizer: ぎおん柏崎まつり協賛会事務局
+organizer: ぎおん柏崎まつり協賛会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://kashiwazaki-hanabi.jp/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0415e00663/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:30
     end_time: 21:10
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0415e00663/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://kashiwazaki-hanabi.jp/
+    source_name: ぎおん柏崎まつり協賛会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 終了時刻は公式サイトに記載がない
 station: JR柏崎駅から徒歩25分

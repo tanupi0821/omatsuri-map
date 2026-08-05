@@ -11,7 +11,7 @@ venue:
   address: 板橋区舟渡四丁目
   lat: 35.798307
   lng: 139.673254
-organizer: 板橋区観光協会
+organizer: 板橋区・板橋区観光協会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://itabashihanabi.jp/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0313e00868/
 occurrences:
   - year: 2026
     dates:
@@ -26,10 +28,11 @@ occurrences:
     start_time: 19:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e00868/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://itabashihanabi.jp/
+    source_name: 板橋区・板橋区観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天中止・順延なし
 station: 有料席エリア：都営三田線蓮根駅・西台駅、JR埼京線浮間舟渡駅から徒歩20分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itabashi_Hanabi_Taikai_Zenkei_1.jpg/1280px-Itabashi_Hanabi_Taikai_Zenkei_1.jpg

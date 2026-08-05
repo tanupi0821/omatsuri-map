@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 八坂神社周辺（多古町本町・新町・仲町・高根）
-  address: null
+  address: 香取郡多古町多古2696
   lat: null
   lng: null
 organizer: null
@@ -22,16 +22,19 @@ links:
     url: https://www.town.tako.chiba.jp/docs/2018012900186/
   - title: 多古町商工会 多古祇園祭・しいかご舞
     url: http://tako.or.jp/kankou/gionmaturi.html
+  - title: ちば観光ナビ（千葉県公式観光サイト） 多古祇園祭
+    url: https://maruchiba.jp/event/detail_12859.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: 18:30
+    start_time: 08:00
     end_time: 22:00
     status: confirmed
-    source_url: https://www.town.tako.chiba.jp/docs/2018012900186/
-    source_name: 多古町
+    source_url: https://maruchiba.jp/event/detail_12859.html
+    source_name: ちば観光ナビ（千葉県公式観光サイト）
     source_type: gov
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 初日（7月25日）は12時から22時、2日目（7月26日）は8時から22時
 shrine: 八坂神社

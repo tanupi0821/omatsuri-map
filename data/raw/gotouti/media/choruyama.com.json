@@ -1,0 +1,23 @@
+{
+ "host": "choruyama.com",
+ "name": "ここ知っちょる？",
+ "areas": [
+  "山口県"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "https://choruyama.com/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

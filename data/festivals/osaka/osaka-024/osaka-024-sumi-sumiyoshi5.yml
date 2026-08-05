@@ -1,0 +1,29 @@
+id: osaka-024-sumi-sumiyoshi5
+name: 住吉第5町会 夏祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市住吉区
+  ward: null
+venue:
+  name: すみよし隣保館前広場
+  address: null
+  lat: null
+  lng: null
+organizer: 住吉第5町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
+    source_name: 大阪市住吉区
+    source_type: gov
+    checked_at: 2026-08-06

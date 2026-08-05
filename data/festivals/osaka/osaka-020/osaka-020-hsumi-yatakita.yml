@@ -1,0 +1,30 @@
+id: osaka-020-hsumi-yatakita
+name: 矢田北夜店と花火大会
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市東住吉区
+  ward: null
+venue:
+  name: 矢田北小学校 運動場
+  address: 大阪市東住吉区照ケ丘矢田2-1-55
+  lat: null
+  lng: null
+organizer: 矢田北地域
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000600898.html
+    source_name: 大阪市東住吉区
+    source_type: gov
+    checked_at: 2026-08-06

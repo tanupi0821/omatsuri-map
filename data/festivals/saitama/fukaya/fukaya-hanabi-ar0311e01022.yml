@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://fukaya-sci.net/
+  - title: 深谷市 第32回深谷花火大会
+    url: https://www.city.fukaya.saitama.jp/soshiki/sangyoshinko/shokoshinkou/tanto/ibento/16474.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e01022/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e01022/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.fukaya.saitama.jp/soshiki/sangyoshinko/shokoshinkou/tanto/ibento/16474.html
+    source_name: 深谷市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 雨天時は8月9日に順延
 station: 秩父鉄道武川駅から徒歩7分

@@ -1,0 +1,23 @@
+{
+ "host": "jp01.jp",
+ "name": "JP01",
+ "areas": [
+  "北海道"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://jp01.jp/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

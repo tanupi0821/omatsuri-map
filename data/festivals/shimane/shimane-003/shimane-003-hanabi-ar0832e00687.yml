@@ -7,8 +7,8 @@ area:
   city: 浜田市
   ward: null
 venue:
-  name: 浜田漁港7号岸壁周辺(浜田市原井町)
-  address: 浜田市原井町
+  name: 浜田漁港一帯
+  address: 島根県浜田市原井町
   lat: 34.892663
   lng: 132.061987
 organizer: 浜田市観光協会
@@ -23,11 +23,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 20:30
+    end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0832e00687/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR浜田駅から周布行バスで約15分、お魚センター前停留所下車すぐ
+    source_url: https://kankou-hamada.or.jp/lp/hamakko-natsumaturi/
+    source_name: 浜田市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: JR山陰本線 浜田駅（シャトルバス運行）

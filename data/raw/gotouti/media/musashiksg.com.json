@@ -1,0 +1,23 @@
+{
+ "host": "musashiksg.com",
+ "name": "武蔵小杉新聞",
+ "areas": [
+  "神奈川県川崎市中原区"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "http://musashiksg.com/",
+ "skipped": "Content-Signal ai-train=no",
+ "terms": [
+  "盆踊り",
+  "夏祭り",
+  "夏まつり",
+  "縁日",
+  "納涼",
+  "例大祭",
+  "秋祭り",
+  "夜店"
+ ],
+ "items": []
+}

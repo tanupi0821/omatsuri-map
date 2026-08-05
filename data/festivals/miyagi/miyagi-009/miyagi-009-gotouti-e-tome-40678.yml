@@ -1,0 +1,30 @@
+id: miyagi-009-gotouti-e-tome-40678
+name: 磐井川川開き花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 宮城県
+  city: 登米市
+  ward: null
+venue:
+  name: 】一関市大町ほか（花火大会：磐井川河畔）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://e-tome.info/articles/ichinoseki_natsumatsuri2026/
+    source_name: e-tomeINFO
+    source_type: media
+    checked_at: 2026-08-06

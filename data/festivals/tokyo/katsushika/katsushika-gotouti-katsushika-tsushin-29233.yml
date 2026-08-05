@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-29233
+name: 西亀二丁目町会 ふれあい納涼夏祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 西亀有なかよし公園
+  address: 葛飾区西亀有2-14-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/29233.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: hiroshima-702-gotouti-nh-times-32837
+name: 花まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 広島県
+  city: 廿日市
+  ward: null
+venue:
+  name: 廿日市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nh-times.jp/post-32837/
+    source_name: 西広島タイムスわくわく+
+    source_type: media
+    checked_at: 2026-08-06

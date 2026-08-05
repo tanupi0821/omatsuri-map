@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 都南大橋下流 北上川河川敷
-  address: 盛岡市向中野
+  address: 岩手県盛岡市
   lat: 39.659074
   lng: 141.170648
-organizer: 盛岡花火の祭典実行委員会
+organizer: 盛岡花火の祭典実行委員会（盛岡商工会議所都南支所）
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.ccimorioka.or.jp/hanabi/
+  - title: 盛岡観光コンベンション協会 盛岡花火の祭典
+    url: https://www.odette.or.jp/?p=798
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0203e00646/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +30,9 @@ occurrences:
     start_time: 19:25
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0203e00646/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.odette.or.jp/?p=798
+    source_name: 盛岡観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開場は16:30。雨天決行、荒天中止で順延なし
 station: JR岩手飯岡駅から徒歩30分

@@ -1,0 +1,30 @@
+id: sagamihara-gotouti-machisaga-26302
+name: 上溝夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: null
+venue:
+  name: 相模原市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machisaga.jp/kamimizo-festival-result/
+    source_name: まちさが
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: funabashi-gotouti-funabashi-tsushin-39327
+name: 八坂神社祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 船橋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://funabashi-tsushin.com/39327.html
+    source_name: 船橋つうしん
+    source_type: media
+    checked_at: 2026-08-06
