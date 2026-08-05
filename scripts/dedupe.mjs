@@ -32,7 +32,7 @@ const APPLY = process.argv.includes('--apply');
  * 号外NET どうしでも重なる。いずれも「同じ市の同名は別の祭り」という
  * 神社庁データとは事情が違う。
  */
-const FROM_AGGREGATOR = /-(hanabi|summer)-(ar\d|\d)|-goguynet-\d/;
+const FROM_AGGREGATOR = /-(hanabi|summer)-(ar\d|\d)|-(goguynet|rarea|tokyofesta)-\d/;
 const TIER = { official: 3, gov: 2, media: 1, aggregator: 0 };
 
 // 括弧は全角・半角が混ざる。「入谷朝顔まつり」と「入谷朝顔まつり(入谷朝顔市)」が
@@ -64,8 +64,29 @@ for (const path of files) {
 
 /** 出典の質・写真の有無で「残す方」を選ぶ */
 const bestTier = (f) => Math.max(...f.occurrences.map((o) => TIER[o.source_type] ?? 0));
+
+/**
+ * 会場名がちゃんと取れているか。記事から切り出したものは
+ * 「・時間：」のような切れ端になっていることがあり、そちらを残すと劣化する。
+ */
+const venueOk = (f) => {
+  const v = f.venue?.name ?? '';
+  if (!v || /^[・、。：:\s]/.test(v) || /[：:]$/.test(v)) return 0;
+  if (/内$/.test(v)) return 1; // 「◯◯市内」は会場が分からないのと同じ
+  return 2;
+};
+
 function pickKeeper(items) {
   return [...items].sort((a, b) => {
+    // **中身の質を先に見る**。出典の格だけで決めると、
+    // 会場が「・時間：」の記事版が公式版を押しのけることがあった
+    const v = venueOk(b.f) - venueOk(a.f);
+    if (v) return v;
+    // 日程が多いほうが情報として厚い（3 日間の祭りを 1 日と書く出典がある）
+    const d = (b.f.occurrences?.[0]?.dates?.length ?? 0) - (a.f.occurrences?.[0]?.dates?.length ?? 0);
+    if (d) return d;
+    const addr = Number(Boolean(b.f.venue?.address)) - Number(Boolean(a.f.venue?.address));
+    if (addr) return addr;
     const t = bestTier(b.f) - bestTier(a.f);
     if (t) return t;
     const p = (b.f.photos?.length ?? 0) - (a.f.photos?.length ?? 0);

@@ -15,7 +15,9 @@ organizer: 中央区大江戸まつり実行委員会・中央区
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/31875/
 occurrences:
   - year: 2026
     dates:

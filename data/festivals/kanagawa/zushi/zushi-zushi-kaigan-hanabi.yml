@@ -16,7 +16,9 @@ organizer: null
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: レアリア
+    url: https://rarea.events/event/299040
 occurrences:
   - year: 2026
     dates:

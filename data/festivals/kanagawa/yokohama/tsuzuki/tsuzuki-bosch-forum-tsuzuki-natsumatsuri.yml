@@ -14,7 +14,9 @@ venue:
 organizer: ボッシュホール・センター北・中川中央町内会ほか
 tags: []
 description: null
-links: []
+links:
+  - title: レアリア
+    url: https://rarea.events/event/303845
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,4 @@ occurrences:
     source_name: むつづき（横浜市北部エリアの地域情報サイト）
     checked_at: 2026-08-02
     source_type: media
-stalls: unknown
+stalls: yes

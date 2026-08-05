@@ -15,7 +15,9 @@ organizer: 江戸総鎮守
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/32370/
 occurrences:
   - year: 2026
     dates:
