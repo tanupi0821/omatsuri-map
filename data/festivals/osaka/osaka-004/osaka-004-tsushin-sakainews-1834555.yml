@@ -1,0 +1,29 @@
+id: osaka-004-tsushin-sakainews-1834555
+name: 子どものための花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 泉佐野市
+  ward: null
+venue:
+  name: 泉佐野市内
+  address: 泉佐野市りんくう往来南7-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakai-news.jp/saka-ambasader-20240925-pr/20260519_a078_rinkuhanabi
+    source_name: さかにゅー
+    source_type: media
+    checked_at: 2026-08-05

@@ -1,0 +1,29 @@
+id: shiga-801-tsushin-shigamamma-167040
+name: 親子で楽しむ夏まつり♪マキノピックランド 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 高島市
+  ward: null
+venue:
+  name: 高島市内
+  address: 高島市マキノ町寺久保835-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/06/14/%e8%a6%aa%e5%ad%90%e3%81%a7%e6%a5%bd%e3%81%97%e3%82%80%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a%e2%99%aa7-25%e5%9c%9f%e3%83%9e%e3%82%ad%e3%83%8e%e3%83%94%e3%83%83%e3%82%af%e3%83%a9%e3%83%b3%e3%83%89/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-08-05

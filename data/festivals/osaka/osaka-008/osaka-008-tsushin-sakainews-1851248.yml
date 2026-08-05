@@ -1,0 +1,29 @@
+id: osaka-008-tsushin-sakainews-1851248
+name: 太町夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 和泉市
+  ward: null
+venue:
+  name: 和泉市内
+  address: 和泉市太町５５２
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakai-news.jp/event/20260716_a100_natsumatsuri
+    source_name: さかにゅー
+    source_type: media
+    checked_at: 2026-08-05

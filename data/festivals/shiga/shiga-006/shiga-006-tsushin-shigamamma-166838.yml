@@ -1,0 +1,32 @@
+id: shiga-006-tsushin-shigamamma-166838
+name: たぬきのこども縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 甲賀市
+  ward: null
+venue:
+  name: 甲賀市内
+  address: 甲賀市土山町南土山字尾巻甲1122番地74
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+      - 2026-07-20
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/06/08/%e3%80%90%e7%94%b2%e8%b3%80%e5%b8%82%e3%80%91%e5%a4%8f%e4%bc%91%e3%81%bf%e3%81%af%e5%9c%9f%e5%b1%b1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%a8%e3%83%aa%e3%82%a2%e3%81%a7%e6%a5%bd%e3%81%97%e3%81%84/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-08-05

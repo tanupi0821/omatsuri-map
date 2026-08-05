@@ -1,0 +1,29 @@
+id: hyogo-018-tsushin-ashi2-42095
+name: 潮芦屋ふるさと盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市陽光町4-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ashi2.jp/42095/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-08-05

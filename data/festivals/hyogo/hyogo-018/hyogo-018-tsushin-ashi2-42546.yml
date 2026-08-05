@@ -1,0 +1,29 @@
+id: hyogo-018-tsushin-ashi2-42546
+name: 夏祭り＆花火鑑賞会
+kind: 花火
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市東山町12
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ashi2.jp/42546/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-08-05

@@ -1,0 +1,30 @@
+id: hyogo-018-tsushin-ashi2-41942
+name: 精道コミスク夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市精道町8-25
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ashi2.jp/41942/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-08-05

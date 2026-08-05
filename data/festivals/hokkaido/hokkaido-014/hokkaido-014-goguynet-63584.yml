@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 旭川市
+    url: https://asahikawa.goguynet.jp/2026/07/21/kamikawajinjyasai-kaguramai-20260721asahikawa/
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,29 @@
+id: shiga-005-tsushin-shigamamma-166519
+name: キッズ縁日イベント
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 草津市
+  ward: null
+venue:
+  name: 草津市内
+  address: 草津市新浜町300
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/05/30/%e3%80%90%e8%8d%89%e6%b4%a5%e5%b8%82%e3%80%91%e5%8f%82%e5%8a%a0%e7%84%a1%e6%96%99%ef%bc%81%e5%b0%84%e7%9a%84%e3%82%84%e3%83%a8%e3%83%bc%e3%83%a8%e3%83%bc%e9%87%a3%e3%82%8a%e3%81%aa%e3%81%a9%e3%83%af/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-08-05

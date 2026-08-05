@@ -1,0 +1,29 @@
+id: shiga-002-tsushin-shigamamma-165340
+name: GWモリーブ祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 守山市
+  ward: null
+venue:
+  name: 守山市内
+  address: 守山市播磨田町185-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/04/28/%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%81%b5%e3%82%8f%e3%81%b5%e3%82%8f%ef%bc%86%e3%81%a1%e3%81%b3%e3%81%a3%e3%81%93%e7%b8%81%e6%97%a5%e3%81%8c%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8b%ef%bc%81/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-08-05

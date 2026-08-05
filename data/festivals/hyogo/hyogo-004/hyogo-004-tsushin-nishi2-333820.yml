@@ -1,0 +1,29 @@
+id: hyogo-004-tsushin-nishi2-333820
+name: 夏まつり – 熊野神社
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 西宮市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 西宮市熊野町3-26
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nishi2.jp/333820/
+    source_name: 西宮つーしん
+    source_type: media
+    checked_at: 2026-08-05

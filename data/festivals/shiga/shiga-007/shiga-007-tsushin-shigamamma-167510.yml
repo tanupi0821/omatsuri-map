@@ -1,0 +1,29 @@
+id: shiga-007-tsushin-shigamamma-167510
+name: じゅらくの里 こども夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 湖南市
+  ward: null
+venue:
+  name: 湖南市内
+  address: 湖南市東寺4丁目4-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/06/26/%e3%80%90%e6%b9%96%e5%8d%97%e5%b8%82%e3%80%91%e5%a4%a7%e4%ba%ba%e6%b0%97%e3%81%ae%e3%81%93%e3%81%a9%e3%82%82%e3%83%95%e3%83%aa%e3%83%9e%e3%82%84%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%a2%e3%83%bc/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-08-05
