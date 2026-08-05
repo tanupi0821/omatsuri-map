@@ -337,5 +337,10 @@ const desc = festivalMetaDescription(f);
     }
     .source li { margin-bottom: var(--s1); word-break: break-all; }
     .disclaimer { font-size: var(--t2); color: var(--muted); line-height: 1.7; }
+    /* 狭い画面では見出しの帯が本文を圧迫する。住所や備考は長い */
+    @media (max-width: 430px) {
+      .fact > dt { flex: 0 0 66px; width: 66px; padding: var(--s2); letter-spacing: 0; }
+      .fact > dd { padding: var(--s2); }
+    }
   </style>
 </Base>

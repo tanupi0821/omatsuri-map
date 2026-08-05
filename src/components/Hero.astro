@@ -427,10 +427,23 @@ const fmt = (d) => `${Number(d.slice(5, 7))}月${Number(d.slice(8, 10))}日`;
     display: flex; flex-wrap: wrap; gap: var(--s1) var(--s4);
   }
   .herostats b { color: #fdf6e6; font-weight: 700; }
+  /* **スマホは文字が全幅に広がる。** 横方向の暗幕は、文字が左・絵が右に
+     分かれる広い画面でしか効かない。狭い画面では見出しの右端が明るい花火の
+     上に素通しで乗ってしまうので、暗幕を縦方向（上が濃い）に切り替える */
   @media (max-width: 600px) {
-    .fw { width: 56%; right: -4%; opacity: .8; }
-    .yag { width: 34%; right: -2%; bottom: 30px; opacity: .85; }
-    .ground { height: 112px; }
-    .hero .wrap { padding-bottom: 104px; }
+    .hero::after {
+      background:
+        linear-gradient(180deg, rgba(11,21,38,.86) 0%, rgba(11,21,38,.62) 46%, rgba(11,21,38,.1) 78%),
+        radial-gradient(150% 70% at 50% 100%, rgba(255,176,80,.36), transparent 66%);
+    }
+    /* 花火は見出しと重なるので、上ではなく空の余白へ寄せて小さくする */
+    .fw { width: 46%; right: -2%; top: -6px; opacity: .7; }
+    .yag { width: 30%; right: -1%; bottom: 26px; opacity: .8; }
+    .ground { height: 108px; }
+    .hero .wrap { padding-top: var(--s3); padding-bottom: 100px; }
+    /* 幅いっぱいに置いて、端の揃わない見た目をなくす */
+    .weekend { display: flex; width: 100%; }
+    .weekend .go { padding: 0 var(--s3) 0 var(--s1); }
+    .herostats { gap: var(--s1) var(--s3); font-size: var(--t1); }
   }
 </style>
