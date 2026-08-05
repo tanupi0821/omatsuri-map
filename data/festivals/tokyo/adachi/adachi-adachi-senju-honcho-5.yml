@@ -1,0 +1,29 @@
+id: adachi-adachi-senju-honcho-5
+name: 千住四丁目町会ほか 千住本町五町会盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 千住本町住区センター前
+  address: null
+  lat: null
+  lng: null
+organizer: 千住四丁目町会ほか
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 18:30
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

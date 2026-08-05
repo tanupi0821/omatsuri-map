@@ -1,0 +1,34 @@
+{
+ "id": "1201050",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201050-000/",
+ "name": "馬絹神社",
+ "zip": "216-0035",
+ "address": "川崎市 宮前区 馬絹5-21-5",
+ "addressParts": [
+  "川崎市",
+  "宮前区",
+  "馬絹5-21-5"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "４月１５日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１４日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月１５日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

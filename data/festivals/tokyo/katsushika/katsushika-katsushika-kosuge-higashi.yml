@@ -1,0 +1,31 @@
+id: katsushika-katsushika-kosuge-higashi
+name: 小菅東自治会・こすげ小学校PTA こすげ夏祭り（第2回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 小菅めぐみ公園
+  address: 葛飾区小菅3-9-9
+  lat: null
+  lng: null
+organizer: 小菅東自治会・こすげ小学校PTA
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: 18:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 盆踊り7/24・25 18:30〜21:00、子供祭り7/25 15:00〜17:00
+stalls: yes

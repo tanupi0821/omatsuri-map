@@ -1,0 +1,31 @@
+id: gunma-004-hanabi-ar0310e521280
+name: 刀水橋花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 群馬県
+  city: 邑楽郡大泉町
+  ward: null
+venue:
+  name: 利根川河川敷とね運動場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0310e521280/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

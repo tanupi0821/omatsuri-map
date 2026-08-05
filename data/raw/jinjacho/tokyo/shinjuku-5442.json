@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5442",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5442",
+ "name": "穴八幡宮",
+ "zip": "162-0051",
+ "address": "新宿区西早稲田2-1-11",
+ "addressParts": [
+  "新宿区",
+  "西早稲田2-1-11"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "地下鉄東西線「早稲田駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

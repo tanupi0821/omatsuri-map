@@ -1,0 +1,19 @@
+{
+ "id": "1203040",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1203040-000/",
+ "name": "神明社",
+ "zip": "240-0005",
+ "address": "横浜市 保土ケ谷区 神戸町107",
+ "addressParts": [
+  "横浜市",
+  "保土ケ谷区",
+  "神戸町107"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "元旦祭（がんたんさい）",
+   "alias": null
+  }
+ ]
+}

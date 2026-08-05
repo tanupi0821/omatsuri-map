@@ -1,0 +1,36 @@
+id: isehara-jinjacho-1209142-0
+name: 伊勢原大神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 伊勢原市
+  ward: null
+venue:
+  name: 伊勢原大神宮
+  address: 伊勢原市伊勢原3ｰ8ｰ1
+  lat: null
+  lng: null
+recurrence: 9月20日／9月21日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1209142-000/
+organizer: 伊勢原大神宮
+shrine: 伊勢原大神宮
+tags: []
+description: null
+links:
+  - title: 屋台の記述がある記事
+    url: https://hadano-isehara.goguynet.jp/2026/06/24/20260624_isehara/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1209142-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月20日／9月21日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: yes

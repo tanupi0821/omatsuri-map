@@ -1,0 +1,21 @@
+{
+ "id": "taito-5934",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5934",
+ "name": "七倉稲荷神社",
+ "zip": "110-0008",
+ "address": "台東区池之端2-5-47",
+ "addressParts": [
+  "台東区",
+  "池之端2-5-47"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "地下鉄千代田線「根津駅」 南150M",
+ "festivals": [
+  {
+   "date": "9月20日／9月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

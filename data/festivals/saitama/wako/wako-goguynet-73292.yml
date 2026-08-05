@@ -1,0 +1,29 @@
+id: wako-goguynet-73292
+name: 武州白子熊野神社にてつつじ祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 和光市
+  ward: null
+venue:
+  name: 和光市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asaka-wako.goguynet.jp/2026/04/16/tsutsuji/
+    source_name: 号外NET 朝霞市・和光市
+    source_type: media
+    checked_at: 2026-08-04

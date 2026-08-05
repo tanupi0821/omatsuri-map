@@ -1,0 +1,28 @@
+{
+ "id": "9420",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9420/",
+ "name": "能気神社",
+ "zip": null,
+ "address": "東秩父村安戸382",
+ "addressParts": [
+  "東秩父村",
+  "安戸382"
+ ],
+ "festivals": [
+  {
+   "date": "２月１８日",
+   "name": "祈年祭",
+   "alias": null
+  },
+  {
+   "date": "１０月１７日",
+   "name": "例大祭",
+   "alias": null
+  },
+  {
+   "date": "１１月２８日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

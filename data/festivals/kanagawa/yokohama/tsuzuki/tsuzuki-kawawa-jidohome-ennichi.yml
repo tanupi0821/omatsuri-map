@@ -1,0 +1,31 @@
+id: tsuzuki-kawawa-jidohome-ennichi
+name: 川和児童ホーム ミニえんにち
+kind: 縁日
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 川和児童ホーム
+  address: null
+  lat: null
+  lng: null
+organizer: 川和児童ホーム
+tags:
+  - 子ども向け
+  - 昼開催
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 13:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

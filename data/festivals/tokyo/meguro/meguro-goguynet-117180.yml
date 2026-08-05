@@ -1,0 +1,31 @@
+id: meguro-goguynet-117180
+name: 自由が丘スイーツフェスタ2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 駅前にある自由が丘女神広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-04
+      - 2026-05-05
+      - 2026-04-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://meguro.goguynet.jp/2026/04/22/jiyugaoka_sweets_festa2026/
+    source_name: 号外NET 目黒区
+    source_type: media
+    checked_at: 2026-08-04

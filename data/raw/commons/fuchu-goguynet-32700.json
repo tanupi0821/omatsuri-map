@@ -1,0 +1,29 @@
+{
+ "id": "fuchu-goguynet-32700",
+ "name": "大國魂神社例大祭くらやみ祭",
+ "term": "大國魂神社例大祭くらやみ祭",
+ "tokens": {
+  "strong": [
+   "大國魂神社例大祭くらやみ祭",
+   "大國魂神社",
+   "大國魂"
+  ],
+  "weak": [],
+  "place": [
+   "府中市",
+   "府中"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Okunitama-jinja-24.jpg/1280px-Okunitama-jinja-24.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Okunitama-jinja-24.jpg",
+   "title": "File:Okunitama-jinja-24.jpg"
+  }
+ ]
+}

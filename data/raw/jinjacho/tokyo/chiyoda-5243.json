@@ -1,0 +1,21 @@
+{
+ "id": "chiyoda-5243",
+ "url": "http://www.tokyo-jinjacho.or.jp/chiyoda/5243",
+ "name": "太田姫稲荷神社",
+ "zip": "101-0062",
+ "address": "千代田区神田駿河台1-2-3",
+ "addressParts": [
+  "千代田区",
+  "神田駿河台1-2-3"
+ ],
+ "city": "千代田区",
+ "citySlugHint": "chiyoda",
+ "station": null,
+ "festivals": [
+  {
+   "date": "5月15日前後の土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

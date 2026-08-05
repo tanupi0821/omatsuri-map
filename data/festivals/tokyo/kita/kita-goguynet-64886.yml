@@ -1,0 +1,31 @@
+id: kita-goguynet-64886
+name: なかいちちょうかいまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 北区
+  ward: null
+venue:
+  name: 東京都北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-09
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyokita.goguynet.jp/2026/08/03/ojijinjyasairei_jujo_nakahara1_2026/
+    source_name: 号外NET 北区
+    source_type: media
+    checked_at: 2026-08-04

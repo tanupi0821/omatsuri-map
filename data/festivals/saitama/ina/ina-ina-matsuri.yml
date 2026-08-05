@@ -1,0 +1,31 @@
+id: ina-ina-matsuri
+name: 伊奈まつり 2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 伊奈町
+  ward: null
+venue:
+  name: 伊奈町制施行記念公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0311/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

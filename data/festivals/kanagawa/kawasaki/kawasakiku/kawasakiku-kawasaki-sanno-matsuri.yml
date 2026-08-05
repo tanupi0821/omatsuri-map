@@ -1,0 +1,39 @@
+id: kawasakiku-kawasaki-sanno-matsuri
+name: 川崎山王祭（稲毛神社例大祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 川崎区
+venue:
+  name: 稲毛神社および市役所通り
+  address: 川崎市川崎区宮本町7-7
+  lat: null
+  lng: null
+organizer: 稲毛神社
+shrine: 稲毛神社
+tags:
+  - 神輿
+  - 県指定無形民俗文化財
+description: null
+links:
+  - https://www.takemikatsuchi.net/schedulelist/sannousai/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-14
+      - 2026-06-15
+      - 2026-06-20
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.takemikatsuchi.net/%E5%B7%9D%E5%B4%8E%E5%B1%B1%E7%8E%8B%E7%A5%AD%EF%BC%886-14-6-21%EF%BC%89/
+    source_name: 川崎山王社 稲毛神社 公式
+    checked_at: 2026-08-02
+    note: 6/14 18:00 宵宮祭、6/15 10:00 山王祭・14:00 古式宮座式（県指定無形民俗文化財）、6/20 12:45〜15:10頃 町内みこし連合渡御、6/21 6:30〜20:00 神幸祭（孔雀・玉の大神輿が23町内を渡御）、6/21 17:10〜19:00頃 山王ふぇすてぃばる（市役所通りのパレード）
+    source_type: official
+recurrence: 6月15日（2026年から、猛暑を避けて8月開催より変更）
+recurrence_source: https://www.takemikatsuchi.net/
+stalls: yes

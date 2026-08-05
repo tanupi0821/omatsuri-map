@@ -1,0 +1,28 @@
+{
+ "id": "fukui-001-hanabi-ar0518e00676",
+ "name": "第44回 三国花火",
+ "term": "三国花火",
+ "tokens": {
+  "strong": [
+   "第44回",
+   "三国花火"
+  ],
+  "weak": [],
+  "place": [
+   "坂井市",
+   "坂井"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mikuni_fireworks_2013.JPG/1280px-Mikuni_fireworks_2013.JPG",
+   "width": 1000,
+   "height": 667,
+   "credit": "藤谷良秀",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mikuni_fireworks_2013.JPG",
+   "title": "File:Mikuni fireworks 2013.JPG"
+  }
+ ]
+}

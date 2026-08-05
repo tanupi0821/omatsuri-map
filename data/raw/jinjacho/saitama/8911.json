@@ -1,0 +1,23 @@
+{
+ "id": "8911",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8911/",
+ "name": "熊野神社",
+ "zip": null,
+ "address": "所沢市西新井町17-35",
+ "addressParts": [
+  "所沢市",
+  "西新井町17-35"
+ ],
+ "festivals": [
+  {
+   "date": "4月12日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月9日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

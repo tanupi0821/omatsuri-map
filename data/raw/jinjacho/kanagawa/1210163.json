@@ -1,0 +1,23 @@
+{
+ "id": "1210163",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210163-000/",
+ "name": "神明神社",
+ "zip": "250-0875",
+ "address": "小田原市 南鴨宮1-6-5",
+ "addressParts": [
+  "小田原市",
+  "南鴨宮1-6-5"
+ ],
+ "festivals": [
+  {
+   "date": "1月1日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "4月3日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

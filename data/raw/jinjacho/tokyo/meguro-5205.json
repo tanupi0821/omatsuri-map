@@ -1,0 +1,21 @@
+{
+ "id": "meguro-5205",
+ "url": "http://www.tokyo-jinjacho.or.jp/meguro/5205",
+ "name": "碑文谷八幡宮",
+ "zip": "152-0003",
+ "address": "目黒区碑文谷3-7-3",
+ "addressParts": [
+  "目黒区",
+  "碑文谷3-7-3"
+ ],
+ "city": "目黒区",
+ "citySlugHint": "meguro",
+ "station": "JR「目黒駅」より、東急バス大岡山小学校行き20分の「碑文谷八幡前」 東急東横線「学芸大学駅」 徒歩15分",
+ "festivals": [
+  {
+   "date": "9月敬老の日の前々日・前日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

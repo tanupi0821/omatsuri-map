@@ -1,0 +1,21 @@
+{
+ "id": "kita-5426",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5426",
+ "name": "八幡神社",
+ "zip": "115-0053",
+ "address": "北区赤羽台4-1-6",
+ "addressParts": [
+  "北区",
+  "赤羽台4-1-6"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR京浜東北線・東北線・高崎線・埼京線「赤羽駅」北改札口 徒歩8分 東京メトロ南北線「赤羽岩淵駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

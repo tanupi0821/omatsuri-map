@@ -1,0 +1,34 @@
+id: narita-narita-gion-sai
+name: 成田祇園祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 成田市
+  ward: null
+venue:
+  name: 成田山新勝寺および成田山表参道
+  address: null
+  lat: null
+  lng: null
+station: 成田
+organizer: null
+tags:
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://maruchiba.jp/event/detail_10868.html
+    source_name: ちば観光ナビ（千葉県公式観光サイト）
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 2026年は佐原の大祭夏祭りと11年ぶりに同日開催
+stalls: unknown

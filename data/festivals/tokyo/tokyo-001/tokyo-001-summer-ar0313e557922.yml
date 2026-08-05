@@ -1,0 +1,31 @@
+id: tokyo-001-summer-ar0313e557922
+name: 夜間特別開園 たてもの園 下町夕涼み
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 小金井市
+  ward: null
+venue:
+  name: 江戸東京たてもの園
+  address: 小金井市桜町3-7-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e557922/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5259",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5259",
+ "name": "袖ヶ崎神社",
+ "zip": "141-0022",
+ "address": "品川区東五反田3-6-20",
+ "addressParts": [
+  "品川区",
+  "東五反田3-6-20"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "JR・地下鉄浅草線「五反田駅」 10分",
+ "festivals": [
+  {
+   "date": "5月第4土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

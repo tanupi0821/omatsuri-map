@@ -1,0 +1,33 @@
+id: matsudo-kogane-juku-matsuri
+name: 小金宿まつり（第27回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 北小金駅前広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - title: 号外NET 松戸市
+    url: https://matsudo.goguynet.jp/2026/07/22/post-18800/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes

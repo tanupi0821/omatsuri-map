@@ -1,0 +1,30 @@
+id: shinjuku-chokai-yayoichokai-20260203-14
+name: 中落合三丁目やよい町会 節分祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 中落合三丁目やよい町会の地域（会場は主催者に要確認）
+  address: null
+  lat: null
+  lng: null
+organizer: 中落合三丁目やよい町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/yayoichokai/
+    source_name: 中落合三丁目やよい町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 町内会・自治会が自身のホームページで告知したもの。会場の詳細は出典元を参照
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "ota-5698",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5698",
+ "name": "浦守稲荷神社",
+ "zip": "143-0013",
+ "address": "大田区大森南3-27-8",
+ "addressParts": [
+  "大田区",
+  "大森南3-27-8"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京急バス森ヶ崎線「前の浦」 1分",
+ "festivals": [
+  {
+   "date": "6月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

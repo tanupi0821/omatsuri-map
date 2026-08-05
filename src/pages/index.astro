@@ -1,0 +1,114 @@
+---
+import Base from '../layouts/Base.astro';
+import FestivalList from '../components/FestivalList.astro';
+import { loadFestivals, latestOccurrence } from '../lib/data.js';
+import { PREFS, REGIONS } from '../../scripts/lib/prefs.mjs';
+
+const festivals = loadFestivals();
+
+/**
+ * **トップに全件を並べたら 2.9MB になった。** 携帯で開ける大きさではない。
+ * トップは「これから開催されるもの」だけにし、残りは都道府県ページに送る。
+ * 過去の分まで見たい人はエリアページで「すべて」を選べる。
+ */
+const today = new Date().toISOString().slice(0, 10);
+const upcoming = festivals
+  .filter((f) => {
+    const o = latestOccurrence(f);
+    return o?.dates?.length && o.dates.at(-1) >= today;
+  })
+  .sort((a, b) => {
+    const da = latestOccurrence(a).dates.find((d) => d >= today) ?? '9999';
+    const db = latestOccurrence(b).dates.find((d) => d >= today) ?? '9999';
+    return da.localeCompare(db);
+  })
+  .slice(0, 120);
+
+// 都道府県は**地理順（北から南）**に並べる。件数順だと東京・神奈川が先頭に来て、
+// 自分の県を探す人が目で追えない。prefs.mjs が既に北から南の順になっている
+const prefs = new Map();
+for (const f of festivals) {
+  if (!prefs.has(f._prefSlug)) {
+    prefs.set(f._prefSlug, { slug: f._prefSlug, name: f.area.pref, n: 0, stalls: 0, cities: new Set() });
+  }
+  const p = prefs.get(f._prefSlug);
+  p.n++;
+  p.cities.add(f._citySlug);
+  if (f.stalls === 'yes') p.stalls++;
+}
+const order = new Map(PREFS.map((p, i) => [p.slug, i]));
+const prefList = [...prefs.values()]
+  .sort((a, b) => (order.get(a.slug) ?? 99) - (order.get(b.slug) ?? 99));
+
+// 47 都道府県を平らに並べると探しにくい。地方でまとめる
+const regionOf = new Map(PREFS.map((p) => [p.slug, p.region]));
+const byRegion = REGIONS
+  .map((r) => ({ region: r, prefs: prefList.filter((p) => regionOf.get(p.slug) === r) }))
+  .filter((x) => x.prefs.length);
+
+const cityCount = new Set(festivals.map((f) => `${f._prefSlug}/${f._citySlug}`)).size;
+const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
+const machi = festivals.filter((f) => f.scale === '町内会').length;
+---
+
+<Base
+  title={null}
+  description="全国の夏祭り・盆踊り・例大祭をまとめて探せます。大手サイトに載らない町内会や自治会の盆踊りまで、出典つきで掲載しています。"
+>
+  <h1>全国の祭りを、町内会のものまで</h1>
+  <p class="lede">
+    大手のイベントサイトには載らない自治会・町内会の盆踊りまで集めています。すべて出典と最終確認日つき。
+    現在 <strong>{festivals.length} 件</strong>／{prefList.length} 都道府県 {cityCount} 市区町村。
+    うち町内会・自治会の祭りが {machi} 件、屋台が出ると分かっているものが {stallsTotal} 件。
+  </p>
+
+  <p class="searchcta">
+    <a href="/search">
+      <strong>全国からさがす</strong>
+      <span>地方・都道府県・市区町村・日付・名前でしぼりこめます</span>
+    </a>
+  </p>
+
+  <h2>エリアから探す</h2>
+  {byRegion.map(({ region, prefs: list }) => (
+    <>
+      <h3>{region}</h3>
+      <ul class="areas">
+        {list.map((p) => (
+          <li><a href={`/a/${p.slug}/`}>{p.name}<span class="c">{p.n}</span></a></li>
+        ))}
+      </ul>
+    </>
+  ))}
+
+  <h2>これから開催される祭り</h2>
+  <p class="lede">開催日の近い順に {upcoming.length} 件。エリアで絞るときは上の都道府県から選んでください。</p>
+  <FestivalList festivals={upcoming} />
+
+  <p class="lede" style="margin-top:32px">
+    町内会の祭りは、そもそも一覧がどこにも存在しません。取りこぼしは必ずあります。
+    抜けや誤りに気づいた方は教えてください。
+  </p>
+
+  <style>
+    .lede { color: var(--muted); font-size: 14px; }
+    h1 + .lede { margin-top: 0; }
+    h2 { font-size: 17px; margin: 28px 0 8px; }
+    h3 { font-size: 13px; color: var(--muted); margin: 14px 0 6px; font-weight: 600; }
+    .searchcta { margin: 18px 0 0; }
+    .searchcta a {
+      display: block; padding: 14px 16px; text-decoration: none; color: inherit;
+      border: 1px solid var(--accent); border-radius: 12px; background: var(--accent-soft);
+    }
+    .searchcta strong { display: block; font-size: 16px; color: var(--accent); }
+    .searchcta span { font-size: 13px; color: var(--muted); }
+    .areas { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .areas a {
+      display: inline-flex; gap: 6px; align-items: baseline;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 5px 12px; font-size: 14px; text-decoration: none; color: inherit;
+      background: var(--card);
+    }
+    .areas .c { font-size: 12px; color: var(--muted); }
+  </style>
+</Base>

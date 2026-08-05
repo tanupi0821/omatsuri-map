@@ -1,0 +1,29 @@
+id: chuou-tokyofesta-30964
+name: 第2回晴海ふ頭公園盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 晴海ふ頭公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/30964/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

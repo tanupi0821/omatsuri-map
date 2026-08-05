@@ -1,0 +1,29 @@
+{
+ "id": "1202044",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202044-000/",
+ "name": "杉山神社",
+ "zip": "221-0865",
+ "address": "横浜市 神奈川区 片倉5-5-21",
+ "addressParts": [
+  "横浜市",
+  "神奈川区",
+  "片倉5-5-21"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "元旦祭（がんたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月第１日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月第１日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

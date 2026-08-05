@@ -1,0 +1,29 @@
+id: zama-goguynet-60339
+name: 日米友好盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 座間市
+  ward: null
+venue:
+  name: 在日米陸軍キャンプ座間
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ebina-zama-ayase.goguynet.jp/2026/07/19/camp-zama-bon-odori-festival-2026/
+    source_name: 号外NET 海老名市・座間市・綾瀬市
+    source_type: media
+    checked_at: 2026-08-04

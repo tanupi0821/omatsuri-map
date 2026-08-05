@@ -1,0 +1,33 @@
+id: yokosuka-jinjacho-1205105-0
+name: 淡島神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横須賀市
+  ward: null
+venue:
+  name: 淡島神社
+  address: 横須賀市芦名1-18-19
+  lat: null
+  lng: null
+recurrence: 3月3日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205105-000/
+organizer: 淡島神社
+shrine: 淡島神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1205105-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「3月3日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

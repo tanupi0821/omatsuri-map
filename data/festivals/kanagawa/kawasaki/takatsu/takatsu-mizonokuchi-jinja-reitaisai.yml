@@ -1,0 +1,35 @@
+id: takatsu-mizonokuchi-jinja-reitaisai
+name: 溝口神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 溝口神社
+  address: 川崎市高津区溝口2-25-1
+  lat: null
+  lng: null
+recurrence: 9月15日に近い日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201059-000/
+organizer: 溝口神社
+shrine: 溝口神社
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-09-13
+      - 2025-09-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://mizonokuchijinjya.org/reisai.html
+    source_name: 溝口神社 公式
+    source_type: official
+    checked_at: 2026-08-02
+    note: 9/13 17:00 宵宮祭、18:00過ぎ マジックショー、19:00 抽選会。9/14 9:00 例祭、11:00 本社宮神輿 宮出し、18:40頃 宮入り。開門6:00／閉門21:00。2025年の日程
+stalls: yes

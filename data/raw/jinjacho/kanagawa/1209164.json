@@ -1,0 +1,28 @@
+{
+ "id": "1209164",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209164-000/",
+ "name": "若宮八幡神社",
+ "zip": "254-0911",
+ "address": "平塚市 山下198",
+ "addressParts": [
+  "平塚市",
+  "山下198"
+ ],
+ "festivals": [
+  {
+   "date": "１２月第１日曜日",
+   "name": "感謝祭（かんしゃさい）",
+   "alias": null
+  },
+  {
+   "date": "４月３日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "２月第１日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  }
+ ]
+}

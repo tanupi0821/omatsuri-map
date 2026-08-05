@@ -1,0 +1,29 @@
+id: shimonita-shimonita-konnyaku-natsumatsuri
+name: 下仁田こんにゃく夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 下仁田町
+  ward: null
+venue:
+  name: 下仁田こんにゃく手作り体験道場 広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

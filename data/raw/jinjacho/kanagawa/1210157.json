@@ -1,0 +1,43 @@
+{
+ "id": "1210157",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210157-000/",
+ "name": "宗我神社",
+ "zip": "250-0204",
+ "address": "小田原市 曽我谷津386",
+ "addressParts": [
+  "小田原市",
+  "曽我谷津386"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１１日",
+   "name": "梅祭り（うめまつり）",
+   "alias": null
+  },
+  {
+   "date": "４月１７日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月最終日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月３１日",
+   "name": "除夜祭（じょやさい）",
+   "alias": null
+  }
+ ]
+}

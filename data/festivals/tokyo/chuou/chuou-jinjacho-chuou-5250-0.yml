@@ -1,0 +1,34 @@
+id: chuou-jinjacho-chuou-5250-0
+name: 波除稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 波除稲荷神社
+  address: 中央区築地6-20-37
+  lat: null
+  lng: null
+station: 都営大江戸線「築地市場駅」 徒歩5分 東京メトロ日比谷線「築地駅」 徒歩7分 都バス「築地6丁目」 徒歩2分
+recurrence: 6月10日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/chuou/5250
+organizer: 波除稲荷神社
+shrine: 波除稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/chuou/5250
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月10日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

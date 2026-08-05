@@ -1,0 +1,30 @@
+id: shiga-007-hanabi-ar0725e512144
+name: 湖南市夏まつり2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 滋賀県
+  city: 湖南市
+  ward: null
+venue:
+  name: 野洲川親水公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0725e512144/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

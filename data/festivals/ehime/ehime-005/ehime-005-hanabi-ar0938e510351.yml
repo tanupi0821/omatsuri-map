@@ -1,0 +1,30 @@
+id: ehime-005-hanabi-ar0938e510351
+name: きなはいや伊方まつり2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛媛県
+  city: 西宇和郡伊方町
+  ward: null
+venue:
+  name: 伊方町役場前埋立駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0938e510351/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

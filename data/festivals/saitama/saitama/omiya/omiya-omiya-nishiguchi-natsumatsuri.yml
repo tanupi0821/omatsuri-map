@@ -1,0 +1,29 @@
+id: omiya-omiya-nishiguchi-natsumatsuri
+name: 大宮夏まつり 西口夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 大宮区
+venue:
+  name: 大宮駅西口周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

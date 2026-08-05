@@ -1,0 +1,23 @@
+{
+ "id": "9416",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9416/",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "長瀞町矢那瀬566",
+ "addressParts": [
+  "長瀞町",
+  "矢那瀬566"
+ ],
+ "festivals": [
+  {
+   "date": "３月１５日に近い日曜日",
+   "name": "春祭り",
+   "alias": null
+  },
+  {
+   "date": "１０月１５日に近い日曜日",
+   "name": "秋祭り",
+   "alias": null
+  }
+ ]
+}

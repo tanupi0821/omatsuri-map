@@ -1,0 +1,21 @@
+{
+ "id": "edogawa-5683",
+ "url": "http://www.tokyo-jinjacho.or.jp/edogawa/5683",
+ "name": "天祖神社",
+ "zip": "134-0084",
+ "address": "江戸川区東葛西7-17",
+ "addressParts": [
+  "江戸川区",
+  "東葛西7-17"
+ ],
+ "city": "江戸川区",
+ "citySlugHint": "edogawa",
+ "station": "地下鉄東西線「葛西駅」 15分",
+ "festivals": [
+  {
+   "date": "11月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

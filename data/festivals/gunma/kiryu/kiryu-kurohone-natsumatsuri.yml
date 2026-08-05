@@ -1,0 +1,30 @@
+id: kiryu-kurohone-natsumatsuri
+name: くろほね夏まつり（第39回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 桐生市
+  ward: null
+venue:
+  name: わたらせ渓谷鐵道 水沼駅周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

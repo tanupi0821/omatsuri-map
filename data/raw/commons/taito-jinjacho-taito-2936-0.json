@@ -1,0 +1,39 @@
+{
+ "id": "taito-jinjacho-taito-2936-0",
+ "name": "金刀比羅神社 例祭",
+ "term": "金刀比羅神社 例祭",
+ "tokens": {
+  "strong": [
+   "金刀比羅"
+  ],
+  "weak": [
+   "金刀比羅神社"
+  ],
+  "place": [
+   "台東区",
+   "台東"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC%E7%B5%B5%E5%9B%B3_01.jpg/1280px-%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC%E7%B5%B5%E5%9B%B3_01.jpg",
+   "width": 1000,
+   "height": 156,
+   "credit": "金刀比羅神社",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC%E7%B5%B5%E5%9B%B3_01.jpg",
+   "title": "File:金刀比羅神社祭礼絵図 01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC%E7%B5%B5%E5%9B%B3_02.jpg",
+   "width": 1000,
+   "height": 1414,
+   "credit": "金刀比羅神社",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E5%88%80%E6%AF%94%E7%BE%85%E7%A5%9E%E7%A4%BE%E7%A5%AD%E7%A4%BC%E7%B5%B5%E5%9B%B3_02.jpg",
+   "title": "File:金刀比羅神社祭礼絵図 02.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: fukushima-001-goguynet-10728
+name: 第33回桧町内会夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福島県
+  city: 会津若松市
+  ward: null
+venue:
+  name: 今年も桧町の東部公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aizu.goguynet.jp/2026/07/18/hinokisummerfes/
+    source_name: 号外NET 会津若松市・喜多方市
+    source_type: media
+    checked_at: 2026-08-04

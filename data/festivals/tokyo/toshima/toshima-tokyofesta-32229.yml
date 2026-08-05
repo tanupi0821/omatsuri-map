@@ -1,0 +1,29 @@
+id: toshima-tokyofesta-32229
+name: 第39回 巣鴨納涼盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: 豊島区内
+  address: null
+  lat: null
+  lng: null
+organizer: 巣鴨地蔵通り商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/32229/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

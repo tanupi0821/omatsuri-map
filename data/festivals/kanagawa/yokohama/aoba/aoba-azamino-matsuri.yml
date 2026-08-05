@@ -1,0 +1,29 @@
+id: aoba-azamino-matsuri
+name: あざみ野まつり（第37回）
+kind: 秋祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 青葉区
+venue:
+  name: 小学校予定地
+  address: 横浜市青葉区あざみ野1-15
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

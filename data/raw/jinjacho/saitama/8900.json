@@ -1,0 +1,28 @@
+{
+ "id": "8900",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8900/",
+ "name": "尾崎神社",
+ "zip": null,
+ "address": "川越市大字笠幡1280",
+ "addressParts": [
+  "川越市",
+  "大字笠幡1280"
+ ],
+ "festivals": [
+  {
+   "date": "５月３日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月15日",
+   "name": "神嘗祭",
+   "alias": null
+  },
+  {
+   "date": "11月15日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

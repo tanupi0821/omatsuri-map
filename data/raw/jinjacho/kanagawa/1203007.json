@@ -1,0 +1,34 @@
+{
+ "id": "1203007",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1203007-000/",
+ "name": "皇太神宮",
+ "zip": "231-0844",
+ "address": "横浜市 中区 西之谷町73",
+ "addressParts": [
+  "横浜市",
+  "中区",
+  "西之谷町73"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１４日近い金曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１４日近い日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  }
+ ]
+}

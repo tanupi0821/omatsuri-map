@@ -1,0 +1,29 @@
+id: setagaya-setagaya-taishido-fureai
+name: 太子堂ふれあいまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 世田谷区立太子堂小学校
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

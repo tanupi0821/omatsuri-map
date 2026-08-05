@@ -1,0 +1,33 @@
+id: itako-itako-gion-sairei
+name: 潮来祇園祭禮
+kind: 例大祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 潮来市
+  ward: null
+venue:
+  name: 潮来地区
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 山車
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

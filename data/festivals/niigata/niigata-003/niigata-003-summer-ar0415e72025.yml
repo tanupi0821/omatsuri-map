@@ -1,0 +1,46 @@
+id: niigata-003-summer-ar0415e72025
+name: おぢやまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 小千谷市
+  ward: null
+venue:
+  name: 新潟県小千谷市本町ほか
+  address: 小千谷市本町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e72025/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2006_Ojiya_Festival_007.jpg/1280px-2006_Ojiya_Festival_007.jpg
+    width: 1000
+    height: 1337
+    credit: Kropsoq
+    license: CC BY-SA 3.0
+    license_url: http://creativecommons.org/licenses/by-sa/3.0/
+    source: https://commons.wikimedia.org/wiki/File:2006_Ojiya_Festival_007.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2006_Ojiya_Festival_011.jpg/1280px-2006_Ojiya_Festival_011.jpg
+    width: 1000
+    height: 1298
+    credit: Kropsoq
+    license: CC BY-SA 3.0
+    license_url: http://creativecommons.org/licenses/by-sa/3.0/
+    source: https://commons.wikimedia.org/wiki/File:2006_Ojiya_Festival_011.jpg

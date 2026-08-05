@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5428",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5428",
+ "name": "鎧神社",
+ "zip": "169-0074",
+ "address": "新宿区北新宿3-16-18",
+ "addressParts": [
+  "新宿区",
+  "北新宿3-16-18"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR「大久保駅」 徒歩8分",
+ "festivals": [
+  {
+   "date": "9月15日／16日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

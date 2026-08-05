@@ -1,0 +1,31 @@
+id: tsurumi-tsukuno-shotengai-natsumatsuri
+name: つくの商店街 夏祭り
+kind: 商店街
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 鶴見区
+venue:
+  name: つくの商店街 アーケード内
+  address: null
+  lat: null
+  lng: null
+organizer: レアールつくの商店街
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 夕暮れスタート
+    source_type: media
+stalls: unknown

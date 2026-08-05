@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5324",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5324",
+ "name": "稲荷神社",
+ "zip": "113-0022",
+ "address": "文京区千駄木5-2-8",
+ "addressParts": [
+  "文京区",
+  "千駄木5-2-8"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "地下鉄千代田線「千駄木駅」 5分",
+ "festivals": [
+  {
+   "date": "4月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

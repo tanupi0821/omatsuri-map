@@ -1,0 +1,29 @@
+id: arakawa-goguynet-82886
+name: 尾久八幡神社例大祭2026
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 荒川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/06/28/oguyahatajinjyareidaisai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

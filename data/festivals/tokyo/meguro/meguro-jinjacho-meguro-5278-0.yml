@@ -1,0 +1,34 @@
+id: meguro-jinjacho-meguro-5278-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 氷川神社
+  address: 目黒区八雲2-4-16
+  lat: null
+  lng: null
+station: 東急東横線「都立大学駅」 5分
+recurrence: 9月19日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/meguro/5278
+organizer: 氷川神社
+shrine: 氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/meguro/5278
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月19日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

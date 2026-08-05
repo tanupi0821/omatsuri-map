@@ -1,0 +1,21 @@
+{
+ "id": "minato-5195",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/5195",
+ "name": "高山稲荷神社",
+ "zip": "108-0074",
+ "address": "港区高輪4-10-23",
+ "addressParts": [
+  "港区",
+  "高輪4-10-23"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "JR「品川駅」 1分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

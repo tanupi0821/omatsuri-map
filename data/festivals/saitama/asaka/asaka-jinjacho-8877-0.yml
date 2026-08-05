@@ -1,0 +1,33 @@
+id: asaka-jinjacho-8877-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 朝霞市
+  ward: null
+venue:
+  name: 氷川神社
+  address: 朝霞市浜崎3-9-3
+  lat: null
+  lng: null
+recurrence: 4月10日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8877/
+organizer: 氷川神社
+shrine: 氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8877/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月10日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

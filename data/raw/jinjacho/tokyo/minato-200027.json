@@ -1,0 +1,21 @@
+{
+ "id": "minato-200027",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/200027",
+ "name": "氷川神社",
+ "zip": "108-0072",
+ "address": "港区白金2-1-7",
+ "addressParts": [
+  "港区",
+  "白金2-1-7"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "東京メトロ南北線・都営三田線「白金高輪駅」（3番出口） 徒歩4分 都バス田町―渋谷間「三光坂下」下車 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月第3土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

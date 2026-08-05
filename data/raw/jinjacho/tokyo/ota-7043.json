@@ -1,0 +1,21 @@
+{
+ "id": "ota-7043",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/7043",
+ "name": "白魚稲荷神社",
+ "zip": "144-0043",
+ "address": "大田区羽田5-27-8",
+ "addressParts": [
+  "大田区",
+  "羽田5-27-8"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京急バス「弁天橋」 2分",
+ "festivals": [
+  {
+   "date": "2月初午／5月第4土曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

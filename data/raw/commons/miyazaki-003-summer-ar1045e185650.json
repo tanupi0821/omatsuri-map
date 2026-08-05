@@ -1,0 +1,28 @@
+{
+ "id": "miyazaki-003-summer-ar1045e185650",
+ "name": "都城六月灯 おかげ祭り",
+ "term": "都城六月灯 おかげ祭り",
+ "tokens": {
+  "strong": [
+   "都城六月灯",
+   "おかげ祭り"
+  ],
+  "weak": [],
+  "place": [
+   "都城市",
+   "都城"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/2007okagematsuri_honmatsuri1.JPG",
+   "width": 1000,
+   "height": 666,
+   "credit": "おかげ祭り振興会",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2007okagematsuri_honmatsuri1.JPG",
+   "title": "File:2007okagematsuri honmatsuri1.JPG"
+  }
+ ]
+}

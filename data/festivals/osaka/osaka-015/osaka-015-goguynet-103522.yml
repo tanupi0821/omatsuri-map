@@ -1,0 +1,29 @@
+id: osaka-015-goguynet-103522
+name: 都島神社の夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市都島区
+  ward: null
+venue:
+  name: 大阪市都島区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://miyakojima-asahi.goguynet.jp/2026/07/17/miyajin/
+    source_name: 号外NET 大阪市都島区・旭区
+    source_type: media
+    checked_at: 2026-08-04

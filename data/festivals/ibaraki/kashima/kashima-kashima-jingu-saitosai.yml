@@ -1,0 +1,36 @@
+id: kashima-kashima-jingu-saitosai
+name: 鹿島神宮 祭頭祭
+kind: 神事
+scale: 市
+area:
+  pref: 茨城県
+  city: 鹿嶋市
+  ward: null
+venue:
+  name: 鹿島神宮および大町通り
+  address: null
+  lat: null
+  lng: null
+station: 鹿島神宮
+recurrence: 3月9日（3月9日が平日の年は祭頭囃しを直後の土曜に分ける）
+recurrence_source: https://www.city.kashima.ibaraki.jp/site/kankou/9110.html
+organizer: 鹿島神宮
+shrine: 鹿島神宮
+tags:
+  - 重要無形民俗文化財
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-09
+      - 2026-03-14
+    start_time: 10:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.kashima.ibaraki.jp/site/kankou/9110.html
+    source_name: 鹿嶋市 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 3/9 10:00 祭頭祭（本殿での神事）、3/14 祭頭囃し・春季祭。3/14は鹿島神宮前の大町通り一帯が歩行者天国になる
+stalls: unknown

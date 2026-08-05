@@ -1,0 +1,21 @@
+{
+ "id": "taito-3205",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3205",
+ "name": "元三島神社",
+ "zip": "110-0003",
+ "address": "台東区根岸1-7-11",
+ "addressParts": [
+  "台東区",
+  "根岸1-7-11"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "JR山手線・京浜東北線「鴬谷駅」 徒歩1分",
+ "festivals": [
+  {
+   "date": "5月第2土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

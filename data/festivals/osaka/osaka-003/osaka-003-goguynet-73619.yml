@@ -1,0 +1,29 @@
+id: osaka-003-goguynet-73619
+name: 縁日あそび
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 東大阪市
+  ward: null
+venue:
+  name: 東大阪市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://higashiosaka.goguynet.jp/2026/06/23/ionhuse-ivent/
+    source_name: 号外NET 東大阪市
+    source_type: media
+    checked_at: 2026-08-04

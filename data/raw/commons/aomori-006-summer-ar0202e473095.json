@@ -1,0 +1,47 @@
+{
+ "id": "aomori-006-summer-ar0202e473095",
+ "name": "八戸三社大祭",
+ "term": "八戸三社大祭",
+ "tokens": {
+  "strong": [
+   "八戸三社大祭"
+  ],
+  "weak": [],
+  "place": [
+   "八戸市",
+   "八戸"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "8-Forest",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-002.JPG",
+   "title": "File:Hachinohe Sansha Taisai Festival, 2 August 2014-002.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-001.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-001.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "8-Forest",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-001.JPG",
+   "title": "File:Hachinohe Sansha Taisai Festival, 2 August 2014-001.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-004.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-004.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "8-Forest",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-004.JPG",
+   "title": "File:Hachinohe Sansha Taisai Festival, 2 August 2014-004.JPG"
+  }
+ ]
+}

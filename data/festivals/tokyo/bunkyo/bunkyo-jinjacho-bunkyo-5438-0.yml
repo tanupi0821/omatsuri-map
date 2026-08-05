@@ -1,0 +1,34 @@
+id: bunkyo-jinjacho-bunkyo-5438-0
+name: 水神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 文京区
+  ward: null
+venue:
+  name: 水神社
+  address: 文京区目白台1-1-9
+  lat: null
+  lng: null
+station: 地下鉄有楽町線「江戸川橋駅」 10分
+recurrence: 5月5日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/bunkyo/5438
+organizer: 水神社
+shrine: 水神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/bunkyo/5438
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月5日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

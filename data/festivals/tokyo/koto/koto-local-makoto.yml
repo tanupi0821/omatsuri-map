@@ -1,0 +1,29 @@
+id: koto-local-makoto
+name: まこと夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: まこと地域総合センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: 16:30
+    end_time: 18:30
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

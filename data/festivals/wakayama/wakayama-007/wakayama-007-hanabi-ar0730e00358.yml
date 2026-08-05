@@ -1,0 +1,30 @@
+id: wakayama-007-hanabi-ar0730e00358
+name: 第44回 紀文まつり花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 和歌山県
+  city: 有田市
+  ward: null
+venue:
+  name: 有田市役所周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0730e00358/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

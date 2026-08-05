@@ -1,0 +1,29 @@
+id: shimane-008-goguynet-41141
+name: のりもの＆うまいもの祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 雲南市
+  ward: null
+venue:
+  name: 雲南市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://izumo-unnan.goguynet.jp/2026/05/01/norimonoumaimonomatsuri/
+    source_name: 号外NET 出雲市・雲南市
+    source_type: media
+    checked_at: 2026-08-04

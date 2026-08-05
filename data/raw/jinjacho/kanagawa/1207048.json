@@ -1,0 +1,23 @@
+{
+ "id": "1207048",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207048-000/",
+ "name": "諏訪神社",
+ "zip": "243-0422",
+ "address": "海老名市 中新田2-19-14",
+ "addressParts": [
+  "海老名市",
+  "中新田2-19-14"
+ ],
+ "festivals": [
+  {
+   "date": "４月第３日曜日",
+   "name": "田作始祭（たつくりはじめさい）",
+   "alias": null
+  },
+  {
+   "date": "７月第４月曜日",
+   "name": "虫送祭（むしおくりさい）",
+   "alias": null
+  }
+ ]
+}

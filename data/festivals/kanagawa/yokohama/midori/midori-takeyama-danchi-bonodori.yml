@@ -1,0 +1,31 @@
+id: midori-takeyama-danchi-bonodori
+name: 竹山団地盆踊り＆花火大会（第55回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 緑区
+venue:
+  name: 竹山中央商店街周辺・竹山池周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 11:00
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/18/midoriku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    note: 花火は19:30頃から予定
+    source_type: media
+stalls: unknown

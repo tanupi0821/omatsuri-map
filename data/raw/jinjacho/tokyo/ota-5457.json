@@ -1,0 +1,21 @@
+{
+ "id": "ota-5457",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5457",
+ "name": "太田神社",
+ "zip": "143-0024",
+ "address": "大田区中央6-3-24",
+ "addressParts": [
+  "大田区",
+  "中央6-3-24"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」よりバス「車庫前」下車 5分",
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

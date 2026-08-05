@@ -1,0 +1,33 @@
+id: fujisawa-jinjacho-1206021-1
+name: 皇大神宮 1206021000 例大祭宵宮祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 皇大神宮 1206021000
+  address: 藤沢市鵠沼神明2ｰ11ｰ5
+  lat: null
+  lng: null
+recurrence: 8月16日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1206021-000/
+organizer: 皇大神宮 1206021000
+shrine: 皇大神宮 1206021000
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1206021-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月16日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

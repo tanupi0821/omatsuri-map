@@ -1,0 +1,29 @@
+id: kanagawa-katakuracho-bonodori
+name: 片倉町自治会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 神奈川区
+venue:
+  name: 北公園
+  address: null
+  lat: null
+  lng: null
+organizer: 片倉町自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 18:30
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/kanagawa-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+stalls: unknown

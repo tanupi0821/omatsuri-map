@@ -1,0 +1,58 @@
+{
+ "id": "tottori-002-summer-ar0831e511367",
+ "name": "第62回 鳥取しゃんしゃん祭",
+ "term": "鳥取しゃんしゃん祭",
+ "tokens": {
+  "strong": [
+   "第62回",
+   "鳥取しゃんしゃん祭"
+  ],
+  "weak": [],
+  "place": [
+   "鳥取市",
+   "鳥取"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tottori_ShanShan_Fes_2013-A.jpg",
+   "width": 1000,
+   "height": 583,
+   "credit": "㭍月例祭",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-A.jpg",
+   "title": "File:Tottori ShanShan Fes 2013-A.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tottori_ShanShan_Fes_2013-Night-A.jpg",
+   "width": 1000,
+   "height": 500,
+   "credit": "㭍月例祭",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-Night-A.jpg",
+   "title": "File:Tottori ShanShan Fes 2013-Night-A.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Tottori_ShanShan_Fes_2013-Night-D.jpg",
+   "width": 1000,
+   "height": 500,
+   "credit": "㭍月例祭",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-Night-D.jpg",
+   "title": "File:Tottori ShanShan Fes 2013-Night-D.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Tottori_ShanShan_Fes_2013-C.jpg",
+   "width": 1000,
+   "height": 500,
+   "credit": "㭍月例祭",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-C.jpg",
+   "title": "File:Tottori ShanShan Fes 2013-C.jpg"
+  }
+ ]
+}

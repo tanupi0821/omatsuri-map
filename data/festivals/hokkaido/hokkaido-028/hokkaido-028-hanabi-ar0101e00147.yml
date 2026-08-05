@@ -1,0 +1,45 @@
+id: hokkaido-028-hanabi-ar0101e00147
+name: 第74回 おんねゆ温泉まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 北見市
+  ward: null
+venue:
+  name: 温根湯温泉無加川河畔
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00147/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg
+    width: 1000
+    height: 716
+    credit: 田頭寛
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg
+    width: 1000
+    height: 748
+    credit: 田頭寛
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg

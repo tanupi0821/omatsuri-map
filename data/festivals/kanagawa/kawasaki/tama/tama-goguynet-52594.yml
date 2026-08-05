@@ -1,0 +1,29 @@
+id: tama-goguynet-52594
+name: noborito vol.5 KIDS 〇〇 DAY（子ども縁日）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: パークタワー向ヶ丘遊園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/18/kids00day/
+    source_name: 号外NET 川崎市多摩区
+    source_type: media
+    checked_at: 2026-08-04

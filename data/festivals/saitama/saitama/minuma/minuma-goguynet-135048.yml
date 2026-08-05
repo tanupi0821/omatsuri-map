@@ -1,0 +1,29 @@
+id: minuma-goguynet-135048
+name: 砂の万灯祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 見沼区
+venue:
+  name: さいたま市見沼区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saitamaminuma-iwatsuki.goguynet.jp/2026/07/17/sunanomantou-2026/
+    source_name: 号外NET さいたま市見沼区・岩槻区
+    source_type: media
+    checked_at: 2026-08-04

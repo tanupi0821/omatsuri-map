@@ -1,0 +1,31 @@
+id: kumamoto-002-summer-ar1043e74762
+name: 高森風鎮祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 熊本県
+  city: 阿蘇郡高森町
+  ward: null
+venue:
+  name: 高森市街地
+  address: 阿蘇郡高森町高森1614-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e74762/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

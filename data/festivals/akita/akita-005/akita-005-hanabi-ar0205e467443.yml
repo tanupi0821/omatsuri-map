@@ -1,0 +1,30 @@
+id: akita-005-hanabi-ar0205e467443
+name: 第42回 協和七夕花火
+kind: 花火
+scale: 市
+area:
+  pref: 秋田県
+  city: 大仙市
+  ward: null
+venue:
+  name: 秋田県大仙市協和船岡庄内地区
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0205e467443/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

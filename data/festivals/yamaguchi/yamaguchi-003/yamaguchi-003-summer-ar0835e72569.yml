@@ -1,0 +1,31 @@
+id: yamaguchi-003-summer-ar0835e72569
+name: 第49回 馬関まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山口県
+  city: 下関市
+  ward: null
+venue:
+  name: オーヴィジョン海峡ゆめ広場 (メイン会場)
+  address: 下関市豊前田町3丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0835e72569/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

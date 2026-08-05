@@ -1,0 +1,29 @@
+id: koto-tokyofesta-32343
+name: 富岡八幡宮例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 都立木場公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/32343/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

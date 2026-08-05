@@ -1,0 +1,21 @@
+{
+ "id": "ota-5369",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5369",
+ "name": "六所神社",
+ "zip": "146-0092",
+ "address": "大田区下丸子4丁目",
+ "addressParts": [
+  "大田区",
+  "下丸子4丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急多摩川線「下丸子駅」 3分",
+ "festivals": [
+  {
+   "date": "8月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

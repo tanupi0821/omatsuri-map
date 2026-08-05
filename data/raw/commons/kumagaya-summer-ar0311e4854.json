@@ -1,0 +1,37 @@
+{
+ "id": "kumagaya-summer-ar0311e4854",
+ "name": "熊谷うちわ祭",
+ "term": "熊谷うちわ祭",
+ "tokens": {
+  "strong": [
+   "熊谷うちわ祭"
+  ],
+  "weak": [],
+  "place": [
+   "熊谷市",
+   "熊谷"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hoshikawa_Street%28Star-river_Street%29_%28Kumagaya_Uchiwa_Festival_2012%29_-_%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD2012%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E6%98%9F%E5%B7%9D%E9%80%9A%E3%82%8A%E5%95%86%E5%BA%97%E8%A1%97_-_panoramio.jpg",
+   "width": 1000,
+   "height": 580,
+   "credit": "Carbonium",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hoshikawa_Street(Star-river_Street)_(Kumagaya_Uchiwa_Festival_2012)_-_%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD2012%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E6%98%9F%E5%B7%9D%E9%80%9A%E3%82%8A%E5%95%86%E5%BA%97%E8%A1%97_-_panoramio.jpg",
+   "title": "File:Hoshikawa Street(Star-river Street) (Kumagaya Uchiwa Festival 2012) - 熊谷うちわ祭2012開催中の星川通り商店街 - panoramio.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD%E3%81%AE%E3%81%9F%E3%82%81_%E8%BB%8A%E4%B8%A1%E9%80%9A%E8%A1%8C%E6%AD%A2%E3%82%81_Jul_19%2C_2012.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Nori Norisa",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E8%B0%B7%E3%81%86%E3%81%A1%E3%82%8F%E7%A5%AD%E3%81%AE%E3%81%9F%E3%82%81_%E8%BB%8A%E4%B8%A1%E9%80%9A%E8%A1%8C%E6%AD%A2%E3%82%81_Jul_19,_2012.jpg",
+   "title": "File:熊谷うちわ祭のため 車両通行止め Jul 19, 2012.jpg"
+  }
+ ]
+}

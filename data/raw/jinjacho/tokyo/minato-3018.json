@@ -1,0 +1,21 @@
+{
+ "id": "minato-3018",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3018",
+ "name": "氷川神社",
+ "zip": "107-0052",
+ "address": "港区赤坂6-10-12",
+ "addressParts": [
+  "港区",
+  "赤坂6-10-12"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "地下鉄千代田線「赤坂駅」 7分 地下鉄日比谷線・大江戸線「六本木駅」 7分 都バス「アークヒルズ前」 7分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

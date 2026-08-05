@@ -1,0 +1,28 @@
+{
+ "id": "yokosuka-jinjacho-1205068-0",
+ "name": "若宮神社 例大祭",
+ "term": "若宮神社 例大祭",
+ "tokens": {
+  "strong": [
+   "若宮神社",
+   "若宮"
+  ],
+  "weak": [],
+  "place": [
+   "横須賀市",
+   "横須賀"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E8%8A%B8%E8%80%85%E3%81%AE%E8%B8%8A%E3%82%8A%EF%BC%88%E5%8C%97%E7%B5%84%EF%BC%89.jpg/1280px-%E8%8A%B8%E8%80%85%E3%81%AE%E8%B8%8A%E3%82%8A%EF%BC%88%E5%8C%97%E7%B5%84%EF%BC%89.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Tengudo",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E8%8A%B8%E8%80%85%E3%81%AE%E8%B8%8A%E3%82%8A%EF%BC%88%E5%8C%97%E7%B5%84%EF%BC%89.jpg",
+   "title": "File:芸者の踊り（北組）.jpg"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "miyazaki-002-summer-ar1045e112864",
+ "name": "2026 第43回 日向ひょっとこ夏祭り",
+ "term": "日向ひょっとこ夏祭り",
+ "tokens": {
+  "strong": [
+   "2026",
+   "第43回",
+   "日向ひょっとこ夏祭り"
+  ],
+  "weak": [],
+  "place": [
+   "日向市",
+   "日向"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%95.jpg/1280px-%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%95.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "k.kuroki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%95.jpg",
+   "title": "File:日向ひょっとこ夏祭り５.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%96.jpg/1280px-%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%96.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "k.kuroki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%96.jpg",
+   "title": "File:日向ひょっとこ夏祭り６.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%98.jpg/1280px-%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%98.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "k.kuroki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%EF%BC%98.jpg",
+   "title": "File:日向ひょっとこ夏祭り８.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg/1280px-%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "k.kuroki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%90%91%E3%81%B2%E3%82%87%E3%81%A3%E3%81%A8%E3%81%93%E5%A4%8F%E7%A5%AD%E3%82%8A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.jpg",
+   "title": "File:日向ひょっとこ夏祭りパレード.jpg"
+  }
+ ]
+}

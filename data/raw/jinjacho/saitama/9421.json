@@ -1,0 +1,28 @@
+{
+ "id": "9421",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9421/",
+ "name": "身形神社",
+ "zip": null,
+ "address": "東秩父村安戸872",
+ "addressParts": [
+  "東秩父村",
+  "安戸872"
+ ],
+ "festivals": [
+  {
+   "date": "３月３日",
+   "name": "星祭",
+   "alias": null
+  },
+  {
+   "date": "７月２０日",
+   "name": "夏祭",
+   "alias": null
+  },
+  {
+   "date": "１０月１７日",
+   "name": "例大祭",
+   "alias": null
+  }
+ ]
+}

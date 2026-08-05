@@ -1,0 +1,35 @@
+id: totsuka-tomizuka-hachimangu-reitaisai
+name: 富塚八幡宮 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 富塚八幡宮および周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 富塚八幡宮
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 8/1は宵宮、8/2は例大祭・神輿渡御
+    source_type: media
+recurrence: 8月第1日曜日
+recurrence_source: https://www.totsuka-pallso.jp/mailmagazine/yado/44.html
+stalls: unknown

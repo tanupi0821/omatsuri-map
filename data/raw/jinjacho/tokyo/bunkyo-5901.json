@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5901",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5901",
+ "name": "白山神社",
+ "zip": "112-0001",
+ "address": "文京区白山5-31-26",
+ "addressParts": [
+  "文京区",
+  "白山5-31-26"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "都営三田線「白山駅」 徒歩2分 東京メトロ南北線「本駒込駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "9月21日 （変更有り・要問い合わせ）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

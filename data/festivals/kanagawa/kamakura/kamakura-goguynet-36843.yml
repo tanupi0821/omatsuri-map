@@ -1,0 +1,29 @@
+id: kamakura-goguynet-36843
+name: おやまの盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 材木座にある浄土宗大本山・光明寺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamakura-zushi.goguynet.jp/2026/06/10/yamabon/
+    source_name: 号外NET 鎌倉市・逗子市
+    source_type: media
+    checked_at: 2026-08-04

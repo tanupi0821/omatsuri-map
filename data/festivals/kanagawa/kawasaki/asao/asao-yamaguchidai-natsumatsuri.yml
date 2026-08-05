@@ -1,0 +1,30 @@
+id: asao-yamaguchidai-natsumatsuri
+name: 山口台夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 麻生中学校
+  address: null
+  lat: null
+  lng: null
+station: 新百合ヶ丘
+organizer: 山口台自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://note.com/kakio_ja/n/n1bd9616420fc
+    source_name: 柿生隠者（note）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

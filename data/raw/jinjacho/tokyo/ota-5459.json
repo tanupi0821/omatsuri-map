@@ -1,0 +1,18 @@
+{
+ "id": "ota-5459",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5459",
+ "name": "鷲神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": null,
+ "festivals": [
+  {
+   "date": "11月酉の日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "kita-5299",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5299",
+ "name": "香取神社",
+ "zip": "115-0055",
+ "address": "北区赤羽西2-22-7",
+ "addressParts": [
+  "北区",
+  "赤羽西2-22-7"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR「赤羽駅」西口 15分",
+ "festivals": [
+  {
+   "date": "9月第2土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

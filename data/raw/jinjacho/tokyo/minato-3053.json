@@ -1,0 +1,21 @@
+{
+ "id": "minato-3053",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3053",
+ "name": "御田八幡神社",
+ "zip": "108-0073",
+ "address": "港区三田3-7-16",
+ "addressParts": [
+  "港区",
+  "三田3-7-16"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "JR「田町駅」 10分 地下鉄三田線「泉岳寺駅」 5分",
+ "festivals": [
+  {
+   "date": "8月13日／14日／15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

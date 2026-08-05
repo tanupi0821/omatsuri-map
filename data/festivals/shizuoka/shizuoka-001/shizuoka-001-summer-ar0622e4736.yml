@@ -1,0 +1,31 @@
+id: shizuoka-001-summer-ar0622e4736
+name: 三嶋大祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 静岡県
+  city: 三島市
+  ward: null
+venue:
+  name: 三嶋大社・三島大通り(三島広小路駅前～三嶋大社前)
+  address: 三島市大宮町2-1-5ほか
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e4736/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

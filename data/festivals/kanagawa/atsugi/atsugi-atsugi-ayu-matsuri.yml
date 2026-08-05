@@ -1,0 +1,34 @@
+id: atsugi-atsugi-ayu-matsuri
+name: あつぎ鮎まつり大花火大会（第80回）
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 厚木市
+  ward: null
+venue:
+  name: 相模川三川合流点
+  address: null
+  lat: null
+  lng: null
+station: 本厚木
+organizer: null
+tags:
+  - 花火
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0314e00243/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/atsugi-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: yes

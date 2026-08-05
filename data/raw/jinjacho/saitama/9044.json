@@ -1,0 +1,18 @@
+{
+ "id": "9044",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9044/",
+ "name": "宗像神社",
+ "zip": null,
+ "address": "寄居町藤田299ｰ2",
+ "addressParts": [
+  "寄居町",
+  "藤田299ｰ2"
+ ],
+ "festivals": [
+  {
+   "date": "春祭りは例年４月３日宗像神社において催行します。 秋祭りは年番町に仮宮を設け、年番町を始めとする山車行列にて町内を巡幸し、仮宮に神様をお迎えし例祭を行います。",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

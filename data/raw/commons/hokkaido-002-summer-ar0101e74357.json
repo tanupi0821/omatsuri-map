@@ -1,0 +1,38 @@
+{
+ "id": "hokkaido-002-summer-ar0101e74357",
+ "name": "第60回 おたる潮まつり",
+ "term": "おたる潮まつり",
+ "tokens": {
+  "strong": [
+   "第60回",
+   "おたる潮まつり"
+  ],
+  "weak": [],
+  "place": [
+   "小樽市",
+   "小樽"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png",
+   "width": 1000,
+   "height": 750,
+   "credit": "Psjk2106",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png",
+   "title": "File:Otaru Ushio Matsuri Ushio Nerikomi Main Venue.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Otaru_Ushio_Matsuri_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Main_Venue.png",
+   "width": 1000,
+   "height": 750,
+   "credit": "Psjk2106",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Main_Venue.png",
+   "title": "File:Otaru Ushio Matsuri Main Venue.png"
+  }
+ ]
+}

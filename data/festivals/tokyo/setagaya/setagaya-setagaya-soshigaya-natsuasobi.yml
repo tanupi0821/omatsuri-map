@@ -1,0 +1,29 @@
+id: setagaya-setagaya-soshigaya-natsuasobi
+name: そしがやこうえんで夏あそび
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 都立祖師谷公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: 16:30
+    end_time: 18:30
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

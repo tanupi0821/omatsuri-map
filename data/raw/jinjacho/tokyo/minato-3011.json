@@ -1,0 +1,21 @@
+{
+ "id": "minato-3011",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3011",
+ "name": "熊野神社",
+ "zip": "106-0041",
+ "address": "港区麻布台2-2-14",
+ "addressParts": [
+  "港区",
+  "麻布台2-2-14"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "地下鉄日比谷線「神谷町駅」・地下鉄大江戸線「赤羽橋駅」 7分 都バス「東麻布一丁目」",
+ "festivals": [
+  {
+   "date": "6月1日に近い金・土・日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "id": "nakano-5986",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5986",
+ "name": "北野神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "JR・地下鉄東西線「中野駅」 15分",
+ "festivals": [
+  {
+   "date": "5月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

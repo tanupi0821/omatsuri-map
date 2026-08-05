@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5507",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5507",
+ "name": "諏訪神社",
+ "zip": "169-0075",
+ "address": "新宿区高田馬場1-12-6",
+ "addressParts": [
+  "新宿区",
+  "高田馬場1-12-6"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR「高田馬場駅」下車 徒歩10分 地下鉄副都心線「西早稲田駅」下車 徒歩1分 「学習院女子大学前」バス停下車（早稲田～新宿西口行） 徒歩2分",
+ "festivals": [
+  {
+   "date": "8月27日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

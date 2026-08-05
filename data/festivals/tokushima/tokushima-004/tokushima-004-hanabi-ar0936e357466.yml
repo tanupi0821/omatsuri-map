@@ -1,0 +1,30 @@
+id: tokushima-004-hanabi-ar0936e357466
+name: 全国花火師競技大会 「第五回にし阿波の花火大会」
+kind: 花火
+scale: 市
+area:
+  pref: 徳島県
+  city: 三好市
+  ward: null
+venue:
+  name: 三好市三野健康防災公園・美馬市リバーサイドパーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0936e357466/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

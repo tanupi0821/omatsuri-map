@@ -1,0 +1,24 @@
+{
+ "id": "1204027",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204027-000/",
+ "name": "手子神社",
+ "zip": "236-0045",
+ "address": "横浜市 金沢区 釜利谷南1-1-8",
+ "addressParts": [
+  "横浜市",
+  "金沢区",
+  "釜利谷南1-1-8"
+ ],
+ "festivals": [
+  {
+   "date": "７月１７日近い日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月１５日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

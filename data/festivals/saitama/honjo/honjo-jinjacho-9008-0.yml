@@ -1,0 +1,33 @@
+id: honjo-jinjacho-9008-0
+name: 稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 本庄市
+  ward: null
+venue:
+  name: 稲荷神社
+  address: 本庄市小和瀬1
+  lat: null
+  lng: null
+recurrence: 10月19日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9008/
+organizer: 稲荷神社
+shrine: 稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9008/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

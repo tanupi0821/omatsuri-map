@@ -1,0 +1,21 @@
+{
+ "id": "kita-5425",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5425",
+ "name": "熊野神社",
+ "zip": "115-0042",
+ "address": "北区志茂4-19-1",
+ "addressParts": [
+  "北区",
+  "志茂4-19-1"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "地下鉄南北線「志茂駅」 10分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

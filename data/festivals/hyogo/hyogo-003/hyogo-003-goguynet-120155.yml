@@ -1,0 +1,30 @@
+id: hyogo-003-goguynet-120155
+name: ホテルで楽しむ お盆の夏祭りビュッフェ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: ホテルヴィスキオ尼崎
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://amagasaki.goguynet.jp/2026/07/20/hotelvischio-amagasaki-omaturi-buffee-2026/
+    source_name: 号外NET 尼崎市
+    source_type: media
+    checked_at: 2026-08-04

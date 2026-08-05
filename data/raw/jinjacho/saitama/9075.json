@@ -1,0 +1,23 @@
+{
+ "id": "9075",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9075/",
+ "name": "女体神社",
+ "zip": null,
+ "address": "春日部市牛島605",
+ "addressParts": [
+  "春日部市",
+  "牛島605"
+ ],
+ "festivals": [
+  {
+   "date": "7月15日",
+   "name": "夏祭",
+   "alias": null
+  },
+  {
+   "date": "11月26日",
+   "name": "秋祭",
+   "alias": null
+  }
+ ]
+}

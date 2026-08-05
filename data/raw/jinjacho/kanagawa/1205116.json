@@ -1,0 +1,23 @@
+{
+ "id": "1205116",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205116-000/",
+ "name": "吾妻社",
+ "zip": "237-0072",
+ "address": "横須賀市 長浦町5ｰ15ｰ1",
+ "addressParts": [
+  "横須賀市",
+  "長浦町5ｰ15ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "４月上旬日曜日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

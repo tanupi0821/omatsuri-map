@@ -1,0 +1,29 @@
+id: osaka-013-goguynet-43614
+name: 第52回 石橋まつり 大盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 池田市
+  ward: null
+venue:
+  name: 今年も石橋駅前公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://minoh.goguynet.jp/2026/07/22/ishibashimatsuri/
+    source_name: 号外NET 箕面市・池田市
+    source_type: media
+    checked_at: 2026-08-04

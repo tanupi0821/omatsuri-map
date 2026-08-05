@@ -1,0 +1,40 @@
+id: oita-007-hanabi-ar1044e183827
+name: 第79回 日田川開き観光祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大分県
+  city: 日田市
+  ward: null
+venue:
+  name: 日田市内一円、三隈川周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-23
+      - 2026-05-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1044e183827/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg/1280px-%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg
+    width: 1000
+    height: 667
+    credit: Watofamily
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg

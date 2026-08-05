@@ -1,0 +1,30 @@
+id: shimane-002-goguynet-10669
+name: 天神町の白潟天満宮にて天神夏祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 松江市
+  ward: null
+venue:
+  name: 松江市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsue-yasugi.goguynet.jp/2026/06/28/tenjinnatsumatsuri26/
+    source_name: 号外NET 松江市・安来市
+    source_type: media
+    checked_at: 2026-08-04

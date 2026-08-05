@@ -1,0 +1,33 @@
+id: hiratsuka-jinjacho-1209141-0
+name: 八坂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 平塚市
+  ward: null
+venue:
+  name: 八坂神社
+  address: 平塚市東八幡2-6-5
+  lat: null
+  lng: null
+recurrence: 7月第2土曜／7月7月14日に近い日曜
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1209141-000/
+organizer: 八坂神社
+shrine: 八坂神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1209141-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月第2土曜／7月7月14日に近い日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

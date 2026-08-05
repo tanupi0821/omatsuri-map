@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5438",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5438",
+ "name": "水神社",
+ "zip": "112-0015",
+ "address": "文京区目白台1-1-9",
+ "addressParts": [
+  "文京区",
+  "目白台1-1-9"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "地下鉄有楽町線「江戸川橋駅」 10分",
+ "festivals": [
+  {
+   "date": "5月5日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

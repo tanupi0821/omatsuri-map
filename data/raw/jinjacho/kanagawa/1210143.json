@@ -1,0 +1,23 @@
+{
+ "id": "1210143",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210143-000/",
+ "name": "松原神社",
+ "zip": "250-0012",
+ "address": "小田原市 本町2ｰ10ｰ16",
+ "addressParts": [
+  "小田原市",
+  "本町2ｰ10ｰ16"
+ ],
+ "festivals": [
+  {
+   "date": "５月４日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "５月５日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+id: nagareyama-edogawadai-noryosai
+name: 江戸川台 納涼祭
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 江戸川台駅東口ロータリー・商店街
+  address: null
+  lat: null
+  lng: null
+station: 江戸川台
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 15:00
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+    note: ステージは15:00〜、納涼祭は19:00〜
+stalls: unknown

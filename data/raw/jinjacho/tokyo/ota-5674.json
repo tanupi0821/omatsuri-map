@@ -1,0 +1,21 @@
+{
+ "id": "ota-5674",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5674",
+ "name": "諏訪神社",
+ "zip": "146-0095",
+ "address": "大田区多摩川2-10-22",
+ "addressParts": [
+  "大田区",
+  "多摩川2-10-22"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急多摩川線「矢口渡駅」 5分",
+ "festivals": [
+  {
+   "date": "8月第4土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: nerima-nerima-oizumi-nishi-chikusai
+name: 大泉西地区祭（西大泉）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 四面塔稲荷神社
+  address: 練馬区西大泉5丁目
+  lat: null
+  lng: null
+organizer: null
+shrine: 四面塔稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

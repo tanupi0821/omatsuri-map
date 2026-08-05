@@ -1,0 +1,32 @@
+id: saga-004-goguynet-94266
+name: 銀天夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 佐賀県
+  city: 佐賀市
+  ward: null
+venue:
+  name: ・時間
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-11
+      - 2026-08-01
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saga.goguynet.jp/2026/07/03/sagakensagashiigiintenyoichi/
+    source_name: 号外NET 佐賀市・小城市・多久市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: katsushika-katsushika-horikiri-6
+name: 堀切六丁目町会 恒例 納涼「ふれあい広場」
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 東綾瀬小学校 校庭
+  address: 葛飾区堀切6-21-1
+  lat: null
+  lng: null
+organizer: 堀切六丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 14:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 36回続く。地元小学校の金管バンド、ダンス、中学校の吹奏楽など
+stalls: yes

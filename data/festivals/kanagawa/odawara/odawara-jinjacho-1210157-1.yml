@@ -1,0 +1,48 @@
+id: odawara-jinjacho-1210157-1
+name: 宗我神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 小田原市
+  ward: null
+venue:
+  name: 宗我神社
+  address: 小田原市曽我谷津386
+  lat: null
+  lng: null
+recurrence: 9月最終日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1210157-000/
+organizer: 宗我神社
+shrine: 宗我神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1210157-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月最終日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E5%B9%B4%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%81%AE%E5%85%A8%E6%99%AF.jpg/1280px-%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E5%B9%B4%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%81%AE%E5%85%A8%E6%99%AF.jpg
+    width: 1000
+    height: 753
+    credit: RX32R
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E5%B9%B4%E4%BE%8B%E5%A4%A7%E7%A5%AD%E3%81%AE%E5%85%A8%E6%99%AF.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%85%A8%E6%99%AF.jpg/1280px-%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%85%A8%E6%99%AF.jpg
+    width: 1000
+    height: 1328
+    credit: RX32R
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:%E5%AE%97%E6%88%91%E7%A5%9E%E7%A4%BE2024%E4%BE%8B%E5%A4%A7%E7%A5%AD%E5%85%A8%E6%99%AF.jpg

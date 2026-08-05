@@ -1,0 +1,31 @@
+id: seya-shirahime-matsuri
+name: 白姫まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 瀬谷区
+venue:
+  name: 三ツ境駅南口周辺・白姫神社・三ツ境第三公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 白姫神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

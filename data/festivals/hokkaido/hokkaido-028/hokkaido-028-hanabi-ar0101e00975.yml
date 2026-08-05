@@ -1,0 +1,30 @@
+id: hokkaido-028-hanabi-ar0101e00975
+name: 第73回 北見ぼんちまつり納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 北見市
+  ward: null
+venue:
+  name: 春光町・小泉河川敷地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00975/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

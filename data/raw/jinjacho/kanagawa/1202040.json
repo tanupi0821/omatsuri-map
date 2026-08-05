@@ -1,0 +1,39 @@
+{
+ "id": "1202040",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202040-000/",
+ "name": "杉山大神",
+ "zip": "221-0802",
+ "address": "横浜市 神奈川区 六角橋2－31－23",
+ "addressParts": [
+  "横浜市",
+  "神奈川区",
+  "六角橋2－31－23"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "元旦祭（がんたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月節分",
+   "name": "節分祭（せつぶんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月不定期",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越大祓（なごしのはらい）",
+   "alias": null
+  },
+  {
+   "date": "１１月不定期",
+   "name": "秋祭り（あきまつり）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: aichi-012-goguynet-13713
+name: 知立ドリームマルシェdeお祭りパーク
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 知立市
+  ward: null
+venue:
+  name: 知立市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kariya-chiryu.goguynet.jp/2026/05/02/dreammarche-2/
+    source_name: 号外NET 刈谷市・知立市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "nakano-5993",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5993",
+ "name": "稲荷神社",
+ "zip": "164-0013",
+ "address": "中野区弥生町2-19-4",
+ "addressParts": [
+  "中野区弥生町",
+  "2-19-4"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "地下鉄丸ノ内線「中野新橋駅」 5分",
+ "festivals": [
+  {
+   "date": "3月初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

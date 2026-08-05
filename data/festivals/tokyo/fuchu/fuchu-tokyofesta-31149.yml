@@ -1,0 +1,29 @@
+id: fuchu-tokyofesta-31149
+name: 府中納涼大盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 府中市
+  ward: null
+venue:
+  name: 大國魂神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/tama/31149/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

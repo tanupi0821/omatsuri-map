@@ -1,0 +1,34 @@
+id: shibuya-jinjacho-shibuya-5182-0
+name: 明治神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: 明治神宮
+  address: 渋谷区1-1
+  lat: null
+  lng: null
+station: JR「原宿駅」 徒歩1分 地下鉄千代田線「明治神宮前〈原宿〉駅」 徒歩1分
+recurrence: 11月3日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shibuya/5182
+organizer: 明治神宮
+shrine: 明治神宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shibuya/5182
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「11月3日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

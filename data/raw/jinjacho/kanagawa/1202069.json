@@ -1,0 +1,24 @@
+{
+ "id": "1202069",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202069-000/",
+ "name": "菊名神社",
+ "zip": "222-0011",
+ "address": "横浜市 港北区 菊名6ｰ5ｰ14",
+ "addressParts": [
+  "横浜市",
+  "港北区",
+  "菊名6ｰ5ｰ14"
+ ],
+ "festivals": [
+  {
+   "date": "９月１７日近い土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１７日近い日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

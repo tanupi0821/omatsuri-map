@@ -1,0 +1,30 @@
+id: tottori-001-hanabi-ar0831e00092
+name: 第53回 米子がいな祭 花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 鳥取県
+  city: 米子市
+  ward: null
+venue:
+  name: 米子港岸壁
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0831e00092/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

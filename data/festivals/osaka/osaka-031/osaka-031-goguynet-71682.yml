@@ -1,0 +1,30 @@
+id: osaka-031-goguynet-71682
+name: 八尾神社の夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 八尾市
+  ward: null
+venue:
+  name: 八尾市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yao.goguynet.jp/2026/07/15/yaojinja-maturi-4/
+    source_name: 号外NET 八尾市
+    source_type: media
+    checked_at: 2026-08-04

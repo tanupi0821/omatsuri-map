@@ -1,0 +1,45 @@
+id: gifu-005-goguynet-45041
+name: 高田まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 養老町
+  ward: null
+venue:
+  name: 養老町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ogaki.goguynet.jp/2026/05/01/takada_matsuri2026/
+    source_name: 号外NET 大垣市（西濃地域）
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0%29_-_Panoramio_72600842.jpg/1280px-%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0%29_-_Panoramio_72600842.jpg
+    width: 1000
+    height: 667
+    credit: gundam2345
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0)_-_Panoramio_72600842.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0%29_-_panoramio.jpg/1280px-%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0%29_-_panoramio.jpg
+    width: 1000
+    height: 667
+    credit: gundam2345
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%94%B0%E3%81%BE%E3%81%A4%E3%82%8A_(%E5%B2%90%E9%98%9C%E7%9C%8C%E9%A4%8A%E8%80%81%E7%94%BA%E9%AB%98%E7%94%B0)_-_panoramio.jpg

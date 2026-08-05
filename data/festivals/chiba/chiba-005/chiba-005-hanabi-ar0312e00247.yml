@@ -1,0 +1,30 @@
+id: chiba-005-hanabi-ar0312e00247
+name: 市制施行20周年記念  山武市サマーカーニバル
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 山武市
+  ward: null
+venue:
+  name: 蓮沼海浜公園展望塔前広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e00247/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

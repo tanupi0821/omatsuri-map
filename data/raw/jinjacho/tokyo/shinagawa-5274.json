@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5274",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5274",
+ "name": "稲荷神社",
+ "zip": "140-0014",
+ "address": "品川区大井5-12-8",
+ "addressParts": [
+  "品川区",
+  "大井5-12-8"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "JR「大井町駅」 10分",
+ "festivals": [
+  {
+   "date": "2月初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

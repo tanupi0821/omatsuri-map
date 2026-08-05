@@ -1,0 +1,38 @@
+id: tachikawa-hanabi-ar0313e01045
+name: 立川まつり 国営昭和記念公園花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 国営昭和記念公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e01045/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fireworks_in_Tachikawa_20260725.jpg/1280px-Fireworks_in_Tachikawa_20260725.jpg
+    width: 1000
+    height: 1500
+    credit: DiKnK8713
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Fireworks_in_Tachikawa_20260725.jpg

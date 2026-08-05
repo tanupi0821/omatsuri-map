@@ -1,0 +1,24 @@
+{
+ "id": "1201076",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201076-000/",
+ "name": "八雲社",
+ "zip": "214-0001",
+ "address": "川崎市 多摩区 菅2ｰ18ｰ15",
+ "addressParts": [
+  "川崎市",
+  "多摩区",
+  "菅2ｰ18ｰ15"
+ ],
+ "festivals": [
+  {
+   "date": "１月１５日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "7月中旬の日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

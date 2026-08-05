@@ -1,0 +1,30 @@
+id: kanagawa-001-goguynet-44641
+name: 盆竹灯籠まつり in 三浦半島 2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横須賀市・三浦市
+  ward: null
+venue:
+  name: 横須賀市・三浦市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokosuka.goguynet.jp/2026/07/04/bontaketouroumatsuri2026/
+    source_name: 号外NET 横須賀市・三浦市
+    source_type: media
+    checked_at: 2026-08-04

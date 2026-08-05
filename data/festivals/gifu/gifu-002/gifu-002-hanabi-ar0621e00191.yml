@@ -1,0 +1,30 @@
+id: gifu-002-hanabi-ar0621e00191
+name: ひだ桃源郷くぐの納涼夏まつり くぐの大花火
+kind: 花火
+scale: 市
+area:
+  pref: 岐阜県
+  city: 高山市
+  ward: null
+venue:
+  name: 高山市久々野支所駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0621e00191/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

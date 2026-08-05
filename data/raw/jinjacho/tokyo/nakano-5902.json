@@ -1,0 +1,21 @@
+{
+ "id": "nakano-5902",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5902",
+ "name": "氷川神社",
+ "zip": "165-0022",
+ "address": "中野区江古田3-13-6",
+ "addressParts": [
+  "中野区",
+  "江古田3-13-6"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "西武新宿線「沼袋駅」 北へ徒歩約15分 西武池袋線「江古田駅」 南へ徒歩20分",
+ "festivals": [
+  {
+   "date": "10月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

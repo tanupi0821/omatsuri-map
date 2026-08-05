@@ -1,0 +1,29 @@
+id: miyazaki-004-summer-ar1045e77414
+name: 第34回 田野町太鼓フェスティバル
+kind: 夏祭り
+scale: 市
+area:
+  pref: 宮崎県
+  city: 宮崎市
+  ward: null
+venue:
+  name: 宮崎市田野運動公園
+  address: 宮崎市田野町乙10905-26
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e77414/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

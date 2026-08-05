@@ -1,0 +1,34 @@
+{
+ "id": "1203004",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1203004-000/",
+ "name": "平沼神社",
+ "zip": "220-0023",
+ "address": "横浜市 西区 平沼2ｰ8ｰ20",
+ "addressParts": [
+  "横浜市",
+  "西区",
+  "平沼2ｰ8ｰ20"
+ ],
+ "festivals": [
+  {
+   "date": "１月５日",
+   "name": "初水天宮（はつすいてんぐう）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "大祓式（おおはらいしき）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月３１日",
+   "name": "大祓式（おおはらいしき）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: wakayama-006-goguynet-97872
+name: 第２回 和歌山めだか祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 和歌山県
+  city: 和歌山市
+  ward: null
+venue:
+  name: お出かけしようか悩まれている方は和歌山城西の丸広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://wakayama.goguynet.jp/2026/04/26/medaka_m/
+    source_name: 号外NET 和歌山市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,23 @@
+{
+ "id": "1205081",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205081-000/",
+ "name": "諏訪神社",
+ "zip": "238-0233",
+ "address": "三浦市 向ｹ崎町3ｰ1",
+ "addressParts": [
+  "三浦市",
+  "向ｹ崎町3ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "２月１２日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

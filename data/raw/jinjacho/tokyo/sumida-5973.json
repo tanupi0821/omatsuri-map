@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5973",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5973",
+ "name": "江島杉山神社",
+ "zip": "130-0025",
+ "address": "墨田区千歳1-8-2",
+ "addressParts": [
+  "墨田区",
+  "千歳1-8-2"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR「両国駅」 6分 地下鉄新宿線「森下駅」 10分",
+ "festivals": [
+  {
+   "date": "6月18日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+id: sosa-yaegaki-jinja-gion
+name: 八重垣神社祇園祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 匝瑳市
+  ward: null
+venue:
+  name: 八重垣神社
+  address: null
+  lat: null
+  lng: null
+organizer: 八重垣神社
+shrine: 八重垣神社
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+      - 2026-08-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

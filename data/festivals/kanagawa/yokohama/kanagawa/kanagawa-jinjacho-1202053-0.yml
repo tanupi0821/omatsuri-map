@@ -1,0 +1,33 @@
+id: kanagawa-jinjacho-1202053-0
+name: 杉山社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 神奈川区
+venue:
+  name: 杉山社
+  address: 横浜市神奈川区菅田町436
+  lat: null
+  lng: null
+recurrence: 9月28日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1202053-000/
+organizer: 杉山社
+shrine: 杉山社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1202053-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月28日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

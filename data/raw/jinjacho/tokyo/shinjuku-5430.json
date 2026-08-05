@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5430",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5430",
+ "name": "成子天神社",
+ "zip": "160-0023",
+ "address": "新宿区西新宿8-14-10",
+ "addressParts": [
+  "新宿区",
+  "西新宿8-14-10"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "東京メトロ丸ノ内線「西新宿駅」 徒歩2分 都営地下鉄大江戸線「都庁前駅」 徒歩8分 JR「新宿駅」 徒歩11分 西武新宿線「西武新宿駅」 徒歩12分",
+ "festivals": [
+  {
+   "date": "9月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+id: fukaya-jinjacho-9950-0
+name: 熊野大神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 深谷市
+  ward: null
+venue:
+  name: 熊野大神社
+  address: 深谷市東方1709
+  lat: null
+  lng: null
+recurrence: 4月15日／10月15日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9950/
+organizer: 熊野大神社
+shrine: 熊野大神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9950/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月15日／10月15日」から導いたもので、神社が2026年の日程として発表したものではない

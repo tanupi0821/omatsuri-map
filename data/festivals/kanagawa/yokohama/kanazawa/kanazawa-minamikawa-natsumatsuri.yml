@@ -1,0 +1,31 @@
+id: kanazawa-minamikawa-natsumatsuri
+name: 南川町内会 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 南川（六浦南）
+  address: null
+  lat: null
+  lng: null
+organizer: 南川町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: 16:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+    note: 7/11 宵宮 16:00〜20:30、7/12 本祭 9:30〜16:00
+stalls: unknown

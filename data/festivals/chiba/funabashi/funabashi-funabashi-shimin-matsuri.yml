@@ -1,0 +1,32 @@
+id: funabashi-funabashi-shimin-matsuri
+name: ふなばし市民まつり
+kind: 市民祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 船橋・中山・習志野台・二和向台・津田沼の5会場
+  address: null
+  lat: null
+  lng: null
+organizer: 船橋市
+tags:
+  - 神輿
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

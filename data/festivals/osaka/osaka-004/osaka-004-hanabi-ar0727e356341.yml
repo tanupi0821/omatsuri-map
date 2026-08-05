@@ -1,0 +1,30 @@
+id: osaka-004-hanabi-ar0727e356341
+name: りんくう花火2026(ENJOY！りんくう)
+kind: 花火
+scale: 市
+area:
+  pref: 大阪府
+  city: 泉佐野市
+  ward: null
+venue:
+  name: りんくうマーブルビーチ、りんくうプレミアムアウトレットシーサイドパーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0727e356341/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

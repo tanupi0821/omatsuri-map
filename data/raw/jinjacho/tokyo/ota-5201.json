@@ -1,0 +1,21 @@
+{
+ "id": "ota-5201",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5201",
+ "name": "貴舩神社",
+ "zip": "143-0012",
+ "address": "大田区大森東3-9-19",
+ "addressParts": [
+  "大田区",
+  "大森東3-9-19"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」京急バス「大森東中学校」 2分",
+ "festivals": [
+  {
+   "date": "10月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

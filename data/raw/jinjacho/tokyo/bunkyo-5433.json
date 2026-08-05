@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5433",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5433",
+ "name": "妻恋神社",
+ "zip": "113-0034",
+ "address": "文京区湯島3-2-6",
+ "addressParts": [
+  "文京区",
+  "湯島3-2-6"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "JR・地下鉄丸ノ内線「御茶ノ水駅」 7分",
+ "festivals": [
+  {
+   "date": "3月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

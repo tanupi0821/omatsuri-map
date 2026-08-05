@@ -1,0 +1,38 @@
+id: naka-honmoku-zero-ennichi
+name: 本牧0縁日
+kind: 縁日
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 中区
+venue:
+  name: 本牧1丁目東町内・大鳥小学校通学路
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-10
+      - 2026-06-20
+      - 2026-06-30
+      - 2026-07-10
+      - 2026-07-20
+      - 2026-07-30
+      - 2026-08-10
+      - 2026-08-20
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 6〜8月の10日・20日・30日に開催
+    source_type: media
+stalls: yes

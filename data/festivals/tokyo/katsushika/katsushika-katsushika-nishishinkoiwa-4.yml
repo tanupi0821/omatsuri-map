@@ -1,0 +1,31 @@
+id: katsushika-katsushika-nishishinkoiwa-4
+name: 西新小岩四丁目町会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 上平井公園
+  address: 葛飾区西新小岩4-21
+  lat: null
+  lng: null
+organizer: 西新小岩四丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+      - 2026-09-06
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 6日は19:00〜20:45。会場内に敬老席を設けお茶・お菓子で接待
+stalls: unknown

@@ -1,0 +1,29 @@
+id: taito-tokyofesta-32449
+name: 第8回シタマチ.ふるさと盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 御徒町南口駅前広場（おかちまちパンダ広場）
+  address: null
+  lat: null
+  lng: null
+organizer: 御徒町駅南口商店会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/32449/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

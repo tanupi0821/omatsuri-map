@@ -1,0 +1,31 @@
+id: aomori-009-summer-ar0202e151494
+name: 東北町湖水まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 青森県
+  city: 上北郡東北町
+  ward: null
+venue:
+  name: 小川原湖公園(小川原湖湖水浴場)
+  address: 上北郡東北町上野南谷地
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e151494/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

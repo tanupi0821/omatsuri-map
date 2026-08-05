@@ -1,0 +1,30 @@
+id: aomori-001-hanabi-ar0202e00011
+name: 第76回浅虫温泉花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 青森県
+  city: 青森市
+  ward: null
+venue:
+  name: サンセットビーチあさむし
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0202e00011/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

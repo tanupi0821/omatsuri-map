@@ -1,0 +1,28 @@
+{
+ "id": "9414",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9414/",
+ "name": "諏訪神社",
+ "zip": null,
+ "address": "長瀞町野上下郷467",
+ "addressParts": [
+  "長瀞町",
+  "野上下郷467"
+ ],
+ "festivals": [
+  {
+   "date": "３月１７日に近い日曜日",
+   "name": "春祭り",
+   "alias": null
+  },
+  {
+   "date": "１０月１７日に近い日曜日",
+   "name": "秋祭り",
+   "alias": null
+  },
+  {
+   "date": "本来は１０月１９日",
+   "name": "本社秋祭りに従う",
+   "alias": null
+  }
+ ]
+}

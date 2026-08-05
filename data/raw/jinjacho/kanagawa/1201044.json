@@ -1,0 +1,24 @@
+{
+ "id": "1201044",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201044-000/",
+ "name": "新城神社",
+ "zip": "211-0043",
+ "address": "川崎市 中原区 新城中町4-14",
+ "addressParts": [
+  "川崎市",
+  "中原区",
+  "新城中町4-14"
+ ],
+ "festivals": [
+  {
+   "date": "３月２０日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月第１日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "matsuri-map",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node scripts/validate.mjs && astro build",
+    "preview": "astro preview",
+    "validate": "node scripts/validate.mjs",
+    "import": "node scripts/import-all.mjs",
+    "enrich": "node scripts/enrich-all.mjs",
+    "areas": "node scripts/gen-areas.mjs saitama && node scripts/gen-areas.mjs tokyo",
+    "collect": "npm run areas && node scripts/import-all.mjs && node scripts/enrich-all.mjs && node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^5.13.0",
+    "yaml": "^2.6.0"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^6.2.108",
+    "sharp": "^0.35.3"
+  }
+}

@@ -1,0 +1,31 @@
+id: nerima-nerima-hongakuji-tenmangu
+name: 本覚寺・天満宮 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 本覚寺・天満宮
+  address: 練馬区旭町1-26-5
+  lat: null
+  lng: null
+organizer: null
+shrine: 本覚寺
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-30
+      - 2026-07-31
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

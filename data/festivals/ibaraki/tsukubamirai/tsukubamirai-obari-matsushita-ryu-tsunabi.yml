@@ -1,0 +1,32 @@
+id: tsukubamirai-obari-matsushita-ryu-tsunabi
+name: 小張松下流綱火
+kind: 神事
+scale: 地区
+area:
+  pref: 茨城県
+  city: つくばみらい市
+  ward: null
+venue:
+  name: 小張愛宕神社 境内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 重要無形民俗文化財
+  - 綱火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown
+shrine: 小張愛宕神社

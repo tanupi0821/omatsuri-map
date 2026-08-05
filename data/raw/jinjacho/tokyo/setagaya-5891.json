@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-5891",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/5891",
+ "name": "天祖神社",
+ "zip": "154-0017",
+ "address": "世田谷区世田谷1-23-5",
+ "addressParts": [
+  "世田谷区",
+  "世田谷1-23-5"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急世田谷線「上町駅」 2分",
+ "festivals": [
+  {
+   "date": "9月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

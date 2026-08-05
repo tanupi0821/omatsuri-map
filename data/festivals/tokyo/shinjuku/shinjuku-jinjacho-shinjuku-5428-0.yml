@@ -1,0 +1,34 @@
+id: shinjuku-jinjacho-shinjuku-5428-0
+name: 鎧神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 鎧神社
+  address: 新宿区北新宿3-16-18
+  lat: null
+  lng: null
+station: JR「大久保駅」 徒歩8分
+recurrence: 9月15日／16日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinjuku/5428
+organizer: 鎧神社
+shrine: 鎧神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinjuku/5428
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月15日／16日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,34 @@
+{
+ "id": "1202041",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202041-000/",
+ "name": "八幡神社",
+ "zip": "221-0071",
+ "address": "横浜市 神奈川区 白幡仲町13－25",
+ "addressParts": [
+  "横浜市",
+  "神奈川区",
+  "白幡仲町13－25"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "元旦祭（がんたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越大祓（なごしのはらえ）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  }
+ ]
+}

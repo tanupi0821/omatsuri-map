@@ -1,0 +1,29 @@
+id: fukuoka-002-summer-ar1040e511032
+name: ふるさとかわら夏まつり盆踊り大会
+kind: 盆踊り
+scale: 市
+area:
+  pref: 福岡県
+  city: 田川郡香春町
+  ward: null
+venue:
+  name: 香春町立総合運動公園
+  address: 田川郡香春町高野1390
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e511032/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

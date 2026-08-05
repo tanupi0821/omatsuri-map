@@ -1,0 +1,35 @@
+id: kamakura-tsurugaoka-bonbori
+name: 鶴岡八幡宮 ぼんぼり祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 鶴岡八幡宮
+  address: null
+  lat: null
+  lng: null
+station: 鎌倉
+organizer: 鶴岡八幡宮
+shrine: 鶴岡八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/kamakura-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 約400点のぼんぼりが夜の参道を照らす
+stalls: yes

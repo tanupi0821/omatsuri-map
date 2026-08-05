@@ -1,0 +1,21 @@
+{
+ "id": "taito-3051",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3051",
+ "name": "秋葉神社",
+ "zip": "111-0036",
+ "address": "台東区松が谷3-10-7",
+ "addressParts": [
+  "台東区",
+  "松が谷3-10-7"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "地下鉄銀座線「稲荷町駅」 10分 地下鉄日比谷線「入谷駅」 5分",
+ "festivals": [
+  {
+   "date": "5月18日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

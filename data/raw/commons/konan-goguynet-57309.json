@@ -1,0 +1,31 @@
+{
+ "id": "konan-goguynet-57309",
+ "name": "鹿嶋神社例大祭",
+ "term": "鹿嶋神社例大祭",
+ "tokens": {
+  "strong": [
+   "鹿嶋神社例大祭",
+   "鹿嶋神社",
+   "鹿嶋"
+  ],
+  "weak": [],
+  "place": [
+   "横浜市",
+   "横浜",
+   "港南区",
+   "港南"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%E5%AE%AE%E5%87%BA%E3%81%97.jpg/1280px-%E5%AE%AE%E5%87%BA%E3%81%97.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "石井裕光",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%AE%AE%E5%87%BA%E3%81%97.jpg",
+   "title": "File:宮出し.jpg"
+  }
+ ]
+}

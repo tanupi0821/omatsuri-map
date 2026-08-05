@@ -1,0 +1,30 @@
+id: fukushima-012-hanabi-ar0207e00660
+name: 第48回 ふくしま花火大会〜光で紡ぐ感謝と挑戦 ともに未来へ〜
+kind: 花火
+scale: 市
+area:
+  pref: 福島県
+  city: 福島市
+  ward: null
+venue:
+  name: 信夫ケ丘緑地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0207e00660/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

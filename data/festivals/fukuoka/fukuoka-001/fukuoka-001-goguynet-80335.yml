@@ -1,0 +1,29 @@
+id: fukuoka-001-goguynet-80335
+name: 針摺納涼まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 筑紫野市
+  ward: null
+venue:
+  name: 針摺公民館駐車場（〒818-0083
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/07/22/harisurinouryomaturi/
+    source_name: 号外NET 筑紫野市・太宰府市・朝倉市
+    source_type: media
+    checked_at: 2026-08-04

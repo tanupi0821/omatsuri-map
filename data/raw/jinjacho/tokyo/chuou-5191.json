@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5191",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5191",
+ "name": "鳥居稲荷神社",
+ "zip": "103-0026",
+ "address": "中央区日本橋兜町20-2",
+ "addressParts": [
+  "中央区日本橋兜町",
+  "20-2"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄日比谷線・東西線「茅場町駅」",
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

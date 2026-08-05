@@ -1,0 +1,32 @@
+id: shimotsuma-shimotsuma-furin-matsuri
+name: 風鈴まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 茨城県
+  city: 下妻市
+  ward: null
+venue:
+  name: 大宝八幡宮
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 7/25〜8/23の期間開催。掲載の2日付は期間の初日と最終日
+stalls: unknown
+shrine: 大宝八幡宮

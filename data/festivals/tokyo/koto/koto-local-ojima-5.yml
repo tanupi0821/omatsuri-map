@@ -1,0 +1,29 @@
+id: koto-local-ojima-5
+name: 大島五丁目町会 ぼんおどり
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 大島五丁目公園
+  address: null
+  lat: null
+  lng: null
+organizer: 大島五丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

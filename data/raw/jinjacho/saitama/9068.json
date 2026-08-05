@@ -1,0 +1,29 @@
+{
+ "id": "9068",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9068/",
+ "name": "久伊豆神社",
+ "zip": null,
+ "address": "さいたま市岩槻区宮町2-6-55",
+ "addressParts": [
+  "さいたま市",
+  "岩槻区",
+  "宮町2-6-55"
+ ],
+ "festivals": [
+  {
+   "date": "10月19日",
+   "name": "/",
+   "alias": null
+  },
+  {
+   "date": "4月19日",
+   "name": "節分祭",
+   "alias": null
+  },
+  {
+   "date": "6月30日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

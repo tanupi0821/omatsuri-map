@@ -1,0 +1,30 @@
+id: miyazaki-008-hanabi-ar1045e00955
+name: 第49回 まつりのべおか花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 宮崎県
+  city: 延岡市
+  ward: null
+venue:
+  name: 大瀬川大瀬大橋下流河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1045e00955/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

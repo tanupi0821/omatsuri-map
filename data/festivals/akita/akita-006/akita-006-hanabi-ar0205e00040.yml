@@ -1,0 +1,30 @@
+id: akita-006-hanabi-ar0205e00040
+name: 第64回 阿仁の花火と灯籠流し
+kind: 花火
+scale: 市
+area:
+  pref: 秋田県
+  city: 北秋田市
+  ward: null
+venue:
+  name: 北秋田市　阿仁河川公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0205e00040/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

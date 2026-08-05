@@ -1,0 +1,33 @@
+id: oiso-jinjacho-1209245-1
+name: 高来神社 夏季大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 大磯町
+  ward: null
+venue:
+  name: 高来神社
+  address: 大磯町高麗2-9-47
+  lat: null
+  lng: null
+recurrence: 7月18日近い日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1209245-000/
+organizer: 高来神社
+shrine: 高来神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1209245-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月18日近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

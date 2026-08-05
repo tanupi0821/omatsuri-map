@@ -1,0 +1,29 @@
+id: taito-tokyofesta-32423
+name: 上野ゐの市盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 上野公園
+  address: null
+  lat: null
+  lng: null
+organizer: 上野中通商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/32423/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

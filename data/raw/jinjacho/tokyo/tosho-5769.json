@@ -1,0 +1,21 @@
+{
+ "id": "tosho-5769",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/5769",
+ "name": "物忌奈命神社",
+ "zip": "100-0601",
+ "address": "神津島村41",
+ "addressParts": [
+  "神津島村",
+  "41"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "東海汽船「神津島港」より 徒歩3分",
+ "festivals": [
+  {
+   "date": "8月1日／2日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

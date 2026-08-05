@@ -1,0 +1,29 @@
+id: shimane-006-summer-ar0832e72210
+name: 第21回 出雲神話まつり　出雲盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 島根県
+  city: 出雲市
+  ward: null
+venue:
+  name: 今市町くにびき中央通り
+  address: 出雲市今市町くにびき中央通り
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0832e72210/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

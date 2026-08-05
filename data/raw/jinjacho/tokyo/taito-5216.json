@@ -1,0 +1,21 @@
+{
+ "id": "taito-5216",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5216",
+ "name": "稲荷神社",
+ "zip": "110-0003",
+ "address": "台東区根岸4-16-17",
+ "addressParts": [
+  "台東区",
+  "根岸4-16-17"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "JR「鶯谷駅」 15分",
+ "festivals": [
+  {
+   "date": "2月午日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: kanazawa-toro-nagashi
+name: 灯篭流し
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 金沢漁港
+  address: null
+  lat: null
+  lng: null
+organizer: 安立寺
+tags:
+  - 灯籠流し
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://yokohama-kanazawakanko.com/2026/07/01/202607event202/
+    source_name: 横浜金沢観光協会
+    checked_at: 2026-08-02
+    note: 18:00頃から
+    source_type: gov
+stalls: unknown

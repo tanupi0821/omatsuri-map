@@ -1,0 +1,21 @@
+{
+ "id": "taito-3045",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3045",
+ "name": "五條天神社",
+ "zip": "110-0007",
+ "address": "台東区上野公園4-17",
+ "addressParts": [
+  "台東区",
+  "上野公園4-17"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "JR・東京メトロ日比谷線・銀座線「上野駅」（公園口） 徒歩3分 京成線「京成上野駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "5月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

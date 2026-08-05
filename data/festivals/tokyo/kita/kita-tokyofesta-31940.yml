@@ -1,0 +1,29 @@
+id: kita-tokyofesta-31940
+name: 赤羽納涼フェスタ2026
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 北区
+  ward: null
+venue:
+  name: 北区立赤羽小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 赤羽一番街商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31940/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

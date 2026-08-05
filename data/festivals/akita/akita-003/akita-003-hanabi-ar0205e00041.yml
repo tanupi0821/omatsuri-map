@@ -1,0 +1,30 @@
+id: akita-003-hanabi-ar0205e00041
+name: 「大館大文字まつり」第72回花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 秋田県
+  city: 大館市
+  ward: null
+venue:
+  name: 長木川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0205e00041/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

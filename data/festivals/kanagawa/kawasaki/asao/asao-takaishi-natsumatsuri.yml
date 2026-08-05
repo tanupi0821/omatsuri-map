@@ -1,0 +1,32 @@
+id: asao-takaishi-natsumatsuri
+name: 高石町会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 高石神社
+  address: 川崎市麻生区高石1-31-1
+  lat: null
+  lng: null
+organizer: 高石町会
+shrine: 高石神社
+tags: []
+description: null
+links:
+  - https://takaishijinja.com/
+  - https://www.kanagawa-jinja.or.jp/shrine/1201085-000/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 16:00
+    end_time: null
+    status: confirmed
+    source_url: https://note.com/kakio_ja/n/n1bd9616420fc
+    source_name: 柿生隠者（note）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

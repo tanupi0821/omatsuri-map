@@ -1,0 +1,30 @@
+id: shimane-002-hanabi-ar0832e00097
+name: 吉賀町ふるさと夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 島根県
+  city: 鹿足郡吉賀町
+  ward: null
+venue:
+  name: 吉賀町柿木 相生橋周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0832e00097/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

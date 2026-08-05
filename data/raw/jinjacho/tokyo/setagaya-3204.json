@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-3204",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/3204",
+ "name": "諏訪神社",
+ "zip": "158-0094",
+ "address": "世田谷区玉川3-26-5",
+ "addressParts": [
+  "世田谷区",
+  "玉川3-26-5"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急田園都市線「二子玉川園駅」 5分",
+ "festivals": [
+  {
+   "date": "8月27日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

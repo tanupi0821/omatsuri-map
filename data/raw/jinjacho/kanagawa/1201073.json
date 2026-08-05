@@ -1,0 +1,29 @@
+{
+ "id": "1201073",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201073-000/",
+ "name": "稲荷社",
+ "zip": "214-0014",
+ "address": "川崎市 多摩区 登戸2297",
+ "addressParts": [
+  "川崎市",
+  "多摩区",
+  "登戸2297"
+ ],
+ "festivals": [
+  {
+   "date": "７月第１日曜日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月第１日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

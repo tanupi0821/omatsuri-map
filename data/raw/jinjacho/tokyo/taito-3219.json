@@ -1,0 +1,21 @@
+{
+ "id": "taito-3219",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3219",
+ "name": "稲荷神社",
+ "zip": "111-0051",
+ "address": "台東区蔵前2-2-11",
+ "addressParts": [
+  "台東区",
+  "蔵前2-2-11"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": null,
+ "festivals": [
+  {
+   "date": "9月11日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

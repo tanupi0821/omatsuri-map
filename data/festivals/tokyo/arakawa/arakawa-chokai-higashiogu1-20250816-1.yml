@@ -1,0 +1,31 @@
+id: arakawa-chokai-higashiogu1-20250816-1
+name: 東尾久赤土町会・東尾久一丁目町会・東尾久本町町会・東尾久二丁東町会 第17回 四町会盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 東尾久赤土町会・東尾久一丁目町会・東尾久本町町会・東尾久二丁東町会 地域内
+  address: null
+  lat: null
+  lng: null
+organizer: 東尾久赤土町会・東尾久一丁目町会・東尾久本町町会・東尾久二丁東町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-16
+      - 2025-08-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/higashiogu1/
+    source_name: 東尾久一丁目町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 2025年の告知。2026年の日程は未確認。会場の詳細は出典元の告知を参照
+stalls: unknown

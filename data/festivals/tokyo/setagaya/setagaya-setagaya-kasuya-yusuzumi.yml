@@ -1,0 +1,29 @@
+id: setagaya-setagaya-kasuya-yusuzumi
+name: 粕谷区民センター 夏休み夕涼み会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 粕谷区民センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 15:30
+    end_time: 20:00
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-2065",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/2065",
+ "name": "北谷稲荷神社",
+ "zip": "150-0041",
+ "address": "渋谷区神南1-4-1",
+ "addressParts": [
+  "渋谷区",
+  "神南1-4-1"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "JR「原宿駅・渋谷駅」 徒歩10分 地下鉄千代田線「明治神宮前駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "9月28日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: kumamoto-001-hanabi-ar1043e00424
+name: 2025 宇城市松橋町ふるさと祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 熊本県
+  city: 宇城市
+  ward: null
+venue:
+  name: 宇城市役所駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1043e00424/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

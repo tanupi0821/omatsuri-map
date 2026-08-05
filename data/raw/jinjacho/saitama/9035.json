@@ -1,0 +1,33 @@
+{
+ "id": "9035",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9035/",
+ "name": "鹿島神社",
+ "zip": null,
+ "address": "深谷市下手計1145",
+ "addressParts": [
+  "深谷市",
+  "下手計1145"
+ ],
+ "festivals": [
+  {
+   "date": "1月1日",
+   "name": "元旦祭",
+   "alias": null
+  },
+  {
+   "date": "4月8日",
+   "name": "入学児童祈願祭",
+   "alias": null
+  },
+  {
+   "date": "4月10日",
+   "name": "春祭り（例祭）",
+   "alias": null
+  },
+  {
+   "date": "11月15日",
+   "name": "秋祭り",
+   "alias": null
+  }
+ ]
+}

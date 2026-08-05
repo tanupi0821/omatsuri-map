@@ -1,0 +1,32 @@
+id: nagasaki-011-hanabi-ar1042e214973
+name: 雲仙灯りの花ぼうろ2026
+kind: 花火
+scale: 市
+area:
+  pref: 長崎県
+  city: 雲仙市
+  ward: null
+venue:
+  name: 雲仙温泉街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-07
+      - 2026-02-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1042e214973/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

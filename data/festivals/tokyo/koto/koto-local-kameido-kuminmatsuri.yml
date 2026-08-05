@@ -1,0 +1,29 @@
+id: koto-local-kameido-kuminmatsuri
+name: 江東区民まつり 亀戸地区夏まつり大会
+kind: 区民祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 亀戸中央公園・亀戸スポーツセンター
+  address: null
+  lat: null
+  lng: null
+organizer: 江東区
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

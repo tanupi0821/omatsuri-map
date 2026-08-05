@@ -1,0 +1,34 @@
+id: ota-jinjacho-ota-5345-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 大田区
+  ward: null
+venue:
+  name: 氷川神社
+  address: 大田区矢口1-27-7
+  lat: null
+  lng: null
+station: 東急多摩川線「武蔵新田駅」 5分
+recurrence: 9月19日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/ota/5345
+organizer: 氷川神社
+shrine: 氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/ota/5345
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月19日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

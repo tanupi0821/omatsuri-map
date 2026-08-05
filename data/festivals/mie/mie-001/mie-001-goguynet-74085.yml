@@ -1,0 +1,31 @@
+id: mie-001-goguynet-74085
+name: 大四日市まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 四日市市
+  ward: null
+venue:
+  name: 各会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0624e507840/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokkaichi.goguynet.jp/2026/07/30/daiyokkaichimatsuri2026/
+    source_name: 号外NET 四日市市
+    source_type: media
+    checked_at: 2026-08-04

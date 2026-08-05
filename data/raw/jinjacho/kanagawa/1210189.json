@@ -1,0 +1,28 @@
+{
+ "id": "1210189",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210189-000/",
+ "name": "八幡神社",
+ "zip": "250-0113",
+ "address": "南足柄市 岩原937",
+ "addressParts": [
+  "南足柄市",
+  "岩原937"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月２８日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

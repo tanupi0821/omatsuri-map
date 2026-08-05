@@ -1,0 +1,29 @@
+id: hanyu-summer-ar0311e70365
+name: 羽生てんのうさま夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 羽生市
+  ward: null
+venue:
+  name: 羽生市民プラザ
+  address: 羽生市中央3-7-5付近
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e70365/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

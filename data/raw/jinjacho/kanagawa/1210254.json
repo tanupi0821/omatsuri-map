@@ -1,0 +1,24 @@
+{
+ "id": "1210254",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210254-000/",
+ "name": "児子神社",
+ "zip": "259-0202",
+ "address": "足柄下郡 真鶴町 岩653",
+ "addressParts": [
+  "足柄下郡",
+  "真鶴町",
+  "岩653"
+ ],
+ "festivals": [
+  {
+   "date": "７月第２土曜日",
+   "name": "神霊移祭（みたまうつしさい）",
+   "alias": null
+  },
+  {
+   "date": "７月第２日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

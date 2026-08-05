@@ -1,0 +1,31 @@
+id: satte-summer-ar0311e69078
+name: 幸手夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 幸手市
+  ward: null
+venue:
+  name: 幸手市中央通り周辺
+  address: 幸手市中4丁目(実行委員会本部)
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e69078/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,29 @@
+id: shinjuku-tokyofesta-32406
+name: 花園神社盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 花園神社
+  address: null
+  lat: null
+  lng: null
+organizer: 花園神社
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/32406/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

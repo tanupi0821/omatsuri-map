@@ -1,0 +1,35 @@
+id: katori-sawara-taisai-aki
+name: 佐原の大祭 秋祭り（諏訪神社秋祭り）
+kind: 秋祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 香取市
+  ward: null
+venue:
+  name: 諏訪神社および新宿地区
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月第2土曜日を中心とした3日間
+recurrence_source: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
+organizer: 諏訪神社
+shrine: 諏訪神社
+tags:
+  - 山車
+  - ユネスコ無形文化遺産
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/aki.html
+    source_name: 香取市 公式
+    source_type: gov
+    checked_at: 2026-08-02
+stalls: unknown

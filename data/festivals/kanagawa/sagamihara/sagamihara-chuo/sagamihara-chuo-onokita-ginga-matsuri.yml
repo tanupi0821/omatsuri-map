@@ -1,0 +1,31 @@
+id: sagamihara-chuo-onokita-ginga-matsuri
+name: 大野北銀河まつり（第38回）
+kind: 夏祭り
+scale: 区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 中央区
+venue:
+  name: 淵野辺駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 淵野辺
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0314/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

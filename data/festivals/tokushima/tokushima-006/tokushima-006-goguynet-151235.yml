@@ -1,0 +1,32 @@
+id: tokushima-006-goguynet-151235
+name: 小松島港まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 徳島県
+  city: 小松島市
+  ward: null
+venue:
+  name: 徳島県小松島市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0936e00619/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokushima.goguynet.jp/2026/05/05/ibento-komatushimaminatomaturi-kaisaiyotei/
+    source_name: 号外NET 徳島市
+    source_type: media
+    checked_at: 2026-08-04

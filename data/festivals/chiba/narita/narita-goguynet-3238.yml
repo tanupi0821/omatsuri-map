@@ -1,0 +1,29 @@
+id: narita-goguynet-3238
+name: 成田浪漫夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 成田市
+  ward: null
+venue:
+  name: 成田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://narita-tomisato.goguynet.jp/2026/08/02/romanvillage-2/
+    source_name: 号外NET 成田市・富里市・酒々井町
+    source_type: media
+    checked_at: 2026-08-04

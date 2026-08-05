@@ -1,0 +1,31 @@
+id: katsushika-katsushika-horikiri-7
+name: 堀切7丁目町会 ふれあい広場と盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 南綾瀬中央公園
+  address: 葛飾区堀切7-8
+  lat: null
+  lng: null
+organizer: 堀切7丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: ヒップホップダンス、地元小学校の楽器演奏、和太鼓
+stalls: yes

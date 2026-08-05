@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5260",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5260",
+ "name": "八幡神社",
+ "zip": "142-0041",
+ "address": "品川区戸越2-6-23",
+ "addressParts": [
+  "品川区",
+  "戸越2-6-23"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "都営浅草線「戸越駅」 徒歩3分 東急池上線「戸越銀座駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

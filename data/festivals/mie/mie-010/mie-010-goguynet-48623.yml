@@ -1,0 +1,29 @@
+id: mie-010-goguynet-48623
+name: カブトムシ縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 津市
+  ward: null
+venue:
+  name: 松菱
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tsu.goguynet.jp/2026/07/17/matsubishi-natsuevent/
+    source_name: 号外NET 津市
+    source_type: media
+    checked_at: 2026-08-04

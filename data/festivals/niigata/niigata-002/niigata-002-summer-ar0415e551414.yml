@@ -1,0 +1,31 @@
+id: niigata-002-summer-ar0415e551414
+name: 両津七夕まつり・川開き
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 佐渡市
+  ward: null
+venue:
+  name: 佐渡市両津夷・両津湊周辺
+  address: 佐渡市両津夷
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e551414/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

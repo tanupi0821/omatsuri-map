@@ -1,0 +1,29 @@
+id: inzai-goguynet-50161
+name: 戸神フェスタ2026 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: …戸神ホームズ/戸神ベーカリー/とかみらいぶらりの敷地内（印西市戸神1045）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/20/tokamifesta2026natsumatsuri/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,23 @@
+{
+ "id": "1205083",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205083-000/",
+ "name": "神明社",
+ "zip": "238-0244",
+ "address": "三浦市 白石町15ｰ1",
+ "addressParts": [
+  "三浦市",
+  "白石町15ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "２月２４日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２４日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5440",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5440",
+ "name": "幸神社",
+ "zip": "112-0014",
+ "address": "文京区関口2-6-1",
+ "addressParts": [
+  "文京区",
+  "関口2-6-1"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "地下鉄有楽町線「江戸川橋駅」 7分",
+ "festivals": [
+  {
+   "date": "9月14日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

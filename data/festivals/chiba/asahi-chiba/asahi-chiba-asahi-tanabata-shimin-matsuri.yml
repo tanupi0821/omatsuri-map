@@ -1,0 +1,33 @@
+id: asahi-chiba-asahi-tanabata-shimin-matsuri
+name: 旭市七夕市民まつり
+kind: 市民祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 旭市
+  ward: null
+venue:
+  name: 旭市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0312e313182/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: yes

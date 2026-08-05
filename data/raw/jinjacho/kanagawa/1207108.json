@@ -1,0 +1,23 @@
+{
+ "id": "1207108",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207108-000/",
+ "name": "依知神社",
+ "zip": "243-0801",
+ "address": "厚木市 上依知1",
+ "addressParts": [
+  "厚木市",
+  "上依知1"
+ ],
+ "festivals": [
+  {
+   "date": "９月第１土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

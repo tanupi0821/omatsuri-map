@@ -1,0 +1,33 @@
+id: nakahara-shinjo-jinja-harumatsuri
+name: 新城神社 春祭り（例祭）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 新城神社
+  address: 川崎市中原区新城中町4-14
+  lat: null
+  lng: null
+recurrence: 3月20日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201044-000/
+organizer: 新城神社
+shrine: 新城神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201044-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁の例祭日（3月20日）から。神社が2026年の日程として発表したものではない
+stalls: unknown

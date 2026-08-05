@@ -1,0 +1,33 @@
+id: suginami-koenji-awaodori
+name: 東京高円寺阿波おどり（第67回）
+kind: 夏祭り
+scale: 区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 高円寺駅周辺の商店街
+  address: null
+  lat: null
+  lng: null
+station: 高円寺
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e72220/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -1,0 +1,28 @@
+{
+ "id": "1207088",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207088-000/",
+ "name": "妻田神社",
+ "zip": "243-0815",
+ "address": "厚木市 妻田西1-17-32",
+ "addressParts": [
+  "厚木市",
+  "妻田西1-17-32"
+ ],
+ "festivals": [
+  {
+   "date": "４月２９日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "９月５日近い土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２８日近い日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

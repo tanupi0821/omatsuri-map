@@ -1,0 +1,31 @@
+id: ehime-007-summer-ar0938e4760
+name: 第61回 松山野球拳おどり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 大街道商店街、千舟町、城山公園(堀之内地区)
+  address: 松山市千舟町、松山市堀之内
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0938e4760/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

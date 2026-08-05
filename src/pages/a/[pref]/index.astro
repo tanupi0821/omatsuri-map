@@ -1,0 +1,115 @@
+---
+/**
+ * 都道府県のページ
+ *
+ * トップに全国 3916 件を並べると 2.9MB になるので、地域で割る。
+ * 「◯◯県 盆踊り 2026」で探す人がそのまま辿り着ける入口でもある。
+ */
+import Base from '../../../layouts/Base.astro';
+import FestivalList from '../../../components/FestivalList.astro';
+import { loadFestivals } from '../../../lib/data.js';
+import { SITE_NAME } from '../../../lib/site.js';
+
+export function getStaticPaths() {
+  const all = loadFestivals();
+  const byPref = new Map();
+  for (const f of all) {
+    if (!byPref.has(f._prefSlug)) byPref.set(f._prefSlug, []);
+    byPref.get(f._prefSlug).push(f);
+  }
+  return [...byPref].map(([pref, festivals]) => ({
+    params: { pref },
+    props: { festivals },
+  }));
+}
+
+const { festivals } = Astro.props;
+const prefName = festivals[0].area.pref;
+
+/**
+ * 東京都は 1184 件あり、全部並べると 794KB になった。
+ * 都道府県ページは「これから開催されるもの」に絞り、
+ * 過去の分まで見たい人には市区町村ページへ行ってもらう。
+ */
+const today = new Date().toISOString().slice(0, 10);
+const upcoming = festivals
+  .filter((f) => {
+    const o = [...(f.occurrences ?? [])].sort((a, b) => b.year - a.year)[0];
+    return o?.dates?.length && o.dates.at(-1) >= today;
+  })
+  .slice(0, 150);
+const trimmed = upcoming.length < festivals.length;
+
+// 市区町村ごとの件数。区のある市は区までまとめて 1 つに数える
+const cities = new Map();
+for (const f of festivals) {
+  const k = f._citySlug;
+  if (!cities.has(k)) cities.set(k, { slug: k, name: f.area.city, n: 0, stalls: 0 });
+  const c = cities.get(k);
+  c.n++;
+  if (f.stalls === 'yes') c.stalls++;
+}
+const cityList = [...cities.values()].sort((a, b) => b.n - a.n);
+const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
+
+// 検索結果に階層を出すためのパンくず
+const prefSlug = festivals[0]._prefSlug;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: SITE_NAME, item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: prefName, item: new URL(`/a/${prefSlug}/`, Astro.site).href },
+  ],
+};
+---
+
+<Base
+  title={`${prefName}の祭り・盆踊り`}
+  description={`${prefName}の夏祭り・盆踊り・例大祭を${festivals.length}件掲載。町内会や自治会の小さな盆踊りまで、出典と最終確認日つきで探せます。`}
+  jsonld={jsonld}
+>
+  <nav class="crumb"><a href="/">{SITE_NAME}</a> ／ {prefName}</nav>
+  <h1>{prefName}の祭り</h1>
+  <p class="lede">
+    <strong>{festivals.length} 件</strong>（うち屋台が出ると分かっているもの {stallsTotal} 件）。
+    {cityList.length} 市区町村を収録しています。
+  </p>
+
+  <ul class="areas">
+    {cityList.map((c) => (
+      <li><a href={`/a/${festivals[0]._prefSlug}/${c.slug}/`}>{c.name}<span class="c">{c.n}</span></a></li>
+    ))}
+  </ul>
+
+  <p class="lede">
+    <a href={`/search?pref=${encodeURIComponent(prefName)}`}>
+      {prefName}の全件を日付・名前でしぼって見る →
+    </a>
+  </p>
+
+  <h2 style="font-size:17px;margin:28px 0 8px">これから開催される祭り</h2>
+  {trimmed && (
+    <p class="lede">
+      開催日の近い順に {upcoming.length} 件。終わった回や来年の分も見るときは、
+      上の市区町村を選んでください。
+    </p>
+  )}
+  <FestivalList festivals={upcoming} />
+
+  <p style="margin-top:32px"><a href="/">← 全国のトップにもどる</a></p>
+
+  <style>
+    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: 4px; }
+    .lede { color: var(--muted); font-size: 14px; }
+    .areas { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .areas a {
+      display: inline-flex; gap: 6px; align-items: baseline;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 5px 12px; font-size: 14px; text-decoration: none; color: inherit;
+      background: var(--card);
+    }
+    .areas .c { font-size: 12px; color: var(--muted); }
+  </style>
+</Base>

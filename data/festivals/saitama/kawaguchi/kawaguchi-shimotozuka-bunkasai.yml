@@ -1,0 +1,29 @@
+id: kawaguchi-shimotozuka-bunkasai
+name: 下戸塚文化祭
+kind: 秋祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: 戸塚中台第二公園
+  address: 川口市戸塚5-5
+  lat: null
+  lng: null
+organizer: 下戸塚地区
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 14:00
+    end_time: null
+    status: confirmed
+    source_url: https://trico-kawaguchi.jp/article/event_kawaguchi/98553
+    source_name: トリコカワグチ（川口市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

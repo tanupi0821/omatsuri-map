@@ -1,0 +1,21 @@
+{
+ "id": "arakawa-2935",
+ "url": "http://www.tokyo-jinjacho.or.jp/arakawa/2935",
+ "name": "諏方神社",
+ "zip": "116-0013",
+ "address": "荒川区西日暮里3-4-8",
+ "addressParts": [
+  "荒川区",
+  "西日暮里3-4-8"
+ ],
+ "city": "荒川区",
+ "citySlugHint": "arakawa",
+ "station": "JR山手線・京浜東北線・東京メトロ千代田線「西日暮里駅」 徒歩3分 JR山手線・京浜東北線「日暮里駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "8月27日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

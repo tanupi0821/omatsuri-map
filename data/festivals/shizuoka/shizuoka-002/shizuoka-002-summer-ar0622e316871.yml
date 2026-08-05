@@ -1,0 +1,29 @@
+id: shizuoka-002-summer-ar0622e316871
+name: 航空自衛隊浜松基地 納涼の夕べ
+kind: 納涼祭
+scale: 市
+area:
+  pref: 静岡県
+  city: 浜松市中央区
+  ward: null
+venue:
+  name: 航空自衛隊浜松基地
+  address: 浜松市中央区西山町無番地
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e316871/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

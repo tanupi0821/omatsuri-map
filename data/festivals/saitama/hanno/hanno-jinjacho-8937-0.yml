@@ -1,0 +1,33 @@
+id: hanno-jinjacho-8937-0
+name: 征矢神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 飯能市
+  ward: null
+venue:
+  name: 征矢神社
+  address: 飯能市征矢町26-1
+  lat: null
+  lng: null
+recurrence: 4月5日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8937/
+organizer: 征矢神社
+shrine: 征矢神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8937/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月5日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

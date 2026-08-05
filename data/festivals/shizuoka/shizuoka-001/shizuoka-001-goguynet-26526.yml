@@ -1,0 +1,29 @@
+id: shizuoka-001-goguynet-26526
+name: 藤枝駅前納涼市
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 藤枝市
+  ward: null
+venue:
+  name: 藤枝駅前通り及び喜多町通り（れんが道）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fujieda-yaizu.goguynet.jp/2026/07/14/fujiedaekimaenouryouichi/
+    source_name: 号外NET 藤枝市・焼津市・島田市
+    source_type: media
+    checked_at: 2026-08-04

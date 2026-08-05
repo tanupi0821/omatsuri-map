@@ -1,0 +1,23 @@
+{
+ "id": "1207056",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207056-000/",
+ "name": "座間神社",
+ "zip": "252-0027",
+ "address": "座間市 座間1ｰ3437",
+ "addressParts": [
+  "座間市",
+  "座間1ｰ3437"
+ ],
+ "festivals": [
+  {
+   "date": "４月上旬日曜日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "不定期",
+   "name": "風神祭（ふうじんさい）",
+   "alias": null
+  }
+ ]
+}

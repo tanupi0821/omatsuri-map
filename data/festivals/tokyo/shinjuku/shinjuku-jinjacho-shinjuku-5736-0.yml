@@ -1,0 +1,34 @@
+id: shinjuku-jinjacho-shinjuku-5736-0
+name: 須賀神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 須賀神社
+  address: 新宿区5
+  lat: null
+  lng: null
+station: JR中央線快速・総武線各駅停車「四ツ谷駅」 徒歩10分 JR総武線各駅停車「信濃町駅」 徒歩10分 地下鉄丸ノ内線・南北線「四ツ谷駅」 徒歩10分 地下鉄丸の内線「四谷三丁目駅」 徒歩7分
+recurrence: 6月4日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinjuku/5736
+organizer: 須賀神社
+shrine: 須賀神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinjuku/5736
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月4日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

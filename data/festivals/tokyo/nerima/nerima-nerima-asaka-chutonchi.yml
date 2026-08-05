@@ -1,0 +1,29 @@
+id: nerima-nerima-asaka-chutonchi
+name: 朝霞駐屯地 納涼大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 朝霞駐屯地
+  address: 練馬区大泉学園町9-4
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+    start_time: 16:45
+    end_time: 21:00
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

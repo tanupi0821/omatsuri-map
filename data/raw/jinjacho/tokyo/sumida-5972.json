@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5972",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5972",
+ "name": "三輪里稲荷神社",
+ "zip": "131-0041",
+ "address": "墨田区八広3-6-13",
+ "addressParts": [
+  "墨田区",
+  "八広3-6-13"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "京成押上線「京成曳舟駅」 徒歩10分 「八広駅」 徒歩15分",
+ "festivals": [
+  {
+   "date": "9月上旬",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: nakahara-maruko-tamagawa-dai-bonodori
+name: 丸子多摩川大盆おどり
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 丸子橋 河川敷広場
+  address: null
+  lat: null
+  lng: null
+organizer: 丸子多摩川大盆おどり実行委員会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.townnews.co.jp/0204/2026/07/31/846869.html
+    source_name: タウンニュース 中原区版
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

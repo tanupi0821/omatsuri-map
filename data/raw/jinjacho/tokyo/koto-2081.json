@@ -1,0 +1,21 @@
+{
+ "id": "koto-2081",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/2081",
+ "name": "愛宕神社",
+ "zip": "136-0072",
+ "address": "江東区大島2-15-4",
+ "addressParts": [
+  "江東区",
+  "大島2-15-4"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": "地下鉄新宿線「西大島駅」 5分",
+ "festivals": [
+  {
+   "date": "8月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

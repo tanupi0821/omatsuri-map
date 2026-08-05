@@ -1,0 +1,33 @@
+{
+ "id": "1205068",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205068-000/",
+ "name": "若宮神社",
+ "zip": "239-0828",
+ "address": "横須賀市 久比里1ｰ4ｰ11",
+ "addressParts": [
+  "横須賀市",
+  "久比里1ｰ4ｰ11"
+ ],
+ "festivals": [
+  {
+   "date": "３月中旬",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月３１日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月中旬",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

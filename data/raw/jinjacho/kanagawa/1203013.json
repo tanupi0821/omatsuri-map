@@ -1,0 +1,24 @@
+{
+ "id": "1203013",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1203013-000/",
+ "name": "本牧神社",
+ "zip": "231-0827",
+ "address": "横浜市 中区 本牧和田19",
+ "addressParts": [
+  "横浜市",
+  "中区",
+  "本牧和田19"
+ ],
+ "festivals": [
+  {
+   "date": "1月",
+   "name": "1月1日 歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "8月初旬",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  }
+ ]
+}

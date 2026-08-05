@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-5727",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/5727",
+ "name": "天祖神社",
+ "zip": "156-0052",
+ "address": "世田谷区経堂4-33-2",
+ "addressParts": [
+  "世田谷区",
+  "経堂4-33-2"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "小田急線「千歳船橋駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "10月第1の日曜とその前日の土曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

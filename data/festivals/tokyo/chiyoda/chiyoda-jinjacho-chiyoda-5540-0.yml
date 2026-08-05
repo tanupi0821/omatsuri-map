@@ -1,0 +1,34 @@
+id: chiyoda-jinjacho-chiyoda-5540-0
+name: 東京大神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 千代田区
+  ward: null
+venue:
+  name: 東京大神宮
+  address: 千代田区富士見2-4-1
+  lat: null
+  lng: null
+station: JR総武線・東京メトロ東西線・有楽町線・南北線・都営大江戸線「飯田橋駅」 徒歩5分
+recurrence: 4月17日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/chiyoda/5540
+organizer: 東京大神宮
+shrine: 東京大神宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/chiyoda/5540
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月17日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

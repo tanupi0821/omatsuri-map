@@ -1,0 +1,29 @@
+id: fuchu-goguynet-32700
+name: 大國魂神社例大祭くらやみ祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 広島県
+  city: 府中市
+  ward: null
+venue:
+  name: 府中市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofuchu.goguynet.jp/2026/04/14/kurayamifuchu/
+    source_name: 号外NET 府中市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "ota-5451",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5451",
+ "name": "白山神社",
+ "zip": "145-0074",
+ "address": "大田区東嶺町31-17",
+ "addressParts": [
+  "大田区東嶺町",
+  "31-17"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「久が原駅」 2分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+id: kanazawa-nojima-inari-reitaisai
+name: 野島神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 野島稲荷神社
+  address: 横浜市金沢区野島町23-1
+  lat: null
+  lng: null
+organizer: null
+shrine: 野島稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    checked_at: 2026-08-02
+    note: 7/11 宵宮 17:00〜19:00（万燈神輿）、7/12 本祭 12:00〜20:00
+    source_type: media
+stalls: unknown

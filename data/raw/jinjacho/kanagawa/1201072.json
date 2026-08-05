@@ -1,0 +1,24 @@
+{
+ "id": "1201072",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201072-000/",
+ "name": "長尾神社",
+ "zip": "214-0023",
+ "address": "川崎市 多摩区 長尾3ｰ10ｰ1",
+ "addressParts": [
+  "川崎市",
+  "多摩区",
+  "長尾3ｰ10ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "１月７日",
+   "name": "春祭（はるまつり）",
+   "alias": null
+  },
+  {
+   "date": "9月第２日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

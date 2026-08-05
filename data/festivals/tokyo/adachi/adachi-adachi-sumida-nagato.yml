@@ -1,0 +1,29 @@
+id: adachi-adachi-sumida-nagato
+name: 隅田自治会ほか 長門小学校こども夏祭り
+kind: こどもまつり
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 長門小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 隅田自治会ほか
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

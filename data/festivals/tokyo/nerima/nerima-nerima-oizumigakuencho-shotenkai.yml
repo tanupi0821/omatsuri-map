@@ -1,0 +1,30 @@
+id: nerima-nerima-oizumigakuencho-shotenkai
+name: 大泉学園町商店会 夏まつり
+kind: 商店街
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 大泉風致地区公園
+  address: 練馬区大泉学園町7-7-26
+  lat: null
+  lng: null
+organizer: 大泉学園町商店会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

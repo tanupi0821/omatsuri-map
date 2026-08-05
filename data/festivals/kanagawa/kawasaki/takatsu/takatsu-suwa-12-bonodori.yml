@@ -1,0 +1,33 @@
+id: takatsu-suwa-12-bonodori
+name: 諏訪第1・2町会 青年部 納涼盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 諏訪神社 境内
+  address: null
+  lat: null
+  lng: null
+organizer: 諏訪第1・2町会 青年部
+shrine: 諏訪神社
+tags: []
+description: null
+links:
+  - https://takatsu-suwa.jp/
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-08-02
+      - 2024-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/33434
+    source_name: レアリア（2024年版一覧）
+    checked_at: 2026-08-02
+    note: 2024年の日程。開催時間は出典に記載がない
+    source_type: aggregator
+stalls: unknown

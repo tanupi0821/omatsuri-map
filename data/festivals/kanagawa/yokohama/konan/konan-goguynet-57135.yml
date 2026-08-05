@@ -1,0 +1,29 @@
+id: konan-goguynet-57135
+name: 第24回 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港南区
+venue:
+  name: 横浜市港南区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamakonan-sakae.goguynet.jp/2026/06/22/natsumatsuri-kounan2-2026/
+    source_name: 号外NET 横浜市港南区・栄区
+    source_type: media
+    checked_at: 2026-08-04

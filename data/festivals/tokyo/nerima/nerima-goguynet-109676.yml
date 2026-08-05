@@ -1,0 +1,29 @@
+id: nerima-goguynet-109676
+name: サムライフェスタin練馬
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: Coconeri
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nerima.goguynet.jp/2026/07/09/samurai/
+    source_name: 号外NET 練馬区
+    source_type: media
+    checked_at: 2026-08-04

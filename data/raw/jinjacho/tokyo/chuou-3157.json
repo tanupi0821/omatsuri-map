@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3157",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3157",
+ "name": "宝田神社",
+ "zip": "103-0023",
+ "address": "中央区日本橋本町3-10",
+ "addressParts": [
+  "中央区日本橋本町",
+  "3-10"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄日比谷線「小伝馬町駅」 5分",
+ "festivals": [
+  {
+   "date": "10月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

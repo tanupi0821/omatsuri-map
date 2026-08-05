@@ -1,0 +1,43 @@
+{
+ "id": "nakahara-jinjacho-1201033-0",
+ "name": "住吉神社 大祭",
+ "term": "住吉神社 大祭",
+ "tokens": [
+  "住吉神社",
+  "住吉神社",
+  "住吉",
+  "大祭"
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ibayashi.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "湖の国の王子",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibayashi.jpg",
+   "title": "File:Ibayashi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ome-Festival-Seriai.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "湖の国の王子",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ome-Festival-Seriai.jpg",
+   "title": "File:Ome-Festival-Seriai.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tekomai.jpg/1280px-Tekomai.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "湖の国の王子",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tekomai.jpg",
+   "title": "File:Tekomai.jpg"
+  }
+ ]
+}

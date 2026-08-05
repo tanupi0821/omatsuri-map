@@ -1,0 +1,29 @@
+id: koto-local-kameido-jidokan
+name: 亀戸児童館 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 亀戸児童館
+  address: null
+  lat: null
+  lng: null
+organizer: 亀戸児童館
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

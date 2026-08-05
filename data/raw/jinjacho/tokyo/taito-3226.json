@@ -1,0 +1,21 @@
+{
+ "id": "taito-3226",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3226",
+ "name": "須賀神社",
+ "zip": "111-0053",
+ "address": "台東区浅草橋2-29-16",
+ "addressParts": [
+  "台東区",
+  "浅草橋2-29-16"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "JR総武線・都営浅草線「浅草橋駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "6月8日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

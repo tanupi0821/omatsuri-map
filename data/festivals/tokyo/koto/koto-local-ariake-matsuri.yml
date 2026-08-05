@@ -1,0 +1,29 @@
+id: koto-local-ariake-matsuri
+name: 有明まつり2026（第10回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 有明ガーデン スポーツ・エンターテイメント広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: 14:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

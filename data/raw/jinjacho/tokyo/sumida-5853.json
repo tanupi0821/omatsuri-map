@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5853",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5853",
+ "name": "稲荷神社",
+ "zip": "130-0011",
+ "address": "墨田区石原1-36-10",
+ "addressParts": [
+  "墨田区",
+  "石原1-36-10"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR・地下鉄大江戸線「両国駅」 5分",
+ "festivals": [
+  {
+   "date": "5月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

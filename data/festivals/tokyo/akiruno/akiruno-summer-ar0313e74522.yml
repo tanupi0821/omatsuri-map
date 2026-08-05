@@ -1,0 +1,29 @@
+id: akiruno-summer-ar0313e74522
+name: 第21回 あきる野夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: あきる野市
+  ward: null
+venue:
+  name: JR秋川駅北口 駅前通り周辺
+  address: あきる野市秋川
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e74522/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

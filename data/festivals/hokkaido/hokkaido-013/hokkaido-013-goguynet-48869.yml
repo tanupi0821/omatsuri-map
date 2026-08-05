@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-48869
+name: 女だけの祭礼行列
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 福島大神宮境内相撲場（荒天時：福島町総合体育館）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/04/22/post-48869/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

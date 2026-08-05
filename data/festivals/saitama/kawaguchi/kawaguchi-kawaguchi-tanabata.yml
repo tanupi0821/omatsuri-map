@@ -1,0 +1,36 @@
+id: kawaguchi-kawaguchi-tanabata
+name: 川口七夕まつり（第65回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: 川口駅前・本町大通り
+  address: null
+  lat: null
+  lng: null
+station: 川口
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0311e552340/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-03
+      - 2026-07-04
+      - 2026-07-05
+      - 2026-07-06
+      - 2026-07-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

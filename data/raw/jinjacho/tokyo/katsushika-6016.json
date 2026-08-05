@@ -1,0 +1,21 @@
+{
+ "id": "katsushika-6016",
+ "url": "http://www.tokyo-jinjacho.or.jp/katsushika/6016",
+ "name": "於玉稲荷神社",
+ "zip": "124-0024",
+ "address": "葛飾区新小岩4-21-6",
+ "addressParts": [
+  "葛飾区",
+  "新小岩4-21-6"
+ ],
+ "city": "葛飾区",
+ "citySlugHint": "katsushika",
+ "station": "JR総武線「新小岩駅」（南口） 徒歩8分",
+ "festivals": [
+  {
+   "date": "4月29日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

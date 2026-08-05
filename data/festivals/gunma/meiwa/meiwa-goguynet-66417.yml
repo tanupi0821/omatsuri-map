@@ -1,0 +1,30 @@
+id: meiwa-goguynet-66417
+name: 満天夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 群馬県
+  city: 明和町
+  ward: null
+venue:
+  name: 3F屋上駐車場(イオン明和店屋上）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsusaka.goguynet.jp/2026/07/23/meiwa-mantenmarket2026/
+    source_name: 号外NET 松阪市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,33 @@
+id: tomioka-nukisaki-jinja-reisai
+name: 一之宮貫前神社 例祭（古武道奉納演武）
+kind: 例大祭
+scale: 市
+area:
+  pref: 群馬県
+  city: 富岡市
+  ward: null
+venue:
+  name: 一之宮貫前神社
+  address: null
+  lat: null
+  lng: null
+organizer: 一之宮貫前神社
+shrine: 一之宮貫前神社
+tags:
+  - 古武道
+description: null
+links:
+  - http://nukisaki.or.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-26
+    start_time: 10:00
+    end_time: null
+    status: confirmed
+    source_url: https://gunma-kanko.jp/spots/585
+    source_name: 観光ぐんま（群馬県観光物産国際協会）
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 上野国一之宮
+stalls: unknown

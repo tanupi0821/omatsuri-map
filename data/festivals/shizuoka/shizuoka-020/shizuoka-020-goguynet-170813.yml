@@ -1,0 +1,29 @@
+id: shizuoka-020-goguynet-170813
+name: 守護神堂祭典＆法蔵寺縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 富士市
+  ward: null
+venue:
+  name: 富士市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fuji-fujinomiya.goguynet.jp/2026/04/10/hozoji-3/
+    source_name: 号外NET 富士市・富士宮市
+    source_type: media
+    checked_at: 2026-08-04

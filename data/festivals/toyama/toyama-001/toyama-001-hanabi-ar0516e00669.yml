@@ -1,0 +1,30 @@
+id: toyama-001-hanabi-ar0516e00669
+name: 第73回 北日本新聞納涼花火(高岡会場)
+kind: 花火
+scale: 市
+area:
+  pref: 富山県
+  city: 高岡市
+  ward: null
+venue:
+  name: 庄川高岡大橋上流
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0516e00669/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

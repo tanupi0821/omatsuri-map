@@ -1,0 +1,30 @@
+id: meguro-chokai-kami4-20251116-3
+name: 上四町会 南一丁目緑地公園収穫祭＆野外ミニコンサート
+kind: 秋祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 上四町会 地域内
+  address: null
+  lat: null
+  lng: null
+organizer: 上四町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/kami4/
+    source_name: 上四町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 2025年の告知。2026年の日程は未確認。会場の詳細は出典元の告知を参照
+stalls: unknown

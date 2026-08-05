@@ -1,0 +1,29 @@
+id: hokkaido-022-goguynet-57474
+name: 樽前山神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 苫小牧市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.goguynet.jp/2026/07/09/tarumaematsuri/
+    source_name: 号外NET 苫小牧市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "tosho-6111",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/6111",
+ "name": "富賀神社",
+ "zip": "100-1212",
+ "address": "三宅村阿古",
+ "addressParts": [
+  "三宅村",
+  "阿古"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "「三池港」よりバス「阿古」 徒歩3分",
+ "festivals": [
+  {
+   "date": "2月17日／8月4~9日／11月23日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

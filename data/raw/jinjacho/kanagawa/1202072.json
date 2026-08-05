@@ -1,0 +1,29 @@
+{
+ "id": "1202072",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202072-000/",
+ "name": "杉山神社",
+ "zip": "223-0057",
+ "address": "横浜市 港北区 新羽町2576",
+ "addressParts": [
+  "横浜市",
+  "港北区",
+  "新羽町2576"
+ ],
+ "festivals": [
+  {
+   "date": "３月１９日",
+   "name": "荒神祭（こうじんさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月６日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月１日",
+   "name": "星祭（ほしまつり）",
+   "alias": null
+  }
+ ]
+}

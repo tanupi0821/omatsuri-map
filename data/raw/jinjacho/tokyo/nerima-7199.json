@@ -1,0 +1,21 @@
+{
+ "id": "nerima-7199",
+ "url": "http://www.tokyo-jinjacho.or.jp/nerima/7199",
+ "name": "竹下稲荷神社",
+ "zip": "177-0053",
+ "address": "練馬区関町南2-3-22",
+ "addressParts": [
+  "練馬区関町",
+  "南2-3-22"
+ ],
+ "city": "練馬区",
+ "citySlugHint": "nerima",
+ "station": null,
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

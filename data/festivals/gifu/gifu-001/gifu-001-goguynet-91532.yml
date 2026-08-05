@@ -1,0 +1,29 @@
+id: gifu-001-goguynet-91532
+name: 同日のお昼から夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 岐阜市
+  ward: null
+venue:
+  name: 岐阜市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://gifu.goguynet.jp/2026/07/17/hanabitaikai-2/
+    source_name: 号外NET 岐阜市（岐阜地域）
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: ichikawa-honshio-bonodori
+name: 本塩 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 本塩上道公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-07-19
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 2025年の実績。2026年の日程は未発表
+stalls: unknown

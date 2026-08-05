@@ -1,0 +1,27 @@
+{
+ "id": "tsuchiura-goguynet-34286",
+ "name": "土浦キララまつり",
+ "term": "土浦キララまつり",
+ "tokens": {
+  "strong": [
+   "土浦キララまつり"
+  ],
+  "weak": [],
+  "place": [
+   "土浦市",
+   "土浦"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tsuchiurakirara_tanabatakazari.jpg/1280px-Tsuchiurakirara_tanabatakazari.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "常陸國民",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsuchiurakirara_tanabatakazari.jpg",
+   "title": "File:Tsuchiurakirara tanabatakazari.jpg"
+  }
+ ]
+}

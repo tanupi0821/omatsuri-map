@@ -1,0 +1,30 @@
+id: utsunomiya-utsunomiya-joshi-matsuri
+name: 宇都宮城址まつり
+kind: 秋祭り
+scale: 市
+area:
+  pref: 栃木県
+  city: 宇都宮市
+  ward: null
+venue:
+  name: 宇都宮城址公園
+  address: null
+  lat: null
+  lng: null
+station: 宇都宮
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.walkerplus.com/event_list/ar0309/eg0055/
+    source_name: ウォーカープラス お祭り一覧
+    source_type: aggregator
+    checked_at: 2026-08-03

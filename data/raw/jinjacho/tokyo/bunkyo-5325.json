@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5325",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5325",
+ "name": "富士神社",
+ "zip": "113-0021",
+ "address": "文京区本駒込5-7-20",
+ "addressParts": [
+  "文京区",
+  "本駒込5-7-20"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "JR・地下鉄南北線「駒込駅」 5分 都バス「上富士」 2分",
+ "festivals": [
+  {
+   "date": "7月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

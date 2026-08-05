@@ -1,0 +1,30 @@
+id: hokkaido-002-hanabi-ar0101e00713
+name: 第60回 おたる潮まつり 大花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 小樽市
+  ward: null
+venue:
+  name: 小樽港第3号ふ頭基部
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00713/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -1,0 +1,47 @@
+{
+ "id": "tokyo-002-goguynet-109509",
+ "name": "駅前夏祭り",
+ "term": "駅前夏祭り",
+ "tokens": {
+  "strong": [
+   "駅前夏祭り"
+  ],
+  "weak": [],
+  "place": [
+   "東久留米市",
+   "東久留米"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg/1280px-DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg",
+   "width": 1000,
+   "height": 562,
+   "credit": "つくつくば",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E5%85%A8%E6%99%AF.jpg",
+   "title": "File:DSC 岩瀬駅前夏祭り全景.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg/1280px-DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg",
+   "width": 1000,
+   "height": 563,
+   "credit": "つくつくば",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B.jpg",
+   "title": "File:DSC 岩瀬駅前夏祭り華合わせ.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B2.jpg/1280px-DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B2.jpg",
+   "width": 1000,
+   "height": 627,
+   "credit": "つくつくば",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DSC_%E5%B2%A9%E7%80%AC%E9%A7%85%E5%89%8D%E5%A4%8F%E7%A5%AD%E3%82%8A%E8%8F%AF%E5%90%88%E3%82%8F%E3%81%9B2.jpg",
+   "title": "File:DSC 岩瀬駅前夏祭り華合わせ2.jpg"
+  }
+ ]
+}

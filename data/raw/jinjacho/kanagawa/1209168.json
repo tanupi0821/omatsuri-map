@@ -1,0 +1,38 @@
+{
+ "id": "1209168",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209168-000/",
+ "name": "上粕屋神社",
+ "zip": "259-1141",
+ "address": "伊勢原市 上粕屋1334",
+ "addressParts": [
+  "伊勢原市",
+  "上粕屋1334"
+ ],
+ "festivals": [
+  {
+   "date": "２月１１日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "４月３日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月中旬日曜日",
+   "name": "大祓式（おおはらへしき）",
+   "alias": null
+  },
+  {
+   "date": "１１月３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２５日",
+   "name": "大祓式（おおはらへしき）",
+   "alias": null
+  }
+ ]
+}

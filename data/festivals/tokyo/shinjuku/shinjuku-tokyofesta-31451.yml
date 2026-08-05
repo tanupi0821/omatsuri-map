@@ -1,0 +1,29 @@
+id: shinjuku-tokyofesta-31451
+name: 第26回 四谷納涼踊り大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 四谷ひろばグランド（旧四谷第四小）
+  address: null
+  lat: null
+  lng: null
+organizer: 四谷三丁目商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31451/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

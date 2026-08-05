@@ -1,0 +1,172 @@
+# 東京都のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 東京都
+cities:
+  - name: 葛飾区
+    slug: katsushika
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 江戸川区
+    slug: edogawa
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 江東区
+    slug: koto
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 港区
+    slug: minato
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 荒川区
+    slug: arakawa
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 渋谷区
+    slug: shibuya
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 新宿区
+    slug: shinjuku
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 杉並区
+    slug: suginami
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 世田谷区
+    slug: setagaya
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 千代田区
+    slug: chiyoda
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 足立区
+    slug: adachi
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 台東区
+    slug: taito
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 大田区
+    slug: ota
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 中央区
+    slug: chuou
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 中野区
+    slug: nakano
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 島嶼
+    slug: tosho
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 板橋区
+    slug: itabashi
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 品川区
+    slug: shinagawa
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 文京区
+    slug: bunkyo
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 豊島区
+    slug: toshima
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 北区
+    slug: kita
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 墨田区
+    slug: sumida
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 目黒区
+    slug: meguro
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 練馬区
+    slug: nerima
+    sources:
+      - name: 東京都神社庁
+        url: http://www.tokyo-jinjacho.or.jp/
+        type: official
+  - name: 八王子市
+    slug: hachioji
+    sources:
+      - name: 夏休みおでかけガイド（ウォーカープラス）
+        url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+        type: aggregator
+  - name: 福生市
+    slug: fussa
+    sources:
+      - name: 夏休みおでかけガイド（ウォーカープラス）
+        url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+        type: aggregator
+  - name: 奥多摩町
+    slug: okutama
+  - name: 大島町
+    slug: oshima
+  - name: 八丈町
+    slug: hachijo
+  - name: 昭島市
+    slug: akishima
+  - name: 調布市
+    slug: chofu
+  - name: あきる野市
+    slug: akiruno

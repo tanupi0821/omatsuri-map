@@ -1,0 +1,31 @@
+id: kamakura-summer-ar0314e356981
+name: ぼんぼり祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 鶴岡八幡宮
+  address: 鎌倉市雪ノ下2-1-31
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e356981/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

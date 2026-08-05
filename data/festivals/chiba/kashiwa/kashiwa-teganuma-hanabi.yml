@@ -1,0 +1,40 @@
+id: kashiwa-teganuma-hanabi
+name: 手賀沼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 手賀沼湖畔（柏・我孫子会場）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links:
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00930/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:10
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Teganuma_Fireworks_Festival_2014.jpg/1280px-Lake_Teganuma_Fireworks_Festival_2014.jpg
+    width: 1000
+    height: 667
+    credit: Takarkey
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:Lake_Teganuma_Fireworks_Festival_2014.jpg

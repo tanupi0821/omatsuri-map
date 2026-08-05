@@ -1,0 +1,29 @@
+id: fukuoka-008-summer-ar1040e314279
+name: 今井祇園祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 行橋市
+  ward: null
+venue:
+  name: 今井津須佐神社／今井西公民館前
+  address: 行橋市〈今井津須佐神社〉福岡県行橋市元永1299　〈今井西公民館前〉福岡県行橋市今井2144
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e314279/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

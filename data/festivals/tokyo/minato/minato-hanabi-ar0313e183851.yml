@@ -1,0 +1,30 @@
+id: minato-hanabi-ar0313e183851
+name: STAR ISLAND 2026 (スターアイランド2026)
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: お台場海浜公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e183851/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

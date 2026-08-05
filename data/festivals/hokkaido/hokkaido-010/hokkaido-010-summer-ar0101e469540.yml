@@ -1,0 +1,29 @@
+id: hokkaido-010-summer-ar0101e469540
+name: サマーフェスタ2026 in 洞爺湖
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 虻田郡洞爺湖町
+  ward: null
+venue:
+  name: 洞爺湖汽船駅前桟橋特設会場
+  address: 虻田郡洞爺湖町洞爺湖温泉
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e469540/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

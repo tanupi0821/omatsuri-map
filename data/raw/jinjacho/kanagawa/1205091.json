@@ -1,0 +1,23 @@
+{
+ "id": "1205091",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205091-000/",
+ "name": "浅間神社",
+ "zip": "239-0843",
+ "address": "横須賀市 津久井4-18-1",
+ "addressParts": [
+  "横須賀市",
+  "津久井4-18-1"
+ ],
+ "festivals": [
+  {
+   "date": "３月１５日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月１５日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

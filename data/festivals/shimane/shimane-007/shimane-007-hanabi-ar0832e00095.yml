@@ -1,0 +1,30 @@
+id: shimane-007-hanabi-ar0832e00095
+name: 第1回 高津川花火大会 2026
+kind: 花火
+scale: 市
+area:
+  pref: 島根県
+  city: 益田市
+  ward: null
+venue:
+  name: 高津川河口河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0832e00095/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

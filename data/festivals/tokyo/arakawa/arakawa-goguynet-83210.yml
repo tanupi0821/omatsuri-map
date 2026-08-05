@@ -1,0 +1,29 @@
+id: arakawa-goguynet-83210
+name: 第3回南千住中央町会盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 荒川区立第三瑞光小学校校庭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/08/03/bonodoritaikai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

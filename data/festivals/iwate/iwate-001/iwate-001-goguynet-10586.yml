@@ -1,0 +1,30 @@
+id: iwate-001-goguynet-10586
+name: 遠野納涼花火まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 遠野市・北上市
+  ward: null
+venue:
+  name: 近郊
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/08/01/hanabitaikai-3/
+    source_name: 号外NET 花巻市・北上市・遠野市
+    source_type: media
+    checked_at: 2026-08-04

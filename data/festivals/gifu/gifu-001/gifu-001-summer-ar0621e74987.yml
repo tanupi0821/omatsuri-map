@@ -1,0 +1,31 @@
+id: gifu-001-summer-ar0621e74987
+name: 水都まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 岐阜県
+  city: 大垣市
+  ward: null
+venue:
+  name: 大垣駅通り、本町通りなど
+  address: 大垣市高屋町1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0621e74987/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

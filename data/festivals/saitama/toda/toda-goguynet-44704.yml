@@ -1,0 +1,29 @@
+id: toda-goguynet-44704
+name: 第46回ウイング祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 戸田市
+  ward: null
+venue:
+  name: 上戸田地域交流センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toda-warabi.goguynet.jp/2026/06/05/ipal-11/
+    source_name: 号外NET 戸田市・蕨市
+    source_type: media
+    checked_at: 2026-08-04

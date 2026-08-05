@@ -1,0 +1,21 @@
+{
+ "id": "ota-5376",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5376",
+ "name": "三輪神社",
+ "zip": "143-0014",
+ "address": "大田区大森中3-17-15",
+ "addressParts": [
+  "大田区",
+  "大森中3-17-15"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京急バス森ヶ崎線「辨天神社前」 6分 又は「北糀谷」",
+ "festivals": [
+  {
+   "date": "10月14日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

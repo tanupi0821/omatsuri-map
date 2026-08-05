@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5296",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5296",
+ "name": "氷川神社",
+ "zip": "166-0003",
+ "address": "杉並区高円寺南4-44-19",
+ "addressParts": [
+  "杉並区",
+  "高円寺南4-44-19"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR「高円寺駅」（南口） 徒歩1分",
+ "festivals": [
+  {
+   "date": "8月最終土日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

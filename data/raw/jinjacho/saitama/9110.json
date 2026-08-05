@@ -1,0 +1,23 @@
+{
+ "id": "9110",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9110/",
+ "name": "諏訪大神社",
+ "zip": null,
+ "address": "深谷市大塚263",
+ "addressParts": [
+  "深谷市",
+  "大塚263"
+ ],
+ "festivals": [
+  {
+   "date": "4月10日",
+   "name": "春祭り",
+   "alias": null
+  },
+  {
+   "date": "10月17日",
+   "name": "秋祭り",
+   "alias": null
+  }
+ ]
+}

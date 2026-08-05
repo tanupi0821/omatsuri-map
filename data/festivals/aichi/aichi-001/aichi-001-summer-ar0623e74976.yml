@@ -1,0 +1,46 @@
+id: aichi-001-summer-ar0623e74976
+name: 第69回 円頓寺七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 円頓寺商店街・円頓寺本町商店街内
+  address: 名古屋市西区那古野1～2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74976/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nagoya-Endoji-2.jpg/1280px-Nagoya-Endoji-2.jpg
+    width: 1000
+    height: 750
+    credit: Evelyn-rose
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Nagoya-Endoji-2.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nagoya-Endoji-3.jpg/1280px-Nagoya-Endoji-3.jpg
+    width: 1000
+    height: 750
+    credit: Evelyn-rose
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Nagoya-Endoji-3.jpg

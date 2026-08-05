@@ -1,0 +1,23 @@
+{
+ "id": "9049",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9049/",
+ "name": "貴船神社",
+ "zip": null,
+ "address": "寄居町用土2857",
+ "addressParts": [
+  "寄居町",
+  "用土2857"
+ ],
+ "festivals": [
+  {
+   "date": "4月第3日曜日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月第3日曜日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

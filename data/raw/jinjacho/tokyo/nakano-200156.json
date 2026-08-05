@@ -1,0 +1,21 @@
+{
+ "id": "nakano-200156",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/200156",
+ "name": "氷川神社",
+ "zip": "164-0003",
+ "address": "中野区東中野1-11-1",
+ "addressParts": [
+  "中野区",
+  "東中野1-11-1"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "JR総武線・都営大江戸線「東中野駅」 徒歩5分 東京メトロ丸ノ内線・都営大江戸線「中野坂上駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

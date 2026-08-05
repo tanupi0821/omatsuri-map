@@ -1,0 +1,30 @@
+id: miyagi-003-hanabi-ar0204e511365
+name: 2026年わたりふるさと夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 宮城県
+  city: 亘理郡亘理町
+  ward: null
+venue:
+  name: 亘理町鳥の海公園周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0204e511365/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -1,0 +1,30 @@
+id: tokyo-001-hanabi-ar0313e00913
+name: 第49回 奥多摩納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: 西多摩郡奥多摩町
+  ward: null
+venue:
+  name: 愛宕山広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e00913/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

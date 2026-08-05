@@ -1,0 +1,32 @@
+id: futtsu-sengen-jinja-kakkomai
+name: 浅間神社 例祭「羯鼓舞」
+kind: 例大祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 富津市
+  ward: null
+venue:
+  name: 浅間神社
+  address: null
+  lat: null
+  lng: null
+organizer: 浅間神社
+shrine: 浅間神社
+tags:
+  - 羯鼓舞
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 明治以前から伝わる舞
+stalls: unknown

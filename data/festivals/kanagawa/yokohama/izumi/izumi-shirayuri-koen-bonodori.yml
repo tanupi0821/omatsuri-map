@@ -1,0 +1,31 @@
+id: izumi-shirayuri-koen-bonodori
+name: しらゆり公園 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 泉区
+venue:
+  name: しらゆり公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-07-26
+      - 2025-07-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/izumi-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    note: 2025年の実績。2026年の日程は未発表
+    source_type: aggregator
+stalls: unknown

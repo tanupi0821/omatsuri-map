@@ -1,0 +1,30 @@
+id: tokorozawa-goguynet-49324
+name: ライオンズ夏祭り2026 supported by SUNTORY
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 所沢市
+  ward: null
+venue:
+  name: 所沢市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokorozawa.goguynet.jp/2026/07/05/lions-natumaturi/
+    source_name: 号外NET 所沢市
+    source_type: media
+    checked_at: 2026-08-04

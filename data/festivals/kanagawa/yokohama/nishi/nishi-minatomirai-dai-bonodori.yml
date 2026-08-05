@@ -1,0 +1,33 @@
+id: nishi-minatomirai-dai-bonodori
+name: みなとみらい大盆踊り（第17回）
+kind: 盆踊り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 西区
+venue:
+  name: 臨港パーク プラザ広場
+  address: null
+  lat: null
+  lng: null
+station: みなとみらい
+organizer: パシフィコ横浜
+tags: []
+description: null
+links:
+  - https://www.pacifico.co.jp/event/MM_BonOdori
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+    start_time: 16:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/nishi-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    note: 出典では中区の項にも載っているが、臨港パークの所在地は西区
+    source_type: aggregator
+stalls: yes

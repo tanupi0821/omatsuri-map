@@ -1,0 +1,23 @@
+{
+ "id": "9020",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9020/",
+ "name": "髙城神社",
+ "zip": null,
+ "address": "熊谷市宮町2-93",
+ "addressParts": [
+  "熊谷市",
+  "宮町2-93"
+ ],
+ "festivals": [
+  {
+   "date": "6月30日",
+   "name": "胎内くぐり",
+   "alias": null
+  },
+  {
+   "date": "12月8日",
+   "name": "酉の市",
+   "alias": null
+  }
+ ]
+}

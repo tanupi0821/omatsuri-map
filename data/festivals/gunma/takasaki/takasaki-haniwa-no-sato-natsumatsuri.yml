@@ -1,0 +1,32 @@
+id: takasaki-haniwa-no-sato-natsumatsuri
+name: ぐんま「はにわの里」夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 高崎市
+  ward: null
+venue:
+  name: 上毛野はにわの里公園
+  address: 高崎市井出町・保渡田町
+  lat: null
+  lng: null
+recurrence: 8月18日
+recurrence_source: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+organizer: 群馬支所産業課
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-08-18
+    start_time: 13:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+    source_name: デジタル広報高崎
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 2024年（令和6年）の記事。2026年の日程は未確認
+stalls: unknown

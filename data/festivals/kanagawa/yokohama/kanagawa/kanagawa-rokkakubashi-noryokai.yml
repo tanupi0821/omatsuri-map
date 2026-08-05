@@ -1,0 +1,29 @@
+id: kanagawa-rokkakubashi-noryokai
+name: 六角橋連合自治会 納涼会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 神奈川区
+venue:
+  name: 神橋小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 六角橋連合自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/kanagawa-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+stalls: unknown

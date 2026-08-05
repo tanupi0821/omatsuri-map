@@ -1,0 +1,21 @@
+{
+ "id": "adachi-2860",
+ "url": "http://www.tokyo-jinjacho.or.jp/adachi/2860",
+ "name": "稲荷神社",
+ "zip": "123-0851",
+ "address": "足立区梅田5-9-5",
+ "addressParts": [
+  "足立区",
+  "梅田5-9-5"
+ ],
+ "city": "足立区",
+ "citySlugHint": "adachi",
+ "station": "東武スカイツリーライン「梅島駅」 8分",
+ "festivals": [
+  {
+   "date": "9月9日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

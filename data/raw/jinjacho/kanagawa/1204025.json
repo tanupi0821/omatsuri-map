@@ -1,0 +1,24 @@
+{
+ "id": "1204025",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204025-000/",
+ "name": "浅間神社",
+ "zip": "236-0016",
+ "address": "横浜市 金沢区 谷津町432",
+ "addressParts": [
+  "横浜市",
+  "金沢区",
+  "谷津町432"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "新春例祭（しんしゅんれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月下旬",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

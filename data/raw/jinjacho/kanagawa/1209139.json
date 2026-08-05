@@ -1,0 +1,23 @@
+{
+ "id": "1209139",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209139-000/",
+ "name": "平塚八幡宮",
+ "zip": "254-0041",
+ "address": "平塚市 浅間町1-6",
+ "addressParts": [
+  "平塚市",
+  "浅間町1-6"
+ ],
+ "festivals": [
+  {
+   "date": "1月14日",
+   "name": "左義長神事（さぎちょうしんじ）",
+   "alias": null
+  },
+  {
+   "date": "5月5日",
+   "name": "国府祭（こくふさい）",
+   "alias": null
+  }
+ ]
+}

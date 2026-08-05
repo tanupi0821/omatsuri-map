@@ -1,0 +1,34 @@
+id: taito-jinjacho-taito-200116-0
+name: 鳥越神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 鳥越神社
+  address: 台東区鳥越2-4-1
+  lat: null
+  lng: null
+station: JR総武線「浅草橋駅」（西口） 徒歩8分 都営浅草線「蔵前駅」 徒歩5分 都営大江戸線「新御徒町駅」 徒歩8分 都バス「蔵前一丁目」 徒歩5分
+recurrence: 6月9日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/200116
+organizer: 鳥越神社
+shrine: 鳥越神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/200116
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月9日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

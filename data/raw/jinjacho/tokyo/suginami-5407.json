@@ -1,0 +1,18 @@
+{
+ "id": "suginami-5407",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5407",
+ "name": "天神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "京王井の頭線「高井戸駅」 10分",
+ "festivals": [
+  {
+   "date": "9月10日に近い日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

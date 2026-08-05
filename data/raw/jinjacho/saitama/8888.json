@@ -1,0 +1,18 @@
+{
+ "id": "8888",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8888/",
+ "name": "氷川天満神社",
+ "zip": null,
+ "address": "桶川市加納771",
+ "addressParts": [
+  "桶川市",
+  "加納771"
+ ],
+ "festivals": [
+  {
+   "date": "2月26日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

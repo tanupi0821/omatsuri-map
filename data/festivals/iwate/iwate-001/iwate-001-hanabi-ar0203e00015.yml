@@ -1,0 +1,30 @@
+id: iwate-001-hanabi-ar0203e00015
+name: 第73回 一関夏まつり磐井川川開き花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 岩手県
+  city: 一関市
+  ward: null
+venue:
+  name: 磐井川河川公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0203e00015/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

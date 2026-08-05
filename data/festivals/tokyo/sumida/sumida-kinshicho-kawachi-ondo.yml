@@ -1,0 +1,39 @@
+id: sumida-kinshicho-kawachi-ondo
+name: すみだ錦糸町河内音頭大盆踊り（第44回）
+kind: 盆踊り
+scale: 区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 竪川親水公園 特設会場
+  address: null
+  lat: null
+  lng: null
+station: 錦糸町
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+      - 2026-07-30
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sumida-media.tokyo.jp/archives/1023
+    source_name: すみだデスク
+    source_type: media
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sumida_Kinshicho_Kawachi_ondo.jpg/1280px-Sumida_Kinshicho_Kawachi_ondo.jpg
+    width: 1000
+    height: 475
+    credit: Bubblehead
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Sumida_Kinshicho_Kawachi_ondo.jpg

@@ -1,0 +1,33 @@
+id: chiyoda-jinjacho-chiyoda-5539-0
+name: 御宿稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 千代田区
+  ward: null
+venue:
+  name: 御宿稲荷神社
+  address: 千代田区内神田1-6-8
+  lat: null
+  lng: null
+recurrence: 5月15日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/chiyoda/5539
+organizer: 御宿稲荷神社
+shrine: 御宿稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/chiyoda/5539
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月15日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

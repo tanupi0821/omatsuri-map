@@ -1,0 +1,30 @@
+id: nerima-nerima-kitaarai
+name: 納涼盆踊り大会（第39回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 北新井公園
+  address: 練馬区豊玉上1-23
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

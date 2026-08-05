@@ -1,0 +1,31 @@
+id: meguro-tokyofesta-31825
+name: 自由が丘納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 自由が丘駅前ロータリー
+  address: null
+  lat: null
+  lng: null
+organizer: 自由が丘商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 号外NET 目黒区
+    url: https://meguro.goguynet.jp/2026/07/14/jiyugaoka_bondance2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31825/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

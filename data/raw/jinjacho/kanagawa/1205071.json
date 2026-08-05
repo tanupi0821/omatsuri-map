@@ -1,0 +1,33 @@
+{
+ "id": "1205071",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205071-000/",
+ "name": "天照大神",
+ "zip": "239-0842",
+ "address": "横須賀市 長沢6-27-33",
+ "addressParts": [
+  "横須賀市",
+  "長沢6-27-33"
+ ],
+ "festivals": [
+  {
+   "date": "２月２０日近い日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２５日近い日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２５日近い日曜日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日近い土曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

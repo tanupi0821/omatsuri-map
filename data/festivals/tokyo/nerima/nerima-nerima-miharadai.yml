@@ -1,0 +1,30 @@
+id: nerima-nerima-miharadai
+name: 三原台町会 納涼大会
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 三原台公園
+  address: 練馬区三原台3-7-34
+  lat: null
+  lng: null
+organizer: 三原台町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

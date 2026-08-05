@@ -1,0 +1,47 @@
+{
+ "id": "shiga-001-goguynet-29161",
+ "name": "びわ湖大花火大会",
+ "term": "びわ湖大花火大会",
+ "tokens": {
+  "strong": [
+   "びわ湖大花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "大津市",
+   "大津"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%E3%81%B3%E3%82%8F%E6%B9%96%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2012_%E5%85%A5%E5%8F%A3_%E4%B8%80%E5%BA%A6%E9%80%80%E5%A0%B4%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%A8%E5%86%8D%E5%85%A5%E5%A0%B4%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93_%288227327146%29.jpg/1280px-%E3%81%B3%E3%82%8F%E6%B9%96%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2012_%E5%85%A5%E5%8F%A3_%E4%B8%80%E5%BA%A6%E9%80%80%E5%A0%B4%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%A8%E5%86%8D%E5%85%A5%E5%A0%B4%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93_%288227327146%29.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Party Lin",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%81%B3%E3%82%8F%E6%B9%96%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2012_%E5%85%A5%E5%8F%A3_%E4%B8%80%E5%BA%A6%E9%80%80%E5%A0%B4%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%A8%E5%86%8D%E5%85%A5%E5%A0%B4%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93_(8227327146).jpg",
+   "title": "File:びわ湖大花火大会2012 入口 一度退場されますと再入場はできません (8227327146).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%E9%A0%86%E8%B7%AF_%288226241587%29.jpg/1280px-%E9%A0%86%E8%B7%AF_%288226241587%29.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Party Lin",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%A0%86%E8%B7%AF_(8226241587).jpg",
+   "title": "File:順路 (8226241587).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E9%A0%86%E8%B7%AF_%288227316232%29.jpg/1280px-%E9%A0%86%E8%B7%AF_%288227316232%29.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Party Lin",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%A0%86%E8%B7%AF_(8227316232).jpg",
+   "title": "File:順路 (8227316232).jpg"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+id: kaisei-kaisei-noryo-matsuri
+name: 開成町納涼まつり・あしがら花火大会
+kind: 納涼祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 開成町
+  ward: null
+venue:
+  name: 開成水辺スポーツ公園
+  address: null
+  lat: null
+  lng: null
+station: 開成
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 15:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/kaisei-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 荒天のときは順延
+stalls: yes

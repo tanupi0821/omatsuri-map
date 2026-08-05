@@ -1,0 +1,31 @@
+id: gifu-004-goguynet-4166
+name: 第53回恵那納涼水上花火大会
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 恵那市
+  ward: null
+venue:
+  name: 恵那峡公園一帯
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0621e00830/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/07/23/enakyohanabi/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: edogawa-bonodori-shimokamata-4
+name: 下鎌田町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 下鎌田東小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 下鎌田町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/e036/kurashi/chiikicommunity/johokyoku/tobu/event/toubutikubonnodori.html
+    source_name: 江戸川区 えどがわ地域情報局
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

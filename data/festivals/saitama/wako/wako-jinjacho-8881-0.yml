@@ -1,0 +1,33 @@
+id: wako-jinjacho-8881-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 和光市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 和光市白子2-15-50
+  lat: null
+  lng: null
+recurrence: 10月3日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8881/
+organizer: 熊野神社
+shrine: 熊野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8881/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月3日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

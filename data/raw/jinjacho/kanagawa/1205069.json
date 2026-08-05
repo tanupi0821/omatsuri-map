@@ -1,0 +1,28 @@
+{
+ "id": "1205069",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205069-000/",
+ "name": "安房口神社",
+ "zip": "239-0804",
+ "address": "横須賀市 吉井3-11",
+ "addressParts": [
+  "横須賀市",
+  "吉井3-11"
+ ],
+ "festivals": [
+  {
+   "date": "３月中旬",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "８月中旬",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月中旬",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

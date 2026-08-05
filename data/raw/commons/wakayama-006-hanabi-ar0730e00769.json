@@ -1,0 +1,38 @@
+{
+ "id": "wakayama-006-hanabi-ar0730e00769",
+ "name": "第74回 港まつり花火大会",
+ "term": "港まつり花火大会",
+ "tokens": {
+  "strong": [
+   "第74回",
+   "港まつり花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "和歌山市",
+   "和歌山"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%E3%81%A4%E3%81%8F%E3%81%BF%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg",
+   "width": 1000,
+   "height": 1500,
+   "credit": "Torochan22",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%81%A4%E3%81%8F%E3%81%BF%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg",
+   "title": "File:つくみ港まつり花火大会.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG/1280px-%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG",
+   "width": 1000,
+   "height": 667,
+   "credit": "Carpawa",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG",
+   "title": "File:松山港まつり花火写真２０１０.JPG"
+  }
+ ]
+}

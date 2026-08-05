@@ -1,0 +1,32 @@
+id: zama-zama-himawari-matsuri
+name: 座間市ひまわりまつり（座間会場）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 座間市
+  ward: null
+venue:
+  name: 座架依橋周辺（座間・四ツ谷エリア）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: 09:30
+    end_time: 17:00
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/zama-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 相武台前駅から臨時直行バス
+stalls: unknown

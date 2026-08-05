@@ -1,0 +1,21 @@
+{
+ "id": "koto-2080",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/2080",
+ "name": "宇迦八幡宮",
+ "zip": "135-0013",
+ "address": "江東区千田12-8",
+ "addressParts": [
+  "江東区",
+  "千田12-8"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": "JR「錦糸町駅」・都営新宿線「住吉駅」・東京メトロ東西線「東陽町駅」より都バス22番「扇橋2丁目」「千田町」下車 徒歩5分",
+ "festivals": [
+  {
+   "date": "8月16日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

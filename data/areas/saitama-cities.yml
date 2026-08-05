@@ -1,0 +1,403 @@
+# 埼玉県のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 埼玉県
+cities:
+  - name: さいたま市
+    slug: saitama
+    wards:
+      - name: 浦和区
+        slug: urawa
+      - name: 岩槻区
+        slug: iwatsuki
+      - name: 見沼区
+        slug: minuma
+      - name: 桜区
+        slug: sakura
+      - name: 西区
+        slug: saitama-nishi
+      - name: 大宮区
+        slug: omiya
+      - name: 中央区
+        slug: saitama-chuo
+      - name: 南区
+        slug: saitama-minami
+      - name: 北区
+        slug: saitama-kita
+      - name: 緑区
+        slug: saitama-midori
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: ときがわ町
+    slug: tokigawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: ふじみ野市
+    slug: fujimino
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 伊奈町
+    slug: ina
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 羽生市
+    slug: hanyu
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 越生町
+    slug: ogose
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 越谷市
+    slug: koshigaya
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 横瀬町
+    slug: yokoze
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 桶川市
+    slug: okegawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 加須市
+    slug: kazo
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 皆野町
+    slug: minano
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 滑川町
+    slug: namegawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 寄居町
+    slug: yorii
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 吉見町
+    slug: yoshimi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 吉川市
+    slug: yoshikawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 久喜市
+    slug: kuki
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 宮代町
+    slug: miyashiro
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 狭山市
+    slug: sayama
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 熊谷市
+    slug: kumagaya
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 戸田市
+    slug: toda
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 幸手市
+    slug: satte
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 行田市
+    slug: gyoda
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 鴻巣市
+    slug: konosu
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 坂戸市
+    slug: sakado
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 三郷市
+    slug: misato
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 三芳町
+    slug: miyoshi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 志木市
+    slug: shiki
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 春日部市
+    slug: kasukabe
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 所沢市
+    slug: tokorozawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 小鹿野町
+    slug: ogano
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 小川町
+    slug: ogawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 松伏町
+    slug: matsubushi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 上尾市
+    slug: ageo
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 上里町
+    slug: kamisato
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 新座市
+    slug: niiza
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 深谷市
+    slug: fukaya
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 神川町
+    slug: kamikawa
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 杉戸町
+    slug: sugito
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 川越市
+    slug: kawagoe
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 川口市
+    slug: kawaguchi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 川島町
+    slug: kawajima
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 草加市
+    slug: soka
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 秩父市
+    slug: chichibu
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 朝霞市
+    slug: asaka
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 長瀞町
+    slug: nagatoro
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 鶴ヶ島市
+    slug: tsurugashima
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 東松山市
+    slug: higashimatsuyama
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 東秩父村
+    slug: higashichichibu
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 日高市
+    slug: hidaka
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 入間市
+    slug: iruma
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 白岡市
+    slug: shiraoka
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 八潮市
+    slug: yashio
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 鳩山町
+    slug: hatoyama
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 飯能市
+    slug: hanno
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 美里町
+    slug: misato-saitama
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 富士見市
+    slug: fujimi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 北本市
+    slug: kitamoto
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 本庄市
+    slug: honjo
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 毛呂山町
+    slug: moroyama
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 嵐山町
+    slug: ranzan
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 蓮田市
+    slug: hasuda
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 和光市
+    slug: wako
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official
+  - name: 蕨市
+    slug: warabi
+    sources:
+      - name: 埼玉県神社庁
+        url: https://www.saitama-jinjacho.or.jp/
+        type: official

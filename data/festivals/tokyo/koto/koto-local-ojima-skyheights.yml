@@ -1,0 +1,29 @@
+id: koto-local-ojima-skyheights
+name: 大島スカイハイツ 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 大島スカイハイツ
+  address: null
+  lat: null
+  lng: null
+organizer: 大島スカイハイツ自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

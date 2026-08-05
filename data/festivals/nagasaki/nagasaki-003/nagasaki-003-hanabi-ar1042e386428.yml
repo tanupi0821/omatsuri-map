@@ -1,0 +1,31 @@
+id: nagasaki-003-hanabi-ar1042e386428
+name: 壱岐島ふるさと花火2025  ～壱岐島からふるさとを想うやさしい花火～
+kind: 花火
+scale: 市
+area:
+  pref: 長崎県
+  city: 壱岐市
+  ward: null
+venue:
+  name: 青い海と緑の広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1042e386428/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

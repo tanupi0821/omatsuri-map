@@ -1,0 +1,29 @@
+id: kanazawa-hanamatsuri-taikai
+name: 花まつり大会（第80回）
+kind: 春祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 称名寺〜薬王寺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-04
+    start_time: 10:30
+    end_time: null
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+stalls: unknown

@@ -1,0 +1,30 @@
+id: suginami-mypl-天沼八幡神社宵宮祭例大祭
+name: 天沼八幡神社 宵宮祭・例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 天沼八幡神社／荻窪駅前
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-25
+      - 2026-08-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.mypl.net/article/summer-fes_suginami
+    source_name: まいぷれ[杉並区]
+    source_type: media
+    checked_at: 2026-08-04

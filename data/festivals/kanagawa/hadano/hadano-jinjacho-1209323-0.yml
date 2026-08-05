@@ -1,0 +1,35 @@
+id: hadano-jinjacho-1209323-0
+name: 菅原神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 秦野市
+  ward: null
+venue:
+  name: 菅原神社
+  address: 秦野市上大槻899
+  lat: null
+  lng: null
+recurrence: 1月25日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1209323-000/
+organizer: 菅原神社
+shrine: 菅原神社
+tags: []
+description: null
+links:
+  - title: 屋台の記述がある記事
+    url: https://hadano-isehara.goguynet.jp/2026/06/23/20260622_hadano/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1209323-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「1月25日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: yes

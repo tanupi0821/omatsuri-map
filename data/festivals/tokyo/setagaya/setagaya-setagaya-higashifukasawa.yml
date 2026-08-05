@@ -1,0 +1,29 @@
+id: setagaya-setagaya-higashifukasawa
+name: 東深沢町会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 深沢公園
+  address: null
+  lat: null
+  lng: null
+organizer: 東深沢町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,23 @@
+{
+ "id": "9412",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9412/",
+ "name": "下野上神社",
+ "zip": null,
+ "address": "長瀞町野上下郷2046",
+ "addressParts": [
+  "長瀞町",
+  "野上下郷2046"
+ ],
+ "festivals": [
+  {
+   "date": "３月１５日に近い日曜日",
+   "name": "春祭り",
+   "alias": null
+  },
+  {
+   "date": "１１月１５日に近い日曜日",
+   "name": "秋祭り",
+   "alias": null
+  }
+ ]
+}

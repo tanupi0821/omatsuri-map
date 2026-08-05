@@ -1,0 +1,34 @@
+id: ota-jinjacho-ota-5394-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 大田区
+  ward: null
+venue:
+  name: 八幡神社
+  address: 大田区仲池上1-14-22
+  lat: null
+  lng: null
+station: 都営地下鉄浅草線「西馬込駅」 徒歩10分 東急バス 大森・上池田循環バス「八幡神社前」 徒歩1分
+recurrence: 9月第1土曜・日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/ota/5394
+organizer: 八幡神社
+shrine: 八幡神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/ota/5394
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月第1土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

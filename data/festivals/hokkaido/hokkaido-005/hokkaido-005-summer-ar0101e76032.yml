@@ -1,0 +1,31 @@
+id: hokkaido-005-summer-ar0101e76032
+name: しほろ7000人のまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 河東郡士幌町
+  ward: null
+venue:
+  name: コミュニティ広場
+  address: 河東郡士幌町士幌225
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+      - 2026-08-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e76032/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

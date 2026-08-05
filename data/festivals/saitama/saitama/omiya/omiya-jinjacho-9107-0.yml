@@ -1,0 +1,33 @@
+id: omiya-jinjacho-9107-0
+name: 埼玉県護國神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 大宮区
+venue:
+  name: 埼玉県護國神社
+  address: さいたま市大宮区高鼻町3-149
+  lat: null
+  lng: null
+recurrence: 4月9日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9107/
+organizer: 埼玉県護國神社
+shrine: 埼玉県護國神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9107/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月9日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

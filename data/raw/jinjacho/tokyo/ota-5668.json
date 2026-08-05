@@ -1,0 +1,21 @@
+{
+ "id": "ota-5668",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5668",
+ "name": "八幡神社",
+ "zip": "145-0065",
+ "address": "大田区東雪谷2-25-1",
+ "addressParts": [
+  "大田区",
+  "東雪谷2-25-1"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「石川台駅」 2分",
+ "festivals": [
+  {
+   "date": "9月中旬の土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

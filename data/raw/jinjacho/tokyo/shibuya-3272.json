@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-3272",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/3272",
+ "name": "氷川神社",
+ "zip": "150-0011",
+ "address": "渋谷区東2-5-6",
+ "addressParts": [
+  "渋谷区",
+  "東2-5-6"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "渋谷駅より都バス日赤医療センター行き「國學院大學前」 徒歩1分",
+ "festivals": [
+  {
+   "date": "9月16日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

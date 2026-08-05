@@ -1,0 +1,21 @@
+{
+ "id": "tosho-5309",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/5309",
+ "name": "十三社神社",
+ "zip": "100-0402",
+ "address": "新島村本村2-6-13",
+ "addressParts": [
+  "新島村",
+  "本村2-6-13"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "東海汽船「新島港」 車10分",
+ "festivals": [
+  {
+   "date": "12月8日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: oita-010-summer-ar1044e188686
+name: 下旦祇園祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大分県
+  city: 玖珠郡九重町
+  ward: null
+venue:
+  name: 八鹿酒造横駐車場
+  address: 玖珠郡九重町右田3364
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e188686/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

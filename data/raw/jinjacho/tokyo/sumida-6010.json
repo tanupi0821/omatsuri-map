@@ -1,0 +1,21 @@
+{
+ "id": "sumida-6010",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/6010",
+ "name": "秋葉神社",
+ "zip": "131-0033",
+ "address": "墨田区向島4-9-13",
+ "addressParts": [
+  "墨田区",
+  "向島4-9-13"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "都バス・京成バス「向島五丁目」 1分",
+ "festivals": [
+  {
+   "date": "11月18日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

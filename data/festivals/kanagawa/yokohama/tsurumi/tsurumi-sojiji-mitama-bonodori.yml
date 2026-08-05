@@ -1,0 +1,35 @@
+id: tsurumi-sojiji-mitama-bonodori
+name: 大本山總持寺 み霊祭り 納涼盆踊り大会（第79回）
+kind: 盆踊り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 鶴見区
+venue:
+  name: 總持寺 大駐車場
+  address: null
+  lat: null
+  lng: null
+station: 鶴見
+organizer: 大本山總持寺三松会
+tags:
+  - 万灯供養
+description: null
+links:
+  - https://www.sojiji.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 17:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://tsurumi-watchers.com/2026-mitama/
+    source_name: つるみウォッチャーズ
+    checked_at: 2026-08-02
+    note: 第79回。万灯供養は7/17・18の17:00〜20:00（向唐門付近）、法要は7/18 17:00〜。横浜大空襲と鶴見事故の慰霊が起こり
+    source_type: media
+stalls: yes

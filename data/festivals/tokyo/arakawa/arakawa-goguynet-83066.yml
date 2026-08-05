@@ -1,0 +1,30 @@
+id: arakawa-goguynet-83066
+name: 諏方神社納涼踊り大会
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 諏方神社境内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/07/15/nouryouodoritaikai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

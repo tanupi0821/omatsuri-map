@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5964",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5964",
+ "name": "大宮八幡宮",
+ "zip": "168-8570",
+ "address": "杉並区大宮2-3-1",
+ "addressParts": [
+  "杉並区",
+  "大宮2-3-1"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "京王井の頭線「西永福駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

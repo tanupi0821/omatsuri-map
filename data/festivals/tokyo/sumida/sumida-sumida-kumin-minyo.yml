@@ -1,0 +1,34 @@
+id: sumida-sumida-kumin-minyo
+name: 墨田区民納涼民踊大会
+kind: 盆踊り
+scale: 区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 東京スカイツリータウン ソラマチひろば
+  address: null
+  lat: null
+  lng: null
+station: とうきょうスカイツリー
+organizer: 墨田区
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e316363/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+    start_time: 18:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sumida-media.tokyo.jp/archives/1023
+    source_name: すみだデスク
+    source_type: media
+    checked_at: 2026-08-03

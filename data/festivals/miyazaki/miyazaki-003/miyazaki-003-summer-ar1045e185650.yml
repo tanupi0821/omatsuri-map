@@ -1,0 +1,39 @@
+id: miyazaki-003-summer-ar1045e185650
+name: 都城六月灯 おかげ祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 宮崎県
+  city: 都城市
+  ward: null
+venue:
+  name: 神柱宮
+  address: 都城市前田町1417-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-08
+      - 2026-07-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1045e185650/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/8/85/2007okagematsuri_honmatsuri1.JPG
+    width: 1000
+    height: 666
+    credit: おかげ祭り振興会
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:2007okagematsuri_honmatsuri1.JPG

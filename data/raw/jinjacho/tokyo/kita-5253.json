@@ -1,0 +1,21 @@
+{
+ "id": "kita-5253",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5253",
+ "name": "七社神社",
+ "zip": "114-0024",
+ "address": "北区西ヶ原2-11-1",
+ "addressParts": [
+  "北区",
+  "西ヶ原2-11-1"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "東京メトロ南北線「西ヶ原駅」 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月秋分の日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

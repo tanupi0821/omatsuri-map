@@ -1,0 +1,46 @@
+id: hokkaido-002-summer-ar0101e74357
+name: 第60回 おたる潮まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 小樽市
+  ward: null
+venue:
+  name: 小樽港第3号ふ頭基部及び市内中心部
+  address: 小樽市港町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74357/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png
+    width: 1000
+    height: 750
+    credit: Psjk2106
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Otaru_Ushio_Matsuri_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Main_Venue.png
+    width: 1000
+    height: 750
+    credit: Psjk2106
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Main_Venue.png

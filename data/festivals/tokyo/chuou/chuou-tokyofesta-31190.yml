@@ -1,0 +1,29 @@
+id: chuou-tokyofesta-31190
+name: 大銀座盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 中央通り1丁目～8丁目・各商業施設・各企業及び各商店
+  address: null
+  lat: null
+  lng: null
+organizer: 一般社団法人銀座通連合会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31190/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

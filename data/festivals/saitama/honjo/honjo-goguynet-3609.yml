@@ -1,0 +1,31 @@
+id: honjo-goguynet-3609
+name: 本庄祇園まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 本庄市
+  ward: null
+venue:
+  name: 本庄市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukaya-honjo.goguynet.jp/2026/07/02/matsuri-3/
+    source_name: 号外NET 深谷市・本庄市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: edogawa-goguynet-58398
+name: くろねこルドルフの町の盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 江戸川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://edogawa.goguynet.jp/2026/04/25/rudorufu-bonodori/
+    source_name: 号外NET 江戸川区
+    source_type: media
+    checked_at: 2026-08-04

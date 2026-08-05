@@ -1,0 +1,21 @@
+{
+ "id": "minato-5157",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/5157",
+ "name": "十番稲荷神社",
+ "zip": "106-0045",
+ "address": "港区麻布十番1-4-6",
+ "addressParts": [
+  "港区",
+  "麻布十番1-4-6"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "【地下鉄】 地下鉄南北線「麻布十番駅」4番出口 徒歩5分 地下鉄大江戸線「麻布十番駅」7番出口 徒歩0分 【バス】 都バス（渋谷～新橋）「麻布十番駅」バス停 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月16日／17日（両日に近い土・日曜日）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

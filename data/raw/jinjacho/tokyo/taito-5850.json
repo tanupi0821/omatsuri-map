@@ -1,0 +1,21 @@
+{
+ "id": "taito-5850",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5850",
+ "name": "宝珠稲荷神社",
+ "zip": "111-0022",
+ "address": "台東区清川2-15-1",
+ "addressParts": [
+  "台東区",
+  "清川2-15-1"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "都バス「清川二丁目」 5分",
+ "festivals": [
+  {
+   "date": "2月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

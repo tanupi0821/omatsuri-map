@@ -1,0 +1,31 @@
+id: kyoto-005-summer-ar0726e315376
+name: 本宮祭(もとみやさい)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 京都府
+  city: 京都市伏見区
+  ward: null
+venue:
+  name: 伏見稲荷大社
+  address: 京都市伏見区深草薮之内町68
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0726e315376/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

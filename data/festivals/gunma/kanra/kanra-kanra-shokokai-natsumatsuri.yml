@@ -1,0 +1,30 @@
+id: kanra-kanra-shokokai-natsumatsuri
+name: 甘楽町商工会 夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 甘楽町
+  ward: null
+venue:
+  name: 甘楽ふれあいの丘
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0310/sg0999/yatai/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: yes

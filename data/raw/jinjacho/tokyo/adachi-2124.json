@@ -1,0 +1,21 @@
+{
+ "id": "adachi-2124",
+ "url": "http://www.tokyo-jinjacho.or.jp/adachi/2124",
+ "name": "千住本氷川神社",
+ "zip": "120-0034",
+ "address": "足立区千住3-22",
+ "addressParts": [
+  "足立区",
+  "千住3-22"
+ ],
+ "city": "足立区",
+ "citySlugHint": "adachi",
+ "station": "JR・地下鉄日比谷線・千代田線「北千住駅」西口 5分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

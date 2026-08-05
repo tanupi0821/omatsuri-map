@@ -1,0 +1,21 @@
+{
+ "id": "ota-5395",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5395",
+ "name": "千束八幡神社",
+ "zip": "145-0063",
+ "address": "大田区南千束2-23-10",
+ "addressParts": [
+  "大田区",
+  "南千束2-23-10"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「洗足池駅」 6分",
+ "festivals": [
+  {
+   "date": "9月6日に近い土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

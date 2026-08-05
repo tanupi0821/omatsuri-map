@@ -1,0 +1,30 @@
+id: izumi-ryokuen-rengo-natsumatsuri
+name: 緑園連合 夏祭り大会
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 泉区
+venue:
+  name: 緑園地区
+  address: null
+  lat: null
+  lng: null
+organizer: 緑園連合自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/izumi-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    note: 2025年の実績。2026年の日程は未発表
+    source_type: aggregator
+stalls: unknown

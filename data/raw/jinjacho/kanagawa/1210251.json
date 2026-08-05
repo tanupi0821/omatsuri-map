@@ -1,0 +1,34 @@
+{
+ "id": "1210251",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210251-000/",
+ "name": "五郎神社",
+ "zip": "259-0313",
+ "address": "足柄下郡 湯河原町 鍛治屋724-2",
+ "addressParts": [
+  "足柄下郡",
+  "湯河原町",
+  "鍛治屋724-2"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１１日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "4月中旬土・日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

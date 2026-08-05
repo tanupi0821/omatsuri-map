@@ -1,0 +1,34 @@
+id: ebina-ebina-shimin-matsuri
+name: えびな市民まつり
+kind: 市民祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 海老名市
+  ward: null
+venue:
+  name: 海老名運動公園
+  address: null
+  lat: null
+  lng: null
+station: 海老名
+organizer: null
+tags:
+  - 花火
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0314e00451/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-15
+    start_time: 10:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/ebina-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: フィナーレの花火は17:30〜18:00
+stalls: yes

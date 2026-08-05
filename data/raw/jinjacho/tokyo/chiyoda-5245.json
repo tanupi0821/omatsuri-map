@@ -1,0 +1,21 @@
+{
+ "id": "chiyoda-5245",
+ "url": "http://www.tokyo-jinjacho.or.jp/chiyoda/5245",
+ "name": "佐竹稲荷神社",
+ "zip": "101-0047",
+ "address": "千代田区内神田3-10-1",
+ "addressParts": [
+  "千代田区",
+  "内神田3-10-1"
+ ],
+ "city": "千代田区",
+ "citySlugHint": "chiyoda",
+ "station": null,
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+id: taito-tokyofesta-31845
+name: うえの夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 上野恩賜公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 台東区
+    url: https://taito.goguynet.jp/2026/07/23/jazz/
+  - title: 屋台が出ると出典に記載
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4789/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31845/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

@@ -1,0 +1,18 @@
+{
+ "id": "sumida-2957",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/2957",
+ "name": "日枝神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": null,
+ "festivals": [
+  {
+   "date": "6月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

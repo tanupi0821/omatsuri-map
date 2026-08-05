@@ -1,0 +1,36 @@
+id: koto-local-tomioka-hachimangu
+name: 富岡八幡宮 例祭（深川八幡祭り）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 富岡八幡宮
+  address: null
+  lat: null
+  lng: null
+organizer: 富岡八幡宮
+shrine: 富岡八幡宮
+tags: []
+description: null
+links:
+  - title: 号外NET 江東区
+    url: https://koto.goguynet.jp/2026/06/20/fukagawamatsuri2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes

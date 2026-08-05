@@ -1,0 +1,269 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITE_NAME } from '../../lib/site.js';
+import { loadFestivals, latestOccurrence, formatDates, formatTime, STATUS_LABEL, staleDays } from '../../lib/data.js';
+
+export function getStaticPaths() {
+  const all = loadFestivals();
+  const today = new Date().toISOString().slice(0, 10);
+
+  return all.map((f) => {
+    // 同じ市区町村の他の祭り。1 件見た人は「近所で他に何かないか」を知りたい。
+    // これが無いと詳細ページが行き止まりになる
+    const nearby = all
+      .filter((x) => x.id !== f.id
+        && x._prefSlug === f._prefSlug && x._citySlug === f._citySlug
+        && (x.area.ward ?? null) === (f.area.ward ?? null))
+      .map((x) => {
+        const o = [...(x.occurrences ?? [])].sort((a, b) => b.year - a.year)[0];
+        return { x, next: (o?.dates ?? []).find((d) => d >= today) ?? null, o };
+      })
+      // これから開催されるものを先に、日付の近い順
+      .sort((a, b) => (a.next ?? '9999').localeCompare(b.next ?? '9999'))
+      .slice(0, 8);
+
+    return { params: { id: f.id }, props: { f, nearby } };
+  });
+}
+
+// 出典の格を見えるようにする。まとめサイト由来のものを一次情報に置き換えていく作業の進捗が、
+// そのままユーザーへの信頼性の表示になる。
+const SOURCE_TIER = {
+  official: '主催者の公式発表',
+  gov: '行政の発表',
+  media: '地域メディア',
+  aggregator: 'まとめサイト',
+};
+
+const { f, nearby } = Astro.props;
+const occ = latestOccurrence(f);
+const past = [...(f.occurrences ?? [])].sort((a, b) => b.year - a.year).slice(1);
+const thisYear = new Date().getFullYear();
+
+const isCurrentYear = occ?.year === thisYear;
+const statusLabel = STATUS_LABEL[occ?.status] ?? null;
+const stale = staleDays(occ);
+
+// 住所が取れていない祭りが多いので、その場合は市区名で補って地図を引く
+// 区が無い市では ward が null。そのまま繋ぐと「茂原市null」という地図検索になる
+const mapQuery = f.venue.address ?? `${f.area.city}${f.area.ward ?? ''} ${f.venue.name}`;
+const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapQuery)}`;
+
+// Google のイベント検索に載せるための構造化データ。
+// 日程が確定していない回は出さない（誤情報を配信しないため）。
+const jsonld =
+  occ?.dates?.length && occ.status !== 'unconfirmed'
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Event',
+        name: f.name,
+        startDate: occ.start_time ? `${occ.dates[0]}T${occ.start_time}:00+09:00` : occ.dates[0],
+        endDate: occ.end_time
+          ? `${occ.dates.at(-1)}T${occ.end_time}:00+09:00`
+          : occ.dates.at(-1),
+        eventStatus:
+          occ.status === 'cancelled'
+            ? 'https://schema.org/EventCancelled'
+            : occ.status === 'postponed'
+              ? 'https://schema.org/EventPostponed'
+              : 'https://schema.org/EventScheduled',
+        eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+        location: {
+          '@type': 'Place',
+          name: f.venue.name,
+          address: {
+            '@type': 'PostalAddress',
+            addressCountry: 'JP',
+            addressRegion: f.area.pref,
+            addressLocality: `${f.area.city}${f.area.ward ?? ''}`,
+            streetAddress: f.venue.address ?? f.venue.name,
+          },
+        },
+        ...(f.organizer ? { organizer: { '@type': 'Organization', name: f.organizer } } : {}),
+        isAccessibleForFree: true,
+      }
+    : null;
+
+const title = `${f.name}｜${occ?.year}年の日程`;
+const desc = `${f.area.city}${f.area.ward ?? ''}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.venue.name}にて。主催は${f.organizer ?? '不明'}。`;
+---
+
+<Base title={title} description={desc} jsonld={jsonld} image={f.photos?.[0]?.url}>
+  <nav class="crumb">
+    <a href="/">{SITE_NAME}</a> ／
+    <a href={`/a/${f._prefSlug}/`}>{f.area.pref}</a> ／
+    <a href={`/a/${f._prefSlug}/${f._citySlug}/`}>{f.area.city}</a>
+    {f.area.ward && <> {f.area.ward}</>} ／ {f.kind}
+  </nav>
+  <h1>{f.name}</h1>
+
+  {!isCurrentYear && (
+    <p class="notice">
+      {thisYear}年の開催情報はまだ確認できていません。以下は <strong>{occ?.year}年</strong> の実績です。
+      例年おなじ時期に開催されることが多いですが、日程は毎年変わります。
+    </p>
+  )}
+  {statusLabel && <p class="notice">この開催回は「{statusLabel}」の扱いです。</p>}
+
+  {f.photos?.length > 0 && (
+    <div class="photos">
+      {f.photos.map((ph) => (
+        <figure>
+          <img src={ph.url} alt={`${f.name}の写真`} loading="lazy" width={ph.width} height={ph.height} />
+          <figcaption>
+            撮影: {ph.credit} ／ <a href={ph.license_url ?? ph.source} target="_blank" rel="noopener">{ph.license}</a>
+            {' '}<a href={ph.source} target="_blank" rel="noopener">出典</a>
+          </figcaption>
+        </figure>
+      ))}
+    </div>
+  )}
+
+  <table class="facts">
+    <tbody>
+      <tr><th>日程</th><td>{formatDates(occ)}{occ?.year && <span class="y">（{occ.year}年）</span>}</td></tr>
+      {formatTime(occ) && <tr><th>時間</th><td>{formatTime(occ)}</td></tr>}
+      <tr>
+        <th>会場</th>
+        <td>
+          {f.venue.name}
+          {f.venue.address && <><br /><span class="addr">{f.venue.address}</span></>}
+          <br /><a href={mapUrl} target="_blank" rel="noopener">地図で見る</a>
+        </td>
+      </tr>
+      {f.recurrence && (
+        <tr>
+          <th>例祭日</th>
+          <td>
+            毎年 {f.recurrence}
+            {f.recurrence_source && (
+              <> <a href={f.recurrence_source} target="_blank" rel="noopener">出典</a></>
+            )}
+          </td>
+        </tr>
+      )}
+      <tr>
+        <th>屋台・露店</th>
+        <td>
+          {f.stalls === 'yes' ? <span class="badge stalls">出ます</span>
+            : f.stalls === 'no' ? '出ません（神事のみ）'
+              : <span class="unknown">未確認。出典元や神社にご確認ください</span>}
+        </td>
+      </tr>
+      {f.station && <tr><th>最寄駅</th><td>{f.station}</td></tr>}
+      {f.organizer && <tr><th>主催</th><td>{f.organizer}</td></tr>}
+      {f.shrine && <tr><th>神社</th><td>{f.shrine}</td></tr>}
+      <tr><th>規模</th><td>{f.scale === '市' ? '市町村全体' : f.scale}</td></tr>
+      {f.tags?.length > 0 && <tr><th>特徴</th><td>{f.tags.join('・')}</td></tr>}
+      {occ?.note && <tr><th>備考</th><td>{occ.note}</td></tr>}
+    </tbody>
+  </table>
+
+  {f.description && <p>{f.description}</p>}
+
+  <h2>この情報について</h2>
+  <ul class="source">
+    <li>
+      出典：<a href={occ?.source_url} target="_blank" rel="noopener">{occ?.source_name ?? occ?.source_url}</a>
+      {SOURCE_TIER[occ?.source_type] && (
+        <span class={`badge ${occ.source_type === 'official' ? '' : 'muted'}`}>
+          {SOURCE_TIER[occ.source_type]}
+        </span>
+      )}
+    </li>
+    <li>最終確認：{occ?.checked_at}{stale > 180 && <span class="badge warn">確認から{stale}日</span>}</li>
+  </ul>
+  {(occ?.source_type === 'media' || occ?.source_type === 'aggregator') && (
+    <p class="disclaimer">
+      これは主催者の発表そのものではなく、報道やまとめ記事から拾った情報です。
+      主催者の一次情報が見つかり次第そちらに差し替えます。
+    </p>
+  )}
+  <p class="disclaimer">
+    日時・場所は出典元の発表にもとづいて掲載しています。変更や中止の可能性があるため、
+    おでかけ前に主催者・出典元の最新情報をご確認ください。誤りに気づいた方はご連絡いただけると助かります。
+  </p>
+
+  {f.links?.length > 0 && (
+    <>
+      <h2>関連リンク</h2>
+      <ul class="source">
+        {/* 素の URL 文字列と {title,url} の 2 通りが混ざっている */}
+        {f.links.map((l) => {
+          const url = typeof l === 'string' ? l : l.url;
+          const label = typeof l === 'string' ? l : (l.title ?? l.url);
+          return <li><a href={url} target="_blank" rel="noopener">{label}</a></li>;
+        })}
+      </ul>
+    </>
+  )}
+
+  {past.length > 0 && (
+    <>
+      <h2>過去の開催</h2>
+      <ul class="source">
+        {past.map((o) => <li>{o.year}年：{formatDates(o)}</li>)}
+      </ul>
+    </>
+  )}
+
+  {nearby.length > 0 && (
+    <>
+      <h2>{f.area.ward ?? f.area.city}の他の祭り</h2>
+      <ul class="nearby">
+        {nearby.map(({ x, next, o }) => (
+          <li>
+            <a href={`/f/${x.id}`}>
+              <span class="n">{x.name}</span>
+              <span class="d">{formatDates(o) || '日程未確認'}</span>
+            </a>
+            {x.stalls === 'yes' && <span class="badge stalls">屋台あり</span>}
+            {!next && <span class="past">終了</span>}
+          </li>
+        ))}
+      </ul>
+      <p><a href={`/a/${f._prefSlug}/${f._citySlug}/`}>{f.area.city}の祭りをすべて見る →</a></p>
+    </>
+  )}
+
+  <p style="margin-top:32px"><a href={`/a/${f._prefSlug}/${f._citySlug}/`}>← {f.area.city}の一覧にもどる</a></p>
+
+  <style>
+    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: 4px; }
+    .notice {
+      background: var(--warn-bg); color: var(--warn-fg);
+      padding: 10px 14px; border-radius: 10px; font-size: 14px;
+    }
+    .facts { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 15px; }
+    .facts th {
+      text-align: left; width: 5.5em; vertical-align: top;
+      padding: 10px 8px 10px 0; color: var(--muted); font-weight: 500; font-size: 14px;
+    }
+    .facts td { padding: 10px 0; border-bottom: 1px solid var(--line); }
+    .facts tr:first-child th, .facts tr:first-child td { border-top: 1px solid var(--line); }
+    .facts .addr { font-size: 13px; color: var(--muted); }
+    .facts .y { font-size: 13px; color: var(--muted); }
+    .facts .unknown { color: var(--muted); font-size: 14px; }
+    .photos { display: grid; gap: 12px; margin: 16px 0; }
+    .photos figure { margin: 0; }
+    .photos img {
+      width: 100%; height: auto; border-radius: 12px; display: block;
+      background: var(--card);
+    }
+    .photos figcaption { font-size: 12px; color: var(--muted); margin-top: 4px; }
+    .nearby { list-style: none; padding: 0; margin: 8px 0 12px; font-size: 14px; }
+    .nearby li {
+      display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+      border-bottom: 1px solid var(--line); padding: 8px 2px;
+    }
+    .nearby a { display: flex; gap: 10px; flex: 1; min-width: 0; align-items: baseline; text-decoration: none; color: inherit; }
+    .nearby a:hover .n { text-decoration: underline; }
+    .nearby .n { flex: 1; min-width: 0; }
+    .nearby .d { color: var(--muted); font-size: 13px; white-space: nowrap; }
+    .nearby .past { color: var(--muted); font-size: 12px; }
+    .source { font-size: 14px; padding-left: 1.2em; }
+    .source li { margin-bottom: 4px; word-break: break-all; }
+    .disclaimer { font-size: 13px; color: var(--muted); }
+  </style>
+</Base>

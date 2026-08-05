@@ -1,0 +1,39 @@
+{
+ "id": "1204014",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204014-000/",
+ "name": "春日神社",
+ "zip": "233-0051",
+ "address": "横浜市 港南区 日野中央2-9-3",
+ "addressParts": [
+  "横浜市",
+  "港南区",
+  "日野中央2-9-3"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月２３日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月３１日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "秋季例祭（しゅうきれいさい）",
+   "alias": null
+  }
+ ]
+}

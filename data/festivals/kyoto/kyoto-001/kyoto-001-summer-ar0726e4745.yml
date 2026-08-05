@@ -1,0 +1,29 @@
+id: kyoto-001-summer-ar0726e4745
+name: 佐伯燈籠祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 京都府
+  city: 亀岡市
+  ward: null
+venue:
+  name: 稗田野神社
+  address: 亀岡市稗田野町佐伯垣内亦1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0726e4745/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

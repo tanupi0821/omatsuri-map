@@ -1,0 +1,30 @@
+id: ageo-chokai-haraichi_7-20260712-0
+name: 原市地区第七区 七区夏祭り開催のお知らせ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 上尾市
+  ward: null
+venue:
+  name: 原市地区第七区 地域内
+  address: null
+  lat: null
+  lng: null
+organizer: 原市地区第七区
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/haraichi_7/
+    source_name: 原市地区第七区（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 町内会・自治会が自身のホームページで告知したもの。会場の詳細は出典元の告知を参照
+stalls: unknown

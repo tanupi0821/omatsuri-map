@@ -1,0 +1,31 @@
+id: shizuoka-025-summer-ar0622e309143
+name: 第91回 源氏あやめ祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 静岡県
+  city: 伊豆の国市
+  ward: null
+venue:
+  name: 古奈地区、長岡地区各所
+  address: 伊豆の国市長岡1343(あやめ御前広場)
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e309143/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5445",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5445",
+ "name": "水稲荷神社",
+ "zip": "169-0051",
+ "address": "新宿区西早稲田3-5-43",
+ "addressParts": [
+  "新宿区",
+  "西早稲田3-5-43"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR 「高田馬場駅」より学生バス「西早稲田」下車 徒歩2分 地下鉄東西線「早稲田駅」下車 徒歩5分 都バス「西早稲田」バス停下車（早稲田～新宿西口行） 徒歩2分 都電荒川線「早稲田」下車 徒歩5分 「面影橋」下車 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月9日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

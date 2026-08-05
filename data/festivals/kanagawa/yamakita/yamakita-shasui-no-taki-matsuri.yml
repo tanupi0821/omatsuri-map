@@ -1,0 +1,30 @@
+id: yamakita-shasui-no-taki-matsuri
+name: 洒水の滝まつり2026（第47回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 山北町
+  ward: null
+venue:
+  name: 洒水の滝周辺
+  address: null
+  lat: null
+  lng: null
+station: 山北
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yamakita-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: unknown

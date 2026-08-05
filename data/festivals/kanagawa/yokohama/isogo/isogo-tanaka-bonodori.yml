@@ -1,0 +1,29 @@
+id: isogo-tanaka-bonodori
+name: 田中町内会 夏の盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 左右手公園
+  address: null
+  lat: null
+  lng: null
+organizer: 田中町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 18:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

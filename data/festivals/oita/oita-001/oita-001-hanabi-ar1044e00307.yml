@@ -1,0 +1,30 @@
+id: oita-001-hanabi-ar1044e00307
+name: 鶴市花傘鉾祭花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 大分県
+  city: 中津市
+  ward: null
+venue:
+  name: 三口山国川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1044e00307/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

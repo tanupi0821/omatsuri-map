@@ -1,0 +1,24 @@
+{
+ "id": "1202017",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202017-000/",
+ "name": "神明社",
+ "zip": "230-0076",
+ "address": "横浜市 鶴見区 馬場6ｰ17ｰ20",
+ "addressParts": [
+  "横浜市",
+  "鶴見区",
+  "馬場6ｰ17ｰ20"
+ ],
+ "festivals": [
+  {
+   "date": "５月２０日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月第１土曜日，又は９月",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

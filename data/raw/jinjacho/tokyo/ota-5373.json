@@ -1,0 +1,21 @@
+{
+ "id": "ota-5373",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5373",
+ "name": "王森稲荷神社",
+ "zip": "143-0012",
+ "address": "大田区大森東1-1-11",
+ "addressParts": [
+  "大田区",
+  "大森東1-1-11"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行「平和島駅」 4分",
+ "festivals": [
+  {
+   "date": "初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

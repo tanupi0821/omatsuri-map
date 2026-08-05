@@ -1,0 +1,21 @@
+{
+ "id": "minato-3035",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3035",
+ "name": "春日神社",
+ "zip": "108-0073",
+ "address": "港区三田2-13-9",
+ "addressParts": [
+  "港区",
+  "三田2-13-9"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "JR「田町駅」 徒歩10分 都営浅草線・三田線「三田駅」 徒歩10分 都営大江戸線「赤羽橋駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "9月9日（現9日に近い土曜・日曜）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

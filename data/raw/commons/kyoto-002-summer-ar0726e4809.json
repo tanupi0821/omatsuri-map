@@ -1,0 +1,27 @@
+{
+ "id": "kyoto-002-summer-ar0726e4809",
+ "name": "祇園祭",
+ "term": "祇園祭",
+ "tokens": {
+  "strong": [
+   "祇園祭"
+  ],
+  "weak": [],
+  "place": [
+   "京都市東山区",
+   "京都市東山"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gion_Matsuri_2017-5.jpg/1280px-Gion_Matsuri_2017-5.jpg",
+   "width": 1000,
+   "height": 664,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg",
+   "title": "File:Gion Matsuri 2017-5.jpg"
+  }
+ ]
+}

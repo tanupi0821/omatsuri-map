@@ -1,0 +1,29 @@
+id: taito-goguynet-78150
+name: 第4回奥浅草盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 隅田公園内山谷堀広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://taito.goguynet.jp/2026/06/13/bonodori-4/
+    source_name: 号外NET 台東区
+    source_type: media
+    checked_at: 2026-08-04

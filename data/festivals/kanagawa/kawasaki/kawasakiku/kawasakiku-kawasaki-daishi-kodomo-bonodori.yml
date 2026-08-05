@@ -1,0 +1,33 @@
+id: kawasakiku-kawasaki-daishi-kodomo-bonodori
+name: 川崎大師 子ども盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 川崎区
+venue:
+  name: 川崎大師 薬師殿やすらぎ広場
+  address: null
+  lat: null
+  lng: null
+organizer: 川崎大師 日曜教苑
+tags:
+  - 子ども向け
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-20
+      - 2026-08-21
+      - 2026-08-22
+    start_time: 19:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.kawasakidaishi.com/event/aug/
+    source_name: 川崎大師 公式
+    checked_at: 2026-08-02
+    note: どなたでも参加できる
+    source_type: official
+stalls: yes

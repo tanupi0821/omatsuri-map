@@ -1,0 +1,21 @@
+{
+ "id": "kita-3145",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/3145",
+ "name": "紀州神社",
+ "zip": "114-0003",
+ "address": "北区豊島7-15-1",
+ "addressParts": [
+  "北区",
+  "豊島7-15-1"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR・地下鉄南北線「王子駅」よりバスハートアイランド行「豊島7丁目南」 0分",
+ "festivals": [
+  {
+   "date": "10月第3土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

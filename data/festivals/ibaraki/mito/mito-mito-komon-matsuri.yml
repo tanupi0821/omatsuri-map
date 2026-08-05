@@ -1,0 +1,52 @@
+id: mito-mito-komon-matsuri
+name: 水戸黄門まつり（第66回）
+kind: 市民祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 国道50号（水戸駅北口〜大工町交差点）・千波湖
+  address: null
+  lat: null
+  lng: null
+station: 水戸
+organizer: null
+stalls: yes
+tags:
+  - 花火
+  - パレード
+description: null
+links:
+  - https://mitokoumon.com/koumon/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0308e72432/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 11:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 8/1は11:00〜21:00、8/2は11:00〜20:00。花火大会の会場は千波湖
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/IBAKO1988_MitokomonFest-A.jpeg/1280px-IBAKO1988_MitokomonFest-A.jpeg
+    width: 1000
+    height: 714
+    credit: ja:User:江戸前鰻
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:IBAKO1988_MitokomonFest-A.jpeg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IBAKO1988_MitokomonFest-B.jpeg/1280px-IBAKO1988_MitokomonFest-B.jpeg
+    width: 1000
+    height: 714
+    credit: ja:User:江戸前鰻
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:IBAKO1988_MitokomonFest-B.jpeg

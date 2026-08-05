@@ -1,0 +1,30 @@
+id: nagano-011-hanabi-ar0420e00685
+name: 上田商工会議所創立130周年記念　第39回 信州上田大花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 長野県
+  city: 上田市
+  ward: null
+venue:
+  name: 千曲川河川敷(常田新橋下流(上田市常田1丁目))
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0420e00685/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

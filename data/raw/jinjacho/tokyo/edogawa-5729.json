@@ -1,0 +1,21 @@
+{
+ "id": "edogawa-5729",
+ "url": "http://www.tokyo-jinjacho.or.jp/edogawa/5729",
+ "name": "小岩神社",
+ "zip": "133-0052",
+ "address": "江戸川区東小岩6-15-15",
+ "addressParts": [
+  "江戸川区",
+  "東小岩6-15-15"
+ ],
+ "city": "江戸川区",
+ "citySlugHint": "edogawa",
+ "station": "JR「小岩駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "8月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

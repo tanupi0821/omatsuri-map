@@ -1,0 +1,28 @@
+{
+ "id": "1207059",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207059-000/",
+ "name": "五社神社",
+ "zip": "252-1123",
+ "address": "綾瀬市 早川1603",
+ "addressParts": [
+  "綾瀬市",
+  "早川1603"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月１日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新穀感謝祭（しんこくかんしゃさい）",
+   "alias": null
+  }
+ ]
+}

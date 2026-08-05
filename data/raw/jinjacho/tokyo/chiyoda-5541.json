@@ -1,0 +1,21 @@
+{
+ "id": "chiyoda-5541",
+ "url": "http://www.tokyo-jinjacho.or.jp/chiyoda/5541",
+ "name": "平河天満宮",
+ "zip": "102-0093",
+ "address": "千代田区平河町1-7-5",
+ "addressParts": [
+  "千代田区平河町",
+  "1-7-5"
+ ],
+ "city": "千代田区",
+ "citySlugHint": "chiyoda",
+ "station": "東京メトロ半蔵門線「半蔵門駅」 徒歩1分 東京メトロ有楽町線「麹町駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "4月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

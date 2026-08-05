@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5257",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5257",
+ "name": "雉子神社",
+ "zip": "141-0022",
+ "address": "品川区東五反田1-2-33",
+ "addressParts": [
+  "品川区",
+  "東五反田1-2-33"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "JR・地下鉄浅草線「五反田駅」 徒歩5分 都営浅草線「高輪台駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "10月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: oita-007-hanabi-ar1044e501871
+name: 天空 de HANABI
+kind: 花火
+scale: 市
+area:
+  pref: 大分県
+  city: 日田市
+  ward: null
+venue:
+  name: オートポリスインターナショナルレーシングコース
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1044e501871/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

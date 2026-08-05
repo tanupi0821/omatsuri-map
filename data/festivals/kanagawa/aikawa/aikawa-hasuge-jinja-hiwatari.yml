@@ -1,0 +1,34 @@
+id: aikawa-hasuge-jinja-hiwatari
+name: 八菅神社 例祭（火渡り）
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 愛川町
+  ward: null
+venue:
+  name: 八菅神社
+  address: null
+  lat: null
+  lng: null
+recurrence: 3月28日
+recurrence_source: https://www.town.aikawa.kanagawa.jp/soshiki/kankyou_keizai/syoko/kanko/event/17826.html
+organizer: 八菅神社
+shrine: 八菅神社
+tags:
+  - 火渡り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-28
+    start_time: 12:00
+    end_time: 14:00
+    status: confirmed
+    source_url: https://www.town.aikawa.kanagawa.jp/soshiki/kankyou_keizai/syoko/kanko/event/17826.html
+    source_name: 愛川町 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 1年の無病息災を祈る荒行「火渡り」。一般も参加できる。奉納剣道は10:30頃から。山岳信仰の霊場だった八菅山の神社
+stalls: unknown

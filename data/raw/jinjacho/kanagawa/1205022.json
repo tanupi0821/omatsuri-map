@@ -1,0 +1,23 @@
+{
+ "id": "1205022",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205022-000/",
+ "name": "稲荷神社",
+ "zip": "247-0051",
+ "address": "鎌倉市 岩瀬1399",
+ "addressParts": [
+  "鎌倉市",
+  "岩瀬1399"
+ ],
+ "festivals": [
+  {
+   "date": "1月15日",
+   "name": "左義長神事（さぎちょうしんじ）",
+   "alias": null
+  },
+  {
+   "date": "2月1日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  }
+ ]
+}

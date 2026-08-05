@@ -1,0 +1,29 @@
+id: asao-mizukigai-noryomatsuri
+name: みずき街納涼まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 百合ヶ丘みずき街集会所
+  address: null
+  lat: null
+  lng: null
+organizer: 百合ヶ丘みずき街自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://note.com/kakio_ja/n/n1bd9616420fc
+    source_name: 柿生隠者（note）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

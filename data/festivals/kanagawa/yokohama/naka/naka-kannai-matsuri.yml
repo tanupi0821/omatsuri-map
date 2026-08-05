@@ -1,0 +1,36 @@
+id: naka-kannai-matsuri
+name: 関内まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 中区
+venue:
+  name: 馬車道商店街 周辺
+  address: null
+  lat: null
+  lng: null
+station: 関内
+organizer: 関内地区連合町内会
+shrine: 厳島神社
+tags:
+  - 神輿
+  - 縁日
+  - 子ども向け
+description: null
+links:
+  - https://www.kannai-matsuri.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 16:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://www.kannai-matsuri.jp/
+    source_name: 関内まつり 公式
+    checked_at: 2026-08-02
+    note: 縁日こども広場（りそな銀行前）16:30〜18:00、関内神輿巡行（馬車道商店街ほか）17:30〜18:30、タヒチアンダンスショー。主催は常盤町・住吉町・相生町・太田町・弁天通の各町内会など8団体
+    source_type: official
+stalls: yes

@@ -1,0 +1,23 @@
+{
+ "id": "9115",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9115/",
+ "name": "諏訪神社",
+ "zip": null,
+ "address": "深谷市血洗島117",
+ "addressParts": [
+  "深谷市",
+  "血洗島117"
+ ],
+ "festivals": [
+  {
+   "date": "4月10日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月17日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

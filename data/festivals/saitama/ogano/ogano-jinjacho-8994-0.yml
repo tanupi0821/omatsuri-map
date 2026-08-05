@@ -1,0 +1,33 @@
+id: ogano-jinjacho-8994-0
+name: 木魂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 小鹿野町
+  ward: null
+venue:
+  name: 木魂神社
+  address: 小鹿野町下小鹿野3301
+  lat: null
+  lng: null
+recurrence: 5月8日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8994/
+organizer: 木魂神社
+shrine: 木魂神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8994/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月8日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

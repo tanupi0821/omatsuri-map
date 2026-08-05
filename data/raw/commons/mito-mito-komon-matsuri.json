@@ -1,0 +1,30 @@
+{
+ "id": "mito-mito-komon-matsuri",
+ "name": "水戸黄門まつり（第66回）",
+ "term": "水戸黄門まつり",
+ "tokens": [
+  "水戸黄門まつり"
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/IBAKO1988_MitokomonFest-A.jpeg/1280px-IBAKO1988_MitokomonFest-A.jpeg",
+   "width": 1000,
+   "height": 714,
+   "credit": "ja:User:江戸前鰻",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IBAKO1988_MitokomonFest-A.jpeg",
+   "title": "File:IBAKO1988 MitokomonFest-A.jpeg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/IBAKO1988_MitokomonFest-B.jpeg/1280px-IBAKO1988_MitokomonFest-B.jpeg",
+   "width": 1000,
+   "height": 714,
+   "credit": "ja:User:江戸前鰻",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IBAKO1988_MitokomonFest-B.jpeg",
+   "title": "File:IBAKO1988 MitokomonFest-B.jpeg"
+  }
+ ]
+}

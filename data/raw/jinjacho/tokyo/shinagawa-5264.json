@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5264",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5264",
+ "name": "品川神社",
+ "zip": "140-0001",
+ "address": "品川区北品川3-7-15",
+ "addressParts": [
+  "品川区",
+  "北品川3-7-15"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "京浜急行「新馬場駅」（北口） 徒歩1分",
+ "festivals": [
+  {
+   "date": "6月7日に近い日曜日を入れた金・土・日の3日間",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

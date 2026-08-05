@@ -1,0 +1,21 @@
+{
+ "id": "taito-5189",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5189",
+ "name": "吉原神社",
+ "zip": "111-0031",
+ "address": "台東区千束3-20-2",
+ "addressParts": [
+  "台東区",
+  "千束3-20-2"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "東京メトロ日比谷線「三ノ輪駅」 徒歩15分 都バス「千束」「吉原大門」 徒歩5分",
+ "festivals": [
+  {
+   "date": "5月22日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

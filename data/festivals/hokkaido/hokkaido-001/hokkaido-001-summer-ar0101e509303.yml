@@ -1,0 +1,29 @@
+id: hokkaido-001-summer-ar0101e509303
+name: 第58回 北海ソーラン祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 余市郡余市町
+  ward: null
+venue:
+  name: JR余市駅横特設会場
+  address: 余市郡余市町黒川町5
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e509303/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

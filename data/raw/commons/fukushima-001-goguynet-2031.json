@@ -1,0 +1,38 @@
+{
+ "id": "fukushima-001-goguynet-2031",
+ "name": "第60回 萩姫まつり",
+ "term": "萩姫まつり",
+ "tokens": {
+  "strong": [
+   "第60回",
+   "萩姫まつり"
+  ],
+  "weak": [],
+  "place": [
+   "郡山市",
+   "郡山"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E8%88%9E.jpg/1280px-%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E8%88%9E.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Sugikats",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E8%88%9E.jpg",
+   "title": "File:磐梯熱海温泉 萩姫まつり 舞.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E7%8C%AE%E6%B9%AF%E7%A5%AD.jpg/1280px-%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E7%8C%AE%E6%B9%AF%E7%A5%AD.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Sugikats",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%A3%90%E6%A2%AF%E7%86%B1%E6%B5%B7%E6%B8%A9%E6%B3%89_%E8%90%A9%E5%A7%AB%E3%81%BE%E3%81%A4%E3%82%8A_%E7%8C%AE%E6%B9%AF%E7%A5%AD.jpg",
+   "title": "File:磐梯熱海温泉 萩姫まつり 献湯祭.jpg"
+  }
+ ]
+}

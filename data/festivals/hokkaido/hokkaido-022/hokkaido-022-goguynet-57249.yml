@@ -1,0 +1,30 @@
+id: hokkaido-022-goguynet-57249
+name: 糸井山神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 柏木町2丁目の豊陵公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+      - 2026-06-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.goguynet.jp/2026/06/09/matsuri-jinja/
+    source_name: 号外NET 苫小牧市
+    source_type: media
+    checked_at: 2026-08-04

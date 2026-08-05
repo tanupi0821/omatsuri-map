@@ -1,0 +1,29 @@
+id: katsushika-tokyofesta-30968
+name: 新小岩北口盆踊りフェスタ
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: JR新小岩駅北口駅前広場
+  address: null
+  lat: null
+  lng: null
+organizer: 新小岩北口盆踊りフェスタ実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/30968/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

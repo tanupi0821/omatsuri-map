@@ -1,0 +1,30 @@
+id: hadano-goguynet-67780
+name: 夏詣 七夕祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 秦野市
+  ward: null
+venue:
+  name: 秦野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hadano-isehara.goguynet.jp/2026/06/21/20260620_hadano/
+    source_name: 号外NET 秦野市・伊勢原市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: shiki-goguynet-58560
+name: 宿組八坂神社祭礼 2026
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 志木市
+  ward: null
+venue:
+  name: 天神社（志木市中宗岡1丁目付近）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niiza-shiki.goguynet.jp/2026/06/16/kanko-shiki-3/
+    source_name: 号外NET 新座市・志木市
+    source_type: media
+    checked_at: 2026-08-04

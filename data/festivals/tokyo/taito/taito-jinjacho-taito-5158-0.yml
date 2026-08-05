@@ -1,0 +1,34 @@
+id: taito-jinjacho-taito-5158-0
+name: 藏前神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 藏前神社
+  address: 台東区蔵前3-14-11
+  lat: null
+  lng: null
+station: 都営浅草線「蔵前駅」（A4） 徒歩1分 都営大江戸線「蔵前駅」（A6） 徒歩1分 都バス「蔵前駅前」 徒歩1分 都バス「蔵前二丁目」 徒歩2分
+recurrence: 6月第1土曜・日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/5158
+organizer: 藏前神社
+shrine: 藏前神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/5158
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月第1土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "ota-5371",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5371",
+ "name": "熊野神社",
+ "zip": "143-0023",
+ "address": "大田区山王3-43-11",
+ "addressParts": [
+  "大田区",
+  "山王3-43-11"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」山王口 10分",
+ "festivals": [
+  {
+   "date": "9月上旬",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

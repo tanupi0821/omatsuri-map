@@ -1,0 +1,30 @@
+id: tama-goguynet-52477
+name: 納涼 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 準備
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/03/shukugawarabonodori/
+    source_name: 号外NET 川崎市多摩区
+    source_type: media
+    checked_at: 2026-08-04

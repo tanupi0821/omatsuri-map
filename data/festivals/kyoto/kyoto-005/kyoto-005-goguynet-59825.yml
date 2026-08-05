@@ -1,0 +1,29 @@
+id: kyoto-005-goguynet-59825
+name: 伏見納涼盆踊り 2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京都市伏見区
+  ward: null
+venue:
+  name: 伏見港公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fushimi.goguynet.jp/2026/07/06/fushimibondance2026/
+    source_name: 号外NET 京都市伏見区
+    source_type: media
+    checked_at: 2026-08-04

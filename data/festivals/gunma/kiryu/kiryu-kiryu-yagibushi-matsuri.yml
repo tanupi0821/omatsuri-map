@@ -1,0 +1,52 @@
+id: kiryu-kiryu-yagibushi-matsuri
+name: 桐生八木節まつり（第63回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 桐生市
+  ward: null
+venue:
+  name: 桐生市内各所
+  address: null
+  lat: null
+  lng: null
+station: 桐生
+organizer: null
+tags:
+  - 八木節
+description: null
+links:
+  - http://www.kiryu-maturi.net/schedule.html
+  - https://summer.walkerplus.com/odekake/list/ar0310/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0310e314660/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.gunlabo.net/event/event.shtml?id=906
+    source_name: ぐんラボ！
+    source_type: media
+    checked_at: 2026-08-02
+stalls: yes
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A%2C_Kiryu_Honcho_Street_in_the_Festival_-_panoramio.jpg/1280px-%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A%2C_Kiryu_Honcho_Street_in_the_Festival_-_panoramio.jpg
+    width: 1000
+    height: 707
+    credit: xe zna
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E6%A1%90%E7%94%9F%E5%85%AB%E6%9C%A8%E7%AF%80%E3%81%BE%E3%81%A4%E3%82%8A,_Kiryu_Honcho_Street_in_the_Festival_-_panoramio.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kiryu_yagi_bushi_festival.jpg/1280px-Kiryu_yagi_bushi_festival.jpg
+    width: 1000
+    height: 1502
+    credit: DanceWithNyanko
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Kiryu_yagi_bushi_festival.jpg

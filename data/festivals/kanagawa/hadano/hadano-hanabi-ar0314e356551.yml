@@ -1,0 +1,45 @@
+id: hadano-hanabi-ar0314e356551
+name: 第79回 秦野たばこ祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 秦野市
+  ward: null
+venue:
+  name: 秦野市立本町小学校
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0314e356551/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Takahashi-Masakazu-HadanoTobaccoFest.jpg/1280px-Takahashi-Masakazu-HadanoTobaccoFest.jpg
+    width: 1000
+    height: 1000
+    credit: テレストレラッソ
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Takahashi-Masakazu-HadanoTobaccoFest.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HadanoTobaccoFest77-HadanoTobaccoOndo.jpg/1280px-HadanoTobaccoFest77-HadanoTobaccoOndo.jpg
+    width: 1000
+    height: 750
+    credit: テレストレラッソ
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:HadanoTobaccoFest77-HadanoTobaccoOndo.jpg

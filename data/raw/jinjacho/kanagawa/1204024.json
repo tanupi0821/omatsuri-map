@@ -1,0 +1,24 @@
+{
+ "id": "1204024",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204024-000/",
+ "name": "熊野神社",
+ "zip": "236-0012",
+ "address": "横浜市 金沢区 柴町41",
+ "addressParts": [
+  "横浜市",
+  "金沢区",
+  "柴町41"
+ ],
+ "festivals": [
+  {
+   "date": "７月１９日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月９日",
+   "name": "秋季大祭（しゅうきたいさい）",
+   "alias": null
+  }
+ ]
+}

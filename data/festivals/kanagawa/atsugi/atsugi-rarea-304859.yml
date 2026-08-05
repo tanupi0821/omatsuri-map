@@ -1,0 +1,29 @@
+id: atsugi-rarea-304859
+name: 第２回レトロまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 厚木市
+  ward: null
+venue:
+  name: 厚木市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/304859
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-08-05

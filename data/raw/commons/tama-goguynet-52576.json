@@ -1,0 +1,39 @@
+{
+ "id": "tama-goguynet-52576",
+ "name": "商店街の夏祭り",
+ "term": "商店街の夏祭り",
+ "tokens": {
+  "strong": [
+   "商店街の夏祭り"
+  ],
+  "weak": [],
+  "place": [
+   "川崎市",
+   "川崎",
+   "多摩区",
+   "多摩"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785980602%29.jpg/1280px-SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785980602%29.jpg",
+   "width": 1000,
+   "height": 1500,
+   "credit": "MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._(7785980602).jpg",
+   "title": "File:SAKURAKO - MARUYAMA shopping street summer festival. (7785980602).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785951064%29.jpg/1280px-SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785951064%29.jpg",
+   "width": 1000,
+   "height": 1333,
+   "credit": "MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._(7785951064).jpg",
+   "title": "File:SAKURAKO - MARUYAMA shopping street summer festival. (7785951064).jpg"
+  }
+ ]
+}

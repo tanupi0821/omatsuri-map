@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-49281
+name: 子供縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 函館市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/07/12/hakodate-culture-night/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

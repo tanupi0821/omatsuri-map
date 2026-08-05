@@ -1,0 +1,21 @@
+{
+ "id": "ota-5454",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5454",
+ "name": "稲荷神社",
+ "zip": "146-0082",
+ "address": "大田区池上1-34-12",
+ "addressParts": [
+  "大田区",
+  "池上1-34-12"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「池上駅」 10分",
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

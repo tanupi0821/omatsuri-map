@@ -1,0 +1,21 @@
+{
+ "id": "ota-5460",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5460",
+ "name": "磐井神社",
+ "zip": "143-0016",
+ "address": "大田区大森北2-20-8",
+ "addressParts": [
+  "大田区",
+  "大森北2-20-8"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」 徒歩10分 京浜急行「大森海岸駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "8月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: tsuzuki-bosch-forum-tsuzuki-natsumatsuri
+name: ボッシュフォーラムつづき夏まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: ボッシュホール 全天候広場・プラッツ
+  address: null
+  lat: null
+  lng: null
+organizer: ボッシュホール・センター北・中川中央町内会ほか
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

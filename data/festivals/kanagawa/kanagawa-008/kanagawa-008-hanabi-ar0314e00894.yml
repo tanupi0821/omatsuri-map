@@ -1,0 +1,30 @@
+id: kanagawa-008-hanabi-ar0314e00894
+name: 第74回 さがみ湖湖上祭花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 相模原市緑区
+  ward: null
+venue:
+  name: 相模湖上
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0314e00894/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

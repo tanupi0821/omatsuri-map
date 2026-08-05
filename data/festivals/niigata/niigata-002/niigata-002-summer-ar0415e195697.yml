@@ -1,0 +1,29 @@
+id: niigata-002-summer-ar0415e195697
+name: 第38回 ふるさと上川ふれあい祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 東蒲原郡阿賀町
+  ward: null
+venue:
+  name: 向ノ島公園
+  address: 東蒲原郡阿賀町豊川甲3758-5
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e195697/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

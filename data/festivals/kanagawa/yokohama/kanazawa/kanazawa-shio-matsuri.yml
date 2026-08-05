@@ -1,0 +1,30 @@
+id: kanazawa-shio-matsuri
+name: 汐祭り
+kind: 神事
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 野島・金沢漁港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-01
+    start_time: 11:00
+    end_time: null
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+    note: 11:00頃から
+stalls: unknown

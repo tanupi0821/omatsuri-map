@@ -1,0 +1,31 @@
+id: kashiwa-kashiwa-matsuri
+name: 柏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 柏駅前
+  address: null
+  lat: null
+  lng: null
+station: 柏
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

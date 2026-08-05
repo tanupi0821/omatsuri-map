@@ -1,0 +1,32 @@
+id: nakahara-tamagawa-bon-odori
+name: 玉川地区BONおどり
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 中丸子神明大神 境内
+  address: 川崎市中原区中丸子492
+  lat: null
+  lng: null
+organizer: 玉川地区子どもイベント実行委員会
+shrine: 神明大神
+tags:
+  - 子ども向け
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.townnews.co.jp/0204/2026/07/24/845952.html
+    source_name: タウンニュース 中原区版
+    checked_at: 2026-08-02
+    source_type: media
+stalls: yes

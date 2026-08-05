@@ -1,0 +1,30 @@
+id: adachi-adachi-kyono-kita
+name: 興野北町会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 西新井小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: 興野北町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: 17:30
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

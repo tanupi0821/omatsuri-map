@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3232",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3232",
+ "name": "三光稲荷神社",
+ "zip": "103-0012",
+ "address": "中央区日本橋堀留町2-1-13",
+ "addressParts": [
+  "中央区日本橋堀留町",
+  "2-1-13"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄日比谷線・浅草線「人形町駅」 2分",
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

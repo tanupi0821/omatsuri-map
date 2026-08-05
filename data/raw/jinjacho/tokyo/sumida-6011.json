@@ -1,0 +1,21 @@
+{
+ "id": "sumida-6011",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/6011",
+ "name": "稲荷神社",
+ "zip": "131-0045",
+ "address": "墨田区押上2-39-6",
+ "addressParts": [
+  "墨田区",
+  "押上2-39-6"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "地下鉄浅草線・半蔵門線「押上駅」 徒歩4分 東武亀戸線「曳舟駅」 徒歩4分",
+ "festivals": [
+  {
+   "date": "9月第2土曜日・日曜日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

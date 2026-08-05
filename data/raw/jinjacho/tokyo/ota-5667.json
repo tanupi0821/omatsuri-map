@@ -1,0 +1,21 @@
+{
+ "id": "ota-5667",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5667",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "〒 東京都大田区田園調布5丁目",
+ "addressParts": [
+  "〒 東京都大田区",
+  "田園調布5丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急東横線・目黒線「田園調布駅」 15分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

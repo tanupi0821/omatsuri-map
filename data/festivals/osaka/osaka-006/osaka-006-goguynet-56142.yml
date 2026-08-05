@@ -1,0 +1,32 @@
+id: osaka-006-goguynet-56142
+name: こだわり縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 茨木市
+  ward: null
+venue:
+  name: 茨木市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ibaraki.goguynet.jp/2026/07/30/aeonmall-event/
+    source_name: 号外NET 茨木市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: hyogo-010-goguynet-45583
+name: 清和源氏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 川西市
+  ward: null
+venue:
+  name: 川西市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takarazuka.goguynet.jp/2026/04/06/seiwagenjimaturi/
+    source_name: 号外NET 宝塚市・川西市
+    source_type: media
+    checked_at: 2026-08-04

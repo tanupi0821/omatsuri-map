@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5276",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5276",
+ "name": "葛原神社",
+ "zip": "142-0063",
+ "address": "品川区荏原6-2-13",
+ "addressParts": [
+  "品川区",
+  "荏原6-2-13"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "東急目黒線「西小山駅」 15分",
+ "festivals": [
+  {
+   "date": "12月冬至の日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

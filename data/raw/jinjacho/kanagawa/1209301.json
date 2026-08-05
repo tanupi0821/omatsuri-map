@@ -1,0 +1,38 @@
+{
+ "id": "1209301",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209301-000/",
+ "name": "堀之郷正八幡宮",
+ "zip": "259-1304",
+ "address": "秦野市 堀山下988",
+ "addressParts": [
+  "秦野市",
+  "堀山下988"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "４月１８日近い日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越の祓（なごしのはらい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

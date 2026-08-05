@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5512",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5512",
+ "name": "西向天神社",
+ "zip": "160-0022",
+ "address": "新宿区新宿6-21-1",
+ "addressParts": [
+  "新宿区",
+  "新宿6-21-1"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR「新宿駅」 徒歩15分 地下鉄大江戸線・副都心線「東新宿駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "5月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

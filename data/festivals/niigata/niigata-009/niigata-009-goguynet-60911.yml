@@ -1,0 +1,30 @@
+id: niigata-009-goguynet-60911
+name: 川口まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: 長岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanagaoka.goguynet.jp/2026/07/24/kawaguchimatsuri2026/
+    source_name: 号外NET 長岡市
+    source_type: media
+    checked_at: 2026-08-04

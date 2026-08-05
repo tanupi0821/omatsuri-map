@@ -1,0 +1,30 @@
+id: maebashi-akagisan-lantern
+name: 赤城山らんたん祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 前橋市
+  ward: null
+venue:
+  name: 赤城山
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 灯籠
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

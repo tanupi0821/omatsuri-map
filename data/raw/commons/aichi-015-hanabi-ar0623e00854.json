@@ -1,0 +1,30 @@
+{
+ "id": "aichi-015-hanabi-ar0623e00854",
+ "name": "三好稲荷閣 大提灯まつり",
+ "term": "三好稲荷閣 大提灯まつり",
+ "tokens": {
+  "strong": [
+   "三好稲荷閣",
+   "三好稲荷",
+   "三好",
+   "大提灯まつり"
+  ],
+  "weak": [],
+  "place": [
+   "みよし市",
+   "みよし"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Miyoshi_Inari%2C_Miyoshi._%C5%8C-Ch%C5%8Dchin%28Big_paper_lantern%29%282016.08.16%29.jpg/1280px-Miyoshi_Inari%2C_Miyoshi._%C5%8C-Ch%C5%8Dchin%28Big_paper_lantern%29%282016.08.16%29.jpg",
+   "width": 1000,
+   "height": 1197,
+   "credit": "Edotih Yno",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Miyoshi_Inari,_Miyoshi._%C5%8C-Ch%C5%8Dchin(Big_paper_lantern)(2016.08.16).jpg",
+   "title": "File:Miyoshi Inari, Miyoshi. Ō-Chōchin(Big paper lantern)(2016.08.16).jpg"
+  }
+ ]
+}

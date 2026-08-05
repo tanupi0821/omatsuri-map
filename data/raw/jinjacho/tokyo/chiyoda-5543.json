@@ -1,0 +1,21 @@
+{
+ "id": "chiyoda-5543",
+ "url": "http://www.tokyo-jinjacho.or.jp/chiyoda/5543",
+ "name": "柳森神社",
+ "zip": "101-0041",
+ "address": "千代田区神田須田町2-25-1",
+ "addressParts": [
+  "千代田区神田須田町",
+  "2-25-1"
+ ],
+ "city": "千代田区",
+ "citySlugHint": "chiyoda",
+ "station": "JR山手線・京浜東北線・総武線・東京メトロ日比谷線「秋葉原駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "5月15日前後の土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

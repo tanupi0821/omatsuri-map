@@ -1,0 +1,35 @@
+id: asao-takaishi-jinja-kinensai-yabusame
+name: 高石神社 祈年祭（流鏑馬神事）
+kind: 神事
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 高石神社
+  address: 川崎市麻生区高石1-31-1
+  lat: null
+  lng: null
+recurrence: 1月15日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201085-000/
+organizer: 高石神社
+shrine: 高石神社
+tags:
+  - 流鏑馬
+description: null
+links:
+  - https://takaishijinja.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201085-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 流鏑馬の伝統が受け継がれている。日付は神社庁の祭事日から導いたもの
+stalls: unknown

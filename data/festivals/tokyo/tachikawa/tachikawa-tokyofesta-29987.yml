@@ -1,0 +1,29 @@
+id: tachikawa-tokyofesta-29987
+name: 妖怪盆踊り2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: GREEN
+  address: null
+  lat: null
+  lng: null
+organizer: たちかわ妖怪盆踊り実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/tama/29987/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

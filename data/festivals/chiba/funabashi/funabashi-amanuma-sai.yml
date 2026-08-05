@@ -1,0 +1,29 @@
+id: funabashi-amanuma-sai
+name: 天沼祭（第4回）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 天沼弁天池公園
+  address: null
+  lat: null
+  lng: null
+organizer: チームマキオザビー
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: 14:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

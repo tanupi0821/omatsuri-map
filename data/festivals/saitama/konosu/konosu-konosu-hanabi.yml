@@ -1,0 +1,31 @@
+id: konosu-konosu-hanabi
+name: こうのす花火大会（第23回）
+kind: 花火
+scale: 市
+area:
+  pref: 埼玉県
+  city: 鴻巣市
+  ward: null
+venue:
+  name: 糠田運動場および荒川河川敷
+  address: null
+  lat: null
+  lng: null
+station: 鴻巣
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0311/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

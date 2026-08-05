@@ -1,0 +1,30 @@
+id: choshi-choshi-minato-matsuri-mikoshi
+name: 銚子みなとまつり みこしパレード
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 銚子市
+  ward: null
+venue:
+  name: 銚子市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/2.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

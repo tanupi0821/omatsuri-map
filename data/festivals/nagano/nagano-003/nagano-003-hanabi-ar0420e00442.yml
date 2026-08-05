@@ -1,0 +1,30 @@
+id: nagano-003-hanabi-ar0420e00442
+name: 第69回伊那まつり 花火打上げ
+kind: 花火
+scale: 市
+area:
+  pref: 長野県
+  city: 伊那市
+  ward: null
+venue:
+  name: 伊那市役所周辺(まつり会場) 、天竜川・三峰(花火打ち上げ場所)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0420e00442/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

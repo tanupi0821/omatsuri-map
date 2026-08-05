@@ -1,0 +1,30 @@
+id: suginami-goguynet-57264
+name: 第29回 久我山ホタル祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 】神田川会場・玉川上水会場・久我山会館・久我山稲荷神社・北口商店街（ジャンボデン
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.goguynet.jp/2026/06/04/kugayamahotarumatsuri2026/
+    source_name: 号外NET 杉並区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,32 @@
+id: kanazawa-machiya-jinja-reitaisai
+name: 町屋神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 町屋神社
+  address: 横浜市金沢区町屋町4-20
+  lat: null
+  lng: null
+organizer: null
+shrine: 町屋神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 19:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    checked_at: 2026-08-02
+    note: 7/18 宵宮 19:00〜、7/19 本祭 13:30〜19:00
+    source_type: media
+stalls: unknown

@@ -1,0 +1,30 @@
+id: kochi-001-goguynet-45835
+name: おまち神楽まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 高知県
+  city: 高知市
+  ward: null
+venue:
+  name: 【高知市】本日最終日！おまち多目的広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kochi.goguynet.jp/2026/07/02/event_omachi-kagura2026/
+    source_name: 号外NET 高知市
+    source_type: media
+    checked_at: 2026-08-04

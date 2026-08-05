@@ -1,0 +1,30 @@
+id: katsushika-katsushika-kanamachi-1danchi
+name: 金町第一団地自治会 夏祭り（第20回）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 団地内広場
+  address: 葛飾区東金町2-24
+  lat: null
+  lng: null
+organizer: 金町第一団地自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 15:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 東京理科大の和太鼓サークル「樹」が2回演奏
+stalls: yes

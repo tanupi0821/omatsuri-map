@@ -1,0 +1,33 @@
+id: tsurumi-jinjacho-1202017-1
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 鶴見区
+venue:
+  name: 神明社
+  address: 横浜市鶴見区馬場6ｰ17ｰ20
+  lat: null
+  lng: null
+recurrence: 8月第1土曜日，又は9月
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1202017-000/
+organizer: 神明社
+shrine: 神明社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1202017-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月第1土曜日，又は9月」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,31 @@
+id: funabashi-misaki-inari-bonodori
+name: 三咲稲荷神社 納涼盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 三咲稲荷神社
+  address: null
+  lat: null
+  lng: null
+organizer: 三咲本通り商店会
+shrine: 三咲稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

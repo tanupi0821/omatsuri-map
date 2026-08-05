@@ -1,0 +1,29 @@
+id: shizuoka-013-goguynet-26080
+name: 春の焼津さかなセンター祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 焼津市
+  ward: null
+venue:
+  name: 焼津さかなセンター（
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fujieda-yaizu.goguynet.jp/2026/04/20/haruno-yaizu-sakana-center-matsuri/
+    source_name: 号外NET 藤枝市・焼津市・島田市
+    source_type: media
+    checked_at: 2026-08-04

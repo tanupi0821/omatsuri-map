@@ -1,0 +1,30 @@
+id: hayama-hayama-hanabi-isshiki
+name: 葉山海岸HANABI2026（一色会場）
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 葉山町
+  ward: null
+venue:
+  name: 一色海岸
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/hayama-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: unknown

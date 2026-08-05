@@ -1,0 +1,30 @@
+id: shinagawa-goguynet-127038
+name: 大井町縁日・春
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 大井町駅前中央通り（通称：どんたく通り）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/04/18/ooimatiennnitiharu-2/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-08-04

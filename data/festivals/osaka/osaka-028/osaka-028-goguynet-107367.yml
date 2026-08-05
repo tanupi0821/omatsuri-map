@@ -1,0 +1,29 @@
+id: osaka-028-goguynet-107367
+name: 桜まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 豊中市
+  ward: null
+venue:
+  name: 豊中市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyonaka.goguynet.jp/2026/04/04/hattori-ryokuchi-sakurafes/
+    source_name: 号外NET 豊中市
+    source_type: media
+    checked_at: 2026-08-04

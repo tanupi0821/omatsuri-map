@@ -1,0 +1,30 @@
+id: miyamae-minami-sugao-noryosai
+name: 南菅生自治会 納涼祭
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: 南菅生自治会館・菅生公園・菅生第2公園
+  address: 川崎市宮前区菅生6-3-15
+  lat: null
+  lng: null
+organizer: 南菅生自治会
+tags:
+  - 昼開催
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 13:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://miyamae-gokinjosan.com/festival/
+    source_name: みやまえご近所さん（宮前区役所運営）
+    checked_at: 2026-08-02
+    source_type: gov
+stalls: unknown

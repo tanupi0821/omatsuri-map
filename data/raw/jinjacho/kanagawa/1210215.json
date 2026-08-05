@@ -1,0 +1,24 @@
+{
+ "id": "1210215",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210215-000/",
+ "name": "室生神社",
+ "zip": "258-0113",
+ "address": "足柄上郡 山北町 山北1200",
+ "addressParts": [
+  "足柄上郡",
+  "山北町",
+  "山北1200"
+ ],
+ "festivals": [
+  {
+   "date": "７月７日",
+   "name": "臨時祭（りんじさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月３日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

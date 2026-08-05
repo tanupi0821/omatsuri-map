@@ -1,0 +1,29 @@
+id: shiga-005-goguynet-107122
+name: 第58回草津宿場まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 滋賀県
+  city: 草津市
+  ward: null
+venue:
+  name: 草津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kusatsuritto.goguynet.jp/2026/04/09/58syukuba/
+    source_name: 号外NET 草津市・栗東市
+    source_type: media
+    checked_at: 2026-08-04

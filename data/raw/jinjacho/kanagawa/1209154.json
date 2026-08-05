@@ -1,0 +1,43 @@
+{
+ "id": "1209154",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209154-000/",
+ "name": "春日神社",
+ "zip": "254-0052",
+ "address": "平塚市 平塚4ｰ18ｰ1",
+ "addressParts": [
+  "平塚市",
+  "平塚4ｰ18ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月第１日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月春分",
+   "name": "慰霊祭（いれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月第１日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月秋分",
+   "name": "慰霊祭（いれいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

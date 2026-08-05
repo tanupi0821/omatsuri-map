@@ -1,0 +1,30 @@
+id: hokkaido-001-goguynet-49568
+name: 三吉神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 札幌市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-14
+      - 2026-05-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sapporochuo.goguynet.jp/2026/04/13/sapporo_miyoshi_jinja-4/
+    source_name: 号外NET 札幌市中央区
+    source_type: media
+    checked_at: 2026-08-04

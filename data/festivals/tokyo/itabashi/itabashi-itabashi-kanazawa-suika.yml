@@ -1,0 +1,30 @@
+id: itabashi-itabashi-kanazawa-suika
+name: 金沢自治会 地域・子供の交流（スイカ割・ビンゴ）
+kind: こどもまつり
+scale: 町内会
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 東板橋公園
+  address: null
+  lat: null
+  lng: null
+organizer: 金沢自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.itabashi-life.com/2026natumaturi.pdf
+    source_name: いたばしらいふ 令和8年夏祭り・盆踊り等開催予定
+    source_type: media
+    checked_at: 2026-08-03
+    note: 板橋区板橋地区
+stalls: unknown

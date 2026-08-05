@@ -1,0 +1,23 @@
+{
+ "id": "1206017",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1206017-000/",
+ "name": "鵠沼伏見稲荷神社",
+ "zip": "251-0037",
+ "address": "藤沢市 鵠沼海岸5ｰ11ｰ17",
+ "addressParts": [
+  "藤沢市",
+  "鵠沼海岸5ｰ11ｰ17"
+ ],
+ "festivals": [
+  {
+   "date": "8月9日に近い日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "2月3日",
+   "name": "節分祭（せつぶんさい）",
+   "alias": null
+  }
+ ]
+}

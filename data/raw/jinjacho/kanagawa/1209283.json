@@ -1,0 +1,23 @@
+{
+ "id": "1209283",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209283-000/",
+ "name": "八幡神社",
+ "zip": "257-0025",
+ "address": "秦野市 落合664",
+ "addressParts": [
+  "秦野市",
+  "落合664"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月節分",
+   "name": "節分祭（せつぶんさい）",
+   "alias": null
+  }
+ ]
+}

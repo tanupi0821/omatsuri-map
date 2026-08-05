@@ -1,0 +1,34 @@
+{
+ "id": "1202003",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202003-000/",
+ "name": "稲荷神社",
+ "zip": "230-0052",
+ "address": "横浜市 鶴見区 生麦4-27-18",
+ "addressParts": [
+  "横浜市",
+  "鶴見区",
+  "生麦4-27-18"
+ ],
+ "festivals": [
+  {
+   "date": "1月21日",
+   "name": "祈願祭（きがんさい）",
+   "alias": null
+  },
+  {
+   "date": "2月初午の日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "5月21日",
+   "name": "祈願祭（きがんさい）",
+   "alias": null
+  },
+  {
+   "date": "9月21日",
+   "name": "祈願祭（きがんさい）",
+   "alias": null
+  }
+ ]
+}

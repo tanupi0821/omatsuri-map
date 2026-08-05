@@ -1,0 +1,21 @@
+{
+ "id": "adachi-5303",
+ "url": "http://www.tokyo-jinjacho.or.jp/adachi/5303",
+ "name": "梅田神明宮",
+ "zip": "123-0851",
+ "address": "足立区梅田6-19-4",
+ "addressParts": [
+  "足立区",
+  "梅田6-19-4"
+ ],
+ "city": "足立区",
+ "citySlugHint": "adachi",
+ "station": "東武スカイツリーライン・東京メトロ日比谷線「梅島駅」 徒歩10分 都バス（草41）浅草寿町〜足立梅田町「梅田町神明通り」 徒歩1分",
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

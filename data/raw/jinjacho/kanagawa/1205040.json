@@ -1,0 +1,33 @@
+{
+ "id": "1205040",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205040-000/",
+ "name": "雷神社",
+ "zip": "237-0068",
+ "address": "横須賀市 追浜本町1ｰ9",
+ "addressParts": [
+  "横須賀市",
+  "追浜本町1ｰ9"
+ ],
+ "festivals": [
+  {
+   "date": "２月３日節分",
+   "name": "節分祭（せつぶんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月９日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１５日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月９日",
+   "name": "感謝祭（かんしゃさい）",
+   "alias": null
+  }
+ ]
+}

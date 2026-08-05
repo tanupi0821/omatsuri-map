@@ -1,0 +1,21 @@
+{
+ "id": "nakano-200058",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/200058",
+ "name": "八幡神社",
+ "zip": "165-0035",
+ "address": "中野区白鷺1-31-10",
+ "addressParts": [
+  "中野区",
+  "白鷺1-31-10"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "西武新宿線「鷺宮駅」（急行１つ目） 南へ徒歩2分",
+ "festivals": [
+  {
+   "date": "8月27日／28日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

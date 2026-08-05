@@ -1,0 +1,31 @@
+id: ota-ota-onazuka-jinja
+name: 女塚神社 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 大田区
+  ward: null
+venue:
+  name: 女塚神社
+  address: null
+  lat: null
+  lng: null
+organizer: 女塚神社
+shrine: 女塚神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otakushoren.com/event/163825
+    source_name: おーたふる 大田区商店街ナビ
+    source_type: media
+    checked_at: 2026-08-03

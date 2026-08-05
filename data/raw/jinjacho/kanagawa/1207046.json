@@ -1,0 +1,23 @@
+{
+ "id": "1207046",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207046-000/",
+ "name": "弥生神社",
+ "zip": "243-0406",
+ "address": "海老名市 国分北2-13-13",
+ "addressParts": [
+  "海老名市",
+  "国分北2-13-13"
+ ],
+ "festivals": [
+  {
+   "date": "２月１１日",
+   "name": "紀元祭（きげんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  }
+ ]
+}

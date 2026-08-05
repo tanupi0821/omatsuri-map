@@ -1,0 +1,31 @@
+id: funabashi-innai-yasaka-reisai
+name: 印内八坂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 印内八坂神社
+  address: null
+  lat: null
+  lng: null
+organizer: 印内地域
+shrine: 八坂神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

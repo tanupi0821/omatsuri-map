@@ -1,0 +1,33 @@
+id: kawasakiku-jinjacho-1201005-0
+name: 若宮八幡宮 春祭
+kind: 春祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 川崎区
+venue:
+  name: 若宮八幡宮
+  address: 川崎市川崎区大師駅前2-13-16
+  lat: null
+  lng: null
+recurrence: 2月20日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201005-000/
+organizer: 若宮八幡宮
+shrine: 若宮八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201005-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「2月20日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

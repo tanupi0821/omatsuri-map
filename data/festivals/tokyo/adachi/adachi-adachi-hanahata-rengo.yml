@@ -1,0 +1,29 @@
+id: adachi-adachi-hanahata-rengo
+name: 花畑地区町会自治会連合会 花畑地区納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 花畑公園
+  address: null
+  lat: null
+  lng: null
+organizer: 花畑地区町会自治会連合会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

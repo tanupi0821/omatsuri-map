@@ -1,0 +1,34 @@
+id: kita-jinjacho-kita-5300-0
+name: 王子稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 北区
+  ward: null
+venue:
+  name: 王子稲荷神社
+  address: 北区1-12-26
+  lat: null
+  lng: null
+station: JR京浜東北線・東京メトロ南北線「王子駅」（北口） 徒歩5分
+recurrence: 2月初午の日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/kita/5300
+organizer: 王子稲荷神社
+shrine: 王子稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/kita/5300
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「2月初午の日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

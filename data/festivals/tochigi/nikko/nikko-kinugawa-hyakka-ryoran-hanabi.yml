@@ -1,0 +1,32 @@
+id: nikko-kinugawa-hyakka-ryoran-hanabi
+name: 百華繚乱花火〜鬼怒川焔火〜
+kind: 花火
+scale: 市
+area:
+  pref: 栃木県
+  city: 日光市
+  ward: null
+venue:
+  name: 鬼怒川温泉
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-10-10
+    start_time: 20:45
+    end_time: null
+    status: confirmed
+    source_url: https://www.flat-local.jp/event/
+    source_name: フラットローカル
+    source_type: media
+    checked_at: 2026-08-03
+    note: 8/1〜10/10のうち計15日間。掲載の2日付は期間の初日と最終日
+stalls: unknown

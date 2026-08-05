@@ -1,0 +1,29 @@
+id: inzai-inzai-summer-fes
+name: 印祭サマーフェス
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 木下駅前にぎわい広場
+  address: null
+  lat: null
+  lng: null
+organizer: 印西市
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/inzai-natsumatsuri/
+    source_name: 千葉すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,29 @@
+id: seya-seya-2-furusato-matsuri
+name: 瀬谷第二地区 ふるさと祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 瀬谷区
+venue:
+  name: 瀬谷第二小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

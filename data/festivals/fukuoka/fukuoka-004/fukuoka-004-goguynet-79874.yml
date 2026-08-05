@@ -1,0 +1,31 @@
+id: fukuoka-004-goguynet-79874
+name: 紫川こいのぼりまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-25
+      - 2026-06-26
+      - 2026-06-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakyushukokuraminami.goguynet.jp/2026/06/26/2026-06-event-matome04/
+    source_name: 号外NET 北九州市小倉南区
+    source_type: media
+    checked_at: 2026-08-04

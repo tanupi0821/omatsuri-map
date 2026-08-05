@@ -1,0 +1,33 @@
+id: utsunomiya-orion-tanabata
+name: オリオン七夕まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 栃木県
+  city: 宇都宮市
+  ward: null
+venue:
+  name: オリオン通り商店街
+  address: null
+  lat: null
+  lng: null
+station: 宇都宮
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

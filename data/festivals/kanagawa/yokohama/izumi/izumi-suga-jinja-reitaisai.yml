@@ -1,0 +1,34 @@
+id: izumi-suga-jinja-reitaisai
+name: 須賀神社 例大祭（和泉の天王さま）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 泉区
+venue:
+  name: 和泉地域一帯（神輿渡御はいずみ中央駅方面）
+  address: null
+  lat: null
+  lng: null
+organizer: 須賀神社
+shrine: 須賀神社
+tags:
+  - 神輿
+description: null
+links:
+  - https://www.izumi-sugajinja.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.izumi-sugajinja.jp/?p=921
+    source_name: 須賀神社 公式
+    checked_at: 2026-08-02
+    note: 7/25（宵宮）14:00〜 御霊遷しの儀（境内）、17:00〜20:00 奉納演芸。7/26（本宮）13:00 式典、14:00 車両渡御出発、17:00 神輿出発式、19:30 宮入。渡御ルートは台谷戸神酒所→中村神酒所→いずみ中央駅→神社
+    source_type: official
+stalls: unknown

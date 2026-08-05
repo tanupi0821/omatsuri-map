@@ -1,0 +1,34 @@
+id: shinjuku-jinjacho-shinjuku-5445-0
+name: 水稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 水稲荷神社
+  address: 新宿区西早稲田3-5-43
+  lat: null
+  lng: null
+station: JR 「高田馬場駅」より学生バス「西早稲田」下車 徒歩2分 地下鉄東西線「早稲田駅」下車 徒歩5分 都バス「西早稲田」バス停下車（早稲田～新宿西口行） 徒歩2分 都電荒川線「早稲田」下車 徒歩5分 「面影橋」下車 徒歩2分
+recurrence: 9月9日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinjuku/5445
+organizer: 水稲荷神社
+shrine: 水稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinjuku/5445
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月9日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

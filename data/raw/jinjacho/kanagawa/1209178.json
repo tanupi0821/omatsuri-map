@@ -1,0 +1,23 @@
+{
+ "id": "1209178",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209178-000/",
+ "name": "八幡神社",
+ "zip": "254-0003",
+ "address": "平塚市 下島626",
+ "addressParts": [
+  "平塚市",
+  "下島626"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

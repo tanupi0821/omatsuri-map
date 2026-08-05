@@ -1,0 +1,31 @@
+id: minami-gyokusenji-yochien-natsumatsuri
+name: 夏祭り at 玉泉寺幼稚園
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 南区
+venue:
+  name: 玉泉寺幼稚園 園庭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 7/31は前夜祭18:00〜20:00、8/1は夏祭り16:00〜19:00
+    source_type: media
+stalls: unknown

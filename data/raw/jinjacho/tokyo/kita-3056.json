@@ -1,0 +1,21 @@
+{
+ "id": "kita-3056",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/3056",
+ "name": "白山神社",
+ "zip": "114-0004",
+ "address": "北区堀船3-11-3",
+ "addressParts": [
+  "北区",
+  "堀船3-11-3"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR京浜東北線「王子駅」 徒歩20分 都電荒川線「梶原駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月19日直前の日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

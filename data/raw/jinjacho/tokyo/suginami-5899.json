@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5899",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5899",
+ "name": "熊野神社",
+ "zip": "166-0013",
+ "address": "杉並区堀ノ内2-6-6",
+ "addressParts": [
+  "杉並区",
+  "堀ノ内2-6-6"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "永福・新宿行バス「大宮八幡入口」 5分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

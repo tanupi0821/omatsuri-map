@@ -1,0 +1,49 @@
+id: fussa-fussa-tanabata
+name: 福生七夕まつり（第76回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 福生市
+  ward: null
+venue:
+  name: JR福生駅・牛浜駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 福生
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e74533/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fussa_Tanabata_Festival.2011.jpg/1280px-Fussa_Tanabata_Festival.2011.jpg
+    width: 1000
+    height: 750
+    credit: Hanasakijijii
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Fussa_Tanabata_Festival.2011.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fussa_banner.jpg/1280px-Fussa_banner.jpg
+    width: 1000
+    height: 176
+    credit: Hanasakijijii, cropped by Tmv
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Fussa_banner.jpg

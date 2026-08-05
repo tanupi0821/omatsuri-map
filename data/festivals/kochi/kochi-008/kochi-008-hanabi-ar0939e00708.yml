@@ -1,0 +1,30 @@
+id: kochi-008-hanabi-ar0939e00708
+name: 第64回 市民祭あしずりまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 高知県
+  city: 土佐清水市
+  ward: null
+venue:
+  name: 清水港(鹿島周辺)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0939e00708/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

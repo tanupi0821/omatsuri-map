@@ -1,0 +1,31 @@
+id: tama-yakumo-jinja-natsumatsuri
+name: 八雲神社 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 八雲神社（稲田堤）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 八雲神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 10:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/16/natsumatsuri2026_1/
+    source_name: 号外NET 川崎市多摩区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

@@ -1,0 +1,34 @@
+id: shinjuku-jinjacho-shinjuku-5223-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 氷川神社
+  address: 新宿区下落合2-7-12
+  lat: null
+  lng: null
+station: JR山手線・西武新宿線・地下鉄東西線「高田馬場駅」早稲田口 徒歩7分 西武新宿線「下落合駅」 徒歩5分 JR山手線「目白駅」 徒歩10分
+recurrence: 9月第2日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinjuku/5223
+organizer: 氷川神社
+shrine: 氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinjuku/5223
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

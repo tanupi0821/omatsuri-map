@@ -1,0 +1,33 @@
+id: miyamae-jinjacho-1201050-0
+name: 馬絹神社 夏季大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: 馬絹神社
+  address: 川崎市宮前区馬絹5-21-5
+  lat: null
+  lng: null
+recurrence: 7月14日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201050-000/
+organizer: 馬絹神社
+shrine: 馬絹神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201050-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-03
+    note: 神社庁の祭事日（7月14日）から。露店が出るかは未確認。同じ神社でも10月の秋季例大祭は多くの露店が出る大規模な祭り
+stalls: unknown

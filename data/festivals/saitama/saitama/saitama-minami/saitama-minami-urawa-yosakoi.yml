@@ -1,0 +1,29 @@
+id: saitama-minami-urawa-yosakoi
+name: 浦和まつり 浦和よさこい（第21回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 南区
+venue:
+  name: 南浦和駅東口駅前通り・弁天公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 10:00
+    end_time: 17:30
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

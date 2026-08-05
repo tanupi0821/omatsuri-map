@@ -1,0 +1,29 @@
+id: shiraoka-goguynet-8749
+name: 横宿縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 白岡市
+  ward: null
+venue:
+  name: 白岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shiraoka-hasuda.goguynet.jp/2026/07/16/yokojyuku_ennichi/
+    source_name: 号外NET 白岡市・蓮田市
+    source_type: media
+    checked_at: 2026-08-04

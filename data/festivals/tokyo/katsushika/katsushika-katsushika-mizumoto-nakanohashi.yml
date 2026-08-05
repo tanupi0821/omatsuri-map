@@ -1,0 +1,31 @@
+id: katsushika-katsushika-mizumoto-nakanohashi
+name: 水元中之橋町会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 南水元集い交流館前広場
+  address: 葛飾区南水元4-13
+  lat: null
+  lng: null
+organizer: 水元中之橋町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 最初の太鼓は小中学生が叩く。両日雨天の場合20日に順延
+stalls: unknown

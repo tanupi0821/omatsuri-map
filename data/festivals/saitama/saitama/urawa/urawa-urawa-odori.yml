@@ -1,0 +1,29 @@
+id: urawa-urawa-odori
+name: 浦和まつり 音楽パレード（第31回）・浦和おどり（第50回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 浦和区
+venue:
+  name: 旧中山道周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: 13:00
+    end_time: 19:15
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

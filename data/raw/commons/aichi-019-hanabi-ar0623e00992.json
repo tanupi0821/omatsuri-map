@@ -1,0 +1,37 @@
+{
+ "id": "aichi-019-hanabi-ar0623e00992",
+ "name": "豊橋祇園祭",
+ "term": "豊橋祇園祭",
+ "tokens": {
+  "strong": [
+   "豊橋祇園祭"
+  ],
+  "weak": [],
+  "place": [
+   "豊橋市",
+   "豊橋"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Toyohashi_Gion_Maturi.JPG/1280px-Toyohashi_Gion_Maturi.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "Mikkabie",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Toyohashi_Gion_Maturi.JPG",
+   "title": "File:Toyohashi Gion Maturi.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aichi_Toyohashi_c20260718_2020c.jpg/1280px-Aichi_Toyohashi_c20260718_2020c.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "円周率３パーセント",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aichi_Toyohashi_c20260718_2020c.jpg",
+   "title": "File:Aichi Toyohashi c20260718 2020c.jpg"
+  }
+ ]
+}

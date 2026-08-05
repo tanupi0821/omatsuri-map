@@ -1,0 +1,45 @@
+id: niigata-003-goguynet-44117
+name: 蒲原まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市中央区
+  ward: null
+venue:
+  name: 新潟市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-30
+      - 2026-07-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatakita-higashi.goguynet.jp/2026/06/20/kanbaramaturi-2026/
+    source_name: 号外NET 新潟市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Niigata_Kanbara-Matsuri_20130701-01.JPG/1280px-Niigata_Kanbara-Matsuri_20130701-01.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata_Kanbara-Matsuri_20130701-01.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Niigata_Kanbara-Matsuri_20130702-03.JPG/1280px-Niigata_Kanbara-Matsuri_20130702-03.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata_Kanbara-Matsuri_20130702-03.JPG

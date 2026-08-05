@@ -1,0 +1,23 @@
+{
+ "id": "8914",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8914/",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "所沢市糀谷78",
+ "addressParts": [
+  "所沢市",
+  "糀谷78"
+ ],
+ "festivals": [
+  {
+   "date": "７月第一日曜日",
+   "name": "厄除け団扇うちわ祭り",
+   "alias": null
+  },
+  {
+   "date": "９月第四日曜日",
+   "name": "例大祭やぶさめ神事",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: osaka-019-goguynet-81930
+name: ライドパーク＆縁日イベント
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://neyagawa.goguynet.jp/2026/04/17/ride_park/
+    source_name: 号外NET 寝屋川市
+    source_type: media
+    checked_at: 2026-08-04

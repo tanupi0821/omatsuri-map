@@ -1,0 +1,31 @@
+id: fukui-008-summer-ar0518e43589
+name: 越前朝倉戦国まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福井県
+  city: 福井市
+  ward: null
+venue:
+  name: 一乗谷朝倉氏遺跡
+  address: 福井市城戸ノ内町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0518e43589/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

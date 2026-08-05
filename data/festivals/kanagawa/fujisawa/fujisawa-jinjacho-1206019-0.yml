@@ -1,0 +1,35 @@
+id: fujisawa-jinjacho-1206019-0
+name: 諏訪神社 夏季大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 諏訪神社
+  address: 藤沢市片瀬2-21-16
+  lat: null
+  lng: null
+recurrence: 8月23日／8月27日／8月28日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1206019-000/
+organizer: 諏訪神社
+shrine: 諏訪神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+      - 2026-08-27
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1206019-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月23日／8月27日／8月28日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

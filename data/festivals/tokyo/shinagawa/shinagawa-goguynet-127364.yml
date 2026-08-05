@@ -1,0 +1,33 @@
+id: shinagawa-goguynet-127364
+name: 模擬店・盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 品川学園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 品川区
+    url: https://shinagawa.goguynet.jp/2026/07/08/post-127392/
+  - title: 号外NET 品川区
+    url: https://shinagawa.goguynet.jp/2026/07/11/post-127396/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/07/02/shinafesu2026/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-08-04

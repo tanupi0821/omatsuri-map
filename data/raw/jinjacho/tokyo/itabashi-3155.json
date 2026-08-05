@@ -1,0 +1,21 @@
+{
+ "id": "itabashi-3155",
+ "url": "http://www.tokyo-jinjacho.or.jp/itabashi/3155",
+ "name": "天祖神社",
+ "zip": "175-0045",
+ "address": "板橋区西台2-6-29",
+ "addressParts": [
+  "板橋区",
+  "西台2-6-29"
+ ],
+ "city": "板橋区",
+ "citySlugHint": "itabashi",
+ "station": "東武東上線「東武練馬駅」 徒歩20分 都営三田線「西台駅」 徒歩15分",
+ "festivals": [
+  {
+   "date": "9月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

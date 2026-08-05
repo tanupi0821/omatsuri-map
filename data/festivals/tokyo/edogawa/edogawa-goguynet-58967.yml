@@ -1,0 +1,31 @@
+id: edogawa-goguynet-58967
+name: 夏犬祭(なついぬまつり)2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 江戸川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-28
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://edogawa.goguynet.jp/2026/07/06/petstokyo-koiwa/
+    source_name: 号外NET 江戸川区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: nerima-nerima-shimoshaku
+name: しもしゃく祭り（第19回）
+kind: 商店街
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 下石神井商店街ストリート
+  address: 練馬区下石神井4-24-24付近
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: 17:00
+    end_time: 20:50
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

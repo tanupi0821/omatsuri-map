@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5251",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5251",
+ "name": "椙森神社",
+ "zip": "103-0012",
+ "address": "中央区日本橋堀留町1-10-2",
+ "addressParts": [
+  "中央区日本橋堀留町",
+  "1-10-2"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "東京メトロ日比谷線・都営浅草線「人形町駅」 徒歩5分 東京メトロ日比谷線「小伝馬町駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "5月16日／10月19日・20日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

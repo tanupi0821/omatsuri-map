@@ -1,0 +1,29 @@
+id: suginami-goguynet-57619
+name: 第57回 大人の縁日 夏の陣
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 】阿佐谷一番街商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.goguynet.jp/2026/07/16/otonanoennichi2026/
+    source_name: 号外NET 杉並区
+    source_type: media
+    checked_at: 2026-08-04

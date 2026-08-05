@@ -1,0 +1,38 @@
+{
+ "id": "1207085",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207085-000/",
+ "name": "七沢神社",
+ "zip": "243-0121",
+ "address": "厚木市 七沢3044",
+ "addressParts": [
+  "厚木市",
+  "七沢3044"
+ ],
+ "festivals": [
+  {
+   "date": "１月２６日",
+   "name": "六夜祭（ろくやさい）",
+   "alias": null
+  },
+  {
+   "date": "２月２６日近い日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "４月第３日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月上旬 式年祭（６０年",
+   "name": "庚申御縁年祭（こうしんごえんねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２６日近い日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

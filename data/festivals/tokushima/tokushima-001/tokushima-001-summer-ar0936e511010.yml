@@ -1,0 +1,29 @@
+id: tokushima-001-summer-ar0936e511010
+name: 第63回日和佐うみがめまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 徳島県
+  city: 海部郡美波町
+  ward: null
+venue:
+  name: 日和佐八幡神社、大浜海岸、桜町通り、日和佐川河川敷付近
+  address: 海部郡美波町日和佐浦
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0936e511010/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

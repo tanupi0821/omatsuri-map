@@ -1,0 +1,29 @@
+id: fukuoka-009-goguynet-80274
+name: 夏の天神まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 太宰府市
+  ward: null
+venue:
+  name: 太宰府市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/07/16/tenjinmaturi2026/
+    source_name: 号外NET 筑紫野市・太宰府市・朝倉市
+    source_type: media
+    checked_at: 2026-08-04

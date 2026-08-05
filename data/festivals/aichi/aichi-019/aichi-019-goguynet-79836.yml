@@ -1,0 +1,40 @@
+id: aichi-019-goguynet-79836
+name: 豊橋祇園祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 豊橋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0623e00992/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-16
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyohashi-tahara.goguynet.jp/2026/07/16/toyohashi-gion-5/
+    source_name: 号外NET 豊橋市・田原市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Toyohashi_Gion_Maturi.JPG/1280px-Toyohashi_Gion_Maturi.JPG
+    width: 1000
+    height: 750
+    credit: Mikkabie
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Toyohashi_Gion_Maturi.JPG

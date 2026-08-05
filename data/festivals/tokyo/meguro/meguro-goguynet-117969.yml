@@ -1,0 +1,29 @@
+id: meguro-goguynet-117969
+name: 第40回目黒駅前 地域のふれあい盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: JR目黒駅西口前
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://meguro.goguynet.jp/2026/07/23/meguro_gonnosukezaka_bonodori2026/
+    source_name: 号外NET 目黒区
+    source_type: media
+    checked_at: 2026-08-04

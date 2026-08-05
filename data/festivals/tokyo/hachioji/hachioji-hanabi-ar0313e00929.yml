@@ -1,0 +1,45 @@
+id: hachioji-hanabi-ar0313e00929
+name: 八王子花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 富士森公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e00929/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg/1280px-Hachioji_Fireworks_Festival_2012_%287850144310%29.jpg
+    width: 1000
+    height: 750
+    credit: Dick Thomas Johnson from Tokyo, Japan
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji_Fireworks_Festival_2012_(7850144310).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hachioji_Fireworks_Festival_2012_%287850141832%29.jpg/1280px-Hachioji_Fireworks_Festival_2012_%287850141832%29.jpg
+    width: 1000
+    height: 750
+    credit: Dick Thomas Johnson from Tokyo, Japan
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Hachioji_Fireworks_Festival_2012_(7850141832).jpg

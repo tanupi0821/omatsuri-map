@@ -1,0 +1,29 @@
+id: shimane-006-goguynet-41383
+name: 第2回maming+fun夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 出雲市
+  ward: null
+venue:
+  name: 出雲市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://izumo-unnan.goguynet.jp/2026/07/13/mamingfan/
+    source_name: 号外NET 出雲市・雲南市
+    source_type: media
+    checked_at: 2026-08-04

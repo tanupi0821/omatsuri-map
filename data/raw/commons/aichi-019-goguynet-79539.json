@@ -1,0 +1,27 @@
+{
+ "id": "aichi-019-goguynet-79539",
+ "name": "納涼ビール電車",
+ "term": "納涼ビール電車",
+ "tokens": {
+  "strong": [
+   "納涼ビール電車"
+  ],
+  "weak": [],
+  "place": [
+   "豊橋市",
+   "豊橋"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nagasaki_Electric_Tramway_Beer_train.jpg/1280px-Nagasaki_Electric_Tramway_Beer_train.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Houjyou-Minori",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Nagasaki_Electric_Tramway_Beer_train.jpg",
+   "title": "File:Nagasaki Electric Tramway Beer train.jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: osaka-002-goguynet-41494
+name: 第57回 市民フェスタ 高槻まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 高槻市
+  ward: null
+venue:
+  name: 高槻城公園芸術文化劇場南館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takatsuki.goguynet.jp/2026/07/26/takatsukimaturi2026/
+    source_name: 号外NET 高槻市
+    source_type: media
+    checked_at: 2026-08-04

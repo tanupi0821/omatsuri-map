@@ -1,0 +1,49 @@
+{
+ "id": "1201069",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201069-000/",
+ "name": "新作八幡宮",
+ "zip": "213-0014",
+ "address": "川崎市 高津区 新作3-6-15",
+ "addressParts": [
+  "川崎市",
+  "高津区",
+  "新作3-6-15"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "４月６日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１９日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "10月第二土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "10月10日第二日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "10月第二土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２７日",
+   "name": "大祓式（おおはらえしき）",
+   "alias": null
+  }
+ ]
+}

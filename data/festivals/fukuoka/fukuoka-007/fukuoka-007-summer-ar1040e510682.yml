@@ -1,0 +1,29 @@
+id: fukuoka-007-summer-ar1040e510682
+name: 水田天満宮千燈明花火大祭
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 筑後市
+  ward: null
+venue:
+  name: 水田天満宮・恋木神社
+  address: 筑後市水田62-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e510682/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

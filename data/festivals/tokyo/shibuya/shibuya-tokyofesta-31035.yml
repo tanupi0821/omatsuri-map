@@ -1,0 +1,30 @@
+id: shibuya-tokyofesta-31035
+name: 第71回 恵比寿駅前盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: JR恵比寿駅西口広場（アトレ前）
+  address: null
+  lat: null
+  lng: null
+organizer: 全恵比寿納涼盆踊り大会実行委員会・恵比寿地区町会連合会・渋谷
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31035/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

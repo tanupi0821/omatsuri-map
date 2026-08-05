@@ -1,0 +1,29 @@
+id: kyoto-002-goguynet-42484
+name: こども夏祭り！～TSUMUGU2～
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 木津川市
+  ward: null
+venue:
+  name: 須田公園（木津川市加茂町）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kyotanabekizugawa.goguynet.jp/2026/07/02/kamomaturi2026/
+    source_name: 号外NET 京田辺市・木津川市・精華町
+    source_type: media
+    checked_at: 2026-08-04

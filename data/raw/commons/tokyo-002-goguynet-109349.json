@@ -1,0 +1,57 @@
+{
+ "id": "tokyo-002-goguynet-109349",
+ "name": "天王祭（てんのうさい）",
+ "term": "天王祭",
+ "tokens": {
+  "strong": [
+   "天王祭"
+  ],
+  "weak": [],
+  "place": [
+   "東久留米市",
+   "東久留米"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg/1280px-%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg",
+   "width": 1000,
+   "height": 629,
+   "credit": "Utagawa Hiroshige",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1_%E5%90%89%E7%94%B0_%E5%85%AD%E6%9C%88%E5%8D%81%E4%BA%94%E6%97%A5%E5%A4%A9%E7%8E%8B%E7%A5%AD-Yoshida_MET_DP122915.jpg",
+   "title": "File:東海道五十三次 吉田 六月十五日天王祭-Yoshida MET DP122915.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%E8%8D%8F%E5%8E%9F%E7%A5%9E%E7%A4%BE_%E5%A4%A9%E7%8E%8B%E7%A5%AD.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Rankin2019",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E8%8D%8F%E5%8E%9F%E7%A5%9E%E7%A4%BE_%E5%A4%A9%E7%8E%8B%E7%A5%AD.jpg",
+   "title": "File:荏原神社 天王祭.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%E5%A4%A9%E7%8E%8B%E7%A5%AD%E3%81%AE%E7%B5%B5.jpg/1280px-%E5%A4%A9%E7%8E%8B%E7%A5%AD%E3%81%AE%E7%B5%B5.jpg",
+   "width": 1000,
+   "height": 1088,
+   "credit": "岩田誠治",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E7%8E%8B%E7%A5%AD%E3%81%AE%E7%B5%B5.jpg",
+   "title": "File:天王祭の絵.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Aichi_Owari_Tsushima_Tenno_Matsuri_m.jpg/1280px-Aichi_Owari_Tsushima_Tenno_Matsuri_m.jpg",
+   "width": 1000,
+   "height": 664,
+   "credit": "Unknown authorUnknown author",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aichi_Owari_Tsushima_Tenno_Matsuri_m.jpg",
+   "title": "File:Aichi Owari Tsushima Tenno Matsuri m.jpg"
+  }
+ ]
+}

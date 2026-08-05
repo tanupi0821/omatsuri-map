@@ -1,0 +1,27 @@
+{
+ "id": "shizuoka-020-goguynet-171362",
+ "name": "吉原祇園祭",
+ "term": "吉原祇園祭",
+ "tokens": {
+  "strong": [
+   "吉原祇園祭"
+  ],
+  "weak": [],
+  "place": [
+   "富士市",
+   "富士"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg/1280px-Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg",
+   "width": 1000,
+   "height": 1333,
+   "credit": "Sai10ukazuki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dashi%EF%BC%88Higasi_Hon_Douri3%EF%BC%89.jpg",
+   "title": "File:Dashi（Higasi Hon Douri3）.jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: inzai-goguynet-50196
+name: 石尊阿夫利神社の例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 印西市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/23/afurijinjareitaisai2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-08-04

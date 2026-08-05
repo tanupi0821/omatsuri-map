@@ -1,0 +1,33 @@
+id: kamikawa-jinjacho-9015-0
+name: 金鑽神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 神川町
+  ward: null
+venue:
+  name: 金鑽神社
+  address: 神川町二ノ宮751
+  lat: null
+  lng: null
+recurrence: 4月15日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9015/
+organizer: 金鑽神社
+shrine: 金鑽神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9015/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月15日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

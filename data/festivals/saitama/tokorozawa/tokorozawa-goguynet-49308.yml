@@ -1,0 +1,29 @@
+id: tokorozawa-goguynet-49308
+name: ところざわまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 所沢市
+  ward: null
+venue:
+  name: 所沢市立中央公民館(所沢まちづくりセンター)ホール
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokorozawa.goguynet.jp/2026/06/09/jyumaryu/
+    source_name: 号外NET 所沢市
+    source_type: media
+    checked_at: 2026-08-04

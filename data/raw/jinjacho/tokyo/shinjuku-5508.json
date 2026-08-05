@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5508",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5508",
+ "name": "皆中稲荷神社",
+ "zip": "169-0073",
+ "address": "新宿区百人町1-11-16",
+ "addressParts": [
+  "新宿区百人町",
+  "1-11-16"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR「新大久保駅」 徒歩1分 JR「大久保駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月27日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: itabashi-itabashi-tokumaru-kyoei
+name: 徳丸協栄会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 西徳第一公園
+  address: null
+  lat: null
+  lng: null
+organizer: 徳丸協栄会・ともしび会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.itabashi-life.com/2026natumaturi.pdf
+    source_name: いたばしらいふ 令和8年夏祭り・盆踊り等開催予定
+    source_type: media
+    checked_at: 2026-08-03
+    note: 板橋区徳丸地区
+stalls: unknown

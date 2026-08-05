@@ -1,0 +1,24 @@
+{
+ "id": "1202009",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202009-000/",
+ "name": "八幡神社",
+ "zip": "230-0002",
+ "address": "横浜市 鶴見区 江ｹ崎町13-31",
+ "addressParts": [
+  "横浜市",
+  "鶴見区",
+  "江ｹ崎町13-31"
+ ],
+ "festivals": [
+  {
+   "date": "８月第２土曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月第２日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

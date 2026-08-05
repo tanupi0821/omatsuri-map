@@ -1,0 +1,30 @@
+id: chofu-goguynet-32569
+name: 第38回国領駅前盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 調布市
+  ward: null
+venue:
+  name: 調布市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chofu-komae.goguynet.jp/2026/07/06/post-32569/
+    source_name: 号外NET 調布市・狛江市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,39 @@
+id: iwate-003-summer-ar0203e41479
+name: 盛岡さんさ踊り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 岩手県
+  city: 盛岡市
+  ward: null
+venue:
+  name: 盛岡市中央通(県庁前～映画館通り)
+  address: 盛岡市清水町14-12
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0203e41479/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sansa_Odori_Morioka_2017.jpg/1280px-Sansa_Odori_Morioka_2017.jpg
+    width: 1000
+    height: 667
+    credit: Marho
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Sansa_Odori_Morioka_2017.jpg

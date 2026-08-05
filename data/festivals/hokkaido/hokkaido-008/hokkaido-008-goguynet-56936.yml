@@ -1,0 +1,29 @@
+id: hokkaido-008-goguynet-56936
+name: 広小路わくわくフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 帯広市
+  ward: null
+venue:
+  name: 帯広市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://obihiro.goguynet.jp/2026/06/06/obihiro_tokachi_event_20260607/
+    source_name: 号外NET 帯広市
+    source_type: media
+    checked_at: 2026-08-04

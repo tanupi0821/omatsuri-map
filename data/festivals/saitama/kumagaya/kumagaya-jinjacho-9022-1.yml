@@ -1,0 +1,33 @@
+id: kumagaya-jinjacho-9022-1
+name: 古宮神社 神幸祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 熊谷市
+  ward: null
+venue:
+  name: 古宮神社
+  address: 熊谷市池上606
+  lat: null
+  lng: null
+recurrence: 8月28日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9022/
+organizer: 古宮神社
+shrine: 古宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9022/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月28日」から導いたもので、神社が2026年の日程として発表したものではない

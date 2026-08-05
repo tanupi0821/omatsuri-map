@@ -1,0 +1,31 @@
+id: hokkaido-014-summer-ar0101e74521
+name: 令和8年 旭川夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 旭川市
+  ward: null
+venue:
+  name: 平和通買物公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-30
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74521/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

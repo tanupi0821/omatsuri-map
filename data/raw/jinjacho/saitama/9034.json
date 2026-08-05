@@ -1,0 +1,23 @@
+{
+ "id": "9034",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9034/",
+ "name": "玉津島神社",
+ "zip": null,
+ "address": "深谷市境81-2",
+ "addressParts": [
+  "深谷市",
+  "境81-2"
+ ],
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

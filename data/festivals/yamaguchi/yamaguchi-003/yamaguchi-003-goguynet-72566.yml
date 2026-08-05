@@ -1,0 +1,29 @@
+id: yamaguchi-003-goguynet-72566
+name: 黒嶋観音夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 下関市
+  ward: null
+venue:
+  name: （吉母漁協横）で
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shimonoseki.goguynet.jp/2026/07/08/yosimo/
+    source_name: 号外NET 下関市
+    source_type: media
+    checked_at: 2026-08-04

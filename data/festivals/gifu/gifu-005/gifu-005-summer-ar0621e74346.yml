@@ -1,0 +1,31 @@
+id: gifu-005-summer-ar0621e74346
+name: 国重要無形民俗文化財 郡上おどり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 岐阜県
+  city: 郡上市
+  ward: null
+venue:
+  name: 岐阜県郡上市八幡町内
+  address: 郡上市八幡町内
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0621e74346/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

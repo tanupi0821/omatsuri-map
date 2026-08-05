@@ -1,0 +1,29 @@
+id: tsuchiura-goguynet-34407
+name: 土浦八坂神社祇園祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 茨城県
+  city: 土浦市
+  ward: null
+venue:
+  name: 土浦市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/07/21/gionmatsuri2026/
+    source_name: 号外NET 土浦市・かすみがうら市・石岡市
+    source_type: media
+    checked_at: 2026-08-04

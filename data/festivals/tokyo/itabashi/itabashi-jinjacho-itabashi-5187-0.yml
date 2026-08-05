@@ -1,0 +1,34 @@
+id: itabashi-jinjacho-itabashi-5187-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 熊野神社
+  address: 板橋区3-38-3
+  lat: null
+  lng: null
+station: 都営三田線「志村坂上駅」 徒歩7分
+recurrence: 9月18日／19日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/itabashi/5187
+organizer: 熊野神社
+shrine: 熊野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/itabashi/5187
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月18日／19日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

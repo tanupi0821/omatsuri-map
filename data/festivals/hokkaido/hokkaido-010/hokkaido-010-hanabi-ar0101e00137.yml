@@ -1,0 +1,30 @@
+id: hokkaido-010-hanabi-ar0101e00137
+name: 三笠北海盆おどり納涼花火大会
+kind: 盆踊り
+scale: 市
+area:
+  pref: 北海道
+  city: 三笠市
+  ward: null
+venue:
+  name: 幾春別川三笠山橋下流周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00137/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

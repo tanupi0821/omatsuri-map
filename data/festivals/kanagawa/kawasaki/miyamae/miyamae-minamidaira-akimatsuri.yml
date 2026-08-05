@@ -1,0 +1,29 @@
+id: miyamae-minamidaira-akimatsuri
+name: 南平町内会 秋まつり
+kind: 秋祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: みなみだいら公園
+  address: 川崎市宮前区南平台5-7
+  lat: null
+  lng: null
+organizer: 南平町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://miyamae-gokinjosan.com/festival/
+    source_name: みやまえご近所さん（宮前区役所運営）
+    checked_at: 2026-08-02
+    source_type: gov
+stalls: unknown

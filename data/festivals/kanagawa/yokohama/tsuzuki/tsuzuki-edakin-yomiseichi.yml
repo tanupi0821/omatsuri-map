@@ -1,0 +1,29 @@
+id: tsuzuki-edakin-yomiseichi
+name: えだきん夜店市
+kind: 縁日
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: えだきん商店街 えだきん広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-26
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: yes

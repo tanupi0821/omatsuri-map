@@ -1,0 +1,30 @@
+id: miyazaki-001-hanabi-ar1045e00570
+name: 第47回 小林市すき納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 宮崎県
+  city: 小林市
+  ward: null
+venue:
+  name: 須木中学校グラウンド
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1045e00570/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

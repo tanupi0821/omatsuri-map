@@ -1,0 +1,18 @@
+{
+ "id": "9090",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9090/",
+ "name": "富多神社",
+ "zip": null,
+ "address": "春日部市神間663",
+ "addressParts": [
+  "春日部市",
+  "神間663"
+ ],
+ "festivals": [
+  {
+   "date": "10月15日",
+   "name": "例大祭",
+   "alias": null
+  }
+ ]
+}

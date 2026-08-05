@@ -1,0 +1,38 @@
+id: nikko-toshogu-shunki-reitaisai
+name: 日光東照宮 春季例大祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 栃木県
+  city: 日光市
+  ward: null
+venue:
+  name: 日光東照宮および表参道
+  address: null
+  lat: null
+  lng: null
+station: 日光
+recurrence: 5月17日〜18日
+recurrence_source: https://toshogu.jp/pages/28/
+organizer: 日光東照宮
+shrine: 日光東照宮
+tags:
+  - 流鏑馬
+  - 武者行列
+description: null
+links:
+  - https://toshogu.jp/pages/28/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+      - 2026-05-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.tochigiji.or.jp/event/e15062/
+    source_name: とちぎ旅ネット（栃木県観光物産協会）
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 5/17 10:00頃 例祭、13:00頃 神事流鏑馬。5/18 11:00頃 渡御祭（百物揃千人武者行列）
+stalls: unknown

@@ -1,0 +1,31 @@
+id: nerima-nerima-minamitanaka
+name: 南田中町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 南田中稲荷天祖神社
+  address: 練馬区南田中5-14
+  lat: null
+  lng: null
+organizer: 南田中町会
+shrine: 南田中稲荷天祖神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

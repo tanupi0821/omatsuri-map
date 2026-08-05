@@ -1,0 +1,29 @@
+id: fukuoka-004-goguynet-43366
+name: おまつり情報
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: JR戸畑駅周辺（福岡県北九州市戸畑区汐井町周辺）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakyushukokura-moji.goguynet.jp/2026/07/26/2026omaturimatome/
+    source_name: 号外NET 北九州市小倉北区・門司区・戸畑区
+    source_type: media
+    checked_at: 2026-08-04

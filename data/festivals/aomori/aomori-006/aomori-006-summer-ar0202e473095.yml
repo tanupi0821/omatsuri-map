@@ -1,0 +1,46 @@
+id: aomori-006-summer-ar0202e473095
+name: 八戸三社大祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 青森県
+  city: 八戸市
+  ward: null
+venue:
+  name: 八戸市中心街
+  address: 八戸市内丸
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e473095/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG
+    width: 1000
+    height: 750
+    credit: 8-Forest
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-002.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-001.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-001.JPG
+    width: 1000
+    height: 750
+    credit: 8-Forest
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hachinohe_Sansha_Taisai_Festival,_2_August_2014-001.JPG

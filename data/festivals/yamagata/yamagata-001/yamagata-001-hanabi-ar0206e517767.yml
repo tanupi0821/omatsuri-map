@@ -1,0 +1,31 @@
+id: yamagata-001-hanabi-ar0206e517767
+name: 第2回 よねざわ戦国花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 山形県
+  city: 米沢市
+  ward: null
+venue:
+  name: 米沢市営野球場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0206e517767/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

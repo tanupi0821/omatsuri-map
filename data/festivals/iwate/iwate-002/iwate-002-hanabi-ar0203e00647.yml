@@ -1,0 +1,30 @@
+id: iwate-002-hanabi-ar0203e00647
+name: 第65回 北上・みちのく芸能まつり「トロッコ流しと花火の夕べ」
+kind: 花火
+scale: 市
+area:
+  pref: 岩手県
+  city: 北上市
+  ward: null
+venue:
+  name: 北上川河畔
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0203e00647/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

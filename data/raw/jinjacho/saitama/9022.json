@@ -1,0 +1,48 @@
+{
+ "id": "9022",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9022/",
+ "name": "古宮神社",
+ "zip": null,
+ "address": "熊谷市池上606",
+ "addressParts": [
+  "熊谷市",
+  "池上606"
+ ],
+ "festivals": [
+  {
+   "date": "1月1日",
+   "name": "歳旦祭",
+   "alias": null
+  },
+  {
+   "date": "2月3日",
+   "name": "節分祭",
+   "alias": null
+  },
+  {
+   "date": "4月18日",
+   "name": "春祭",
+   "alias": null
+  },
+  {
+   "date": "5月5日",
+   "name": "疫神祭（子供獅子舞巡行）",
+   "alias": null
+  },
+  {
+   "date": "8月28日",
+   "name": "神幸祭（獅子舞奉納）",
+   "alias": null
+  },
+  {
+   "date": "8月29日",
+   "name": "例大祭",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

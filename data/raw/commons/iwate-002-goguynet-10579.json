@@ -1,0 +1,28 @@
+{
+ "id": "iwate-002-goguynet-10579",
+ "name": "第65回北上・みちのく芸能まつり",
+ "term": "北上・みちのく芸能まつり",
+ "tokens": {
+  "strong": [
+   "第65回北上",
+   "みちのく芸能まつり"
+  ],
+  "weak": [],
+  "place": [
+   "北上市",
+   "北上"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Iwate_Kitakami_Michinoku_Performing_Arts_Festival_s.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Unknown authorUnknown author",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Iwate_Kitakami_Michinoku_Performing_Arts_Festival_s.jpg",
+   "title": "File:Iwate Kitakami Michinoku Performing Arts Festival s.jpg"
+  }
+ ]
+}

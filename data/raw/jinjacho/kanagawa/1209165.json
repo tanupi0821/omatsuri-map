@@ -1,0 +1,28 @@
+{
+ "id": "1209165",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209165-000/",
+ "name": "愛宕神社",
+ "zip": "254-0913",
+ "address": "平塚市 万田1131",
+ "addressParts": [
+  "平塚市",
+  "万田1131"
+ ],
+ "festivals": [
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "２月第４日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  }
+ ]
+}

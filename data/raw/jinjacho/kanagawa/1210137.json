@@ -1,0 +1,23 @@
+{
+ "id": "1210137",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210137-000/",
+ "name": "報徳二宮神社",
+ "zip": "250-0014",
+ "address": "小田原市 城内8-10",
+ "addressParts": [
+  "小田原市",
+  "城内8-10"
+ ],
+ "festivals": [
+  {
+   "date": "6月30日",
+   "name": "大祓式（おおはらへしき）",
+   "alias": null
+  },
+  {
+   "date": "12月31日",
+   "name": "大祓式（おおはらへしき）",
+   "alias": null
+  }
+ ]
+}

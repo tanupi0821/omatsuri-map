@@ -1,0 +1,33 @@
+id: tama-shiroshita-kodomo-mikoshi
+name: 城下子ども会 夏祭り（子ども神輿）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 城下神酒所
+  address: 川崎市多摩区菅城下19-1前
+  lat: null
+  lng: null
+organizer: 城下子ども会
+tags:
+  - 神輿
+  - 子ども向け
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 12:20
+    end_time: null
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/16/natsumatsuri2026_1/
+    source_name: 号外NET 川崎市多摩区
+    checked_at: 2026-08-02
+    note: 18日は12:20〜、19日は9:00〜
+    source_type: media
+stalls: unknown

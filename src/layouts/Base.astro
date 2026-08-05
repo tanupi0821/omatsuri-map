@@ -1,0 +1,125 @@
+---
+import { CONTACT, SITE_NAME, TAGLINE } from '../lib/site.js';
+
+const { title, description, jsonld, image } = Astro.props;
+const site = SITE_NAME;
+const full = title ? `${title}｜${site}` : `${site} — 全国、町内会の盆踊りまで全部のせ`;
+
+// SNS に貼られたときの見え方。写真のある祭りはその写真を使い、
+// 無ければ既定の画像にする（無地のカードよりは目に留まる）
+const ogImage = new URL(image ?? '/ogp.png', Astro.site).href;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={full} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary_large_image" />
+    {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+    <style is:global>
+      :root {
+        --bg: #fdfaf5;
+        --card: #fff;
+        --fg: #1c1917;
+        --muted: #78716c;
+        --line: #e7e0d6;
+        --accent: #c2410c;
+        --accent-soft: #fff1e7;
+        --warn-bg: #fef3c7;
+        --warn-fg: #854d0e;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #1c1917;
+          --card: #262322;
+          --fg: #f5f5f4;
+          --muted: #a8a29e;
+          --line: #3a3634;
+          --accent: #fb923c;
+          --accent-soft: #3a2517;
+          --warn-bg: #422c06;
+          --warn-fg: #fcd34d;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+        line-height: 1.7;
+        -webkit-text-size-adjust: 100%;
+      }
+      a { color: var(--accent); }
+      .wrap { max-width: 720px; margin: 0 auto; padding: 0 16px 64px; }
+      header.site {
+        border-bottom: 1px solid var(--line);
+        background: var(--card);
+        position: sticky; top: 0; z-index: 10;
+      }
+      header.site .wrap { padding: 12px 16px; display: flex; align-items: baseline; gap: 12px; }
+      header.site strong { font-size: 17px; }
+      header.site a { text-decoration: none; color: inherit; }
+      header.site span { font-size: 12px; color: var(--muted); }
+      header.site .tosearch {
+        margin-left: auto; font-size: 14px; color: var(--accent); font-weight: 600;
+        border: 1px solid var(--accent); border-radius: 999px; padding: 3px 14px;
+        white-space: nowrap;
+      }
+      /* 狭い画面では説明文を隠して、検索への導線を残す */
+      @media (max-width: 430px) { header.site .wrap > span { display: none; } }
+      footer.site {
+        border-top: 1px solid var(--line);
+        margin-top: 48px; padding: 24px 0;
+        font-size: 13px; color: var(--muted);
+      }
+      h1 { font-size: 24px; line-height: 1.4; margin: 24px 0 8px; }
+      h2 { font-size: 16px; margin: 32px 0 8px; }
+      .badge {
+        display: inline-block; font-size: 12px; padding: 1px 8px;
+        border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+        white-space: nowrap;
+      }
+      .badge.warn { background: var(--warn-bg); color: var(--warn-fg); }
+      .badge.muted { background: transparent; color: var(--muted); border: 1px solid var(--line); }
+      .badge.stalls { background: #166534; color: #fff; }
+      @media (prefers-color-scheme: dark) { .badge.stalls { background: #22c55e; color: #052e16; } }
+    </style>
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <strong><a href="/">{SITE_NAME}</a></strong>
+        <span>{TAGLINE}</span>
+        <a class="tosearch" href="/search">さがす</a>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site">
+      <div class="wrap">
+        <p>掲載しているのは公開告知されている祭りだけです。日時・場所は各出典元の発表にもとづきますが、変更・中止の可能性があります。おでかけ前に主催者の情報をご確認ください。</p>
+        {(CONTACT.email || CONTACT.url) && (
+          <p>
+            情報の追加・訂正はこちらへ：
+            {CONTACT.email && <a href={`mailto:${CONTACT.email}`}>{CONTACT.email}</a>}
+            {CONTACT.email && CONTACT.url && ' ／ '}
+            {CONTACT.url && <a href={CONTACT.url} rel="noopener">{CONTACT.urlLabel || CONTACT.url}</a>}
+          </p>
+        )}
+      </div>
+    </footer>
+  </body>
+</html>

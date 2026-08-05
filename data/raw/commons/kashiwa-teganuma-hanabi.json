@@ -1,0 +1,20 @@
+{
+ "id": "kashiwa-teganuma-hanabi",
+ "name": "手賀沼花火大会",
+ "term": "手賀沼花火大会",
+ "tokens": [
+  "手賀沼花火大会"
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lake_Teganuma_Fireworks_Festival_2014.jpg/1280px-Lake_Teganuma_Fireworks_Festival_2014.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Takarkey",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake_Teganuma_Fireworks_Festival_2014.jpg",
+   "title": "File:Lake Teganuma Fireworks Festival 2014.jpg"
+  }
+ ]
+}

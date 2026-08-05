@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-2943",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/2943",
+ "name": "稲荷神社",
+ "zip": "154-0001",
+ "address": "世田谷区池尻2-34-15",
+ "addressParts": [
+  "世田谷区",
+  "池尻2-34-15"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急田園都市線「池尻大橋駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月第3日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

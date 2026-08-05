@@ -1,0 +1,34 @@
+id: taito-jinjacho-taito-3050-0
+name: 東照宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 東照宮
+  address: 台東区上野公園9-88
+  lat: null
+  lng: null
+station: JR線・東京メトロ銀座線・日比谷線「上野駅」 徒歩7分 東京メトロ千代田線「根津駅」 徒歩7分 都営大江戸線「上野御徒町駅」 徒歩12分
+recurrence: 4月17日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/3050
+organizer: 東照宮
+shrine: 東照宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/3050
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月17日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,30 @@
+id: shiga-006-hanabi-ar0725e00157
+name: 甲賀流にんにん大花火2026
+kind: 花火
+scale: 市
+area:
+  pref: 滋賀県
+  city: 甲賀市
+  ward: null
+venue:
+  name: 野洲川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0725e00157/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

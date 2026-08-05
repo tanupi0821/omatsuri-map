@@ -1,0 +1,31 @@
+id: ehime-001-summer-ar0938e510127
+name: 第67回 内子笹まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛媛県
+  city: 喜多郡内子町
+  ward: null
+venue:
+  name: 内子本町通り商店街
+  address: 喜多郡内子町内子
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0938e510127/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

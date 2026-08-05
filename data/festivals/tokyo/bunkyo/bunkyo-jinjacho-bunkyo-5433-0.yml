@@ -1,0 +1,34 @@
+id: bunkyo-jinjacho-bunkyo-5433-0
+name: 妻恋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 文京区
+  ward: null
+venue:
+  name: 妻恋神社
+  address: 文京区湯島3-2-6
+  lat: null
+  lng: null
+station: JR・地下鉄丸ノ内線「御茶ノ水駅」 7分
+recurrence: 3月10日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/bunkyo/5433
+organizer: 妻恋神社
+shrine: 妻恋神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/bunkyo/5433
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「3月10日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

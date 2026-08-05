@@ -1,0 +1,21 @@
+{
+ "id": "ota-5702",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5702",
+ "name": "神明社",
+ "zip": "143-0025",
+ "address": "大田区南馬込1丁目",
+ "addressParts": [
+  "大田区",
+  "南馬込1丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR大森駅バス「長遠寺」",
+ "festivals": [
+  {
+   "date": "9月28日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

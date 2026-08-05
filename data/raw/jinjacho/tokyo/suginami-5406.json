@@ -1,0 +1,18 @@
+{
+ "id": "suginami-5406",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5406",
+ "name": "稲荷神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "京王井の頭線「久我山駅」 5分",
+ "festivals": [
+  {
+   "date": "10月第1日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

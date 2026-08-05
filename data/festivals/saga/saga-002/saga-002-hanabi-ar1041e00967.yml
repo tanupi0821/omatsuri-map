@@ -1,0 +1,31 @@
+id: saga-002-hanabi-ar1041e00967
+name: 第49回 水光呼子港まつり花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 佐賀県
+  city: 唐津市
+  ward: null
+venue:
+  name: 佐賀玄海漁業協同組合呼子支所前防波堤
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1041e00967/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

@@ -1,0 +1,30 @@
+id: fukuoka-004-goguynet-46190
+name: 天神夏まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市中央区
+  ward: null
+venue:
+  name: 福岡市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokachuo.goguynet.jp/2026/08/03/tenjinnatsumatsuri/
+    source_name: 号外NET 福岡市中央区・城南区
+    source_type: media
+    checked_at: 2026-08-04

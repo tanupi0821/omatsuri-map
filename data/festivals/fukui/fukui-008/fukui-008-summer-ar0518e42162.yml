@@ -1,0 +1,31 @@
+id: fukui-008-summer-ar0518e42162
+name: 第73回 福井フェニックスまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福井県
+  city: 福井市
+  ward: null
+venue:
+  name: 福井市中心部
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0518e42162/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

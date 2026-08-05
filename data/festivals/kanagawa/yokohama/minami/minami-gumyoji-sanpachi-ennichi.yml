@@ -1,0 +1,38 @@
+id: minami-gumyoji-sanpachi-ennichi
+name: 弘明寺商店街 サンパチ縁日
+kind: 縁日
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 南区
+venue:
+  name: 弘明寺かんのん通り商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 弘明寺かんのん通り商店街
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-23
+      - 2026-07-28
+      - 2026-08-03
+      - 2026-08-08
+      - 2026-08-13
+      - 2026-08-18
+      - 2026-08-23
+      - 2026-08-28
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 7/18〜8/28 のうち「3」と「8」がつく日
+    source_type: media
+stalls: yes

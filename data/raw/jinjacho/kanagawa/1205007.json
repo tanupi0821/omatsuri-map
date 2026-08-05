@@ -1,0 +1,23 @@
+{
+ "id": "1205007",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205007-000/",
+ "name": "蛭子神社",
+ "zip": "248-0006",
+ "address": "鎌倉市 小町2-23-3",
+ "addressParts": [
+  "鎌倉市",
+  "小町2-23-3"
+ ],
+ "festivals": [
+  {
+   "date": "８月２０日近い日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "8月中旬の日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

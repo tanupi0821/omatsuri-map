@@ -1,0 +1,18 @@
+{
+ "id": "ota-5379",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5379",
+ "name": "熊野神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「蓮沼駅」 3分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+id: sumida-sumidagawa-hanabi
+name: 隅田川花火大会
+kind: 花火
+scale: 区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 隅田川沿い（第一・第二会場）
+  address: null
+  lat: null
+  lng: null
+station: 浅草
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 19:00
+    end_time: null
+    status: confirmed
+    source_url: https://sumida-media.tokyo.jp/archives/1023
+    source_name: すみだデスク
+    source_type: media
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg/1280px-2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+    width: 1000
+    height: 667
+    credit: てんどん
+    license: CC BY 2.1 jp
+    license_url: https://creativecommons.org/licenses/by/2.1/jp/deed.en
+    source: https://commons.wikimedia.org/wiki/File:2012%E5%B9%B4%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e1/%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A_%287662915210%29.jpg
+    width: 1000
+    height: 563
+    credit: Zengame from Tokyo, Japan
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%9A%85%E7%94%B0%E5%B7%9D%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A_(7662915210).jpg

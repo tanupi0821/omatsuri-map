@@ -1,0 +1,30 @@
+id: urawa-urawa-matsuri-mikoshi
+name: 浦和まつり みこし渡御（第46回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 浦和区
+venue:
+  name: 旧中山道（新浦和橋下〜調神社）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 14:15
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

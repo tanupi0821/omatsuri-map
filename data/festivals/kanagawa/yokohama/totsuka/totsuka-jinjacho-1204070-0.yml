@@ -1,0 +1,35 @@
+id: totsuka-jinjacho-1204070-0
+name: 白旗神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 白旗神社
+  address: 横浜市戸塚区平戸町302
+  lat: null
+  lng: null
+recurrence: 9月16日／9月17日／9月18日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1204070-000/
+organizer: 白旗神社
+shrine: 白旗神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-16
+      - 2026-09-17
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1204070-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月16日／9月17日／9月18日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

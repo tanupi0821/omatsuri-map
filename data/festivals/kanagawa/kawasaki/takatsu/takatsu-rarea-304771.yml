@@ -1,0 +1,29 @@
+id: takatsu-rarea-304771
+name: ふれあい夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 高津区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/304771
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-08-05

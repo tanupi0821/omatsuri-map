@@ -1,0 +1,27 @@
+{
+ "id": "fukuoka-004-goguynet-46087",
+ "name": "七夕まつり",
+ "term": "七夕まつり",
+ "tokens": {
+  "strong": [
+   "七夕まつり"
+  ],
+  "weak": [],
+  "place": [
+   "福岡市中央区",
+   "福岡市中央"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Asagaya_Tanabata_2015_11.JPG/1280px-Asagaya_Tanabata_2015_11.JPG",
+   "width": 1000,
+   "height": 1778,
+   "credit": "ITA-ATU",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Asagaya_Tanabata_2015_11.JPG",
+   "title": "File:Asagaya Tanabata 2015 11.JPG"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdfaf5"/>
+      <stop offset="1" stop-color="#ffe9d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- 提灯。祭りの絵として一番わかりやすい -->
+  <g>
+    <line x1="0" y1="120" x2="1200" y2="120" stroke="#c2410c" stroke-width="4"/>
+    <g transform="translate(150 120)">
+      <ellipse cx="0" cy="70" rx="46" ry="58" fill="#c2410c"/>
+      <rect x="-22" y="8" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-22" y="124" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-14" y="0" width="28" height="12" fill="#7c2d12"/>
+    </g>
+    <g transform="translate(400 120)">
+      <ellipse cx="0" cy="86" rx="54" ry="68" fill="#ea580c"/>
+      <rect x="-26" y="18" width="52" height="9" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-26" y="148" width="52" height="9" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-16" y="0" width="32" height="14" fill="#7c2d12"/>
+    </g>
+    <g transform="translate(1050 120)">
+      <ellipse cx="0" cy="70" rx="46" ry="58" fill="#ea580c"/>
+      <rect x="-22" y="8" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-22" y="124" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
+      <rect x="-14" y="0" width="28" height="12" fill="#7c2d12"/>
+    </g>
+  </g>
+
+  <text x="100" y="380" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
+        font-size="86" font-weight="700" fill="#1c1917">お祭りマップ</text>
+  <text x="100" y="452" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
+        font-size="38" fill="#78716c">全国の祭りを、町内会のものまで</text>
+  <text x="100" y="530" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
+        font-size="28" fill="#c2410c">大手サイトに載らない自治会の盆踊りまで、出典つきで</text>
+</svg>

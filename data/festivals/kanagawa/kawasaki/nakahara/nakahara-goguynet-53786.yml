@@ -1,0 +1,29 @@
+id: nakahara-goguynet-53786
+name: パチパチパチ 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 川崎市中原市民館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawasakinakahara.goguynet.jp/2026/07/23/summerfestival-4/
+    source_name: 号外NET 川崎市中原区
+    source_type: media
+    checked_at: 2026-08-04

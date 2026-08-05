@@ -1,0 +1,21 @@
+{
+ "id": "sumida-2958",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/2958",
+ "name": "五柱稲荷神社",
+ "zip": "130-0021",
+ "address": "墨田区緑4-11-6",
+ "addressParts": [
+  "墨田区",
+  "緑4-11-6"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR総武線「錦糸町駅」 徒歩10分 京成・都バス「江東橋」 徒歩2分",
+ "festivals": [
+  {
+   "date": "4月26日／10月26日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

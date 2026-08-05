@@ -1,0 +1,21 @@
+{
+ "id": "taito-3046",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3046",
+ "name": "小野照崎神社",
+ "zip": "110-0004",
+ "address": "台東区下谷2-13-14",
+ "addressParts": [
+  "台東区",
+  "下谷2-13-14"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "東京メトロ日比谷線「入谷駅」 徒歩3分 JR線「鶯谷駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "5月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

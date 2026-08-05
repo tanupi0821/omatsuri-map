@@ -1,0 +1,23 @@
+{
+ "id": "8974",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8974/",
+ "name": "秩父神社",
+ "zip": null,
+ "address": "秩父市番場町1-3",
+ "addressParts": [
+  "秩父市",
+  "番場町1-3"
+ ],
+ "festivals": [
+  {
+   "date": "12月3日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "4月4日",
+   "name": "御田植祭、他",
+   "alias": null
+  }
+ ]
+}

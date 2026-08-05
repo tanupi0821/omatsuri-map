@@ -1,0 +1,33 @@
+id: taito-jinjacho-taito-5847-0
+name: 黒船稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 黒船稲荷神社
+  address: 台東区寿4-3-1
+  lat: null
+  lng: null
+recurrence: 5月18日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/5847
+organizer: 黒船稲荷神社
+shrine: 黒船稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/5847
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月18日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

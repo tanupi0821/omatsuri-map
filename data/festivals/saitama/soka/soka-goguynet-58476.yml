@@ -1,0 +1,30 @@
+id: soka-goguynet-58476
+name: 淺間神社 例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 草加市
+  ward: null
+venue:
+  name: 瀬崎淺間神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://soka.goguynet.jp/2026/07/04/2026-7-4-5-matsuri/
+    source_name: 号外NET 草加市
+    source_type: media
+    checked_at: 2026-08-04

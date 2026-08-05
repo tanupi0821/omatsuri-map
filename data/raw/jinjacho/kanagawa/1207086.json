@@ -1,0 +1,29 @@
+{
+ "id": "1207086",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207086-000/",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "〒243-02 厚木市 三田2723",
+ "addressParts": [
+  "〒243-02",
+  "厚木市",
+  "三田2723"
+ ],
+ "festivals": [
+  {
+   "date": "４月２９日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２５日近い日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

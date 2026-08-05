@@ -1,0 +1,34 @@
+id: minato-jinjacho-minato-3037-0
+name: 朝日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: 朝日神社
+  address: 港区六本木6-7-14
+  lat: null
+  lng: null
+station: 地下鉄日比谷線「六本木駅」 徒歩5分
+recurrence: 9月22日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/minato/3037
+organizer: 朝日神社
+shrine: 朝日神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/minato/3037
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月22日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

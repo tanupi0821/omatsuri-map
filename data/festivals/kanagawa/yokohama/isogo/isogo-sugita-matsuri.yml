@@ -1,0 +1,30 @@
+id: isogo-sugita-matsuri
+name: 杉田まつり
+kind: 商店街
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 杉田商店街 周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

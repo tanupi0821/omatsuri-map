@@ -1,0 +1,36 @@
+id: ninomiya-kawawa-jinja-reitaisai
+name: 川勾神社 例大祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 二宮町
+  ward: null
+venue:
+  name: 川勾神社および町内・海岸
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月第2日曜日
+recurrence_source: https://www.town.ninomiya.kanagawa.jp/0000001323.html
+organizer: 川勾神社
+shrine: 川勾神社
+tags:
+  - 神輿
+  - 花火
+description: null
+links:
+  - https://www.kawawajinja.com/schedule.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.town.ninomiya.kanagawa.jp/0000001323.html
+    source_name: 二宮町 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 相模國二之宮。早朝から夜にかけて神輿が町内をまわり、夕刻から海岸で浜降り祭（みそぎ祭）。花火の打ち上げと屋台も出る。日付は「10月第2日曜日」から導いたもの
+stalls: yes

@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5218",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5218",
+ "name": "熊野神社",
+ "zip": "160-0023",
+ "address": "新宿区西新宿2-11-2",
+ "addressParts": [
+  "新宿区",
+  "西新宿2-11-2"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "JR「新宿駅」（西口） 徒歩10分 都営大江戸線「都庁前駅」（A5出口） 徒歩4分 京王バス「十二社池の下」 徒歩2分 （新宿駅西口～渋谷駅、永福町、佼成会聖堂前、中野車庫行）",
+ "festivals": [
+  {
+   "date": "9月第3土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

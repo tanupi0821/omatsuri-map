@@ -1,0 +1,21 @@
+{
+ "id": "ota-5393",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5393",
+ "name": "浅間神社",
+ "zip": "143-0015",
+ "address": "大田区大森西2-2-7",
+ "addressParts": [
+  "大田区",
+  "大森西2-2-7"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行「平和島駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "6月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

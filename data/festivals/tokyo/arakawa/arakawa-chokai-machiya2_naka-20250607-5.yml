@@ -1,0 +1,31 @@
+id: arakawa-chokai-machiya2_naka-20250607-5
+name: 町屋八丁目中央会 天王祭 大人神輿担ぎ手大募集
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 町屋八丁目中央会 地域内
+  address: null
+  lat: null
+  lng: null
+organizer: 町屋八丁目中央会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-06-07
+      - 2025-06-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/machiya2_naka/
+    source_name: 町屋二丁目仲町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 2025年の告知。2026年の日程は未確認。会場の詳細は出典元の告知を参照
+stalls: unknown

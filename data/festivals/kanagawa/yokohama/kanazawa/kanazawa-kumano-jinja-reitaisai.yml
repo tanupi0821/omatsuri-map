@@ -1,0 +1,32 @@
+id: kanazawa-kumano-jinja-reitaisai
+name: 熊野神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 熊野神社
+  address: 横浜市金沢区柴町41
+  lat: null
+  lng: null
+organizer: null
+shrine: 熊野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 15:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    checked_at: 2026-08-02
+    note: 7/25 宵宮 15:00〜21:00、7/26 本祭 15:00〜19:00
+    source_type: media
+stalls: unknown

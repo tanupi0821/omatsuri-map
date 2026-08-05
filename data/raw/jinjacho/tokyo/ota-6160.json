@@ -1,0 +1,21 @@
+{
+ "id": "ota-6160",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/6160",
+ "name": "稲荷神社",
+ "zip": "144-0044",
+ "address": "大田区本羽田1-7-14",
+ "addressParts": [
+  "大田区",
+  "本羽田1-7-14"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京急バス「本羽田」 1分",
+ "festivals": [
+  {
+   "date": "2月初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

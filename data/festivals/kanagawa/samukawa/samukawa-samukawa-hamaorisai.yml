@@ -1,0 +1,34 @@
+id: samukawa-samukawa-hamaorisai
+name: 寒川神社 浜降祭（発輿祭・御旅所祭・還幸祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 寒川町
+  ward: null
+venue:
+  name: 寒川神社・寒川町商工会館前
+  address: null
+  lat: null
+  lng: null
+recurrence: 7月の海の日
+recurrence_source: https://samukawajinjya.jp/en/festival/hamaorisai.html
+organizer: 寒川神社
+shrine: 寒川神社
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: 02:30
+    end_time: 12:00
+    status: confirmed
+    source_url: https://samukawajinjya.jp/en/festival/hamaorisai.html
+    source_name: 寒川神社 公式
+    source_type: official
+    checked_at: 2026-08-02
+    note: 2:30 発輿祭（神社から神輿が出る）、7:00 浜降祭（茅ヶ崎・南湖の西浜海岸で合同祭）、10:15 御旅所祭（寒川町商工会館前）、12:00 還幸祭（神社に戻る）。寒川町・茅ヶ崎市の34社・約40基の神輿が集まる。合同祭の会場は茅ヶ崎市
+stalls: unknown

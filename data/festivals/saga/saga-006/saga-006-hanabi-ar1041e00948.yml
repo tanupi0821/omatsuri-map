@@ -1,0 +1,30 @@
+id: saga-006-hanabi-ar1041e00948
+name: 玄海町花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 佐賀県
+  city: 東松浦郡玄海町
+  ward: null
+venue:
+  name: 玄海町新田「玄海町いこいの広場」
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1041e00948/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

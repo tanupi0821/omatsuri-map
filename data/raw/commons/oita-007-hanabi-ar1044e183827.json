@@ -1,0 +1,28 @@
+{
+ "id": "oita-007-hanabi-ar1044e183827",
+ "name": "第79回 日田川開き観光祭",
+ "term": "日田川開き観光祭",
+ "tokens": {
+  "strong": [
+   "第79回",
+   "日田川開き観光祭"
+  ],
+  "weak": [],
+  "place": [
+   "日田市",
+   "日田"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg/1280px-%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Watofamily",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E9%9A%88%E5%B7%9D%E3%81%AE%E8%8A%B1%E7%81%AB.jpg",
+   "title": "File:三隈川の花火.jpg"
+  }
+ ]
+}

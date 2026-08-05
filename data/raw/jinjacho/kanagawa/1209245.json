@@ -1,0 +1,24 @@
+{
+ "id": "1209245",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209245-000/",
+ "name": "高来神社",
+ "zip": "255-0001",
+ "address": "中郡 大磯町 高麗2-9-47",
+ "addressParts": [
+  "中郡",
+  "大磯町",
+  "高麗2-9-47"
+ ],
+ "festivals": [
+  {
+   "date": "４月１７日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１８日近い日曜日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  }
+ ]
+}

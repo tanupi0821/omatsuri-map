@@ -1,0 +1,30 @@
+id: midori-kamoi-bonodori
+name: 鴨居納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 緑区
+venue:
+  name: 鴨居小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: 鴨居連合自治会・鴨居商栄会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/18/midoriku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

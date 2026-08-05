@@ -1,0 +1,29 @@
+id: shinjuku-tokyofesta-31347
+name: 神楽坂夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: りそな銀行神楽坂支店前
+  address: null
+  lat: null
+  lng: null
+organizer: 神楽坂商店街振興組合
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31347/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

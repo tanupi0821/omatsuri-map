@@ -1,0 +1,21 @@
+{
+ "id": "minato-3038",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3038",
+ "name": "天祖神社",
+ "zip": "106-0032",
+ "address": "港区六本木7-7-7",
+ "addressParts": [
+  "港区",
+  "六本木7-7-7"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "地下鉄日比谷線「六本木駅」 徒歩5分 地下鉄千代田線「乃木坂駅」 徒歩5分 地下鉄大江戸線「六本木駅」7番出口 徒歩3分",
+ "festivals": [
+  {
+   "date": "9月第4日曜日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

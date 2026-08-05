@@ -1,0 +1,30 @@
+id: fujisawa-goguynet-76358
+name: 屋台に盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: ・時間：
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fujisawa.goguynet.jp/2026/07/24/yugyounobon19/
+    source_name: 号外NET 藤沢市
+    source_type: media
+    checked_at: 2026-08-04

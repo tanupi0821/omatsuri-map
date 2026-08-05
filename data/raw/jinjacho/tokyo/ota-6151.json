@@ -1,0 +1,21 @@
+{
+ "id": "ota-6151",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/6151",
+ "name": "穴守稲荷神社",
+ "zip": "144-0043",
+ "address": "大田区羽田5-2-7",
+ "addressParts": [
+  "大田区",
+  "羽田5-2-7"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行空港線「穴守稲荷駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "2月初午の日／11月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

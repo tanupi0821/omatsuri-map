@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5900",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5900",
+ "name": "須賀神社",
+ "zip": "166-0015",
+ "address": "杉並区成田東5-29-3",
+ "addressParts": [
+  "杉並区",
+  "成田東5-29-3"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "地下鉄丸ノ内線「南阿佐谷駅」 南西10分",
+ "festivals": [
+  {
+   "date": "9月第1日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

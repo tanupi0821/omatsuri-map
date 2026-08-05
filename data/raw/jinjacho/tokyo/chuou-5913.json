@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5913",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5913",
+ "name": "鐵砲洲稲荷神社",
+ "zip": "104-0043",
+ "address": "中央区湊1-6-7",
+ "addressParts": [
+  "中央区",
+  "湊1-6-7"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "都バス(15)、(21)鐵砲洲 JR京葉線「八丁堀駅」 3分 東京メトロ日比谷線「八丁堀駅」 5分 東京メトロ有楽町線「新富町駅」 7分",
+ "festivals": [
+  {
+   "date": "5月4日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

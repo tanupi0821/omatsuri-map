@@ -1,0 +1,30 @@
+id: kanazawa-shomyoji-takigi-noh
+name: 称名寺 薪能（第29回）
+kind: 神事
+scale: 区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 称名寺 境内 特設能舞台
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+    note: 17時開演
+stalls: unknown

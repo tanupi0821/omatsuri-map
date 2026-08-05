@@ -1,0 +1,21 @@
+{
+ "id": "itabashi-5219",
+ "url": "http://www.tokyo-jinjacho.or.jp/itabashi/5219",
+ "name": "氷川神社",
+ "zip": "173-0011",
+ "address": "板橋区双葉町43-1",
+ "addressParts": [
+  "板橋区双葉町",
+  "43-1"
+ ],
+ "city": "板橋区",
+ "citySlugHint": "itabashi",
+ "station": "都営三田線「板橋本町駅」 徒歩7分 東武東上線「中板橋駅」 徒歩12分",
+ "festivals": [
+  {
+   "date": "9月7日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

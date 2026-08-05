@@ -1,0 +1,29 @@
+id: minato-tokyofesta-29628
+name: 第20回 和菓子縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: DM三井製糖本社ビル前（JR田町駅・地下鉄三田駅より徒歩3分）
+  address: null
+  lat: null
+  lng: null
+organizer: DM三井グループ
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/29628/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

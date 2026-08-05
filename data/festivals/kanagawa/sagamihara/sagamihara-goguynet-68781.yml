@@ -1,0 +1,29 @@
+id: sagamihara-goguynet-68781
+name: 模大野ステーションスクエア内小田急不動産 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: null
+venue:
+  name: 相模原市南区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sagamihara-minamiku.goguynet.jp/2026/07/11/odakyu-2/
+    source_name: 号外NET 相模原市南区
+    source_type: media
+    checked_at: 2026-08-04

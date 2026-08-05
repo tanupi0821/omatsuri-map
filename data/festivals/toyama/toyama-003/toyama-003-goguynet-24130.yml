@@ -1,0 +1,29 @@
+id: toyama-003-goguynet-24130
+name: こども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 富山市
+  ward: null
+venue:
+  name: 富山県中央植物園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyama.goguynet.jp/2026/06/29/chuuoushokubutuen-2026summer/
+    source_name: 号外NET 富山市
+    source_type: media
+    checked_at: 2026-08-04

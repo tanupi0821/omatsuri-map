@@ -1,0 +1,21 @@
+{
+ "id": "kita-5940",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5940",
+ "name": "八幡神社",
+ "zip": "114-0023",
+ "address": "北区滝野川5-26-15",
+ "addressParts": [
+  "北区",
+  "滝野川5-26-15"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "都営三田線「西巣鴨駅」 徒歩7分 JR埼京線「板橋駅」 徒歩9分",
+ "festivals": [
+  {
+   "date": "9月第2土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

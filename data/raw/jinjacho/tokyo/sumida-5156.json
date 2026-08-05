@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5156",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5156",
+ "name": "隅田川神社",
+ "zip": "131-0034",
+ "address": "墨田区堤通2-17-1",
+ "addressParts": [
+  "墨田区",
+  "堤通2-17-1"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "東武伊勢崎線「鐘ヶ淵駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "6月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+id: ishioka-ishioka-no-omatsuri
+name: 石岡のおまつり（常陸國總社宮 例大祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 石岡市
+  ward: null
+venue:
+  name: 常陸國總社宮および石岡市中心部
+  address: null
+  lat: null
+  lng: null
+station: 石岡
+recurrence: 敬老の日を最終日とする3日間
+recurrence_source: https://sosyagu-reitaisai.com/
+organizer: 常陸國總社宮
+shrine: 常陸國總社宮
+tags:
+  - 山車
+  - 獅子
+  - 神輿
+description: null
+links:
+  - https://www.ishioka-kankou.com/events/ishioka-matsuri/
+  - title: 号外NET 土浦市・かすみがうら市・石岡市
+    url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/05/31/ishioka_manhallcard/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+      - 2026-09-19
+      - 2026-09-20
+      - 2026-09-21
+    start_time: 09:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sosyagu-reitaisai.com/
+    source_name: 常陸國總社宮例大祭 公式
+    source_type: official
+    checked_at: 2026-08-02
+    note: 関東三大祭りのひとつ。9/15 例祭、9/19 神幸祭、9/20 奉祝祭・奉納相撲、9/21 還幸祭。山車と獅子は9:00〜21:00、13:00〜21:00は中心部で交通規制。2026年の年番町は森木町
+stalls: unknown

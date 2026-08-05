@@ -1,0 +1,38 @@
+id: hodogaya-hoshikawa-sugiyama-nagoshisai
+name: 星川杉山神社 夏越祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 保土ケ谷区
+venue:
+  name: 星川杉山神社
+  address: 横浜市保土ケ谷区星川1丁目
+  lat: null
+  lng: null
+station: 星川
+organizer: null
+shrine: 星川杉山神社
+tags:
+  - 花火
+description: null
+links:
+  - https://www.sugiyamajinja.or.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+      - 2026-06-28
+      - 2026-06-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.townnews.co.jp/0115/2026/06/18/841047.html
+    source_name: タウンニュース 保土ケ谷区版
+    checked_at: 2026-08-02
+    note: 6/27 10:00〜12:00 大祓詞の書写の会、13:00〜17:30 スギマロ駄菓子屋、17:00〜19:00 小さな花火大会、18:00〜 宵宮祭。6/28 10:00〜12:30 神葬祭の講座、12:00〜 夏越祭。6/30 17:00〜 夏越大祓神事。茅の輪は6/25頃〜7/7頃
+    source_type: media
+recurrence: 6月末（夏越大祓は6月30日）
+recurrence_source: https://www.sugiyamajinja.or.jp/
+stalls: unknown

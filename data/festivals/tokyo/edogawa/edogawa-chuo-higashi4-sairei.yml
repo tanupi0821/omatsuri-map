@@ -1,0 +1,32 @@
+id: edogawa-chuo-higashi4-sairei
+name: 東四祭礼委員会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 東小松川香取神社
+  address: null
+  lat: null
+  lng: null
+organizer: 東四祭礼委員会
+shrine: 東小松川香取神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/documents/1797/bonodori20260717-2.pdf
+    source_name: 江戸川区 中央地区 盆踊り・夏まつり予定表
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 8/23 子ども神輿・山車9:00〜10:40、大人神輿13:30〜16:30、盆踊り18:00〜21:00
+stalls: unknown

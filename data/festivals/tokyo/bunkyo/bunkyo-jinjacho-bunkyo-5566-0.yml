@@ -1,0 +1,34 @@
+id: bunkyo-jinjacho-bunkyo-5566-0
+name: 今宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 文京区
+  ward: null
+venue:
+  name: 今宮神社
+  address: 文京区音羽1-4-4
+  lat: null
+  lng: null
+station: 東京メトロ有楽町線「江戸川橋駅」 徒歩3分 都バス「音羽一丁目」 徒歩1分
+recurrence: 9月第1土曜・日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/bunkyo/5566
+organizer: 今宮神社
+shrine: 今宮神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/bunkyo/5566
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月第1土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

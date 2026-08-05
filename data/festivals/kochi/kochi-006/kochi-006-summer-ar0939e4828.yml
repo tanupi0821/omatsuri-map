@@ -1,0 +1,29 @@
+id: kochi-006-summer-ar0939e4828
+name: 香南市手結盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 高知県
+  city: 香南市
+  ward: null
+venue:
+  name: 県立公園 ヤ・シィパーク
+  address: 香南市夜須町坪井
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0939e4828/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

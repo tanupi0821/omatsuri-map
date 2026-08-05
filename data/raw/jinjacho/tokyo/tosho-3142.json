@@ -1,0 +1,21 @@
+{
+ "id": "tosho-3142",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/3142",
+ "name": "優婆夷宝明神社",
+ "zip": "100-1401",
+ "address": "八丈島八丈町大賀郷660-1",
+ "addressParts": [
+  "八丈島八丈町",
+  "大賀郷660-1"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "町営バス「大里商店前」下車",
+ "festivals": [
+  {
+   "date": "11月13日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

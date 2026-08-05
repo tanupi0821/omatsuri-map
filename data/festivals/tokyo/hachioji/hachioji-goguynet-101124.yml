@@ -1,0 +1,29 @@
+id: hachioji-goguynet-101124
+name: 七夕ふれあい縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 西放射線ユーロード旭町エリア
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hachioji.goguynet.jp/2026/06/19/hachiouji-north/
+    source_name: 号外NET 八王子市
+    source_type: media
+    checked_at: 2026-08-04

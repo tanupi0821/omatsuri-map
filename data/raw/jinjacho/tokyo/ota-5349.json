@@ -1,0 +1,18 @@
+{
+ "id": "ota-5349",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5349",
+ "name": "稲荷神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": null,
+ "festivals": [
+  {
+   "date": "初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+id: chofu-goguynet-32511
+name: 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 調布市
+  ward: null
+venue:
+  name: 調布市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 調布市・狛江市
+    url: https://chofu-komae.goguynet.jp/2026/07/15/bonodori-2/
+  - title: 号外NET 調布市・狛江市
+    url: https://chofu-komae.goguynet.jp/2026/07/18/post-32631/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chofu-komae.goguynet.jp/2026/06/23/post-32511/
+    source_name: 号外NET 調布市・狛江市
+    source_type: media
+    checked_at: 2026-08-04

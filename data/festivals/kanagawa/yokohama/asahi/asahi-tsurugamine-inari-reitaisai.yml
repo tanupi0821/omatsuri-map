@@ -1,0 +1,32 @@
+id: asahi-tsurugamine-inari-reitaisai
+name: 鶴ケ峯稲荷神社 例大祭・夏祭り
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 旭区
+venue:
+  name: 鶴ヶ峰公園
+  address: null
+  lat: null
+  lng: null
+organizer: 鶴ケ峯稲荷神社
+shrine: 鶴ケ峯稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 盆踊りは19:00開始
+    source_type: media
+stalls: unknown

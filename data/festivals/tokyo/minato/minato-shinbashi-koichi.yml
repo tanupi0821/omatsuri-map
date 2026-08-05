@@ -1,0 +1,48 @@
+id: minato-shinbashi-koichi
+name: 新橋こいち祭（第29回）
+kind: 夏祭り
+scale: 区
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: 新橋駅前・SL広場周辺
+  address: null
+  lat: null
+  lng: null
+station: 新橋
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71383/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shimbashi_koichi_festival_2018_7_26_various.jpeg/1280px-Shimbashi_koichi_festival_2018_7_26_various.jpeg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Shimbashi_koichi_festival_2018_7_26_various.jpeg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg/1280px-Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg
+    width: 1000
+    height: 750
+    credit: Nesnad
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Shimbashi_koichi_festival_2018_7_26_various_22_48_50_982000.jpeg

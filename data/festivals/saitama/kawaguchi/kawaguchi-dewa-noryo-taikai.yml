@@ -1,0 +1,30 @@
+id: kawaguchi-dewa-noryo-taikai
+name: 出羽納涼大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: 安行出羽公園
+  address: 川口市安行出羽4-13
+  lat: null
+  lng: null
+organizer: 出羽地区
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://trico-kawaguchi.jp/article/event_kawaguchi/98553
+    source_name: トリコカワグチ（川口市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

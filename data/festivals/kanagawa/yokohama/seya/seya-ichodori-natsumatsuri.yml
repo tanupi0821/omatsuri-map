@@ -1,0 +1,29 @@
+id: seya-ichodori-natsumatsuri
+name: 瀬谷いちょう通り商店会 夏祭
+kind: 商店街
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 瀬谷区
+venue:
+  name: 横浜信用金庫 駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: 瀬谷いちょう通り商店会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 11:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

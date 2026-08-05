@@ -1,0 +1,38 @@
+id: nasukarasuyama-karasuyama-yamaage
+name: 烏山の山あげ行事（八雲神社 例大祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 栃木県
+  city: 那須烏山市
+  ward: null
+venue:
+  name: 烏山市街地
+  address: null
+  lat: null
+  lng: null
+recurrence: 7月第4土曜日を含む金・土・日曜日
+recurrence_source: https://www.tochigiji.or.jp/event/e16221/
+organizer: 八雲神社
+shrine: 八雲神社
+tags:
+  - ユネスコ無形文化遺産
+  - 重要無形民俗文化財
+  - 野外歌舞伎
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.tochigiji.or.jp/event/e16221/
+    source_name: とちぎ旅ネット（栃木県観光物産協会）
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 1560年から460年以上続く。国指定重要無形民俗文化財、ユネスコ無形文化遺産
+stalls: unknown

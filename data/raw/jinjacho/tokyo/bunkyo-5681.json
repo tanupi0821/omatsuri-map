@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5681",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5681",
+ "name": "稲荷神社",
+ "zip": "112-0015",
+ "address": "文京区目白台3-26-1",
+ "addressParts": [
+  "文京区",
+  "目白台3-26-1"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "東京メトロ有楽町線「護国寺駅」 徒歩5分 都バス目白駅より新宿西口行き「目白台3丁目」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月10日に近い日曜日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

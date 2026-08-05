@@ -1,0 +1,23 @@
+{
+ "id": "1207087",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207087-000/",
+ "name": "三島神社",
+ "zip": "243-0214",
+ "address": "厚木市 下古沢659",
+ "addressParts": [
+  "厚木市",
+  "下古沢659"
+ ],
+ "festivals": [
+  {
+   "date": "１２月第２日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "９月３日近い日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

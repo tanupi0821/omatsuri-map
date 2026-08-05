@@ -1,0 +1,29 @@
+{
+ "id": "chuou-jinjacho-chuou-5191-0",
+ "name": "鳥居稲荷神社 例祭",
+ "term": "鳥居稲荷神社 例祭",
+ "tokens": {
+  "strong": [
+   "鳥居稲荷神社",
+   "鳥居稲荷",
+   "鳥居"
+  ],
+  "weak": [],
+  "place": [
+   "中央区",
+   "中央"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Usitora_kanayamahiko_7fuku.jpg/1280px-Usitora_kanayamahiko_7fuku.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "㭍月例祭",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Usitora_kanayamahiko_7fuku.jpg",
+   "title": "File:Usitora kanayamahiko 7fuku.jpg"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: tsuchiura-tsuchiura-gion
+name: 土浦祇園まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 茨城県
+  city: 土浦市
+  ward: null
+venue:
+  name: 土浦市内（川口町バス停前広場、市役所うらら大屋根広場前）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

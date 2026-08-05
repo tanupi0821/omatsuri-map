@@ -1,0 +1,30 @@
+id: kashima-hanabi-ar0308e01114
+name: 式年大祭御船祭記念 第46回 鹿嶋市花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 茨城県
+  city: 鹿嶋市
+  ward: null
+venue:
+  name: 大船津地内北浦湖上
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0308e01114/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

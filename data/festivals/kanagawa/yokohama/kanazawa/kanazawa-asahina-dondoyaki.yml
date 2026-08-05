@@ -1,0 +1,29 @@
+id: kanazawa-asahina-dondoyaki
+name: 朝比奈 どんど焼き
+kind: 神事
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 朝比奈町570
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-10
+    start_time: 13:00
+    end_time: null
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+stalls: unknown

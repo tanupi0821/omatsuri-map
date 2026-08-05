@@ -1,0 +1,23 @@
+{
+ "id": "1207081",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207081-000/",
+ "name": "厚木神社",
+ "zip": "243-0007",
+ "address": "厚木市 厚木町3ｰ8",
+ "addressParts": [
+  "厚木市",
+  "厚木町3ｰ8"
+ ],
+ "festivals": [
+  {
+   "date": "３月１５日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

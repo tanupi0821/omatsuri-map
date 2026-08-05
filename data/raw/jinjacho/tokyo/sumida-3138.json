@@ -1,0 +1,21 @@
+{
+ "id": "sumida-3138",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/3138",
+ "name": "白髭神社",
+ "zip": "131-0043",
+ "address": "墨田区立花6-19-17",
+ "addressParts": [
+  "墨田区",
+  "立花6-19-17"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR総武線「平井駅」 徒歩10分 東武亀戸線「東あずま駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "ota-jinjacho-ota-5376-0",
+ "name": "三輪神社 例祭",
+ "term": "三輪神社 例祭",
+ "tokens": {
+  "strong": [
+   "三輪神社",
+   "三輪"
+  ],
+  "weak": [],
+  "place": [
+   "大田区",
+   "大田"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg",
+   "width": 1000,
+   "height": 1333,
+   "credit": "Asturio Cantabrio",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibi_Festival_Shimomachi-gumi_Houou-yama_2020-11_ac.jpg",
+   "title": "File:Ibi Festival Shimomachi-gumi Houou-yama 2020-11 ac.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ibi_Festival_Shimoshinmachi-gumi_Ichi-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Shimoshinmachi-gumi_Ichi-yama_2020-11_ac.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Asturio Cantabrio",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibi_Festival_Shimoshinmachi-gumi_Ichi-yama_2020-11_ac.jpg",
+   "title": "File:Ibi Festival Shimoshinmachi-gumi Ichi-yama 2020-11 ac.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ibi_Festival_Uemachi-gumi_Takasago-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Uemachi-gumi_Takasago-yama_2020-11_ac.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Asturio Cantabrio",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibi_Festival_Uemachi-gumi_Takasago-yama_2020-11_ac.jpg",
+   "title": "File:Ibi Festival Uemachi-gumi Takasago-yama 2020-11 ac.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ibi_Festival_Ueshinmachi-gumi_Ryugu-yama_2020-11_ac.jpg/1280px-Ibi_Festival_Ueshinmachi-gumi_Ryugu-yama_2020-11_ac.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Asturio Cantabrio",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibi_Festival_Ueshinmachi-gumi_Ryugu-yama_2020-11_ac.jpg",
+   "title": "File:Ibi Festival Ueshinmachi-gumi Ryugu-yama 2020-11 ac.jpg"
+  }
+ ]
+}

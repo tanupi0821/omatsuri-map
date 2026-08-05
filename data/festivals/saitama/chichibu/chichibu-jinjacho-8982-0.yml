@@ -1,0 +1,33 @@
+id: chichibu-jinjacho-8982-0
+name: 今宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 秩父市
+  ward: null
+venue:
+  name: 今宮神社
+  address: 秩父市中町16-10
+  lat: null
+  lng: null
+recurrence: 3月21日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8982/
+organizer: 今宮神社
+shrine: 今宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8982/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「3月21日」から導いたもので、神社が2026年の日程として発表したものではない

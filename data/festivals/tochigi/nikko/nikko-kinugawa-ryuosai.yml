@@ -1,0 +1,30 @@
+id: nikko-kinugawa-ryuosai
+name: 鬼怒川温泉 龍王祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 栃木県
+  city: 日光市
+  ward: null
+venue:
+  name: 鬼怒川温泉街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

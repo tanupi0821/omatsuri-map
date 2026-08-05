@@ -1,0 +1,27 @@
+{
+ "id": "fuchu-hanabi-ar0313e436729",
+ "name": "東京競馬場花火2026 『SHOGO HAMADA　50th ANNIVERSARY FIREWORKS 2026 　FLASH AND SHADOW ～ 光と影の季節 ～』",
+ "term": "東京競馬場花火『SHOGO HAMADA　50th ANNIVERSARY FIREWORKSFLASH AND SHADOW ～ 光と影の季節 ～』",
+ "tokens": {
+  "strong": [
+   "東京競馬場花火2026",
+   "『SHOGO",
+   "HAMADA",
+   "50th",
+   "ANNIVERSARY",
+   "FIREWORKS",
+   "2026",
+   "FLASH",
+   "AND",
+   "SHADOW",
+   "光と影の季節",
+   "～』"
+  ],
+  "weak": [],
+  "place": [
+   "府中市",
+   "府中"
+  ]
+ },
+ "photos": []
+}

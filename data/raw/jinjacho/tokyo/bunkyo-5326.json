@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5326",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5326",
+ "name": "三河稲荷神社",
+ "zip": "113-0033",
+ "address": "文京区本郷2-20-5",
+ "addressParts": [
+  "文京区",
+  "本郷2-20-5"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "東京メトロ丸ノ内線・都営大江戸線「本郷三丁目駅」 徒歩5分 JR総武線・中央線・都営三田線「水道橋駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "6月第1日曜日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

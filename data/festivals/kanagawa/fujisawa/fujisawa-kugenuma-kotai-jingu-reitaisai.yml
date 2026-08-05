@@ -1,0 +1,32 @@
+id: fujisawa-kugenuma-kotai-jingu-reitaisai
+name: 鵠沼皇大神宮 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 皇大神宮
+  address: null
+  lat: null
+  lng: null
+station: 本鵠沼
+organizer: 皇大神宮（鵠沼神明）
+shrine: 皇大神宮
+tags:
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/fujisawa-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: unknown

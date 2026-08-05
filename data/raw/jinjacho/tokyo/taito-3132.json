@@ -1,0 +1,21 @@
+{
+ "id": "taito-3132",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3132",
+ "name": "本社 三島神社",
+ "zip": "111-0042",
+ "address": "台東区寿4-9-1",
+ "addressParts": [
+  "台東区",
+  "寿4-9-1"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "地下鉄銀座線「田原町駅」 3分",
+ "festivals": [
+  {
+   "date": "5月17日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

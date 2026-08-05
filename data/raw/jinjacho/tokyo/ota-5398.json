@@ -1,0 +1,21 @@
+{
+ "id": "ota-5398",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5398",
+ "name": "北野神社",
+ "zip": "143-0025",
+ "address": "大田区南馬込2丁目",
+ "addressParts": [
+  "大田区",
+  "南馬込2丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」バス",
+ "festivals": [
+  {
+   "date": "4月25日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

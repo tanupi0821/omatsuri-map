@@ -1,0 +1,46 @@
+id: akita-009-summer-ar0205e354548
+name: 能代七夕 天空の不夜城
+kind: 夏祭り
+scale: 市
+area:
+  pref: 秋田県
+  city: 能代市
+  ward: null
+venue:
+  name: 能代市中心部の国道101号
+  address: 能代市元町11-7
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e354548/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/%E3%80%8E%E5%98%89%E5%85%AD%E3%80%8F%E5%90%84%E9%83%A8%E3%81%AE%E8%AA%AC%E6%98%8E.jpg/1280px-%E3%80%8E%E5%98%89%E5%85%AD%E3%80%8F%E5%90%84%E9%83%A8%E3%81%AE%E8%AA%AC%E6%98%8E.jpg
+    width: 1000
+    height: 1500
+    credit: 掬茶
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E3%80%8E%E5%98%89%E5%85%AD%E3%80%8F%E5%90%84%E9%83%A8%E3%81%AE%E8%AA%AC%E6%98%8E.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tenku_no_Fuyajo_Chikasue_20260803d.jpg/1280px-Tenku_no_Fuyajo_Chikasue_20260803d.jpg
+    width: 1000
+    height: 1500
+    credit: 掬茶
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tenku_no_Fuyajo_Chikasue_20260803d.jpg

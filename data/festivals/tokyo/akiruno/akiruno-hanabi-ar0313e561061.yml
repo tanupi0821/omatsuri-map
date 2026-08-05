@@ -1,0 +1,31 @@
+id: akiruno-hanabi-ar0313e561061
+name: 第7回秋川流域花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: あきる野市
+  ward: null
+venue:
+  name: 東京サマーランド第2駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e561061/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

@@ -1,0 +1,30 @@
+id: hachijo-hachijojima-noryo-hanabi
+name: 八丈島納涼花火大会（第25回）
+kind: 花火
+scale: 市
+area:
+  pref: 東京都
+  city: 八丈町
+  ward: null
+venue:
+  name: 底土港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0313/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

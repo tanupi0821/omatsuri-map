@@ -1,0 +1,44 @@
+id: suginami-asagaya-tanabata
+name: 阿佐谷七夕まつり（第70回）
+kind: 夏祭り
+scale: 区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 阿佐谷パールセンター商店街ほか
+  address: null
+  lat: null
+  lng: null
+station: 阿佐ケ谷
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71668/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A_2015_%2819870074594%29.jpg/1280px-%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A_2015_%2819870074594%29.jpg
+    width: 1000
+    height: 667
+    credit: Keiichi Yasu
+    license: CC BY-SA 2.0
+    license_url: https://creativecommons.org/licenses/by-sa/2.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%98%BF%E4%BD%90%E8%B0%B7%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A_2015_(19870074594).jpg

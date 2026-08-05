@@ -1,0 +1,30 @@
+id: takatsu-shimosakunobe-1-bonodori
+name: 下作延第1町内会 納涼盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 下作延小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: 下作延第1町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/33434
+    source_name: レアリア（2024年版一覧）
+    checked_at: 2026-08-02
+    note: 2024年の日程。開催時間は出典に記載がない
+    source_type: aggregator
+stalls: unknown

@@ -1,0 +1,31 @@
+id: namegata-aso-gion-umadashi
+name: 麻生祇園馬出し祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 行方市
+  ward: null
+venue:
+  name: 行方市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

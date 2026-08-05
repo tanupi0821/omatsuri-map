@@ -1,0 +1,31 @@
+id: hokkaido-013-summer-ar0101e510355
+name: にいかっぷふるさと祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 新冠郡新冠町
+  ward: null
+venue:
+  name: 旧JR新冠駅前広場周辺
+  address: 新冠郡新冠町字本町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e510355/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

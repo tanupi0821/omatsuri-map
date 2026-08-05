@@ -1,0 +1,30 @@
+id: hokkaido-013-goguynet-49155
+name: 北海道東照宮例大祭＆バントラ市
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 北海道東照宮
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-20
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/06/14/hokkaido-toshogu-3/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

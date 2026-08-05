@@ -1,0 +1,38 @@
+id: nishi-fujidana-ennichisai
+name: 藤棚商店街 縁日祭
+kind: 縁日
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 西区
+venue:
+  name: 藤棚商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 藤棚商店街
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-04
+      - 2026-06-14
+      - 2026-06-24
+      - 2026-07-04
+      - 2026-07-14
+      - 2026-07-24
+      - 2026-08-04
+      - 2026-08-14
+      - 2026-08-24
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 6〜8月の4日・14日・24日に開催
+    source_type: media
+stalls: yes

@@ -1,0 +1,31 @@
+id: kanagawa-001-summer-ar0314e77064
+name: 第17回 みなとみらい大盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横浜市西区
+  ward: null
+venue:
+  name: 臨港パーク・プラザ広場
+  address: 横浜市西区みなとみらい1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e77064/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

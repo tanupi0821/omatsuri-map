@@ -1,0 +1,29 @@
+id: hyogo-004-goguynet-53795
+name: 甲子園キッズフェスタ～2026 spring～
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 西宮市
+  ward: null
+venue:
+  name: だけに
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nishinomiya.goguynet.jp/2026/05/06/kidsfesta_260506/
+    source_name: 号外NET 西宮市・芦屋市
+    source_type: media
+    checked_at: 2026-08-04

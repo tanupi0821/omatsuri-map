@@ -1,0 +1,29 @@
+id: kawaguchi-sue3-sai
+name: 末3祭
+kind: 秋祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: ロケット公園
+  address: 川口市末広3-11
+  lat: null
+  lng: null
+organizer: 末広地区
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: 10:30
+    end_time: null
+    status: confirmed
+    source_url: https://trico-kawaguchi.jp/article/event_kawaguchi/98553
+    source_name: トリコカワグチ（川口市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

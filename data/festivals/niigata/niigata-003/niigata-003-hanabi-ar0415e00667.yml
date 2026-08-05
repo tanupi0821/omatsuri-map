@@ -1,0 +1,32 @@
+id: niigata-003-hanabi-ar0415e00667
+name: 片貝まつり(浅原神社 秋季例大祭奉納大煙火)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 小千谷市
+  ward: null
+venue:
+  name: 片貝町浅原神社裏手
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-11
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0415e00667/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

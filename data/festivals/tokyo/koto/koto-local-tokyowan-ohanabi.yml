@@ -1,0 +1,29 @@
+id: koto-local-tokyowan-ohanabi
+name: 東京湾大華火祭2026
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 豊洲・有明エリア
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: 17:30
+    end_time: 19:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

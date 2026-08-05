@@ -1,0 +1,30 @@
+id: gifu-004-goguynet-4107
+name: ねぎま祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 恵那市
+  ward: null
+venue:
+  name: 恵那市明智町中心市街地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/07/15/akechigion/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-08-04

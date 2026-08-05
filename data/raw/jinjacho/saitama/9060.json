@@ -1,0 +1,28 @@
+{
+ "id": "9060",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9060/",
+ "name": "小松神社",
+ "zip": null,
+ "address": "羽生市小松280",
+ "addressParts": [
+  "羽生市",
+  "小松280"
+ ],
+ "festivals": [
+  {
+   "date": "7月15日",
+   "name": "夏季例祭",
+   "alias": null
+  },
+  {
+   "date": "7月31日",
+   "name": "大祓祭（輪くぐり）",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "献穀祭",
+   "alias": null
+  }
+ ]
+}

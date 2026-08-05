@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3235",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3235",
+ "name": "笠間稲荷神社",
+ "zip": "103-0007",
+ "address": "中央区日本橋浜町2-11-6",
+ "addressParts": [
+  "中央区日本橋浜町",
+  "2-11-6"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄日比谷線・浅草線「人形町駅」 5分 新宿線「浜町駅」 2分",
+ "festivals": [
+  {
+   "date": "2月初午／11月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

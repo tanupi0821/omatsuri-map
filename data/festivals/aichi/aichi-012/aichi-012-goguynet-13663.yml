@@ -1,0 +1,45 @@
+id: aichi-012-goguynet-13663
+name: 知立まつり（本祭り）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 知立市
+  ward: null
+venue:
+  name: 知立市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-02
+      - 2026-05-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kariya-chiryu.goguynet.jp/2026/04/17/chiryumatsuri/
+    source_name: 号外NET 刈谷市・知立市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tiryuumatsuri2.JPG/1280px-Tiryuumatsuri2.JPG
+    width: 1000
+    height: 750
+    credit: Bariston
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tiryuumatsuri2.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tiryuumatsuri3.JPG/1280px-Tiryuumatsuri3.JPG
+    width: 1000
+    height: 750
+    credit: Bariston
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tiryuumatsuri3.JPG

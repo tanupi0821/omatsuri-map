@@ -1,0 +1,30 @@
+id: totsuka-yoshida-bonodori
+name: 吉田町内会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 戸塚駅東口 ラピス商店会 遊歩スクエア
+  address: null
+  lat: null
+  lng: null
+organizer: 戸塚駅東口ラピス商店会・吉田町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: yes

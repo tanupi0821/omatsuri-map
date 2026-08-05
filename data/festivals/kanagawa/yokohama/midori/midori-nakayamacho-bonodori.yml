@@ -1,0 +1,30 @@
+id: midori-nakayamacho-bonodori
+name: 中山町 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 緑区
+venue:
+  name: 中山自治会館 中庭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-30
+      - 2026-07-31
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/18/midoriku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

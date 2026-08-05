@@ -1,0 +1,21 @@
+{
+ "id": "adachi-2154",
+ "url": "http://www.tokyo-jinjacho.or.jp/adachi/2154",
+ "name": "綾瀬稲荷神社",
+ "zip": "120-0005",
+ "address": "足立区綾瀬4-9-9",
+ "addressParts": [
+  "足立区",
+  "綾瀬4-9-9"
+ ],
+ "city": "足立区",
+ "citySlugHint": "adachi",
+ "station": "JR常磐線・東京メトロ千代田線「綾瀬駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "9月13日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

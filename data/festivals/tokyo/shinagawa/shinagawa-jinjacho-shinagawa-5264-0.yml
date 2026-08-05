@@ -1,0 +1,34 @@
+id: shinagawa-jinjacho-shinagawa-5264-0
+name: 品川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 品川神社
+  address: 品川区北品川3-7-15
+  lat: null
+  lng: null
+station: 京浜急行「新馬場駅」（北口） 徒歩1分
+recurrence: 6月7日に近い日曜日を入れた金・土・日の3日間
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinagawa/5264
+organizer: 品川神社
+shrine: 品川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinagawa/5264
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月7日に近い日曜日を入れた金・土・日の3日間」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

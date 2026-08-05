@@ -1,0 +1,31 @@
+id: setagaya-setagaya-sazaesan-ennichi
+name: サザエさん縁日
+kind: 縁日
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 桜新町駅周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - title: 号外NET 世田谷区
+    url: https://setagaya.goguynet.jp/2026/07/23/sazaesan-4/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes

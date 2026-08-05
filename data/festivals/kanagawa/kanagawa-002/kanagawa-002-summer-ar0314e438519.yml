@@ -1,0 +1,31 @@
+id: kanagawa-002-summer-ar0314e438519
+name: 第38回 大野北銀河まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 相模原市中央区
+  ward: null
+venue:
+  name: 鹿沼公園
+  address: 相模原市中央区鹿沼台2-15
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e438519/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

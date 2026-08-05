@@ -1,0 +1,35 @@
+id: hakone-ashinoko-natsumatsuri-week
+name: 芦ノ湖夏まつりウィーク（6夜連続花火）
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 箱根町
+  ward: null
+venue:
+  name: 芦ノ湖各所（元箱根湾・箱根園・湖尻・箱根湾）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/hakone-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: yes

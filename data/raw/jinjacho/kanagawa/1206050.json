@@ -1,0 +1,23 @@
+{
+ "id": "1206050",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1206050-000/",
+ "name": "子聖神社",
+ "zip": "252-0000",
+ "address": "藤沢市 獺郷799",
+ "addressParts": [
+  "藤沢市",
+  "獺郷799"
+ ],
+ "festivals": [
+  {
+   "date": "９月１５日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "勤労感謝祭（きんろうかんしゃさい）",
+   "alias": null
+  }
+ ]
+}

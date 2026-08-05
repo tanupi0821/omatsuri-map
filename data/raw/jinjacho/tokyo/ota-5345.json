@@ -1,0 +1,21 @@
+{
+ "id": "ota-5345",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5345",
+ "name": "氷川神社",
+ "zip": "146-0093",
+ "address": "大田区矢口1-27-7",
+ "addressParts": [
+  "大田区",
+  "矢口1-27-7"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急多摩川線「武蔵新田駅」 5分",
+ "festivals": [
+  {
+   "date": "9月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

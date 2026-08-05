@@ -1,0 +1,31 @@
+id: fukuoka-012-summer-ar1040e147177
+name: 第64回 おおむた「大蛇山」まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 大牟田市
+  ward: null
+venue:
+  name: 大正町おまつり広場
+  address: 大牟田市大正町3丁目付近
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e147177/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

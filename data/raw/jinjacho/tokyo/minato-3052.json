@@ -1,0 +1,21 @@
+{
+ "id": "minato-3052",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3052",
+ "name": "廣尾稲荷神社",
+ "zip": "106-0047",
+ "address": "港区南麻布4-5-61",
+ "addressParts": [
+  "港区",
+  "南麻布4-5-61"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "東京メトロ日比谷線「広尾駅」 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月15日（15日に近い土曜・日曜）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

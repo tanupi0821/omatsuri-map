@@ -1,0 +1,33 @@
+id: totsuka-jinjacho-1204065-0
+name: 第六社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 第六社
+  address: 横浜市戸塚区上矢部町2969
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1204065-000/
+organizer: 第六社
+shrine: 第六社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1204065-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

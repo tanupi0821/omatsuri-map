@@ -1,0 +1,33 @@
+{
+ "id": "9424",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9424/",
+ "name": "大内神社",
+ "zip": null,
+ "address": "東秩父村大内沢681",
+ "addressParts": [
+  "東秩父村",
+  "大内沢681"
+ ],
+ "festivals": [
+  {
+   "date": "２月下旬の日曜日",
+   "name": "祈年祭",
+   "alias": null
+  },
+  {
+   "date": "５月初旬",
+   "name": "神送祭",
+   "alias": null
+  },
+  {
+   "date": "１０月１５日",
+   "name": "例大祭",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

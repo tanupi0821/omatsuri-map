@@ -1,0 +1,32 @@
+id: nagasaki-014-hanabi-ar1042e00949
+name: 2026ながさきみなとまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 長崎県
+  city: 長崎市
+  ward: null
+venue:
+  name: 長崎港、長崎水辺の森公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1042e00949/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

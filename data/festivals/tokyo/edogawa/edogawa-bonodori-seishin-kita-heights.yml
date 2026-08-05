@@ -1,0 +1,29 @@
+id: edogawa-bonodori-seishin-kita-heights
+name: 清新北ハイツ自治会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 清新北ハイツ管理事務所付近
+  address: null
+  lat: null
+  lng: null
+organizer: 清新北ハイツ自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/e034/kurashi/chiikicommunity/johokyoku/kasai/event/index.html
+    source_name: 江戸川区 えどがわ地域情報局
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

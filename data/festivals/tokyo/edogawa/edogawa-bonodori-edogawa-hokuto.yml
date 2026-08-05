@@ -1,0 +1,31 @@
+id: edogawa-bonodori-edogawa-hokuto
+name: 江戸川北東自治会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 東小岩天祖神社
+  address: null
+  lat: null
+  lng: null
+organizer: 江戸川北東自治会
+shrine: 東小岩天祖神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-13
+    start_time: 18:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/e035/kurashi/chiikicommunity/johokyoku/koiwa/omatsuri/bonodori26.html
+    source_name: 江戸川区 えどがわ地域情報局
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

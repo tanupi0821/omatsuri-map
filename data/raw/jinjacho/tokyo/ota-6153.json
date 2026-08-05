@@ -1,0 +1,21 @@
+{
+ "id": "ota-6153",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/6153",
+ "name": "天祖神社",
+ "zip": "144-0034",
+ "address": "大田区西糀谷3-19-18",
+ "addressParts": [
+  "大田区",
+  "西糀谷3-19-18"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行空港線「大鳥居駅」 4分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

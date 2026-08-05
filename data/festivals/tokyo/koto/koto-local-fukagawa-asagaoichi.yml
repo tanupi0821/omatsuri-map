@@ -1,0 +1,30 @@
+id: koto-local-fukagawa-asagaoichi
+name: 深川森下朝顔市（第33回）
+kind: 縁日
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 深川神明宮 境内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 深川神明宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 08:00
+    end_time: null
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

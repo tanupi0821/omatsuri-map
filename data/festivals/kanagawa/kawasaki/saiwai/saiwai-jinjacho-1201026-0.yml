@@ -1,0 +1,34 @@
+id: saiwai-jinjacho-1201026-0
+name: 杉山大神 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 幸区
+venue:
+  name: 杉山大神
+  address: 川崎市幸区小倉1-4-6
+  lat: null
+  lng: null
+recurrence: 8月第一土曜日／8月第一日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201026-000/
+organizer: 杉山大神
+shrine: 杉山大神
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201026-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月第一土曜日／8月第一日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,29 @@
+{
+ "id": "ehime-007-hanabi-ar0938e00029",
+ "name": "第74回 松山港まつり・三津浜花火大会",
+ "term": "松山港まつり・三津浜花火大会",
+ "tokens": {
+  "strong": [
+   "第74回",
+   "松山港まつり",
+   "三津浜花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "松山市",
+   "松山"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG/1280px-%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG",
+   "width": 1000,
+   "height": 667,
+   "credit": "Carpawa",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%B1%B1%E6%B8%AF%E3%81%BE%E3%81%A4%E3%82%8A%E8%8A%B1%E7%81%AB%E5%86%99%E7%9C%9F%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%90.JPG",
+   "title": "File:松山港まつり花火写真２０１０.JPG"
+  }
+ ]
+}

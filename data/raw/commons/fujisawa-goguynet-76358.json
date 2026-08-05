@@ -1,0 +1,57 @@
+{
+ "id": "fujisawa-goguynet-76358",
+ "name": "日本三大盆踊り",
+ "term": "日本三大盆踊り",
+ "tokens": {
+  "strong": [
+   "日本三大盆踊り"
+  ],
+  "weak": [],
+  "place": [
+   "藤沢市",
+   "藤沢"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nishimonai_Bon_Odori_20190817c.jpg/1280px-Nishimonai_Bon_Odori_20190817c.jpg",
+   "width": 1000,
+   "height": 668,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817c.jpg",
+   "title": "File:Nishimonai Bon Odori 20190817c.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nishimonai_Bon_Odori_20190817a.jpg/1280px-Nishimonai_Bon_Odori_20190817a.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817a.jpg",
+   "title": "File:Nishimonai Bon Odori 20190817a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nishimonai_Bon_Odori_20190817d.jpg/1280px-Nishimonai_Bon_Odori_20190817d.jpg",
+   "width": 1000,
+   "height": 668,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817d.jpg",
+   "title": "File:Nishimonai Bon Odori 20190817d.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nishimonai_Bon_Odori_20190817b.jpg/1280px-Nishimonai_Bon_Odori_20190817b.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori_20190817b.jpg",
+   "title": "File:Nishimonai Bon Odori 20190817b.jpg"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "taito-3007",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3007",
+ "name": "粂森稲荷神社",
+ "zip": "111-0053",
+ "address": "台東区浅草橋3-16-8",
+ "addressParts": [
+  "台東区",
+  "浅草橋3-16-8"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "都バス「蔵前一丁目」 2分",
+ "festivals": [
+  {
+   "date": "4月2日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

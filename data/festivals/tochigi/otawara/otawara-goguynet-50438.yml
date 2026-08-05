@@ -1,0 +1,29 @@
+id: otawara-goguynet-50438
+name: 大田原日曜夜市＆商店会納涼祭
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 栃木県
+  city: 大田原市
+  ward: null
+venue:
+  name: 栃木県大田原市山の手1-6-3
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nasushiobara-ohtawara.goguynet.jp/2026/07/18/ohtawara-nichiyouyoruichi2607/
+    source_name: 号外NET 那須塩原市・大田原市
+    source_type: media
+    checked_at: 2026-08-04

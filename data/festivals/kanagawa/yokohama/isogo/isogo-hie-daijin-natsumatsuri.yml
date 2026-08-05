@@ -1,0 +1,32 @@
+id: isogo-hie-daijin-natsumatsuri
+name: 日枝大神 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 日枝大神
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 日枝大神
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 屋台16:00〜21:00、催事は1日17:00〜20:30／2日18:00〜20:30
+    source_type: media
+stalls: yes

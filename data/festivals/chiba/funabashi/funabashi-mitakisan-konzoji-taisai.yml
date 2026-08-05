@@ -1,0 +1,33 @@
+id: funabashi-mitakisan-konzoji-taisai
+name: 御瀧不動尊金蔵寺 開山基（大祭）
+kind: 神事
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 御瀧不動尊金蔵寺
+  address: null
+  lat: null
+  lng: null
+recurrence: 8月27日〜28日
+recurrence_source: https://funabashi.mypl.net/article/odekake_funabashi/82605
+organizer: 御瀧不動尊金蔵寺
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-27
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 例年8月27〜28日。2026年の日程として発表されたものではない
+stalls: unknown

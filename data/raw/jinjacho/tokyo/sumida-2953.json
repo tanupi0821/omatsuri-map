@@ -1,0 +1,21 @@
+{
+ "id": "sumida-2953",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/2953",
+ "name": "白髭神社",
+ "zip": "131-0042",
+ "address": "墨田区東墨田3-13-24",
+ "addressParts": [
+  "墨田区",
+  "東墨田3-13-24"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "京成押上線「八広駅」 15分",
+ "festivals": [
+  {
+   "date": "9月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

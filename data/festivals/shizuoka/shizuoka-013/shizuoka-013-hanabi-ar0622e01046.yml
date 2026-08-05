@@ -1,0 +1,30 @@
+id: shizuoka-013-hanabi-ar0622e01046
+name: 市制75周年 第51回 焼津海上花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 焼津市
+  ward: null
+venue:
+  name: 焼津港新港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e01046/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

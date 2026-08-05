@@ -1,0 +1,34 @@
+id: kamakura-jinjacho-1205011-0
+name: 御霊神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 御霊神社
+  address: 鎌倉市坂ﾉ下4-9
+  lat: null
+  lng: null
+recurrence: 9月17日／9月18日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205011-000/
+organizer: 御霊神社
+shrine: 御霊神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1205011-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月17日／9月18日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

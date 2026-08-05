@@ -1,0 +1,32 @@
+id: inashiki-inashiki-natsumatsuri-hanabi
+name: いなしき夏まつり花火大会 2026
+kind: 花火
+scale: 市
+area:
+  pref: 茨城県
+  city: 稲敷市
+  ward: null
+venue:
+  name: 江戸崎総合運動公園周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0308e00879/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0308/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

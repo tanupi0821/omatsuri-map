@@ -1,0 +1,21 @@
+{
+ "id": "taito-3220",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3220",
+ "name": "篠塚稲荷神社",
+ "zip": "111-0052",
+ "address": "台東区柳橋1-5-1",
+ "addressParts": [
+  "台東区",
+  "柳橋1-5-1"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "JR・地下鉄浅草線「浅草橋駅」 3分 都バス「浅草橋駅前」 3分",
+ "festivals": [
+  {
+   "date": "6月6日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

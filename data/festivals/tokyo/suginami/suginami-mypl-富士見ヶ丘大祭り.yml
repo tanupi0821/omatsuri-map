@@ -1,0 +1,32 @@
+id: suginami-mypl-富士見ヶ丘大祭り
+name: 富士見ヶ丘大祭り
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 富士見ヶ丘商店街通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 杉並区
+    url: https://suginami.goguynet.jp/2026/07/29/fujimingaoka-fes-2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.mypl.net/article/summer-fes_suginami
+    source_name: まいぷれ[杉並区]
+    source_type: media
+    checked_at: 2026-08-04

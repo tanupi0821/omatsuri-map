@@ -1,0 +1,29 @@
+id: niigata-009-goguynet-58686
+name: おぐに桜まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: 長岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanagaoka.goguynet.jp/2026/04/25/oguni-sakura/
+    source_name: 号外NET 長岡市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "nakano-5994",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5994",
+ "name": "氷川神社",
+ "zip": "164-0013",
+ "address": "中野区弥生町4-27-30",
+ "addressParts": [
+  "中野区弥生町",
+  "4-27-30"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "JR「中野駅」より京王バス「南中野地域センター」 3分",
+ "festivals": [
+  {
+   "date": "8月第4日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

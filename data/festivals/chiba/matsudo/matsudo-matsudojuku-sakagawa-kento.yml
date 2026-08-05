@@ -1,0 +1,33 @@
+id: matsudo-matsudojuku-sakagawa-kento
+name: 松戸宿坂川献灯まつり（第20回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 坂川沿道
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 灯籠
+description: null
+links:
+  - title: 号外NET 松戸市
+    url: https://matsudo.goguynet.jp/2026/06/21/touroumaturi/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

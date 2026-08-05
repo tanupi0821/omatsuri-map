@@ -1,0 +1,29 @@
+id: aichi-004-summer-ar0623e195274
+name: 第44回 稲武まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: どんぐり工房前駐車場
+  address: 豊田市武節町ソト田
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e195274/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

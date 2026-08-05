@@ -1,0 +1,31 @@
+id: aichi-003-summer-ar0623e74800
+name: 第71回 おりもの感謝祭一宮七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 一宮駅、銀座通り、本町商店街、真清田神社周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74800/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

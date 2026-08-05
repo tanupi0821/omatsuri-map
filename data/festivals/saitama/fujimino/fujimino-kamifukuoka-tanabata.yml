@@ -1,0 +1,33 @@
+id: fujimino-kamifukuoka-tanabata
+name: 上福岡七夕まつり（第72回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: ふじみ野市
+  ward: null
+venue:
+  name: 上福岡駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 上福岡
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0311e551539/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

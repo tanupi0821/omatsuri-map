@@ -1,0 +1,48 @@
+{
+ "id": "9072",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9072/",
+ "name": "香取神社",
+ "zip": null,
+ "address": "越谷市大沢3-13-38",
+ "addressParts": [
+  "越谷市",
+  "大沢3-13-38"
+ ],
+ "festivals": [
+  {
+   "date": "1月1日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "2月11日",
+   "name": "祈年祭（御備社おびしゃ）",
+   "alias": null
+  },
+  {
+   "date": "6月30日",
+   "name": "夏越大祓式（なごしおおはらえ）",
+   "alias": null
+  },
+  {
+   "date": "10月9日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "12月2日",
+   "name": "香取市（おかめいち）",
+   "alias": null
+  },
+  {
+   "date": "12月29日",
+   "name": "年越大祓式（としこしおおはらえ）",
+   "alias": null
+  }
+ ]
+}

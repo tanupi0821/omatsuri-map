@@ -1,0 +1,29 @@
+id: toyama-003-goguynet-23915
+name: 山王さん（山王まつり）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 富山市
+  ward: null
+venue:
+  name: 富山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyama.goguynet.jp/2026/06/01/sannoumatsuri/
+    source_name: 号外NET 富山市
+    source_type: media
+    checked_at: 2026-08-04

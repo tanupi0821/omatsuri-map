@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5265",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5265",
+ "name": "稲荷神社",
+ "zip": "140-0011",
+ "address": "品川区東大井2-9-15",
+ "addressParts": [
+  "品川区",
+  "東大井2-9-15"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "京浜急行「鮫洲駅」 8分",
+ "festivals": [
+  {
+   "date": "2月初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "1201064",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201064-000/",
+ "name": "諏訪神社",
+ "zip": "213-0004",
+ "address": "川崎市 高津区 諏訪3-16-48",
+ "addressParts": [
+  "川崎市",
+  "高津区",
+  "諏訪3-16-48"
+ ],
+ "festivals": [
+  {
+   "date": "2月23日",
+   "name": "天長祭（てんちょうさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１１日",
+   "name": "紀元祭（きげんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月上午の日",
+   "name": "初午祭（はつうまさい）",
+   "alias": null
+  },
+  {
+   "date": "４月７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月３日",
+   "name": "明治祭（めいじさい）",
+   "alias": null
+  },
+  {
+   "date": "10月7日近い土・日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

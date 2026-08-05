@@ -1,0 +1,21 @@
+{
+ "id": "ota-200031",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/200031",
+ "name": "羽田神社",
+ "zip": "144-0044",
+ "address": "大田区本羽田3-9-12",
+ "addressParts": [
+  "大田区",
+  "本羽田3-9-12"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行空港線「大鳥居駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "7月最終土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

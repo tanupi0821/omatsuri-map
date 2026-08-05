@@ -1,0 +1,23 @@
+{
+ "id": "1205076",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205076-000/",
+ "name": "白山神社",
+ "zip": "238-0102",
+ "address": "三浦市 南下浦町菊名149",
+ "addressParts": [
+  "三浦市",
+  "南下浦町菊名149"
+ ],
+ "festivals": [
+  {
+   "date": "３月２３日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月７日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

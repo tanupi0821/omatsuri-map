@@ -1,0 +1,23 @@
+{
+ "id": "9950",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9950/",
+ "name": "熊野大神社",
+ "zip": null,
+ "address": "深谷市東方1709",
+ "addressParts": [
+  "深谷市",
+  "東方1709"
+ ],
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

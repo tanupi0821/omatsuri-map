@@ -1,0 +1,29 @@
+id: matsudo-goguynet-18637
+name: 松戸駐屯地 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 松戸市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsudo.goguynet.jp/2026/07/02/bonodoritaikai/
+    source_name: 号外NET 松戸市
+    source_type: media
+    checked_at: 2026-08-04

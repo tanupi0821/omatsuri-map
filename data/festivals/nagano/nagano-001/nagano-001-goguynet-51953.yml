@@ -1,0 +1,29 @@
+id: nagano-001-goguynet-51953
+name: 千曲夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 長野県
+  city: 千曲市
+  ward: null
+venue:
+  name: 千曲市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagano.goguynet.jp/2026/08/01/post-51953/
+    source_name: 号外NET 長野市
+    source_type: media
+    checked_at: 2026-08-04

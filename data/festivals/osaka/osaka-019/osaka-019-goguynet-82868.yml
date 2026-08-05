@@ -1,0 +1,29 @@
+id: osaka-019-goguynet-82868
+name: 大利町・はなみずき公園（大利公園）で盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://neyagawa.goguynet.jp/2026/07/10/otoshi_bonodori-2/
+    source_name: 号外NET 寝屋川市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: mito-hanabi-ar0308e00896
+name: 第66回 水戸黄門まつり 水戸偕楽園花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 千波公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0308e00896/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

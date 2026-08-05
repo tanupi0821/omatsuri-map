@@ -1,0 +1,29 @@
+id: ota-ota-yogenji
+name: 養源寺 精霊送り 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 大田区
+  ward: null
+venue:
+  name: 養源寺
+  address: null
+  lat: null
+  lng: null
+organizer: 養源寺
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otakushoren.com/event/163825
+    source_name: おーたふる 大田区商店街ナビ
+    source_type: media
+    checked_at: 2026-08-03

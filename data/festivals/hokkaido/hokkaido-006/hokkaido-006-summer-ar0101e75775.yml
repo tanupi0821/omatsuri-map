@@ -1,0 +1,31 @@
+id: hokkaido-006-summer-ar0101e75775
+name: 第70回 なかしべつ夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 標津郡中標津町
+  ward: null
+venue:
+  name: 中標津町総合文化会館、しるべっと広場
+  address: 標津郡中標津町東2条南3-1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e75775/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

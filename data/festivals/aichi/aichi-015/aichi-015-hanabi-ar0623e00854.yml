@@ -1,0 +1,39 @@
+id: aichi-015-hanabi-ar0623e00854
+name: 三好稲荷閣 大提灯まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: みよし市
+  ward: null
+venue:
+  name: 三好稲荷閣、満福寺周辺の保田ヶ池
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0623e00854/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Miyoshi_Inari%2C_Miyoshi._%C5%8C-Ch%C5%8Dchin%28Big_paper_lantern%29%282016.08.16%29.jpg/1280px-Miyoshi_Inari%2C_Miyoshi._%C5%8C-Ch%C5%8Dchin%28Big_paper_lantern%29%282016.08.16%29.jpg
+    width: 1000
+    height: 1197
+    credit: Edotih Yno
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Miyoshi_Inari,_Miyoshi._%C5%8C-Ch%C5%8Dchin(Big_paper_lantern)(2016.08.16).jpg

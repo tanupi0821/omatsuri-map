@@ -1,0 +1,30 @@
+id: edogawa-chuo-gonan
+name: 五南町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 大杉小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: 五南町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+    start_time: 19:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/documents/1797/bonodori20260717-2.pdf
+    source_name: 江戸川区 中央地区 盆踊り・夏まつり予定表
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

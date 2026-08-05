@@ -1,0 +1,33 @@
+id: tama-kuriya-noryo-bonodori
+name: 栗谷納涼盆踊り（第52回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 須賀神社 境内・下境内、錦が丘南公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 須賀神社
+tags: []
+description: null
+links:
+  - title: 号外NET 川崎市多摩区
+    url: https://kawasakitama.goguynet.jp/2026/07/23/natsumatsuri72526/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 18:30
+    end_time: 20:45
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/23/natsumatsuri72526/
+    source_name: 号外NET 川崎市多摩区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: yes

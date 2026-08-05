@@ -1,0 +1,34 @@
+id: adachi-jinjacho-adachi-2092-0
+name: 稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 稲荷神社
+  address: 足立区10-13
+  lat: null
+  lng: null
+station: 京成本線「千住大橋駅」 徒歩2分
+recurrence: 9月22日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/adachi/2092
+organizer: 稲荷神社
+shrine: 稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/adachi/2092
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月22日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

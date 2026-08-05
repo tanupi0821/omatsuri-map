@@ -1,0 +1,31 @@
+id: miyazaki-005-hanabi-ar1045e00337
+name: 第49回 やまびこ花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 宮崎県
+  city: 児湯郡西米良村
+  ward: null
+venue:
+  name: 一ツ瀬川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1045e00337/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

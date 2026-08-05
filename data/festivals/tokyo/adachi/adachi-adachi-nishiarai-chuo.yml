@@ -1,0 +1,30 @@
+id: adachi-adachi-nishiarai-chuo
+name: 西新井中央町会 町会祭り
+kind: 秋祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 中郷公園
+  address: null
+  lat: null
+  lng: null
+organizer: 西新井中央町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+    start_time: 13:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

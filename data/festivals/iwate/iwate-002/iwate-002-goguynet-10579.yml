@@ -1,0 +1,41 @@
+id: iwate-002-goguynet-10579
+name: 第65回北上・みちのく芸能まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 北上市
+  ward: null
+venue:
+  name: 北上市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0203e00647/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/07/30/mitinokugeinou-3/
+    source_name: 号外NET 花巻市・北上市・遠野市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/7/74/Iwate_Kitakami_Michinoku_Performing_Arts_Festival_s.jpg
+    width: 1000
+    height: 665
+    credit: Unknown authorUnknown author
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0
+    source: https://commons.wikimedia.org/wiki/File:Iwate_Kitakami_Michinoku_Performing_Arts_Festival_s.jpg

@@ -1,0 +1,29 @@
+id: osaka-001-summer-ar0727e115393
+name: 富田林寺内町燈路
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大阪府
+  city: 富田林市
+  ward: null
+venue:
+  name: 富田林寺内町界隈
+  address: 富田林市富田林町および本町の一部
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e115393/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

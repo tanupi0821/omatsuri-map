@@ -1,0 +1,30 @@
+id: ibaraki-004-hanabi-ar0308e00860
+name: 大洗海上花火大会2026
+kind: 花火
+scale: 市
+area:
+  pref: 茨城県
+  city: 東茨城郡大洗町
+  ward: null
+venue:
+  name: 大洗サンビーチ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0308e00860/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

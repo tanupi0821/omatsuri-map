@@ -1,0 +1,29 @@
+id: osaka-010-goguynet-67040
+name: 泉穴師神社春の賑やかし祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 泉大津市
+  ward: null
+venue:
+  name: 泉大津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanku-area.goguynet.jp/2026/04/11/izumi-anashi-jinja-5/
+    source_name: 号外NET 泉大津市・高石市・忠岡町
+    source_type: media
+    checked_at: 2026-08-04

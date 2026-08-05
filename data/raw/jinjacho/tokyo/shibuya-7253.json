@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-7253",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/7253",
+ "name": "猿楽神社",
+ "zip": "150-0033",
+ "address": "渋谷区猿楽町29-9",
+ "addressParts": [
+  "渋谷区猿楽町",
+  "29-9"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "東横線「代官山駅」 5分",
+ "festivals": [
+  {
+   "date": "11月18日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

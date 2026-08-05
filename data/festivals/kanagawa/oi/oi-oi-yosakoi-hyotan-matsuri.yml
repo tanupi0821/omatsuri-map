@@ -1,0 +1,30 @@
+id: oi-oi-yosakoi-hyotan-matsuri
+name: 大井よさこいひょうたん祭（第40回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 大井町
+  ward: null
+venue:
+  name: 大井町役場周辺・中央通り
+  address: null
+  lat: null
+  lng: null
+station: 上大井
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/oi-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: unknown

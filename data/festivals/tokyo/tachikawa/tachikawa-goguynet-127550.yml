@@ -1,0 +1,29 @@
+id: tachikawa-goguynet-127550
+name: ２０時（なくなり次第終了する場合があります） 納涼盆踊り：１８時
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: サンサンロード
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tachikawa-akishima.goguynet.jp/2026/07/24/akebono-natsumatsuri-2026/
+    source_name: 号外NET 立川市・昭島市
+    source_type: media
+    checked_at: 2026-08-04

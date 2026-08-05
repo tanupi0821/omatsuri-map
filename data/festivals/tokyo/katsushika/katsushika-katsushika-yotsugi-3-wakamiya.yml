@@ -1,0 +1,31 @@
+id: katsushika-katsushika-yotsugi-3-wakamiya
+name: 四つ木三丁目若宮町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 若宮八幡神社前
+  address: 葛飾区四つ木3-10
+  lat: null
+  lng: null
+organizer: 四つ木三丁目若宮町会
+shrine: 若宮八幡神社前
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 18:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: yes

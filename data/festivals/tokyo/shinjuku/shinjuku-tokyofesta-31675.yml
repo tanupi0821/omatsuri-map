@@ -1,0 +1,29 @@
+id: shinjuku-tokyofesta-31675
+name: 新宿二丁目太宗寺盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 太宗寺（新宿区2-9-2）
+  address: null
+  lat: null
+  lng: null
+organizer: 新宿二丁目町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31675/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

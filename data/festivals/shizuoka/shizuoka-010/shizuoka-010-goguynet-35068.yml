@@ -1,0 +1,32 @@
+id: shizuoka-010-goguynet-35068
+name: summer festival （夏祭り）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 袋井市
+  ward: null
+venue:
+  name: 袋井市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-07-07
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://iwata-fukuroi-kakegawa.goguynet.jp/2026/07/04/englishcamp/
+    source_name: 号外NET 磐田市・袋井市・掛川市
+    source_type: media
+    checked_at: 2026-08-04

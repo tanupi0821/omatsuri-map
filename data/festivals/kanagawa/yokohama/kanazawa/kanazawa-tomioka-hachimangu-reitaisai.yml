@@ -1,0 +1,31 @@
+id: kanazawa-tomioka-hachimangu-reitaisai
+name: 富岡八幡宮 例大祭・祇園舟
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 富岡八幡宮
+  address: null
+  lat: null
+  lng: null
+organizer: 富岡八幡宮
+shrine: 富岡八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: 10:00
+    end_time: null
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+    note: 祇園舟は横浜市の無形民俗文化財
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "arakawa-2931",
+ "url": "http://www.tokyo-jinjacho.or.jp/arakawa/2931",
+ "name": "八幡神社",
+ "zip": "116-0011",
+ "address": "荒川区西尾久3-7-3",
+ "addressParts": [
+  "荒川区",
+  "西尾久3-7-3"
+ ],
+ "city": "荒川区",
+ "citySlugHint": "arakawa",
+ "station": "JR山手線・京浜東北線「田端駅」 徒歩15分 都電荒川線「宮ノ前駅」 徒歩0分",
+ "festivals": [
+  {
+   "date": "8月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

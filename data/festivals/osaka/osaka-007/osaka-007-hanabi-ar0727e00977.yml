@@ -1,0 +1,30 @@
+id: osaka-007-hanabi-ar0727e00977
+name: 天神祭奉納花火
+kind: 花火
+scale: 市
+area:
+  pref: 大阪府
+  city: 大阪市北区
+  ward: null
+venue:
+  name: 川崎公園・桜之宮公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0727e00977/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

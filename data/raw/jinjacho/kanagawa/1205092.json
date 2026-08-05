@@ -1,0 +1,33 @@
+{
+ "id": "1205092",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205092-000/",
+ "name": "熊野神社",
+ "zip": "238-0316",
+ "address": "横須賀市 長井6ｰ16ｰ25",
+ "addressParts": [
+  "横須賀市",
+  "長井6ｰ16ｰ25"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１５日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月１５日",
+   "name": "秋季例祭（しゅうきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２８日",
+   "name": "大祓式（おおはらえしき）",
+   "alias": null
+  }
+ ]
+}

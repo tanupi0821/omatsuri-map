@@ -1,0 +1,24 @@
+{
+ "id": "1206064",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1206064-000/",
+ "name": "菅谷神社",
+ "zip": "253-0105",
+ "address": "高座郡 寒川町 岡田4-20-39",
+ "addressParts": [
+  "高座郡",
+  "寒川町",
+  "岡田4-20-39"
+ ],
+ "festivals": [
+  {
+   "date": "７月１５日",
+   "name": "浜降祭（はまおりさい）",
+   "alias": null
+  },
+  {
+   "date": "７月第１日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

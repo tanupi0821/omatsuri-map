@@ -1,0 +1,30 @@
+id: hodogaya-wada-jizo-matsuri
+name: 和田地蔵まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 保土ケ谷区
+venue:
+  name: 和田町商店街 中央通り・中央会場
+  address: null
+  lat: null
+  lng: null
+organizer: 和田町商店街
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+      - 2026-08-24
+    start_time: 16:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

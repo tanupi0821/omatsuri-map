@@ -1,0 +1,30 @@
+id: katsushika-katsushika-shinjuku-5
+name: 新宿五丁目自治会 秋まつり
+kind: 秋祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 新宿防災コミュニティセンター
+  address: 葛飾区新宿5-20-18
+  lat: null
+  lng: null
+organizer: 新宿五丁目自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: 09:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 屋外でゲーム・模擬店・花火、館内でバンド演奏など
+stalls: yes

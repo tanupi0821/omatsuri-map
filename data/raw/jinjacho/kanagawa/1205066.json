@@ -1,0 +1,28 @@
+{
+ "id": "1205066",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205066-000/",
+ "name": "諏訪神社",
+ "zip": "239-0808",
+ "address": "横須賀市 大津町4-22-22",
+ "addressParts": [
+  "横須賀市",
+  "大津町4-22-22"
+ ],
+ "festivals": [
+  {
+   "date": "３月春分",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "8月27日直近の土日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

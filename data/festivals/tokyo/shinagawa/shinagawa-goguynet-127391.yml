@@ -1,0 +1,30 @@
+id: shinagawa-goguynet-127391
+name: 夏フェス盆踊り2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: しながわスネークタウン
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/07/07/post-127391/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,32 @@
+id: matsuda-matsuda-kanko-matsuri
+name: まつだ観光まつり（第46回）・あしがら花火大会（第25回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 松田町
+  ward: null
+venue:
+  name: 酒匂川町民親水広場
+  address: null
+  lat: null
+  lng: null
+station: 新松田
+organizer: 松田町
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/matsuda-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 8月第4土曜日。花火は20:00から
+stalls: yes

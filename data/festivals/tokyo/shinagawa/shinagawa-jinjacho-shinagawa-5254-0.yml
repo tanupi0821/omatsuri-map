@@ -1,0 +1,34 @@
+id: shinagawa-jinjacho-shinagawa-5254-0
+name: 鹿嶋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 鹿嶋神社
+  address: 品川区大井6-18-36
+  lat: null
+  lng: null
+station: JR京浜東北線・東海道本線「大森駅」 徒歩7分
+recurrence: 10月第3日曜日と前日（賓宮）
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinagawa/5254
+organizer: 鹿嶋神社
+shrine: 鹿嶋神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinagawa/5254
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日と前日（賓宮）」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,30 @@
+id: wakayama-001-hanabi-ar0730e00161
+name: 第17回 那智勝浦町花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 和歌山県
+  city: 東牟婁郡那智勝浦町
+  ward: null
+venue:
+  name: 那智湾(ブルービーチなち)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0730e00161/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

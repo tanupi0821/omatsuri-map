@@ -1,0 +1,29 @@
+{
+ "id": "1201025",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201025-000/",
+ "name": "天照皇大神",
+ "zip": "212-0055",
+ "address": "川崎市 幸区 南加瀬1ｰ2ｰ2",
+ "addressParts": [
+  "川崎市",
+  "幸区",
+  "南加瀬1ｰ2ｰ2"
+ ],
+ "festivals": [
+  {
+   "date": "８月第１土曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "勤労感謝祭（きんろうかんしゃさい）",
+   "alias": null
+  },
+  {
+   "date": "12月冬至",
+   "name": "冬至祭（とうじさい）",
+   "alias": null
+  }
+ ]
+}

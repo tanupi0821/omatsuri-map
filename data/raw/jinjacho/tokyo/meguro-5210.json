@@ -1,0 +1,21 @@
+{
+ "id": "meguro-5210",
+ "url": "http://www.tokyo-jinjacho.or.jp/meguro/5210",
+ "name": "天祖神社",
+ "zip": "153-0051",
+ "address": "目黒区上目黒2-32-15",
+ "addressParts": [
+  "目黒区",
+  "上目黒2-32-15"
+ ],
+ "city": "目黒区",
+ "citySlugHint": "meguro",
+ "station": "地下鉄日比谷線・東急東横線「中目黒駅」 10分",
+ "festivals": [
+  {
+   "date": "9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

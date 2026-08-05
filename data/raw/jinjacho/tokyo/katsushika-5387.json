@@ -1,0 +1,21 @@
+{
+ "id": "katsushika-5387",
+ "url": "http://www.tokyo-jinjacho.or.jp/katsushika/5387",
+ "name": "香取神社",
+ "zip": "125-0061",
+ "address": "葛飾区亀有3-42-24",
+ "addressParts": [
+  "葛飾区",
+  "亀有3-42-24"
+ ],
+ "city": "葛飾区",
+ "citySlugHint": "katsushika",
+ "station": "JR常磐線「亀有駅」（南口） 徒歩3分 （JR山手線・京浜東北線「西日暮里駅」／東京メトロ千代田線「西日暮里駅」に乗かえる）",
+ "festivals": [
+  {
+   "date": "9月18日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5250",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5250",
+ "name": "波除稲荷神社",
+ "zip": "104-0045",
+ "address": "中央区築地6-20-37",
+ "addressParts": [
+  "中央区",
+  "築地6-20-37"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "都営大江戸線「築地市場駅」 徒歩5分 東京メトロ日比谷線「築地駅」 徒歩7分 都バス「築地6丁目」 徒歩2分",
+ "festivals": [
+  {
+   "date": "6月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

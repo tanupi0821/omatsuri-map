@@ -1,0 +1,31 @@
+id: adachi-chokai-hitotsuya1-20260724-2
+name: 蒲原自治会 納涼盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 蒲原自治会の地域（会場は主催者に要確認）
+  address: null
+  lat: null
+  lng: null
+organizer: 蒲原自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/hitotsuya1/
+    source_name: 一ツ家一丁目町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 町内会・自治会が自身のホームページで告知したもの。会場の詳細は出典元を参照
+stalls: unknown

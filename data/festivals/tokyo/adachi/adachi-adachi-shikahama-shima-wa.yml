@@ -1,0 +1,30 @@
+id: adachi-adachi-shikahama-shima-wa
+name: 鹿浜島町会 輪踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 島氷川神社
+  address: null
+  lat: null
+  lng: null
+organizer: 鹿浜島町会
+shrine: 島氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

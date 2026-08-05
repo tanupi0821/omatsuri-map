@@ -1,0 +1,21 @@
+{
+ "id": "tosho-5663",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/5663",
+ "name": "大神山神社",
+ "zip": "100-2101",
+ "address": "小笠原村父島字東町105",
+ "addressParts": [
+  "小笠原村",
+  "父島字東町105"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "小笠原定期航路 おがさわら丸就航",
+ "festivals": [
+  {
+   "date": "11月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

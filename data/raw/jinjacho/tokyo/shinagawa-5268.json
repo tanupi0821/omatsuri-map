@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5268",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5268",
+ "name": "寄木神社",
+ "zip": "140-0002",
+ "address": "品川区東品川1-35-8",
+ "addressParts": [
+  "品川区",
+  "東品川1-35-8"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "京浜急行「新馬場駅」北口 5分",
+ "festivals": [
+  {
+   "date": "5月14日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "1209292",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209292-000/",
+ "name": "今泉神社",
+ "zip": "257-0014",
+ "address": "秦野市 今泉314",
+ "addressParts": [
+  "秦野市",
+  "今泉314"
+ ],
+ "festivals": [
+  {
+   "date": "４月１６日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "大祓（おおはらい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２５日",
+   "name": "大祓（おおはらい）",
+   "alias": null
+  }
+ ]
+}

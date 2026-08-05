@@ -1,0 +1,30 @@
+id: toyama-002-hanabi-ar0516e00064
+name: 第57回 じゃんとこい魚津まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 富山県
+  city: 魚津市
+  ward: null
+venue:
+  name: 魚津港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0516e00064/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

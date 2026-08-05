@@ -1,0 +1,32 @@
+id: matsudo-shin-matsudo-matsuri
+name: 新松戸まつり（第40回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: けやき通り・新松戸中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - title: 号外NET 松戸市
+    url: https://matsudo.goguynet.jp/2026/06/23/sinmatudomaturi/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes

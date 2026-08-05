@@ -1,0 +1,45 @@
+id: ishikawa-001-goguynet-7432
+name: おかえり祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 石川県
+  city: 白山市
+  ward: null
+venue:
+  name: 白山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakusan-nomi-nonoichi.goguynet.jp/2026/04/23/okaeri/
+    source_name: 号外NET 白山市・能美市・野々市市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_%281%29.jpg/1280px-Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_%281%29.jpg
+    width: 1000
+    height: 665
+    credit: Asturio Cantabrio
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_(1).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_%283%29.jpg/1280px-Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_%283%29.jpg
+    width: 1000
+    height: 665
+    credit: Asturio Cantabrio
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Mikawa_Fujitsuka-jinja_Otabisyo_2021-03_ac_(3).jpg

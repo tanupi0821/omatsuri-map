@@ -1,0 +1,30 @@
+id: saitama-nishi-sashiogi-matsuri
+name: 大宮夏まつり 指扇まつり大会（第54回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 西区
+venue:
+  name: 指扇中学校ほか
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 09:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 9:30〜12:00と15:00〜21:00の二部制
+stalls: unknown

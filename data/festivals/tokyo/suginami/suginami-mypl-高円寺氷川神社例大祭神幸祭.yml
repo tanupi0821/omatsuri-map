@@ -1,0 +1,30 @@
+id: suginami-mypl-高円寺氷川神社例大祭神幸祭
+name: 高円寺氷川神社 例大祭・神幸祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 高円寺氷川神社（気象神社）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.mypl.net/article/summer-fes_suginami
+    source_name: まいぷれ[杉並区]
+    source_type: media
+    checked_at: 2026-08-04

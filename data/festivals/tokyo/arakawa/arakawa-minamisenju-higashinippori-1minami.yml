@@ -1,0 +1,29 @@
+id: arakawa-minamisenju-higashinippori-1minami
+name: 南千住・東日暮里一丁目南町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 第六瑞光小学校 校庭
+  address: null
+  lat: null
+  lng: null
+organizer: 南千住・東日暮里一丁目南町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.arakawa.tokyo.jp/documents/45496/20260721_08.pdf
+    source_name: 荒川区 町会・自治会の夏の催し
+    source_type: gov
+    checked_at: 2026-08-03

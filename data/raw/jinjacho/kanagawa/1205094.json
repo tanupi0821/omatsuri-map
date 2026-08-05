@@ -1,0 +1,28 @@
+{
+ "id": "1205094",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205094-000/",
+ "name": "八雲神社",
+ "zip": "238-0316",
+ "address": "横須賀市 長井町1-5-1",
+ "addressParts": [
+  "横須賀市",
+  "長井町1-5-1"
+ ],
+ "festivals": [
+  {
+   "date": "１月１６日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月下旬",
+   "name": "神幸祭（しんこうさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月１６日",
+   "name": "秋季例祭（しゅうきれいさい）",
+   "alias": null
+  }
+ ]
+}

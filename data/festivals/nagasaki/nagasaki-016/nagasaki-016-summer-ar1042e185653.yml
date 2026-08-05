@@ -1,0 +1,29 @@
+id: nagasaki-016-summer-ar1042e185653
+name: 第17回 いさり火山笠まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 長崎県
+  city: 対馬市
+  ward: null
+venue:
+  name: 高浜漁港埋立地
+  address: 対馬市美津島町鷄知甲1287-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1042e185653/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

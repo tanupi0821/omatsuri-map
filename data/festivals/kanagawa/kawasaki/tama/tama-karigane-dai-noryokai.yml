@@ -1,0 +1,29 @@
+id: tama-karigane-dai-noryokai
+name: かりがね台自治会 納涼会
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 生田広場（特別養護老人ホーム）
+  address: null
+  lat: null
+  lng: null
+organizer: かりがね台自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/07/16/natsumatsuri2026_1/
+    source_name: 号外NET 川崎市多摩区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

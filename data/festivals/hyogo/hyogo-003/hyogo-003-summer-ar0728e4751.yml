@@ -1,0 +1,31 @@
+id: hyogo-003-summer-ar0728e4751
+name: 貴布禰神社夏季大祭(尼崎だんじり祭り)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: 貴布禰神社
+  address: 尼崎市西本町6-246
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e4751/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

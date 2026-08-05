@@ -1,0 +1,32 @@
+id: sumida-solamachi-natsumatsuri
+name: 東京ソラマチ夏まつり
+kind: 夏祭り
+scale: 区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: ソラマチひろば・1階ソラマチ商店街
+  address: null
+  lat: null
+  lng: null
+station: とうきょうスカイツリー
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+    start_time: 12:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sumida-media.tokyo.jp/archives/1023
+    source_name: すみだデスク
+    source_type: media
+    checked_at: 2026-08-03

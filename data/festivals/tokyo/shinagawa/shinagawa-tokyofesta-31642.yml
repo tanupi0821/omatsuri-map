@@ -1,0 +1,31 @@
+id: shinagawa-tokyofesta-31642
+name: 天王洲夏夜祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: アイルしながわ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 号外NET 品川区
+    url: https://shinagawa.goguynet.jp/2026/06/23/tennnouzunatuiyasai-with-okinawa/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31642/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

@@ -1,0 +1,33 @@
+id: omiya-jinjacho-8850-1
+name: 氷川神社 神幸祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 大宮区
+venue:
+  name: 氷川神社
+  address: さいたま市大宮区高鼻町1-407
+  lat: null
+  lng: null
+recurrence: 8月2日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8850/
+organizer: 氷川神社
+shrine: 氷川神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8850/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月2日」から導いたもので、神社が2026年の日程として発表したものではない

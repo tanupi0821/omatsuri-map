@@ -1,0 +1,34 @@
+id: shibuya-jinjacho-shibuya-2064-0
+name: 青山熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: 青山熊野神社
+  address: 渋谷区神宮前2-2-22
+  lat: null
+  lng: null
+station: 東京メトロ銀座線「外苑前駅」 徒歩5分
+recurrence: 9月21日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shibuya/2064
+organizer: 青山熊野神社
+shrine: 青山熊野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shibuya/2064
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月21日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

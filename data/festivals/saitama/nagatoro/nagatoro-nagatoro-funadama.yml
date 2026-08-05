@@ -1,0 +1,32 @@
+id: nagatoro-nagatoro-funadama
+name: 長瀞船玉まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 長瀞町
+  ward: null
+venue:
+  name: 荒川岩畳周辺
+  address: null
+  lat: null
+  lng: null
+station: 長瀞
+organizer: null
+stalls: yes
+tags:
+  - 花火
+  - 灯籠流し
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

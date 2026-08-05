@@ -1,0 +1,30 @@
+id: chiba-006-goguynet-73094
+name: 新習志野駅前商店会まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 習志野市
+  ward: null
+venue:
+  name: 習志野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-23
+      - 2026-05-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yachiyo-narashino.goguynet.jp/2026/05/17/shinnarashinonatsumatsuri-5/
+    source_name: 号外NET 八千代市・習志野市
+    source_type: media
+    checked_at: 2026-08-04

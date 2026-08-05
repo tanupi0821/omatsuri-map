@@ -1,0 +1,44 @@
+id: osaka-024-goguynet-151449
+name: 商店街の夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市住吉区
+  ward: null
+venue:
+  name: あびんこ商店街(地下鉄あびこ中央商店街)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/07/09/abinkoyomise/
+    source_name: 号外NET 大阪市住吉区・東住吉区
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785980602%29.jpg/1280px-SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785980602%29.jpg
+    width: 1000
+    height: 1500
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._(7785980602).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785951064%29.jpg/1280px-SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._%287785951064%29.jpg
+    width: 1000
+    height: 1333
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_MARUYAMA_shopping_street_summer_festival._(7785951064).jpg

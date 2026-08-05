@@ -1,0 +1,32 @@
+id: sagamihara-minami-torinma-summer-warnival
+name: 東林間サマーわぁ！ニバル
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 南区
+venue:
+  name: 東林間駅前大通り（シャンテ大通り）
+  address: null
+  lat: null
+  lng: null
+station: 東林間
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/sagamihara-minami-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 東林間の夏を彩る阿波おどりイベント。入場無料
+stalls: unknown

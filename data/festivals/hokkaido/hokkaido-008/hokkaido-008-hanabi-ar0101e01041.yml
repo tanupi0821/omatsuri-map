@@ -1,0 +1,45 @@
+id: hokkaido-008-hanabi-ar0101e01041
+name: 第74回 勝毎花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 帯広市
+  ward: null
+venue:
+  name: 十勝川河川敷特設会場(十勝大橋下流400メートル付近)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e01041/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kachimai_Hanabi_Taikai.jpg/1280px-Kachimai_Hanabi_Taikai.jpg
+    width: 1000
+    height: 744
+    credit: カイロス
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kachimai_Hanabi_Taikai_2010.jpg/1280px-Kachimai_Hanabi_Taikai_2010.jpg
+    width: 1000
+    height: 444
+    credit: カイロス
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai_2010.jpg

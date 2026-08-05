@@ -1,0 +1,36 @@
+id: minamiashigara-ashigara-kintaro-matsuri
+name: 足柄金太郎まつり（第50回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 南足柄市
+  ward: null
+venue:
+  name: 南足柄市内
+  address: null
+  lat: null
+  lng: null
+organizer: 南足柄市
+tags:
+  - 神輿
+  - 山車
+  - 花火
+description: null
+links:
+  - https://www.city.minamiashigara.kanagawa.jp/kankou/matsuri/p08650.html
+  - title: 号外NET 小田原市（県西地域）
+    url: https://odawara.goguynet.jp/2026/07/24/kintarofes/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://mcity-kankokyokai.com/?cat=4
+    source_name: 南足柄市観光協会
+    source_type: official
+    checked_at: 2026-08-02
+    note: 市内最大のまつり。御輿の巡行と山車文化の披露、ステージイベント。フィナーレの花火は20:15〜20:35
+stalls: yes

@@ -1,0 +1,31 @@
+id: kawaguchi-maekawa-1-bonodori
+name: 前川第一町会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: 前川南公園
+  address: 川口市南前川2-15-2
+  lat: null
+  lng: null
+organizer: 前川第一町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-23
+    start_time: 18:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://trico-kawaguchi.jp/article/event_kawaguchi/98553
+    source_name: トリコカワグチ（川口市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 22日は18:30〜21:00、23日は18:30〜20:00
+stalls: unknown

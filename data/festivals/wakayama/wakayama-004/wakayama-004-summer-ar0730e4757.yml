@@ -1,0 +1,31 @@
+id: wakayama-004-summer-ar0730e4757
+name: 粉河祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 和歌山県
+  city: 紀の川市
+  ward: null
+venue:
+  name: 粉河とんまか通り
+  address: 紀の川市粉河地区内
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0730e4757/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

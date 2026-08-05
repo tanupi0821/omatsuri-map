@@ -1,0 +1,21 @@
+{
+ "id": "meguro-5211",
+ "url": "http://www.tokyo-jinjacho.or.jp/meguro/5211",
+ "name": "氷川神社",
+ "zip": "153-0044",
+ "address": "目黒区大橋2-16-21",
+ "addressParts": [
+  "目黒区",
+  "大橋2-16-21"
+ ],
+ "city": "目黒区",
+ "citySlugHint": "meguro",
+ "station": "東急田園都市線「池尻大橋駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "8月25日に近い土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

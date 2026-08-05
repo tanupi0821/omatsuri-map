@@ -1,0 +1,33 @@
+id: mito-yoshida-jinja-andon
+name: 常陸第三宮 吉田神社 あんどん祭・御田植祭・盆踊り大会
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 吉田神社
+  address: null
+  lat: null
+  lng: null
+organizer: 吉田神社
+shrine: 吉田神社
+tags:
+  - 灯籠
+  - 盆踊り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.tour.ne.jp/matome/articles/j545/
+    source_name: トラベルコ
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

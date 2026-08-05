@@ -1,0 +1,21 @@
+{
+ "id": "ota-5604",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5604",
+ "name": "大森神社",
+ "zip": "143-0016",
+ "address": "大田区大森北6-32-12",
+ "addressParts": [
+  "大田区",
+  "大森北6-32-12"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行「平和島駅」 2分",
+ "festivals": [
+  {
+   "date": "9月14日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

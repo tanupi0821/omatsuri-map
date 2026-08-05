@@ -1,0 +1,32 @@
+id: utsunomiya-futaarayama-daidai-kagura
+name: 宇都宮二荒山神社 太々神楽
+kind: 神事
+scale: 市
+area:
+  pref: 栃木県
+  city: 宇都宮市
+  ward: null
+venue:
+  name: 宇都宮二荒山神社
+  address: null
+  lat: null
+  lng: null
+station: 宇都宮
+organizer: 宇都宮二荒山神社
+shrine: 宇都宮二荒山神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - http://futaarayamajinja.jp/nenkan/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.walkerplus.com/event_list/ar0309/eg0055/
+    source_name: ウォーカープラス お祭り一覧
+    source_type: aggregator
+    checked_at: 2026-08-03

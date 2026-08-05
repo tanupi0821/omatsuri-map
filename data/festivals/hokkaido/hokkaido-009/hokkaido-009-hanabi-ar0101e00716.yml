@@ -1,0 +1,30 @@
+id: hokkaido-009-hanabi-ar0101e00716
+name: 第36回記念大会 きたむら田舎フェスティバル2026 沼上連発花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 岩見沢市
+  ward: null
+venue:
+  name: 北村中央公園ふれあい広場(北村環境改善センター横)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00716/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

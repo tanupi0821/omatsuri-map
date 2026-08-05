@@ -1,0 +1,31 @@
+id: yamato-yamatomachi-hachiman-bonodori
+name: 大和町八幡神社 大盆踊り会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 大和市
+  ward: null
+venue:
+  name: 大和町八幡神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+shrine: 八幡神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 15:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yamato-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 雨天のときは翌日
+stalls: unknown

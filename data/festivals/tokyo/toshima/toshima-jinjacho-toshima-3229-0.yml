@@ -1,0 +1,34 @@
+id: toshima-jinjacho-toshima-3229-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: 氷川神社
+  address: 豊島区高田2-2-18
+  lat: null
+  lng: null
+station: 都電荒川線「面影橋停留所」「学習院下停留所」 徒歩3分 東京メトロ副都心線「雑司が谷駅」 徒歩10分 JR「池袋駅」から都営バス渋谷行き「学習院下」 徒歩3分 JR山手線「目白駅」 徒歩15分 JR山手線・東京メトロ東西線・西武新宿線「高田馬場駅」 徒歩15分
+recurrence: 9月10日（例祭日に近い土日で、御神輿渡御御神楽奉奏）
+recurrence_source: http://www.tokyo-jinjacho.or.jp/toshima/3229
+organizer: 氷川神社
+shrine: 氷川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/toshima/3229
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月10日（例祭日に近い土日で、御神輿渡御御神楽奉奏）」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

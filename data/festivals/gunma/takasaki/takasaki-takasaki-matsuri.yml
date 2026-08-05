@@ -1,0 +1,36 @@
+id: takasaki-takasaki-matsuri
+name: 高崎まつり（第52回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 高崎市
+  ward: null
+venue:
+  name: 高崎市中心市街地・もてなし広場ほか
+  address: null
+  lat: null
+  lng: null
+station: 高崎
+organizer: null
+tags:
+  - 花火
+  - 盆踊り
+  - 山車
+description: null
+links:
+  - https://www.takasaki-matsuri.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 群馬県最大級の夏祭り。約70万人が訪れ、約15,000発の花火。大盆踊り大会も行われる
+stalls: unknown

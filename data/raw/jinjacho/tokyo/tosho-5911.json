@@ -1,0 +1,21 @@
+{
+ "id": "tosho-5911",
+ "url": "http://www.tokyo-jinjacho.or.jp/tosho/5911",
+ "name": "大宮神社",
+ "zip": "100-0104",
+ "address": "大島町野増字大宮",
+ "addressParts": [
+  "大島町",
+  "野増字大宮"
+ ],
+ "city": "島嶼",
+ "citySlugHint": "tosho",
+ "station": "東京より大島まで汽船で6時間 「岡田港」よりバス30分",
+ "festivals": [
+  {
+   "date": "6月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

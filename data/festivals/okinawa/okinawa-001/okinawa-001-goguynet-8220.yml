@@ -1,0 +1,29 @@
+id: okinawa-001-goguynet-8220
+name: 納涼ビアフェスタ
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 沖縄県
+  city: 那覇市
+  ward: null
+venue:
+  name: ファミーユ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://naha.goguynet.jp/2026/08/03/jalcity/
+    source_name: 号外NET 那覇市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "nakano-5315",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5315",
+ "name": "八幡神社",
+ "zip": "165-0034",
+ "address": "中野区大和町2-30-3",
+ "addressParts": [
+  "中野区大和町",
+  "2-30-3"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "JR 「高円寺駅」 北へ13分",
+ "festivals": [
+  {
+   "date": "7月第4日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

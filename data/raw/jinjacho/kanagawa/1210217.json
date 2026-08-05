@@ -1,0 +1,24 @@
+{
+ "id": "1210217",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210217-000/",
+ "name": "日枝社",
+ "zip": "258-0019",
+ "address": "足柄上郡 大井町 金子字河原726",
+ "addressParts": [
+  "足柄上郡",
+  "大井町",
+  "金子字河原726"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

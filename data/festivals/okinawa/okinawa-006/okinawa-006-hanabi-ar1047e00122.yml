@@ -1,0 +1,32 @@
+id: okinawa-006-hanabi-ar1047e00122
+name: てだこポケットフェスタ～第49回 浦添てだこまつり～
+kind: 夏祭り
+scale: 市
+area:
+  pref: 沖縄県
+  city: 浦添市
+  ward: null
+venue:
+  name: 浦添カルチャーパーク、アイム・ユニバースてだこホール
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1047e00122/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

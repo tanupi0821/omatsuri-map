@@ -1,0 +1,44 @@
+id: akita-003-summer-ar0205e4769
+name: 大館大文字まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 秋田県
+  city: 大館市
+  ward: null
+venue:
+  name: 長木川花火会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e4769/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Odate_daimonjiyaki_and_laser_beam_2018.jpg/1280px-Odate_daimonjiyaki_and_laser_beam_2018.jpg
+    width: 1000
+    height: 750
+    credit: Marho
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Odate_daimonjiyaki_and_laser_beam_2018.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Odate_Daimonji_Festival_02.jpg/1280px-Odate_Daimonji_Festival_02.jpg
+    width: 1000
+    height: 748
+    credit: Aoiwaaki
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Odate_Daimonji_Festival_02.jpg

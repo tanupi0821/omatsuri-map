@@ -1,0 +1,36 @@
+id: maebashi-maebashi-tanabata
+name: 前橋七夕まつり（第76回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 前橋市
+  ward: null
+venue:
+  name: 前橋市中心商店街
+  address: null
+  lat: null
+  lng: null
+station: 前橋
+organizer: null
+tags: []
+description: null
+links:
+  - https://maebashi-tanabata.jp/
+  - https://summer.walkerplus.com/odekake/list/ar0310/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0310e187243/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.maebashi-cvb.com/feature/tanabata/tanabata
+    source_name: 前橋観光コンベンション協会
+    source_type: gov
+    checked_at: 2026-08-02
+stalls: yes

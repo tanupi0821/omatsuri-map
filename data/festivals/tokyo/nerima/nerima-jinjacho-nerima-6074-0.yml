@@ -1,0 +1,34 @@
+id: nerima-jinjacho-nerima-6074-0
+name: 天祖若宮八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 天祖若宮八幡宮
+  address: 練馬区北3-34-32
+  lat: null
+  lng: null
+station: 西武新宿線「武蔵関駅」西へ徒歩5分 JR中央線「荻窪駅」よりバス20分、「三鷹駅」よりバス10分「関町北2丁目」下車 徒歩1分
+recurrence: 9月28日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/nerima/6074
+organizer: 天祖若宮八幡宮
+shrine: 天祖若宮八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/nerima/6074
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月28日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

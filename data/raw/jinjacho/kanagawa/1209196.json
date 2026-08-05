@@ -1,0 +1,28 @@
+{
+ "id": "1209196",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209196-000/",
+ "name": "日月神社",
+ "zip": "259-1126",
+ "address": "伊勢原市 沼目2-21-8",
+ "addressParts": [
+  "伊勢原市",
+  "沼目2-21-8"
+ ],
+ "festivals": [
+  {
+   "date": "７月１５日",
+   "name": "大祓い（おおばらい）",
+   "alias": null
+  },
+  {
+   "date": "１２月上旬",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月上旬",
+   "name": "大祓い（おおばらい）",
+   "alias": null
+  }
+ ]
+}

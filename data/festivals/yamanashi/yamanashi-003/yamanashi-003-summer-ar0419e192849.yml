@@ -1,0 +1,29 @@
+id: yamanashi-003-summer-ar0419e192849
+name: 第8回 小江戸甲府の夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山梨県
+  city: 甲府市
+  ward: null
+venue:
+  name: 舞鶴城公園(甲府城跡)
+  address: 甲府市丸の内
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0419e192849/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

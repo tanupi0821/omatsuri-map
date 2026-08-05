@@ -1,0 +1,30 @@
+id: funabashi-narashinodai-2-natsumatsuri
+name: 習志野台2丁目町会 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 北習志野第五号公園
+  address: null
+  lat: null
+  lng: null
+organizer: 習志野台2丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

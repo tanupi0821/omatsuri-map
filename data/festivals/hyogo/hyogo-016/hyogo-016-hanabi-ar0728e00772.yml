@@ -1,0 +1,30 @@
+id: hyogo-016-hanabi-ar0728e00772
+name: 第49回 香住ふるさとまつり海上花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 兵庫県
+  city: 美方郡香美町
+  ward: null
+venue:
+  name: 香住浜(しおかぜ香苑)沖合
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0728e00772/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

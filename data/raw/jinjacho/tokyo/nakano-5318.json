@@ -1,0 +1,21 @@
+{
+ "id": "nakano-5318",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/5318",
+ "name": "氷川神社",
+ "zip": "164-0012",
+ "address": "中野区本町4-10-3",
+ "addressParts": [
+  "中野区本町",
+  "4-10-3"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "東京メトロ丸ノ内線「中野新橋駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "9月第1日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

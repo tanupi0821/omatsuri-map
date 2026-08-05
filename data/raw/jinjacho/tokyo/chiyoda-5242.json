@@ -1,0 +1,21 @@
+{
+ "id": "chiyoda-5242",
+ "url": "http://www.tokyo-jinjacho.or.jp/chiyoda/5242",
+ "name": "稲荷神社",
+ "zip": "101-0052",
+ "address": "千代田区神田小川町3-9",
+ "addressParts": [
+  "千代田区神田小川町",
+  "3-9"
+ ],
+ "city": "千代田区",
+ "citySlugHint": "chiyoda",
+ "station": "JR・地下鉄丸ノ内線「御茶ノ水駅」 10分",
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

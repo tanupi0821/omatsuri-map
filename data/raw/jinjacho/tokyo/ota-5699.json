@@ -1,0 +1,21 @@
+{
+ "id": "ota-5699",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5699",
+ "name": "天祖神社",
+ "zip": "143-0023",
+ "address": "大田区山王2-8-1",
+ "addressParts": [
+  "大田区",
+  "山王2-8-1"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」 1分",
+ "festivals": [
+  {
+   "date": "9月下旬",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

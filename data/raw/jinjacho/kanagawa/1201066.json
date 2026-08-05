@@ -1,0 +1,29 @@
+{
+ "id": "1201066",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201066-000/",
+ "name": "氷川神社",
+ "zip": "213-0031",
+ "address": "川崎市 高津区 宇奈根646",
+ "addressParts": [
+  "川崎市",
+  "高津区",
+  "宇奈根646"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月３０日",
+   "name": "大祓式（おおはらえしき）",
+   "alias": null
+  },
+  {
+   "date": "10月体育の日の前日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

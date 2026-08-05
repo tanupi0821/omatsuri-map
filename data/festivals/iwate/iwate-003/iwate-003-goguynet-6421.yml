@@ -1,0 +1,32 @@
+id: iwate-003-goguynet-6421
+name: 盛岡七夕まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 盛岡市
+  ward: null
+venue:
+  name: 盛岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+      - 2026-08-07
+      - 2026-08-06
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://morioka.goguynet.jp/2026/08/04/moriokatanabatamatsuri-2026/
+    source_name: 号外NET 盛岡市
+    source_type: media
+    checked_at: 2026-08-04

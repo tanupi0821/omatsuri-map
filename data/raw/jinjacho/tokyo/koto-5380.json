@@ -1,0 +1,21 @@
+{
+ "id": "koto-5380",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/5380",
+ "name": "大島稲荷神社",
+ "zip": "136-0072",
+ "address": "江東区大島5-39-26",
+ "addressParts": [
+  "江東区",
+  "大島5-39-26"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": "JR総武線「亀戸駅」より都バス「大島5丁目」 徒歩2分 都営新宿線「大島駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+id: miura-jinjacho-1205074-0
+name: 海南神社 夏例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 三浦市
+  ward: null
+venue:
+  name: 海南神社
+  address: 三浦市三崎4ｰ12ｰ11
+  lat: null
+  lng: null
+recurrence: 7月海の日前の土日両日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205074-000/
+organizer: 海南神社
+shrine: 海南神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1205074-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月海の日前の土日両日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

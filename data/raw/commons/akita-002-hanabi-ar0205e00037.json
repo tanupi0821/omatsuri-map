@@ -1,0 +1,57 @@
+{
+ "id": "akita-002-hanabi-ar0205e00037",
+ "name": "花輪ねぷた",
+ "term": "花輪ねぷた",
+ "tokens": {
+  "strong": [
+   "花輪ねぷた"
+  ],
+  "weak": [],
+  "place": [
+   "鹿角市",
+   "鹿角"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hanawa_Neputa_02.jpg/1280px-Hanawa_Neputa_02.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Aoiwaaki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_02.jpg",
+   "title": "File:Hanawa Neputa 02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hanawa_Neputa_01.jpg/1280px-Hanawa_Neputa_01.jpg",
+   "width": 1000,
+   "height": 1337,
+   "credit": "Aoiwaaki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_01.jpg",
+   "title": "File:Hanawa Neputa 01.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hanawa_Neputa_03.jpg/1280px-Hanawa_Neputa_03.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Aoiwaaki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_03.jpg",
+   "title": "File:Hanawa Neputa 03.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hanawa_Neputa_05.jpg/1280px-Hanawa_Neputa_05.jpg",
+   "width": 1000,
+   "height": 563,
+   "credit": "Aoiwaaki",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanawa_Neputa_05.jpg",
+   "title": "File:Hanawa Neputa 05.jpg"
+  }
+ ]
+}

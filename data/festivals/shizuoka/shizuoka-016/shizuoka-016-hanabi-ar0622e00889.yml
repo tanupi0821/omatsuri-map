@@ -1,0 +1,45 @@
+id: shizuoka-016-hanabi-ar0622e00889
+name: 第73回 安倍川花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 静岡市葵区
+  ward: null
+venue:
+  name: 安倍川河川敷(田町三丁目付近)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e00889/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abekawahanabitaikai_20220723i.jpg/1280px-Abekawahanabitaikai_20220723i.jpg
+    width: 1000
+    height: 938
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723i.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abekawahanabitaikai_20220723k.jpg/1280px-Abekawahanabitaikai_20220723k.jpg
+    width: 1000
+    height: 968
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723k.jpg

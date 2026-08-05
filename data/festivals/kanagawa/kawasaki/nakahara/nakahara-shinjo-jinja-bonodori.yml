@@ -1,0 +1,32 @@
+id: nakahara-shinjo-jinja-bonodori
+name: 新城神社 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 新城神社
+  address: 川崎市中原区新城中町4-14
+  lat: null
+  lng: null
+organizer: null
+shrine: 新城神社
+tags: []
+description: null
+links:
+  - https://www.kanagawa-jinja.or.jp/shrine/1201044-000/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 18:30
+    end_time: 21:30
+    status: confirmed
+    source_url: https://www.townnews.co.jp/0204/2026/07/24/845965.html
+    source_name: タウンニュース 中原区版
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

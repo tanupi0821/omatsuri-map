@@ -1,0 +1,31 @@
+id: yamaguchi-010-summer-ar0835e4823
+name: 山口七夕ちょうちんまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山口県
+  city: 山口市
+  ward: null
+venue:
+  name: 山口市中心商店街およびパークロード周辺
+  address: 山口市亀山町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0835e4823/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,21 @@
+{
+ "id": "taito-5935",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5935",
+ "name": "境稲荷神社",
+ "zip": "110-0008",
+ "address": "台東区池之端1-6-13",
+ "addressParts": [
+  "台東区",
+  "池之端1-6-13"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "地下鉄千代田線「湯島駅」 北300M",
+ "festivals": [
+  {
+   "date": "9月20日／9月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

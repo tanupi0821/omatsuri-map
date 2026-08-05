@@ -1,0 +1,28 @@
+{
+ "id": "8898",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8898/",
+ "name": "川越八幡神社",
+ "zip": null,
+ "address": "川越市南通町19-1",
+ "addressParts": [
+  "川越市",
+  "南通町19-1"
+ ],
+ "festivals": [
+  {
+   "date": "5月4日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "10月14日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "6月30日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

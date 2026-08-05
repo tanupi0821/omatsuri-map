@@ -1,0 +1,34 @@
+id: setagaya-jinjacho-setagaya-5858-0
+name: 東玉川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 東玉川神社
+  address: 世田谷区東玉川1-32-9
+  lat: null
+  lng: null
+station: 東急東横線「田園調布駅」 徒歩13分 東急目蒲線「奥沢駅」 徒歩11分 東急池上線「雪ヶ谷大塚駅」 徒歩11分
+recurrence: 8月第3日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/setagaya/5858
+organizer: 東玉川神社
+shrine: 東玉川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/setagaya/5858
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月第3日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

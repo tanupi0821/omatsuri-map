@@ -1,0 +1,34 @@
+id: hodogaya-tachibana-jinja-reitaisai
+name: 橘樹神社 例大祭（天王祭）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 保土ケ谷区
+venue:
+  name: 橘樹神社・天王町商店街
+  address: null
+  lat: null
+  lng: null
+station: 天王町
+organizer: null
+shrine: 橘樹神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+      - 2026-06-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/hodogaya-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+recurrence: 6月15日に近い土曜日・日曜日
+recurrence_source: https://yokohamahodogaya.goguynet.jp/2025/05/06/tachibanajinnjya/
+stalls: unknown

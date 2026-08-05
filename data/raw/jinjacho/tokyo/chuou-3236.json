@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3236",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3236",
+ "name": "小網神社",
+ "zip": "103-0016",
+ "address": "中央区日本橋小網町16-23",
+ "addressParts": [
+  "中央区日本橋小網町",
+  "16-23"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "東京メトロ日比谷線「人形町駅」（A2） 徒歩5分 都営浅草線「人形町駅」（A5） 徒歩5分 東京メトロ東西線「茅場町駅」 徒歩10分 東京メトロ半蔵門線「水天宮前駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "5月28日（土日の際は前後します）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

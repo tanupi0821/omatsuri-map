@@ -1,0 +1,21 @@
+{
+ "id": "taito-5228",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5228",
+ "name": "稲荷神社",
+ "zip": "110-0012",
+ "address": "台東区竜泉2-19-3",
+ "addressParts": [
+  "台東区",
+  "竜泉2-19-3"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "東京メトロ日比谷線「三ノ輪駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "5月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

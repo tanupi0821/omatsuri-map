@@ -1,0 +1,29 @@
+id: nara-001-goguynet-25459
+name: 町民盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 生駒市・香芝市周辺
+  ward: null
+venue:
+  name: 王寺健民運動場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ikoma-kashiba.goguynet.jp/2026/07/31/oji-bonodori-2026/
+    source_name: 号外NET 生駒市・香芝市
+    source_type: media
+    checked_at: 2026-08-04

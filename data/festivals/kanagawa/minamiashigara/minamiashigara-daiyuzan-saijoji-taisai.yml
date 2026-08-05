@@ -1,0 +1,33 @@
+id: minamiashigara-daiyuzan-saijoji-taisai
+name: 大雄山最乗寺 道了尊大祭（9月大祭）
+kind: 神事
+scale: 市
+area:
+  pref: 神奈川県
+  city: 南足柄市
+  ward: null
+venue:
+  name: 大雄山最乗寺
+  address: null
+  lat: null
+  lng: null
+recurrence: 1月・5月・9月の27日〜28日（年3回）
+recurrence_source: https://www.city.minamiashigara.kanagawa.jp/kankou/matsuri/p08650.html
+organizer: 大雄山最乗寺
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+      - 2026-09-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.city.minamiashigara.kanagawa.jp/kankou/matsuri/p08650.html
+    source_name: 南足柄市 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 日付は「1・5・9月の27〜28日」という決まりから導いたもので、寺が2026年の日程として発表したものではない
+stalls: unknown

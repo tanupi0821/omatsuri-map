@@ -1,0 +1,30 @@
+id: takatsu-kanigaya-bonodori
+name: 蟹ヶ谷自治会 納涼盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 蟹ヶ谷保育園
+  address: null
+  lat: null
+  lng: null
+organizer: 蟹ヶ谷自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-07-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/33434
+    source_name: レアリア（2024年版一覧）
+    checked_at: 2026-08-02
+    note: 2024年の日程。開催時間は出典に記載がない
+    source_type: aggregator
+stalls: unknown

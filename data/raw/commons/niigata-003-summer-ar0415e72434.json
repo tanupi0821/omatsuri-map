@@ -1,0 +1,57 @@
+{
+ "id": "niigata-003-summer-ar0415e72434",
+ "name": "新潟まつり",
+ "term": "新潟まつり",
+ "tokens": {
+  "strong": [
+   "新潟まつり"
+  ],
+  "weak": [],
+  "place": [
+   "新潟市中央区",
+   "新潟市中央"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Niigata-Matsuri_20130811-02.JPG/1280px-Niigata-Matsuri_20130811-02.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "DAI-nk",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130811-02.JPG",
+   "title": "File:Niigata-Matsuri 20130811-02.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Niigata-Matsuri_20130811-01.JPG/1280px-Niigata-Matsuri_20130811-01.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "DAI-nk",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130811-01.JPG",
+   "title": "File:Niigata-Matsuri 20130811-01.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Niigata-Matsuri_20130811-03.JPG/1280px-Niigata-Matsuri_20130811-03.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "DAI-nk",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130811-03.JPG",
+   "title": "File:Niigata-Matsuri 20130811-03.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Niigata-Matsuri_20130809-07.JPG/1280px-Niigata-Matsuri_20130809-07.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "DAI-nk",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130809-07.JPG",
+   "title": "File:Niigata-Matsuri 20130809-07.JPG"
+  }
+ ]
+}

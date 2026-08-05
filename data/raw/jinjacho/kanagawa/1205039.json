@@ -1,0 +1,23 @@
+{
+ "id": "1205039",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205039-000/",
+ "name": "龍口明神社",
+ "zip": "248-0033",
+ "address": "鎌倉市 腰越1548ｰ4",
+ "addressParts": [
+  "鎌倉市",
+  "腰越1548ｰ4"
+ ],
+ "festivals": [
+  {
+   "date": "１０月上旬土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月上旬日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

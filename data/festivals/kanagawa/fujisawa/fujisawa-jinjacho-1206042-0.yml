@@ -1,0 +1,33 @@
+id: fujisawa-jinjacho-1206042-0
+name: 白旗神社 どんど祭
+kind: 神事
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 白旗神社
+  address: 藤沢市藤沢2-4-7
+  lat: null
+  lng: null
+recurrence: 1月14日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1206042-000/
+organizer: 白旗神社
+shrine: 白旗神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1206042-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「1月14日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

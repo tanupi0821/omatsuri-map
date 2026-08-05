@@ -1,0 +1,33 @@
+id: sagamihara-midori-jinjacho-1208243-0
+name: 石楯尾神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 緑区
+venue:
+  name: 石楯尾神社
+  address: 相模原市緑区佐野川3448
+  lat: null
+  lng: null
+recurrence: 8月23日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1208243-000/
+organizer: 石楯尾神社
+shrine: 石楯尾神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1208243-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月23日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

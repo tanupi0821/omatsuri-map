@@ -1,0 +1,21 @@
+{
+ "id": "ota-200148",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/200148",
+ "name": "六郷神社",
+ "zip": "144-0046",
+ "address": "大田区東六郷3-10-18",
+ "addressParts": [
+  "大田区",
+  "東六郷3-10-18"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行「六郷土手駅」 7分 京急バス蒲田発「六郷神社」 3分",
+ "festivals": [
+  {
+   "date": "6月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

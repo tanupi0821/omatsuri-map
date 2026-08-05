@@ -1,0 +1,29 @@
+{
+ "id": "1202120",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202120-000/",
+ "name": "驚神社",
+ "zip": "225-0003",
+ "address": "横浜市 青葉区 新石川町1ｰ24ｰ9",
+ "addressParts": [
+  "横浜市",
+  "青葉区",
+  "新石川町1ｰ24ｰ9"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "勤労感謝祭（きんろうかんしゃさい）",
+   "alias": null
+  },
+  {
+   "date": "10月体育の日の前の日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

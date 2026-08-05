@@ -1,0 +1,30 @@
+id: matsudo-goguynet-18834
+name: ラストサマーフェス盆おどり2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 松戸市
+  ward: null
+venue:
+  name: 松戸中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsudo.goguynet.jp/2026/07/27/post-18834/
+    source_name: 号外NET 松戸市
+    source_type: media
+    checked_at: 2026-08-04

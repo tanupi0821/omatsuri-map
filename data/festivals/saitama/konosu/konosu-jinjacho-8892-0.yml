@@ -1,0 +1,33 @@
+id: konosu-jinjacho-8892-0
+name: 鴻神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 鴻巣市
+  ward: null
+venue:
+  name: 鴻神社
+  address: 鴻巣市本宮町1-9
+  lat: null
+  lng: null
+recurrence: 10月14日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8892/
+organizer: 鴻神社
+shrine: 鴻神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8892/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

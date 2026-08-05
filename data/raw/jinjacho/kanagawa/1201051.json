@@ -1,0 +1,24 @@
+{
+ "id": "1201051",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201051-000/",
+ "name": "宇佐神社",
+ "zip": "216-0000",
+ "address": "川崎市 高津区 下野毛2-6-8",
+ "addressParts": [
+  "川崎市",
+  "高津区",
+  "下野毛2-6-8"
+ ],
+ "festivals": [
+  {
+   "date": "７月２０日近い日曜日",
+   "name": "夏季大祭（かきたいさい）",
+   "alias": null
+  },
+  {
+   "date": "9月23日近い休日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

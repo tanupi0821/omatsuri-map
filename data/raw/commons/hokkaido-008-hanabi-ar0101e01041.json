@@ -1,0 +1,58 @@
+{
+ "id": "hokkaido-008-hanabi-ar0101e01041",
+ "name": "第74回 勝毎花火大会",
+ "term": "勝毎花火大会",
+ "tokens": {
+  "strong": [
+   "第74回",
+   "勝毎花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "帯広市",
+   "帯広"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kachimai_Hanabi_Taikai.jpg/1280px-Kachimai_Hanabi_Taikai.jpg",
+   "width": 1000,
+   "height": 744,
+   "credit": "カイロス",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai.jpg",
+   "title": "File:Kachimai Hanabi Taikai.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kachimai_Hanabi_Taikai_2010.jpg/1280px-Kachimai_Hanabi_Taikai_2010.jpg",
+   "width": 1000,
+   "height": 444,
+   "credit": "カイロス",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai_2010.jpg",
+   "title": "File:Kachimai Hanabi Taikai 2010.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kachimai_Hanabi_Taikai_2012.jpg/1280px-Kachimai_Hanabi_Taikai_2012.jpg",
+   "width": 1000,
+   "height": 457,
+   "credit": "カイロス",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai_2012.jpg",
+   "title": "File:Kachimai Hanabi Taikai 2012.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kachimai_Hanabi_Taikai_2013.jpg/1280px-Kachimai_Hanabi_Taikai_2013.jpg",
+   "width": 1000,
+   "height": 642,
+   "credit": "カイロス",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Kachimai_Hanabi_Taikai_2013.jpg",
+   "title": "File:Kachimai Hanabi Taikai 2013.jpg"
+  }
+ ]
+}

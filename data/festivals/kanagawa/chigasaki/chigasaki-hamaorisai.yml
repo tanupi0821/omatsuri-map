@@ -1,0 +1,40 @@
+id: chigasaki-hamaorisai
+name: 茅ヶ崎海岸 浜降祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 茅ヶ崎市
+  ward: null
+venue:
+  name: 茅ヶ崎西浜海岸（サザンビーチ）
+  address: null
+  lat: null
+  lng: null
+station: 茅ケ崎
+organizer: null
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: 07:00
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/chigasaki-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 茅ヶ崎・寒川の約40基の神輿が暁の海でみそぎ。未明に各神社を出発し7:00から合同祭。寒川神社ほか多数の神社が参加
+stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/28/%E6%B5%9C%E9%99%8D%E7%A5%AD.jpg
+    width: 1000
+    height: 747
+    credit: Kafuka1964
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:%E6%B5%9C%E9%99%8D%E7%A5%AD.jpg

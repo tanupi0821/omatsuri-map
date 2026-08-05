@@ -1,0 +1,27 @@
+{
+ "id": "miyagi-011-goguynet-18126",
+ "name": "石巻川開き祭り",
+ "term": "石巻川開き祭り",
+ "tokens": {
+  "strong": [
+   "石巻川開き祭り"
+  ],
+  "weak": [],
+  "place": [
+   "石巻市",
+   "石巻"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ishinomaki_kawahiraki_fes%2C_2026.jpg/1280px-Ishinomaki_kawahiraki_fes%2C_2026.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "石巻敎祖",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ishinomaki_kawahiraki_fes,_2026.jpg",
+   "title": "File:Ishinomaki kawahiraki fes, 2026.jpg"
+  }
+ ]
+}

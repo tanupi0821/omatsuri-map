@@ -1,0 +1,21 @@
+{
+ "id": "sumida-3139",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/3139",
+ "name": "吾嬬神社",
+ "zip": "131-0043",
+ "address": "墨田区立花1-1-15",
+ "addressParts": [
+  "墨田区",
+  "立花1-1-15"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR「亀戸駅」 15分",
+ "festivals": [
+  {
+   "date": "8月16日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

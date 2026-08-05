@@ -1,0 +1,21 @@
+{
+ "id": "toshima-5286",
+ "url": "http://www.tokyo-jinjacho.or.jp/toshima/5286",
+ "name": "長崎神社",
+ "zip": "171-0051",
+ "address": "豊島区長崎1-9-4",
+ "addressParts": [
+  "豊島区",
+  "長崎1-9-4"
+ ],
+ "city": "豊島区",
+ "citySlugHint": "toshima",
+ "station": "西武池袋線「椎名町駅」北口駅前",
+ "festivals": [
+  {
+   "date": "9月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": "1204023",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204023-000/",
+ "name": "町屋神社",
+ "zip": "236-0022",
+ "address": "横浜市 金沢区 町屋町4ｰ20",
+ "addressParts": [
+  "横浜市",
+  "金沢区",
+  "町屋町4ｰ20"
+ ],
+ "festivals": [
+  {
+   "date": "７月６日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１３日",
+   "name": "秋季大祭（しゅうきたいさい）",
+   "alias": null
+  }
+ ]
+}

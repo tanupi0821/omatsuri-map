@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5737",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5737",
+ "name": "船江神社",
+ "zip": "130-0005",
+ "address": "墨田区東駒形1-18-10",
+ "addressParts": [
+  "墨田区",
+  "東駒形1-18-10"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "地下鉄銀座線・浅草線「浅草駅」 5分",
+ "festivals": [
+  {
+   "date": "5月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

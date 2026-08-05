@@ -1,0 +1,24 @@
+{
+ "id": "1201035",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201035-000/",
+ "name": "天照皇大神宮",
+ "zip": "211-0035",
+ "address": "川崎市 中原区 井田中ノ町13-24",
+ "addressParts": [
+  "川崎市",
+  "中原区",
+  "井田中ノ町13-24"
+ ],
+ "festivals": [
+  {
+   "date": "４月２１日",
+   "name": "春祭（はるまつり）",
+   "alias": null
+  },
+  {
+   "date": "１０月第１土曜日",
+   "name": "大祭（たいさい）",
+   "alias": null
+  }
+ ]
+}

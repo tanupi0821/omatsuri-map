@@ -1,0 +1,34 @@
+id: suginami-jinjacho-suginami-5404-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 八幡神社
+  address: 杉並区下高井戸4-39-3
+  lat: null
+  lng: null
+station: 京王井の頭線「浜田山駅」 徒歩10分 京王線「桜上水駅」 徒歩15分
+recurrence: 9月最終日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/suginami/5404
+organizer: 八幡神社
+shrine: 八幡神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/suginami/5404
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月最終日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,28 @@
+{
+ "id": "hyogo-010-hanabi-ar0728e00767",
+ "name": "猪名川花火大会 2026年",
+ "term": "猪名川花火大会年",
+ "tokens": {
+  "strong": [
+   "猪名川花火大会",
+   "2026年"
+  ],
+  "weak": [],
+  "place": [
+   "川西市",
+   "川西"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Inagawa_Hanabi.jpeg",
+   "width": 1000,
+   "height": 918,
+   "credit": "Skate-song at Japanese Wikipedia",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Inagawa_Hanabi.jpeg",
+   "title": "File:Inagawa Hanabi.jpeg"
+  }
+ ]
+}

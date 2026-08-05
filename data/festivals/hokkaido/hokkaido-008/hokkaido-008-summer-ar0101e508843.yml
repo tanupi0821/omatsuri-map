@@ -1,0 +1,31 @@
+id: hokkaido-008-summer-ar0101e508843
+name: 第42回 八雲山車行列
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 二海郡八雲町
+  ward: null
+venue:
+  name: 八雲町本町通り　ほか
+  address: 二海郡八雲町本町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-03
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e508843/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

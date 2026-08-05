@@ -1,0 +1,34 @@
+id: meguro-jinjacho-meguro-5205-0
+name: 碑文谷八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 碑文谷八幡宮
+  address: 目黒区碑文谷3-7-3
+  lat: null
+  lng: null
+station: JR「目黒駅」より、東急バス大岡山小学校行き20分の「碑文谷八幡前」 東急東横線「学芸大学駅」 徒歩15分
+recurrence: 9月敬老の日の前々日・前日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/meguro/5205
+organizer: 碑文谷八幡宮
+shrine: 碑文谷八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/meguro/5205
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月敬老の日の前々日・前日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,30 @@
+id: chigasaki-goguynet-59274
+name: ブランチ茅ケ崎夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 茅ヶ崎市
+  ward: null
+venue:
+  name: 茅ヶ崎市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chigasaki.goguynet.jp/2026/08/03/branch-chigasaki-summer-event-20260822-23/
+    source_name: 号外NET 茅ヶ崎市
+    source_type: media
+    checked_at: 2026-08-04

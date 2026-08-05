@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-2948",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/2948",
+ "name": "稲荷神社",
+ "zip": "154-0022",
+ "address": "世田谷区梅丘1-60-7",
+ "addressParts": [
+  "世田谷区",
+  "梅丘1-60-7"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "小田急線「梅丘駅」 4分",
+ "festivals": [
+  {
+   "date": "10月17日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

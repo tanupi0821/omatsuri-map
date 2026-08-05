@@ -1,0 +1,44 @@
+{
+ "id": "8861",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8861/",
+ "name": "氷川女體神社",
+ "zip": null,
+ "address": "さいたま市緑区宮本2-17-1",
+ "addressParts": [
+  "さいたま市",
+  "緑区",
+  "宮本2-17-1"
+ ],
+ "festivals": [
+  {
+   "date": "1月1日",
+   "name": "歳旦祭",
+   "alias": null
+  },
+  {
+   "date": "2月18日",
+   "name": "祈年祭",
+   "alias": null
+  },
+  {
+   "date": "5月4日",
+   "name": "祇園磐船龍神祭",
+   "alias": null
+  },
+  {
+   "date": "7月31日",
+   "name": "名越の大祓",
+   "alias": null
+  },
+  {
+   "date": "10月8日",
+   "name": "例大祭",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "新嘗祭",
+   "alias": null
+  }
+ ]
+}

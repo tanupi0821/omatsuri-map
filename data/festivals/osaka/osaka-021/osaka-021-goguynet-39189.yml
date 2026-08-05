@@ -1,0 +1,29 @@
+id: osaka-021-goguynet-39189
+name: 疫病退散 花摘祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市西区
+  ward: null
+venue:
+  name: 堺市西区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakai-nishi.goguynet.jp/2026/04/11/hanatsumisai2026/
+    source_name: 号外NET 堺市堺区・西区
+    source_type: media
+    checked_at: 2026-08-04

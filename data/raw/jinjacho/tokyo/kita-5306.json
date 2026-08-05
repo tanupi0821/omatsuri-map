@@ -1,0 +1,21 @@
+{
+ "id": "kita-5306",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5306",
+ "name": "平塚神社",
+ "zip": "114-0016",
+ "address": "北区上中里1-47-1",
+ "addressParts": [
+  "北区",
+  "上中里1-47-1"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR京浜東北線「上中里駅」 徒歩2分 東京メトロ南北線「西ヶ原駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

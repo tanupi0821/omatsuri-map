@@ -1,0 +1,30 @@
+id: tomisato-hanabi-ar0312e00263
+name: とみちゃん夏まつり 花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 富里市
+  ward: null
+venue:
+  name: WNSとみさとスマイルパーク(富里中央公園)野球場・同駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e00263/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

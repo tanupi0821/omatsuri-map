@@ -1,0 +1,21 @@
+{
+ "id": "toshima-5280",
+ "url": "http://www.tokyo-jinjacho.or.jp/toshima/5280",
+ "name": "氷川神社",
+ "zip": "170-0011",
+ "address": "豊島区池袋本町3-14-1",
+ "addressParts": [
+  "豊島区池袋本町",
+  "3-14-1"
+ ],
+ "city": "豊島区",
+ "citySlugHint": "toshima",
+ "station": "東武東上線「下板橋駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月16日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: midori-nakayama-matsuri
+name: 中山まつり（第45回）
+kind: 秋祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 緑区
+venue:
+  name: 中山駅南口ロータリー・商店街駐車場・商店街通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-03
+    start_time: 09:15
+    end_time: 16:00
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/18/midoriku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

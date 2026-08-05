@@ -1,0 +1,30 @@
+id: setagaya-setagaya-okamoto-jichikai
+name: 岡本自治会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 長圓寺
+  address: null
+  lat: null
+  lng: null
+organizer: 岡本自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://setagaya.guide/sightseeing/event/setagaya-summer-festival/
+    source_name: 世田谷ガイド
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,34 @@
+id: koto-jinjacho-koto-2078-0
+name: 水神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 水神社
+  address: 江東区亀戸4-11-19
+  lat: null
+  lng: null
+station: JR「亀戸駅」 北6分
+recurrence: 6月15日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/koto/2078
+organizer: 水神社
+shrine: 水神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/koto/2078
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月15日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

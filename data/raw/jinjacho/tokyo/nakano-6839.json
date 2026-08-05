@@ -1,0 +1,21 @@
+{
+ "id": "nakano-6839",
+ "url": "http://www.tokyo-jinjacho.or.jp/nakano/6839",
+ "name": "須賀稲荷神社",
+ "zip": "165-0023",
+ "address": "中野区江原町1-44-2",
+ "addressParts": [
+  "中野区江原町",
+  "1-44-2"
+ ],
+ "city": "中野区",
+ "citySlugHint": "nakano",
+ "station": "西武池袋線「江古田駅」 20分",
+ "festivals": [
+  {
+   "date": "2月初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

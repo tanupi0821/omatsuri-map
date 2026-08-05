@@ -1,0 +1,29 @@
+id: hokkaido-010-summer-ar0101e74969
+name: 洞爺夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 虻田郡洞爺湖町
+  ward: null
+venue:
+  name: とうや水の駅
+  address: 虻田郡洞爺湖町洞爺町100
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74969/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

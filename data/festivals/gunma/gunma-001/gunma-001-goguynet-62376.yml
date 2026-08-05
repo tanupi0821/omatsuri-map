@@ -1,0 +1,32 @@
+id: gunma-001-goguynet-62376
+name: いせさき楽市夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 群馬県
+  city: 伊勢崎市
+  ward: null
+venue:
+  name: 伊勢崎市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-08
+      - 2026-08-15
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://isesaki.goguynet.jp/2026/07/31/isesaki-rakuichi-yoruichi/
+    source_name: 号外NET 伊勢崎市
+    source_type: media
+    checked_at: 2026-08-04

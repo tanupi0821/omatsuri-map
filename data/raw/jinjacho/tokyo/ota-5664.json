@@ -1,0 +1,21 @@
+{
+ "id": "ota-5664",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5664",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "〒 東京都大田区久が原1丁目",
+ "addressParts": [
+  "〒 東京都大田区",
+  "久が原1丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急バス〔蒲12〕「道々橋八幡前」 東急バス〔森05〕「久が原出世観音」",
+ "festivals": [
+  {
+   "date": "9月第2土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

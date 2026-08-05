@@ -1,0 +1,30 @@
+id: hasuda-goguynet-8582
+name: 竹ランタン納涼祭
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 蓮田市
+  ward: null
+venue:
+  name: 蓮田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shiraoka-hasuda.goguynet.jp/2026/07/11/cainz-hasuda-2/
+    source_name: 号外NET 白岡市・蓮田市
+    source_type: media
+    checked_at: 2026-08-04

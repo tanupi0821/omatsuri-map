@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3147",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3147",
+ "name": "池洲稲荷神社",
+ "zip": "103-0012",
+ "address": "中央区日本橋堀留町2-4-10",
+ "addressParts": [
+  "中央区日本橋堀留町",
+  "2-4-10"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄日比谷線「小伝馬町駅」 8分",
+ "festivals": [
+  {
+   "date": "5月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

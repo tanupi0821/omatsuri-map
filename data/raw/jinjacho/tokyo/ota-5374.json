@@ -1,0 +1,21 @@
+{
+ "id": "ota-5374",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5374",
+ "name": "稲荷神社",
+ "zip": "143-0025",
+ "address": "大田区南馬込4丁目",
+ "addressParts": [
+  "大田区",
+  "南馬込4丁目"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「大森駅」バス",
+ "festivals": [
+  {
+   "date": "初午",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

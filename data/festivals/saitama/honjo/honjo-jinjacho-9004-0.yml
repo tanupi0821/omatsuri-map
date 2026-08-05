@@ -1,0 +1,33 @@
+id: honjo-jinjacho-9004-0
+name: 若泉稲荷神社 東本庄稲荷神社にて ○例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 本庄市
+  ward: null
+venue:
+  name: 若泉稲荷神社
+  address: 本庄市北堀209
+  lat: null
+  lng: null
+recurrence: 1月3日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9004/
+organizer: 若泉稲荷神社
+shrine: 若泉稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9004/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「1月3日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

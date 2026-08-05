@@ -1,0 +1,41 @@
+id: tatebayashi-tatebayashi-matsuri
+name: 館林まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 館林市
+  ward: null
+venue:
+  name: 館林市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0310/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0310e305050/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: yes
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yagoe_building_-_In_Festival.jpg/1280px-Yagoe_building_-_In_Festival.jpg
+    width: 1000
+    height: 750
+    credit: Kochizufan
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Yagoe_building_-_In_Festival.jpg

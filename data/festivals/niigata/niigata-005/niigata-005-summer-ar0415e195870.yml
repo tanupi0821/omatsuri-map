@@ -1,0 +1,29 @@
+id: niigata-005-summer-ar0415e195870
+name: 水原まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 阿賀野市
+  ward: null
+venue:
+  name: 水原商工会前、本町通り、水原代官所前
+  address: 阿賀野市外城町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e195870/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

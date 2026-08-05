@@ -1,0 +1,41 @@
+id: sayama-irumagawa-tanabata
+name: 狭山市入間川七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 狭山市
+  ward: null
+venue:
+  name: 狭山市駅西口・七夕通り商店街
+  address: null
+  lat: null
+  lng: null
+station: 狭山市
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0311e551413/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0311/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sayama_City_Irumagawa_Tanabata_Festival_20230730-_MG_6321.jpg/1280px-Sayama_City_Irumagawa_Tanabata_Festival_20230730-_MG_6321.jpg
+    width: 1000
+    height: 1500
+    credit: SEMISAYAMASHI
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Sayama_City_Irumagawa_Tanabata_Festival_20230730-_MG_6321.jpg

@@ -1,0 +1,30 @@
+id: asahi-chiba-hanabi-ar0312e00249
+name: 旭市いいおかYOU・遊フェスティバル2026 海浜花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 旭市
+  ward: null
+venue:
+  name: 飯岡海岸
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e00249/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

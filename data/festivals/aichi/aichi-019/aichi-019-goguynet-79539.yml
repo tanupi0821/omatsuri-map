@@ -1,0 +1,29 @@
+id: aichi-019-goguynet-79539
+name: 納涼ビール電車
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 豊橋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyohashi-tahara.goguynet.jp/2026/05/28/beer-densha-2/
+    source_name: 号外NET 豊橋市・田原市
+    source_type: media
+    checked_at: 2026-08-04

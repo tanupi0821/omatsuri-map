@@ -1,0 +1,24 @@
+{
+ "id": "1204036",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204036-000/",
+ "name": "浅間神社",
+ "zip": "235-0023",
+ "address": "横浜市 磯子区 森2-16-7",
+ "addressParts": [
+  "横浜市",
+  "磯子区",
+  "森2-16-7"
+ ],
+ "festivals": [
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "8月14日・15日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

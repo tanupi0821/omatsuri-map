@@ -1,0 +1,32 @@
+id: koto-hanabi-ar0313e561051
+name: JO1 5th Anniversary ～祭り～
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 海の森水上競技場 特設会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-18
+      - 2025-10-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0313e561051/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない

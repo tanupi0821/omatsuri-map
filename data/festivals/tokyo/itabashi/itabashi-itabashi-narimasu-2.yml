@@ -1,0 +1,30 @@
+id: itabashi-itabashi-narimasu-2
+name: 成増第二町会 子どもお楽しみ大会
+kind: こどもまつり
+scale: 町内会
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 成増児童遊園
+  address: null
+  lat: null
+  lng: null
+organizer: 成増第二町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 10:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.itabashi-life.com/2026natumaturi.pdf
+    source_name: いたばしらいふ 令和8年夏祭り・盆踊り等開催予定
+    source_type: media
+    checked_at: 2026-08-03
+    note: 板橋区成増地区
+stalls: unknown

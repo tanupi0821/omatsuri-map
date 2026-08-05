@@ -1,0 +1,18 @@
+{
+ "id": "ota-5339",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5339",
+ "name": "八雲神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京浜急行「雑色駅」 15分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

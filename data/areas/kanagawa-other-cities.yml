@@ -1,0 +1,50 @@
+# 横浜市・川崎市以外の神奈川県 31 市町村。
+# 1 ファイルに複数市町村をまとめる形（loadAreas が政令市の 1 市 1 ファイル形式と両方読む）。
+#
+# 政令市は相模原市のみ区がある。それ以外は区がないので、
+# festivals は data/festivals/kanagawa/<slug>/ の直下に置かれる。
+
+pref: 神奈川県
+
+cities:
+  - name: 相模原市
+    slug: sagamihara
+    wards:
+      - { name: 緑区,   slug: sagamihara-midori }
+      - { name: 中央区, slug: sagamihara-chuo }
+      - { name: 南区,   slug: sagamihara-minami }
+    sources:
+      - { name: 神奈川すまいラボ 相模原市緑区, url: https://kanagawa-sumai-labo.com/sagamihara-midori-natsumatsuri/, type: aggregator }
+      - { name: 神奈川すまいラボ 相模原市中央区, url: https://kanagawa-sumai-labo.com/sagamihara-chuo-natsumatsuri/, type: aggregator }
+      - { name: 神奈川すまいラボ 相模原市南区, url: https://kanagawa-sumai-labo.com/sagamihara-minami-natsumatsuri/, type: aggregator }
+
+  - { name: 横須賀市,   slug: yokosuka,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/yokosuka-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 平塚市,     slug: hiratsuka,  sources: [{ name: 平塚市 湘南ひらつか七夕まつり, url: https://www.city.hiratsuka.kanagawa.jp/kanko/page-c_01099.html, type: gov }] }
+  - { name: 鎌倉市,     slug: kamakura,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/kamakura-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 藤沢市,     slug: fujisawa,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/fujisawa-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 小田原市,   slug: odawara,    sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/odawara-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 茅ヶ崎市,   slug: chigasaki,  sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/chigasaki-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 逗子市,     slug: zushi,      sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/zushi-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 三浦市,     slug: miura,      sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/miura-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 秦野市,     slug: hadano,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/hadano-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 厚木市,     slug: atsugi,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/atsugi-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 大和市,     slug: yamato,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/yamato-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 伊勢原市,   slug: isehara,    sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/isehara-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 海老名市,   slug: ebina,      sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/ebina-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 座間市,     slug: zama,       sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/zama-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 南足柄市,   slug: minamiashigara, sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/minamiashigara-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 綾瀬市,     slug: ayase,      sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/ayase-shi-natsumatsuri/, type: aggregator }] }
+  - { name: 葉山町,     slug: hayama,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/hayama-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 寒川町,     slug: samukawa,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/samukawa-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 大磯町,     slug: oiso,       sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/oiso-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 二宮町,     slug: ninomiya,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/ninomiya-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 中井町,     slug: nakai,      sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/nakai-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 大井町,     slug: oi,         sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/oi-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 松田町,     slug: matsuda,    sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/matsuda-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 山北町,     slug: yamakita,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/yamakita-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 開成町,     slug: kaisei,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/kaisei-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 箱根町,     slug: hakone,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/hakone-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 真鶴町,     slug: manazuru,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/manazuru-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 湯河原町,   slug: yugawara,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/yugawara-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 愛川町,     slug: aikawa,     sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/aikawa-machi-natsumatsuri/, type: aggregator }] }
+  - { name: 清川村,     slug: kiyokawa,   sources: [{ name: 神奈川すまいラボ, url: https://kanagawa-sumai-labo.com/kiyokawa-mura-natsumatsuri/, type: aggregator }] }

@@ -1,0 +1,33 @@
+id: hayama-jinjacho-1205101-0
+name: 森山社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 葉山町
+  ward: null
+venue:
+  name: 森山社
+  address: 葉山町一色2165
+  lat: null
+  lng: null
+recurrence: 9月第1土曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205101-000/
+organizer: 森山社
+shrine: 森山社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1205101-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月第1土曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

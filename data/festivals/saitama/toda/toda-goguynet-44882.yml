@@ -1,0 +1,29 @@
+id: toda-goguynet-44882
+name: 夏祭り 観音様縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 戸田市
+  ward: null
+venue:
+  name: 戸田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toda-warabi.goguynet.jp/2026/07/12/byodouji-2/
+    source_name: 号外NET 戸田市・蕨市
+    source_type: media
+    checked_at: 2026-08-04

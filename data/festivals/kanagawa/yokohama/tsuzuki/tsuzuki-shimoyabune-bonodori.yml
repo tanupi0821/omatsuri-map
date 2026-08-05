@@ -1,0 +1,29 @@
+id: tsuzuki-shimoyabune-bonodori
+name: 下藪根自治会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 下藪根公園
+  address: null
+  lat: null
+  lng: null
+organizer: 下藪根自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

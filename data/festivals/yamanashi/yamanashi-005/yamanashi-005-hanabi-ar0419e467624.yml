@@ -1,0 +1,32 @@
+id: yamanashi-005-hanabi-ar0419e467624
+name: 石和温泉鵜飼花火
+kind: 花火
+scale: 市
+area:
+  pref: 山梨県
+  city: 笛吹市
+  ward: null
+venue:
+  name: 笛吹市役所本館前笛吹川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0419e467624/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

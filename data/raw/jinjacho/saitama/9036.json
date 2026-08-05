@@ -1,0 +1,23 @@
+{
+ "id": "9036",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9036/",
+ "name": "伊勢之宮神社",
+ "zip": null,
+ "address": "深谷市西大沼300",
+ "addressParts": [
+  "深谷市",
+  "西大沼300"
+ ],
+ "festivals": [
+  {
+   "date": "4月10日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "11月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

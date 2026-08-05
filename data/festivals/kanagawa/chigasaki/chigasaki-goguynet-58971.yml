@@ -1,0 +1,29 @@
+id: chigasaki-goguynet-58971
+name: こども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 茅ヶ崎市
+  ward: null
+venue:
+  name: そよら湘南茅ヶ崎
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chigasaki.goguynet.jp/2026/07/01/soyora-chigasaki-kodomo-ennichi-202607/
+    source_name: 号外NET 茅ヶ崎市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: katsushika-katsushika-kanamachi-2danchi
+name: 金町第二団地自治会 夕涼みイベント2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 金町第二団地敷地内 多目的広場
+  address: 葛飾区南水元3-6
+  lat: null
+  lng: null
+organizer: 金町第二団地自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 18:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 手持ち花火の持ち込み可。噴出花火のショーも3回。雨天の場合8/9に順延
+stalls: yes

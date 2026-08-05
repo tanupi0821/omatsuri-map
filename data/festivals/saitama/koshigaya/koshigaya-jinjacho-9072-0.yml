@@ -1,0 +1,33 @@
+id: koshigaya-jinjacho-9072-0
+name: 香取神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 越谷市
+  ward: null
+venue:
+  name: 香取神社
+  address: 越谷市大沢3-13-38
+  lat: null
+  lng: null
+recurrence: 10月9日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9072/
+organizer: 香取神社
+shrine: 香取神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9072/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月9日」から導いたもので、神社が2026年の日程として発表したものではない

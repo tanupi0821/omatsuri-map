@@ -1,0 +1,29 @@
+id: mie-004-goguynet-64253
+name: 三重トヨペット グリーンテラス亀山店3周年祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 亀山市
+  ward: null
+venue:
+  name: 亀山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suzuka-kameyama.goguynet.jp/2026/06/26/komorebi-marche/
+    source_name: 号外NET 鈴鹿市・亀山市
+    source_type: media
+    checked_at: 2026-08-04

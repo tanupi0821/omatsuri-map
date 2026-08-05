@@ -1,0 +1,31 @@
+id: namegata-kesonuma-inari-reitaisai
+name: 化蘇沼稲荷神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 茨城県
+  city: 行方市
+  ward: null
+venue:
+  name: 化蘇沼稲荷神社
+  address: null
+  lat: null
+  lng: null
+organizer: 化蘇沼稲荷神社
+shrine: 化蘇沼稲荷神社
+tags:
+  - 奉納相撲
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

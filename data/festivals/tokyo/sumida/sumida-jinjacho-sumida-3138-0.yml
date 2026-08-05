@@ -1,0 +1,34 @@
+id: sumida-jinjacho-sumida-3138-0
+name: 白髭神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 白髭神社
+  address: 墨田区立花6-19-17
+  lat: null
+  lng: null
+station: JR総武線「平井駅」 徒歩10分 東武亀戸線「東あずま駅」 徒歩10分
+recurrence: 9月第1土曜・日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/sumida/3138
+organizer: 白髭神社
+shrine: 白髭神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/sumida/3138
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月第1土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

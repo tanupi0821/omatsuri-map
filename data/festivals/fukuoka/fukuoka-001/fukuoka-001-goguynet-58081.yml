@@ -1,0 +1,32 @@
+id: fukuoka-001-goguynet-58081
+name: 第55回久留米ほとめき通り商店街 土曜夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 久留米市
+  ward: null
+venue:
+  name: 久留米ほとめき通り商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-20
+      - 2026-07-25
+      - 2026-06-27
+      - 2026-07-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kurume.goguynet.jp/2026/06/18/55th-doyouyoichi/
+    source_name: 号外NET 久留米市(筑後北部)
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,33 @@
+{
+ "id": "1209303",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209303-000/",
+ "name": "花鳥神社",
+ "zip": "259-1302",
+ "address": "秦野市 菩堤1740",
+ "addressParts": [
+  "秦野市",
+  "菩堤1740"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越の祓（なごしのはらい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

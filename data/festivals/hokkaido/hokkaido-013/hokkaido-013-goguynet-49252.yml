@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-49252
+name: 七夕まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: １階アトリウム
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/07/04/goryokaku-tower-19/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

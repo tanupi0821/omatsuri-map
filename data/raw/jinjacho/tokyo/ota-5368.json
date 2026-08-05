@@ -1,0 +1,21 @@
+{
+ "id": "ota-5368",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5368",
+ "name": "浅間神社",
+ "zip": "143-0027",
+ "address": "大田区中馬込2-1-21",
+ "addressParts": [
+  "大田区",
+  "中馬込2-1-21"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "地下鉄浅草線「馬込駅」 5分",
+ "festivals": [
+  {
+   "date": "7月第1日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

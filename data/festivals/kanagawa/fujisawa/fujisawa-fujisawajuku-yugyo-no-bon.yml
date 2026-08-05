@@ -1,0 +1,33 @@
+id: fujisawa-fujisawajuku-yugyo-no-bon
+name: 藤沢宿・遊行の盆
+kind: 盆踊り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 藤沢駅北口・遊行寺ほか
+  address: null
+  lat: null
+  lng: null
+station: 藤沢
+organizer: null
+tags: []
+description: null
+links:
+  - title: 屋台の記述がある記事
+    url: https://fujisawa.goguynet.jp/2026/07/24/yugyounobon19/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/fujisawa-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: yes

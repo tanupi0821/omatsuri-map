@@ -1,0 +1,31 @@
+id: hokkaido-017-summer-ar0101e72431
+name: 登別地獄まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 登別市
+  ward: null
+venue:
+  name: 登別温泉街
+  address: 登別市登別温泉街
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-30
+      - 2025-08-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e72431/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない

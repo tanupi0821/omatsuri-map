@@ -1,0 +1,21 @@
+{
+ "id": "toshima-200061",
+ "url": "http://www.tokyo-jinjacho.or.jp/toshima/200061",
+ "name": "大鳥神社",
+ "zip": "171-0032",
+ "address": "豊島区雑司が谷3-20-14",
+ "addressParts": [
+  "豊島区",
+  "雑司が谷3-20-14"
+ ],
+ "city": "豊島区",
+ "citySlugHint": "toshima",
+ "station": "都電荒川線「鬼子母神前」 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月10日に近い土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

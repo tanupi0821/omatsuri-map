@@ -1,0 +1,31 @@
+id: takatsu-shinsaku-1-bonodori
+name: 新作第一町内会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 川崎市民プラザ 屋内広場
+  address: null
+  lat: null
+  lng: null
+organizer: 新作第一町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.kawasaki-shiminplaza.jp/event/detail?id=15821
+    source_name: 川崎市民プラザ
+    checked_at: 2026-08-02
+    note: 17:00からキッチンカー等の出店あり
+    source_type: gov
+stalls: yes

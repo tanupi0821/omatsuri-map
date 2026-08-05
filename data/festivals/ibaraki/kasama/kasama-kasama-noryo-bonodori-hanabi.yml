@@ -1,0 +1,31 @@
+id: kasama-kasama-noryo-bonodori-hanabi
+name: 笠間納涼盆踊り花火大会2026
+kind: 盆踊り
+scale: 市
+area:
+  pref: 茨城県
+  city: 笠間市
+  ward: null
+venue:
+  name: 笠間大池公園（笠間ポレポレシティ前）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/2.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

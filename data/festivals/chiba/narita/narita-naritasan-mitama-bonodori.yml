@@ -1,0 +1,31 @@
+id: narita-naritasan-mitama-bonodori
+name: 成田山 みたま祭り盆踊り大会
+kind: 盆踊り
+scale: 市
+area:
+  pref: 千葉県
+  city: 成田市
+  ward: null
+venue:
+  name: 成田山新勝寺
+  address: null
+  lat: null
+  lng: null
+station: 成田
+organizer: 成田山新勝寺
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+      - 2026-08-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

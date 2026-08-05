@@ -1,0 +1,21 @@
+{
+ "id": "koto-200065",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/200065",
+ "name": "三穂道別稲荷神社",
+ "zip": "135-0024",
+ "address": "江東区清澄3-9-14",
+ "addressParts": [
+  "江東区",
+  "清澄3-9-14"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": null,
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

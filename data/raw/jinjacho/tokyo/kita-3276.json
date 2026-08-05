@@ -1,0 +1,21 @@
+{
+ "id": "kita-3276",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/3276",
+ "name": "氷川神社",
+ "zip": "115-0051",
+ "address": "北区浮間2-19-1",
+ "addressParts": [
+  "北区",
+  "浮間2-19-1"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "JR「浮間舟渡駅」 7分",
+ "festivals": [
+  {
+   "date": "10月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

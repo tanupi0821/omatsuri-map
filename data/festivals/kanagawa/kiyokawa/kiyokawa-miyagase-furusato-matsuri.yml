@@ -1,0 +1,35 @@
+id: kiyokawa-miyagase-furusato-matsuri
+name: 宮ヶ瀬ふるさとまつり（第40回・清川村制70周年記念）
+kind: 市民祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 清川村
+  ward: null
+venue:
+  name: 宮ヶ瀬湖畔・水の郷商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 清川村
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0314e00928/
+    source_name: ウォーカープラス
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 花火は8/12・8/15・8/16の19:30から約5分間
+stalls: yes

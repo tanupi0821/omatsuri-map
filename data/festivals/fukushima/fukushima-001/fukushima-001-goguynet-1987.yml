@@ -1,0 +1,32 @@
+id: fukushima-001-goguynet-1987
+name: 第35回ふくやま夏祭り花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 福島県
+  city: 郡山市
+  ward: null
+venue:
+  name: 郡山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0207e00026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://koriyama.goguynet.jp/2026/07/23/fukuyamahanabi/
+    source_name: 号外NET 郡山市（県中地域）
+    source_type: media
+    checked_at: 2026-08-04

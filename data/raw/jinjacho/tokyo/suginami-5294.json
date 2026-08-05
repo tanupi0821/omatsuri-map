@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5294",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5294",
+ "name": "稲荷神社",
+ "zip": "167-0031",
+ "address": "杉並区本天沼2-14-10",
+ "addressParts": [
+  "杉並区",
+  "本天沼2-14-10"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR「荻窪駅」北口 13分",
+ "festivals": [
+  {
+   "date": "10月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

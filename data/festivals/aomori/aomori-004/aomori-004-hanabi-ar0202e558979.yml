@@ -1,0 +1,30 @@
+id: aomori-004-hanabi-ar0202e558979
+name: 大間町ブルーマリンフェスティバル2026 花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 青森県
+  city: 下北郡大間町
+  ward: null
+venue:
+  name: 大間港(旧フェリー埠頭)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0202e558979/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

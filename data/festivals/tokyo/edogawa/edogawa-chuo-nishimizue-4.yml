@@ -1,0 +1,30 @@
+id: edogawa-chuo-nishimizue-4
+name: 西瑞江四丁目町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 西瑞江四丁目第二児童遊園
+  address: null
+  lat: null
+  lng: null
+organizer: 西瑞江四丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/documents/1797/bonodori20260717-2.pdf
+    source_name: 江戸川区 中央地区 盆踊り・夏まつり予定表
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 模擬店17:00〜20:00、盆踊り18:30〜21:00
+stalls: yes

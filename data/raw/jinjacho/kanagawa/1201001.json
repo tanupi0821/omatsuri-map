@@ -1,0 +1,19 @@
+{
+ "id": "1201001",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201001-000/",
+ "name": "稲毛神社",
+ "zip": "210-0004",
+ "address": "川崎市 川崎区 宮本町7-7",
+ "addressParts": [
+  "川崎市",
+  "川崎区",
+  "宮本町7-7"
+ ],
+ "festivals": [
+  {
+   "date": "５月５日",
+   "name": "端午祭（たんごさい）",
+   "alias": null
+  }
+ ]
+}

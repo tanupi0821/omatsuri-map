@@ -1,0 +1,90 @@
+# 川崎市のエリア定義と、区ごとの一次情報源。
+# 収集の巡回対象リストを兼ねる。新しい区に着手するときはここに情報源を足してから。
+
+pref: 神奈川県
+city: 川崎市
+slug: kanagawa-kawasaki
+# data/festivals/<prefSlug>/<city_slug>/<ward slug>/ のディレクトリ名になる
+city_slug: kawasaki
+wards:
+  - name: 川崎区
+    slug: kawasakiku
+    coverage: none
+    sources:
+      - name: 稲毛神社（川崎山王祭）
+        url: https://www.takemikatsuchi.net/
+        type: shrine
+      - name: 川崎区役所
+        url: https://www.city.kawasaki.jp/kawasaki/
+        type: gov
+
+  - name: 幸区
+    slug: saiwai
+    coverage: none
+    sources:
+      - name: 幸区役所 スポーツ・文化・イベント
+        url: https://www.city.kawasaki.jp/saiwai/category/109-5-3-0-0-0-0-0-0-0.html
+        type: gov
+      - name: 幸区民祭
+        url: https://www.city.kawasaki.jp/saiwai/category/109-5-11-0-0-0-0-0-0-0.html
+        type: gov
+
+  - name: 中原区
+    slug: nakahara
+    coverage: none
+    sources:
+      - name: タウンニュース 中原区版
+        url: https://www.townnews.co.jp/0204/
+        type: local_news
+        note: 町内会の盆踊りが記事になる。週次で確認する価値あり
+      - name: 号外NET 中原区
+        url: https://kawasakinakahara.goguynet.jp/category/cat_event/
+        type: local_news
+
+  - name: 高津区
+    slug: takatsu
+    coverage: partial
+    sources:
+      - name: 高津区役所 お祭り
+        url: https://www.city.kawasaki.jp/takatsu/category/116-2-3-0-0-0-0-0-0-0.html
+        type: gov
+        note: 区の大きい祭りのみ。町内会レベルは載っていない
+
+  - name: 宮前区
+    slug: miyamae
+    coverage: seeded
+    sources:
+      - name: みやまえご近所さん（宮前区役所運営）お祭り・盆踊り
+        url: https://miyamae-gokinjosan.com/festival/
+        type: gov
+        note: 川崎市で唯一、町内会レベルの一覧を行政が公開している。最重要ソース
+
+  - name: 多摩区
+    slug: tama
+    coverage: none
+    sources:
+      - name: 号外NET 多摩区
+        url: https://kawasakitama.goguynet.jp/
+        type: local_news
+        note: 週末ごとに盆踊りまとめ記事が出る
+
+  - name: 麻生区
+    slug: asao
+    coverage: none
+    sources:
+      - name: 号外NET 麻生区 / レアリア
+        url: https://rarea.events/
+        type: local_news
+
+# 市全体にかかる情報源
+city_sources:
+  - name: 川崎市観光協会 イベント
+    url: https://www.k-kankou.jp/event/
+    type: tourism
+  - name: 川崎市 市内で行われる各種イベント
+    url: https://www.city.kawasaki.jp/kurashi/category/32-18-0-0-0-0-0-0-0-0.html
+    type: gov
+  - name: 祭の日（川崎市）
+    url: https://matsuri-no-hi.com/area/14/2130000
+    type: aggregator
+    note: 既存の網羅系。抜けの確認用に使う（転載はしない）

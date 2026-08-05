@@ -1,0 +1,33 @@
+{
+ "id": "9078",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9078/",
+ "name": "天神社",
+ "zip": null,
+ "address": "久喜市吉羽358",
+ "addressParts": [
+  "久喜市",
+  "吉羽358"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭､",
+   "alias": null
+  },
+  {
+   "date": "２月２５日",
+   "name": "に近い日曜日 梅花祭､",
+   "alias": null
+  },
+  {
+   "date": "７月２５日",
+   "name": "に近い日曜日 例祭､",
+   "alias": null
+  },
+  {
+   "date": "１０月２５日",
+   "name": "に近い日曜日 秋季祭",
+   "alias": null
+  }
+ ]
+}

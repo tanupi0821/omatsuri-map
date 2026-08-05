@@ -1,0 +1,29 @@
+id: nara-003-goguynet-25330
+name: プール祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 香芝市
+  ward: null
+venue:
+  name: 香芝市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ikoma-kashiba.goguynet.jp/2026/07/08/kashiba-pool-20260711/
+    source_name: 号外NET 生駒市・香芝市
+    source_type: media
+    checked_at: 2026-08-04

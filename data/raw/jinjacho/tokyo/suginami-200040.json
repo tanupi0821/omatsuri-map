@@ -1,0 +1,21 @@
+{
+ "id": "suginami-200040",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/200040",
+ "name": "井草八幡宮",
+ "zip": "167-0041",
+ "address": "杉並区善福寺1-33-1",
+ "addressParts": [
+  "杉並区",
+  "善福寺1-33-1"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR中央線・総武線・東京メトロ丸ノ内線「荻窪駅」北口の0番または1番のりばよりバス15分「八幡宮裏」 西武新宿線「上石神井駅」よりバス10分「桃四小前」",
+ "festivals": [
+  {
+   "date": "10月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

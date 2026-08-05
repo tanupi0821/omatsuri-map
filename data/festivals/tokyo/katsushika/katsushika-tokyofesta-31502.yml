@@ -1,0 +1,31 @@
+id: katsushika-tokyofesta-31502
+name: 新小岩納涼盆踊り大会 2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 葛飾区立小松南小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 新小岩栄通り会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 葛飾区
+    url: https://katsushika.goguynet.jp/2026/07/05/shinkoiwanoryobonodori-2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31502/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

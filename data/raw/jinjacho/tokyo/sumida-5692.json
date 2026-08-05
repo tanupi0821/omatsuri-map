@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5692",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5692",
+ "name": "牛嶋神社",
+ "zip": "131-0033",
+ "address": "墨田区向島1-4-5",
+ "addressParts": [
+  "墨田区",
+  "向島1-4-5"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "都営浅草線「本所吾妻橋駅」 徒歩３分 東武スカイツリーライン「とうきょうスカイツリー駅」 徒歩３分 東京メトロ「浅草駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

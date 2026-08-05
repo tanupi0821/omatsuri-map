@@ -1,0 +1,28 @@
+{
+ "id": "nagano-005-hanabi-ar0420e00799",
+ "name": "第78回 諏訪湖祭湖上花火大会",
+ "term": "諏訪湖祭湖上花火大会",
+ "tokens": {
+  "strong": [
+   "第78回",
+   "諏訪湖祭湖上花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "諏訪市",
+   "諏訪"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Suwa-ko_firework_20080815_02.jpg/1280px-Suwa-ko_firework_20080815_02.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "信州高原青馬写真クラブ",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Suwa-ko_firework_20080815_02.jpg",
+   "title": "File:Suwa-ko firework 20080815 02.jpg"
+  }
+ ]
+}

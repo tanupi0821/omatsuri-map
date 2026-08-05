@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-3054",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/3054",
+ "name": "荏原金刀比羅神社",
+ "zip": "142-0063",
+ "address": "品川区荏原1-16-4",
+ "addressParts": [
+  "品川区",
+  "荏原1-16-4"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "JR・地下鉄浅草線「五反田駅」 徒歩15分 東急池上線「戸越銀座駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "5月10日／10月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: toyama-003-goguynet-24062
+name: 愛宕神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 富山県
+  city: 富山市
+  ward: null
+venue:
+  name: 富山市愛宕町2丁目6
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-23
+      - 2026-06-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyama.goguynet.jp/2026/06/17/atagojinja/
+    source_name: 号外NET 富山市
+    source_type: media
+    checked_at: 2026-08-04

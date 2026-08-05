@@ -1,0 +1,30 @@
+id: chuou-tokyofesta-30953
+name: 第79回築地本願寺納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 築地本願寺
+  address: null
+  lat: null
+  lng: null
+organizer: 築地本願寺奉讃会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/30953/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

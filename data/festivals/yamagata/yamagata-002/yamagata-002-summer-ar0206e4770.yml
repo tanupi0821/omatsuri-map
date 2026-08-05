@@ -1,0 +1,39 @@
+id: yamagata-002-summer-ar0206e4770
+name: 山形花笠まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山形県
+  city: 山形市
+  ward: null
+venue:
+  name: 山形市中心市街地直線コース
+  address: 山形市十日町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-05
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0206e4770/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg/1280px-Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg
+    width: 1000
+    height: 563
+    credit: Suz-b
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Yamagata_Hanagasa_Festival_in_Yamagata-station2025.jpg

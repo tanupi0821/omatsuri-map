@@ -1,0 +1,30 @@
+id: fujimino-goguynet-63933
+name: ウォーター・スプラッシュ祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: ふじみ野市
+  ward: null
+venue:
+  name: 平面B駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fujimi-fujimino.goguynet.jp/2026/07/24/kidseventaeontownfujimino/
+    source_name: 号外NET 富士見市・ふじみ野市
+    source_type: media
+    checked_at: 2026-08-04

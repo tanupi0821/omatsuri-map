@@ -1,0 +1,30 @@
+id: yamaguchi-013-goguynet-119137
+name: 大潮ホタル祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 周南市
+  ward: null
+venue:
+  name: 周南市中須北黒石川周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-20
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/06/18/shunanevent-6-20-21/
+    source_name: 号外NET 周南市・下松市・光市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: toyama-003-goguynet-24260
+name: 第79回岩瀬みなと祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 富山市
+  ward: null
+venue:
+  name: 岩瀬カナル会館（富山市岩瀬天神町48）周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyama.goguynet.jp/2026/07/24/iwase-minatomatsuri/
+    source_name: 号外NET 富山市
+    source_type: media
+    checked_at: 2026-08-04

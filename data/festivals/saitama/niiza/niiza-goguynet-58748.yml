@@ -1,0 +1,29 @@
+id: niiza-goguynet-58748
+name: 新座の夏祭り・地域イベント
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 新座市
+  ward: null
+venue:
+  name: 栗原の森集会所（新座市栗原2丁目）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niiza-shiki.goguynet.jp/2026/07/28/natsumaturi-2/
+    source_name: 号外NET 新座市・志木市
+    source_type: media
+    checked_at: 2026-08-04

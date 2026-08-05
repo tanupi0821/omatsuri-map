@@ -1,0 +1,35 @@
+id: hanyu-jinjacho-9060-0
+name: 小松神社 夏季例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 羽生市
+  ward: null
+venue:
+  name: 小松神社
+  address: 羽生市小松280
+  lat: null
+  lng: null
+recurrence: 7月15日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9060/
+organizer: 小松神社
+shrine: 小松神社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台の記述がある記事
+    url: https://kazo-hanyu.goguynet.jp/2026/07/30/komatsu-jinja/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9060/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,32 @@
+id: toshima-otsuka-awaodori
+name: 東京大塚阿波おどり
+kind: 夏祭り
+scale: 区
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: 大塚駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 大塚
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0313e76355/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

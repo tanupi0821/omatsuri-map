@@ -1,0 +1,29 @@
+id: isogo-kuriki-bonodori
+name: 栗木町内会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 栗木スポーツ広場
+  address: null
+  lat: null
+  lng: null
+organizer: 栗木町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "kita-5423",
+ "url": "http://www.tokyo-jinjacho.or.jp/kita/5423",
+ "name": "八雲神社",
+ "zip": "115-0041",
+ "address": "北区岩淵町22-21",
+ "addressParts": [
+  "北区岩淵町",
+  "22-21"
+ ],
+ "city": "北区",
+ "citySlugHint": "kita",
+ "station": "地下鉄南北線「赤羽岩淵駅」 7分",
+ "festivals": [
+  {
+   "date": "6月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

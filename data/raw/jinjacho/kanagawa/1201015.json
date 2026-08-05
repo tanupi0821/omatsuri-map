@@ -1,0 +1,29 @@
+{
+ "id": "1201015",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201015-000/",
+ "name": "日枝大神社",
+ "zip": "210-0846",
+ "address": "川崎市 川崎区 小田2ｰ14ｰ7",
+ "addressParts": [
+  "川崎市",
+  "川崎区",
+  "小田2ｰ14ｰ7"
+ ],
+ "festivals": [
+  {
+   "date": "２月２８日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめまつり）",
+   "alias": null
+  },
+  {
+   "date": "5月第三土曜日",
+   "name": "日枝大神社例大祭（ひえいだいじんじゃれいたいさい）",
+   "alias": null
+  }
+ ]
+}

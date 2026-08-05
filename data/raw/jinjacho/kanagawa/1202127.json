@@ -1,0 +1,24 @@
+{
+ "id": "1202127",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202127-000/",
+ "name": "八幡社",
+ "zip": "225-0004",
+ "address": "横浜市 青葉区 荏子田1-11-6",
+ "addressParts": [
+  "横浜市",
+  "青葉区",
+  "荏子田1-11-6"
+ ],
+ "festivals": [
+  {
+   "date": "１１月２３日後",
+   "name": "勤労感謝祭（きんろうかんしゃさい）",
+   "alias": null
+  },
+  {
+   "date": "10月体育の日の前の土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

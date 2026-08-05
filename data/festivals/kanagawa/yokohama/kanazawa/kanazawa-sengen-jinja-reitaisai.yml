@@ -1,0 +1,32 @@
+id: kanazawa-sengen-jinja-reitaisai
+name: 浅間神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 浅間神社
+  address: 横浜市金沢区谷津町432
+  lat: null
+  lng: null
+organizer: null
+shrine: 浅間神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+      - 2026-09-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohama-kanazawakanko.com/2026/07/01/202607event202/
+    source_name: 横浜金沢観光協会
+    checked_at: 2026-08-02
+    note: 初日が宵宮、翌日が例大祭
+    source_type: gov
+stalls: unknown

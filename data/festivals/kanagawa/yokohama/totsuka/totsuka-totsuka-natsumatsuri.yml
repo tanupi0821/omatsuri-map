@@ -1,0 +1,30 @@
+id: totsuka-totsuka-natsumatsuri
+name: とつか夏まつり
+kind: 商店街
+scale: 区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 戸塚小学校前 近郊
+  address: null
+  lat: null
+  lng: null
+station: 戸塚
+organizer: 戸塚区商店街連合会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: 12:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/totsuka-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+stalls: unknown

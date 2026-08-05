@@ -1,0 +1,47 @@
+{
+ "id": "aomori-006-goguynet-23837",
+ "name": "おまつり広場",
+ "term": "おまつり広場",
+ "tokens": {
+  "strong": [
+   "おまつり広場"
+  ],
+  "weak": [],
+  "place": [
+   "八戸市",
+   "八戸"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kariya_city_Museum_of_History_Omatsuri_Hiroba_ac_%282%29.jpg/1280px-Kariya_city_Museum_of_History_Omatsuri_Hiroba_ac_%282%29.jpg",
+   "width": 1000,
+   "height": 665,
+   "credit": "Asturio Cantabrio",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kariya_city_Museum_of_History_Omatsuri_Hiroba_ac_(2).jpg",
+   "title": "File:Kariya city Museum of History Omatsuri Hiroba ac (2).jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/STORYPIC_00014518_BURST190807142430.jpg/1280px-STORYPIC_00014518_BURST190807142430.jpg",
+   "width": 1000,
+   "height": 550,
+   "credit": "R.Yamamoto",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:STORYPIC_00014518_BURST190807142430.jpg",
+   "title": "File:STORYPIC 00014518 BURST190807142430.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%E3%81%82%E3%81%84%E3%81%A1%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A%E5%BA%83%E5%A0%B4_%2860321697%29.jpg",
+   "width": 1000,
+   "height": 1333,
+   "credit": "POHAN CHEN from Tokyo, JAPAN",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%81%82%E3%81%84%E3%81%A1%E3%81%8A%E3%81%BE%E3%81%A4%E3%82%8A%E5%BA%83%E5%A0%B4_(60321697).jpg",
+   "title": "File:あいちおまつり広場 (60321697).jpg"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+id: saiwai-kashima-daijin-shuki-reitaisai
+name: 鹿島大神 秋季例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 幸区
+venue:
+  name: 鹿島大神
+  address: 川崎市幸区鹿島田2-22-44
+  lat: null
+  lng: null
+recurrence: 10月第2日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201016-000/
+organizer: 鹿島大神
+shrine: 鹿島大神
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201016-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁の例祭日（10月第2日曜日）から導いたもの
+stalls: yes

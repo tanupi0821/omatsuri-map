@@ -1,0 +1,31 @@
+id: miyagi-001-summer-ar0204e4767
+name: 仙台七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 宮城県
+  city: 仙台市青葉区
+  ward: null
+venue:
+  name: 仙台市内
+  address: 仙台市青葉区宮城県仙台市
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0204e4767/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

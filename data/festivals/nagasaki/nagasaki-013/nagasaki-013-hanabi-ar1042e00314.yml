@@ -1,0 +1,30 @@
+id: nagasaki-013-hanabi-ar1042e00314
+name: 令和8年 ありかわ縁日 花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 長崎県
+  city: 南松浦郡新上五島町
+  ward: null
+venue:
+  name: 有川港堤防
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1042e00314/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

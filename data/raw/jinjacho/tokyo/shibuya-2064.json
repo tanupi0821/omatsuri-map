@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-2064",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/2064",
+ "name": "青山熊野神社",
+ "zip": "150-0001",
+ "address": "渋谷区神宮前2-2-22",
+ "addressParts": [
+  "渋谷区",
+  "神宮前2-2-22"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "東京メトロ銀座線「外苑前駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

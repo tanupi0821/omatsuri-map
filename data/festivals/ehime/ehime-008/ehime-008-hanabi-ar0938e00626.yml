@@ -1,0 +1,30 @@
+id: ehime-008-hanabi-ar0938e00626
+name: 第69回 にいはま納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 愛媛県
+  city: 新居浜市
+  ward: null
+venue:
+  name: 国領川河川敷平形橋北側
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0938e00626/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

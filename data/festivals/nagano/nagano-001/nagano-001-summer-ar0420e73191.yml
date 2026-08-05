@@ -1,0 +1,29 @@
+id: nagano-001-summer-ar0420e73191
+name: 健速神社例大祭(祇園祭)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 長野県
+  city: 小諸市
+  ward: null
+venue:
+  name: 健速神社
+  address: 小諸市田町1丁目7−1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0420e73191/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

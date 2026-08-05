@@ -1,0 +1,21 @@
+{
+ "id": "koto-2079",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/2079",
+ "name": "亀戸浅間神社",
+ "zip": "136-0071",
+ "address": "江東区亀戸9-15-7",
+ "addressParts": [
+  "江東区",
+  "亀戸9-15-7"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": "JR総武線「亀戸駅」 徒歩15分 JR総武線「亀戸駅」より都バス今井行き「浅間神社前」 徒歩3分 都営新宿線「東大島駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "7月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadFestivals } from '../lib/data.js';
+import { PREFS } from '../../scripts/lib/prefs.mjs';
+
+// 行き止まりにしない。少なくとも都道府県までは戻れるようにする
+const prefs = new Map();
+for (const f of loadFestivals()) {
+  if (!prefs.has(f._prefSlug)) prefs.set(f._prefSlug, { slug: f._prefSlug, name: f.area.pref, n: 0 });
+  prefs.get(f._prefSlug).n++;
+}
+const order = new Map(PREFS.map((p, i) => [p.slug, i]));
+const prefList = [...prefs.values()].sort((a, b) => (order.get(a.slug) ?? 99) - (order.get(b.slug) ?? 99));
+---
+
+<Base title="ページが見つかりません" description="お探しのページは見つかりませんでした。">
+  <h1>ページが見つかりません</h1>
+  <p class="lede">
+    URL が変わったか、掲載を取りやめた祭りかもしれません。
+    エリアから探し直してください。
+  </p>
+
+  <ul class="areas">
+    {prefList.map((p) => (
+      <li><a href={`/a/${p.slug}/`}>{p.name}<span class="c">{p.n}</span></a></li>
+    ))}
+  </ul>
+
+  <p style="margin-top:24px"><a href="/">← トップにもどる</a></p>
+
+  <style>
+    .lede { color: var(--muted); font-size: 14px; }
+    .areas { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .areas a {
+      display: inline-flex; gap: 6px; align-items: baseline;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 5px 12px; font-size: 14px; text-decoration: none; color: inherit;
+      background: var(--card);
+    }
+    .areas .c { font-size: 12px; color: var(--muted); }
+  </style>
+</Base>

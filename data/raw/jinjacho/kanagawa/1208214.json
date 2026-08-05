@@ -1,0 +1,29 @@
+{
+ "id": "1208214",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1208214-000/",
+ "name": "天満宮",
+ "zip": "252-0336",
+ "address": "相模原市 南区 当麻1",
+ "addressParts": [
+  "相模原市",
+  "南区",
+  "当麻1"
+ ],
+ "festivals": [
+  {
+   "date": "８月２６日",
+   "name": "秋祭（あきまつり）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新穀感謝祭（しんこくかんしゃさい）",
+   "alias": null
+  },
+  {
+   "date": "3月25日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

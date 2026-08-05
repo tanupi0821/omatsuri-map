@@ -1,0 +1,31 @@
+id: tsuzuki-okuma-bonodori
+name: 大熊町内会 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 大熊公園・大熊杉山神社
+  address: null
+  lat: null
+  lng: null
+organizer: 大熊町内会
+shrine: 大熊杉山神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

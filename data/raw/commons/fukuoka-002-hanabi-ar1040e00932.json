@@ -1,0 +1,28 @@
+{
+ "id": "fukuoka-002-hanabi-ar1040e00932",
+ "name": "第39回 関門海峡花火大会",
+ "term": "関門海峡花火大会",
+ "tokens": {
+  "strong": [
+   "第39回",
+   "関門海峡花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "北九州市門司区",
+   "北九州市門司"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fireworks_13AUG2012_KanmonStraits_Japan.jpg/1280px-Fireworks_13AUG2012_KanmonStraits_Japan.jpg",
+   "width": 1000,
+   "height": 564,
+   "credit": "Ka23 13",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fireworks_13AUG2012_KanmonStraits_Japan.jpg",
+   "title": "File:Fireworks 13AUG2012 KanmonStraits Japan.jpg"
+  }
+ ]
+}

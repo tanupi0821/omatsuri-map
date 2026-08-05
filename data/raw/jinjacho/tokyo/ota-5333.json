@@ -1,0 +1,18 @@
+{
+ "id": "ota-5333",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5333",
+ "name": "道塚神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急バス蒲田西口発「道塚小学校前」 1分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

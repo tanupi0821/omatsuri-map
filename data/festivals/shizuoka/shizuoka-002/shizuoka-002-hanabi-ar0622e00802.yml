@@ -1,0 +1,30 @@
+id: shizuoka-002-hanabi-ar0622e00802
+name: 第80回 按針祭 海の花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 伊東市
+  ward: null
+venue:
+  name: 伊東海岸一帯
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e00802/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

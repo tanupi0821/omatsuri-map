@@ -1,0 +1,30 @@
+id: tsuzuki-katsuta-bonodori
+name: 勝田町・勝田南町内会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 勝田杉山神社
+  address: null
+  lat: null
+  lng: null
+organizer: 勝田町内会・勝田南町内会
+shrine: 勝田杉山神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 18:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

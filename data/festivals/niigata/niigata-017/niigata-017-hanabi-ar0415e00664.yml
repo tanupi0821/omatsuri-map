@@ -1,0 +1,30 @@
+id: niigata-017-hanabi-ar0415e00664
+name: 上越まつり大花火大会(直江津地区)
+kind: 花火
+scale: 市
+area:
+  pref: 新潟県
+  city: 上越市
+  ward: null
+venue:
+  name: 関川河口
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0415e00664/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

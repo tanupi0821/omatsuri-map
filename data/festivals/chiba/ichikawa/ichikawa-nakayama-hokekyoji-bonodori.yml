@@ -1,0 +1,31 @@
+id: ichikawa-nakayama-hokekyoji-bonodori
+name: 中山法華経寺 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 中山法華経寺 境内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-09
+      - 2025-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 2025年の実績。2026年の日程は未発表
+stalls: unknown

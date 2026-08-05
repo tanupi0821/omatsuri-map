@@ -1,0 +1,31 @@
+id: okayama-001-summer-ar0833e4820
+name: 第26回 おかやま桃太郎まつり「第31回うらじゃ」「ファミリーフェスタ」
+kind: 夏祭り
+scale: 市
+area:
+  pref: 岡山県
+  city: 岡山市北区
+  ward: null
+venue:
+  name: 岡山芸術創造劇場ハレノワ、下石井公園、下田町公園、イオンモール岡山1F未来スクエア、山陽新聞社さん太広場、杜の街グレース、表町商店街(22日のみ)、ハレまち通り(22日のみ)、市役所筋(23日のみ)を予定
+  address: 岡山市北区ほか
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0833e4820/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

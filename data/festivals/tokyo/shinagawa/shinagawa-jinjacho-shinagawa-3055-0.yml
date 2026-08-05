@@ -1,0 +1,34 @@
+id: shinagawa-jinjacho-shinagawa-3055-0
+name: 三谷八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 三谷八幡神社
+  address: 品川区小山5-8-7
+  lat: null
+  lng: null
+station: 東急目黒線「武蔵小山駅」 徒歩6分 東急バス「武蔵小山」 徒歩5分
+recurrence: 9月6日に近い日曜日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shinagawa/3055
+organizer: 三谷八幡神社
+shrine: 三谷八幡神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shinagawa/3055
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月6日に近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

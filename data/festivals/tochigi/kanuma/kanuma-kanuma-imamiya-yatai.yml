@@ -1,0 +1,50 @@
+id: kanuma-kanuma-imamiya-yatai
+name: 鹿沼今宮神社祭の屋台行事
+kind: 例大祭
+scale: 市
+area:
+  pref: 栃木県
+  city: 鹿沼市
+  ward: null
+venue:
+  name: 今宮神社および鹿沼市街地
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月
+recurrence_source: https://www.pref.tochigi.lg.jp/culture/bunkajoho/tokushu/matsuri.html
+organizer: 今宮神社
+shrine: 今宮神社
+tags:
+  - ユネスコ無形文化遺産
+  - 重要無形民俗文化財
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates: []
+    date_note: 10月（2026年の日程は未発表）
+    start_time: null
+    end_time: null
+    status: unconfirmed
+    source_url: https://www.pref.tochigi.lg.jp/culture/bunkajoho/tokushu/matsuri.html
+    source_name: 栃木県 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 二十数台の屋台が練り歩いておはやしを競う。ユネスコ無形文化遺産
+stalls: unknown
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B.jpg/1280px-%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B.jpg
+    width: 1000
+    height: 750
+    credit: Shikanuma
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B%EF%BC%92.jpg/1280px-%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B%EF%BC%92.jpg
+    width: 1000
+    height: 750
+    credit: Shikanuma
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B2%BC%E4%BB%8A%E5%AE%AE%E7%A5%9E%E7%A4%BE%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0%E8%A1%8C%E4%BA%8B%EF%BC%92.jpg

@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-5227",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/5227",
+ "name": "松陰神社",
+ "zip": "154-0023",
+ "address": "世田谷区若林4-35-1",
+ "addressParts": [
+  "世田谷区",
+  "若林4-35-1"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急世田谷線「松陰神社前駅」 徒歩3分 東急バス「松陰神社前」 徒歩2分",
+ "festivals": [
+  {
+   "date": "4月27日／10月27日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

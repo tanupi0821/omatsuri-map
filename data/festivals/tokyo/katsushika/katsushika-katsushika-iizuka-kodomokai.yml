@@ -1,0 +1,30 @@
+id: katsushika-katsushika-iizuka-kodomokai
+name: 飯塚子ども会育成会 いいづか夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 飯塚小学校
+  address: 葛飾区南水元1-13-1
+  lat: null
+  lng: null
+organizer: 飯塚子ども会育成会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: yes

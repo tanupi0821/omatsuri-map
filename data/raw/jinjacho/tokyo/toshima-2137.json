@@ -1,0 +1,21 @@
+{
+ "id": "toshima-2137",
+ "url": "http://www.tokyo-jinjacho.or.jp/toshima/2137",
+ "name": "染井稲荷神社",
+ "zip": "170-0003",
+ "address": "豊島区駒込6-11-5",
+ "addressParts": [
+  "豊島区",
+  "駒込6-11-5"
+ ],
+ "city": "豊島区",
+ "citySlugHint": "toshima",
+ "station": "JR・地下鉄南北線「駒込駅」北口 8分",
+ "festivals": [
+  {
+   "date": "9月15日に近い土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

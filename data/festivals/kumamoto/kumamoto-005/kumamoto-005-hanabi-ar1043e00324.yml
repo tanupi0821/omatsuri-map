@@ -1,0 +1,30 @@
+id: kumamoto-005-hanabi-ar1043e00324
+name: ゑびす夏まつり(盆踊り・花火大会)
+kind: 盆踊り
+scale: 市
+area:
+  pref: 熊本県
+  city: 球磨郡多良木町
+  ward: null
+venue:
+  name: 多良木町多目的総合グラウンド一帯
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1043e00324/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

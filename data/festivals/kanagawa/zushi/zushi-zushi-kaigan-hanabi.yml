@@ -1,0 +1,32 @@
+id: zushi-zushi-kaigan-hanabi
+name: 逗子海岸花火大会（第69回）
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 逗子市
+  ward: null
+venue:
+  name: 逗子海岸
+  address: null
+  lat: null
+  lng: null
+station: 逗子
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/zushi-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 逗子の花火は春開催
+stalls: unknown

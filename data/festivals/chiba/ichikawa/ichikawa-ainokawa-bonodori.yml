@@ -1,0 +1,31 @@
+id: ichikawa-ainokawa-bonodori
+name: 相之川 盆おどり
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 相之川公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-02
+      - 2025-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+    note: 2025年の実績。2026年の日程は未発表
+stalls: unknown

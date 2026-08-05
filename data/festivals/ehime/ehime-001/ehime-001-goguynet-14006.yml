@@ -1,0 +1,30 @@
+id: ehime-001-goguynet-14006
+name: 今治地方春祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛媛県
+  city: 今治市
+  ward: null
+venue:
+  name: 今治市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+      - 2026-05-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://imabari-saijo.goguynet.jp/2026/05/02/imabaritihouharumaturi/
+    source_name: 号外NET 今治市・西条市
+    source_type: media
+    checked_at: 2026-08-04

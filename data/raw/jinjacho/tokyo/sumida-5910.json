@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5910",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5910",
+ "name": "榎戸稲荷神社",
+ "zip": "130-0002",
+ "address": "墨田区業平5-14-16",
+ "addressParts": [
+  "墨田区",
+  "業平5-14-16"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "地下鉄浅草線・半蔵門線「押上駅」 5分",
+ "festivals": [
+  {
+   "date": "6月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+id: takatsu-chitose-jinja-reitaisai
+name: 千年神社 秋季例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 千年神社
+  address: 川崎市高津区千年539
+  lat: null
+  lng: null
+recurrence: 10月9日〜10日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201070-000/
+organizer: 千年神社
+shrine: 千年神社
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201070-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 10/9 宵宮祭・神幸祭、10/10 例祭。日付は神社庁の例祭日から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

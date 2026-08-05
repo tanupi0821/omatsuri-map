@@ -1,0 +1,29 @@
+{
+ "id": "1208206",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1208206-000/",
+ "name": "亀ヶ池八幡宮",
+ "zip": "252-0243",
+ "address": "相模原市 中央区 上溝1678",
+ "addressParts": [
+  "相模原市",
+  "中央区",
+  "上溝1678"
+ ],
+ "festivals": [
+  {
+   "date": "３月１５日",
+   "name": "春季例祭（しゅんきれいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２８日",
+   "name": "八坂祭（やさかさい）",
+   "alias": null
+  },
+  {
+   "date": "6月下旬または7月上旬",
+   "name": "夏越大祓（なごしおおはらえ）",
+   "alias": null
+  }
+ ]
+}

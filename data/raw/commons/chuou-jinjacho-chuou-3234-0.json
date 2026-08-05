@@ -1,0 +1,57 @@
+{
+ "id": "chuou-jinjacho-chuou-3234-0",
+ "name": "水天宮 例祭",
+ "term": "水天宮 例祭",
+ "tokens": {
+  "strong": [
+   "水天宮"
+  ],
+  "weak": [],
+  "place": [
+   "中央区",
+   "中央"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E7%A4%BE%E6%AE%BF.jpg",
+   "width": 1000,
+   "height": 687,
+   "credit": "㭍月例祭",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E7%A4%BE%E6%AE%BF.jpg",
+   "title": "File:小樽水天宮の社殿.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E7%A8%B2%E8%8D%B7%E7%A4%BE.jpg",
+   "width": 1000,
+   "height": 676,
+   "credit": "㭍月例祭",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E7%A8%B2%E8%8D%B7%E7%A4%BE.jpg",
+   "title": "File:小樽水天宮の稲荷社.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E9%B3%A5%E5%B1%85.jpg",
+   "width": 1000,
+   "height": 947,
+   "credit": "㭍月例祭",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%AE%E9%B3%A5%E5%B1%85.jpg",
+   "title": "File:小樽水天宮の鳥居.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%8B%E3%82%89%E5%B0%8F%E6%A8%BD%E5%B8%82%E8%A1%97%E3%82%92%E6%9C%9B%E3%82%80.jpg",
+   "width": 1000,
+   "height": 1051,
+   "credit": "㭍月例祭",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A8%BD%E6%B0%B4%E5%A4%A9%E5%AE%AE%E3%81%8B%E3%82%89%E5%B0%8F%E6%A8%BD%E5%B8%82%E8%A1%97%E3%82%92%E6%9C%9B%E3%82%80.jpg",
+   "title": "File:小樽水天宮から小樽市街を望む.jpg"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+id: higashichichibu-jinjacho-9420-0
+name: 能気神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 東秩父村
+  ward: null
+venue:
+  name: 能気神社
+  address: 東秩父村安戸382
+  lat: null
+  lng: null
+recurrence: 10月17日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9420/
+organizer: 能気神社
+shrine: 能気神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9420/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

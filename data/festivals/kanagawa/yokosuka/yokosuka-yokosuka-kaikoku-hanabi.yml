@@ -1,0 +1,32 @@
+id: yokosuka-yokosuka-kaikoku-hanabi
+name: よこすか開国花火大会2026
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横須賀市
+  ward: null
+venue:
+  name: 海辺つり公園・うみかぜ公園ほか
+  address: null
+  lat: null
+  lng: null
+station: 横須賀中央
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: 18:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yokosuka-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 三浦半島最大級の約1万発。時間は予定
+stalls: unknown

@@ -1,0 +1,30 @@
+id: koto-local-ogibashi-2
+name: 扇橋二丁目町会 納涼大会
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東公園（北側）
+  address: null
+  lat: null
+  lng: null
+organizer: 扇橋二丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

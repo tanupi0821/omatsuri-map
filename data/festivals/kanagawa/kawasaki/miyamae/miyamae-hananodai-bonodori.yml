@@ -1,0 +1,31 @@
+id: miyamae-hananodai-bonodori
+name: 花の台町内会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: 宮前平小学校
+  address: 川崎市宮前区宮前平3-14-1
+  lat: null
+  lng: null
+organizer: 花の台町内会
+tags: []
+description: null
+links:
+  - https://hananodai.localinfo.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://hananodai.localinfo.jp/
+    source_name: 花の台町内会 公式サイト
+    checked_at: 2026-08-02
+    note: 当初は8/1・8/2の2日間の予定だったが、8/2は雷雨予報のため中止と町内会が告知。模擬店は16:00から。子どもたちは6月から毎週土日の夕方に太鼓の練習をしている
+    source_type: official
+stalls: yes

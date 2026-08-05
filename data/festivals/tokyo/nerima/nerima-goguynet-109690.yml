@@ -1,0 +1,30 @@
+id: nerima-goguynet-109690
+name: 銀河の夜の盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 妙延寺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nerima.goguynet.jp/2026/07/13/ginga/
+    source_name: 号外NET 練馬区
+    source_type: media
+    checked_at: 2026-08-04

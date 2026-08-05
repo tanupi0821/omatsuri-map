@@ -1,0 +1,30 @@
+id: yamato-zomeki
+name: 舞台演舞「ぞめき」
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 大和市
+  ward: null
+venue:
+  name: 大和市文化創造拠点シリウス
+  address: null
+  lat: null
+  lng: null
+station: 大和
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yamato-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: unknown

@@ -1,0 +1,38 @@
+{
+ "id": "kagawa-003-summer-ar0937e4825",
+ "name": "第59回 さぬき高松まつり",
+ "term": "さぬき高松まつり",
+ "tokens": {
+  "strong": [
+   "第59回",
+   "さぬき高松まつり"
+  ],
+  "weak": [],
+  "place": [
+   "高松市",
+   "高松"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg",
+   "width": 1000,
+   "height": 666,
+   "credit": "Vanvelthem Cédric",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg",
+   "title": "File:Japan - Takamatsu Awa Odori Bon Festival 12.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg",
+   "width": 1000,
+   "height": 666,
+   "credit": "Vanvelthem Cédric",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg",
+   "title": "File:Japan - Takamatsu Awa Odori Bon Festival 13.jpg"
+  }
+ ]
+}

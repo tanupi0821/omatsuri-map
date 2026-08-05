@@ -1,0 +1,38 @@
+{
+ "id": "1207083",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1207083-000/",
+ "name": "龍藏神社",
+ "zip": "243-0213",
+ "address": "厚木市 飯山5526",
+ "addressParts": [
+  "厚木市",
+  "飯山5526"
+ ],
+ "festivals": [
+  {
+   "date": "１月３日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "３月２５日近い日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "８月第１日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月第１日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: kagoshima-011-summer-ar1046e187805
+name: 第27回 知覧ねぷた祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 鹿児島県
+  city: 南九州市
+  ward: null
+venue:
+  name: 知覧まち商店街
+  address: 南九州市知覧町郡
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1046e187805/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

@@ -1,0 +1,34 @@
+id: adachi-jinjacho-adachi-2154-0
+name: 綾瀬稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 綾瀬稲荷神社
+  address: 足立区綾瀬4-9-9
+  lat: null
+  lng: null
+station: JR常磐線・東京メトロ千代田線「綾瀬駅」 徒歩3分
+recurrence: 9月13日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/adachi/2154
+organizer: 綾瀬稲荷神社
+shrine: 綾瀬稲荷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/adachi/2154
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月13日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

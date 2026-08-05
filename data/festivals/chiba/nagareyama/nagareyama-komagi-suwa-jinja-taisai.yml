@@ -1,0 +1,32 @@
+id: nagareyama-komagi-suwa-jinja-taisai
+name: 駒木 諏訪神社大祭・萬灯練行列
+kind: 例大祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 駒木 諏訪神社ほか
+  address: null
+  lat: null
+  lng: null
+organizer: 諏訪神社
+shrine: 諏訪神社
+tags:
+  - 萬灯
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

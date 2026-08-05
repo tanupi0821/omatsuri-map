@@ -1,0 +1,30 @@
+id: hokkaido-033-hanabi-ar0101e00742
+name: 千歳市空港開港100年記念 千歳市民花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 千歳市
+  ward: null
+venue:
+  name: 北千歳駐屯地内 スキー山
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00742/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

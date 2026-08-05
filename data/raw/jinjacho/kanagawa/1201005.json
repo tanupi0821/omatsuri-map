@@ -1,0 +1,29 @@
+{
+ "id": "1201005",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201005-000/",
+ "name": "若宮八幡宮",
+ "zip": "210-0802",
+ "address": "川崎市 川崎区 大師駅前2-13-16",
+ "addressParts": [
+  "川崎市",
+  "川崎区",
+  "大師駅前2-13-16"
+ ],
+ "festivals": [
+  {
+   "date": "２月３日",
+   "name": "節分祭（せつぶんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月２０日",
+   "name": "春祭（はるまつり）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越大祓式（なごしおおはらえしき）",
+   "alias": null
+  }
+ ]
+}

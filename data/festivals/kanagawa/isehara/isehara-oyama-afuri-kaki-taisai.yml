@@ -1,0 +1,34 @@
+id: isehara-oyama-afuri-kaki-taisai
+name: 大山阿夫利神社 夏季大祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 伊勢原市
+  ward: null
+venue:
+  name: 大山阿夫利神社
+  address: null
+  lat: null
+  lng: null
+recurrence: 7月27日から8月17日
+recurrence_source: https://www.afuri.or.jp/annual/
+organizer: 大山阿夫利神社
+shrine: 大山阿夫利神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-27
+      - 2026-08-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.afuri.or.jp/annual/
+    source_name: 大山阿夫利神社 公式
+    source_type: official
+    checked_at: 2026-08-02
+    note: 7/27に例大祭・夏季大祭始め、8/17に夏季大祭収め。掲載の2日付は期間の初日と最終日。8/18は二重神社祭
+stalls: unknown

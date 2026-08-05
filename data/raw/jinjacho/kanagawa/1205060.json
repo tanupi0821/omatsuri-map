@@ -1,0 +1,38 @@
+{
+ "id": "1205060",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205060-000/",
+ "name": "春日神社",
+ "zip": "238-0014",
+ "address": "横須賀市 三春町3ｰ33",
+ "addressParts": [
+  "横須賀市",
+  "三春町3ｰ33"
+ ],
+ "festivals": [
+  {
+   "date": "２月１１日",
+   "name": "建国記念祭（けんこくきねんさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月最終土曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月最終日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月最終日曜日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: yugawara-yugawara-yassa-matsuri
+name: 湯河原やっさまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 湯河原町
+  ward: null
+venue:
+  name: 湯河原小学校〜桜木公園、幕山公園通り
+  address: null
+  lat: null
+  lng: null
+station: 湯河原
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-03
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yugawara-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+stalls: yes

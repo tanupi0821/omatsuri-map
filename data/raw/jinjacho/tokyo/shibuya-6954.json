@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-6954",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/6954",
+ "name": "平田神社",
+ "zip": "151-0053",
+ "address": "渋谷区代々木3-8-10",
+ "addressParts": [
+  "渋谷区",
+  "代々木3-8-10"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "JR中央線・山手線・都営大江戸線「代々木駅」 徒歩7分 小田急線「南新宿駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "11月3日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

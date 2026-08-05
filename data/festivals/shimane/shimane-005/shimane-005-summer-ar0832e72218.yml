@@ -1,0 +1,29 @@
+id: shimane-005-summer-ar0832e72218
+name: 2026江の川祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 島根県
+  city: 江津市
+  ward: null
+venue:
+  name: 江の川河口、江津駅前周辺
+  address: 江津市江津町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0832e72218/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

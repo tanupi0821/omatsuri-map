@@ -1,0 +1,21 @@
+{
+ "id": "nerima-6074",
+ "url": "http://www.tokyo-jinjacho.or.jp/nerima/6074",
+ "name": "天祖若宮八幡宮",
+ "zip": "177-0051",
+ "address": "練馬区関町北3-34-32",
+ "addressParts": [
+  "練馬区関町",
+  "北3-34-32"
+ ],
+ "city": "練馬区",
+ "citySlugHint": "nerima",
+ "station": "西武新宿線「武蔵関駅」西へ徒歩5分 JR中央線「荻窪駅」よりバス20分、「三鷹駅」よりバス10分「関町北2丁目」下車 徒歩1分",
+ "festivals": [
+  {
+   "date": "9月28日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

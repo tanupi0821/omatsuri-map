@@ -1,0 +1,29 @@
+id: gifu-005-goguynet-45312
+name: 第7回養老公園盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 養老町
+  ward: null
+venue:
+  name: 養老町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ogaki.goguynet.jp/2026/06/07/yoro_bon_dance2026/
+    source_name: 号外NET 大垣市（西濃地域）
+    source_type: media
+    checked_at: 2026-08-04

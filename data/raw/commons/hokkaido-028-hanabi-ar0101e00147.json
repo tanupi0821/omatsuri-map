@@ -1,0 +1,38 @@
+{
+ "id": "hokkaido-028-hanabi-ar0101e00147",
+ "name": "第74回 おんねゆ温泉まつり",
+ "term": "おんねゆ温泉まつり",
+ "tokens": {
+  "strong": [
+   "第74回",
+   "おんねゆ温泉まつり"
+  ],
+  "weak": [],
+  "place": [
+   "北見市",
+   "北見"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg",
+   "width": 1000,
+   "height": 716,
+   "credit": "田頭寛",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E9%82%84%E5%BE%A1%E7%A5%AD.jpg",
+   "title": "File:おんねゆ温泉まつり 還御祭.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg/1280px-%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg",
+   "width": 1000,
+   "height": 748,
+   "credit": "田頭寛",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E3%82%93%E3%81%AD%E3%82%86%E6%B8%A9%E6%B3%89%E3%81%BE%E3%81%A4%E3%82%8A_%E7%A6%8A%E7%A5%93%E8%A1%8C%E4%BA%8B.jpg",
+   "title": "File:おんねゆ温泉まつり 禊祓行事.jpg"
+  }
+ ]
+}

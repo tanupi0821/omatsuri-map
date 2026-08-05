@@ -1,0 +1,32 @@
+{
+ "id": "hiratsuka-jinjacho-1209154-0",
+ "name": "春日神社 例大祭",
+ "term": "春日神社 例大祭",
+ "tokens": [
+  "春日神社",
+  "春日神社",
+  "春日"
+ ],
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg/1280px-%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg",
+   "width": 1000,
+   "height": 563,
+   "credit": "Shizuha",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%AD%A3%E9%9D%A2%E9%B3%A5%E5%B1%85.jpg",
+   "title": "File:中喜来春日神社 正面鳥居.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg/1280px-%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg",
+   "width": 1000,
+   "height": 563,
+   "credit": "Shizuha",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%96%9C%E6%9D%A5%E6%98%A5%E6%97%A5%E7%A5%9E%E7%A4%BE_%E6%8B%9D%E6%AE%BF%E6%AD%A3%E9%9D%A2.jpg",
+   "title": "File:中喜来春日神社 拝殿正面.jpg"
+  }
+ ]
+}

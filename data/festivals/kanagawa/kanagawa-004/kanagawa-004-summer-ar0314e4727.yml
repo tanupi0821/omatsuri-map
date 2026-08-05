@@ -1,0 +1,31 @@
+id: kanagawa-004-summer-ar0314e4727
+name: 湯河原やっさまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 足柄下郡湯河原町
+  ward: null
+venue:
+  name: 湯河原小学校、桜木公園、幕山公園通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e4727/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

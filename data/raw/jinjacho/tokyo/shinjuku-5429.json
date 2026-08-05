@@ -1,0 +1,21 @@
+{
+ "id": "shinjuku-5429",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinjuku/5429",
+ "name": "御霊神社",
+ "zip": "161-0035",
+ "address": "新宿区中井2-29-16",
+ "addressParts": [
+  "新宿区",
+  "中井2-29-16"
+ ],
+ "city": "新宿区",
+ "citySlugHint": "shinjuku",
+ "station": "西武新宿線・地下鉄大江戸線「中井駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "9月第4土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

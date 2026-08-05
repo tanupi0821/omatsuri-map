@@ -1,0 +1,21 @@
+{
+ "id": "taito-5852",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5852",
+ "name": "合力稲荷神社",
+ "zip": "111-0032",
+ "address": "台東区浅草6-42-8",
+ "addressParts": [
+  "台東区",
+  "浅草6-42-8"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "都バス「浅草七丁目」 5分 「浅草警察署前」 3分",
+ "festivals": [
+  {
+   "date": "2月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

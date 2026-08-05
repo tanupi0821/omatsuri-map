@@ -1,0 +1,30 @@
+id: chofu-goguynet-32116
+name: 第15回 国領千年乃藤まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 調布市
+  ward: null
+venue:
+  name: 調布市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chofu-komae.goguynet.jp/2026/04/15/hujimaturi/
+    source_name: 号外NET 調布市・狛江市
+    source_type: media
+    checked_at: 2026-08-04

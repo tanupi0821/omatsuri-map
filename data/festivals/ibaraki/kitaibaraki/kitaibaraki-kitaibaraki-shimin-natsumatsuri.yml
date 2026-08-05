@@ -1,0 +1,30 @@
+id: kitaibaraki-kitaibaraki-shimin-natsumatsuri
+name: 北茨城市民夏まつり（第16回）
+kind: 市民祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 北茨城市
+  ward: null
+venue:
+  name: JR磯原駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 磯原
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.walkerplus.com/event_list/ar0308/eg0055/
+    source_name: ウォーカープラス お祭り一覧
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -1,0 +1,34 @@
+id: tosho-jinjacho-tosho-5309-0
+name: 十三社神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 島嶼
+  ward: null
+venue:
+  name: 十三社神社
+  address: 島嶼本村2-6-13
+  lat: null
+  lng: null
+station: 東海汽船「新島港」 車10分
+recurrence: 12月8日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/tosho/5309
+organizer: 十三社神社
+shrine: 十三社神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/tosho/5309
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「12月8日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

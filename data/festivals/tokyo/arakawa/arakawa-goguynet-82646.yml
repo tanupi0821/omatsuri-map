@@ -1,0 +1,29 @@
+id: arakawa-goguynet-82646
+name: 胡録神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 荒川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/05/31/korokujinnjyareidaisai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

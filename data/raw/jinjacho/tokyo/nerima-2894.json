@@ -1,0 +1,21 @@
+{
+ "id": "nerima-2894",
+ "url": "http://www.tokyo-jinjacho.or.jp/nerima/2894",
+ "name": "氷川神社",
+ "zip": "179-0084",
+ "address": "練馬区氷川台4-47-3",
+ "addressParts": [
+  "練馬区",
+  "氷川台4-47-3"
+ ],
+ "city": "練馬区",
+ "citySlugHint": "nerima",
+ "station": "東京メトロ有楽町線「氷川台駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "4月第2土曜・日曜／9月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

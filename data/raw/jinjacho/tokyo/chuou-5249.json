@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5249",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5249",
+ "name": "於岩稲荷田宮神社",
+ "zip": "104-0033",
+ "address": "中央区新川2-25-11",
+ "addressParts": [
+  "中央区",
+  "新川2-25-11"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "東京メトロ日比谷線「八丁堀駅」 徒歩10分 東京メトロ日比谷線・東西線「茅場町駅」",
+ "festivals": [
+  {
+   "date": "3月22日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

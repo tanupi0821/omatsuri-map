@@ -1,0 +1,21 @@
+{
+ "id": "itabashi-3154",
+ "url": "http://www.tokyo-jinjacho.or.jp/itabashi/3154",
+ "name": "北野神社",
+ "zip": "175-0083",
+ "address": "板橋区徳丸6-34-3",
+ "addressParts": [
+  "板橋区",
+  "徳丸6-34-3"
+ ],
+ "city": "板橋区",
+ "citySlugHint": "itabashi",
+ "station": "東武東上線「東武練馬駅」 徒歩15分",
+ "festivals": [
+  {
+   "date": "9月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

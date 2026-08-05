@@ -1,0 +1,45 @@
+id: shimane-002-goguynet-10508
+name: 松江水郷祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 松江市
+  ward: null
+venue:
+  name: 松江市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsue-yasugi.goguynet.jp/2026/06/06/suigosai26/
+    source_name: 号外NET 松江市・安来市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2024%E5%B9%B4%E6%9D%BE%E6%B1%9F%E6%B0%B4%E9%83%B7%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg/1280px-2024%E5%B9%B4%E6%9D%BE%E6%B1%9F%E6%B0%B4%E9%83%B7%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+    width: 1000
+    height: 667
+    credit: Yakumo273
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:2024%E5%B9%B4%E6%9D%BE%E6%B1%9F%E6%B0%B4%E9%83%B7%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/cc/%E6%9D%BE%E6%B1%9F%E6%B0%B4%E9%83%B7%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AE%E6%A7%98%E5%AD%90.jpg
+    width: 1000
+    height: 667
+    credit: Yakumo273
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E6%B1%9F%E6%B0%B4%E9%83%B7%E7%A5%AD%E6%B9%96%E4%B8%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AE%E6%A7%98%E5%AD%90.jpg

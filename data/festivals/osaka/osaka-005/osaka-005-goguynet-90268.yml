@@ -1,0 +1,29 @@
+id: osaka-005-goguynet-90268
+name: スポーツまつりinスポセン
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 枚方市
+  ward: null
+venue:
+  name: 枚方市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hirakata.goguynet.jp/2026/08/01/ktmtaiikukan/
+    source_name: 号外NET 枚方市
+    source_type: media
+    checked_at: 2026-08-04

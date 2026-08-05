@@ -1,0 +1,30 @@
+id: adachi-adachi-nakagawa-dai-bonodori
+name: 大谷田東自治会ほか 中川納涼大盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 都立中川公園 ふれあい広場
+  address: null
+  lat: null
+  lng: null
+organizer: 大谷田東自治会ほか
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

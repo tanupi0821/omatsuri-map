@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-2067",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/2067",
+ "name": "千代田稲荷神社",
+ "zip": "150-0043",
+ "address": "渋谷区道玄坂2-20-8",
+ "addressParts": [
+  "渋谷区",
+  "道玄坂2-20-8"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "JR・地下鉄銀座線・半蔵門線「渋谷駅」北口 5分",
+ "festivals": [
+  {
+   "date": "9月14日の後の土曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

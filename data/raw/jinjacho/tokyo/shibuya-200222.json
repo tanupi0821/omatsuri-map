@@ -1,0 +1,21 @@
+{
+ "id": "shibuya-200222",
+ "url": "http://www.tokyo-jinjacho.or.jp/shibuya/200222",
+ "name": "金王八幡宮",
+ "zip": "150-0002",
+ "address": "渋谷区渋谷3-5-12",
+ "addressParts": [
+  "渋谷区",
+  "渋谷3-5-12"
+ ],
+ "city": "渋谷区",
+ "citySlugHint": "shibuya",
+ "station": "JR・東京メトロ銀座線・半蔵門線・東急東横線・田園都市線・京王井の頭線「渋谷駅」 徒歩5分（渋谷警察署裏）",
+ "festivals": [
+  {
+   "date": "9月14日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

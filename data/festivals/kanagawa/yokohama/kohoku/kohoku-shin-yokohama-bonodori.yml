@@ -1,0 +1,32 @@
+id: kohoku-shin-yokohama-bonodori
+name: 新横浜 盆おどり（第24回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港北区
+venue:
+  name: 新横浜駅前広場
+  address: null
+  lat: null
+  lng: null
+station: 新横浜
+organizer: 新横浜町内会（3町内会合同）
+tags: []
+description: null
+links:
+  - https://shinyokohama.info/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinyokohama.info/
+    source_name: 新横浜町内会 公式サイト
+    checked_at: 2026-08-02
+    source_type: official
+stalls: unknown

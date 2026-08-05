@@ -1,0 +1,29 @@
+id: suginami-mypl-壱番街夏祭り
+name: 壱番街夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 浜田山壱番館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.mypl.net/article/summer-fes_suginami
+    source_name: まいぷれ[杉並区]
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+{
+ "id": "1202045",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202045-000/",
+ "name": "神明社",
+ "zip": "221-0863",
+ "address": "横浜市 神奈川区 羽沢町922",
+ "addressParts": [
+  "横浜市",
+  "神奈川区",
+  "羽沢町922"
+ ],
+ "festivals": [
+  {
+   "date": "４月第３日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１５日近い日曜日",
+   "name": "天王祭（てんのうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月第２日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-5215",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/5215",
+ "name": "六所神社",
+ "zip": "158-0092",
+ "address": "世田谷区野毛2-14-2",
+ "addressParts": [
+  "世田谷区",
+  "野毛2-14-2"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急大井町線「等々力駅」 10分",
+ "festivals": [
+  {
+   "date": "9月第4日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+id: kawagoe-jinjacho-9515-0
+name: 仙波東照宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川越市
+  ward: null
+venue:
+  name: 仙波東照宮
+  address: 川越市小仙波町1-21-1
+  lat: null
+  lng: null
+recurrence: 4月17日／1月17日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/9515/
+organizer: 仙波東照宮
+shrine: 仙波東照宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-17
+      - 2026-04-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/9515/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月17日／1月17日」から導いたもので、神社が2026年の日程として発表したものではない

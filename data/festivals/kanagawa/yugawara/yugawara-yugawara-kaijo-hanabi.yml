@@ -1,0 +1,32 @@
+id: yugawara-yugawara-kaijo-hanabi
+name: 湯河原温泉海上花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 湯河原町
+  ward: null
+venue:
+  name: 湯河原海水浴場沖
+  address: null
+  lat: null
+  lng: null
+station: 湯河原
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-03
+    start_time: 20:00
+    end_time: 20:20
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yugawara-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 予備日は8月23日
+stalls: yes

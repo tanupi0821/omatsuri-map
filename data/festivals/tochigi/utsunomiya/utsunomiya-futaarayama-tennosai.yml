@@ -1,0 +1,35 @@
+id: utsunomiya-futaarayama-tennosai
+name: 宇都宮二荒山神社 天王祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 栃木県
+  city: 宇都宮市
+  ward: null
+venue:
+  name: 宇都宮二荒山神社
+  address: null
+  lat: null
+  lng: null
+organizer: 宇都宮二荒山神社
+shrine: 宇都宮二荒山神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+      - 2026-07-16
+      - 2026-07-17
+      - 2026-07-18
+      - 2026-07-19
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: unknown

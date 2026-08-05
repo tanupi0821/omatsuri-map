@@ -1,0 +1,29 @@
+id: kyoto-005-goguynet-59905
+name: 藤森盆踊りフェスティバル2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京都市伏見区
+  ward: null
+venue:
+  name: 藤森神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fushimi.goguynet.jp/2026/07/15/fujinomori-bonfes2026/
+    source_name: 号外NET 京都市伏見区
+    source_type: media
+    checked_at: 2026-08-04

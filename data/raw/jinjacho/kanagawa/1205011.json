@@ -1,0 +1,33 @@
+{
+ "id": "1205011",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205011-000/",
+ "name": "御霊神社",
+ "zip": "248-0021",
+ "address": "鎌倉市 坂ﾉ下4-9",
+ "addressParts": [
+  "鎌倉市",
+  "坂ﾉ下4-9"
+ ],
+ "festivals": [
+  {
+   "date": "９月１７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

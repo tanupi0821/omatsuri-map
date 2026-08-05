@@ -1,0 +1,21 @@
+{
+ "id": "minato-3025",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3025",
+ "name": "幸稲荷神社",
+ "zip": "105-0011",
+ "address": "港区芝公園3-5-27",
+ "addressParts": [
+  "港区",
+  "芝公園3-5-27"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "地下鉄日比谷線「神谷町駅」 7分",
+ "festivals": [
+  {
+   "date": "8月14日／15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

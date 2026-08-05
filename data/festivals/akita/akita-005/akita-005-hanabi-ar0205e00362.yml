@@ -1,0 +1,30 @@
+id: akita-005-hanabi-ar0205e00362
+name: 第42回 ドンパン祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 秋田県
+  city: 大仙市
+  ward: null
+venue:
+  name: 大仙市中仙支所前「ドンパン広場」
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0205e00362/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

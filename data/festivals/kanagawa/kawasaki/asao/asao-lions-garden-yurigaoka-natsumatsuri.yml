@@ -1,0 +1,31 @@
+id: asao-lions-garden-yurigaoka-natsumatsuri
+name: ライオンズガーデン百合ヶ丘 夏祭・花火大会
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: ライオンズガーデン百合ヶ丘 敷地内公園・多目的広場
+  address: null
+  lat: null
+  lng: null
+organizer: ライオンズガーデン百合ヶ丘自治会
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://note.com/kakio_ja/n/n1bd9616420fc
+    source_name: 柿生隠者（note）
+    checked_at: 2026-08-02
+    note: 雨天等の場合は集会場
+    source_type: media
+stalls: unknown

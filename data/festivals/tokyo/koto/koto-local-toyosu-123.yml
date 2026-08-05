@@ -1,0 +1,29 @@
+id: koto-local-toyosu-123
+name: 豊洲123丁目連合会 豊洲ふれあい納涼祭（第14回）
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 豊洲三丁目公園
+  address: null
+  lat: null
+  lng: null
+organizer: 豊洲一・二・三丁目連合会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

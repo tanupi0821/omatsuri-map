@@ -1,0 +1,21 @@
+{
+ "id": "edogawa-5958",
+ "url": "http://www.tokyo-jinjacho.or.jp/edogawa/5958",
+ "name": "浅間神社",
+ "zip": "133-0054",
+ "address": "江戸川区上篠崎1-22-31",
+ "addressParts": [
+  "江戸川区",
+  "上篠崎1-22-31"
+ ],
+ "city": "江戸川区",
+ "citySlugHint": "edogawa",
+ "station": "都営新宿線「篠崎駅」 徒歩15分 JR「小岩駅」より今井行バス「浅間神社前」 2分",
+ "festivals": [
+  {
+   "date": "7月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

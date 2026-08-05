@@ -1,0 +1,31 @@
+id: shizuoka-005-summer-ar0622e4737
+name: 第58回 熱海こがし祭り山車コンク－ル
+kind: 夏祭り
+scale: 市
+area:
+  pref: 静岡県
+  city: 熱海市
+  ward: null
+venue:
+  name: 国道135号(東海岸町)
+  address: 熱海市東海岸町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+      - 2026-07-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e4737/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

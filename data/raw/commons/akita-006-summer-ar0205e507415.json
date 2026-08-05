@@ -1,0 +1,59 @@
+{
+ "id": "akita-006-summer-ar0205e507415",
+ "name": "八幡宮綴子神社例大祭",
+ "term": "八幡宮綴子神社例大祭",
+ "tokens": {
+  "strong": [
+   "八幡宮綴子神社例大祭",
+   "八幡宮綴子神社",
+   "八幡宮綴子"
+  ],
+  "weak": [],
+  "place": [
+   "北秋田市",
+   "北秋田"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tsuzureko_big_drum_3.jpg/1280px-Tsuzureko_big_drum_3.jpg",
+   "width": 1000,
+   "height": 1333,
+   "credit": "Marho",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsuzureko_big_drum_3.jpg",
+   "title": "File:Tsuzureko big drum 3.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tsuzureko_big_drum_2.jpg/1280px-Tsuzureko_big_drum_2.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Marho",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsuzureko_big_drum_2.jpg",
+   "title": "File:Tsuzureko big drum 2.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yutate.jpg/1280px-Yutate.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Marho",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Yutate.jpg",
+   "title": "File:Yutate.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tsuzureko_Jinja_Reitaisai.jpg/1280px-Tsuzureko_Jinja_Reitaisai.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "Marho",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsuzureko_Jinja_Reitaisai.jpg",
+   "title": "File:Tsuzureko Jinja Reitaisai.jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: osaka-005-goguynet-90096
+name: にぎわい祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 枚方市
+  ward: null
+venue:
+  name: 枚方市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hirakata.goguynet.jp/2026/06/21/nigiwaimatsuri/
+    source_name: 号外NET 枚方市
+    source_type: media
+    checked_at: 2026-08-04

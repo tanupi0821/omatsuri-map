@@ -1,0 +1,59 @@
+{
+ "id": "akita-009-hanabi-ar0205e01043",
+ "name": "第22回 港まつり 能代の花火",
+ "term": "港まつり 能代の花火",
+ "tokens": {
+  "strong": [
+   "第22回",
+   "港まつり",
+   "能代の花火"
+  ],
+  "weak": [],
+  "place": [
+   "能代市",
+   "能代"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Noshiro_Fireworks_2017a.jpg/1280px-Noshiro_Fireworks_2017a.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2017a.jpg",
+   "title": "File:Noshiro Fireworks 2017a.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Noshiro_Fireworks_2017c.jpg/1280px-Noshiro_Fireworks_2017c.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2017c.jpg",
+   "title": "File:Noshiro Fireworks 2017c.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Noshiro_Fireworks_2023.jpg/1280px-Noshiro_Fireworks_2023.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2023.jpg",
+   "title": "File:Noshiro Fireworks 2023.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Noshiro_Fireworks_2025.jpg/1280px-Noshiro_Fireworks_2025.jpg",
+   "width": 1000,
+   "height": 1500,
+   "credit": "掬茶",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Noshiro_Fireworks_2025.jpg",
+   "title": "File:Noshiro Fireworks 2025.jpg"
+  }
+ ]
+}

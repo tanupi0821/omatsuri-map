@@ -1,0 +1,24 @@
+{
+ "id": "1203014",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1203014-000/",
+ "name": "諏訪神社",
+ "zip": "231-0868",
+ "address": "横浜市 中区 石川町4ｰ164",
+ "addressParts": [
+  "横浜市",
+  "中区",
+  "石川町4ｰ164"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  }
+ ]
+}

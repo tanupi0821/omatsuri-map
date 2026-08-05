@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5658",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5658",
+ "name": "居木神社",
+ "zip": "141-0032",
+ "address": "品川区大崎3-8-20",
+ "addressParts": [
+  "品川区",
+  "大崎3-8-20"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "JR山手線「大崎駅」 徒歩3分 東急池上線「大崎広小路駅」 徒歩7分",
+ "festivals": [
+  {
+   "date": "8月25日前後の金・土・日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

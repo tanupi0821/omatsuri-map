@@ -1,0 +1,29 @@
+id: atsugi-goguynet-64420
+name: 涼しい屋内 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 厚木市
+  ward: null
+venue:
+  name: 厚木ガス
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://atsugi.goguynet.jp/2026/07/28/lucky_marche-3/
+    source_name: 号外NET 厚木市
+    source_type: media
+    checked_at: 2026-08-04

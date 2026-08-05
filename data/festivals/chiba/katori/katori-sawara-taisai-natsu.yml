@@ -1,0 +1,40 @@
+id: katori-sawara-taisai-natsu
+name: 佐原の大祭 夏祭り（八坂神社祇園祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 香取市
+  ward: null
+venue:
+  name: 八坂神社および小野川周辺（佐原本宿地区）
+  address: null
+  lat: null
+  lng: null
+recurrence: 7月10日以降の金・土・日曜日
+recurrence_source: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/natsu.html
+organizer: 八坂神社
+shrine: 八坂神社
+tags:
+  - 山車
+  - ユネスコ無形文化遺産
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0312e4779/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+      - 2026-07-11
+      - 2026-07-12
+    start_time: 10:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://www.city.katori.lg.jp/sightseeing/matsuri/introduction/natsu.html
+    source_name: 香取市 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 関東三大山車祭りのひとつ。2026年は成田祇園祭と11年ぶりに同日開催
+stalls: yes

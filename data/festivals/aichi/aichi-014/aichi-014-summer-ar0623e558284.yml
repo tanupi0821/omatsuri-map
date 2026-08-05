@@ -1,0 +1,31 @@
+id: aichi-014-summer-ar0623e558284
+name: レゴランド(R)・ジャパン・リゾート「まつりナイト」
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市港区
+  ward: null
+venue:
+  name: レゴランド(R)・ジャパン・リゾート
+  address: 名古屋市港区金城ふ頭2-2-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e558284/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

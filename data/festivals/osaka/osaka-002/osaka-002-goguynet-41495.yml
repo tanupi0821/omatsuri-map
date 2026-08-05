@@ -1,0 +1,31 @@
+id: osaka-002-goguynet-41495
+name: 第45回ふるさと芥川夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 高槻市
+  ward: null
+venue:
+  name: 芥川商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 高槻市
+    url: https://takatsuki.goguynet.jp/2026/07/22/furusatoakutagawanatumaturi2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takatsuki.goguynet.jp/2026/07/24/event202672526/
+    source_name: 号外NET 高槻市
+    source_type: media
+    checked_at: 2026-08-04

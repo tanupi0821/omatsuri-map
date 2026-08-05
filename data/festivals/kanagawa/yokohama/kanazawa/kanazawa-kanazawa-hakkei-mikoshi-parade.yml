@@ -1,0 +1,30 @@
+id: kanazawa-kanazawa-hakkei-mikoshi-parade
+name: 金沢八景みこしパレード 2026
+kind: 秋祭り
+scale: 区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 金沢八景駅前
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-08
+    start_time: 10:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+stalls: unknown

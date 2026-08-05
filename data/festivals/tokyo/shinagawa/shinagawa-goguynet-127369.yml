@@ -1,0 +1,29 @@
+id: shinagawa-goguynet-127369
+name: 昭和医科大学 第39回 旗ケ岡盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 昭和医科大学
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/07/04/shouwaikadaigaku/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-08-04

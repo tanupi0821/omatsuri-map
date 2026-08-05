@@ -1,0 +1,30 @@
+id: miyamae-nogawa-bonodori
+name: 野川地区 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: 野川小学校
+  address: 川崎市宮前区西野川2-19-1
+  lat: null
+  lng: null
+organizer: 野川本町町内会・西野川町内会・東野川南野川町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://miyamae-gokinjosan.com/festival/
+    source_name: みやまえご近所さん（宮前区役所運営）
+    checked_at: 2026-08-02
+    source_type: gov
+stalls: unknown

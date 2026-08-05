@@ -1,0 +1,30 @@
+id: nerima-nerima-higashioizumi-shoeikai
+name: 東大泉商栄会 銀河の夜の盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 練馬区
+  ward: null
+venue:
+  name: 妙延寺
+  address: 練馬区東大泉3-16-5
+  lat: null
+  lng: null
+organizer: 東大泉商栄会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 15:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://satoriki.net/blog/8424/
+    source_name: 練馬区議会議員 佐藤力 公式サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

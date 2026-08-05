@@ -1,0 +1,29 @@
+id: koto-local-furuishiba-kodomo
+name: 古石場こども夏まつり
+kind: こどもまつり
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 古石場文化センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

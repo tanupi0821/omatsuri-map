@@ -1,0 +1,21 @@
+{
+ "id": "minato-3026",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3026",
+ "name": "稲荷神社",
+ "zip": "108-0074",
+ "address": "港区高輪1-18-11",
+ "addressParts": [
+  "港区",
+  "高輪1-18-11"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "JR・地下鉄浅草線「五反田駅」バス利用、バス「清正公前」 2分",
+ "festivals": [
+  {
+   "date": "9月8日／9月9日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

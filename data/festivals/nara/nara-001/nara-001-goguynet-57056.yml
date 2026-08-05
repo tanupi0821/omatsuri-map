@@ -1,0 +1,30 @@
+id: nara-001-goguynet-57056
+name: ひむろしらゆき祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 奈良市
+  ward: null
+venue:
+  name: 奈良市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-25
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nara.goguynet.jp/2026/04/14/himuroshirayukisai/
+    source_name: 号外NET 奈良市
+    source_type: media
+    checked_at: 2026-08-04

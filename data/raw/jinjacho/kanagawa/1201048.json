@@ -1,0 +1,29 @@
+{
+ "id": "1201048",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201048-000/",
+ "name": "土橋神社",
+ "zip": "216-0005",
+ "address": "川崎市 宮前区 土橋1ｰ10ｰ2",
+ "addressParts": [
+  "川崎市",
+  "宮前区",
+  "土橋1ｰ10ｰ2"
+ ],
+ "festivals": [
+  {
+   "date": "４月１５日",
+   "name": "春祭り（はるまつり）",
+   "alias": null
+  },
+  {
+   "date": "７月１４日",
+   "name": "夏祭り（なつまつり）",
+   "alias": null
+  },
+  {
+   "date": "10月6日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  }
+ ]
+}

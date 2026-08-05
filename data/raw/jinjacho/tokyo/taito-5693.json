@@ -1,0 +1,21 @@
+{
+ "id": "taito-5693",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/5693",
+ "name": "浅間神社",
+ "zip": "111-0032",
+ "address": "台東区浅草5-3-2",
+ "addressParts": [
+  "台東区",
+  "浅草5-3-2"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "地下鉄銀座線・浅草線「浅草駅」 15分 都バス「浅草警察署前」 3分",
+ "festivals": [
+  {
+   "date": "5月31日〜6月1日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

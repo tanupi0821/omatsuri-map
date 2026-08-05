@@ -1,0 +1,32 @@
+id: saga-004-goguynet-94129
+name: 佐賀城下栄の国まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 佐賀県
+  city: 佐賀市
+  ward: null
+venue:
+  name: 佐賀市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar1041e00312/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-23
+      - 2026-05-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saga.goguynet.jp/2026/05/14/sagakensagashisakaenokunimatsuri-5/
+    source_name: 号外NET 佐賀市・小城市・多久市
+    source_type: media
+    checked_at: 2026-08-04

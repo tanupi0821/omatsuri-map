@@ -1,0 +1,29 @@
+id: okinawa-001-goguynet-8092
+name: 牧志下町屋台村 2周年祭夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 沖縄県
+  city: 那覇市
+  ward: null
+venue:
+  name: 那覇市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://naha.goguynet.jp/2026/07/09/makisisitamati-2/
+    source_name: 号外NET 那覇市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: osaka-006-ward-osaka-konohana-酉島夜店と花火大会
+name: 酉島夜店と花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市此花区
+  ward: null
+venue:
+  name: 此花総合高校跡グラウンド
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html
+    source_name: 大阪市此花区
+    source_type: gov
+    checked_at: 2026-08-05

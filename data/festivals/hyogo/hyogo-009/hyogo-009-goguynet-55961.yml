@@ -1,0 +1,32 @@
+id: hyogo-009-goguynet-55961
+name: "&ふれあいまつり"
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 高砂市
+  ward: null
+venue:
+  name: 高砂市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-03
+      - 2026-07-25
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kakogawa.goguynet.jp/2026/07/01/shotengaisummerfes/
+    source_name: 号外NET 加古川市・高砂市
+    source_type: media
+    checked_at: 2026-08-04

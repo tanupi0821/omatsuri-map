@@ -1,0 +1,30 @@
+id: minuma-higashiomiya-summer-festival
+name: 大宮夏まつり 東大宮サマーフェスティバル（第30回）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 見沼区
+venue:
+  name: 東大宮中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 16:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,29 @@
+{
+ "id": "1208189",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1208189-000/",
+ "name": "皇武神社",
+ "zip": "252-0202",
+ "address": "相模原市 中央区 淵野辺本町4ｰ20ｰ11",
+ "addressParts": [
+  "相模原市",
+  "中央区",
+  "淵野辺本町4ｰ20ｰ11"
+ ],
+ "festivals": [
+  {
+   "date": "２月節分",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "９月８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月３１日",
+   "name": "年末大祓祭（ねんまつおおはらいさい）",
+   "alias": null
+  }
+ ]
+}

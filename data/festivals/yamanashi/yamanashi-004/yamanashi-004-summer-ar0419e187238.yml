@@ -1,0 +1,29 @@
+id: yamanashi-004-summer-ar0419e187238
+name: 月見ヶ池弁財天祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山梨県
+  city: 上野原市
+  ward: null
+venue:
+  name: 月見ヶ池
+  address: 上野原市上野原3428
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0419e187238/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

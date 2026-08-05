@@ -1,0 +1,39 @@
+id: fukushima-001-summer-ar0207e73381
+name: 会津田島祇園祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福島県
+  city: 南会津郡南会津町
+  ward: null
+venue:
+  name: 会津田島祇園祭特設会場、ほか
+  address: 南会津郡南会津町田島字中町地内
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0207e73381/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%E5%B9%95%E3%81%AE%E5%86%85%E5%BC%81%E5%BD%93%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD%EF%BC%88%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E9%A7%85%EF%BC%89.jpg/1280px-%E5%B9%95%E3%81%AE%E5%86%85%E5%BC%81%E5%BD%93%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD%EF%BC%88%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E9%A7%85%EF%BC%89.jpg
+    width: 1000
+    height: 667
+    credit: くろふね
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E5%B9%95%E3%81%AE%E5%86%85%E5%BC%81%E5%BD%93%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E7%A5%87%E5%9C%92%E7%A5%AD%EF%BC%88%E4%BC%9A%E6%B4%A5%E7%94%B0%E5%B3%B6%E9%A7%85%EF%BC%89.jpg

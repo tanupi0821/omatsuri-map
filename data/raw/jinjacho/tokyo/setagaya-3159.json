@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-3159",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/3159",
+ "name": "天神社",
+ "zip": "157-0077",
+ "address": "世田谷区鎌田4-11-19",
+ "addressParts": [
+  "世田谷区",
+  "鎌田4-11-19"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "「鎌田」バス5分",
+ "festivals": [
+  {
+   "date": "10月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

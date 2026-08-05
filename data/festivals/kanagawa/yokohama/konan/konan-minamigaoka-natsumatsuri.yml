@@ -1,0 +1,29 @@
+id: konan-minamigaoka-natsumatsuri
+name: 南ヶ丘町内会 夏祭り（第24回）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港南区
+venue:
+  name: 南ヶ丘（上大岡・港南中央エリア）
+  address: null
+  lat: null
+  lng: null
+organizer: 南ヶ丘町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/konan-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+stalls: unknown

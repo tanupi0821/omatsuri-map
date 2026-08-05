@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-3165",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/3165",
+ "name": "氷川神社",
+ "zip": "157-0074",
+ "address": "世田谷区大蔵6-6-7",
+ "addressParts": [
+  "世田谷区",
+  "大蔵6-6-7"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "「永安寺前」バス10分",
+ "festivals": [
+  {
+   "date": "10月2日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

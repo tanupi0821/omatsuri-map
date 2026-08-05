@@ -1,0 +1,35 @@
+id: asao-kotohira-jinja-reitaisai
+name: 武州柿生 琴平神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 琴平神社
+  address: 川崎市麻生区王禅寺東5-46-15
+  lat: null
+  lng: null
+recurrence: スポーツの日（10月第2月曜日）
+recurrence_source: https://kotohirajinja.com/ritual
+organizer: 琴平神社
+shrine: 琴平神社
+tags:
+  - 神輿
+  - 子ども向け
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://kotohirajinja.com/ritual
+    source_name: 武州柿生 琴平神社 公式
+    source_type: official
+    checked_at: 2026-08-02
+    note: 本殿祭儀、こども神輿、演芸会、浦安の舞奉納。日付は公式の「スポーツの日」という記載から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,241 @@
+---
+/**
+ * 祭りの一覧（絞り込みつき）
+ *
+ * トップ・都道府県ページ・市区町村ページで使い回す。
+ *
+ * **1 ページに全国 3916 件を出すとトップが 2.9MB になった。**
+ * 携帯で開ける大きさではないので、ページを地域で割って
+ * それぞれが扱う件数を絞る。この部品は渡された分だけを描く。
+ */
+import { latestOccurrence, formatDates, formatTime, STATUS_LABEL } from '../lib/data.js';
+
+const { festivals, showArea = true } = Astro.props;
+
+const kinds = [...new Set(festivals.map((f) => f.kind))].sort();
+const hasStalls = festivals.some((f) => f.stalls === 'yes');
+
+// 月の選択肢は実際に開催のある月だけ出す。1 つしか無ければ絞る意味がない
+const months = [...new Set(
+  festivals.flatMap((f) => (latestOccurrence(f)?.dates ?? []).map((d) => d.slice(0, 7))),
+)].sort();
+
+const rows = festivals.map((f) => {
+  const o = latestOccurrence(f);
+  return {
+    f,
+    o,
+    start: o?.dates?.[0] ?? null,
+    end: o?.dates?.at(-1) ?? o?.dates?.[0] ?? null,
+    dateLabel: formatDates(o),
+    timeLabel: formatTime(o),
+    statusLabel: STATUS_LABEL[o?.status] ?? null,
+  };
+});
+---
+
+<div class="filters">
+  <div class="tabs" role="group" aria-label="表示する期間">
+    <button data-range="upcoming" class="on">これから</button>
+    <button data-range="weekend">今週末</button>
+    <button data-range="all">すべて</button>
+  </div>
+  <div class="selects">
+    <select class="js-kind" aria-label="種別で絞り込む">
+      <option value="">種別：すべて</option>
+      {kinds.map((k) => <option value={k}>{k}</option>)}
+    </select>
+    {months.length > 1 && (
+      <select class="js-month" aria-label="月で絞り込む">
+        <option value="">月：すべて</option>
+        {months.map((m) => <option value={m}>{Number(m.slice(5))}月</option>)}
+      </select>
+    )}
+    {hasStalls && (
+      <label class="stalls-toggle">
+        <input type="checkbox" class="js-stalls" />
+        屋台あり
+      </label>
+    )}
+  </div>
+</div>
+
+{/* 町内会の祭りは名前で探されることが多い（「◯◯町会」「◯◯公園」）。
+    件数が少ないページでは邪魔になるだけなので出さない。 */}
+{festivals.length > 20 && (
+  <input
+    class="js-q search"
+    type="search"
+    placeholder="祭りの名前・会場・町会名でしぼる"
+    aria-label="祭りの名前や会場で探す"
+  />
+)}
+
+<p class="count js-count"></p>
+<p class="lede js-empty" hidden>
+  条件に合う祭りがありません。「すべて」に切り替えると過去の開催回も見られます。
+</p>
+
+<ul class="list js-list">
+  {rows.map(({ f, o, start, end, dateLabel, timeLabel, statusLabel }) => (
+    <li
+      class="card"
+      data-kind={f.kind}
+      data-stalls={f.stalls ?? 'unknown'}
+      data-start={start}
+      data-end={end}
+      data-dates={(o?.dates ?? []).join(',')}
+      data-q={[f.name, f.venue.name, f.organizer, f.shrine, f.area.city, f.area.ward]
+        .filter(Boolean).join(' ')}
+    >
+      <a href={`/f/${f.id}`}>
+        {f.photos?.[0] && <img class="thumb" src={f.photos[0].url} alt="" loading="lazy" />}
+        <div class="meta">
+          <span class="badge">{f.kind}</span>
+          {showArea && <span>{f.area.city}{f.area.ward ? ` ${f.area.ward}` : ''}</span>}
+          {f.stalls === 'yes' && <span class="badge stalls">屋台あり</span>}
+          {statusLabel && <span class="badge warn">{statusLabel}</span>}
+        </div>
+        <div class="name">{f.name}</div>
+        <div class="when">{dateLabel}{timeLabel && <> ／ {timeLabel}</>}</div>
+        <div class="where">{f.venue.name}</div>
+        {o?.year && o.year !== new Date().getFullYear() && (
+          <div class="stale">{o.year}年の情報です</div>
+        )}
+      </a>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 12px; }
+  .tabs { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .tabs button {
+    border: 0; background: var(--card); color: var(--fg);
+    padding: 7px 14px; font-size: 14px; cursor: pointer; font-family: inherit;
+  }
+  .tabs button + button { border-left: 1px solid var(--line); }
+  .tabs button.on { background: var(--accent); color: #fff; }
+  .selects { display: flex; gap: 8px; flex: 1; min-width: 200px; }
+  select {
+    flex: 1; min-width: 0; padding: 7px 10px; font-size: 14px; font-family: inherit;
+    border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); color: var(--fg);
+  }
+  .count { font-size: 13px; color: var(--muted); margin: 0 0 10px; }
+  .search {
+    width: 100%; box-sizing: border-box; margin: 0 0 12px;
+    padding: 9px 12px; font-size: 15px; font-family: inherit;
+    border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); color: var(--fg);
+  }
+  .lede { color: var(--muted); font-size: 14px; }
+  .stalls-toggle {
+    display: flex; align-items: center; gap: 6px; font-size: 14px;
+    padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); cursor: pointer; white-space: nowrap;
+  }
+  .list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  .card { border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+  .card a { display: block; padding: 14px 16px; text-decoration: none; color: inherit; }
+  .card .meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+  .card .thumb {
+    width: 100%; height: 140px; object-fit: cover;
+    border-radius: 8px; margin-bottom: 10px; display: block; background: var(--line);
+  }
+  .card .name { font-weight: 700; margin: 4px 0 2px; font-size: 16px; }
+  .card .when { font-size: 14px; }
+  .card .where { font-size: 13px; color: var(--muted); }
+  .card .stale { font-size: 12px; color: var(--warn-fg); margin-top: 4px; }
+</style>
+
+<script>
+  // 静的サイトなので日付判定はブラウザ側で行う。
+  // ビルドが古くても「今週末」が狂わないようにするため。
+  const list = document.querySelector('.js-list');
+  const cards = [...document.querySelectorAll('.card')];
+  const tabs = [...document.querySelectorAll('.tabs button')];
+  const kind = document.querySelector('.js-kind');
+  const month = document.querySelector('.js-month');
+  const stalls = document.querySelector('.js-stalls');
+  const q = document.querySelector('.js-q');
+  const empty = document.querySelector('.js-empty');
+  const count = document.querySelector('.js-count');
+  let range = 'upcoming';
+
+  const iso = (d) => d.toISOString().slice(0, 10);
+  const today = iso(new Date());
+
+  // 今週末＝直近の金・土・日（金曜の夜も祭りは多いので金曜から含める）
+  function weekendRange() {
+    const now = new Date();
+    const dow = now.getDay(); // 0=日
+    const toFri = (5 - dow + 7) % 7;
+    const fri = new Date(now);
+    fri.setDate(now.getDate() + (dow === 0 ? -2 : toFri));
+    const sun = new Date(fri);
+    sun.setDate(fri.getDate() + 2);
+    return [iso(fri), iso(sun)];
+  }
+
+  // 縁日のように何日も開催が続くものは、初日ではなく「次にある日」で並べたい
+  function nextDate(c) {
+    const dates = c.dataset.dates ? c.dataset.dates.split(',') : [];
+    return dates.find((d) => d >= today) ?? c.dataset.end ?? c.dataset.start ?? '9999';
+  }
+
+  function apply() {
+    const [wStart, wEnd] = weekendRange();
+    const words = (q?.value ?? '').trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const visible = [];
+    for (const c of cards) {
+      const s = c.dataset.start;
+      const e = c.dataset.end || s;
+      let ok = true;
+      if (kind.value && c.dataset.kind !== kind.value) ok = false;
+      // 月は開催日のどれかがその月なら通す（月をまたぐ祭りがある）
+      if (ok && month?.value) {
+        ok = (c.dataset.dates || '').split(',').some((d) => d.startsWith(month.value));
+      }
+      // 「屋台あり」は確認できたものだけ。未確認(unknown)は出さない
+      if (ok && stalls?.checked && c.dataset.stalls !== 'yes') ok = false;
+      if (ok && words.length) {
+        const hay = (c.dataset.q || '').toLowerCase();
+        ok = words.every((w) => hay.includes(w));
+      }
+      if (ok && range === 'upcoming') ok = !!e && e >= today;
+      if (ok && range === 'weekend') ok = !!s && s <= wEnd && e >= wStart;
+      c.hidden = !ok;
+      if (ok) visible.push(c);
+    }
+
+    if (range !== 'all') {
+      visible.sort((a, b) => nextDate(a).localeCompare(nextDate(b)));
+      for (const c of visible) list.appendChild(c);
+    }
+
+    empty.hidden = visible.length > 0;
+    count.textContent = `${visible.length} 件`;
+  }
+
+  for (const t of tabs) {
+    t.addEventListener('click', () => {
+      tabs.forEach((x) => x.classList.toggle('on', x === t));
+      range = t.dataset.range;
+      apply();
+    });
+  }
+  kind.addEventListener('change', apply);
+  // 月を選んだのに「これから」のままだと、過ぎた月を選んだ人に 0 件が出る。
+  // 月で探す人は期間を気にしていないので、こちらで「すべて」に切り替える
+  month?.addEventListener('change', () => {
+    if (month.value && range !== 'all') {
+      range = 'all';
+      tabs.forEach((x) => x.classList.toggle('on', x.dataset.range === 'all'));
+    }
+    apply();
+  });
+  stalls?.addEventListener('change', apply);
+  q?.addEventListener('input', apply);
+  apply();
+</script>

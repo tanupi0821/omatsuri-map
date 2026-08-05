@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5965",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5965",
+ "name": "稲荷神社",
+ "zip": "168-0064",
+ "address": "杉並区永福1-24-6",
+ "addressParts": [
+  "杉並区",
+  "永福1-24-6"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "京王井の頭線「永福町駅」 南へ徒歩4分",
+ "festivals": [
+  {
+   "date": "9月24日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "1206042",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1206042-000/",
+ "name": "白旗神社",
+ "zip": "251-0052",
+ "address": "藤沢市 藤沢2-4-7",
+ "addressParts": [
+  "藤沢市",
+  "藤沢2-4-7"
+ ],
+ "festivals": [
+  {
+   "date": "1月7日～",
+   "name": "藤沢七福神めぐり（ふじさわしちふくじんめぐり）",
+   "alias": null
+  },
+  {
+   "date": "1月14日",
+   "name": "どんど祭（どんどまつり）",
+   "alias": null
+  },
+  {
+   "date": "7月15日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "7月20日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "7月21日に近い日曜",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "7月21日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "10月28日",
+   "name": "秋祭（あきまつり）",
+   "alias": null
+  }
+ ]
+}

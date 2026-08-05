@@ -1,0 +1,24 @@
+{
+ "id": "1210209",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210209-000/",
+ "name": "寒田神社",
+ "zip": "258-0003",
+ "address": "足柄上郡 松田町 松田惣領1767",
+ "addressParts": [
+  "足柄上郡",
+  "松田町",
+  "松田惣領1767"
+ ],
+ "festivals": [
+  {
+   "date": "７月１日",
+   "name": "臨時祭（りんじさい）",
+   "alias": null
+  },
+  {
+   "date": "７月３１日",
+   "name": "浜降祭（はまおりさい）",
+   "alias": null
+  }
+ ]
+}

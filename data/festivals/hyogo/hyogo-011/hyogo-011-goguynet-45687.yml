@@ -1,0 +1,30 @@
+id: hyogo-011-goguynet-45687
+name: こども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 宝塚市
+  ward: null
+venue:
+  name: 宝塚市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-09
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takarazuka.goguynet.jp/2026/04/24/kidsfes/
+    source_name: 号外NET 宝塚市・川西市
+    source_type: media
+    checked_at: 2026-08-04

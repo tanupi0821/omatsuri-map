@@ -1,0 +1,29 @@
+id: aoba-ichigao-summer-festival
+name: サマーふぇすてぃばる・いちがお 2026（第27回）
+kind: 商店街
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 青葉区
+venue:
+  name: 西友市が尾店 お客様駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: 市ヶ尾商栄会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

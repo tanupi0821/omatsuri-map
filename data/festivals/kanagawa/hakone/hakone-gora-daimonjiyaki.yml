@@ -1,0 +1,31 @@
+id: hakone-gora-daimonjiyaki
+name: 箱根強羅温泉 大文字焼（箱根強羅夏まつり）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 箱根町
+  ward: null
+venue:
+  name: 明星ヶ岳・強羅駅周辺
+  address: null
+  lat: null
+  lng: null
+station: 強羅
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: 19:30
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/hakone-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 点火は19:30
+stalls: unknown

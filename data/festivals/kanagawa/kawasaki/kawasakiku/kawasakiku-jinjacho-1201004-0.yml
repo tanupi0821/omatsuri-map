@@ -1,0 +1,34 @@
+id: kawasakiku-jinjacho-1201004-0
+name: 中島八幡神社例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 川崎区
+venue:
+  name: 八幡神社
+  address: 川崎市川崎区中島2-15-1
+  lat: null
+  lng: null
+recurrence: 8月第一日曜日／8月第一土曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201004-000/
+organizer: 八幡神社
+shrine: 八幡神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201004-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月第一日曜日／8月第一土曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

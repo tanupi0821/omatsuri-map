@@ -1,0 +1,34 @@
+id: sumida-jinjacho-sumida-5690-0
+name: 牛嶋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 牛嶋神社
+  address: 墨田区本所2-2-10
+  lat: null
+  lng: null
+station: 地下鉄浅草線「本所吾妻橋駅」 5分 地下鉄銀座線「浅草駅」 10分
+recurrence: 9月15日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/sumida/5690
+organizer: 牛嶋神社
+shrine: 牛嶋神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/sumida/5690
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

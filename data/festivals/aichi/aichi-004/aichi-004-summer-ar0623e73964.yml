@@ -1,0 +1,39 @@
+id: aichi-004-summer-ar0623e73964
+name: 第57回 豊田おいでんまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: 名鉄豊田市駅 東側一帯、ほか
+  address: 豊田市喜多町、ほか
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-05-31
+      - 2025-07-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e73964/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日／出典は2025年の日程のまま。2026年の開催は発表されていない
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/PIZZA-LA_%283764263264%29.jpg/1280px-PIZZA-LA_%283764263264%29.jpg
+    width: 1000
+    height: 750
+    credit: Emran Kassim
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:PIZZA-LA_(3764263264).jpg

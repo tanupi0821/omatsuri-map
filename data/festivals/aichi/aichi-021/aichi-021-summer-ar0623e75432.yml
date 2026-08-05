@@ -1,0 +1,46 @@
+id: aichi-021-summer-ar0623e75432
+name: 第28回 にっぽんど真ん中祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 久屋大通公園
+  address: 名古屋市中区丸の内3丁目～大須4丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e75432/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_116%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg/1280px-%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_116%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg
+    width: 1000
+    height: 750
+    credit: Kyu3
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_116%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_161%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg/1280px-%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_161%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg
+    width: 1000
+    height: 725
+    credit: Kyu3
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E3%81%A9%E7%9C%9F%E3%82%93%E4%B8%AD%E7%A5%AD%E3%82%8A_2014_No_-_161%EF%BC%9A%E5%A4%A7%E6%B4%A5%E9%80%9A%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E4%BC%9A%E5%A0%B4.jpg

@@ -1,0 +1,36 @@
+id: arakawa-jinjacho-arakawa-5314-0
+name: 素盞雄神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 素盞雄神社
+  address: 荒川区南千住6-60-1
+  lat: null
+  lng: null
+station: JR常磐線・東京メトロ日比谷線「南千住駅」 徒歩8分 京成線「千住大橋駅」 徒歩8分 都バス 草43「千住大橋」 徒歩1分 都電荒川線「三ノ輪橋」 徒歩10分
+recurrence: 6月3日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/arakawa/5314
+organizer: 素盞雄神社
+shrine: 素盞雄神社
+tags: []
+description: null
+links:
+  - title: 屋台の記述がある記事
+    url: https://arakawa.goguynet.jp/2026/06/06/tennousai-4/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/arakawa/5314
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月3日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: yes

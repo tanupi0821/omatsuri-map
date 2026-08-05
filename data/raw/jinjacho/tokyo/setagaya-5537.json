@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-5537",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/5537",
+ "name": "奥澤神社",
+ "zip": "158-0083",
+ "address": "世田谷区奥沢5-22-1",
+ "addressParts": [
+  "世田谷区",
+  "奥沢5-22-1"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "東急目黒線「奥沢駅」 徒歩2分 東急東横線・大井町線「自由が丘駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "9月第2土曜・翌日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

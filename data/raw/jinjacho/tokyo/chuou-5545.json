@@ -1,0 +1,21 @@
+{
+ "id": "chuou-5545",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/5545",
+ "name": "豊岩稲荷神社",
+ "zip": "104-0061",
+ "address": "中央区銀座7-8-14",
+ "addressParts": [
+  "中央区",
+  "銀座7-8-14"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄銀座線・日比谷線・丸ノ内線「銀座駅」",
+ "festivals": [
+  {
+   "date": "4月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

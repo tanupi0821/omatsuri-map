@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5241",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5241",
+ "name": "野見宿禰神社",
+ "zip": "130-0014",
+ "address": "墨田区亀沢2-8-10",
+ "addressParts": [
+  "墨田区",
+  "亀沢2-8-10"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "JR・地下鉄大江戸線「両国駅」 10分",
+ "festivals": [
+  {
+   "date": "5月上旬",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

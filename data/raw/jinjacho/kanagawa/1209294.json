@@ -1,0 +1,33 @@
+{
+ "id": "1209294",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209294-000/",
+ "name": "御嶽神社",
+ "zip": "257-0021",
+ "address": "秦野市 蓑毛728",
+ "addressParts": [
+  "秦野市",
+  "蓑毛728"
+ ],
+ "festivals": [
+  {
+   "date": "４月１９日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越大祓（なごしおおはらい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２５日",
+   "name": "年越大祓（としこしおおはらい）",
+   "alias": null
+  }
+ ]
+}

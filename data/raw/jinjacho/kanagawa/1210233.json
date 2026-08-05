@@ -1,0 +1,29 @@
+{
+ "id": "1210233",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210233-000/",
+ "name": "山神神社",
+ "zip": "250-0312",
+ "address": "足柄下郡 箱根町 湯本茶屋64",
+ "addressParts": [
+  "足柄下郡",
+  "箱根町",
+  "湯本茶屋64"
+ ],
+ "festivals": [
+  {
+   "date": "1月17日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "5月16日後の土曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "5月17日後の日曜日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

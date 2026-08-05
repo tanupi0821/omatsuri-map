@@ -1,0 +1,31 @@
+id: katsushika-chokai-yokokawa4-20260705-13
+name: 横川四丁目町会 盆踊り合同練習会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 横川四丁目町会 地域内
+  address: null
+  lat: null
+  lng: null
+organizer: 横川四丁目町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.chokai.info/yokokawa4/
+    source_name: 横川四丁目町会（町会いんふぉ）
+    source_type: official
+    checked_at: 2026-08-03
+    note: 町内会・自治会が自身のホームページで告知したもの。会場の詳細は出典元の告知を参照
+stalls: unknown

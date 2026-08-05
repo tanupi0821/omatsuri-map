@@ -1,0 +1,29 @@
+id: koto-local-higashisuna-2danchi
+name: 東砂二丁目団地自治会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 東砂郵便局広場
+  address: null
+  lat: null
+  lng: null
+organizer: 東砂二丁目団地自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

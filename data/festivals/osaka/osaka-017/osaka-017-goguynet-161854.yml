@@ -1,0 +1,29 @@
+id: osaka-017-goguynet-161854
+name: 第8回ふるさと門真まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 門真市
+  ward: null
+venue:
+  name: 門真市立総合体育館(正午〜午後6時)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://moriguchikadoma.goguynet.jp/2026/07/23/kadomamatsuri-3/
+    source_name: 号外NET 守口市・門真市
+    source_type: media
+    checked_at: 2026-08-04

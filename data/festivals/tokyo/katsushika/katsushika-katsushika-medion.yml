@@ -1,0 +1,30 @@
+id: katsushika-katsushika-medion
+name: ミディオン自治会 ミディオンフェスティバル
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: マンション中庭
+  address: 葛飾区南水元3-4
+  lat: null
+  lng: null
+organizer: ミディオン自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 雨天決行
+stalls: unknown

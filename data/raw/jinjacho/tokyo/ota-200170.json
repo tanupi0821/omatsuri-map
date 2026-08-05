@@ -1,0 +1,21 @@
+{
+ "id": "ota-200170",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/200170",
+ "name": "薭田神社",
+ "zip": "144-0052",
+ "address": "大田区蒲田3-2-10",
+ "addressParts": [
+  "大田区",
+  "蒲田3-2-10"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "京急線「京急蒲田駅」 10分",
+ "festivals": [
+  {
+   "date": "9月15日前後の土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

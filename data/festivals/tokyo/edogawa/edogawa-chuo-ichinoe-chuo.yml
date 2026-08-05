@@ -1,0 +1,31 @@
+id: edogawa-chuo-ichinoe-chuo
+name: 一之江中央町会 祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: はなみずき公園
+  address: null
+  lat: null
+  lng: null
+organizer: 一之江中央町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: 14:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://www.city.edogawa.tokyo.jp/documents/1797/bonodori20260717-2.pdf
+    source_name: 江戸川区 中央地区 盆踊り・夏まつり予定表
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 9/19 14:00〜18:00、9/20 9:00〜14:00
+stalls: unknown

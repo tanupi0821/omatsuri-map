@@ -1,0 +1,32 @@
+id: seya-tanabata-toro-matsuri
+name: 七夕灯篭祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 瀬谷区
+venue:
+  name: 三ツ境駅南口〜長屋門公園周辺、阿久和向原第二公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 灯籠流し
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: 18:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/seya-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    note: 点灯は18:30〜20:30
+    source_type: aggregator
+stalls: unknown

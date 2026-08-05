@@ -1,0 +1,29 @@
+id: taito-tokyofesta-28585
+name: マロニエまつり盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: ヒューリック浅草橋ビル前路上
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/28585/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

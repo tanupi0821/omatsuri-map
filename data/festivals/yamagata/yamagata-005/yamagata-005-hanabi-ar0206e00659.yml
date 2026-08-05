@@ -1,0 +1,30 @@
+id: yamagata-005-hanabi-ar0206e00659
+name: 大石田まつり最上川花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 山形県
+  city: 北村山郡大石田町
+  ward: null
+venue:
+  name: 最上川河川敷 大橋下流域
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0206e00659/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

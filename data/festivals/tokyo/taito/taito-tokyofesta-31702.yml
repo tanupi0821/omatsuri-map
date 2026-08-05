@@ -1,0 +1,29 @@
+id: taito-tokyofesta-31702
+name: 雷門盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 並木通り界隈（浅草雷門前）
+  address: null
+  lat: null
+  lng: null
+organizer: 雷門東部商店会・雷門一之宮商店会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31702/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

@@ -1,0 +1,29 @@
+id: mie-005-goguynet-64399
+name: 夏祭りマルシェ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 鈴鹿市
+  ward: null
+venue:
+  name: 鈴鹿市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suzuka-kameyama.goguynet.jp/2026/07/17/suzuka-culturestation-event/
+    source_name: 号外NET 鈴鹿市・亀山市
+    source_type: media
+    checked_at: 2026-08-04

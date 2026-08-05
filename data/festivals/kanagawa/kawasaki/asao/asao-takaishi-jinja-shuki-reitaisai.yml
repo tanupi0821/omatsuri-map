@@ -1,0 +1,36 @@
+id: asao-takaishi-jinja-shuki-reitaisai
+name: 高石神社 秋季例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 高石神社
+  address: 川崎市麻生区高石1-31-1
+  lat: null
+  lng: null
+recurrence: 9月21日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201085-000/
+organizer: 高石神社
+shrine: 高石神社
+tags:
+  - 神輿
+  - 獅子舞
+description: null
+links:
+  - https://takaishijinja.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201085-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 神輿渡御・獅子舞などの伝統行事。日付は神社庁の例祭日から導いたもの
+stalls: unknown

@@ -1,0 +1,31 @@
+id: oita-006-summer-ar1044e190830
+name: ゆふいん盆地まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大分県
+  city: 由布市
+  ward: null
+venue:
+  name: 湯布院町内
+  address: 由布市大分県湯布院町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e190830/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

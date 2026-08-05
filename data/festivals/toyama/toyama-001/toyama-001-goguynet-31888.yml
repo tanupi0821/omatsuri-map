@@ -1,0 +1,45 @@
+id: toyama-001-goguynet-31888
+name: 伏木曳山祭（ふしきひきやままつり）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 高岡市
+  ward: null
+venue:
+  name: 伏木地内・山町一帯
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-15
+      - 2026-05-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takaoka.goguynet.jp/2026/05/15/kenkayama/
+    source_name: 号外NET 高岡市・氷見市
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/92/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg
+    width: 1000
+    height: 750
+    credit: 砺波夜高祭WEB管理人
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A_5%E6%9C%88_-_panoramio.jpg/1280px-%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A_5%E6%9C%88_-_panoramio.jpg
+    width: 1000
+    height: 667
+    credit: SilverHaze
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E6%9C%A8%E6%9B%B3%E5%B1%B1%E7%A5%AD%E3%82%8A_5%E6%9C%88_-_panoramio.jpg

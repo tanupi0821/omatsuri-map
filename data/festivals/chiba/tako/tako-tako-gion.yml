@@ -1,0 +1,32 @@
+id: tako-tako-gion
+name: 多古祇園祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 千葉県
+  city: 多古町
+  ward: null
+venue:
+  name: 多古町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 神輿
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

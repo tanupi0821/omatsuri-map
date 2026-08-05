@@ -1,0 +1,58 @@
+{
+ "id": "hadano-hanabi-ar0314e356551",
+ "name": "第79回 秦野たばこ祭",
+ "term": "秦野たばこ祭",
+ "tokens": {
+  "strong": [
+   "第79回",
+   "秦野たばこ祭"
+  ],
+  "weak": [],
+  "place": [
+   "秦野市",
+   "秦野"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Takahashi-Masakazu-HadanoTobaccoFest.jpg/1280px-Takahashi-Masakazu-HadanoTobaccoFest.jpg",
+   "width": 1000,
+   "height": 1000,
+   "credit": "テレストレラッソ",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Takahashi-Masakazu-HadanoTobaccoFest.jpg",
+   "title": "File:Takahashi-Masakazu-HadanoTobaccoFest.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HadanoTobaccoFest77-HadanoTobaccoOndo.jpg/1280px-HadanoTobaccoFest77-HadanoTobaccoOndo.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "テレストレラッソ",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:HadanoTobaccoFest77-HadanoTobaccoOndo.jpg",
+   "title": "File:HadanoTobaccoFest77-HadanoTobaccoOndo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/HadanoTobaccoFest77-Fireworks-Koboyama.jpg/1280px-HadanoTobaccoFest77-Fireworks-Koboyama.jpg",
+   "width": 1000,
+   "height": 667,
+   "credit": "テレストレラッソ",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:HadanoTobaccoFest77-Fireworks-Koboyama.jpg",
+   "title": "File:HadanoTobaccoFest77-Fireworks-Koboyama.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YoshidaEisaku-HadanoTobaccoFest77.jpg/1280px-YoshidaEisaku-HadanoTobaccoFest77.jpg",
+   "width": 1000,
+   "height": 1000,
+   "credit": "テレストレラッソ",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:YoshidaEisaku-HadanoTobaccoFest77.jpg",
+   "title": "File:YoshidaEisaku-HadanoTobaccoFest77.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+id: toyama-001-goguynet-32339
+name: 伏木港まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 高岡市
+  ward: null
+venue:
+  name: 変更が続いていた万葉ふ頭での花火大会が
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takaoka.goguynet.jp/2026/07/24/fishiki-minato/
+    source_name: 号外NET 高岡市・氷見市
+    source_type: media
+    checked_at: 2026-08-04

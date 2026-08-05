@@ -1,0 +1,30 @@
+{
+ "id": "nagatoro-jinjacho-9414-1",
+ "name": "諏訪神社 秋祭り",
+ "term": "諏訪神社 秋祭り",
+ "tokens": {
+  "strong": [
+   "秋祭り"
+  ],
+  "weak": [
+   "諏訪神社",
+   "諏訪"
+  ],
+  "place": [
+   "長瀞町",
+   "長瀞"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Clownish_mask.jpg",
+   "width": 1000,
+   "height": 666,
+   "credit": "d. FUKA",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Clownish_mask.jpg",
+   "title": "File:Clownish mask.jpg"
+  }
+ ]
+}

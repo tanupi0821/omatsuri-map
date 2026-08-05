@@ -1,0 +1,29 @@
+id: iwatsuki-goguynet-135154
+name: “さいコイン・たまポン”で楽しむ夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 岩槻区
+venue:
+  name: さいたま市岩槻区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saitamaminuma-iwatsuki.goguynet.jp/2026/07/29/saitamashi-minnanoapptown-iwatsuki/
+    source_name: 号外NET さいたま市見沼区・岩槻区
+    source_type: media
+    checked_at: 2026-08-04

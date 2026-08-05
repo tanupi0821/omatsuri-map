@@ -1,0 +1,29 @@
+id: aichi-013-goguynet-28448
+name: 蒲郡まつり ときめきサタデー
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 蒲郡市
+  ward: null
+venue:
+  name: みなとオアシスがまごおり
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyokawa-gamagori.goguynet.jp/2026/07/23/post-28448/
+    source_name: 号外NET 豊川市・蒲郡市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,43 @@
+{
+ "id": "8869",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8869/",
+ "name": "氷川神社",
+ "zip": null,
+ "address": "川口市元郷1-30-2",
+ "addressParts": [
+  "川口市",
+  "元郷1-30-2"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭",
+   "alias": null
+  },
+  {
+   "date": "２月11日",
+   "name": "祈年祭",
+   "alias": null
+  },
+  {
+   "date": "６月30日",
+   "name": "夏越しの大祓",
+   "alias": null
+  },
+  {
+   "date": "７月第1土曜日",
+   "name": "神燈祭・七夕まつり",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "新嘗祭",
+   "alias": null
+  },
+  {
+   "date": "12月31日",
+   "name": "年越しの大祓",
+   "alias": null
+  }
+ ]
+}

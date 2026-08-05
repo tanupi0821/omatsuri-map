@@ -1,0 +1,41 @@
+id: naka-isezakicho-7-ichiroku-ennichi
+name: 伊勢佐木町7丁目 一六縁日
+kind: 縁日
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 中区
+venue:
+  name: 伊勢佐木町7丁目 周辺
+  address: null
+  lat: null
+  lng: null
+organizer: 伊勢佐木町7丁目
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-01
+      - 2026-06-06
+      - 2026-06-16
+      - 2026-06-26
+      - 2026-07-01
+      - 2026-07-06
+      - 2026-07-16
+      - 2026-07-26
+      - 2026-08-01
+      - 2026-08-06
+      - 2026-08-16
+      - 2026-08-26
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    source_name: あさひさんぽ
+    checked_at: 2026-08-02
+    note: 6〜8月の1日・6日・16日・26日に開催
+    source_type: media
+stalls: yes

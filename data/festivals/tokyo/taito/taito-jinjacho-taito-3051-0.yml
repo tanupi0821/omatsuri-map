@@ -1,0 +1,34 @@
+id: taito-jinjacho-taito-3051-0
+name: 秋葉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 秋葉神社
+  address: 台東区松が谷3-10-7
+  lat: null
+  lng: null
+station: 地下鉄銀座線「稲荷町駅」 10分 地下鉄日比谷線「入谷駅」 5分
+recurrence: 5月18日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/3051
+organizer: 秋葉神社
+shrine: 秋葉神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/3051
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月18日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

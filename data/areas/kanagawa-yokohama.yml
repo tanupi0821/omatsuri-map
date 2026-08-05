@@ -1,0 +1,50 @@
+# 横浜市のエリア定義と、区ごとの一次情報源。
+# 川崎市と違って行政が町内会レベルの一覧を出している区はなく、
+# 地域メディアのまとめ記事が実質の一覧になっている。
+
+pref: 神奈川県
+city: 横浜市
+slug: kanagawa-yokohama
+# data/festivals/<prefSlug>/<city_slug>/<ward slug>/ のディレクトリ名になる
+city_slug: yokohama
+wards:
+  - { name: 鶴見区,     slug: tsurumi }
+  - { name: 神奈川区,   slug: kanagawa }
+  - { name: 西区,       slug: nishi }
+  - { name: 中区,       slug: naka }
+  - { name: 南区,       slug: minami }
+  - { name: 港南区,     slug: konan }
+  - { name: 保土ケ谷区, slug: hodogaya }
+  - { name: 旭区,       slug: asahi }
+  - { name: 磯子区,     slug: isogo }
+  - { name: 金沢区,     slug: kanazawa }
+  - { name: 港北区,     slug: kohoku }
+  - { name: 緑区,       slug: midori }
+  - { name: 青葉区,     slug: aoba }
+  - { name: 都筑区,     slug: tsuzuki }
+  - { name: 戸塚区,     slug: totsuka }
+  - { name: 栄区,       slug: sakae }
+  - { name: 泉区,       slug: izumi }
+  - { name: 瀬谷区,     slug: seya }
+
+city_sources:
+  - name: あさひさんぽ 横浜市内の夏祭り・縁日まとめ
+    url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
+    type: local_media
+    note: 市内を横断して随時更新される。横浜でいちばん使えるソース
+  - name: 号外NET 横浜市緑区・青葉区
+    url: https://yokohamamidori-aoba.goguynet.jp/
+    type: local_media
+    note: 青葉区は区単位のまとめ記事が出る
+  - name: 新横浜新聞（しんよこ新聞）地域の祭り・イベント
+    url: https://shin-yoko.net/category/event/festival/
+    type: local_media
+    note: 港北区
+  - name: 神奈川すまいラボ 神奈川県の夏祭り・盆踊りまとめ
+    url: https://kanagawa-sumai-labo.com/kanagawa-natsumatsuri/
+    type: aggregator
+    note: 区ごとのページあり。抜けの確認に使う
+  - name: 横浜市 各区役所
+    url: https://www.city.yokohama.lg.jp/
+    type: gov
+    note: 区民祭など大きいものは区役所ページに出る

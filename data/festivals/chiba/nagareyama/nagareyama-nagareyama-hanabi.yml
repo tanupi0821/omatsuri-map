@@ -1,0 +1,32 @@
+id: nagareyama-nagareyama-hanabi
+name: 流山花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 流山1〜3丁目 江戸川堤
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0312e00885/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 18:00
+    end_time: 18:40
+    status: confirmed
+    source_url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: yes

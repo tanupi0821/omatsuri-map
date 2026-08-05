@@ -1,0 +1,23 @@
+{
+ "id": "1209142",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209142-000/",
+ "name": "伊勢原大神宮",
+ "zip": "259-1131",
+ "address": "伊勢原市 伊勢原3ｰ8ｰ1",
+ "addressParts": [
+  "伊勢原市",
+  "伊勢原3ｰ8ｰ1"
+ ],
+ "festivals": [
+  {
+   "date": "9月20日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "9月21日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  }
+ ]
+}

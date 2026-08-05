@@ -1,0 +1,18 @@
+{
+ "id": "ota-5331",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5331",
+ "name": "御園神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "JR「蒲田駅」 5分",
+ "festivals": [
+  {
+   "date": "7月第3土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

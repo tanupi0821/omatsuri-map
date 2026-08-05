@@ -1,0 +1,30 @@
+id: funabashi-narashinodai-miyuki-bonodori
+name: 習志野台みゆき町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 北習志野台第八号公園
+  address: null
+  lat: null
+  lng: null
+organizer: 習志野台みゆき町会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

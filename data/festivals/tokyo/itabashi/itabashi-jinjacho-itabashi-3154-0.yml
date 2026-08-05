@@ -1,0 +1,34 @@
+id: itabashi-jinjacho-itabashi-3154-0
+name: 北野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 北野神社
+  address: 板橋区徳丸6-34-3
+  lat: null
+  lng: null
+station: 東武東上線「東武練馬駅」 徒歩15分
+recurrence: 9月19日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/itabashi/3154
+organizer: 北野神社
+shrine: 北野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/itabashi/3154
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月19日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

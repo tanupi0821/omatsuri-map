@@ -1,0 +1,32 @@
+id: fukuoka-006-goguynet-43004
+name: 第39回わっしょい百万夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市小倉北区
+  ward: null
+venue:
+  name: 北九州市小倉北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar1040e439846/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakyushukokura-moji.goguynet.jp/2026/05/21/wasshoi2026/
+    source_name: 号外NET 北九州市小倉北区・門司区・戸畑区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5289",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5289",
+ "name": "熊野神社",
+ "zip": "167-0032",
+ "address": "杉並区天沼2-40-2",
+ "addressParts": [
+  "杉並区",
+  "天沼2-40-2"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR「荻窪駅」北口 10分",
+ "festivals": [
+  {
+   "date": "8月第1土曜の次の日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

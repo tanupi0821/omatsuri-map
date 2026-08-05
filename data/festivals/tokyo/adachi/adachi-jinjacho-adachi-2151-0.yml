@@ -1,0 +1,34 @@
+id: adachi-jinjacho-adachi-2151-0
+name: 鷲神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 鷲神社
+  address: 足立区島根4-25-1
+  lat: null
+  lng: null
+station: 東武伊勢崎線「梅島駅」北口／「竹ノ塚駅」「西新井駅」各東口 徒歩15分 東京メトロ日比谷線「梅島駅」「竹ノ塚駅」「西新井駅」各東口 徒歩15分 東京メトロ半蔵門線「西新井駅」東口 徒歩15分 ◎タクシー（車） 「竹ノ塚駅」東口 5分／「梅島駅」北口、「西新井駅」東口 10分
+recurrence: 9月17日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/adachi/2151
+organizer: 鷲神社
+shrine: 鷲神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/adachi/2151
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

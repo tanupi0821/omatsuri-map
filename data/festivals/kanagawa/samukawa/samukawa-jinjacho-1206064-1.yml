@@ -1,0 +1,33 @@
+id: samukawa-jinjacho-1206064-1
+name: 菅谷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 寒川町
+  ward: null
+venue:
+  name: 菅谷神社
+  address: 寒川町岡田4-20-39
+  lat: null
+  lng: null
+recurrence: 7月第1日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1206064-000/
+organizer: 菅谷神社
+shrine: 菅谷神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1206064-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

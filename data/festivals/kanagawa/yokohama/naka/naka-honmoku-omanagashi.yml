@@ -1,0 +1,36 @@
+id: naka-honmoku-omanagashi
+name: 本牧神社 例祭・お馬流し（第461回）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 中区
+venue:
+  name: 本牧神社 周辺
+  address: null
+  lat: null
+  lng: null
+organizer: 本牧神社
+shrine: 本牧神社
+tags:
+  - 神輿
+  - 県指定無形民俗文化財
+description: null
+links:
+  - https://honmoku.or.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.townnews.co.jp/0113/2026/07/16/844752.html
+    source_name: タウンニュース 中区・西区・南区版
+    checked_at: 2026-08-02
+    note: 第461回。創始1566年と伝わる特殊神事で、地域の災厄を「お馬さま」に託して本牧の沖合に流す。神奈川県指定無形民俗文化財。全17カ町の神輿渡御あり
+    source_type: media
+stalls: unknown

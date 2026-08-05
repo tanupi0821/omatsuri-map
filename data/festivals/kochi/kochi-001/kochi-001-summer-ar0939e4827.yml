@@ -1,0 +1,46 @@
+id: kochi-001-summer-ar0939e4827
+name: 第73回 よさこい祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 高知県
+  city: 高知市
+  ward: null
+venue:
+  name: 高知県高知市追手筋、高知県高知市帯屋町ほか
+  address: 高知市帯屋町ほか
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+      - 2026-08-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0939e4827/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2008_40.jpg
+    width: 1000
+    height: 666
+    credit: 工房 やまもも
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2008_40.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2005_65.jpg
+    width: 1000
+    height: 666
+    credit: 工房 やまもも
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2005_65.jpg

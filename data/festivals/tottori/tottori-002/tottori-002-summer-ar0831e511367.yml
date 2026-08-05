@@ -1,0 +1,46 @@
+id: tottori-002-summer-ar0831e511367
+name: 第62回 鳥取しゃんしゃん祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 鳥取県
+  city: 鳥取市
+  ward: null
+venue:
+  name: 風紋広場、鳥取市中心市街地、千代河原市民スポーツ広場
+  address: 鳥取市東品治町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0831e511367/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Tottori_ShanShan_Fes_2013-A.jpg
+    width: 1000
+    height: 583
+    credit: 㭍月例祭
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-A.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/0/0e/Tottori_ShanShan_Fes_2013-Night-A.jpg
+    width: 1000
+    height: 500
+    credit: 㭍月例祭
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tottori_ShanShan_Fes_2013-Night-A.jpg

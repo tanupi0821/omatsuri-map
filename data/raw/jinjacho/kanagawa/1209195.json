@@ -1,0 +1,28 @@
+{
+ "id": "1209195",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209195-000/",
+ "name": "御嶽神社",
+ "zip": "259-1144",
+ "address": "伊勢原市 池端633",
+ "addressParts": [
+  "伊勢原市",
+  "池端633"
+ ],
+ "festivals": [
+  {
+   "date": "１２月１５日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月１５日",
+   "name": "大祓い（おおばらい）",
+   "alias": null
+  },
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  }
+ ]
+}

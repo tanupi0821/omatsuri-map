@@ -1,0 +1,30 @@
+id: aichi-004-hanabi-ar0623e00224
+name: 旭やまびこ花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: JAあいち豊田旭支店前 矢作川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0623e00224/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

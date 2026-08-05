@@ -1,0 +1,32 @@
+id: kanazawa-susaki-jinja-reitaisai
+name: 洲崎神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 洲崎神社
+  address: 横浜市金沢区洲崎町9-28
+  lat: null
+  lng: null
+organizer: null
+shrine: 洲崎神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: 18:30
+    end_time: 20:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    checked_at: 2026-08-02
+    note: 7/11 宵宮 18:30〜20:30（万燈神輿）、7/12 本祭 12:30〜20:00
+    source_type: media
+stalls: unknown

@@ -1,0 +1,1516 @@
+# 全国のエリア定義。scripts/import/*-nationwide.mjs が生成する。
+# 関東など手で整えた都県は含めない（そちらの定義を使う）。
+# slug は読めるローマ字ではなく県ごとの連番。当て字を機械生成して間違えるよりはよい。
+pref: 愛知県
+cities:
+  - name: 東海市
+    slug: aichi-001
+  - name: 新城市
+    slug: aichi-002
+  - name: 犬山市
+    slug: aichi-003
+  - name: 豊田市
+    slug: aichi-004
+  - name: 知多郡美浜町
+    slug: aichi-005
+  - name: 刈谷市
+    slug: aichi-006
+  - name: 西尾市
+    slug: aichi-007
+  - name: 知多市
+    slug: aichi-008
+  - name: 安城市
+    slug: aichi-009
+  - name: 田原市
+    slug: aichi-010
+  - name: 瀬戸市
+    slug: aichi-011
+  - name: 知立市
+    slug: aichi-012
+  - name: 蒲郡市
+    slug: aichi-013
+  - name: 名古屋市港区
+    slug: aichi-014
+  - name: みよし市
+    slug: aichi-015
+  - name: 北設楽郡東栄町
+    slug: aichi-016
+  - name: 常滑市
+    slug: aichi-017
+  - name: 知多郡南知多町
+    slug: aichi-018
+  - name: 豊橋市
+    slug: aichi-019
+  - name: 知多郡武豊町
+    slug: aichi-020
+  - name: 名古屋市中区
+    slug: aichi-021
+  - name: 豊明市
+    slug: aichi-022
+  - name: 名古屋市西区
+    slug: aichi-001
+  - name: 津島市
+    slug: aichi-002
+  - name: 一宮市
+    slug: aichi-003
+  - name: 愛西市
+    slug: aichi-001
+  - name: あま市
+    slug: aichi-002
+  - name: 碧南市
+    slug: aichi-003
+  - name: 春日井市
+    slug: aichi-004
+  - name: 名古屋市千種区
+    slug: aichi-005
+  - name: 名古屋市名東区
+    slug: aichi-006
+  - name: 岡崎市
+    slug: aichi-007
+  - name: 豊川市
+    slug: aichi-008
+---
+pref: 北海道
+cities:
+  - name: 札幌市中央区
+    slug: hokkaido-001
+  - name: 小樽市
+    slug: hokkaido-002
+  - name: 砂川市
+    slug: hokkaido-003
+  - name: 北広島市
+    slug: hokkaido-004
+  - name: 岩内郡岩内町
+    slug: hokkaido-005
+  - name: 滝川市
+    slug: hokkaido-006
+  - name: 日高郡新ひだか町
+    slug: hokkaido-007
+  - name: 帯広市
+    slug: hokkaido-008
+  - name: 岩見沢市
+    slug: hokkaido-009
+  - name: 三笠市
+    slug: hokkaido-010
+  - name: 茅部郡鹿部町
+    slug: hokkaido-011
+  - name: 足寄郡足寄町
+    slug: hokkaido-012
+  - name: 函館市
+    slug: hokkaido-013
+  - name: 白糠郡白糠町
+    slug: hokkaido-014
+  - name: 勇払郡むかわ町
+    slug: hokkaido-015
+  - name: 紋別郡遠軽町
+    slug: hokkaido-016
+  - name: 札幌市東区
+    slug: hokkaido-017
+  - name: 茅部郡森町
+    slug: hokkaido-018
+  - name: 中川郡本別町
+    slug: hokkaido-019
+  - name: 釧路市
+    slug: hokkaido-020
+  - name: 札幌市豊平区
+    slug: hokkaido-021
+  - name: 苫小牧市
+    slug: hokkaido-022
+  - name: 勇払郡厚真町
+    slug: hokkaido-023
+  - name: 江別市
+    slug: hokkaido-024
+  - name: 札幌市南区
+    slug: hokkaido-025
+  - name: 常呂郡訓子府町
+    slug: hokkaido-026
+  - name: 河西郡芽室町
+    slug: hokkaido-027
+  - name: 北見市
+    slug: hokkaido-028
+  - name: 赤平市
+    slug: hokkaido-029
+  - name: 中川郡幕別町
+    slug: hokkaido-030
+  - name: 室蘭市
+    slug: hokkaido-031
+  - name: 網走市
+    slug: hokkaido-032
+  - name: 千歳市
+    slug: hokkaido-033
+  - name: 深川市
+    slug: hokkaido-034
+  - name: 北斗市
+    slug: hokkaido-035
+  - name: 名寄市
+    slug: hokkaido-036
+  - name: 亀田郡七飯町
+    slug: hokkaido-037
+  - name: 芦別市
+    slug: hokkaido-038
+  - name: 恵庭市
+    slug: hokkaido-039
+  - name: 虻田郡ニセコ町
+    slug: hokkaido-040
+  - name: 空知郡中富良野町
+    slug: hokkaido-041
+  - name: 紋別郡興部町
+    slug: hokkaido-042
+  - name: 網走郡大空町
+    slug: hokkaido-043
+  - name: 河東郡音更町
+    slug: hokkaido-044
+  - name: 広尾郡広尾町
+    slug: hokkaido-045
+  - name: 稚内市
+    slug: hokkaido-046
+  - name: 上川郡当麻町
+    slug: hokkaido-047
+  - name: 広尾郡大樹町
+    slug: hokkaido-048
+  - name: 余市郡余市町
+    slug: hokkaido-001
+  - name: 虻田郡喜茂別町
+    slug: hokkaido-002
+  - name: 雨竜郡沼田町
+    slug: hokkaido-003
+  - name: 石狩郡新篠津村
+    slug: hokkaido-004
+  - name: 河東郡士幌町
+    slug: hokkaido-005
+  - name: 標津郡中標津町
+    slug: hokkaido-006
+  - name: 根室市
+    slug: hokkaido-007
+  - name: 二海郡八雲町
+    slug: hokkaido-008
+  - name: 積丹郡積丹町
+    slug: hokkaido-009
+  - name: 虻田郡洞爺湖町
+    slug: hokkaido-010
+  - name: 伊達市
+    slug: hokkaido-011
+  - name: 美唄市
+    slug: hokkaido-012
+  - name: 新冠郡新冠町
+    slug: hokkaido-013
+  - name: 旭川市
+    slug: hokkaido-014
+  - name: 留萌市
+    slug: hokkaido-015
+  - name: 紋別市
+    slug: hokkaido-016
+  - name: 登別市
+    slug: hokkaido-017
+  - name: 旭川市近郊
+    slug: hokkaido-001
+  - name: 八雲町
+    slug: hokkaido-002
+  - name: 乙部町
+    slug: hokkaido-003
+  - name: 江差町
+    slug: hokkaido-004
+  - name: 札幌市北区
+    slug: hokkaido-005
+  - name: 札幌市西区
+    slug: hokkaido-006
+---
+pref: 秋田県
+cities:
+  - name: 湯沢市
+    slug: akita-001
+  - name: 鹿角市
+    slug: akita-002
+  - name: 大館市
+    slug: akita-003
+  - name: 山本郡八峰町
+    slug: akita-004
+  - name: 大仙市
+    slug: akita-005
+  - name: 北秋田市
+    slug: akita-006
+  - name: にかほ市
+    slug: akita-007
+  - name: 横手市
+    slug: akita-008
+  - name: 能代市
+    slug: akita-009
+  - name: 由利本荘市
+    slug: akita-010
+  - name: 仙北市
+    slug: akita-011
+  - name: 山本郡三種町
+    slug: akita-012
+  - name: 秋田市
+    slug: akita-001
+  - name: 雄勝郡羽後町
+    slug: akita-002
+---
+pref: 青森県
+cities:
+  - name: 青森市
+    slug: aomori-001
+  - name: むつ市
+    slug: aomori-002
+  - name: 十和田市
+    slug: aomori-003
+  - name: 下北郡大間町
+    slug: aomori-004
+  - name: 南津軽郡藤崎町
+    slug: aomori-005
+  - name: 八戸市
+    slug: aomori-006
+  - name: 弘前市
+    slug: aomori-007
+  - name: 三戸郡南部町
+    slug: aomori-008
+  - name: 上北郡東北町
+    slug: aomori-009
+  - name: 五所川原市
+    slug: aomori-010
+  - name: 黒石市
+    slug: aomori-001
+  - name: 南部町
+    slug: aomori-001
+---
+pref: 愛媛県
+cities:
+  - name: 今治市
+    slug: ehime-001
+  - name: 八幡浜市
+    slug: ehime-002
+  - name: 四国中央市
+    slug: ehime-003
+  - name: 西条市
+    slug: ehime-004
+  - name: 西宇和郡伊方町
+    slug: ehime-005
+  - name: 宇和島市
+    slug: ehime-006
+  - name: 松山市
+    slug: ehime-007
+  - name: 新居浜市
+    slug: ehime-008
+  - name: 大洲市
+    slug: ehime-009
+  - name: 喜多郡内子町
+    slug: ehime-001
+---
+pref: 福井県
+cities:
+  - name: 坂井市
+    slug: fukui-001
+  - name: 大野市
+    slug: fukui-002
+  - name: 勝山市
+    slug: fukui-003
+  - name: 越前市
+    slug: fukui-004
+  - name: 敦賀市
+    slug: fukui-005
+  - name: 大飯郡おおい町
+    slug: fukui-006
+  - name: 三方郡美浜町
+    slug: fukui-007
+  - name: 福井市
+    slug: fukui-008
+  - name: 小浜市
+    slug: fukui-009
+  - name: 大飯郡高浜町
+    slug: fukui-010
+  - name: 吉田郡永平寺町
+    slug: fukui-001
+---
+pref: 福岡県
+cities:
+  - name: 久留米市
+    slug: fukuoka-001
+  - name: 北九州市門司区
+    slug: fukuoka-002
+  - name: 朝倉市
+    slug: fukuoka-003
+  - name: 那珂川市
+    slug: fukuoka-004
+  - name: 京都郡みやこ町
+    slug: fukuoka-005
+  - name: 北九州市小倉北区
+    slug: fukuoka-006
+  - name: 飯塚市
+    slug: fukuoka-007
+  - name: 行橋市
+    slug: fukuoka-008
+  - name: 北九州市若松区
+    slug: fukuoka-009
+  - name: 豊前市
+    slug: fukuoka-010
+  - name: 直方市
+    slug: fukuoka-011
+  - name: 京都郡苅田町
+    slug: fukuoka-012
+  - name: 糟屋郡篠栗町
+    slug: fukuoka-013
+  - name: 宮若市
+    slug: fukuoka-014
+  - name: 遠賀郡芦屋町
+    slug: fukuoka-015
+  - name: 北九州市小倉南区
+    slug: fukuoka-001
+  - name: 田川郡香春町
+    slug: fukuoka-002
+  - name: 田川郡大任町
+    slug: fukuoka-003
+  - name: 福岡市中央区
+    slug: fukuoka-004
+  - name: 福岡市博多区
+    slug: fukuoka-005
+  - name: 小郡市
+    slug: fukuoka-006
+  - name: 筑後市
+    slug: fukuoka-007
+  - name: 北九州市戸畑区
+    slug: fukuoka-008
+  - name: 太宰府市
+    slug: fukuoka-009
+  - name: 糸島市
+    slug: fukuoka-010
+  - name: 大川市
+    slug: fukuoka-011
+  - name: 大牟田市
+    slug: fukuoka-012
+  - name: 筑紫野市
+    slug: fukuoka-001
+  - name: 福岡市
+    slug: fukuoka-002
+  - name: 福岡市南区
+    slug: fukuoka-003
+  - name: 北九州市
+    slug: fukuoka-004
+  - name: 北九州市八幡西区
+    slug: fukuoka-005
+  - name: 北九州市八幡東区
+    slug: fukuoka-006
+  - name: 宗像市
+    slug: fukuoka-007
+  - name: 古賀市
+    slug: fukuoka-008
+  - name: 福津市
+    slug: fukuoka-001
+---
+pref: 福島県
+cities:
+  - name: 郡山市
+    slug: fukushima-001
+  - name: 南相馬市
+    slug: fukushima-002
+  - name: 伊達市
+    slug: fukushima-003
+  - name: 河沼郡柳津町
+    slug: fukushima-004
+  - name: 耶麻郡猪苗代町
+    slug: fukushima-005
+  - name: 石川郡浅川町
+    slug: fukushima-006
+  - name: いわき市
+    slug: fukushima-007
+  - name: 相馬市
+    slug: fukushima-008
+  - name: 須賀川市
+    slug: fukushima-009
+  - name: 本宮市
+    slug: fukushima-010
+  - name: 耶麻郡北塩原村
+    slug: fukushima-011
+  - name: 福島市
+    slug: fukushima-012
+  - name: 喜多方市
+    slug: fukushima-013
+  - name: 南会津郡南会津町
+    slug: fukushima-001
+  - name: 会津若松市
+    slug: fukushima-001
+  - name: 会津坂下町
+    slug: fukushima-002
+---
+pref: 岐阜県
+cities:
+  - name: 瑞浪市
+    slug: gifu-001
+  - name: 高山市
+    slug: gifu-002
+  - name: 中津川市
+    slug: gifu-003
+  - name: 恵那市
+    slug: gifu-004
+  - name: 郡上市
+    slug: gifu-005
+  - name: 下呂市
+    slug: gifu-006
+  - name: 山県市
+    slug: gifu-007
+  - name: 本巣市
+    slug: gifu-008
+  - name: 瑞穂市
+    slug: gifu-009
+  - name: 多治見市
+    slug: gifu-010
+  - name: 各務原市
+    slug: gifu-011
+  - name: 美濃市
+    slug: gifu-012
+  - name: 揖斐郡揖斐川町
+    slug: gifu-013
+  - name: 土岐市
+    slug: gifu-014
+  - name: 大垣市
+    slug: gifu-001
+  - name: 岐阜市
+    slug: gifu-001
+  - name: 七宗町
+    slug: gifu-002
+  - name: 関市
+    slug: gifu-003
+  - name: 大野町
+    slug: gifu-004
+  - name: 養老町
+    slug: gifu-005
+  - name: 海津市
+    slug: gifu-006
+  - name: 揖斐川町
+    slug: gifu-007
+  - name: 垂井町
+    slug: gifu-008
+  - name: 御嵩町
+    slug: gifu-001
+  - name: 神戸町
+    slug: gifu-002
+---
+pref: 広島県
+cities:
+  - name: 庄原市
+    slug: hiroshima-001
+  - name: 福山市
+    slug: hiroshima-002
+  - name: 三次市
+    slug: hiroshima-003
+  - name: 竹原市
+    slug: hiroshima-004
+  - name: 江田島市
+    slug: hiroshima-005
+  - name: 府中市
+    slug: fuchu
+  - name: 三原市
+    slug: hiroshima-006
+  - name: 尾道市
+    slug: hiroshima-007
+  - name: 広島市南区
+    slug: hiroshima-008
+  - name: 広島市中区
+    slug: hiroshima-001
+  - name: 広島市西区
+    slug: hiroshima-001
+  - name: 広島市佐伯区
+    slug: hiroshima-002
+  - name: 呉市
+    slug: hiroshima-003
+  - name: 広島市
+    slug: hiroshima-001
+---
+pref: 兵庫県
+cities:
+  - name: 神崎郡福崎町
+    slug: hyogo-001
+  - name: 宍粟市
+    slug: hyogo-002
+  - name: 西脇市
+    slug: hyogo-003
+  - name: 朝来市
+    slug: hyogo-004
+  - name: 姫路市
+    slug: hyogo-005
+  - name: 佐用郡佐用町
+    slug: hyogo-006
+  - name: 養父市
+    slug: hyogo-007
+  - name: 伊丹市
+    slug: hyogo-008
+  - name: 高砂市
+    slug: hyogo-009
+  - name: 川西市
+    slug: hyogo-010
+  - name: 洲本市
+    slug: hyogo-011
+  - name: 加東市
+    slug: hyogo-012
+  - name: 相生市
+    slug: hyogo-013
+  - name: たつの市
+    slug: hyogo-014
+  - name: 美方郡新温泉町
+    slug: hyogo-015
+  - name: 美方郡香美町
+    slug: hyogo-016
+  - name: 豊岡市
+    slug: hyogo-017
+  - name: 芦屋市
+    slug: hyogo-018
+  - name: 神崎郡神河町
+    slug: hyogo-019
+  - name: 加西市
+    slug: hyogo-020
+  - name: 神戸市中央区
+    slug: hyogo-001
+  - name: 丹波篠山市
+    slug: hyogo-002
+  - name: 尼崎市
+    slug: hyogo-003
+  - name: 西宮市
+    slug: hyogo-004
+  - name: 明石市
+    slug: hyogo-001
+  - name: 加古川市
+    slug: hyogo-002
+  - name: 加古郡
+    slug: hyogo-003
+  - name: 神戸市灘区
+    slug: hyogo-004
+  - name: 神戸市東灘区
+    slug: hyogo-005
+  - name: 神戸市長田区
+    slug: hyogo-006
+  - name: 神戸市兵庫区
+    slug: hyogo-007
+  - name: 神戸市
+    slug: hyogo-008
+  - name: 神戸市須磨区
+    slug: hyogo-009
+  - name: 神戸市垂水区
+    slug: hyogo-010
+  - name: 宝塚市
+    slug: hyogo-011
+---
+pref: 石川県
+cities:
+  - name: 加賀市
+    slug: ishikawa-001
+  - name: 七尾市
+    slug: ishikawa-002
+  - name: 能美郡川北町
+    slug: ishikawa-003
+  - name: 珠洲市
+    slug: ishikawa-001
+  - name: 野々市市
+    slug: ishikawa-001
+  - name: 金沢市
+    slug: ishikawa-002
+  - name: 白山市
+    slug: ishikawa-001
+---
+pref: 岩手県
+cities:
+  - name: 一関市
+    slug: iwate-001
+  - name: 北上市
+    slug: iwate-002
+  - name: 盛岡市
+    slug: iwate-003
+  - name: 奥州市
+    slug: iwate-004
+  - name: 陸前高田市
+    slug: iwate-005
+  - name: 和賀郡西和賀町
+    slug: iwate-006
+  - name: 花巻市
+    slug: iwate-007
+  - name: 大船渡市
+    slug: iwate-008
+  - name: 遠野市
+    slug: iwate-001
+  - name: 遠野市・北上市
+    slug: iwate-001
+---
+pref: 香川県
+cities:
+  - name: 三豊市
+    slug: kagawa-001
+  - name: 坂出市
+    slug: kagawa-002
+  - name: 高松市
+    slug: kagawa-003
+  - name: 小豆郡小豆島町
+    slug: kagawa-004
+  - name: さぬき市
+    slug: kagawa-005
+  - name: 丸亀市
+    slug: kagawa-006
+  - name: 綾歌郡綾川町
+    slug: kagawa-007
+  - name: 観音寺市
+    slug: kagawa-008
+  - name: 仲多度郡多度津町
+    slug: kagawa-009
+---
+pref: 鹿児島県
+cities:
+  - name: 垂水市
+    slug: kagoshima-001
+  - name: 指宿市
+    slug: kagoshima-002
+  - name: 薩摩川内市
+    slug: kagoshima-003
+  - name: 西之表市
+    slug: kagoshima-004
+  - name: 鹿児島市
+    slug: kagoshima-005
+  - name: 姶良郡湧水町
+    slug: kagoshima-006
+  - name: 志布志市
+    slug: kagoshima-007
+  - name: 阿久根市
+    slug: kagoshima-008
+  - name: 姶良市
+    slug: kagoshima-009
+  - name: 大島郡宇検村
+    slug: kagoshima-010
+  - name: 南九州市
+    slug: kagoshima-011
+  - name: 肝属郡錦江町
+    slug: kagoshima-012
+  - name: 曽於市
+    slug: kagoshima-013
+  - name: 出水市
+    slug: kagoshima-014
+  - name: 奄美市
+    slug: kagoshima-015
+  - name: いちき串木野市
+    slug: kagoshima-016
+  - name: 大島郡和泊町
+    slug: kagoshima-017
+  - name: 霧島市
+    slug: kagoshima-001
+---
+pref: 高知県
+cities:
+  - name: 高知市
+    slug: kochi-001
+  - name: 安芸郡奈半利町
+    slug: kochi-002
+  - name: 室戸市
+    slug: kochi-003
+  - name: 四万十市
+    slug: kochi-004
+  - name: 宿毛市
+    slug: kochi-005
+  - name: 香南市
+    slug: kochi-006
+  - name: 須崎市
+    slug: kochi-007
+  - name: 土佐清水市
+    slug: kochi-008
+---
+pref: 熊本県
+cities:
+  - name: 宇城市
+    slug: kumamoto-001
+  - name: 人吉市
+    slug: kumamoto-002
+  - name: 山鹿市
+    slug: kumamoto-003
+  - name: 上天草市
+    slug: kumamoto-004
+  - name: 球磨郡多良木町
+    slug: kumamoto-005
+  - name: 阿蘇市
+    slug: kumamoto-006
+  - name: 宇土市
+    slug: kumamoto-007
+  - name: 上益城郡山都町
+    slug: kumamoto-008
+  - name: 熊本市東区
+    slug: kumamoto-009
+  - name: 玉名郡和水町
+    slug: kumamoto-010
+  - name: 玉名市
+    slug: kumamoto-011
+  - name: 八代市
+    slug: kumamoto-012
+  - name: 上益城郡甲佐町
+    slug: kumamoto-013
+  - name: 八代郡氷川町
+    slug: kumamoto-014
+  - name: 荒尾市
+    slug: kumamoto-015
+  - name: 菊池市
+    slug: kumamoto-016
+  - name: 下益城郡美里町
+    slug: kumamoto-017
+  - name: 水俣市
+    slug: kumamoto-018
+  - name: 天草郡苓北町
+    slug: kumamoto-019
+  - name: 天草市
+    slug: kumamoto-020
+  - name: 阿蘇郡小国町
+    slug: kumamoto-001
+  - name: 阿蘇郡高森町
+    slug: kumamoto-002
+  - name: 熊本市中央区
+    slug: kumamoto-003
+  - name: 玉名郡南関町
+    slug: kumamoto-004
+  - name: 阿蘇郡産山村
+    slug: kumamoto-005
+  - name: 葦北郡津奈木町
+    slug: kumamoto-006
+  - name: 熊本市
+    slug: kumamoto-001
+---
+pref: 京都府
+cities:
+  - name: 京丹後市
+    slug: kyoto-001
+  - name: 福知山市
+    slug: kyoto-002
+  - name: 宮津市
+    slug: kyoto-003
+  - name: 城陽市
+    slug: kyoto-004
+  - name: 京都市伏見区
+    slug: kyoto-005
+  - name: 綾部市
+    slug: kyoto-006
+  - name: 舞鶴市
+    slug: kyoto-007
+  - name: 亀岡市
+    slug: kyoto-001
+  - name: 京都市東山区
+    slug: kyoto-002
+  - name: 京田辺市
+    slug: kyoto-001
+  - name: 木津川市
+    slug: kyoto-002
+  - name: 京都市下京区
+    slug: kyoto-003
+  - name: 京都市
+    slug: kyoto-001
+---
+pref: 三重県
+cities:
+  - name: 度会郡大紀町
+    slug: mie-001
+  - name: 熊野市
+    slug: mie-002
+  - name: 伊勢市
+    slug: mie-003
+  - name: 亀山市
+    slug: mie-004
+  - name: 鈴鹿市
+    slug: mie-005
+  - name: 志摩市
+    slug: mie-006
+  - name: 伊賀市
+    slug: mie-007
+  - name: 度会郡度会町
+    slug: mie-008
+  - name: 鳥羽市
+    slug: mie-009
+  - name: 津市
+    slug: mie-010
+  - name: 桑名市
+    slug: mie-011
+  - name: 名張市
+    slug: mie-012
+  - name: 多気郡明和町
+    slug: mie-013
+  - name: 北牟婁郡紀北町
+    slug: mie-014
+  - name: 尾鷲市
+    slug: mie-015
+  - name: 四日市市
+    slug: mie-001
+  - name: 木曽岬町
+    slug: mie-001
+  - name: 多気町
+    slug: mie-002
+  - name: 松阪市
+    slug: mie-003
+  - name: 玉城町
+    slug: mie-004
+---
+pref: 宮城県
+cities:
+  - name: 仙台市青葉区
+    slug: miyagi-001
+  - name: 名取市
+    slug: miyagi-002
+  - name: 亘理郡亘理町
+    slug: miyagi-003
+  - name: 東松島市
+    slug: miyagi-004
+  - name: 仙台市泉区
+    slug: miyagi-005
+  - name: 仙台市宮城野区
+    slug: miyagi-006
+  - name: 塩竈市
+    slug: miyagi-007
+  - name: 本吉郡南三陸町
+    slug: miyagi-008
+  - name: 登米市
+    slug: miyagi-009
+  - name: 牡鹿郡女川町
+    slug: miyagi-010
+  - name: 石巻市
+    slug: miyagi-011
+  - name: 大崎市
+    slug: miyagi-012
+  - name: 黒川郡大和町
+    slug: miyagi-013
+  - name: 女川町
+    slug: miyagi-001
+  - name: 仙台市
+    slug: miyagi-002
+---
+pref: 宮崎県
+cities:
+  - name: 小林市
+    slug: miyazaki-001
+  - name: 東臼杵郡椎葉村
+    slug: miyazaki-002
+  - name: 都城市
+    slug: miyazaki-003
+  - name: 宮崎市
+    slug: miyazaki-004
+  - name: 児湯郡西米良村
+    slug: miyazaki-005
+  - name: 東臼杵郡美郷町
+    slug: miyazaki-006
+  - name: 日南市
+    slug: miyazaki-007
+  - name: 延岡市
+    slug: miyazaki-008
+  - name: 串間市
+    slug: miyazaki-001
+  - name: 日向市
+    slug: miyazaki-002
+  - name: 児湯郡都農町
+    slug: miyazaki-003
+  - name: 西都市
+    slug: miyazaki-004
+---
+pref: 長野県
+cities:
+  - name: 千曲市
+    slug: nagano-001
+  - name: 長野市
+    slug: nagano-002
+  - name: 伊那市
+    slug: nagano-003
+  - name: 佐久市
+    slug: nagano-004
+  - name: 諏訪市
+    slug: nagano-005
+  - name: 岡谷市
+    slug: nagano-006
+  - name: 飯田市
+    slug: nagano-007
+  - name: 南佐久郡小海町
+    slug: nagano-008
+  - name: 下伊那郡高森町
+    slug: nagano-009
+  - name: 塩尻市
+    slug: nagano-010
+  - name: 上田市
+    slug: nagano-011
+  - name: 上伊那郡辰野町
+    slug: nagano-012
+  - name: 松本市
+    slug: nagano-013
+  - name: 須坂市
+    slug: nagano-014
+  - name: 下伊那郡泰阜村
+    slug: nagano-015
+  - name: 上水内郡信濃町
+    slug: nagano-016
+  - name: 小諸市
+    slug: nagano-001
+---
+pref: 長崎県
+cities:
+  - name: 五島市
+    slug: nagasaki-001
+  - name: 佐世保市
+    slug: nagasaki-002
+  - name: 壱岐市
+    slug: nagasaki-003
+  - name: 松浦市
+    slug: nagasaki-004
+  - name: 西海市
+    slug: nagasaki-005
+  - name: 南島原市
+    slug: nagasaki-006
+  - name: 西彼杵郡長与町
+    slug: nagasaki-007
+  - name: 島原市
+    slug: nagasaki-008
+  - name: 平戸市
+    slug: nagasaki-009
+  - name: 西彼杵郡時津町
+    slug: nagasaki-010
+  - name: 雲仙市
+    slug: nagasaki-011
+  - name: 諫早市
+    slug: nagasaki-012
+  - name: 南松浦郡新上五島町
+    slug: nagasaki-013
+  - name: 長崎市
+    slug: nagasaki-014
+  - name: 大村市
+    slug: nagasaki-015
+  - name: 対馬市
+    slug: nagasaki-016
+---
+pref: 奈良県
+cities:
+  - name: 五條市
+    slug: nara-001
+  - name: 吉野郡野迫川村
+    slug: nara-002
+  - name: 奈良市
+    slug: nara-001
+  - name: 生駒市・香芝市周辺
+    slug: nara-001
+  - name: 生駒市
+    slug: nara-002
+  - name: 香芝市
+    slug: nara-003
+  - name: 奈良市近隣
+    slug: nara-004
+  - name: 大和高田市
+    slug: nara-005
+---
+pref: 新潟県
+cities:
+  - name: 村上市
+    slug: niigata-001
+  - name: 佐渡市
+    slug: niigata-002
+  - name: 小千谷市
+    slug: niigata-003
+  - name: 新潟市北区
+    slug: niigata-004
+  - name: 阿賀野市
+    slug: niigata-005
+  - name: 魚沼市
+    slug: niigata-006
+  - name: 新潟市西区
+    slug: niigata-007
+  - name: 新潟市秋葉区
+    slug: niigata-008
+  - name: 長岡市
+    slug: niigata-009
+  - name: 五泉市
+    slug: niigata-010
+  - name: 新潟市西蒲区
+    slug: niigata-011
+  - name: 見附市
+    slug: niigata-012
+  - name: 南魚沼市
+    slug: niigata-013
+  - name: 糸魚川市
+    slug: niigata-014
+  - name: 西蒲原郡弥彦村
+    slug: niigata-015
+  - name: 柏崎市
+    slug: niigata-016
+  - name: 上越市
+    slug: niigata-017
+  - name: 三条市
+    slug: niigata-018
+  - name: 十日町市
+    slug: niigata-001
+  - name: 東蒲原郡阿賀町
+    slug: niigata-002
+  - name: 新潟市中央区
+    slug: niigata-003
+  - name: 岩船郡関川村
+    slug: niigata-004
+  - name: 燕市
+    slug: niigata-005
+  - name: 妙高市
+    slug: niigata-001
+  - name: 新潟市
+    slug: niigata-002
+---
+pref: 大分県
+cities:
+  - name: 中津市
+    slug: oita-001
+  - name: 宇佐市
+    slug: oita-002
+  - name: 国東市
+    slug: oita-003
+  - name: 杵築市
+    slug: oita-004
+  - name: 大分市
+    slug: oita-005
+  - name: 由布市
+    slug: oita-006
+  - name: 日田市
+    slug: oita-007
+  - name: 佐伯市
+    slug: oita-008
+  - name: 豊後大野市
+    slug: oita-009
+  - name: 玖珠郡九重町
+    slug: oita-010
+  - name: 別府市
+    slug: oita-011
+  - name: 臼杵市
+    slug: oita-001
+---
+pref: 岡山県
+cities:
+  - name: 備前市
+    slug: okayama-001
+  - name: 高梁市
+    slug: okayama-002
+  - name: 美作市
+    slug: okayama-003
+  - name: 真庭市
+    slug: okayama-004
+  - name: 津山市
+    slug: okayama-005
+  - name: 岡山市北区
+    slug: okayama-001
+  - name: 倉敷市
+    slug: okayama-002
+---
+pref: 沖縄県
+cities:
+  - name: 国頭郡大宜味村
+    slug: okinawa-001
+  - name: 島尻郡久米島町
+    slug: okinawa-002
+  - name: 宜野湾市
+    slug: okinawa-003
+  - name: 中頭郡北中城村
+    slug: okinawa-004
+  - name: 中頭郡中城村
+    slug: okinawa-005
+  - name: 浦添市
+    slug: okinawa-006
+  - name: 国頭郡恩納村
+    slug: okinawa-007
+  - name: 国頭郡宜野座村
+    slug: okinawa-008
+  - name: 名護市
+    slug: okinawa-009
+  - name: 国頭郡本部町
+    slug: okinawa-010
+  - name: 国頭郡国頭村
+    slug: okinawa-001
+  - name: 島尻郡伊是名村
+    slug: okinawa-002
+  - name: 島尻郡伊平屋村
+    slug: okinawa-003
+  - name: 国頭郡東村
+    slug: okinawa-004
+  - name: 那覇市
+    slug: okinawa-001
+---
+pref: 大阪府
+cities:
+  - name: 泉南市
+    slug: osaka-001
+  - name: 高槻市
+    slug: osaka-002
+  - name: 大阪市淀川区
+    slug: osaka-003
+  - name: 泉佐野市
+    slug: osaka-004
+  - name: 吹田市
+    slug: osaka-005
+  - name: 大阪市此花区
+    slug: osaka-006
+  - name: 大阪市北区
+    slug: osaka-007
+  - name: 堺市堺区
+    slug: osaka-008
+  - name: 大阪狭山市
+    slug: osaka-009
+  - name: 富田林市
+    slug: osaka-001
+  - name: 大阪市天王寺区
+    slug: osaka-002
+  - name: 大阪市平野区
+    slug: osaka-003
+  - name: 大阪市西成区
+    slug: osaka-004
+  - name: 大阪市中央区
+    slug: osaka-005
+  - name: 大東市
+    slug: osaka-001
+  - name: 大阪市福島区
+    slug: osaka-002
+  - name: 東大阪市
+    slug: osaka-003
+  - name: 大阪市東淀川区
+    slug: osaka-004
+  - name: 枚方市
+    slug: osaka-005
+  - name: 茨木市
+    slug: osaka-006
+  - name: 大阪市西区
+    slug: osaka-007
+  - name: 和泉市
+    slug: osaka-008
+  - name: 阪南市
+    slug: osaka-009
+  - name: 泉大津市
+    slug: osaka-010
+  - name: 高石市
+    slug: osaka-011
+  - name: 岸和田市・貝塚市
+    slug: osaka-012
+  - name: 池田市
+    slug: osaka-013
+  - name: 箕面市
+    slug: osaka-014
+  - name: 大阪市都島区
+    slug: osaka-015
+  - name: 大阪市旭区
+    slug: osaka-016
+  - name: 門真市
+    slug: osaka-017
+  - name: 大阪市浪速区
+    slug: osaka-018
+  - name: 寝屋川市
+    slug: osaka-019
+  - name: 大阪市東住吉区
+    slug: osaka-020
+  - name: 堺市西区
+    slug: osaka-021
+  - name: 摂津市
+    slug: osaka-022
+  - name: 千里丘
+    slug: osaka-023
+  - name: 大阪市住吉区
+    slug: osaka-024
+  - name: 島本町
+    slug: osaka-025
+  - name: 大阪市天王寺区周辺
+    slug: osaka-026
+  - name: 河内長野市
+    slug: osaka-027
+  - name: 豊中市
+    slug: osaka-028
+  - name: 大阪市城東区
+    slug: osaka-029
+  - name: 大阪市鶴見区
+    slug: osaka-030
+  - name: 八尾市
+    slug: osaka-031
+  - name: 貝塚市
+    slug: osaka-001
+  - name: 守口市
+    slug: osaka-002
+  - name: 大阪市西淀川区
+    slug: osaka-901
+---
+pref: 佐賀県
+cities:
+  - name: 嬉野市
+    slug: saga-001
+  - name: 唐津市
+    slug: saga-002
+  - name: 藤津郡太良町
+    slug: saga-003
+  - name: 佐賀市
+    slug: saga-004
+  - name: 西松浦郡有田町
+    slug: saga-005
+  - name: 東松浦郡玄海町
+    slug: saga-006
+  - name: 神埼郡吉野ヶ里町
+    slug: saga-007
+  - name: 小城市
+    slug: saga-008
+  - name: 鹿島市
+    slug: saga-001
+---
+pref: 滋賀県
+cities:
+  - name: 大津市
+    slug: shiga-001
+  - name: 東近江市
+    slug: shiga-002
+  - name: 蒲生郡日野町
+    slug: shiga-003
+  - name: 長浜市
+    slug: shiga-004
+  - name: 草津市
+    slug: shiga-005
+  - name: 甲賀市
+    slug: shiga-006
+  - name: 湖南市
+    slug: shiga-007
+  - name: 近江八幡市
+    slug: shiga-001
+  - name: 守山市
+    slug: shiga-002
+  - name: 東近江市・愛荘町
+    slug: shiga-001
+---
+pref: 島根県
+cities:
+  - name: 大田市
+    slug: shimane-001
+  - name: 鹿足郡吉賀町
+    slug: shimane-002
+  - name: 浜田市
+    slug: shimane-003
+  - name: 鹿足郡津和野町
+    slug: shimane-004
+  - name: 江津市
+    slug: shimane-005
+  - name: 出雲市
+    slug: shimane-006
+  - name: 益田市
+    slug: shimane-007
+  - name: 雲南市
+    slug: shimane-008
+  - name: 仁多郡奥出雲町
+    slug: shimane-001
+  - name: 松江市
+    slug: shimane-002
+  - name: 安来市
+    slug: shimane-001
+---
+pref: 静岡県
+cities:
+  - name: 藤枝市
+    slug: shizuoka-001
+  - name: 伊東市
+    slug: shizuoka-002
+  - name: 賀茂郡南伊豆町
+    slug: shizuoka-003
+  - name: 周智郡森町
+    slug: shizuoka-004
+  - name: 熱海市
+    slug: shizuoka-005
+  - name: 御殿場市
+    slug: shizuoka-006
+  - name: 伊豆市
+    slug: shizuoka-007
+  - name: 磐田市
+    slug: shizuoka-008
+  - name: 榛原郡吉田町
+    slug: shizuoka-009
+  - name: 袋井市
+    slug: shizuoka-010
+  - name: 牧之原市
+    slug: shizuoka-011
+  - name: 賀茂郡西伊豆町
+    slug: shizuoka-012
+  - name: 焼津市
+    slug: shizuoka-013
+  - name: 裾野市
+    slug: shizuoka-014
+  - name: 駿東郡小山町
+    slug: shizuoka-015
+  - name: 静岡市葵区
+    slug: shizuoka-016
+  - name: 静岡市清水区
+    slug: shizuoka-017
+  - name: 下田市
+    slug: shizuoka-018
+  - name: 賀茂郡東伊豆町
+    slug: shizuoka-019
+  - name: 富士市
+    slug: shizuoka-020
+  - name: 沼津市
+    slug: shizuoka-021
+  - name: 浜松市天竜区
+    slug: shizuoka-022
+  - name: 島田市
+    slug: shizuoka-023
+  - name: 御前崎市
+    slug: shizuoka-024
+  - name: 伊豆の国市
+    slug: shizuoka-025
+  - name: 浜松市浜名区
+    slug: shizuoka-026
+  - name: 三島市
+    slug: shizuoka-001
+  - name: 浜松市中央区
+    slug: shizuoka-002
+  - name: 富士市・富士宮市
+    slug: shizuoka-001
+  - name: 浜松市
+    slug: shizuoka-002
+  - name: 函南町
+    slug: shizuoka-003
+---
+pref: 徳島県
+cities:
+  - name: 吉野川市
+    slug: tokushima-001
+  - name: 鳴門市
+    slug: tokushima-002
+  - name: 美馬市
+    slug: tokushima-003
+  - name: 三好市
+    slug: tokushima-004
+  - name: 徳島市
+    slug: tokushima-005
+  - name: 小松島市
+    slug: tokushima-006
+  - name: 海部郡美波町
+    slug: tokushima-001
+  - name: 海部郡海陽町
+    slug: tokushima-002
+---
+pref: 鳥取県
+cities:
+  - name: 米子市
+    slug: tottori-001
+  - name: 鳥取市
+    slug: tottori-002
+  - name: 八頭郡若桜町
+    slug: tottori-003
+  - name: 岩美郡岩美町
+    slug: tottori-004
+  - name: 境港市
+    slug: tottori-005
+  - name: 東伯郡琴浦町
+    slug: tottori-006
+  - name: 倉吉市
+    slug: tottori-007
+---
+pref: 富山県
+cities:
+  - name: 高岡市
+    slug: toyama-001
+  - name: 魚津市
+    slug: toyama-002
+  - name: 富山市
+    slug: toyama-003
+  - name: 下新川郡入善町
+    slug: toyama-004
+  - name: 滑川市
+    slug: toyama-005
+  - name: 射水市
+    slug: toyama-006
+  - name: 氷見市
+    slug: toyama-001
+  - name: 南砺市
+    slug: toyama-002
+---
+pref: 和歌山県
+cities:
+  - name: 東牟婁郡那智勝浦町
+    slug: wakayama-001
+  - name: 新宮市
+    slug: wakayama-002
+  - name: 御坊市
+    slug: wakayama-003
+  - name: 紀の川市
+    slug: wakayama-004
+  - name: 有田郡湯浅町
+    slug: wakayama-005
+  - name: 和歌山市
+    slug: wakayama-006
+  - name: 有田市
+    slug: wakayama-007
+  - name: 有田郡有田川町
+    slug: wakayama-008
+  - name: 橋本市
+    slug: wakayama-009
+  - name: 日高郡みなべ町
+    slug: wakayama-010
+  - name: 東牟婁郡串本町
+    slug: wakayama-011
+  - name: 田辺市
+    slug: wakayama-001
+---
+pref: 山形県
+cities:
+  - name: 米沢市
+    slug: yamagata-001
+  - name: 山形市
+    slug: yamagata-002
+  - name: 鶴岡市
+    slug: yamagata-003
+  - name: 西村山郡大江町
+    slug: yamagata-004
+  - name: 北村山郡大石田町
+    slug: yamagata-005
+  - name: 最上郡真室川町
+    slug: yamagata-006
+  - name: 酒田市
+    slug: yamagata-007
+  - name: 尾花沢市
+    slug: yamagata-001
+  - name: 天童市
+    slug: yamagata-002
+  - name: 村山市
+    slug: yamagata-003
+  - name: 新庄市
+    slug: yamagata-004
+---
+pref: 山口県
+cities:
+  - name: 防府市
+    slug: yamaguchi-001
+  - name: 岩国市
+    slug: yamaguchi-002
+  - name: 下関市
+    slug: yamaguchi-003
+  - name: 大島郡周防大島町
+    slug: yamaguchi-004
+  - name: 美祢市
+    slug: yamaguchi-005
+  - name: 山陽小野田市
+    slug: yamaguchi-006
+  - name: 長門市
+    slug: yamaguchi-007
+  - name: 熊毛郡上関町
+    slug: yamaguchi-008
+  - name: 宇部市
+    slug: yamaguchi-009
+  - name: 山口市
+    slug: yamaguchi-010
+  - name: 光市
+    slug: yamaguchi-011
+  - name: 萩市
+    slug: yamaguchi-012
+  - name: 周南市
+    slug: yamaguchi-013
+  - name: 周南市・下松市・光市
+    slug: yamaguchi-001
+---
+pref: 山梨県
+cities:
+  - name: 南都留郡富士河口湖町
+    slug: yamanashi-001
+  - name: 西八代郡市川三郷町
+    slug: yamanashi-002
+  - name: 南都留郡忍野村
+    slug: yamanashi-003
+  - name: 南巨摩郡南部町
+    slug: yamanashi-004
+  - name: 笛吹市
+    slug: yamanashi-005
+  - name: 南都留郡道志村
+    slug: yamanashi-006
+  - name: 南都留郡山中湖村
+    slug: yamanashi-007
+  - name: 山梨市
+    slug: yamanashi-008
+  - name: 南都留郡西桂町
+    slug: yamanashi-001
+  - name: 富士吉田市
+    slug: yamanashi-002
+  - name: 甲府市
+    slug: yamanashi-003
+  - name: 上野原市
+    slug: yamanashi-004

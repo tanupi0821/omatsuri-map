@@ -1,0 +1,29 @@
+id: kanazawa-shomyoji-sakura-matsuri
+name: 称名寺 桜まつり 福祉バザー
+kind: 春祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 金沢区
+venue:
+  name: 称名寺・金沢町公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-28
+    start_time: 10:00
+    end_time: 13:00
+    status: confirmed
+    source_url: https://page.yokohama/wp/festival-calendar/
+    source_name: 横浜市金沢区 行事カレンダー
+    source_type: media
+    checked_at: 2026-08-02
+stalls: unknown

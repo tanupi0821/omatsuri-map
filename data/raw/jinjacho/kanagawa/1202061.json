@@ -1,0 +1,49 @@
+{
+ "id": "1202061",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1202061-000/",
+ "name": "熊野神社",
+ "zip": "222-0002",
+ "address": "横浜市 港北区 師岡町1137",
+ "addressParts": [
+  "横浜市",
+  "港北区",
+  "師岡町1137"
+ ],
+ "festivals": [
+  {
+   "date": "１月１４日",
+   "name": "筒粥祭（つつがゆさい）",
+   "alias": null
+  },
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越の祓（なごしのはらひ）",
+   "alias": null
+  },
+  {
+   "date": "７月土用丑の日",
+   "name": "病災除祭（びょうさいよけさい）",
+   "alias": null
+  },
+  {
+   "date": "８月１日",
+   "name": "水神例祭（すいじんれいさい）",
+   "alias": null
+  },
+  {
+   "date": "８月２３日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "９月十五夜",
+   "name": "月読祭（つきよみさい）",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": "8931",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8931/",
+ "name": "八幡神社",
+ "zip": null,
+ "address": "坂戸市青木492",
+ "addressParts": [
+  "坂戸市",
+  "青木492"
+ ],
+ "festivals": [
+  {
+   "date": "3月15日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "11月26日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

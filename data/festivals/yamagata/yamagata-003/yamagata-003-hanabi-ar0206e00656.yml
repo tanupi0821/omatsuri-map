@@ -1,0 +1,30 @@
+id: yamagata-003-hanabi-ar0206e00656
+name: 第33回 赤川花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 山形県
+  city: 鶴岡市
+  ward: null
+venue:
+  name: 赤川河畔(羽黒橋～三川橋)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0206e00656/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

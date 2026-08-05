@@ -1,0 +1,31 @@
+id: adachi-adachi-odai-tenso
+name: 小台町会ほか 小台天祖神社例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 小台天祖神社
+  address: null
+  lat: null
+  lng: null
+organizer: 小台町会ほか
+shrine: 小台天祖神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: 13:30
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.adachi.tokyo.jp/chiiki/bonfes2026.html
+    source_name: 足立区 あだちの盆踊り・あだちのまつり
+    source_type: gov
+    checked_at: 2026-08-03
+stalls: unknown

@@ -1,0 +1,30 @@
+{
+ "id": "sagamihara-minami-jinjacho-1208198-0",
+ "name": "二宮神社 大祭",
+ "term": "二宮神社 大祭",
+ "tokens": {
+  "strong": [
+   "二宮神社",
+   "二宮",
+   "大祭"
+  ],
+  "weak": [],
+  "place": [
+   "相模原市",
+   "相模原",
+   "南区"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shimousamiyamanoshichinennmatsuri.jpg/1280px-Shimousamiyamanoshichinennmatsuri.jpg",
+   "width": 1000,
+   "height": 750,
+   "credit": "Kosei Kitahara",
+   "license": "Public domain",
+   "license_url": null,
+   "source": "https://commons.wikimedia.org/wiki/File:Shimousamiyamanoshichinennmatsuri.jpg",
+   "title": "File:Shimousamiyamanoshichinennmatsuri.jpg"
+  }
+ ]
+}

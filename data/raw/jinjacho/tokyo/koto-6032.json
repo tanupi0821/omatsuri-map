@@ -1,0 +1,21 @@
+{
+ "id": "koto-6032",
+ "url": "http://www.tokyo-jinjacho.or.jp/koto/6032",
+ "name": "深川神明宮",
+ "zip": "135-0004",
+ "address": "江東区森下1-3-17",
+ "addressParts": [
+  "江東区",
+  "森下1-3-17"
+ ],
+ "city": "江東区",
+ "citySlugHint": "koto",
+ "station": "都営新宿線・大江戸線「森下駅」 徒歩2分 東京メトロ「清澄白河駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "8月17日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+id: aoba-jinjacho-1202128-0
+name: 平川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 青葉区
+venue:
+  name: 平川神社
+  address: 横浜市青葉区美しが丘4ｰ48ｰ1
+  lat: null
+  lng: null
+recurrence: 10月体育の日の前の土曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1202128-000/
+organizer: 平川神社
+shrine: 平川神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1202128-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月体育の日の前の土曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,31 @@
+id: aoba-utsukushigaoka-bonodori
+name: 美しが丘盆踊り大会 2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 青葉区
+venue:
+  name: 美しが丘公園
+  address: null
+  lat: null
+  lng: null
+organizer: 美しが丘連合自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    checked_at: 2026-08-02
+    note: 2026年は酷暑を避けて9月末の開催
+    source_type: media
+stalls: unknown

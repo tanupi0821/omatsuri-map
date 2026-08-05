@@ -1,0 +1,94 @@
+---
+/**
+ * 市区町村のページ
+ *
+ * 「◯◯市 夏祭り 2026」で探す人が求めているのはこの粒度。
+ * 政令市は区ごとの内訳も出す。
+ */
+import Base from '../../../layouts/Base.astro';
+import FestivalList from '../../../components/FestivalList.astro';
+import { loadFestivals } from '../../../lib/data.js';
+import { SITE_NAME } from '../../../lib/site.js';
+
+export function getStaticPaths() {
+  const byCity = new Map();
+  for (const f of loadFestivals()) {
+    const k = `${f._prefSlug}/${f._citySlug}`;
+    if (!byCity.has(k)) byCity.set(k, []);
+    byCity.get(k).push(f);
+  }
+  return [...byCity].map(([k, festivals]) => {
+    const [pref, city] = k.split('/');
+    return { params: { pref, city }, props: { festivals } };
+  });
+}
+
+const { festivals } = Astro.props;
+const { pref } = Astro.params;
+const prefName = festivals[0].area.pref;
+const cityName = festivals[0].area.city;
+
+const wards = new Map();
+for (const f of festivals) {
+  if (!f.area.ward) continue;
+  wards.set(f.area.ward, (wards.get(f.area.ward) ?? 0) + 1);
+}
+const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
+const machi = festivals.filter((f) => f.scale === '町内会').length;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: SITE_NAME, item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: prefName, item: new URL(`/a/${pref}/`, Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: cityName, item: new URL(`/a/${pref}/${Astro.params.city}/`, Astro.site).href },
+  ],
+};
+---
+
+<Base
+  title={`${cityName}の祭り・盆踊り`}
+  description={`${prefName}${cityName}の夏祭り・盆踊り・例大祭を${festivals.length}件掲載。町内会や自治会の小さな盆踊りまで、出典と最終確認日つきで探せます。`}
+  jsonld={jsonld}
+>
+  <nav class="crumb">
+    <a href="/">{SITE_NAME}</a> ／ <a href={`/a/${pref}/`}>{prefName}</a> ／ {cityName}
+  </nav>
+  <h1>{cityName}の祭り</h1>
+  <p class="lede">
+    <strong>{festivals.length} 件</strong>
+    {stallsTotal > 0 && <>（屋台が出ると分かっているもの {stallsTotal} 件）</>}
+    {machi > 0 && <>。うち町内会・自治会の祭りが {machi} 件</>}。
+  </p>
+
+  {wards.size > 0 && (
+    <ul class="areas">
+      {[...wards].sort((a, b) => b[1] - a[1]).map(([w, n]) => (
+        <li>{w}<span class="c">{n}</span></li>
+      ))}
+    </ul>
+  )}
+
+  <FestivalList festivals={festivals} showArea={wards.size > 0} />
+
+  <p class="lede" style="margin-top:24px">
+    <a href={`/search?pref=${encodeURIComponent(prefName)}&city=${encodeURIComponent(cityName)}`}>
+      近くの市区町村もまとめてさがす →
+    </a>
+  </p>
+  <p style="margin-top:16px"><a href={`/a/${pref}/`}>← {prefName}の一覧にもどる</a></p>
+
+  <style>
+    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: 4px; }
+    .lede { color: var(--muted); font-size: 14px; }
+    .areas { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .areas li {
+      display: inline-flex; gap: 6px; align-items: baseline;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 5px 12px; font-size: 14px; background: var(--card);
+    }
+    .areas .c { font-size: 12px; color: var(--muted); }
+  </style>
+</Base>

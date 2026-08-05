@@ -1,0 +1,27 @@
+{
+ "id": "aichi-019-goguynet-79836",
+ "name": "豊橋祇園祭",
+ "term": "豊橋祇園祭",
+ "tokens": {
+  "strong": [
+   "豊橋祇園祭"
+  ],
+  "weak": [],
+  "place": [
+   "豊橋市",
+   "豊橋"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Toyohashi_Gion_Maturi.JPG/1280px-Toyohashi_Gion_Maturi.JPG",
+   "width": 1000,
+   "height": 750,
+   "credit": "Mikkabie",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Toyohashi_Gion_Maturi.JPG",
+   "title": "File:Toyohashi Gion Maturi.JPG"
+  }
+ ]
+}

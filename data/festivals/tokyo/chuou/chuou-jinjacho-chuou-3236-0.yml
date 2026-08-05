@@ -1,0 +1,34 @@
+id: chuou-jinjacho-chuou-3236-0
+name: 小網神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 小網神社
+  address: 中央区16-23
+  lat: null
+  lng: null
+station: 東京メトロ日比谷線「人形町駅」（A2） 徒歩5分 都営浅草線「人形町駅」（A5） 徒歩5分 東京メトロ東西線「茅場町駅」 徒歩10分 東京メトロ半蔵門線「水天宮前駅」 徒歩10分
+recurrence: 5月28日（土日の際は前後します）
+recurrence_source: http://www.tokyo-jinjacho.or.jp/chuou/3236
+organizer: 小網神社
+shrine: 小網神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/chuou/3236
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「5月28日（土日の際は前後します）」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,21 @@
+{
+ "id": "sumida-3136",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/3136",
+ "name": "白鬚神社",
+ "zip": "131-0032",
+ "address": "墨田区東向島3-5-2",
+ "addressParts": [
+  "墨田区",
+  "東向島3-5-2"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "東武スカイツリーライン「東向島駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "6月7日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

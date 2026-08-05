@@ -1,0 +1,38 @@
+id: fukuoka-002-hanabi-ar1040e00932
+name: 第39回 関門海峡花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 北九州市門司区
+  ward: null
+venue:
+  name: 北九州市門司区西海岸周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1040e00932/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fireworks_13AUG2012_KanmonStraits_Japan.jpg/1280px-Fireworks_13AUG2012_KanmonStraits_Japan.jpg
+    width: 1000
+    height: 564
+    credit: Ka23 13
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Fireworks_13AUG2012_KanmonStraits_Japan.jpg

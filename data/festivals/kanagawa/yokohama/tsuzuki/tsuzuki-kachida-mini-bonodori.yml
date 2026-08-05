@@ -1,0 +1,29 @@
+id: tsuzuki-kachida-mini-bonodori
+name: かちだ連合自治会 ミニ盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 勝田団地第一集会所・第二公園
+  address: null
+  lat: null
+  lng: null
+organizer: かちだ連合自治会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: 16:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

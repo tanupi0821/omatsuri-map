@@ -1,0 +1,29 @@
+{
+ "id": "1204028",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1204028-000/",
+ "name": "熊野神社",
+ "zip": "236-0034",
+ "address": "横浜市 金沢区 朝比奈町578",
+ "addressParts": [
+  "横浜市",
+  "金沢区",
+  "朝比奈町578"
+ ],
+ "festivals": [
+  {
+   "date": "３月第１日曜日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "９月１７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月第１日曜日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  }
+ ]
+}

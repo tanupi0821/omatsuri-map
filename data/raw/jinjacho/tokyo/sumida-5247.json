@@ -1,0 +1,21 @@
+{
+ "id": "sumida-5247",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/5247",
+ "name": "榎稲荷神社",
+ "zip": "130-0023",
+ "address": "墨田区立川4-12-24",
+ "addressParts": [
+  "墨田区",
+  "立川4-12-24"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "都バス業⑩「立川」 5分",
+ "festivals": [
+  {
+   "date": "4月17日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

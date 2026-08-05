@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5288",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5288",
+ "name": "神明宮",
+ "zip": "166-0001",
+ "address": "杉並区阿佐谷北1-25-5",
+ "addressParts": [
+  "杉並区",
+  "阿佐谷北1-25-5"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR中央線・総武線「阿佐ヶ谷駅」（北口） 徒歩2分",
+ "festivals": [
+  {
+   "date": "9月16日（神賑行事は9月の第二土日）",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+id: aichi-003-goguynet-125653
+name: サマーフェスタ2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 一宮市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-08-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichinomiya.goguynet.jp/2026/07/21/1382026su/
+    source_name: 号外NET 一宮市
+    source_type: media
+    checked_at: 2026-08-04

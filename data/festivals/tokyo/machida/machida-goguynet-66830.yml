@@ -1,0 +1,32 @@
+id: machida-goguynet-66830
+name: 第40回成瀬まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 町田市
+  ward: null
+venue:
+  name: JR成瀬駅
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 町田市
+    url: https://machida.goguynet.jp/2026/08/02/narusematsuri2026-2/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machida.goguynet.jp/2026/07/29/narusematsuri2026/
+    source_name: 号外NET 町田市
+    source_type: media
+    checked_at: 2026-08-04

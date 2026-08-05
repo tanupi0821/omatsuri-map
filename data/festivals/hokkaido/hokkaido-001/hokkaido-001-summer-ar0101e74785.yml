@@ -1,0 +1,46 @@
+id: hokkaido-001-summer-ar0101e74785
+name: 北海盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 大通公園
+  address: 札幌市中央区大通西
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74785/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg/1280px-SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg
+    width: 1000
+    height: 1500
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._(20797706311).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820764442536%29.jpg/1280px-SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820764442536%29.jpg
+    width: 1000
+    height: 666
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._(20764442536).jpg

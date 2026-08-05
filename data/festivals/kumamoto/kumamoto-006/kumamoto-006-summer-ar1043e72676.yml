@@ -1,0 +1,29 @@
+id: kumamoto-006-summer-ar1043e72676
+name: 大阿蘇火の山まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 熊本県
+  city: 阿蘇市
+  ward: null
+venue:
+  name: 内牧支所周辺
+  address: 阿蘇市内牧
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e72676/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

@@ -1,0 +1,32 @@
+id: funabashi-funabashi-honcho-yasaka-reitaisai
+name: 船橋本町 八坂神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 船橋市本町一帯
+  address: null
+  lat: null
+  lng: null
+organizer: 船橋本町みこし会
+shrine: 八坂神社
+tags:
+  - 神輿
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://funabashi.mypl.net/article/odekake_funabashi/82605
+    source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

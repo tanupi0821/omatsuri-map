@@ -1,0 +1,31 @@
+id: kagoshima-011-hanabi-ar1046e00573
+name: 第35回 えいのゴッソイまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 鹿児島県
+  city: 南九州市
+  ward: null
+venue:
+  name: 頴娃運動公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1046e00573/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない

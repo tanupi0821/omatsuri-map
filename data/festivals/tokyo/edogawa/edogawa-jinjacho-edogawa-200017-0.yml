@@ -1,0 +1,34 @@
+id: edogawa-jinjacho-edogawa-200017-0
+name: 香取神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 香取神社
+  address: 江戸川区中央4-5-23
+  lat: null
+  lng: null
+station: JR「新小岩駅」（南口） 徒歩7分 JR「新小岩駅」（南口）バス（葛西か西葛西行き）乗車、「江戸高前」下車（香取神社前） 徒歩1分
+recurrence: 8月21日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/edogawa/200017
+organizer: 香取神社
+shrine: 香取神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/edogawa/200017
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月21日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

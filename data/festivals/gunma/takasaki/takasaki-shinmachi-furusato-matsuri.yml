@@ -1,0 +1,35 @@
+id: takasaki-shinmachi-furusato-matsuri
+name: 新町ふるさと祭り（花火大会・灯ろう流し・盆踊り大会）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 高崎市
+  ward: null
+venue:
+  name: 烏川総合グラウンド・温井川河畔
+  address: 高崎市新町
+  lat: null
+  lng: null
+recurrence: 8月16日
+recurrence_source: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+organizer: 新町商工会・新町支所地域振興課
+tags:
+  - 花火
+  - 灯籠流し
+  - 盆踊り
+description: null
+links: []
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-08-16
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+    source_name: デジタル広報高崎
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 2024年（令和6年）の記事。2026年の日程は未確認
+stalls: unknown

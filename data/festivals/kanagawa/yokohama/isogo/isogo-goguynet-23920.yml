@@ -1,0 +1,30 @@
+id: isogo-goguynet-23920
+name: Yakigashi ichiと小さなパンまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 洋光台中央団地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-23
+      - 2026-05-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamakanazawa-isogo.goguynet.jp/2026/04/25/yokodai_craft-marche/
+    source_name: 号外NET 横浜市磯子区・金沢区
+    source_type: media
+    checked_at: 2026-08-04

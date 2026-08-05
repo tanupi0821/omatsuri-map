@@ -1,0 +1,21 @@
+{
+ "id": "minato-3039",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3039",
+ "name": "久国神社",
+ "zip": "106-0032",
+ "address": "港区六本木2-1-16",
+ "addressParts": [
+  "港区",
+  "六本木2-1-16"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "都バス新橋～渋谷間「六本木一丁目」 3分",
+ "festivals": [
+  {
+   "date": "6月8日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "tachikawa-hanabi-ar0313e01045",
+ "name": "立川まつり 国営昭和記念公園花火大会",
+ "term": "立川まつり 国営昭和記念公園花火大会",
+ "tokens": {
+  "strong": [
+   "立川まつり",
+   "国営昭和記念公園花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "立川市",
+   "立川"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fireworks_in_Tachikawa_20260725.jpg/1280px-Fireworks_in_Tachikawa_20260725.jpg",
+   "width": 1000,
+   "height": 1500,
+   "credit": "DiKnK8713",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fireworks_in_Tachikawa_20260725.jpg",
+   "title": "File:Fireworks in Tachikawa 20260725.jpg"
+  }
+ ]
+}

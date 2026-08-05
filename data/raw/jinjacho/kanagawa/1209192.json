@@ -1,0 +1,33 @@
+{
+ "id": "1209192",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209192-000/",
+ "name": "十二柱神社",
+ "zip": "259-1142",
+ "address": "伊勢原市 伊勢原3-27-27",
+ "addressParts": [
+  "伊勢原市",
+  "伊勢原3-27-27"
+ ],
+ "festivals": [
+  {
+   "date": "１月１日",
+   "name": "歳旦祭（さいたんさい）",
+   "alias": null
+  },
+  {
+   "date": "７月１１日",
+   "name": "大祓い（おおばらい）",
+   "alias": null
+  },
+  {
+   "date": "１２月１０日",
+   "name": "新嘗祭（しんじょうさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月１０日",
+   "name": "大祓い（おおばらい）",
+   "alias": null
+  }
+ ]
+}

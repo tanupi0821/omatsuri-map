@@ -1,0 +1,34 @@
+id: shibuya-jinjacho-shibuya-2066-0
+name: 穏田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 渋谷区
+  ward: null
+venue:
+  name: 穏田神社
+  address: 渋谷区神宮前5-26-6
+  lat: null
+  lng: null
+station: JR山手線「渋谷駅」「原宿駅」より、いずれも徒歩10分 東京メトロ千代田線「明治神宮前駅」より徒歩7分 都バス「渋谷駅」東口より池袋東口、早大正門行「神宮前6丁目」下車 徒歩3分
+recurrence: 9月9日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/shibuya/2066
+organizer: 穏田神社
+shrine: 穏田神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/shibuya/2066
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月9日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

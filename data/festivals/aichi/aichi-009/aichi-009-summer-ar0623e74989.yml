@@ -1,0 +1,46 @@
+id: aichi-009-summer-ar0623e74989
+name: 第73回 安城七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: JR安城駅南側周辺市街地一帯
+  address: 安城市御幸本町1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74989/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/af/%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E7%A5%AD%E3%82%8A.jpg
+    width: 1000
+    height: 750
+    credit: おはぐろ蜻蛉 at Japanese Wikipedia
+    license: Public domain
+    license_url: null
+    source: https://commons.wikimedia.org/wiki/File:%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E7%A5%AD%E3%82%8A.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Anjo-Tanabata-Matsuri-2023-6.jpg/1280px-Anjo-Tanabata-Matsuri-2023-6.jpg
+    width: 1000
+    height: 750
+    credit: Evelyn-rose
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Anjo-Tanabata-Matsuri-2023-6.jpg

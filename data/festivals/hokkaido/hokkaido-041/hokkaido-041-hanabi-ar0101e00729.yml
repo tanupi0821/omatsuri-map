@@ -1,0 +1,30 @@
+id: hokkaido-041-hanabi-ar0101e00729
+name: 第43回 なかふらのラベンダーまつり＆花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 空知郡中富良野町
+  ward: null
+venue:
+  name: 北星山ラベンダー園/なかふらのフラワーパーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e00729/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

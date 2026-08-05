@@ -1,0 +1,21 @@
+{
+ "id": "sumida-3135",
+ "url": "http://www.tokyo-jinjacho.or.jp/sumida/3135",
+ "name": "高木神社",
+ "zip": "131-0045",
+ "address": "墨田区押上2-37-9",
+ "addressParts": [
+  "墨田区",
+  "押上2-37-9"
+ ],
+ "city": "墨田区",
+ "citySlugHint": "sumida",
+ "station": "東武伊勢崎線「曳舟駅」 徒歩7分 都営浅草線「押上駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "6月7日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

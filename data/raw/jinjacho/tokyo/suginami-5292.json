@@ -1,0 +1,21 @@
+{
+ "id": "suginami-5292",
+ "url": "http://www.tokyo-jinjacho.or.jp/suginami/5292",
+ "name": "八幡神社",
+ "zip": "167-0043",
+ "address": "杉並区上荻4-19-2",
+ "addressParts": [
+  "杉並区",
+  "上荻4-19-2"
+ ],
+ "city": "杉並区",
+ "citySlugHint": "suginami",
+ "station": "JR中央線・総武線・東京メトロ東西線・丸ノ内線「荻窪駅」 徒歩15分 または関東バス0番、1番「荻窪警察署前」",
+ "festivals": [
+  {
+   "date": "9月第3日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

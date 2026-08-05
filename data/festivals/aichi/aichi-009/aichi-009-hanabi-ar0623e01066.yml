@@ -1,0 +1,32 @@
+id: aichi-009-hanabi-ar0623e01066
+name: 大迫力！夏の花火ショー～音楽×光×花火の競演～
+kind: 花火
+scale: 市
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 安城産業文化公園デンパーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0623e01066/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+    note: 掲載の2日付は期間の初日と最終日

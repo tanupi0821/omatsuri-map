@@ -1,0 +1,21 @@
+{
+ "id": "minato-3032",
+ "url": "http://www.tokyo-jinjacho.or.jp/minato/3032",
+ "name": "鹽竈神社",
+ "zip": "105-0004",
+ "address": "港区新橋5-19-7",
+ "addressParts": [
+  "港区",
+  "新橋5-19-7"
+ ],
+ "city": "港区",
+ "citySlugHint": "minato",
+ "station": "JR「新橋駅」 徒歩6分 都営地下鉄三田線「御成門駅」 徒歩5分",
+ "festivals": [
+  {
+   "date": "5月10日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

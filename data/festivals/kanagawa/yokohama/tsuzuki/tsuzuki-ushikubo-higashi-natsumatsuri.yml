@@ -1,0 +1,29 @@
+id: tsuzuki-ushikubo-higashi-natsumatsuri
+name: 牛久保東町内会 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 都筑区
+venue:
+  name: 中川小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 牛久保東町内会
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.tsudzuki.mutsuki.yokohama/summerfes/
+    source_name: むつづき（横浜市北部エリアの地域情報サイト）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

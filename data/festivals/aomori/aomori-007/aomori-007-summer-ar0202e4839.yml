@@ -1,0 +1,46 @@
+id: aomori-007-summer-ar0202e4839
+name: 弘前ねぷたまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 青森県
+  city: 弘前市
+  ward: null
+venue:
+  name: 土手町コースほか
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e4839/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neputa_%28Hirosaki%2C_Japan%29.jpg/1280px-Neputa_%28Hirosaki%2C_Japan%29.jpg
+    width: 1000
+    height: 750
+    credit: Kaburamata
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Neputa_(Hirosaki,_Japan).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hirosaki_Neputa_Festival_02.jpg/1280px-Hirosaki_Neputa_Festival_02.jpg
+    width: 1000
+    height: 750
+    credit: Aoiwaaki
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Hirosaki_Neputa_Festival_02.jpg

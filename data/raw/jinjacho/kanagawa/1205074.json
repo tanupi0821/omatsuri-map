@@ -1,0 +1,48 @@
+{
+ "id": "1205074",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1205074-000/",
+ "name": "海南神社",
+ "zip": "238-0243",
+ "address": "三浦市 三崎4ｰ12ｰ11",
+ "addressParts": [
+  "三浦市",
+  "三崎4ｰ12ｰ11"
+ ],
+ "festivals": [
+  {
+   "date": "２月２１日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "6月1日又は第１土曜日",
+   "name": "八雲祭（やぐもさい）",
+   "alias": null
+  },
+  {
+   "date": "7月海の日前の土日両日",
+   "name": "夏例大祭（なつれいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "11月初未日",
+   "name": "出居戸祭（でっとさい）",
+   "alias": null
+  },
+  {
+   "date": "11月初未日の翌申日",
+   "name": "出居戸祭（でっとさい）",
+   "alias": null
+  },
+  {
+   "date": "11月初未日の翌酉日",
+   "name": "出居戸祭（でっとさい）",
+   "alias": null
+  }
+ ]
+}

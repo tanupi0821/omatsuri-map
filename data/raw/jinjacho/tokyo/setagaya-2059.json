@@ -1,0 +1,21 @@
+{
+ "id": "setagaya-2059",
+ "url": "http://www.tokyo-jinjacho.or.jp/setagaya/2059",
+ "name": "神明神社",
+ "zip": "156-0055",
+ "address": "世田谷区船橋4-40-17",
+ "addressParts": [
+  "世田谷区",
+  "船橋4-40-17"
+ ],
+ "city": "世田谷区",
+ "citySlugHint": "setagaya",
+ "station": "小田急線「千歳船橋駅」 10分",
+ "festivals": [
+  {
+   "date": "9月最終日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

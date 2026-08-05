@@ -1,0 +1,58 @@
+{
+ "id": "shizuoka-016-hanabi-ar0622e00889",
+ "name": "第73回 安倍川花火大会",
+ "term": "安倍川花火大会",
+ "tokens": {
+  "strong": [
+   "第73回",
+   "安倍川花火大会"
+  ],
+  "weak": [],
+  "place": [
+   "静岡市葵区",
+   "静岡市葵"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abekawahanabitaikai_20220723i.jpg/1280px-Abekawahanabitaikai_20220723i.jpg",
+   "width": 1000,
+   "height": 938,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723i.jpg",
+   "title": "File:Abekawahanabitaikai 20220723i.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Abekawahanabitaikai_20220723k.jpg/1280px-Abekawahanabitaikai_20220723k.jpg",
+   "width": 1000,
+   "height": 968,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723k.jpg",
+   "title": "File:Abekawahanabitaikai 20220723k.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Abekawahanabitaikai_20220723l.jpg/1280px-Abekawahanabitaikai_20220723l.jpg",
+   "width": 1000,
+   "height": 1034,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723l.jpg",
+   "title": "File:Abekawahanabitaikai 20220723l.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abekawahanabitaikai_20220723r.jpg/1280px-Abekawahanabitaikai_20220723r.jpg",
+   "width": 1000,
+   "height": 938,
+   "credit": "江戸村のとくぞう",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Abekawahanabitaikai_20220723r.jpg",
+   "title": "File:Abekawahanabitaikai 20220723r.jpg"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: gifu-014-goguynet-4217
+name: 第68回土岐市織部まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 土岐市
+  ward: null
+venue:
+  name: 土岐川河川敷周辺・セラトピア土岐周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 屋台が出ると出典に記載
+    url: https://hanabi.walkerplus.com/detail/ar0621e356763/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/07/30/tokihanabi/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,35 @@
+id: manazuru-manazuru-kibune-matsuri
+name: 真鶴貴船まつり
+kind: 例大祭
+scale: 市
+area:
+  pref: 神奈川県
+  city: 真鶴町
+  ward: null
+venue:
+  name: 貴船神社・真鶴港岸壁広場
+  address: null
+  lat: null
+  lng: null
+station: 真鶴
+organizer: 貴船神社
+shrine: 貴船神社
+tags:
+  - 神輿
+  - 船
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/manazuru-machi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
+    note: 7/24 宵宮、7/25 本祭
+stalls: yes

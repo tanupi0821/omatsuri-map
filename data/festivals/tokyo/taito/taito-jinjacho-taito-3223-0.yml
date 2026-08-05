@@ -1,0 +1,34 @@
+id: taito-jinjacho-taito-3223-0
+name: 榊神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 榊神社
+  address: 台東区蔵前1-4-3
+  lat: null
+  lng: null
+station: JR「浅草橋駅」 徒歩5分 地下鉄浅草線「蔵前駅」 徒歩3分 都バス「蔵前一丁目」 徒歩2分
+recurrence: 6月5日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/3223
+organizer: 榊神社
+shrine: 榊神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/taito/3223
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「6月5日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

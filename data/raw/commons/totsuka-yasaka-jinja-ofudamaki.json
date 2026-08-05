@@ -1,0 +1,32 @@
+{
+ "id": "totsuka-yasaka-jinja-ofudamaki",
+ "name": "八坂神社 お札まき",
+ "term": "八坂神社 お札まき",
+ "tokens": {
+  "strong": [
+   "お札まき"
+  ],
+  "weak": [
+   "八坂神社",
+   "八坂"
+  ],
+  "place": [
+   "横浜市",
+   "横浜",
+   "戸塚区",
+   "戸塚"
+  ]
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg/1280px-C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg",
+   "width": 1000,
+   "height": 662,
+   "credit": "横浜市戸塚区役所・職員",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:C03-05-0018%EF%BC%88%E5%B9%B3%E6%88%9027%E5%B9%B4%E3%81%8A%E6%9C%AD%E3%81%BE%E3%81%8D1%EF%BC%89.jpg",
+   "title": "File:C03-05-0018（平成27年お札まき1）.jpg"
+  }
+ ]
+}

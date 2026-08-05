@@ -1,0 +1,34 @@
+id: nakano-jinjacho-nakano-5903-0
+name: 北野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 中野区
+  ward: null
+venue:
+  name: 北野神社
+  address: 中野区松が丘2-27-1
+  lat: null
+  lng: null
+station: 西武新宿線「新井薬師前駅」北 20分
+recurrence: 9月25日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/nakano/5903
+organizer: 北野神社
+shrine: 北野神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/nakano/5903
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月25日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

@@ -1,0 +1,32 @@
+id: tochigi-shi-tochigi-aki-matsuri
+name: とちぎ秋まつり
+kind: 秋祭り
+scale: 市
+area:
+  pref: 栃木県
+  city: 栃木市
+  ward: null
+venue:
+  name: とちぎ蔵の街大通り
+  address: null
+  lat: null
+  lng: null
+station: 栃木
+organizer: null
+stalls: unknown
+tags:
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-14
+      - 2026-11-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.walkerplus.com/event_list/ar0309/eg0055/
+    source_name: ウォーカープラス お祭り一覧
+    source_type: aggregator
+    checked_at: 2026-08-03

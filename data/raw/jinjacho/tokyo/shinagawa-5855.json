@@ -1,0 +1,21 @@
+{
+ "id": "shinagawa-5855",
+ "url": "http://www.tokyo-jinjacho.or.jp/shinagawa/5855",
+ "name": "氷川神社",
+ "zip": "141-0031",
+ "address": "品川区西五反田5-6-3",
+ "addressParts": [
+  "品川区",
+  "西五反田5-6-3"
+ ],
+ "city": "品川区",
+ "citySlugHint": "shinagawa",
+ "station": "東急目黒線「不動前駅」 徒歩3分",
+ "festivals": [
+  {
+   "date": "9月13日に近い金・土・日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+id: takasaki-haruna-furusato-matsuri
+name: 榛名ふるさと祭り・商工祭花火大会（第43回）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 高崎市
+  ward: null
+venue:
+  name: 烏川公園
+  address: 高崎市下室田町
+  lat: null
+  lng: null
+recurrence: 8月15日
+recurrence_source: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+organizer: 榛名支所産業観光課
+tags:
+  - 花火
+description: null
+links:
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0310e513939/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 19:30
+    end_time: 21:00
+    status: confirmed
+    note: 花火の打ち上げは19:30〜21:00。屋台あり
+    source_url: https://hanabi.walkerplus.com/list/ar0310/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+  - year: 2024
+    dates:
+      - 2024-08-15
+    start_time: 19:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.takasaki.gunma.jp/site/digital/44456.html
+    source_name: デジタル広報高崎
+    source_type: gov
+    checked_at: 2026-08-03
+    note: 2024年（令和6年）の記事。2026年の日程は未確認
+stalls: yes

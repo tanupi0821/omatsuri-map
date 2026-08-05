@@ -1,0 +1,33 @@
+{
+ "id": "1209296",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1209296-000/",
+ "name": "朝日神社",
+ "zip": "257-0028",
+ "address": "秦野市 東田原1343",
+ "addressParts": [
+  "秦野市",
+  "東田原1343"
+ ],
+ "festivals": [
+  {
+   "date": "６月第４日曜日",
+   "name": "夏越大祓（なごしおおはらい）",
+   "alias": null
+  },
+  {
+   "date": "７月１４日",
+   "name": "例大祭（れいたいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月第３日曜日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "１２月２３日",
+   "name": "年越大祓（としこしおおはらい）",
+   "alias": null
+  }
+ ]
+}

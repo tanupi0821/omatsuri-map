@@ -1,0 +1,38 @@
+id: numata-numata-matsuri
+name: 沼田まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 沼田市
+  ward: null
+venue:
+  name: 沼田市中心市街地
+  address: null
+  lat: null
+  lng: null
+station: 沼田
+organizer: 沼田市
+tags:
+  - 神輿
+  - 山車
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0310/sg0999/yatai/
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0310e316999/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.numata.gunma.jp/kanko/numatamatsuri/
+    source_name: 沼田市 公式
+    source_type: gov
+    checked_at: 2026-08-02
+    note: 江戸時代からの須賀神社「祇園祭」と「沼田まつり商工祭」を統合した祭り。来場者20万人超
+stalls: yes

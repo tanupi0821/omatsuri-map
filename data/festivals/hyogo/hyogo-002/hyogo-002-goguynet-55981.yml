@@ -1,0 +1,29 @@
+id: hyogo-002-goguynet-55981
+name: 鶴林寺の七夕まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 加古川市
+  ward: null
+venue:
+  name: 加古川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kakogawa.goguynet.jp/2026/07/04/tanabatakakurinji/
+    source_name: 号外NET 加古川市・高砂市
+    source_type: media
+    checked_at: 2026-08-04

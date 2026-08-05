@@ -1,0 +1,21 @@
+{
+ "id": "ota-5673",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5673",
+ "name": "徳持神社",
+ "zip": "146-0082",
+ "address": "大田区池上3-38-17",
+ "addressParts": [
+  "大田区",
+  "池上3-38-17"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「池上駅」 徒歩5分 東急バス「徳持神社」バス停下車すぐ",
+ "festivals": [
+  {
+   "date": "7月20日前後の土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

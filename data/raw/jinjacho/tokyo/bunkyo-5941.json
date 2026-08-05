@@ -1,0 +1,21 @@
+{
+ "id": "bunkyo-5941",
+ "url": "http://www.tokyo-jinjacho.or.jp/bunkyo/5941",
+ "name": "根津神社",
+ "zip": "113-0031",
+ "address": "文京区根津1-28-9",
+ "addressParts": [
+  "文京区",
+  "根津1-28-9"
+ ],
+ "city": "文京区",
+ "citySlugHint": "bunkyo",
+ "station": "東京メトロ千代田線「根津駅」「千駄木駅」 徒歩5分 東京メトロ南北線「東大前駅」 徒歩5分 都営三田線「白山駅」 徒歩10分",
+ "festivals": [
+  {
+   "date": "9月21日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

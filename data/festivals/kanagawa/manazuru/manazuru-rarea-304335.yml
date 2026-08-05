@@ -1,0 +1,45 @@
+id: manazuru-rarea-304335
+name: 貴船まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 真鶴町
+  ward: null
+venue:
+  name: 真鶴町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/304335
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-08-05
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/24/Manazuru-Kibune-Festival.jpg
+    width: 1000
+    height: 1333
+    credit: GuchuanYanyi
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Manazuru-Kibune-Festival.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E8%B2%B4%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A%E5%B0%8F%E6%97%A9%E8%88%B9.jpg/1280px-%E8%B2%B4%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A%E5%B0%8F%E6%97%A9%E8%88%B9.jpg
+    width: 1000
+    height: 563
+    credit: Kazuhiro.manazuru
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E8%B2%B4%E8%88%B9%E3%81%BE%E3%81%A4%E3%82%8A%E5%B0%8F%E6%97%A9%E8%88%B9.jpg

@@ -1,0 +1,21 @@
+{
+ "id": "adachi-2125",
+ "url": "http://www.tokyo-jinjacho.or.jp/adachi/2125",
+ "name": "氷川神社",
+ "zip": "123-0872",
+ "address": "足立区江北2-43-8",
+ "addressParts": [
+  "足立区",
+  "江北2-43-8"
+ ],
+ "city": "足立区",
+ "citySlugHint": "adachi",
+ "station": "JR・地下鉄南北線「王子駅」より都バス西新井駅行「荒川土手」 2分",
+ "festivals": [
+  {
+   "date": "9月17日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

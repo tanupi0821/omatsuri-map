@@ -1,0 +1,34 @@
+id: ota-jinjacho-ota-5368-0
+name: 浅間神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 大田区
+  ward: null
+venue:
+  name: 浅間神社
+  address: 大田区中馬込2-1-21
+  lat: null
+  lng: null
+station: 地下鉄浅草線「馬込駅」 5分
+recurrence: 7月第1日曜
+recurrence_source: http://www.tokyo-jinjacho.or.jp/ota/5368
+organizer: 浅間神社
+shrine: 浅間神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/ota/5368
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「7月第1日曜」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

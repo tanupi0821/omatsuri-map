@@ -1,0 +1,21 @@
+{
+ "id": "chuou-3239",
+ "url": "http://www.tokyo-jinjacho.or.jp/chuou/3239",
+ "name": "永久稲荷神社",
+ "zip": "103-0015",
+ "address": "中央区日本橋箱崎町22-11",
+ "addressParts": [
+  "中央区日本橋箱崎町",
+  "22-11"
+ ],
+ "city": "中央区",
+ "citySlugHint": "chuou",
+ "station": "地下鉄半蔵門線「水天宮前駅」 徒歩1分",
+ "festivals": [
+  {
+   "date": "5月19日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

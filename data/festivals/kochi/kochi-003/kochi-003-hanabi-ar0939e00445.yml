@@ -1,0 +1,30 @@
+id: kochi-003-hanabi-ar0939e00445
+name: 2026ふるさと室戸まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 高知県
+  city: 室戸市
+  ward: null
+venue:
+  name: 海の駅「とろむ」
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0939e00445/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

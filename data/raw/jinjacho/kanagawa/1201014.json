@@ -1,0 +1,24 @@
+{
+ "id": "1201014",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1201014-000/",
+ "name": "大師稲荷神社",
+ "zip": "210-0818",
+ "address": "川崎市 川崎区 中瀬3-5-1",
+ "addressParts": [
+  "川崎市",
+  "川崎区",
+  "中瀬3-5-1"
+ ],
+ "festivals": [
+  {
+   "date": "２月１５日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "１０月１５日",
+   "name": "収穫祭（しゅうかくさい）",
+   "alias": null
+  }
+ ]
+}

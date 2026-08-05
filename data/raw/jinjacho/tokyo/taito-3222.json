@@ -1,0 +1,21 @@
+{
+ "id": "taito-3222",
+ "url": "http://www.tokyo-jinjacho.or.jp/taito/3222",
+ "name": "今戸神社",
+ "zip": "111-0024",
+ "address": "台東区今戸1-5-22",
+ "addressParts": [
+  "台東区",
+  "今戸1-5-22"
+ ],
+ "city": "台東区",
+ "citySlugHint": "taito",
+ "station": "東京メトロ浅草線「浅草駅」 徒歩15分 都バス浅草より南千住行き「浅草七丁目」 徒歩3分 「リバーサイド・スポーツセンター」 徒歩1分",
+ "festivals": [
+  {
+   "date": "6月第1土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

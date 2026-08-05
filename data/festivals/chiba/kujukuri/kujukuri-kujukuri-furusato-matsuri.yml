@@ -1,0 +1,31 @@
+id: kujukuri-kujukuri-furusato-matsuri
+name: 九十九里町ふるさとまつり（第34回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 九十九里町
+  ward: null
+venue:
+  name: 九十九里町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 盆踊り
+description: null
+links:
+  - https://summer.walkerplus.com/odekake/list/ar0312/sg0999/yatai/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0312/sg0999/3.html
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03
+stalls: yes

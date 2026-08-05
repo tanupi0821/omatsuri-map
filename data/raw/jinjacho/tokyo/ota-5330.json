@@ -1,0 +1,18 @@
+{
+ "id": "ota-5330",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5330",
+ "name": "今泉神社",
+ "zip": null,
+ "address": null,
+ "addressParts": [],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急多摩川線「矢口渡駅」 6分",
+ "festivals": [
+  {
+   "date": "9月15日",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

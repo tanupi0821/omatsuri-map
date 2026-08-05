@@ -1,0 +1,21 @@
+{
+ "id": "ota-5985",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5985",
+ "name": "御嶽神社",
+ "zip": "145-0073",
+ "address": "大田区北嶺町37-20",
+ "addressParts": [
+  "大田区北嶺町",
+  "37-20"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「御嶽山駅」下車すぐ",
+ "festivals": [
+  {
+   "date": "9月第3土曜・日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

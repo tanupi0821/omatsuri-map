@@ -1,0 +1,63 @@
+{
+ "id": "8952",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/8952/",
+ "name": "高麗神社",
+ "zip": null,
+ "address": "日高市新堀833",
+ "addressParts": [
+  "日高市",
+  "新堀833"
+ ],
+ "festivals": [
+  {
+   "date": "2月中旬",
+   "name": "祈年祭",
+   "alias": null
+  },
+  {
+   "date": "3月下旬",
+   "name": "桜花祭",
+   "alias": null
+  },
+  {
+   "date": "5月",
+   "name": "若光祭",
+   "alias": null
+  },
+  {
+   "date": "5月16日",
+   "name": "高麗郡建郡記念神恩感謝祭",
+   "alias": null
+  },
+  {
+   "date": "6月下旬",
+   "name": "夏越大祓式",
+   "alias": null
+  },
+  {
+   "date": "9月の十五夜",
+   "name": "観月祭",
+   "alias": null
+  },
+  {
+   "date": "9月23日",
+   "name": "天皇皇后両陛下行幸啓記念神恩感謝祭",
+   "alias": null
+  },
+  {
+   "date": "10月19日",
+   "name": "例祭",
+   "alias": null
+  },
+  {
+   "date": "11月23日",
+   "name": "新嘗祭",
+   "alias": null
+  },
+  {
+   "date": "12月30日",
+   "name": "年越大祓式",
+   "alias": null
+  }
+ ]
+}

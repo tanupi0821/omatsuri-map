@@ -1,0 +1,23 @@
+{
+ "id": "9411",
+ "url": "https://www.saitama-jinjacho.or.jp/shrine/9411/",
+ "name": "天満天神社",
+ "zip": null,
+ "address": "長瀞町野上下郷2866",
+ "addressParts": [
+  "長瀞町",
+  "野上下郷2866"
+ ],
+ "festivals": [
+  {
+   "date": "２月２５日に近い日曜日",
+   "name": "春祭り",
+   "alias": null
+  },
+  {
+   "date": "１１月２５日に近い日曜日",
+   "name": "秋祭り",
+   "alias": null
+  }
+ ]
+}

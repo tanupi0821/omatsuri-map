@@ -1,0 +1,33 @@
+id: hadano-jinjacho-1209301-0
+name: 堀之郷正八幡宮 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 秦野市
+  ward: null
+venue:
+  name: 堀之郷正八幡宮
+  address: 秦野市堀山下988
+  lat: null
+  lng: null
+recurrence: 4月18日近い日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1209301-000/
+organizer: 堀之郷正八幡宮
+shrine: 堀之郷正八幡宮
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1209301-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月18日近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない
+stalls: unknown

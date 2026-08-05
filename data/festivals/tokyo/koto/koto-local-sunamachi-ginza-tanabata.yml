@@ -1,0 +1,31 @@
+id: koto-local-sunamachi-ginza-tanabata
+name: 砂町銀座 七夕まつり（第75回）
+kind: 商店街
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 砂町銀座商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 砂町銀座商店街
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://minamisuna1.com/37573/
+    source_name: 江東区の情報サイト
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

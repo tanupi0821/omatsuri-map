@@ -1,0 +1,31 @@
+id: totsuka-yasaka-jinja-ofudamaki
+name: 八坂神社 お札まき
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 戸塚区
+venue:
+  name: 八坂神社・旧東海道沿い
+  address: null
+  lat: null
+  lng: null
+station: 戸塚
+organizer: null
+shrine: 八坂神社
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/totsuka-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    checked_at: 2026-08-02
+    source_type: aggregator
+stalls: unknown

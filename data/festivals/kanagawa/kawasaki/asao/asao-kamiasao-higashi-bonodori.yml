@@ -1,0 +1,31 @@
+id: asao-kamiasao-higashi-bonodori
+name: 上麻生東町内会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 麻生区
+venue:
+  name: 麻生水処理センター グラウンド
+  address: null
+  lat: null
+  lng: null
+station: 柿生
+organizer: 上麻生東町内会
+tags: []
+description: null
+links:
+  - https://voyvoi.com/event/kamiasao-higashi-cool-breeze-dance-festival/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:00
+    end_time: null
+    status: confirmed
+    source_url: https://note.com/kakio_ja/n/n1bd9616420fc
+    source_name: 柿生隠者（note）
+    checked_at: 2026-08-02
+    source_type: media
+stalls: unknown

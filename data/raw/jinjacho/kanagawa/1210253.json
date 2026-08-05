@@ -1,0 +1,64 @@
+{
+ "id": "1210253",
+ "url": "https://www.kanagawa-jinja.or.jp/shrine/1210253-000/",
+ "name": "貴船神社",
+ "zip": "259-0201",
+ "address": "足柄下郡 真鶴町 真鶴1117ｰﾛ",
+ "addressParts": [
+  "足柄下郡",
+  "真鶴町",
+  "真鶴1117ｰﾛ"
+ ],
+ "festivals": [
+  {
+   "date": "２月１７日",
+   "name": "祈年祭（きねんさい）",
+   "alias": null
+  },
+  {
+   "date": "６月３０日",
+   "name": "夏越の大祓（なごしのおおはらえ）",
+   "alias": null
+  },
+  {
+   "date": "７月２６日",
+   "name": "御霊移祭（みたまうつしさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２７日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "７月２８日",
+   "name": "例祭（れいさい）",
+   "alias": null
+  },
+  {
+   "date": "１１月２３日",
+   "name": "新嘗祭（にいなめさい）",
+   "alias": null
+  },
+  {
+   "date": "毎月1･15日１・１５日",
+   "name": "月次祭（つきなみさい）",
+   "alias": null
+  }
+ ]
+}

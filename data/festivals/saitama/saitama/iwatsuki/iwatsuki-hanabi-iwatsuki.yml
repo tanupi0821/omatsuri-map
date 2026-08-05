@@ -1,0 +1,30 @@
+id: iwatsuki-hanabi-iwatsuki
+name: さいたま市花火大会 岩槻文化公園会場
+kind: 花火
+scale: 市
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 岩槻区
+venue:
+  name: 岩槻文化公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 19:30
+    end_time: null
+    status: confirmed
+    source_url: https://www.lipro-mavie.com/202506-summerfestival/
+    source_name: リプロ マヴィ（さいたま市の地域情報サイト）
+    source_type: media
+    checked_at: 2026-08-03
+stalls: unknown

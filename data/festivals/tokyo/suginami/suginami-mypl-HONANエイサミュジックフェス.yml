@@ -1,0 +1,30 @@
+id: suginami-mypl-HONANエイサミュジックフェス
+name: HONANエイサー＆ミュージックフェス
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 杉並区
+  ward: null
+venue:
+  name: 東京メトロ丸の内線 方南町駅 リパーク東口駅前駐車場 ろか広場・中央通り商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://suginami.mypl.net/article/summer-fes_suginami
+    source_name: まいぷれ[杉並区]
+    source_type: media
+    checked_at: 2026-08-04

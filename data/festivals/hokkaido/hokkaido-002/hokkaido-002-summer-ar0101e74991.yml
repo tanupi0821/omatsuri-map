@@ -1,0 +1,31 @@
+id: hokkaido-002-summer-ar0101e74991
+name: 第28回 きもべつ夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 虻田郡喜茂別町
+  ward: null
+venue:
+  name: 大町ちびっこ広場
+  address: 虻田郡喜茂別町字喜茂別22-6
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74991/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

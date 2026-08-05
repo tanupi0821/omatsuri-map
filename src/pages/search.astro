@@ -1,0 +1,303 @@
+---
+/**
+ * 全国からさがす
+ *
+ * 市区町村ページは 1 つの市しか見られない。全国 4000 件になったので
+ * 「関東の今週末」「◯◯県の屋台あり」のような探し方ができないと使えない。
+ *
+ * 全件を HTML に出すとトップが 2.9MB になったので、**索引 JSON を
+ * 開いたときに読み込んで**、絞り込みと描画はブラウザ側でやる。
+ */
+import Base from '../layouts/Base.astro';
+import { SITE_NAME } from '../lib/site.js';
+import { loadFestivals } from '../lib/data.js';
+import { PREFS, REGIONS, byName } from '../../scripts/lib/prefs.mjs';
+
+const festivals = loadFestivals();
+
+// 選択肢は実在するものだけ出す
+const kinds = [...new Set(festivals.map((f) => f.kind))].sort();
+const havePref = new Set(festivals.map((f) => f.area.pref));
+const prefsByRegion = REGIONS
+  .map((r) => ({ region: r, prefs: PREFS.filter((p) => p.region === r && havePref.has(p.name)) }))
+  .filter((x) => x.prefs.length);
+
+const total = festivals.length;
+const stalls = festivals.filter((f) => f.stalls === 'yes').length;
+---
+
+<Base
+  title="全国からさがす"
+  description={`全国${total}件の夏祭り・盆踊り・例大祭から、地方・都道府県・市区町村・日付・屋台の有無でさがせます。`}
+>
+  <nav class="crumb"><a href="/">{SITE_NAME}</a> ／ さがす</nav>
+  <h1>全国からさがす</h1>
+  <p class="lede">
+    {total} 件（屋台が出ると分かっているもの {stalls} 件）から、
+    地方・都道府県・市区町村・日付・名前でしぼれます。
+  </p>
+
+  <div class="panel">
+    <input
+      id="q" type="search" class="q"
+      placeholder="祭りの名前・会場・町会名でさがす（例: 諏訪神社、駅前公園、○○町会）"
+      aria-label="祭りの名前や会場でさがす"
+    />
+
+    <div class="row">
+      <select id="region" aria-label="地方でしぼる">
+        <option value="">地方：すべて</option>
+        {prefsByRegion.map(({ region }) => <option value={region}>{region}</option>)}
+      </select>
+      <select id="pref" aria-label="都道府県でしぼる">
+        <option value="">都道府県：すべて</option>
+        {prefsByRegion.map(({ region, prefs }) => (
+          <optgroup label={region}>
+            {prefs.map((p) => <option value={p.name} data-region={region}>{p.name}</option>)}
+          </optgroup>
+        ))}
+      </select>
+      <select id="city" aria-label="市区町村でしぼる">
+        <option value="">市区町村：すべて</option>
+      </select>
+    </div>
+
+    <div class="row">
+      <div class="tabs" role="group" aria-label="表示する期間">
+        <button data-range="upcoming" class="on">これから</button>
+        <button data-range="weekend">今週末</button>
+        <button data-range="all">すべて</button>
+      </div>
+      <select id="month" aria-label="月でしぼる">
+        <option value="">月：すべて</option>
+        {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
+          <option value={String(m).padStart(2, '0')}>{m}月</option>
+        ))}
+      </select>
+      <select id="kind" aria-label="種別でしぼる">
+        <option value="">種別：すべて</option>
+        {kinds.map((k) => <option value={k}>{k}</option>)}
+      </select>
+      <label class="toggle"><input type="checkbox" id="stalls" /> 屋台あり</label>
+    </div>
+  </div>
+
+  <p id="status" class="count">読み込んでいます…</p>
+  <ul id="results" class="list"></ul>
+  <p id="more" hidden class="lede">
+    <button id="moreBtn" class="morebtn">もっと見る</button>
+  </p>
+
+  <style>
+    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: 4px; }
+    .lede { color: var(--muted); font-size: 14px; }
+    .panel {
+      border: 1px solid var(--line); border-radius: 12px; background: var(--card);
+      padding: 14px; margin: 16px 0;
+    }
+    .q {
+      width: 100%; box-sizing: border-box; margin-bottom: 10px;
+      padding: 10px 12px; font-size: 16px; font-family: inherit;
+      border: 1px solid var(--line); border-radius: 8px;
+      background: var(--bg); color: var(--fg);
+    }
+    .row { display: flex; flex-wrap: wrap; gap: 8px; }
+    .row + .row { margin-top: 8px; }
+    select {
+      flex: 1; min-width: 130px; padding: 7px 10px; font-size: 14px; font-family: inherit;
+      border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg);
+    }
+    .tabs { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+    .tabs button {
+      border: 0; background: var(--bg); color: var(--fg);
+      padding: 7px 13px; font-size: 14px; cursor: pointer; font-family: inherit;
+    }
+    .tabs button + button { border-left: 1px solid var(--line); }
+    .tabs button.on { background: var(--accent); color: #fff; }
+    .toggle {
+      display: flex; align-items: center; gap: 6px; font-size: 14px;
+      padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px;
+      background: var(--bg); cursor: pointer; white-space: nowrap;
+    }
+    .count { font-size: 13px; color: var(--muted); margin: 0 0 10px; }
+    .list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+    .card { border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
+    .card a { display: block; padding: 12px 14px; text-decoration: none; color: inherit; }
+    .card .meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+    .card .name { font-weight: 700; margin: 3px 0 2px; font-size: 15px; }
+    .card .when { font-size: 14px; }
+    .card .where { font-size: 13px; color: var(--muted); }
+    .morebtn {
+      width: 100%; padding: 10px; font-size: 14px; font-family: inherit; cursor: pointer;
+      border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg);
+    }
+  </style>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const results = $('results');
+    const status = $('status');
+    const morePara = $('more');
+    const PAGE = 60; // 一度に描く件数。4000 件を一気に描くと固まる
+
+    let all = [];
+    let shown = 0;
+    let matched = [];
+    let range = 'upcoming';
+
+    const iso = (d) => d.toISOString().slice(0, 10);
+    const today = iso(new Date());
+
+    function weekendRange() {
+      const now = new Date();
+      const dow = now.getDay();
+      const toFri = (5 - dow + 7) % 7;
+      const fri = new Date(now);
+      fri.setDate(now.getDate() + (dow === 0 ? -2 : toFri));
+      const sun = new Date(fri);
+      sun.setDate(fri.getDate() + 2);
+      return [iso(fri), iso(sun)];
+    }
+
+    const fmt = (dates) => {
+      if (!dates?.length) return '日程未確認';
+      const w = ['日', '月', '火', '水', '木', '金', '土'];
+      const one = (s) => {
+        const d = new Date(`${s}T00:00:00+09:00`);
+        return `${d.getMonth() + 1}月${d.getDate()}日(${w[d.getDay()]})`;
+      };
+      return dates.length === 1 ? one(dates[0]) : `${one(dates[0])}〜${one(dates.at(-1))}`;
+    };
+
+    /** 都道府県の選択肢を地方でしぼる */
+    function syncPref() {
+      const r = $('region').value;
+      for (const o of $('pref').options) {
+        if (!o.value) continue;
+        o.hidden = Boolean(r) && o.dataset.region !== r;
+      }
+      if (r && $('pref').selectedOptions[0]?.dataset.region !== r) $('pref').value = '';
+    }
+
+    /** 市区町村の選択肢は、選ばれている都道府県のものだけ作る */
+    function syncCity() {
+      const p = $('pref').value;
+      const city = $('city');
+      const cur = city.value;
+      city.innerHTML = '<option value="">市区町村：すべて</option>';
+      if (!p) { city.disabled = true; return; }
+      city.disabled = false;
+      const names = [...new Set(all.filter((x) => x.p === p).map((x) => x.c))].sort();
+      for (const n of names) {
+        const o = document.createElement('option');
+        o.value = n; o.textContent = n;
+        city.appendChild(o);
+      }
+      if (names.includes(cur)) city.value = cur;
+    }
+
+    function render(reset) {
+      if (reset) { results.innerHTML = ''; shown = 0; }
+      const slice = matched.slice(shown, shown + PAGE);
+      const html = slice.map((x) => `
+        <li class="card">
+          <a href="/f/${x.i}">
+            <div class="meta">
+              <span class="badge">${x.k}</span>
+              <span>${x.p} ${x.c}${x.w ? ' ' + x.w : ''}</span>
+              ${x.s ? '<span class="badge stalls">屋台あり</span>' : ''}
+            </div>
+            <div class="name">${x.n}</div>
+            <div class="when">${fmt(x.d)}</div>
+            <div class="where">${x.v}</div>
+          </a>
+        </li>`).join('');
+      results.insertAdjacentHTML('beforeend', html);
+      shown += slice.length;
+      morePara.hidden = shown >= matched.length;
+    }
+
+    function apply() {
+      const [wStart, wEnd] = weekendRange();
+      const words = $('q').value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      const region = $('region').value;
+      const pref = $('pref').value;
+      const city = $('city').value;
+      const month = $('month').value;
+      const kind = $('kind').value;
+      const onlyStalls = $('stalls').checked;
+
+      matched = all.filter((x) => {
+        if (region && x.r !== region) return false;
+        if (pref && x.p !== pref) return false;
+        if (city && x.c !== city) return false;
+        if (kind && x.k !== kind) return false;
+        if (onlyStalls && !x.s) return false;
+        if (month && !x.d.some((d) => d.slice(5, 7) === month)) return false;
+        if (range === 'upcoming' && !(x.d.at(-1) >= today)) return false;
+        if (range === 'weekend' && !(x.d[0] <= wEnd && x.d.at(-1) >= wStart)) return false;
+        if (words.length) {
+          const hay = `${x.n} ${x.v} ${x.c} ${x.w ?? ''} ${x.p}`.toLowerCase();
+          if (!words.every((w) => hay.includes(w))) return false;
+        }
+        return true;
+      });
+
+      // 近い順。日付が無いものは後ろ
+      const next = (x) => x.d.find((d) => d >= today) ?? x.d.at(-1) ?? '9999';
+      if (range !== 'all') matched.sort((a, b) => next(a).localeCompare(next(b)));
+
+      status.textContent = matched.length
+        ? `${matched.length} 件`
+        : '条件に合う祭りがありません。期間を「すべて」にすると終わった回も見られます。';
+      render(true);
+    }
+
+    for (const t of document.querySelectorAll('.tabs button')) {
+      t.addEventListener('click', () => {
+        document.querySelectorAll('.tabs button').forEach((x) => x.classList.toggle('on', x === t));
+        range = t.dataset.range;
+        apply();
+      });
+    }
+    $('q').addEventListener('input', apply);
+    $('region').addEventListener('change', () => { syncPref(); syncCity(); apply(); });
+    $('pref').addEventListener('change', () => { syncCity(); apply(); });
+    for (const id of ['city', 'month', 'kind', 'stalls']) $(id).addEventListener('change', apply);
+    // 月を選んだのに「これから」のままだと、過ぎた月で 0 件になる
+    $('month').addEventListener('change', () => {
+      if ($('month').value && range !== 'all') {
+        range = 'all';
+        document.querySelectorAll('.tabs button').forEach((x) => x.classList.toggle('on', x.dataset.range === 'all'));
+        apply();
+      }
+    });
+    $('moreBtn').addEventListener('click', () => render(false));
+
+    /**
+     * URL に ?pref=東京都&city=足立区 が付いていたら反映する（エリアページからの導線）。
+     * **市区町村は都道府県を選んでから選択肢を作る**ので、順番を守ること。
+     * 先に city を入れても、選択肢が無いので消える。
+     */
+    function fromUrl() {
+      const q = new URLSearchParams(location.search);
+      for (const [k, id] of [['q', 'q'], ['region', 'region'], ['pref', 'pref'], ['kind', 'kind']]) {
+        if (q.get(k)) $(id).value = q.get(k);
+      }
+      if (q.get('stalls')) $('stalls').checked = true;
+      syncPref();
+      syncCity();
+      if (q.get('city')) $('city').value = q.get('city');
+    }
+
+    fetch('/index.json')
+      .then((r) => r.json())
+      .then((rows) => {
+        all = rows;
+        fromUrl();
+        apply();
+      })
+      .catch(() => { status.textContent = '読み込めませんでした。時間をおいて開き直してください。'; });
+  </script>
+</Base>

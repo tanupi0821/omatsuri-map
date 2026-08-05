@@ -1,0 +1,29 @@
+id: fukui-001-summer-ar0518e4801
+name: 永平寺町大燈籠ながし
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福井県
+  city: 吉田郡永平寺町
+  ward: null
+venue:
+  name: 九頭竜川左岸および永平寺河川公園
+  address: 吉田郡永平寺町谷口
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0518e4801/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04

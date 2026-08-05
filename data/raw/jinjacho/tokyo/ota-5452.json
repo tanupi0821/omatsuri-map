@@ -1,0 +1,21 @@
+{
+ "id": "ota-5452",
+ "url": "http://www.tokyo-jinjacho.or.jp/ota/5452",
+ "name": "鵜ノ木八幡神社",
+ "zip": "146-0084",
+ "address": "大田区南久が原2-24-1",
+ "addressParts": [
+  "大田区",
+  "南久が原2-24-1"
+ ],
+ "city": "大田区",
+ "citySlugHint": "ota",
+ "station": "東急池上線「久が原駅」 5分",
+ "festivals": [
+  {
+   "date": "9月第2日曜",
+   "name": "例祭",
+   "alias": null
+  }
+ ]
+}

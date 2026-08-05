@@ -1,0 +1,32 @@
+id: isogo-goguynet-24247
+name: 夏限定の夏祭り台
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 磯子区
+venue:
+  name: 横浜市磯子区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-08-11
+      - 2026-07-19
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamakanazawa-isogo.goguynet.jp/2026/07/15/tsukamoyo_isogo/
+    source_name: 号外NET 横浜市磯子区・金沢区
+    source_type: media
+    checked_at: 2026-08-04
