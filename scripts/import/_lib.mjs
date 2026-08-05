@@ -148,7 +148,20 @@ export function patch(id, ch) {
   for (const k of SCALAR_KEYS) {
     if (ch[k] != null) f[k] = ch[k];
   }
-  if (ch.links) f.links = uniq([...(f.links ?? []), ...ch.links]);
+  // リンクは URL で重ならないようにする。
+  // **Set では {title,url} の重複を落とせない**（別のオブジェクトは常に別物扱い）。
+  // enrich を流すたびに同じリンクが積み上がり、1 件に 15 本並んでいた。
+  // 素の文字列と {title,url} が同じ URL を指していたら、題のある方を残す
+  if (ch.links) {
+    const byUrl = new Map();
+    for (const l of [...(f.links ?? []), ...ch.links]) {
+      const url = typeof l === 'string' ? l : l?.url;
+      if (!url) continue;
+      const prev = byUrl.get(url);
+      if (!prev || (typeof prev === 'string' && typeof l === 'object')) byUrl.set(url, l);
+    }
+    f.links = [...byUrl.values()];
+  }
   // 写真は既定では足すだけ。誤って付いたものを外すときは photos_set で置き換える
   if (ch.photos) {
     const have = new Set((f.photos ?? []).map((p) => p.url));
