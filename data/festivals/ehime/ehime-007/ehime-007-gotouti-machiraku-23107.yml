@@ -1,0 +1,29 @@
+id: ehime-007-gotouti-machiraku-23107
+name: 門前土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 松山ロープウェー商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machiraku.net/matsuyama-monzen-doyoyoichi-2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

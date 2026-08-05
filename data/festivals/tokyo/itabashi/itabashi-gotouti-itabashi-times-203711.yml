@@ -1,0 +1,30 @@
+id: itabashi-gotouti-itabashi-times-203711
+name: 高一町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 高島第六小学校
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://itabashi-times.com/archives/takaichi-bonodori2026.html
+    source_name: いたばしTIMES
+    source_type: media
+    checked_at: 2026-08-06

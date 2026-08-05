@@ -1,0 +1,29 @@
+id: tokyo-703-gotouti-mu-navi-92676
+name: 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 武蔵野市
+  ward: null
+venue:
+  name: 中央図書館前庭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 15:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://mu-navi.com/noryo-bonodori2026/
+    source_name: むーなび
+    source_type: media
+    checked_at: 2026-08-06

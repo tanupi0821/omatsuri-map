@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-55591
+name: あおば夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 梨風公園
+  address: null
+  lat: null
+  lng: null
+organizer: あおば子ども会・梨風苑自治会・南大野2丁目自治会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55591
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

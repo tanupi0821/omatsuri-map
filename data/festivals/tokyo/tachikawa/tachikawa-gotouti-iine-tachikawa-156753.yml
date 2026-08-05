@@ -1,0 +1,29 @@
+id: tachikawa-gotouti-iine-tachikawa-156753
+name: つむぐ桜まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 『つむぐひろば』で開催中
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://iine-tachikawa.net/topics/event/156753/
+    source_name: いいね！立川
+    source_type: media
+    checked_at: 2026-08-06

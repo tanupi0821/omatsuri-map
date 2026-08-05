@@ -1,0 +1,29 @@
+id: kashiwa-gotouti-kashiwa-tsushin-26189
+name: 手賀沼花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: イオンモール柏
+  address: 柏市豊町2-5-25
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/26189.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: osaka-019-gotouti-neyagawa-np-276927
+name: びわ湖大花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.neyagawa-np.jp/hitokoto/biwako-20260519.html
+    source_name: マチコロ寝屋川
+    source_type: media
+    checked_at: 2026-08-06

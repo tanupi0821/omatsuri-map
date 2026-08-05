@@ -1181,6 +1181,10 @@ cities:
     slug: okayama-002
   - name: 岡山市
     slug: okayama-701
+  - name: 美咲町
+    slug: okayama-702
+  - name: 奈義町
+    slug: okayama-703
 ---
 pref: 沖縄県
 cities:
@@ -1321,6 +1325,8 @@ cities:
     slug: osaka-701
   - name: 大阪市
     slug: osaka-702
+  - name: 熊取町
+    slug: osaka-703
 ---
 pref: 佐賀県
 cities:

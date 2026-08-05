@@ -1,0 +1,30 @@
+id: shizuoka-020-gotouti-fuji-miru-28566
+name: 吉原祇園祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 静岡県
+  city: 富士市
+  ward: null
+venue:
+  name: 吉原商店街・吉原本町通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+      - 2026-06-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fuji-miru.com/gionsai/
+    source_name: フジみる
+    source_type: media
+    checked_at: 2026-08-06

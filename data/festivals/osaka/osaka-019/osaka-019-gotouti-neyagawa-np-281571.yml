@@ -1,0 +1,29 @@
+id: osaka-019-gotouti-neyagawa-np-281571
+name: 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 17:30
+    end_time: 21:15
+    status: confirmed
+    source_url: https://www.neyagawa-np.jp/hitokoto/otoshi-20260712.html
+    source_name: マチコロ寝屋川
+    source_type: media
+    checked_at: 2026-08-06

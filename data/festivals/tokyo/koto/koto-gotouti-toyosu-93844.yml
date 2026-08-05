@@ -1,0 +1,29 @@
+id: koto-gotouti-toyosu-93844
+name: 隅田川花火大会2026
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 桜橋下流～言問橋上流
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 19:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://toyosu.tokyo/event/sumidagawa-hanabi-2026-info/
+    source_name: とよすと
+    source_type: media
+    checked_at: 2026-08-06

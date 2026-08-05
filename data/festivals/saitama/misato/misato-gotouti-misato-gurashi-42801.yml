@@ -1,0 +1,29 @@
+id: misato-gotouti-misato-gurashi-42801
+name: 谷口南町会 納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 三郷市
+  ward: null
+venue:
+  name: 中央一丁目公園
+  address: 三郷市中央1-21-8
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://misato-gurashi.com/2026071405.html
+    source_name: 三郷ぐらし
+    source_type: media
+    checked_at: 2026-08-06

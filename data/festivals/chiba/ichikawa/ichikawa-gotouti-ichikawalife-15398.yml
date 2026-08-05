@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-15398
+name: こども縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: シャポー市川
+  address: 市川市市川1-1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-28
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://ichikawalife.com/shapo-kodomo-ennichi/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: shizuoka-020-gotouti-wasabee-media-19683044
+name: 富士まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 静岡県
+  city: 富士市
+  ward: null
+venue:
+  name: 中央公園／青葉通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://wasabee.media/articles/19683044/
+    source_name: Wasabee
+    source_type: media
+    checked_at: 2026-08-06

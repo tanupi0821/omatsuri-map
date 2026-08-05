@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-52972
+name: 第51回江戸川区花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 江戸川河川敷（大洲三丁目地先）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:15
+    end_time: 20:20
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/52972
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: hyogo-001-gotouti-akashitowns-25573
+name: パピオスあかしの夏まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: パピオスあかし2階
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 11:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://akashitowns.com/event/25573/
+    source_name: 明石たうんず
+    source_type: media
+    checked_at: 2026-08-06

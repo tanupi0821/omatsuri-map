@@ -1,0 +1,29 @@
+id: sakado-gotouti-saitama-city-marathon-166775
+name: 釈尊降誕祭（花まつり）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 坂戸市
+  ward: null
+venue:
+  name: 永源寺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/04/26/sakadosi-508/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06

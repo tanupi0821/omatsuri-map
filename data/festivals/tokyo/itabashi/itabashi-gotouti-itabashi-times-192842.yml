@@ -1,0 +1,29 @@
+id: itabashi-gotouti-itabashi-times-192842
+name: なかいた縁日 九の市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 板橋区中板橋15-3付近
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-29
+    start_time: 15:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://itabashi-times.com/archives/nakaitabashi-9noichi.html
+    source_name: いたばしTIMES
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichi-24-55354
+name: ソフトタウン行徳夏祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: ソフトタウン行徳B棟
+  address: 市川市日之出22-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55354
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

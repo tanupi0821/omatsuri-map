@@ -1,0 +1,29 @@
+id: hokkaido-024-gotouti-ebetsunopporo-55145
+name: えべつ花火 10th ANNIVERSARY 大輪祭
+kind: 花火
+scale: 地区
+area:
+  pref: 北海道
+  city: 江別市
+  ward: null
+venue:
+  name: 変更【重要】
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ebetsunopporo.com/?p=55145
+    source_name: えべナビ！
+    source_type: media
+    checked_at: 2026-08-06

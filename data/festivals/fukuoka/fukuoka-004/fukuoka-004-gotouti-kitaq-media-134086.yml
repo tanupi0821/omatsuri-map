@@ -1,0 +1,30 @@
+id: fukuoka-004-gotouti-kitaq-media-134086
+name: 遅咲き桜のアゲハイ祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-24
+      - 2026-04-25
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kitaq.media/134086/
+    source_name: 北九州ノコト
+    source_type: media
+    checked_at: 2026-08-06

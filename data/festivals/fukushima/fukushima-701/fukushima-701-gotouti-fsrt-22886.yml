@@ -1,0 +1,29 @@
+id: fukushima-701-gotouti-fsrt-22886
+name: なみえ夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福島県
+  city: 浪江町
+  ward: null
+venue:
+  name: 浪江町ふれあい交流センター駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 15:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://www.fsrt.jp/now/no3/22886.html
+    source_name: 福島相双復興推進機構（今ここ ふくしまの復興）
+    source_type: media
+    checked_at: 2026-08-06

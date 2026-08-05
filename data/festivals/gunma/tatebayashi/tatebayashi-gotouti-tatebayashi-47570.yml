@@ -1,0 +1,30 @@
+id: tatebayashi-gotouti-tatebayashi-47570
+name: 第55回館林まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 館林市
+  ward: null
+venue:
+  name: 館林市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tatebayashi.info/event-tatebayashi-20260718_19
+    source_name: 館林くらし
+    source_type: media
+    checked_at: 2026-08-06

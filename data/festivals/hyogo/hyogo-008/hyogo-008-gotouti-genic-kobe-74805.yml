@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-genic-kobe-74805
+name: 第43回 元町夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 神戸元町商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://genic-kobe.com/my4332/
+    source_name: GENIC KOBE
+    source_type: media
+    checked_at: 2026-08-06

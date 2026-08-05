@@ -1,0 +1,29 @@
+id: hokkaido-022-gotouti-tomakomai-fun-13469
+name: ゆうふつ花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 場所は昨年同様に勇払マリーナ特設会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.fun/events/yufutsu-hanabi/
+    source_name: とまこまいFUN
+    source_type: media
+    checked_at: 2026-08-06

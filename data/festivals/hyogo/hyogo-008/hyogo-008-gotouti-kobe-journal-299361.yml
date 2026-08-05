@@ -1,0 +1,30 @@
+id: hyogo-008-gotouti-kobe-journal-299361
+name: 兵庫北播磨縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 兵庫県立播磨中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-25
+      - 2026-04-26
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/3556593933.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: misato-gotouti-misato-gurashi-43025
+name: 第9回 どけん夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 三郷市
+  ward: null
+venue:
+  name: 埼玉土建三郷支部
+  address: 三郷市中央3-2-10
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 12:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://misato-gurashi.com/2026072703.html
+    source_name: 三郷ぐらし
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: kohoku-gotouti-tsunashima-love-42969
+name: 綱島諏訪神社御祭礼
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港北区
+venue:
+  name: 綱島駅前
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tsunashima.love/festival/tsunashima-suwajinja-gosairei2026/
+    source_name: 綱島ニュース（仮）
+    source_type: media
+    checked_at: 2026-08-06

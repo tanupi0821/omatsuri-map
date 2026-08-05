@@ -1,0 +1,29 @@
+id: kyoto-701-gotouti-alco-uj-148514
+name: 宇治駐屯地納涼夏祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 京都府
+  city: 宇治市
+  ward: null
+venue:
+  name: 陸上自衛隊
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: 16:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://alco-uj.com/event-uji20260618/
+    source_name: ALCO 宇治・城陽
+    source_type: media
+    checked_at: 2026-08-06

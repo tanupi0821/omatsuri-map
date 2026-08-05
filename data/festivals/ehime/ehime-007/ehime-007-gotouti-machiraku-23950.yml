@@ -1,0 +1,29 @@
+id: ehime-007-gotouti-machiraku-23950
+name: 土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 花園町通り
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://machiraku.net/ojoka-marche-202607/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

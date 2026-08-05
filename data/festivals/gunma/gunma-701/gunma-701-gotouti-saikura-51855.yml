@@ -1,0 +1,30 @@
+id: gunma-701-gotouti-saikura-51855
+name: 境ふるさとまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 伊勢崎市
+  ward: null
+venue:
+  name: 境町駅前通り周辺
+  address: null
+  lat: null
+  lng: null
+organizer: 境ふるさとまつり実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+      - 2026-09-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saikura.info/sakai-furusato-matsuri-2026/
+    source_name: さいくら
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: miyagi-002-gotouti-sendai-tushin-515132
+name: 川崎夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 【入場無料】
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/07/05/post-515132/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

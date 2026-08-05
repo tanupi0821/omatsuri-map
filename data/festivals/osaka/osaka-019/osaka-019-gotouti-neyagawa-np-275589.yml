@@ -1,0 +1,29 @@
+id: osaka-019-gotouti-neyagawa-np-275589
+name: 第5回 水都くらわんか花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.neyagawa-np.jp/hitokoto/kurawanka-20260505.html
+    source_name: マチコロ寝屋川
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: kumagaya-gotouti-saitama-city-marathon-176253
+name: 籠原夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 熊谷市
+  ward: null
+venue:
+  name: 籠原駅北口周辺・駅前ロータリー
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/07/04/kumagayasi-269/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06

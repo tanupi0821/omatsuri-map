@@ -1,0 +1,29 @@
+id: ehime-007-gotouti-machiraku-23100
+name: 松山中央商店街 土曜夜市2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 大街道・銀天街・まつちかタウン
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machiraku.net/matsuyama-chuoshotengai-doyoyoichi-2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

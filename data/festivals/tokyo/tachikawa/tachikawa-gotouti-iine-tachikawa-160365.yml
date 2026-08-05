@@ -1,0 +1,29 @@
+id: tachikawa-gotouti-iine-tachikawa-160365
+name: 立川まつり昭和記念公園花火大会 2026
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 取りに重要なのが昭和記念公園の
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://iine-tachikawa.net/topics/event/160365/
+    source_name: いいね！立川
+    source_type: media
+    checked_at: 2026-08-06

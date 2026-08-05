@@ -1,0 +1,29 @@
+id: itabashi-gotouti-itabashi-times-199782
+name: 第67回いたばし花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 板橋区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://itabashi-times.com/archives/hanabi-kitchen-car2026.html
+    source_name: いたばしTIMES
+    source_type: media
+    checked_at: 2026-08-06

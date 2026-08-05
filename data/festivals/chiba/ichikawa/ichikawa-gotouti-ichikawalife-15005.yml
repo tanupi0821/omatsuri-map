@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-15005
+name: I-Linkタウン いちかわ MALLS祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: イベント名：I-Linkタウン
+  address: 市川市市川南1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-07
+    start_time: 10:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://ichikawalife.com/ilinktown-malls-fes/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

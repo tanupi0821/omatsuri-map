@@ -1,0 +1,29 @@
+id: itabashi-gotouti-itabashi-times-198013
+name: なかいたへそ祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 中板橋商店街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://itabashi-times.com/archives/nakaita-summerfes2026.html
+    source_name: いたばしTIMES
+    source_type: media
+    checked_at: 2026-08-06

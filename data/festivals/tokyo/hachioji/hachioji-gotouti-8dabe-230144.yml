@@ -1,0 +1,29 @@
+id: hachioji-gotouti-8dabe-230144
+name: 八王子花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 八王子市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 13:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://8dabe.com/2026/07/29/twins-crepe/
+    source_name: 八王子ジャーニー
+    source_type: media
+    checked_at: 2026-08-06

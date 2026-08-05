@@ -1,0 +1,29 @@
+id: niigata-009-gotouti-niikei-2067672
+name: 長岡まつり大花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: ベンチ席）に応募できる
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.niikei.jp/2067672/
+    source_name: にいがた経済新聞
+    source_type: media
+    checked_at: 2026-08-06

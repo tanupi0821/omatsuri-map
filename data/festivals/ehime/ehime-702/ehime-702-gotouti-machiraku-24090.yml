@@ -1,0 +1,29 @@
+id: ehime-702-gotouti-machiraku-24090
+name: 子ザメちゃんのたのSEAさつえいかい&おでかけ縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松前町
+  ward: null
+venue:
+  name: エミフルMASAKI
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://machiraku.net/emifull-kozamechan-2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

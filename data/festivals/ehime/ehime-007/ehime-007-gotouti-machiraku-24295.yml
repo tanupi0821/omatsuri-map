@@ -1,0 +1,29 @@
+id: ehime-007-gotouti-machiraku-24295
+name: 第74回 松山港まつり 三津浜花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 交通案内・有料席案内｜三津浜花火大会
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machiraku.net/mitsuhama-fireworks-2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

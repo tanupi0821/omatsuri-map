@@ -1,0 +1,29 @@
+id: hachioji-gotouti-tamapon-72340
+name: 八王子花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 富士森公園（八王子市台町2-2）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:00
+    end_time: 20:15
+    status: confirmed
+    source_url: https://tamapon.com/2026/06/12/hachioji-hanabi2026/
+    source_name: 多摩ポン
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,31 @@
+id: tottori-002-gotouti-tottorinoto-40520
+name: 土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 鳥取県
+  city: 鳥取市
+  ward: null
+venue:
+  name: 鳥取本通商店街エリア（まちパル鳥取〜若桜橋）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-25
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://tottorinoto.com/doyouyoiti2026/
+    source_name: とっとりのーと
+    source_type: media
+    checked_at: 2026-08-06

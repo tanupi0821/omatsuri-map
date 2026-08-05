@@ -1,0 +1,30 @@
+id: koto-gotouti-toyosu-93500
+name: 晴海ふ頭公園盆踊り大会2026
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 深川第五中学校）は
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyosu.tokyo/event/harumifutopark-bonodori-2026-info/
+    source_name: とよすと
+    source_type: media
+    checked_at: 2026-08-06

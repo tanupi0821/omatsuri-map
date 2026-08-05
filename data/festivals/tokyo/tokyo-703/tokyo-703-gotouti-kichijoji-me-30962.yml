@@ -1,0 +1,30 @@
+id: tokyo-703-gotouti-kichijoji-me-30962
+name: 吉祥寺ふれあい夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 武蔵野市
+  ward: null
+venue:
+  name: 東急百貨店吉祥寺店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+    start_time: 12:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kichijoji.me/column/event/summer-festival-tokyu20250709/
+    source_name: 吉祥寺.me
+    source_type: media
+    checked_at: 2026-08-06

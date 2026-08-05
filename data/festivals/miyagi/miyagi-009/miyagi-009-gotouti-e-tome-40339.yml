@@ -1,0 +1,30 @@
+id: miyagi-009-gotouti-e-tome-40339
+name: 第74回 気仙沼みなとまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 登米市
+  ward: null
+venue:
+  name: 気仙沼市
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://e-tome.info/articles/kesennumaminatomatsuri/
+    source_name: e-tomeINFO
+    source_type: media
+    checked_at: 2026-08-06

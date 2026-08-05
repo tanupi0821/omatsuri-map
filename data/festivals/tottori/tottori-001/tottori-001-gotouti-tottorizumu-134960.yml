@@ -1,0 +1,29 @@
+id: tottori-001-gotouti-tottorizumu-134960
+name: 土曜夜市2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 鳥取県
+  city: 米子市
+  ward: null
+venue:
+  name: 元町通り商店街～法勝寺通り商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 土曜夜市実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://tottorizumu.com/yonagodoyoyoiti/
+    source_name: とっとりずむ
+    source_type: media
+    checked_at: 2026-08-06

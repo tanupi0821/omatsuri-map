@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-6659
+name: ビールワインまつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 市川駅前西通り商店会
+  address: 市川市市川1丁目周辺
+  lat: null
+  lng: null
+organizer: 市川駅前西通り商店会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: 12:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://ichikawalife.com/beerwine-fes/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

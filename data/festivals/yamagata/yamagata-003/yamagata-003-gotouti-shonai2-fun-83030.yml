@@ -1,0 +1,29 @@
+id: yamagata-003-gotouti-shonai2-fun-83030
+name: 庄内三大まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 山形県
+  city: 鶴岡市
+  ward: null
+venue:
+  name: 鶴岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-05
+    start_time: 11:30
+    end_time: 16:00
+    status: confirmed
+    source_url: https://shonai2.fun/wadai-oz-20260603/
+    source_name: ショーナイツウ!!
+    source_type: media
+    checked_at: 2026-08-06

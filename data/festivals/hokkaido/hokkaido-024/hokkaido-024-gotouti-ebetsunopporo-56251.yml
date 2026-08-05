@@ -1,0 +1,29 @@
+id: hokkaido-024-gotouti-ebetsunopporo-56251
+name: えべつ農業まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 北海道
+  city: 江別市
+  ward: null
+venue:
+  name: 江別市役所前
+  address: 江別市高砂町6
+  lat: null
+  lng: null
+organizer: ・事務局：えべつ農業まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 10:00
+    end_time: 14:00
+    status: confirmed
+    source_url: https://ebetsunopporo.com/?p=56251
+    source_name: えべナビ！
+    source_type: media
+    checked_at: 2026-08-06

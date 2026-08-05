@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-320932
+name: 半夏生七夕夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 魚の棚商店街とその付近
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 16:30
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/5227854575.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

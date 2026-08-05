@@ -1,0 +1,29 @@
+id: koto-gotouti-toyosu-93223
+name: 江東花火大会2026
+kind: 花火
+scale: 地区
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyosu.tokyo/event/koto-fireworks-fes-2026-free-ticket/
+    source_name: とよすと
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: nagano-013-gotouti-web-komachi-296240
+name: 第52回夏まつり松本ぼんぼん
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 長野県
+  city: 松本市
+  ward: null
+venue:
+  name: 長野県松本市中心街
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=296240
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: kyoto-701-gotouti-alco-uj-149468
+name: スマイルサタデー クラフトビール夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 京都府
+  city: 宇治市
+  ward: null
+venue:
+  name: 京都府立宇治公園・宇治川周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://alco-uj.com/event-uji20260723/
+    source_name: ALCO 宇治・城陽
+    source_type: media
+    checked_at: 2026-08-06

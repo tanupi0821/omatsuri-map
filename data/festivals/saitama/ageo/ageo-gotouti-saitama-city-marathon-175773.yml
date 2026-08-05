@@ -1,0 +1,29 @@
+id: ageo-gotouti-saitama-city-marathon-175773
+name: 恐竜ミスト大ぼうけん&恐竜ひんやり縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 上尾市
+  ward: null
+venue:
+  name: アリオ上尾
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 10:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/06/30/ageosi-449/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06

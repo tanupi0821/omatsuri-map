@@ -1,0 +1,30 @@
+id: fukuoka-012-gotouti-twitfukuoka-410119
+name: おおむた大蛇山まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 大牟田市
+  ward: null
+venue:
+  name: 大牟田市大正町一帯
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://twitfukuoka.com/?p=410119
+    source_name: 福岡のニュース
+    source_type: media
+    checked_at: 2026-08-06

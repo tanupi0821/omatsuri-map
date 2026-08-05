@@ -1,0 +1,29 @@
+id: hokkaido-002-gotouti-otaru-journal-125502
+name: 住吉神社例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 小樽市
+  ward: null
+venue:
+  name: 小樽市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.otaru-journal.com/2026/07/post-125502/
+    source_name: 小樽ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

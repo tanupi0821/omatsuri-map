@@ -1,0 +1,29 @@
+id: katsushika-gotouti-katsushika-tsushin-29014
+name: 水元小合新町町会 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 熊野公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://katsushika-tsushin.com/29014.html
+    source_name: 葛飾つうしん
+    source_type: media
+    checked_at: 2026-08-06

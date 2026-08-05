@@ -1,0 +1,29 @@
+id: kumagaya-gotouti-saikura-51085
+name: 第74回熊谷花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 熊谷市
+  ward: null
+venue:
+  name: 荒川河畔（荒川大橋下流側）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://saikura.info/event-kumagaya-hanabi-2026/
+    source_name: さいくら
+    source_type: media
+    checked_at: 2026-08-06

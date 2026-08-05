@@ -1,0 +1,29 @@
+id: nagano-002-gotouti-web-komachi-290451
+name: 第19回 善光寺表参道夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 長野県
+  city: 長野市
+  ward: null
+venue:
+  name: 長野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=290451
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

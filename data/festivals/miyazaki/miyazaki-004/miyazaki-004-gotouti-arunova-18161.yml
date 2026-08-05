@@ -1,0 +1,29 @@
+id: miyazaki-004-gotouti-arunova-18161
+name: 佐土原夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮崎県
+  city: 宮崎市
+  ward: null
+venue:
+  name: 宮崎市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arunova.com/sadowara-natsumatsuri/
+    source_name: アルノバ
+    source_type: media
+    checked_at: 2026-08-06

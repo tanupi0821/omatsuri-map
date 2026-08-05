@@ -1,0 +1,29 @@
+id: chiba-701-gotouti-jimoharu-23803
+name: 幕張ビーチ花火フェスタ2026（第48回千葉市民花火大会）
+kind: 花火
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市原市
+  ward: null
+venue:
+  name: 市原市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://jimoharu.net/makuhari-hanabi-2026/
+    source_name: ジモはる
+    source_type: media
+    checked_at: 2026-08-06

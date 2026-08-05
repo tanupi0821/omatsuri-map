@@ -1,0 +1,30 @@
+id: ichikawa-gotouti-ichi-24-55346
+name: 新田2・3丁目自治会 納涼盆踊り大会（2026）
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 新田南公園（市川市新田3-15-2）
+  address: null
+  lat: null
+  lng: null
+organizer: 新田2・3丁目自治会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55346
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06

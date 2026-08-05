@@ -1,0 +1,29 @@
+id: ishioka-gotouti-kitakanto-localbook-5066
+name: 石岡 春の獅子祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 茨城県
+  city: 石岡市
+  ward: null
+venue:
+  name: 石岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakanto.localbook.work/2026/04/22/ishioka-harunoshishimatsuri/
+    source_name: 北関東ITトレンド
+    source_type: media
+    checked_at: 2026-08-06

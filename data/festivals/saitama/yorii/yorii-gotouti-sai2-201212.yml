@@ -1,0 +1,29 @@
+id: yorii-gotouti-sai2-201212
+name: 寄居玉淀水天宮祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 寄居町
+  ward: null
+venue:
+  name: 玉淀河原
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sai2.info/archives/20260731-01.html
+    source_name: 埼北つうしん
+    source_type: media
+    checked_at: 2026-08-06

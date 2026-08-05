@@ -1,0 +1,29 @@
+id: osaka-028-gotouti-toyo-2-234748
+name: 豊中駅前 七夕まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 豊中市
+  ward: null
+venue:
+  name: 豊中市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 13:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://toyo-2.jp/archives/post-234748.html
+    source_name: TNN豊中報道。２
+    source_type: media
+    checked_at: 2026-08-06

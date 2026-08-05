@@ -1,0 +1,29 @@
+id: kashiwa-gotouti-kashiwa-tsushin-26088
+name: 逆井町会 納涼大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 逆井ふるさと会館広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/26088.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

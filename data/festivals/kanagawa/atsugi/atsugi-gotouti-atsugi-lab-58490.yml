@@ -1,0 +1,30 @@
+id: atsugi-gotouti-atsugi-lab-58490
+name: 第80回あつぎ鮎まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 厚木市
+  ward: null
+venue:
+  name: 厚木市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://atsugi-lab.com/news-ayumatsuri2026/
+    source_name: 厚木らぼ
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: hyogo-001-gotouti-akashitowns-37213
+name: 第6回 パパたこ夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: 宮西公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-23
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://akashitowns.com/event/37213/
+    source_name: 明石たうんず
+    source_type: media
+    checked_at: 2026-08-06

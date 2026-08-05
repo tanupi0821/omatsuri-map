@@ -1,0 +1,29 @@
+id: funabashi-gotouti-funabashi-tsushin-39015
+name: 第3回 船橋梨街道 梨まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 船橋市
+  ward: null
+venue:
+  name: 船橋梨街道
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-05
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://funabashi-tsushin.com/39015.html
+    source_name: 船橋つうしん
+    source_type: media
+    checked_at: 2026-08-06

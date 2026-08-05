@@ -1,0 +1,29 @@
+id: yamaguchi-009-gotouti-ube-toppin-plus-15253
+name: 新川市まつり(2026）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 山口県
+  city: 宇部市
+  ward: null
+venue:
+  name: 宇部市内
+  address: null
+  lat: null
+  lng: null
+organizer: 新川市まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ube-toppin-plus.com/shinkawaichimaturi2026/
+    source_name: Ubetoppin+
+    source_type: media
+    checked_at: 2026-08-06

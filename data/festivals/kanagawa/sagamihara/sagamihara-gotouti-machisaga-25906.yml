@@ -1,0 +1,29 @@
+id: sagamihara-gotouti-machisaga-25906
+name: 第74回さがみ湖湖上祭花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: null
+venue:
+  name: 神奈川県立相模湖公園（相模湖湖上）
+  address: 相模原市緑区与瀬317-1
+  lat: null
+  lng: null
+organizer: さがみ湖湖上祭花火大会実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 18:45
+    end_time: 20:40
+    status: confirmed
+    source_url: https://machisaga.jp/sagamiko-hanabi-2026/
+    source_name: まちさが
+    source_type: media
+    checked_at: 2026-08-06

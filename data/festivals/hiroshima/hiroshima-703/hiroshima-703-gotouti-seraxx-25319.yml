@@ -1,0 +1,29 @@
+id: hiroshima-703-gotouti-seraxx-25319
+name: 長寿つばきの里まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 広島県
+  city: 世羅町
+  ward: null
+venue:
+  name: 世羅町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://seraxx.net/sera-tyouzyutubakinosatomaturi2026/
+    source_name: せらっくす
+    source_type: media
+    checked_at: 2026-08-06

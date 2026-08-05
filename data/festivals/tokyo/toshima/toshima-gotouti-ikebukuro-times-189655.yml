@@ -1,0 +1,29 @@
+id: toshima-gotouti-ikebukuro-times-189655
+name: 第46回 巣鴨盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: JR巣鴨駅南口ロータリー
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ikebukuro-times.com/archives/sugamo-bonodori202607.html
+    source_name: 池袋タイムズ
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: osaka-005-gotouti-suichan-103879
+name: 高浜神社 春祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 吹田市
+  ward: null
+venue:
+  name: 吹田市内
+  address: 吹田市高浜町5番34号
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: 13:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://suichan.jp/open/2026/04/p=103879
+    source_name: 吹チャン！
+    source_type: media
+    checked_at: 2026-08-06

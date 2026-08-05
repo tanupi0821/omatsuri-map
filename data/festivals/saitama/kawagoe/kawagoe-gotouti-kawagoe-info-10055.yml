@@ -1,0 +1,29 @@
+id: kawagoe-gotouti-kawagoe-info-10055
+name: 百万灯夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川越市
+  ward: null
+venue:
+  name: 17:30～21:00
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawagoe-info.net/walk-kawagoe/hyakumanto
+    source_name: 川越　水先案内板
+    source_type: media
+    checked_at: 2026-08-06

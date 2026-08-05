@@ -1,0 +1,30 @@
+id: hyogo-002-gotouti-kakogawa-note-30179
+name: 縁日プリンセス＆プリンス
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古川市
+  ward: null
+venue:
+  name: 加古川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+      - 2026-06-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kakogawa-note.com/event/20260610-hyogokakogawaennichi2026/
+    source_name: かこがわノート
+    source_type: media
+    checked_at: 2026-08-06

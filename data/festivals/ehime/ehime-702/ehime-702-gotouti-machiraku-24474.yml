@@ -1,0 +1,29 @@
+id: ehime-702-gotouti-machiraku-24474
+name: フルギノフェスタ
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松前町
+  ward: null
+venue:
+  name: 松前町
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 10:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://machiraku.net/colorful-masaki-art-festival-2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

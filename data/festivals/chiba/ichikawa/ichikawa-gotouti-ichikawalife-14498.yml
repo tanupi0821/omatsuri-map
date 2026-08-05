@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-14498
+name: 大和田ふるさと祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 市川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichikawalife.com/oowada-furusato-matsuri/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

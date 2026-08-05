@@ -1,0 +1,29 @@
+id: toshima-gotouti-ikebukuro-times-184284
+name: 池袋熱帯夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: 東武百貨店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ikebukuro-times.com/archives/tobu-beergarden-2026.html
+    source_name: 池袋タイムズ
+    source_type: media
+    checked_at: 2026-08-06

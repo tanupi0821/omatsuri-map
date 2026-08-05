@@ -1,0 +1,29 @@
+id: osaka-014-gotouti-ikeda-minoh-7710
+name: 努(ゆめ)フェスタ第13回関西イベント21祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 箕面市
+  ward: null
+venue:
+  name: 箕面市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://ikeda-minoh.com/2026/06/07/minoh-event-yumefesta13/
+    source_name: 箕面・池田マガジン
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: tochigi-701-gotouti-tripre-36344
+name: 田沼初午祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 栃木県
+  city: 佐野市
+  ward: null
+venue:
+  name: 境内横
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tripre.jp/archives/36344
+    source_name: とりぷれ
+    source_type: media
+    checked_at: 2026-08-06

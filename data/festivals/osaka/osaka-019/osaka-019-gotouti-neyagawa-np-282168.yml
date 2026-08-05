@@ -1,0 +1,29 @@
+id: osaka-019-gotouti-neyagawa-np-282168
+name: 東寝屋川 夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.neyagawa-np.jp/hitokoto/yoruichi-20260721.html
+    source_name: マチコロ寝屋川
+    source_type: media
+    checked_at: 2026-08-06

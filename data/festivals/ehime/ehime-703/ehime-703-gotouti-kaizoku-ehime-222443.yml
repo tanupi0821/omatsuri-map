@@ -1,0 +1,29 @@
+id: ehime-703-gotouti-kaizoku-ehime-222443
+name: しおさい公園夕暮れ夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 伊予市
+  ward: null
+venue:
+  name: 伊予市しおさい公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kaizoku-ehime.jp/222443/
+    source_name: 海賊つうしん。
+    source_type: media
+    checked_at: 2026-08-06

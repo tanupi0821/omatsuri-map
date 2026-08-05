@@ -1,0 +1,29 @@
+id: aichi-007-gotouti-okanyu-66407
+name: 岡崎城下家康公夏まつり 第78回花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 乙川河畔・矢作川河畔
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://okanyu.jp/news/66407
+    source_name: 岡崎にゅーす
+    source_type: media
+    checked_at: 2026-08-06

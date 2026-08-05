@@ -1,0 +1,30 @@
+id: itabashi-gotouti-itabashi-times-204203
+name: 大山ハッピー夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 板橋区
+  ward: null
+venue:
+  name: 商店街中央マルエツクロス大山店前エリア
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://itabashi-times.com/archives/happyroad202608.html
+    source_name: いたばしTIMES
+    source_type: media
+    checked_at: 2026-08-06

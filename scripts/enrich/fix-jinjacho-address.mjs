@@ -47,6 +47,15 @@ const muniOf = (a) => (a ?? '').replace(/\s+/g, '').match(/^(.+?[市区町村])/
 /** 市区町村のすぐ後ろが数字＝町名が抜けている */
 const isTruncated = (a) => /^.+?[区市](?:\d|[０-９])/.test(a ?? '') || /^.+?区\d*丁目$/.test(a ?? '');
 
+/**
+ * **「島嶼」は市区町村名ではない。** 東京都神社庁は伊豆諸島・小笠原の神社を
+ * `/tosho/` の下にまとめていて、生データの `city` にその区分名が入る。
+ * 取り込みが `city + 番地` で住所を組んだ結果、
+ * 「島嶼大賀郷660-1」（正しくは八丈島八丈町大賀郷660-1）のような住所になっていた。
+ * 生データの `address` には正しい自治体名が入っている。
+ */
+const isBogusMuni = (a, rawCity) => !!rawCity && a.startsWith(rawCity) && !/[市区町村]$/.test(rawCity);
+
 let fixed = 0;
 const skipped = [];
 
@@ -60,10 +69,13 @@ const walk = (dir) => {
     if (!['official', 'gov'].includes(occ?.source_type)) continue;
 
     const cur = f.venue?.address;
-    if (!cur || !isTruncated(cur)) continue;
+    if (!cur) continue;
 
     const src = byUrl.get(occ.source_url);
-    if (!src) { skipped.push(`${f.id}（生データが見つからない）`); continue; }
+    if (!src) continue; // 生データの無いものは対象外（神社庁由来でなければ普通のこと）
+
+    const bogus = isBogusMuni(cur, src.city);
+    if (!isTruncated(cur) && !bogus) continue;
 
     // 生データの住所には「〒東京都大田区石川町1丁目」のように郵便記号や
     // 都道府県が付いていることがある。既存データの書き方（市区町村から始める）に揃える
@@ -71,10 +83,18 @@ const walk = (dir) => {
       .replace(/\s+/g, '')
       .replace(/^〒\s*\d{0,3}-?\d{0,4}/, '')
       .replace(/^(東京都|北海道|(?:京都|大阪)府|.{2,3}県)/, '');
-    // 自治体名が一致し、いまの住所が生データの末尾になっていること
-    const tail = cur.replace(muniOf(cur) ?? '', '');
-    if (muniOf(full) !== muniOf(cur) || !full.endsWith(tail)) {
+    // いまの住所から「自治体名（または誤って付いた区分名）」を取り除いた残りが、
+    // 生データの住所の末尾になっていること。ここが一致して初めて
+    // 「同じ場所の書き落とし」だと分かる
+    const prefix = bogus ? src.city : (muniOf(cur) ?? '');
+    const tail = cur.slice(prefix.length);
+    if (!tail || !full.endsWith(tail)) {
       skipped.push(`${f.id}（${cur} と ${full} が繋がらない）`);
+      continue;
+    }
+    // 誤った区分名でない場合は、自治体名まで一致することも求める
+    if (!bogus && muniOf(full) !== muniOf(cur)) {
+      skipped.push(`${f.id}（${cur} と ${full} で自治体が違う）`);
       continue;
     }
     if (full === cur) continue;

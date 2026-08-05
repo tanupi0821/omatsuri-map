@@ -1,0 +1,31 @@
+id: hokkaido-022-gotouti-tomakomai-fun-12647
+name: 第52回糸井山神社例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 苫小牧市柏木町2丁目15番地（豊陵公園）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-02
+      - 2026-06-13
+      - 2026-06-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.fun/events/maturi-itoisanjinnjya/
+    source_name: とまこまいFUN
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: kumagaya-gotouti-kumagayanavi-13875
+name: 星川夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 熊谷市
+  ward: null
+venue:
+  name: 熊谷駅前
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-09
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kumagayanavi.com/info/event/hoshikawayoichi2026-5-9/
+    source_name: 熊谷ナビ
+    source_type: media
+    checked_at: 2026-08-06

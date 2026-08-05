@@ -1,0 +1,29 @@
+id: kashiwa-gotouti-kashiwa-tsushin-26090
+name: 八ツ原町会夏祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 特別養護老人ホーム
+  address: 柏市篠籠田1390
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kashiwa-tsushin.com/26090.html
+    source_name: 柏つうしん
+    source_type: media
+    checked_at: 2026-08-06

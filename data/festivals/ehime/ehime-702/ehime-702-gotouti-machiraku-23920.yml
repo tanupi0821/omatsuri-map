@@ -1,0 +1,29 @@
+id: ehime-702-gotouti-machiraku-23920
+name: 夜市金魚ミニチュア体験
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松前町
+  ward: null
+venue:
+  name: 株式会社エスケイハウス
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://machiraku.net/masaki-gokinjo-fes-20260719/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

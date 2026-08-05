@@ -1,0 +1,29 @@
+id: hyogo-702-gotouti-awaji-journal-2956
+name: 慶野松原花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 南あわじ市
+  ward: null
+venue:
+  name: 慶野松原海水浴場周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://awaji-journal.com/keinomatubara_hanabi/
+    source_name: 淡路ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

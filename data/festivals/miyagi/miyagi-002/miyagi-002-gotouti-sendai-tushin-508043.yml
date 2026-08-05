@@ -1,0 +1,29 @@
+id: miyagi-002-gotouti-sendai-tushin-508043
+name: しづがわ夜市 ～初夏の集い～
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 道の駅さんさん南三陸内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/06/02/post-508043/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

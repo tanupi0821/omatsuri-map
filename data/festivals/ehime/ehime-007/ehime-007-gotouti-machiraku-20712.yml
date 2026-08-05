@@ -1,0 +1,30 @@
+id: ehime-007-gotouti-machiraku-20712
+name: 駄菓子まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 松山市
+  ward: null
+venue:
+  name: 城山公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-08
+      - 2026-03-12
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://machiraku.net/matsuyama-dagashi-matsuri2026/
+    source_name: 街楽松山
+    source_type: media
+    checked_at: 2026-08-06

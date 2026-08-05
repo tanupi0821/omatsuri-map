@@ -1,0 +1,29 @@
+id: ichikawa-gotouti-ichikawalife-14825
+name: 新田みこしまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 新田南公園（タイヤ公園）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-21
+    start_time: 10:00
+    end_time: 12:00
+    status: confirmed
+    source_url: https://ichikawalife.com/shinden-mikoshi-matsuri/
+    source_name: Ichikawa Life Style
+    source_type: media
+    checked_at: 2026-08-06

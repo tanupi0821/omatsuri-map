@@ -1,0 +1,29 @@
+id: urayasu-gotouti-sumitai-ne-159130
+name: 祭りばやし＆里神楽（さとかぐら）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 浦安市
+  ward: null
+venue:
+  name: 浦安市郷土博物館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sumitai.ne.jp/urayasu/2026-07-24/159130.html
+    source_name: 浦安に住みたい！web
+    source_type: media
+    checked_at: 2026-08-06

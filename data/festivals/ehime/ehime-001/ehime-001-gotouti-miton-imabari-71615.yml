@@ -1,0 +1,29 @@
+id: ehime-001-gotouti-miton-imabari-71615
+name: 土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 今治市
+  ward: null
+venue:
+  name: 今治市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://miton-imabari.jp/doyouyoichi2026/
+    source_name: みとん今治
+    source_type: media
+    checked_at: 2026-08-06

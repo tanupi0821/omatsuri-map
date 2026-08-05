@@ -1,0 +1,29 @@
+id: shizuoka-018-gotouti-wasabee-media-19673998
+name: 伊豆白浜海の祭典
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 静岡県
+  city: 下田市
+  ward: null
+venue:
+  name: 伊豆白浜観光協会駐車場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://wasabee.media/articles/19673998/
+    source_name: Wasabee
+    source_type: media
+    checked_at: 2026-08-06

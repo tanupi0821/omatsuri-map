@@ -1,0 +1,29 @@
+id: aichi-701-gotouti-nagoyajin-nagoya-23691
+name: にっぽんど真ん中祭り（どまつり）
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: メインステージ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+    start_time: 16:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://nagoyajin.nagoya/domatsuri-nagoya-2026-20260828/
+    source_name: NAGOYAJIN
+    source_type: media
+    checked_at: 2026-08-06
