@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import Ad from '../../components/Ad.astro';
 import { SITE_NAME } from '../../lib/site.js';
 import { loadFestivals, latestOccurrence, formatDates, formatTime, STATUS_LABEL, staleDays } from '../../lib/data.js';
+import { festivalSummary, festivalMetaDescription } from '../../lib/festival-summary.js';
 
 export function getStaticPaths() {
   const all = loadFestivals();
@@ -111,9 +112,12 @@ const title = f.name.includes(bare)
   ? `${f.name}｜${occ?.year}年の日程`
   : `${where} ${f.name}｜${occ?.year}年の日程`;
 
-const desc = `${place}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.venue.name}にて。`
-  + (f.organizer ? `主催は${f.organizer}。` : '')
-  + (f.stalls === 'yes' ? '屋台・露店が出ます。' : '');
+// 本文の説明文。表と出典しか無いページに文章を持たせる（`festival-summary.js` 参照）。
+// meta description も、本文と食い違わないよう同じ文の冒頭から作る。
+// 以前は独自に組み立てていたが、屋台が unknown のとき何も言わない・
+// 日程が推定でも確定のように読める、という問題が本文と二重に起きるので一本化した
+const summary = festivalSummary(f);
+const desc = festivalMetaDescription(f);
 ---
 
 <Base title={title} description={desc} jsonld={jsonld} image={f.photos?.[0]?.url}>
@@ -124,6 +128,8 @@ const desc = `${place}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.ve
     {f.area.ward && <> {f.area.ward}</>} ／ {f.kind}
   </nav>
   <h1>{f.name}</h1>
+
+  {summary && <p class="summary">{summary}</p>}
 
   {!isCurrentYear && (
     <p class="notice">
@@ -259,6 +265,8 @@ const desc = `${place}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.ve
   <style>
     .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
     h1 { margin-top: 4px; }
+    /* 本文の説明文。表より前に読むものなので、表と同じ大きさで行間だけ広げる */
+    .summary { font-size: 15px; line-height: 1.9; margin: 12px 0 16px; }
     .notice {
       background: var(--warn-bg); color: var(--warn-fg);
       padding: 10px 14px; border-radius: 10px; font-size: 14px;
