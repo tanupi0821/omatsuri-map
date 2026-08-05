@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import FestivalList from '../components/FestivalList.astro';
+import Hero from '../components/Hero.astro';
 import { loadFestivals, latestOccurrence } from '../lib/data.js';
 import { PREFS, REGIONS } from '../../scripts/lib/prefs.mjs';
 
@@ -46,21 +47,13 @@ const byRegion = REGIONS
   .map((r) => ({ region: r, prefs: prefList.filter((p) => regionOf.get(p.slug) === r) }))
   .filter((x) => x.prefs.length);
 
-const cityCount = new Set(festivals.map((f) => `${f._prefSlug}/${f._citySlug}`)).size;
-const stallsTotal = festivals.filter((f) => f.stalls === 'yes').length;
-const machi = festivals.filter((f) => f.scale === '町内会').length;
 ---
 
 <Base
   title={null}
   description="全国の夏祭り・盆踊り・例大祭をまとめて探せます。大手サイトに載らない町内会や自治会の盆踊りまで、出典つきで掲載しています。"
 >
-  <h1>全国の祭りを、町内会のものまで</h1>
-  <p class="lede">
-    大手のイベントサイトには載らない自治会・町内会の盆踊りまで集めています。すべて出典と最終確認日つき。
-    現在 <strong>{festivals.length} 件</strong>／{prefList.length} 都道府県 {cityCount} 市区町村。
-    うち町内会・自治会の祭りが {machi} 件、屋台が出ると分かっているものが {stallsTotal} 件。
-  </p>
+  <Hero slot="bleed" />
 
   <p class="searchcta">
     <a href="/search/">

@@ -20,11 +20,32 @@ const months = [...new Set(
   festivals.flatMap((f) => (latestOccurrence(f)?.dates ?? []).map((d) => d.slice(0, 7))),
 )].sort();
 
+// 木札に出す日付の部品。月・日・曜日に割って、複数日は「+N日」で畳む。
+// 数百件並ぶので、一覧では 1 件 1 行に収める
+const WD = ['日', '月', '火', '水', '木', '金', '土'];
+function chip(o) {
+  const d = o?.dates?.[0];
+  if (!d) return null;
+  const t = new Date(`${d}T00:00:00+09:00`);
+  return {
+    m: `${Number(d.slice(5, 7))}月`,
+    n: Number(d.slice(8, 10)),
+    w: WD[t.getDay()],
+    dow: t.getDay(),
+    plus: (o.dates?.length ?? 1) - 1,
+    // 例祭日から割り出した推定日は、確定した日程と見分けが付くようにする
+    est: o.status === 'estimated',
+  };
+}
+
+const SOURCE_TIER = { official: '公式', gov: '行政', media: '媒体', aggregator: 'まとめ' };
+
 const rows = festivals.map((f) => {
   const o = latestOccurrence(f);
   return {
     f,
     o,
+    chip: chip(o),
     start: o?.dates?.[0] ?? null,
     end: o?.dates?.at(-1) ?? o?.dates?.[0] ?? null,
     dateLabel: formatDates(o),
@@ -77,9 +98,9 @@ const rows = festivals.map((f) => {
 </p>
 
 <ul class="list js-list">
-  {rows.map(({ f, o, start, end, dateLabel, timeLabel, statusLabel }) => (
+  {rows.map(({ f, o, chip, start, end, dateLabel, timeLabel, statusLabel }) => (
     <li
-      class="card"
+      class:list={['row', f.stalls === 'yes' && 'yatai']}
       data-kind={f.kind}
       data-stalls={f.stalls ?? 'unknown'}
       data-start={start}
@@ -89,71 +110,134 @@ const rows = festivals.map((f) => {
         .filter(Boolean).join(' ')}
     >
       <a href={`/f/${f.id}/`}>
-        {f.photos?.[0] && <img class="thumb" src={f.photos[0].url} alt="" loading="lazy" />}
-        <div class="meta">
-          <span class="badge">{f.kind}</span>
-          {showArea && <span>{f.area.city}{f.area.ward ? ` ${f.area.ward}` : ''}</span>}
-          {f.stalls === 'yes' && <span class="badge stalls">屋台あり</span>}
-          {statusLabel && <span class="badge warn">{statusLabel}</span>}
-        </div>
-        <div class="name">{f.name}</div>
-        <div class="when">{dateLabel}{timeLabel && <> ／ {timeLabel}</>}</div>
-        <div class="where">{f.venue.name}</div>
-        {o?.year && o.year !== new Date().getFullYear() && (
-          <div class="stale">{o.year}年の情報です</div>
+        {chip ? (
+          <span class:list={['d', chip.dow === 6 && 'sat', chip.dow === 0 && 'sun', chip.est && 'est']}>
+            <span class="m">{chip.m}</span>
+            <span class="n">{chip.n}</span>
+            <span class="w">{chip.w}</span>
+            {chip.plus > 0 && <span class="plus">+{chip.plus}日</span>}
+          </span>
+        ) : (
+          <span class="d none"><span class="m">日程</span><span class="w">未確認</span></span>
         )}
+        <span class="rbody">
+          <span class="rname">{f.name}</span>
+          <span class="rmeta">
+            <span class="badge">{f.kind}</span>
+            {f.stalls === 'yes' && <span class="badge stalls">屋台</span>}
+            {statusLabel && <span class="badge warn">{statusLabel}</span>}
+            {timeLabel && <span class="rtime">{timeLabel}</span>}
+            {showArea && <span>{f.area.city}{f.area.ward ? ` ${f.area.ward}` : ''}</span>}
+            <span class="sep">/</span>
+            <span>{f.venue.name}</span>
+          </span>
+          {/* 出典と最終確認日は全ページに出す方針。一覧でも 1 行入れる。
+              格と確認日は必ず先に置いて切らせない。はみ出すのは出典名の末尾だけ */}
+          <span class="rsrc">
+            <span class:list={['tier', o?.source_type === 'official' && 'official',
+                               o?.source_type === 'aggregator' && 'agg']}>
+              {SOURCE_TIER[o?.source_type] ?? '出典'}
+            </span>
+            {o?.checked_at} 確認／{o?.source_name ?? '出典'}
+          </span>
+        </span>
       </a>
     </li>
   ))}
 </ul>
 
 <style>
-  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 12px; }
-  .tabs { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .filters { display: flex; flex-wrap: wrap; gap: var(--s2); margin: var(--s5) 0 var(--s3); }
+  .tabs { display: flex; border: 1px solid var(--line); border-radius: var(--r2); overflow: hidden; background: var(--card); }
   .tabs button {
-    border: 0; background: var(--card); color: var(--fg);
-    padding: 7px 14px; font-size: 14px; cursor: pointer; font-family: inherit;
+    border: 0; background: transparent; color: var(--fg);
+    padding: var(--s1) var(--s3); font-size: var(--t3); cursor: pointer; font-family: inherit;
   }
   .tabs button + button { border-left: 1px solid var(--line); }
-  .tabs button.on { background: var(--accent); color: #fff; }
-  .selects { display: flex; gap: 8px; flex: 1; min-width: 200px; }
+  .tabs button.on { background: var(--akane); color: #fff; font-weight: 700; }
+  @media (prefers-color-scheme: dark) { .tabs button.on { color: #2a0d0c; } }
+  .selects { display: flex; gap: var(--s2); flex: 1; min-width: 190px; }
   select {
-    flex: 1; min-width: 0; padding: 7px 10px; font-size: 14px; font-family: inherit;
-    border: 1px solid var(--line); border-radius: 8px;
+    flex: 1; min-width: 0; padding: var(--s1) var(--s2); font-size: var(--t3); font-family: inherit;
+    border: 1px solid var(--line); border-radius: var(--r2);
     background: var(--card); color: var(--fg);
   }
-  .count { font-size: 13px; color: var(--muted); margin: 0 0 10px; }
+  .count { font-size: var(--t2); color: var(--muted); margin: 0 0 var(--s1); }
   .search {
-    width: 100%; box-sizing: border-box; margin: 0 0 12px;
-    padding: 9px 12px; font-size: 15px; font-family: inherit;
-    border: 1px solid var(--line); border-radius: 8px;
+    width: 100%; margin: 0 0 var(--s2); padding: var(--s2) var(--s3);
+    font-size: var(--t4); font-family: inherit;
+    border: 1px solid var(--line); border-radius: var(--r2);
     background: var(--card); color: var(--fg);
   }
-  .lede { color: var(--muted); font-size: 14px; }
+  .lede { color: var(--muted); font-size: var(--t3); }
+  /* 屋台の有無は最重要。トグル自体を提灯色にして、押せることを強く出す */
   .stalls-toggle {
-    display: flex; align-items: center; gap: 6px; font-size: 14px;
-    padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px;
-    background: var(--card); cursor: pointer; white-space: nowrap;
+    display: flex; align-items: center; gap: var(--s1); font-size: var(--t3);
+    padding: var(--s1) var(--s3); border: 1px solid var(--stall); border-radius: var(--r2);
+    background: var(--stall-bg); color: var(--stall); font-weight: 700;
+    cursor: pointer; white-space: nowrap;
   }
-  .list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
-  .card { border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
-  .card a { display: block; padding: 14px 16px; text-decoration: none; color: inherit; }
-  .card .meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
-  .card .thumb {
-    width: 100%; height: 140px; object-fit: cover;
-    border-radius: 8px; margin-bottom: 10px; display: block; background: var(--line);
+
+  /* 一覧は 1 件あたりの高さが命。市区町村ページには数百件並ぶ。
+     カード（1 件 150px 前後）をやめて行にし、高さを揃えて目で追えるようにした */
+  .list {
+    list-style: none; padding: 0; margin: 0; background: var(--card);
+    border: 1px solid var(--line); border-radius: var(--r2); overflow: hidden;
   }
-  .card .name { font-weight: 700; margin: 4px 0 2px; font-size: 16px; }
-  .card .when { font-size: 14px; }
-  .card .where { font-size: 13px; color: var(--muted); }
-  .card .stale { font-size: 12px; color: var(--warn-fg); margin-top: 4px; }
+  .row { border-bottom: 1px solid var(--line2); position: relative; }
+  .row:last-child { border-bottom: 0; }
+  .row > a {
+    display: flex; gap: var(--s2); padding: var(--s2);
+    text-decoration: none; color: inherit;
+  }
+  .row:hover { background: var(--card2); }
+  /* 夜店の灯り。屋台が出ると分かっている祭りだけ、左から暖色がにじむ。
+     スクロール中に「灯っている行」が目に入る。装飾ではなく情報 */
+  .row.yatai { background: linear-gradient(90deg, var(--glow) 0, transparent 150px); }
+  .row.yatai:hover { background: linear-gradient(90deg, var(--glow) 0, transparent 220px); }
+
+  /* 木札の日付。土=藍 日=茜。推定日は破線で、確定した日程と区別する */
+  .d {
+    flex: 0 0 46px; width: 46px; text-align: center; padding: 2px 0 3px;
+    border-radius: var(--r1); background: var(--wood); border: 1px solid var(--line);
+    align-self: flex-start; line-height: 1.15;
+  }
+  .d .m { display: block; font-size: var(--t1); color: var(--muted); }
+  .d .n { display: block; font-size: var(--t5); font-weight: 800; font-variant-numeric: tabular-nums; }
+  .d .w { display: block; font-size: var(--t1); color: var(--muted); }
+  .d.sat .n, .d.sat .w { color: var(--ai); }
+  .d.sun .n, .d.sun .w { color: var(--akane); }
+  .d.est { border-style: dashed; border-color: var(--warn-line); background: transparent; }
+  .d.none { padding: var(--s2) 0; }
+  .d .plus { display: block; font-size: var(--t1); color: var(--muted); }
+
+  .rbody { flex: 1; min-width: 0; }
+  .rname { display: block; font-size: var(--t4); font-weight: 700; line-height: 1.3; word-break: break-word; }
+  /* 種別・屋台・時間・地域・会場を 1 本にまとめる。数百件並ぶので行数を増やさない */
+  .rmeta {
+    display: flex; flex-wrap: wrap; gap: 0 var(--s1); align-items: center;
+    font-size: var(--t2); color: var(--muted); line-height: 1.5;
+  }
+  .rmeta .sep { opacity: .45; }
+  .rtime { font-size: var(--t2); color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+  /* 出典と最終確認日は 1 行に固定し、はみ出すのは出典名の末尾だけにする */
+  .rsrc {
+    display: block; font-size: var(--t1); color: var(--muted); line-height: 1.4;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .rsrc .tier {
+    display: inline-block; border: 1px solid var(--line); border-radius: var(--r1);
+    padding: 0 var(--s1); margin-right: var(--s1);
+  }
+  .rsrc .tier.official { border-color: var(--ai); color: var(--ai); }
+  .rsrc .tier.agg { border-color: var(--warn-line); color: var(--warn-fg); }
 </style>
 
 <script>
   // 静的サイトなので日付判定はブラウザ側で行う。
   // ビルドが古くても「今週末」が狂わないようにするため。
   const list = document.querySelector('.js-list');
-  const cards = [...document.querySelectorAll('.card')];
+  const cards = [...document.querySelectorAll('.row')];
   const tabs = [...document.querySelectorAll('.tabs button')];
   const kind = document.querySelector('.js-kind');
   const month = document.querySelector('.js-month');

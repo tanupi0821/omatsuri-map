@@ -36,28 +36,85 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       />
     )}
     <style is:global>
+      /* ==================================================================
+         見た目の型。**ここに無い寸法を各ページで書かない**。
+
+         以前は文字サイズがその場ごとの微調整で 20 種類（0.5px 刻みを含む）に
+         増え、角丸も 6 種類あった。個々は破綻していないのに全体を貫く規則が
+         無く、それが「機械が作った画面」の印象になっていた。
+         先に段階を決めて、それだけを使う。
+
+         色は和の伝統色でまとめる。藍・茜・柿渋・生成り。
+         ================================================================== */
       :root {
-        --bg: #fdfaf5;
-        --card: #fff;
-        --fg: #1c1917;
-        --muted: #78716c;
-        --line: #e7e0d6;
-        --accent: #c2410c;
-        --accent-soft: #fff1e7;
-        --warn-bg: #fef3c7;
-        --warn-fg: #854d0e;
+        /* 文字。最小 11px（日本語の 9px は読めない） */
+        --t1: 11px;  /* 出典行・バッジ・木札の月と曜日 */
+        --t2: 12px;  /* メタ情報・注記 */
+        --t3: 13px;  /* 操作部品・補助文 */
+        --t4: 15px;  /* 本文・一覧の祭り名 */
+        --t5: 17px;  /* 見出し・強調した事実 */
+        --t6: 21px;  /* ページ題名 */
+
+        /* バナー用。絵が大きいので本文と同じ寸法では文字が負ける。
+           画面幅に応じて伸ばし、上限で止める */
+        --d1: clamp(21px, 3.2vw, 40px);
+        --d2: clamp(13px, 1.15vw, 17px);
+        --d3: clamp(27px, 3.4vw, 46px);
+        --d4: clamp(12px, 1vw, 15px);
+
+        /* 余白は 4 の倍数だけ */
+        --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px;
+
+        /* 角丸は 3 種類だけ */
+        --r1: 4px;   /* 木札・印・小さな枠 */
+        --r2: 10px;  /* 箱もの */
+
+        --bg: #f7f0e2;           /* 生成り */
+        --card: #fffdf7;
+        --card2: #fdf7ea;
+        --fg: #1b1512;
+        --muted: #6d6055;
+        --line: #e0d3bd;
+        --line2: #efe5d3;
+        --ai: #1e3f66;           /* 藍 */
+        --ai-soft: #e6ecf4;
+        --akane: #b02730;        /* 茜 */
+        --kaki: #9c5327;         /* 柿渋 */
+        --kaki-soft: #f7ece0;
+        --lantern: #f0a94a;      /* 提灯の灯 */
+        --glow: rgba(240, 169, 74, .3);
+        --warn-bg: #fdf0cd;
+        --warn-fg: #7a5406;
+        --warn-line: #e0b64a;
+        --wood: #f3e9d6;         /* 木札 */
+        --stall: #8a5a12;
+        --stall-bg: #ffe6ac;
+        /* 旧名。各ページのスコープ付きスタイルがまだ参照している */
+        --accent: var(--ai);
+        --accent-soft: var(--ai-soft);
       }
       @media (prefers-color-scheme: dark) {
         :root {
-          --bg: #1c1917;
-          --card: #262322;
-          --fg: #f5f5f4;
-          --muted: #a8a29e;
-          --line: #3a3634;
-          --accent: #fb923c;
-          --accent-soft: #3a2517;
-          --warn-bg: #422c06;
-          --warn-fg: #fcd34d;
+          --bg: #14161d;
+          --card: #1b1e27;
+          --card2: #20242e;
+          --fg: #f1ebe0;
+          --muted: #9d9488;
+          --line: #2f3542;
+          --line2: #262b36;
+          --ai: #88b0dc;
+          --ai-soft: #1d2938;
+          --akane: #ff7a72;
+          --kaki: #d68f5c;
+          --kaki-soft: #2c2118;
+          --lantern: #f5b45c;
+          --glow: rgba(245, 180, 92, .2);
+          --warn-bg: #33280c;
+          --warn-fg: #f2c869;
+          --warn-line: #6d5316;
+          --wood: #242832;
+          --stall: #ffd68a;
+          --stall-bg: #4a3410;
         }
       }
       * { box-sizing: border-box; }
@@ -65,54 +122,103 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
         margin: 0;
         background: var(--bg);
         color: var(--fg);
-        font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+        font-family: system-ui, -apple-system, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif;
         line-height: 1.7;
         -webkit-text-size-adjust: 100%;
       }
-      a { color: var(--accent); }
-      .wrap { max-width: 720px; margin: 0 auto; padding: 0 16px 64px; }
+      a { color: var(--ai); text-underline-offset: 2px; }
+      .wrap { max-width: 720px; margin: 0 auto; padding: 0 var(--s4) var(--s6); }
+
+      /* 提灯の列。全ページの上端に出す「祭り」の合図。
+         高さ 20px までに抑えて、情報を押しのけない */
+      .lanterns {
+        height: 20px;
+        background-repeat: repeat-x;
+        background-image:
+          radial-gradient(ellipse 7px 7px at 15px 11px, #fff2cf 0 18%, var(--lantern) 46%, var(--akane) 93%, transparent 97%),
+          linear-gradient(var(--line), var(--line));
+        background-size: 30px 20px, 100% 1px;
+        background-position: 0 0, 0 3px;
+      }
       header.site {
-        border-bottom: 1px solid var(--line);
         background: var(--card);
+        border-bottom: 2px solid var(--ai);
         position: sticky; top: 0; z-index: 10;
       }
-      header.site .wrap { padding: 12px 16px; display: flex; align-items: baseline; gap: 12px; }
-      header.site strong { font-size: 17px; }
-      header.site a { text-decoration: none; color: inherit; }
-      header.site span { font-size: 12px; color: var(--muted); }
+      header.site .wrap {
+        padding: var(--s2) var(--s4);
+        display: flex; align-items: center; gap: var(--s2);
+      }
+      header.site .logo {
+        display: flex; align-items: center; gap: var(--s2);
+        text-decoration: none; color: inherit; min-width: 0;
+      }
+      /* 焼き印。文字組みだけでは締まらないので、名前の頭に印を置く */
+      header.site .seal {
+        display: inline-grid; place-items: center;
+        width: 26px; height: 26px; flex: 0 0 26px;
+        background: var(--akane); color: #fff;
+        font-weight: 800; font-size: var(--t5);
+        border-radius: var(--r1); transform: rotate(-3deg);
+      }
+      header.site strong { font-size: var(--t5); letter-spacing: .04em; white-space: nowrap; }
+      header.site span {
+        font-size: var(--t1); color: var(--muted);
+        min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+      }
       header.site .tosearch {
-        margin-left: auto; font-size: 14px; color: var(--accent); font-weight: 600;
-        border: 1px solid var(--accent); border-radius: 999px; padding: 3px 14px;
-        white-space: nowrap;
+        margin-left: auto; flex: 0 0 auto;
+        font-size: var(--t3); font-weight: 700; text-decoration: none;
+        color: #fff; background: var(--ai);
+        border-radius: 999px; padding: var(--s1) var(--s3); white-space: nowrap;
       }
       /* 狭い画面では説明文を隠して、検索への導線を残す */
       @media (max-width: 430px) { header.site .wrap > span { display: none; } }
+      /* ダークでは藍・茜が明るい色になるので、その上に載る文字は暗い色に反転する */
+      @media (prefers-color-scheme: dark) {
+        header.site .tosearch { color: #0f1420; }
+        header.site .seal { color: #2a0d0c; }
+      }
       footer.site {
         border-top: 1px solid var(--line);
-        margin-top: 48px; padding: 24px 0;
-        font-size: 13px; color: var(--muted);
+        margin-top: var(--s6); padding: var(--s5) 0;
+        font-size: var(--t2); color: var(--muted);
       }
-      h1 { font-size: 24px; line-height: 1.4; margin: 24px 0 8px; }
-      h2 { font-size: 16px; margin: 32px 0 8px; }
+      h1 { font-size: var(--t6); line-height: 1.45; margin: var(--s5) 0 var(--s2); }
+      h2 {
+        font-size: var(--t5); margin: var(--s5) 0 var(--s2);
+        display: flex; align-items: center; gap: var(--s2); letter-spacing: .03em;
+      }
+      /* 幟（のぼり）。見出しの頭に藍と茜の縞を立てる */
+      h2::before {
+        content: ""; flex: 0 0 6px; width: 6px; height: 1.35em; border-radius: var(--r1);
+        background: repeating-linear-gradient(180deg, var(--ai) 0 5px, var(--akane) 5px 10px);
+      }
       .badge {
-        display: inline-block; font-size: 12px; padding: 1px 8px;
-        border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+        display: inline-block; font-size: var(--t1); line-height: 1.6;
+        padding: 0 var(--s1); border-radius: 999px;
+        background: var(--kaki-soft); color: var(--kaki); font-weight: 700;
         white-space: nowrap;
       }
-      .badge.warn { background: var(--warn-bg); color: var(--warn-fg); }
-      .badge.muted { background: transparent; color: var(--muted); border: 1px solid var(--line); }
-      .badge.stalls { background: #166534; color: #fff; }
-      @media (prefers-color-scheme: dark) { .badge.stalls { background: #22c55e; color: #052e16; } }
+      .badge.warn { background: var(--warn-bg); color: var(--warn-fg); border: 1px dashed var(--warn-line); }
+      .badge.muted { background: transparent; color: var(--muted); border: 1px solid var(--line); font-weight: 400; }
+      /* 屋台の有無はこのサイトを使う一番の理由。提灯色で灯す */
+      .badge.stalls {
+        background: var(--stall-bg); color: var(--stall); font-weight: 800;
+        box-shadow: 0 0 0 1px var(--stall) inset;
+      }
     </style>
   </head>
   <body>
     <header class="site">
+      <div class="lanterns"></div>
       <div class="wrap">
-        <strong><a href="/">{SITE_NAME}</a></strong>
+        <a class="logo" href="/"><span class="seal">祭</span><strong>{SITE_NAME}</strong></a>
         <span>{TAGLINE}</span>
         <a class="tosearch" href="/search/">さがす</a>
       </div>
     </header>
+    <slot name="bleed" />
     <main class="wrap">
       <slot />
     </main>

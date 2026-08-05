@@ -166,46 +166,49 @@ const desc = festivalMetaDescription(f);
     </div>
   )}
 
-  <table class="facts">
-    <tbody>
-      <tr><th>日程</th><td>{formatDates(occ)}{occ?.year && <span class="y">（{occ.year}年）</span>}</td></tr>
-      {formatTime(occ) && <tr><th>時間</th><td>{formatTime(occ)}</td></tr>}
-      <tr>
-        <th>会場</th>
-        <td>
-          {f.venue.name}
-          {f.venue.address && <><br /><span class="addr">{f.venue.address}</span></>}
-          <br /><a href={mapUrl} target="_blank" rel="noopener">地図で見る</a>
-        </td>
-      </tr>
-      {f.recurrence && (
-        <tr>
-          <th>例祭日</th>
-          <td>
-            毎年 {f.recurrence}
-            {f.recurrence_source && (
-              <> <a href={f.recurrence_source} target="_blank" rel="noopener">出典</a></>
-            )}
-          </td>
-        </tr>
-      )}
-      <tr>
-        <th>屋台・露店</th>
-        <td>
-          {f.stalls === 'yes' ? <span class="badge stalls">出ます</span>
-            : f.stalls === 'no' ? '出ません（神事のみ）'
-              : <span class="unknown">未確認。出典元や神社にご確認ください</span>}
-        </td>
-      </tr>
-      {f.station && <tr><th>最寄駅</th><td>{f.station}</td></tr>}
-      {f.organizer && <tr><th>主催</th><td>{f.organizer}</td></tr>}
-      {f.shrine && <tr><th>神社</th><td>{f.shrine}</td></tr>}
-      <tr><th>規模</th><td>{f.scale === '市' ? '市町村全体' : f.scale}</td></tr>
-      {f.tags?.length > 0 && <tr><th>特徴</th><td>{f.tags.join('・')}</td></tr>}
-      {occ?.note && <tr><th>備考</th><td>{occ.note}</td></tr>}
-    </tbody>
-  </table>
-
+  {/* 短冊の事実表。行ごとに見出しの帯を立てる。
+      屋台の行だけは提灯色で灯す —— このサイトを使う一番の理由がそこにあるので、
+      表の中に埋もれさせない */}
+  <dl class="facts">
+    <div class="fact big">
+      <dt>日程</dt>
+      <dd>{formatDates(occ)}{occ?.year && <span class="y">（{occ.year}年）</span>}</dd>
+    </div>
+    {formatTime(occ) && <div class="fact"><dt>時間</dt><dd>{formatTime(occ)}</dd></div>}
+    <div class="fact">
+      <dt>会場</dt>
+      <dd>
+        {f.venue.name}
+        {f.venue.address && <><br /><span class="addr">{f.venue.address}</span></>}
+        <br /><a href={mapUrl} target="_blank" rel="noopener">地図で見る</a>
+      </dd>
+    </div>
+    {f.recurrence && (
+      <div class="fact">
+        <dt>例祭日</dt>
+        <dd>
+          毎年 {f.recurrence}
+          {f.recurrence_source && (
+            <> <a href={f.recurrence_source} target="_blank" rel="noopener">出典</a></>
+          )}
+        </dd>
+      </div>
+    )}
+    <div class:list={['fact', 'stalls', f.stalls !== 'yes' && 'quiet']}>
+      <dt>屋台・露店</dt>
+      <dd>
+        {f.stalls === 'yes' ? '出ます'
+          : f.stalls === 'no' ? '出ません（神事のみ）'
+            : '未確認。出典元や神社にご確認ください'}
+      </dd>
+    </div>
+    {f.station && <div class="fact"><dt>最寄駅</dt><dd>{f.station}</dd></div>}
+    {f.organizer && <div class="fact"><dt>主催</dt><dd>{f.organizer}</dd></div>}
+    {f.shrine && <div class="fact"><dt>神社</dt><dd>{f.shrine}</dd></div>}
+    <div class="fact"><dt>規模</dt><dd>{f.scale === '市' ? '市町村全体' : f.scale}</dd></div>
+    {f.tags?.length > 0 && <div class="fact"><dt>特徴</dt><dd>{f.tags.join('・')}</dd></div>}
+    {occ?.note && <div class="fact"><dt>備考</dt><dd>{occ.note}</dd></div>}
+  </dl>
   {f.description && <p>{f.description}</p>}
 
   <h2>この情報について</h2>
@@ -278,43 +281,61 @@ const desc = festivalMetaDescription(f);
   <p style="margin-top:32px"><a href={`/a/${f._prefSlug}/${f._citySlug}/`}>← {f.area.city}の一覧にもどる</a></p>
 
   <style>
-    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
-    h1 { margin-top: 4px; }
+    .crumb { font-size: var(--t2); color: var(--muted); margin: var(--s4) 0 0; line-height: 1.6; word-break: break-word; }
+    h1 { margin-top: var(--s1); }
     /* 本文の説明文。表より前に読むものなので、表と同じ大きさで行間だけ広げる */
-    .summary { font-size: 15px; line-height: 1.9; margin: 12px 0 16px; }
+    .summary { font-size: var(--t4); line-height: 1.9; margin: var(--s3) 0; }
     .notice {
+      display: flex; gap: var(--s2);
       background: var(--warn-bg); color: var(--warn-fg);
-      padding: 10px 14px; border-radius: 10px; font-size: 14px;
+      border: 1px solid var(--warn-line); border-left-width: 5px;
+      padding: var(--s2) var(--s3); border-radius: var(--r2);
+      font-size: var(--t3); line-height: 1.6; margin: var(--s3) 0;
     }
-    .facts { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 15px; }
-    .facts th {
-      text-align: left; width: 5.5em; vertical-align: top;
-      padding: 10px 8px 10px 0; color: var(--muted); font-weight: 500; font-size: 14px;
+    .facts {
+      margin: var(--s3) 0; border: 1px solid var(--line); border-radius: var(--r2);
+      overflow: hidden; background: var(--card);
     }
-    .facts td { padding: 10px 0; border-bottom: 1px solid var(--line); }
-    .facts tr:first-child th, .facts tr:first-child td { border-top: 1px solid var(--line); }
-    .facts .addr { font-size: 13px; color: var(--muted); }
-    .facts .y { font-size: 13px; color: var(--muted); }
-    .facts .unknown { color: var(--muted); font-size: 14px; }
-    .photos { display: grid; gap: 12px; margin: 16px 0; }
+    .fact { display: flex; border-bottom: 1px solid var(--line2); font-size: var(--t4); }
+    .fact:last-child { border-bottom: 0; }
+    .fact > dt {
+      flex: 0 0 84px; width: 84px; padding: var(--s2) var(--s3);
+      font-size: var(--t2); color: #fff; font-weight: 700; letter-spacing: .08em;
+      background: var(--ai); display: flex; align-items: flex-start;
+    }
+    @media (prefers-color-scheme: dark) { .fact > dt { color: #0f1420; } }
+    .fact > dd { margin: 0; padding: var(--s2) var(--s3); flex: 1; min-width: 0; word-break: break-word; }
+    .fact .addr { display: block; font-size: var(--t2); color: var(--muted); }
+    .fact .y { font-size: var(--t2); color: var(--muted); font-weight: 400; }
+    .fact.big > dd { font-size: var(--t5); font-weight: 700; line-height: 1.5; }
+    /* 屋台の行。行ごと灯す */
+    .fact.stalls > dt { background: var(--stall); color: #2a1c05; }
+    .fact.stalls { background: linear-gradient(90deg, var(--glow), transparent 70%); }
+    .fact.stalls > dd { font-weight: 800; color: var(--stall); font-size: var(--t5); }
+    .fact.stalls.quiet { background: none; }
+    .fact.stalls.quiet > dt { background: var(--muted); color: var(--card); }
+    .fact.stalls.quiet > dd { font-weight: 500; color: var(--muted); font-size: var(--t4); }
+    .photos { display: grid; gap: var(--s3); margin: var(--s4) 0; }
     .photos figure { margin: 0; }
-    .photos img {
-      width: 100%; height: auto; border-radius: 12px; display: block;
-      background: var(--card);
-    }
-    .photos figcaption { font-size: 12px; color: var(--muted); margin-top: 4px; }
-    .nearby { list-style: none; padding: 0; margin: 8px 0 12px; font-size: 14px; }
+    .photos img { width: 100%; height: auto; border-radius: var(--r2); display: block; background: var(--card); }
+    .photos figcaption { font-size: var(--t2); color: var(--muted); margin-top: var(--s1); }
+    .nearby { list-style: none; padding: 0; margin: var(--s2) 0; font-size: var(--t4); }
     .nearby li {
-      display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
-      border-bottom: 1px solid var(--line); padding: 8px 2px;
+      display: flex; align-items: baseline; gap: var(--s2); flex-wrap: wrap;
+      border-bottom: 1px solid var(--line2); padding: var(--s2) 2px;
     }
-    .nearby a { display: flex; gap: 10px; flex: 1; min-width: 0; align-items: baseline; text-decoration: none; color: inherit; }
+    .nearby a { display: flex; gap: var(--s2); flex: 1; min-width: 0; align-items: baseline; text-decoration: none; color: inherit; }
     .nearby a:hover .n { text-decoration: underline; }
     .nearby .n { flex: 1; min-width: 0; }
-    .nearby .d { color: var(--muted); font-size: 13px; white-space: nowrap; }
-    .nearby .past { color: var(--muted); font-size: 12px; }
-    .source { font-size: 14px; padding-left: 1.2em; }
-    .source li { margin-bottom: 4px; word-break: break-all; }
-    .disclaimer { font-size: 13px; color: var(--muted); }
+    .nearby .d { color: var(--muted); font-size: var(--t2); white-space: nowrap; }
+    .nearby .past { color: var(--muted); font-size: var(--t1); }
+    /* 出典帯。全ページの下端に必ず出す */
+    .source {
+      font-size: var(--t3); margin: var(--s3) 0; padding: var(--s2) var(--s3) var(--s2) var(--s5);
+      border: 1px solid var(--line); border-left: 5px solid var(--ai);
+      border-radius: var(--r2); background: var(--card);
+    }
+    .source li { margin-bottom: var(--s1); word-break: break-all; }
+    .disclaimer { font-size: var(--t2); color: var(--muted); line-height: 1.7; }
   </style>
 </Base>
