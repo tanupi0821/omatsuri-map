@@ -1,0 +1,46 @@
+{
+ "slug": "joto",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai4shibu/joto-ku/joto.html",
+ "shrines": [
+  {
+   "name": "八劔神社",
+   "alias": null,
+   "address": "城東区鴫野東"
+  },
+  {
+   "name": "皇大神宮",
+   "alias": null,
+   "address": "城東区今福南"
+  },
+  {
+   "name": "白山神社",
+   "alias": null,
+   "address": "城東区中浜"
+  },
+  {
+   "name": "水神社",
+   "alias": "野江神社",
+   "address": "城東区野江"
+  },
+  {
+   "name": "須佐之男尊神社",
+   "alias": "関目神社",
+   "address": "城東区成育"
+  },
+  {
+   "name": "諏訪神社",
+   "alias": null,
+   "address": "城東区諏訪"
+  },
+  {
+   "name": "若宮八幡大神宮",
+   "alias": "西向き八幡さん",
+   "address": "城東区蒲生"
+  },
+  {
+   "name": "稲荷神社",
+   "alias": "東本稲荷神社",
+   "address": "城東区中浜"
+  }
+ ]
+}

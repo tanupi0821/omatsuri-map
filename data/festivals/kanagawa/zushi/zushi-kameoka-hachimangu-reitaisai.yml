@@ -7,8 +7,8 @@ area:
   city: 逗子市
   ward: null
 venue:
-  name: 亀岡八幡宮および周辺商店街
-  address: 逗子市逗子5-2-13
+  name: 亀岡八幡宮
+  address: 神奈川県逗子市逗子5-2-13
   lat: null
   lng: null
 station: 逗子
@@ -31,10 +31,10 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://kanagawa-sumai-labo.com/zushi-shi-natsumatsuri/
-    source_name: 神奈川すまいラボ
-    source_type: aggregator
-    checked_at: 2026-08-02
-    note: 7/15 宵宮、7/16 本宮
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1205122-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-06
+    note: 神社庁の記載では例大祭は7月16日。データの7月15日は宵宮にあたる
 recurrence: 7月16日
 recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1205122-000/

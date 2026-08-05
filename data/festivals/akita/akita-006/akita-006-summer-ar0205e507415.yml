@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 綴子神社
-  address: 北秋田市綴子字西館46
+  address: 秋田県北秋田市綴子
   lat: 40.252984
   lng: 140.368442
 organizer: 道の駅たかのす 大太鼓の館
@@ -23,14 +23,14 @@ occurrences:
     dates:
       - 2026-07-14
       - 2026-07-15
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0205e507415/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.kitaakita.akita.jp/archive/contents-6038
+    source_name: 北秋田市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月14日は19:00から、15日は11:00から。開催日は毎年7月14日・15日
 station: JR鷹ノ巣駅からタクシーで約10分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tsuzureko_big_drum_3.jpg/1280px-Tsuzureko_big_drum_3.jpg
@@ -47,3 +47,6 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Tsuzureko_big_drum_2.jpg
+shrine: 綴子神社
+recurrence: 7月14日・15日
+recurrence_source: https://www.city.kitaakita.akita.jp/archive/contents-6038

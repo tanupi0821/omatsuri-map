@@ -16,7 +16,8 @@ shrine: 新城神社
 tags: []
 description: null
 links:
-  - https://www.kanagawa-jinja.or.jp/shrine/1201044-000/
+  - title: 神奈川県神社庁 新城神社
+    url: https://www.kanagawa-jinja.or.jp/shrine/1201044-000/
 occurrences:
   - year: 2026
     dates:

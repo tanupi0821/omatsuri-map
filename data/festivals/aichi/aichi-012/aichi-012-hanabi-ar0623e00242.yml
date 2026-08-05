@@ -7,8 +7,8 @@ area:
   city: 知立市
   ward: null
 venue:
-  name: 知立神社境内
-  address: 知立市西町
+  name: 知立神社ほか（本町・西町・宝町・山町・山屋敷町・中新町）
+  address: 愛知県知立市西町神田12
   lat: 35.012995
   lng: 137.041701
 organizer: 知立神社社務所
@@ -26,8 +26,12 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0623e00242/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 名鉄知立駅から北西へ徒歩12分
+    source_url: https://www.chiryu-kanko.com/event/detail/4/
+    source_name: 知立市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 観光協会のページは「毎年9月下旬の日曜日」という決まりを示している（例として2025年は9月21日）。手筒花火の奉納は19:00から
+station: 名鉄名古屋本線 知立駅（徒歩約12分）
+shrine: 知立神社
+recurrence: 9月下旬の日曜日
+recurrence_source: https://www.chiryu-kanko.com/event/detail/4/

@@ -7,11 +7,11 @@ area:
   city: 宝塚市
   ward: null
 venue:
-  name: 阪急宝塚駅前
-  address: null
+  name: ソリオ宝塚 ゆめ広場一帯
+  address: 兵庫県宝塚市栄町2丁目
   lat: 34.80978
   lng: 135.340216
-organizer: null
+organizer: ゆめ広場ふれあい夏まつり実行委員会
 stalls: unknown
 tags: []
 description: null
@@ -25,7 +25,8 @@ occurrences:
     start_time: 17:00
     end_time: 21:00
     status: confirmed
-    source_url: https://takarazuka.goguynet.jp/2026/07/26/post-46024/
-    source_name: 号外NET 宝塚市・川西市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.takarazuka.hyogo.jp/event/1000043/1061701/1063688.html
+    source_name: 宝塚市
+    source_type: gov
+    checked_at: 2026-08-06
+station: 阪急宝塚線 宝塚駅

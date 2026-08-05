@@ -7,8 +7,8 @@ area:
   city: 東伯郡琴浦町
   ward: null
 venue:
-  name: 琴浦町赤碕菊港周辺
-  address: 東伯郡琴浦町大字赤碕
+  name: 神﨑神社・赤碕港周辺
+  address: 鳥取県東伯郡琴浦町赤碕
   lat: 35.514101
   lng: 133.650937
 organizer: 琴浦町観光協会
@@ -26,8 +26,12 @@ occurrences:
     start_time: 20:00
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0831e511711/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.kotoura-kankou.com/event/hanabi2025/
+    source_name: 琴浦町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 花火は前夜祭（7月27日）の夜。翌28日が船御幸。時刻は観光協会のページに記載がなく、以前の発表による
 station: JR赤碕駅から徒歩20分
+shrine: 神﨑神社
+recurrence: 7月27日（前夜祭）・7月28日（船御幸）
+recurrence_source: https://www.kotoura-kankou.com/event/hanabi2025/

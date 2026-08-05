@@ -1,0 +1,31 @@
+{
+ "slug": "minato",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai7shibu/minato-ku/minato.html",
+ "shrines": [
+  {
+   "name": "三社神社",
+   "alias": null,
+   "address": "港区磯路"
+  },
+  {
+   "name": "三津神社",
+   "alias": null,
+   "address": "港区夕凪"
+  },
+  {
+   "name": "天満宮",
+   "alias": "三先天満宮",
+   "address": "港区三先"
+  },
+  {
+   "name": "住吉神社",
+   "alias": "福崎住吉神社",
+   "address": "港区福崎"
+  },
+  {
+   "name": "住吉神社",
+   "alias": "湊屋住吉神社",
+   "address": "港区池島"
+  }
+ ]
+}

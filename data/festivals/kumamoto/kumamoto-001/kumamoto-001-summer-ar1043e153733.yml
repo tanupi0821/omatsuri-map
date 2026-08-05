@@ -7,8 +7,8 @@ area:
   city: 阿蘇郡小国町
   ward: null
 venue:
-  name: ケヤキ広場
-  address: 阿蘇郡小国町大字宮原
+  name: 宮原 ケヤキ広場周辺
+  address: 熊本県阿蘇郡小国町宮原
   lat: 33.122883
   lng: 131.06441
 organizer: 小国町商工会青年部
@@ -25,8 +25,11 @@ occurrences:
     start_time: 17:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e153733/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981
+    source_name: 小国町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催日は毎年8月13日。時刻は町のページに記載がなく、以前の発表による
 station: JR日田駅からタクシーで約50分
+recurrence: 8月13日
+recurrence_source: https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981

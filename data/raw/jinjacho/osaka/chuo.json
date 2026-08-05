@@ -1,0 +1,51 @@
+{
+ "slug": "chuo",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai7shibu/chuo-ku/chuo.html",
+ "shrines": [
+  {
+   "name": "坐摩神社",
+   "alias": "ざま神社",
+   "address": "中央区久太郎町"
+  },
+  {
+   "name": "高津宮",
+   "alias": null,
+   "address": "中央区高津"
+  },
+  {
+   "name": "少彦名神社",
+   "alias": "神農さん",
+   "address": "中央区道修町"
+  },
+  {
+   "name": "玉造稲荷神社",
+   "alias": "玉造神社",
+   "address": "中央区玉造"
+  },
+  {
+   "name": "豊國神社",
+   "alias": "太閤さん",
+   "address": "中央区大阪城"
+  },
+  {
+   "name": "御津宮",
+   "alias": "御津八幡宮",
+   "address": "中央区西心斎橋"
+  },
+  {
+   "name": "鵲森宮",
+   "alias": "森之宮神社",
+   "address": "中央区森之宮中央"
+  },
+  {
+   "name": "御霊神社",
+   "alias": null,
+   "address": "中央区淡路町"
+  },
+  {
+   "name": "難波神社",
+   "alias": null,
+   "address": "中央区博労町"
+  }
+ ]
+}

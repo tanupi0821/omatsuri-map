@@ -8,7 +8,7 @@ area:
   ward: 高津区
 venue:
   name: 千年神社
-  address: 川崎市高津区千年539
+  address: 神奈川県川崎市高津区千年539
   lat: null
   lng: null
 organizer: 千年町会
@@ -16,7 +16,8 @@ shrine: 千年神社
 tags: []
 description: null
 links:
-  - https://www.kanagawa-jinja.or.jp/shrine/1201070-000/
+  - title: 神奈川県神社庁 千年神社
+    url: https://www.kanagawa-jinja.or.jp/shrine/1201070-000/
 occurrences:
   - year: 2024
     dates:

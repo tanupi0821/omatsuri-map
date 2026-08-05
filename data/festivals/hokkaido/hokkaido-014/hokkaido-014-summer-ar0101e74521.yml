@@ -7,11 +7,11 @@ area:
   city: 旭川市
   ward: null
 venue:
-  name: 平和通買物公園
-  address: 旭川市
+  name: 旭川駅周辺（買物公園）・36フェスティバル会場・昭和通り会場
+  address: 北海道旭川市
   lat: 43.770861
   lng: 142.362071
-organizer: 旭川商工会議所産業支援部産業振興課
+organizer: 旭川夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -24,13 +24,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-30
+      - 2026-07-31
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74521/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.ccia.or.jp/event/summer_fes/index.html
+    source_name: 旭川夏まつり実行委員会（旭川商工会議所）
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月30日は18:30〜22:00、31日は17:30〜21:50、8月1日は17:00〜21:50。まとめサイトは初日と最終日の2日分しか載せていなかった
 station: JR旭川駅から徒歩8分

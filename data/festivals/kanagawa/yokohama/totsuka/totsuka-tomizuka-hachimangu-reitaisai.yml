@@ -1,5 +1,5 @@
 id: totsuka-tomizuka-hachimangu-reitaisai
-name: 富塚八幡宮 例大祭
+name: 冨塚八幡宮 例大祭
 kind: 例大祭
 scale: 地区
 area:
@@ -7,8 +7,8 @@ area:
   city: 横浜市
   ward: 戸塚区
 venue:
-  name: 冨塚八幡宮および周辺
-  address: 横浜市戸塚区戸塚町3828
+  name: 冨塚八幡宮
+  address: 神奈川県横浜市戸塚区戸塚町3828
   lat: null
   lng: null
 organizer: null
@@ -29,11 +29,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/
-    source_name: あさひさんぽ
-    checked_at: 2026-08-02
-    note: 8/1は宵宮、8/2は例大祭・神輿渡御
-    source_type: media
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1204082-000/
+    source_name: 神奈川県神社庁
+    checked_at: 2026-08-06
+    note: 例祭日は8月第1日曜日（2026年は8月2日）。データの8月1日は宵宮にあたる。神社の表記は「冨塚」
+    source_type: official
 recurrence: 8月第1日曜日
 recurrence_source: https://www.totsuka-pallso.jp/mailmagazine/yado/44.html
 stalls: unknown

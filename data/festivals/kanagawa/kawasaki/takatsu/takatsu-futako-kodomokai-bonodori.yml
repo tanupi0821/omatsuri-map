@@ -8,7 +8,7 @@ area:
   ward: 高津区
 venue:
   name: 二子神社
-  address: 川崎市高津区二子1-4-1
+  address: 神奈川県川崎市高津区二子1-4-1
   lat: null
   lng: null
 organizer: 二子連合子ども会
@@ -16,7 +16,8 @@ shrine: 二子神社
 tags: []
 description: null
 links:
-  - https://www.kanagawa-jinja.or.jp/shrine/1201061-000/
+  - title: 神奈川県神社庁 二子神社
+    url: https://www.kanagawa-jinja.or.jp/shrine/1201061-000/
 occurrences:
   - year: 2024
     dates:

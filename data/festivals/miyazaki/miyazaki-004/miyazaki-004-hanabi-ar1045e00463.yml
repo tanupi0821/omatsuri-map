@@ -7,11 +7,11 @@ area:
   city: 宮崎市
   ward: null
 venue:
-  name: こどものくに(ホテル側広場)
-  address: 宮崎市大字加江田
+  name: こどものくに（ホテル側広場）
+  address: 宮崎県宮崎市青島1丁目1-1
   lat: 31.806586
   lng: 131.460787
-organizer: null
+organizer: みやざき青島国際ビールまつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,17 +19,19 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_thingtao#section-2351
+  - title: 宮崎市観光協会 みやざき青島国際ビールまつり
+    url: https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_thingtao
 occurrences:
   - year: 2026
     dates:
       - 2026-08-22
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1045e00463/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_thingtao
+    source_name: 宮崎市観光協会
+    source_type: official
+    checked_at: 2026-08-06
     note: 掲載の2日付は期間の初日と最終日
 station: JR子供の国駅からすぐ

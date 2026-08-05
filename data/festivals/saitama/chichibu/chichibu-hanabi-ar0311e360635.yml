@@ -7,8 +7,8 @@ area:
   city: 秩父市
   ward: null
 venue:
-  name: 秩父神社周辺
-  address: 秩父市番場町
+  name: 羊山公園ほか秩父市街地
+  address: 埼玉県秩父市
   lat: 35.997618
   lng: 139.084138
 organizer: 秩父まつり対策本部
@@ -22,13 +22,16 @@ links:
 occurrences:
   - year: 2025
     dates:
+      - 2025-12-02
       - 2025-12-03
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:55
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e360635/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 出典は2025年の日程のまま。2026年の開催は発表されていない
-station: 西武鉄道西武秩父駅から徒歩15分、秩父鉄道秩父駅から徒歩5分
+    source_url: https://navi.city.chichibu.lg.jp/info/2025/11/28217/
+    source_name: 秩父市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 12月2日（宵宮）は19:00〜20:00、3日（本祭）は19:30〜21:55。データは3日の分しか持っていなかった
+station: 西武秩父線 西武秩父駅
+recurrence: 12月2日（宵宮）・12月3日（本祭）
+recurrence_source: https://navi.city.chichibu.lg.jp/info/2025/11/28217/

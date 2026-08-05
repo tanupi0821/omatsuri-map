@@ -119,6 +119,8 @@ const wardOf = (f) =>
 
 /** @type {{ward: string, name: string, address: string, lat: number|null, lng: number|null, src: string}[]} */
 const facilities = [];
+/** 「主催（町会名）＋会場名」で引く表。同名の会場が同じ区に複数あるときの決め手にする */
+const orgVenueAddr = new Map();
 const add = (ward, name, address, src, lat = null, lng = null) => {
   if (!ward || !name || !address) return;
   facilities.push({ ward, name, address: dropPref(address), lat, lng, src });
@@ -247,6 +249,32 @@ for (const file of ['tokyo-hinanjo', 'tokyo-hinanbasho']) {
   }
 }
 
+// 北九州市。避難場所・避難所（名称／住所表記）と公共施設一覧（名称／所在地_連結表記）。
+// 住所が「福岡県北九州市門司区東新町一丁目10-1」の形なので、そこから区を取る
+for (const [file, nameCol, addrCol] of [
+  ['kitakyushu-hinanbasho', '名称', '住所表記'],
+  ['kitakyushu-shisetsu', '名称', '所在地_連結表記'],
+]) {
+  const rows = csvOrNull(file);
+  if (!rows) continue;
+  const h = rows[0];
+  const iName = h.indexOf(nameCol);
+  const iAddr = h.indexOf(addrCol);
+  const iLat = h.indexOf('緯度');
+  const iLng = h.indexOf('経度');
+  if (iName < 0 || iAddr < 0) continue;
+  for (const r of rows.slice(1)) {
+    const name = r[iName];
+    const full = (r[iAddr] ?? '').replace(/^福岡県/, '');
+    const ward = full.match(/^北九州市(\S+?区)/)?.[1];
+    if (!name || !ward) continue;
+    const lat = Number(r[iLat]);
+    const lng = Number(r[iLng]);
+    add(ward, name, full, '北九州市オープンデータ',
+      Number.isFinite(lat) && lat ? lat : null, Number.isFinite(lng) && lng ? lng : null);
+  }
+}
+
 // 足立区 都市公園・都立公園一覧
 {
   const rows = csvOrNull('adachi-koen');
@@ -270,6 +298,7 @@ for (const file of ['tokyo-hinanjo', 'tokyo-hinanbasho']) {
     if (head) {
       const iVenue = head.indexOf('会場');
       const iAddr = head.findIndex((c) => c.startsWith('住所'));
+      const iOrg = head.findIndex((c) => c.startsWith('町会'));
       for (const r of rows) {
         if (r.length !== head.length || r === head) continue;
         const name = r[iVenue];
@@ -277,6 +306,13 @@ for (const file of ['tokyo-hinanjo', 'tokyo-hinanbasho']) {
         // 「未定」「町会内」のような住所でないものを入れない。番地らしさを求める
         if (!name || !/\d/.test(addr)) continue;
         add('足立区', name, `足立区${addr}`, '足立区 あだちの盆踊り一覧');
+
+        // **同じ会場を複数の町会が別の入口で使うことがある**（東綾瀬公園は 3 か所）。
+        // 会場名だけでは決められないが、この表は町会名も持っているので
+        // 「町会名＋会場」でも引けるようにしておく。祭りの organizer と突き合わせる。
+        // 表の町会名は「綾瀬三丁目自治会 (納涼盆踊り大会)」の形なので括弧を落とす
+        const org = (r[iOrg] ?? '').replace(/[（(].*$/, '').trim();
+        if (org) orgVenueAddr.set(`${norm(org)}|${norm(name)}`, `足立区${addr}`);
       }
     }
   }
@@ -357,6 +393,26 @@ for (const pref of ['tokyo', 'kanagawa', 'saitama']) {
   }
 }
 
+// 大阪府神社庁（`scripts/crawl/jinjacho-osaka.mjs`）。鎮座地は「此花区島屋」のように
+// 町名まで。番地は無いが、既存データにも町丁目までの住所は多いので実用になる。
+// **通称名でも引けるようにする**（こちらのデータは「四貫島住吉神社」＝通称で持っている）
+{
+  const dir = join(ROOT, 'data', 'raw', 'jinjacho', 'osaka');
+  if (existsSync(dir)) {
+    for (const e of readdirSync(dir)) {
+      if (!e.endsWith('.json')) continue;
+      let j;
+      try { j = JSON.parse(readFileSync(join(dir, e), 'utf8')); } catch { continue; }
+      for (const s of j.shrines ?? []) {
+        const ward = s.address.match(/^(\S+?区)/)?.[1];
+        if (!ward) continue;
+        add(ward, s.name, `大阪市${s.address}`, '大阪府神社庁');
+        if (s.alias) add(ward, s.alias, `大阪市${s.address}`, '大阪府神社庁');
+      }
+    }
+  }
+}
+
 // 区＋施設名で引けるようにする。同じ区に同名が 2 つ以上あるものは使わない
 const index = new Map();
 for (const f of facilities) {
@@ -384,7 +440,14 @@ for (const f of loadFestivals()) {
   const candidates = [raw, ...raw.split(/[・、,，\/／\s]+|および|及び|ならびに/)].map(norm).filter(Boolean);
 
   let hit = null;
-  for (const c of candidates) {
+
+  // まず「主催（町会名）＋会場名」で引く。ここで決まれば同名の会場でも取り違えない
+  if (f.organizer) {
+    const byOrg = orgVenueAddr.get(`${norm(f.organizer)}|${norm(raw)}`);
+    if (byOrg) hit = { address: byOrg, lat: null, lng: null };
+  }
+
+  for (const c of hit ? [] : candidates) {
     const list = index.get(`${ward}|${c}`);
     if (!list) continue;
     // 同じ会場が何度も出ることがある（1 つの公園を複数の町会が使う）。

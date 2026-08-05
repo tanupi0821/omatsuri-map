@@ -24,15 +24,16 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-12
+      - 2026-08-13
       - 2026-08-14
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0937e4825/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.takamatsu.kagawa.jp/smph/kanko/takamatsumatsuri/matsuri.html
+    source_name: 高松市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 中日（13日）に高松港玉藻防波堤で花火大会（20:15〜20:45）。まとめサイトは初日と最終日の2日分しか載せていなかった
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Japan_-_Takamatsu_Awa_Odori_Bon_Festival_12.jpg
     width: 1000
@@ -48,4 +49,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Japan_-_Takamatsu_Awa_Odori_Bon_Festival_13.jpg
-station: JR高松駅またはことでん高松築港駅から徒歩4分
+station: JR高松駅／ことでん高松築港駅

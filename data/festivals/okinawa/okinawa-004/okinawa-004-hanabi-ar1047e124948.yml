@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: しおさい公苑
-  address: 中頭郡北中城村字熱田
+  address: 沖縄県中頭郡北中城村
   lat: 26.297136
   lng: 127.811813
 organizer: 北中城村まつり活性化委員会事務局
@@ -26,7 +26,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1047e124948/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.vill.kitanakagusuku.lg.jp/kakuka/kikaku/chiiki/kankou/dai34kaikitanakagusukusiosaimaturinituite/index.html
+    source_name: 北中城村
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は村のページに記載がなく、実行委員会が準備中

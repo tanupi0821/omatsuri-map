@@ -1,0 +1,36 @@
+{
+ "slug": "taisho",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai8shibu/taisho-ku/taisho.html",
+ "shrines": [
+  {
+   "name": "泉尾神社",
+   "alias": null,
+   "address": "大正区泉尾"
+  },
+  {
+   "name": "八阪神社",
+   "alias": "下之宮八阪神社",
+   "address": "大正区三軒家東６"
+  },
+  {
+   "name": "八坂神社",
+   "alias": "上のやさかさん",
+   "address": "大正区三軒家東２"
+  },
+  {
+   "name": "天満宮",
+   "alias": "南恩加島天満宮",
+   "address": "大正区南恩加島"
+  },
+  {
+   "name": "産土神社",
+   "alias": "小林の宮さん",
+   "address": "大正区小林西"
+  },
+  {
+   "name": "神明神社",
+   "alias": null,
+   "address": "大正区鶴町"
+  }
+ ]
+}

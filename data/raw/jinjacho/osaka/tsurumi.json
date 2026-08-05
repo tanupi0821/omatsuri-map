@@ -1,0 +1,41 @@
+{
+ "slug": "tsurumi",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai4shibu/tsurumi-ku/tsurumi.html",
+ "shrines": [
+  {
+   "name": "鶴見神社",
+   "alias": null,
+   "address": "鶴見区鶴見"
+  },
+  {
+   "name": "阿遅速雄神社",
+   "alias": null,
+   "address": "鶴見区放出東"
+  },
+  {
+   "name": "比枝神社",
+   "alias": null,
+   "address": "鶴見区今津中"
+  },
+  {
+   "name": "八幡神社",
+   "alias": null,
+   "address": "鶴見区諸口"
+  },
+  {
+   "name": "八幡宮",
+   "alias": "横堤八幡宮",
+   "address": "鶴見区横堤"
+  },
+  {
+   "name": "大神社",
+   "alias": "大宮神社",
+   "address": "鶴見区茨田大宮"
+  },
+  {
+   "name": "古宮神社",
+   "alias": null,
+   "address": "鶴見区浜"
+  }
+ ]
+}

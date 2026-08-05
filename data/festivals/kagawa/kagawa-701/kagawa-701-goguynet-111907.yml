@@ -1,0 +1,29 @@
+id: kagawa-701-goguynet-111907
+name: 白鳥神社 夏越祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 香川県
+  city: 東かがわ市
+  ward: null
+venue:
+  name: 白鳥神社（香川県東かがわ市松原69）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takamatsu.goguynet.jp/2026/07/29/shirotorijinjya-kagawa-2/
+    source_name: 号外NET 高松市
+    source_type: media
+    checked_at: 2026-08-04

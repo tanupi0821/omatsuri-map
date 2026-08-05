@@ -7,8 +7,8 @@ area:
   city: 行橋市
   ward: null
 venue:
-  name: 今井津須佐神社／今井西公民館前
-  address: 行橋市〈今井津須佐神社元永1299　〈今井西公民館前〉福岡県今井2144
+  name: 今井津須佐神社・今井西公民館
+  address: 福岡県行橋市元永1299
   lat: 33.719895
   lng: 131.010007
 organizer: null
@@ -22,11 +22,15 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
+    start_time: 17:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e314279/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.yukuhashi.fukuoka.jp/site/bunkazai/27697.html
+    source_name: 行橋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 「夜祇園」は17:00頃から、「元永山笠」は18:00頃から、「車上連歌」は20:00頃から
 station: JR行橋駅からバスで祇園橋停留所下車、徒歩10分 〈今井西公民館前〉
+shrine: 今井津須佐神社
+recurrence: 7月中旬〜8月初旬
+recurrence_source: https://www.city.yukuhashi.fukuoka.jp/site/bunkazai/27697.html

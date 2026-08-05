@@ -1,0 +1,46 @@
+{
+ "slug": "higashisumiyoshi",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai9shibu/higashisumiyoshi-ku/higashisumiyoshi.html",
+ "shrines": [
+  {
+   "name": "山阪神社",
+   "alias": null,
+   "address": "東住吉区山坂"
+  },
+  {
+   "name": "天神社",
+   "alias": "桑津天神社",
+   "address": "東住吉区桑津"
+  },
+  {
+   "name": "阿麻美許曽神社",
+   "alias": null,
+   "address": "東住吉区矢田"
+  },
+  {
+   "name": "素盞鳴尊神社",
+   "alias": "鷹合神社",
+   "address": "東住吉区鷹合"
+  },
+  {
+   "name": "住吉神社",
+   "alias": "湯里住吉神社",
+   "address": "東住吉区湯里"
+  },
+  {
+   "name": "中臣須牟地神社",
+   "alias": "住道神",
+   "address": "東住吉区住道矢田"
+  },
+  {
+   "name": "榎神社",
+   "alias": null,
+   "address": "東住吉区北田辺"
+  },
+  {
+   "name": "中井神社",
+   "alias": null,
+   "address": "東住吉区針中野"
+  }
+ ]
+}

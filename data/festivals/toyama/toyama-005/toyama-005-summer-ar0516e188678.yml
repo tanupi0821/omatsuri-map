@@ -18,6 +18,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://ccis-toyama.or.jp/namerikawa/ryugu/
+  - title: 滑川商工会議所 ふるさと龍宮まつり
+    url: https://namerikawa.ccis-toyama.or.jp/ryugu/
 occurrences:
   - year: 2026
     dates:
@@ -26,9 +28,9 @@ occurrences:
     start_time: 11:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0516e188678/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://namerikawa.ccis-toyama.or.jp/ryugu/
+    source_name: 滑川商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 花火は20:10から
 station: あいの風とやま鉄道・富山地方鉄道滑川駅から徒歩10分

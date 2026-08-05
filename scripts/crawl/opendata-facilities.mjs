@@ -80,6 +80,18 @@ const SOURCES = [
     note: 'マップナビおおさか 施設情報（会館・ホール・地域集会所）',
   },
 
+  // --- 福岡県北九州市 -------------------------------------------------------
+  {
+    name: 'kitakyushu-hinanbasho',
+    url: 'https://data.bodik.jp/dataset/7bc7f198-0c29-4393-aa7d-6a38dd819ff0/resource/6f74fc5e-b986-460c-ac21-82889dc2450d/download/401005_hinanbasyo_20260501.csv',
+    note: '北九州市 避難場所・避難所（共通フォーマット）',
+  },
+  {
+    name: 'kitakyushu-shisetsu',
+    url: 'https://data.bodik.jp/dataset/940177f7-d2c7-4724-a12b-f990fe4cf1c2/resource/ced69586-b9d4-4cb1-ada7-f79fcc9a03ee/download/401005_public_facility.csv',
+    note: '北九州市 公共施設一覧',
+  },
+
   // --- 兵庫県神戸市 ---------------------------------------------------------
   // 神戸市は学校一覧をオープンデータにしていないが、**小中学校はほぼ全部が指定避難所**なので
   // 避難所の一覧に住所が載っている。大阪市と同じ wagmap の CSV

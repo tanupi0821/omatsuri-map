@@ -7,11 +7,11 @@ area:
   city: 志摩市
   ward: null
 venue:
-  name: 和具漁港堤防
-  address: 志摩市志摩町和具
+  name: 和具漁港 魚市場周辺
+  address: 三重県志摩市志摩町和具
   lat: 34.25435
   lng: 136.803824
-organizer: 潮かけ祭り奉賛会
+organizer: 一般社団法人志摩市観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,11 @@ occurrences:
     start_time: 20:45
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0624e00452/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 近鉄鵜方駅からバスで和具停留所下車、徒歩6分
+    source_url: https://www.iseshima-kanko.jp/event/1020
+    source_name: 一般社団法人志摩市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開催日は毎年7月14日。花火の時刻は観光協会のページに記載がなく、以前の発表による
+station: 近鉄志摩線 鵜方駅（三交バス御座行きで約47分、「和具」下車）
+recurrence: 7月14日（前夜祭は7月13日）
+recurrence_source: https://www.iseshima-kanko.jp/event/1020

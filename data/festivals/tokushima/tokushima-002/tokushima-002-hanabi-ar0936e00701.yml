@@ -11,7 +11,7 @@ venue:
   address: 鳴門市撫養町立岩
   lat: 34.168058
   lng: 134.616558
-organizer: 鳴門阿波おどり実行委員会
+organizer: 鳴門市・鳴門商工会議所・鳴門市うずしお観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0936e00701/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.narutocci.or.jp/awaodori/index.html
+    source_name: 鳴門商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 「鳴門の夏まつり」は8月7日、「鳴門市阿波おどり」は8月9日〜11日で別の行事。花火の時刻は商工会議所のページに記載がない
 station: JR鳴門駅から徒歩30分またはタクシーで約5分

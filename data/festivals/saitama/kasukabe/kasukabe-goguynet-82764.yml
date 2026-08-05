@@ -7,8 +7,8 @@ area:
   city: 春日部市
   ward: null
 venue:
-  name: 春日部市内
-  address: null
+  name: 春日部市役所 まちのリビング・まちなかひろば・ひだまりホール
+  address: 埼玉県春日部市中央七丁目2番地1
   lat: null
   lng: null
 organizer: null
@@ -25,10 +25,10 @@ occurrences:
     start_time: 16:00
     end_time: 20:00
     status: confirmed
-    source_url: https://kasukabe.goguynet.jp/2026/08/03/nouryounatsumatsuri/
-    source_name: 号外NET 春日部市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.kasukabe.lg.jp/eventjoho/eventjoho_kanko_omatsuri/37655.html
+    source_name: 春日部市
+    source_type: gov
+    checked_at: 2026-08-06
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/9/91/%E4%BA%AC%E9%83%BD%E6%A1%82%E9%A7%90%E5%B1%AF%E5%9C%B0%E7%B4%8D%E6%B6%BC%E5%A4%8F%E7%A5%AD%E3%82%8A_%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%BB%E8%A1%8C%E4%BA%8B%E3%83%BB%E5%BA%83%E5%A0%B1%E6%B4%BB%E5%8B%95%E7%AD%89_70.jpg
     width: 1000
@@ -37,3 +37,4 @@ photos:
     license: CC BY-SA 3.0
     license_url: https://creativecommons.org/licenses/by-sa/3.0
     source: https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E6%A1%82%E9%A7%90%E5%B1%AF%E5%9C%B0%E7%B4%8D%E6%B6%BC%E5%A4%8F%E7%A5%AD%E3%82%8A_%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%BB%E8%A1%8C%E4%BA%8B%E3%83%BB%E5%BA%83%E5%A0%B1%E6%B4%BB%E5%8B%95%E7%AD%89_70.jpg
+station: 東武スカイツリーライン 春日部駅

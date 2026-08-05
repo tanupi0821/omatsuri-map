@@ -329,6 +329,8 @@ cities:
     slug: ehime-703
   - name: 東温市
     slug: ehime-704
+  - name: 伊方町
+    slug: ehime-705
 ---
 pref: 福井県
 cities:
@@ -437,6 +439,8 @@ cities:
     slug: fukuoka-703
   - name: 柳川市
     slug: fukuoka-704
+  - name: 大木町
+    slug: fukuoka-705
 ---
 pref: 福島県
 cities:
@@ -476,6 +480,8 @@ cities:
     slug: fukushima-701
   - name: 川俣町
     slug: fukushima-702
+  - name: 広野町
+    slug: fukushima-703
 ---
 pref: 岐阜県
 cities:
@@ -651,6 +657,8 @@ cities:
     slug: hyogo-705
   - name: 三木市
     slug: hyogo-706
+  - name: 佐用町
+    slug: hyogo-707
 ---
 pref: 石川県
 cities:
@@ -1451,6 +1459,12 @@ cities:
     slug: shizuoka-003
   - name: 小山町
     slug: shizuoka-701
+  - name: 湖西市
+    slug: shizuoka-702
+  - name: 静岡市
+    slug: shizuoka-703
+  - name: 西伊豆町
+    slug: shizuoka-704
 ---
 pref: 徳島県
 cities:

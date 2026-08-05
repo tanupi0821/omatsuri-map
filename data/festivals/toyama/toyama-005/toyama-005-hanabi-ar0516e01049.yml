@@ -11,7 +11,7 @@ venue:
   address: null
   lat: 36.774402
   lng: 137.342791
-organizer: 滑川市水産観光課
+organizer: ふるさと龍宮まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://ccis-toyama.or.jp/namerikawa/ryugu/
+  - title: 滑川商工会議所 ふるさと龍宮まつり
+    url: https://namerikawa.ccis-toyama.or.jp/ryugu/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 20:10
     end_time: 20:45
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0516e01049/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://namerikawa.ccis-toyama.or.jp/ryugu/
+    source_name: 滑川商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 祭り自体は7月18日・19日の2日間。花火は20:10から。終了時刻は商工会議所のページに記載がない
 station: あいの風とやま鉄道・富山地方鉄道滑川駅から徒歩8分

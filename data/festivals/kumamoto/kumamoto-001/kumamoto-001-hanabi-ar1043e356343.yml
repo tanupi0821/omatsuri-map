@@ -26,7 +26,8 @@ occurrences:
     start_time: 20:30
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar1043e356343/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.uki.kumamoto.jp/kankobunka/events/2594200
+    source_name: 宇城市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻・会場は市のイベント一覧に記載がなく、以前の発表による

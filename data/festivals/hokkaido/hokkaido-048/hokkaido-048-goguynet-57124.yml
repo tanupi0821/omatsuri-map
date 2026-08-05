@@ -1,0 +1,32 @@
+id: hokkaido-048-goguynet-57124
+name: 歴舟川清流まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 広尾郡大樹町
+  ward: null
+venue:
+  name: 歴舟川 大樹橋上流河川敷
+  address: 北海道広尾郡大樹町南通1丁目12番地先
+  lat: null
+  lng: null
+organizer: 大樹町観光協会・大樹町
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 大樹町 歴舟川清流まつり
+    url: https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 19:20
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html
+    source_name: 大樹町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催地は広尾郡大樹町。号外NET帯広版から取り込んだため area.city が帯広市になっているので要修正

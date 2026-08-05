@@ -11,7 +11,7 @@ venue:
   address: かすみがうら市坂4784番地先
   lat: 36.071321
   lng: 140.375551
-organizer: あゆみ祭り実行委員会事務局
+organizer: あゆみ祭り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -27,8 +27,9 @@ occurrences:
     start_time: 15:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e312904/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.kasumigaura-kankou.jp/page/page000018.html
+    source_name: かすみがうら市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 日付・時刻は観光協会のページに記載がなく、以前の発表による
 station: JR神立駅からタクシーで約20分

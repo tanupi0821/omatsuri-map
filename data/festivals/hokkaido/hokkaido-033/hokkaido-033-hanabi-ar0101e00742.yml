@@ -7,11 +7,11 @@ area:
   city: 千歳市
   ward: null
 venue:
-  name: 北千歳駐屯地内 スキー山
-  address: 千歳市北信濃
+  name: 陸上自衛隊北千歳駐屯地内 スキー山横
+  address: 北海道千歳市北信濃724番地
   lat: 42.829812
   lng: 141.628337
-organizer: null
+organizer: 千歳市民花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.chitose-cci.or.jp/information/view/87#gsc.tab=0
+  - title: 千歳商工会議所 千歳市空港開港100年記念 千歳市民花火大会
+    url: https://www.chitose-cci.or.jp/information/view/87
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,8 @@ occurrences:
     start_time: 19:45
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0101e00742/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR千歳駅から北海道中央バス桜木線で北部隊前停留所下車(約12分)、またはJR千歳駅から徒歩35分
+    source_url: https://www.chitose-cci.or.jp/information/view/87
+    source_name: 千歳市民花火大会実行委員会（千歳商工会議所）
+    source_type: official
+    checked_at: 2026-08-06
+station: JR千歳駅（バス「桜木線」で北桜コミュニティセンター前下車）

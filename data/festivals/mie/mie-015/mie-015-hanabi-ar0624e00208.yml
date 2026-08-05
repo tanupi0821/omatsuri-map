@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 尾鷲港周辺
-  address: null
+  address: 三重県尾鷲市
   lat: 34.074417
   lng: 136.206631
-organizer: 協同組合尾鷲観光物産協会
+organizer: 第73回おわせ港まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -23,11 +23,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0624e00208/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://owasekankou.com/special/minatomatsuri/
+    source_name: 尾鷲観光物産協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 荒天時は8月2日に順延
 station: JR尾鷲駅から東へ徒歩10分

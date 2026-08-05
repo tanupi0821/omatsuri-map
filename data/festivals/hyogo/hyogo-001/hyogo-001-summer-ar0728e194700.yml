@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: メリケンパーク
-  address: 神戸市中央区波止場町2
+  address: 兵庫県神戸市中央区波止場町2-2
   lat: 34.682298
   lng: 135.188677
-organizer: 神戸市お問い合わせセンター
+organizer: こうべ海の盆踊り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -25,8 +25,8 @@ occurrences:
     start_time: 18:00
     end_time: 20:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e194700/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: 神戸市営地下鉄みなと元町駅から徒歩7分、JR・阪神電鉄元町駅から徒歩10分、阪急電鉄花隈駅から徒歩12分
+    source_url: https://www.city.kobe.lg.jp/d49614/kuyakusho/chuoku/keikaku/uminobon/top.html
+    source_name: 神戸市
+    source_type: gov
+    checked_at: 2026-08-06
+station: 神戸市営地下鉄海岸線 みなと元町駅（徒歩7分）／JR・阪神 元町駅（徒歩10分）

@@ -26,8 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0939e518024/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.town.nahari.kochi.jp/kanko/dtl.php?hdnKey=1706
+    source_name: 奈半利町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は町のページに記載がない
 station: 土佐くろしお鉄道奈半利駅すぐ

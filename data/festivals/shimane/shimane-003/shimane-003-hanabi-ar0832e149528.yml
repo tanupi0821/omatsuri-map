@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 浜田市役所弥栄支所前イベント広場
-  address: 浜田市弥栄町長安本郷
+  address: 島根県浜田市弥栄町長安本郷
   lat: 34.776838
   lng: 132.109799
-organizer: ふるさとまつり実行委員会
+organizer: 弥栄ふるさとまつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.kankou-hamada.org/guidepost/10628
+  - title: 浜田市観光協会 弥栄ふるさとまつり
+    url: https://kankou-hamada.or.jp/guidepost/10628
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +28,10 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0832e149528/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://kankou-hamada.or.jp/guidepost/10628
+    source_name: 浜田市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 日付・時刻は観光協会のページに記載がなく、以前の発表による
+recurrence: 8月中旬（お盆）
+recurrence_source: https://kankou-hamada.or.jp/guidepost/10628

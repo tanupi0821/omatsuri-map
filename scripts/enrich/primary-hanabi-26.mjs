@@ -90,7 +90,7 @@ patchAll([
   // ------------------------------------------------------------------
 
   // 歴舟川清流まつり。**実際の開催地は大樹町**（データの area.city は帯広市のまま）
-  ['hokkaido-008-goguynet-57124', {
+  ['hokkaido-048-goguynet-57124', {
     organizer: '大樹町観光協会・大樹町',
     venue: { name: '歴舟川 大樹橋上流河川敷', address: '北海道広尾郡大樹町南通1丁目12番地先' },
     links: [L('大樹町 歴舟川清流まつり', 'https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html')],
@@ -104,7 +104,7 @@ patchAll([
   }],
 
   // りくべつ鉄道まつり。**実際の開催地は陸別町**（同上）
-  ['hokkaido-008-goguynet-57091', {
+  ['hokkaido-703-goguynet-57091', {
     organizer: 'ふるさと銀河線りくべつ鉄道まつり実行委員会',
     links: [L('陸別町 ふるさと銀河線りくべつ鉄道まつり', 'https://www.rikubetsu.jp/kanko/event/tetsudoumatsuri/')],
     occurrence: {

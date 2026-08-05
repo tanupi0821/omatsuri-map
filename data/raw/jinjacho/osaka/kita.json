@@ -1,0 +1,61 @@
+{
+ "slug": "kita",
+ "url": "https://www.osaka-jinjacho.jp/funai_jinja/dai5shibu/kita-ku/kita.html",
+ "shrines": [
+  {
+   "name": "大阪天満宮",
+   "alias": "天満の天神さん",
+   "address": "北区天神橋"
+  },
+  {
+   "name": "堀川神社",
+   "alias": "堀川戎神社",
+   "address": "北区西天満"
+  },
+  {
+   "name": "露天神社",
+   "alias": "お初天神",
+   "address": "北区曽根崎町"
+  },
+  {
+   "name": "豊崎神社",
+   "alias": "豊崎宮",
+   "address": "北区豊崎"
+  },
+  {
+   "name": "綱敷天神社",
+   "alias": "喜多埜天神",
+   "address": "北区神山町"
+  },
+  {
+   "name": "長柄八幡宮",
+   "alias": null,
+   "address": "北区長柄中"
+  },
+  {
+   "name": "富島神社",
+   "alias": null,
+   "address": "北区中津"
+  },
+  {
+   "name": "八阪神社",
+   "alias": "大仁八阪神社",
+   "address": "北区大淀中"
+  },
+  {
+   "name": "素盞烏尊神社",
+   "alias": "浦江八坂神社",
+   "address": "北区大淀南"
+  },
+  {
+   "name": "天神社",
+   "alias": "淀川天神社",
+   "address": "北区国分寺"
+  },
+  {
+   "name": "南長柄八幡宮",
+   "alias": null,
+   "address": "北区長柄中"
+  }
+ ]
+}

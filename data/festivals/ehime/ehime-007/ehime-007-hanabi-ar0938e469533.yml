@@ -7,8 +7,8 @@ area:
   city: 松山市
   ward: null
 venue:
-  name: 北条外港野積場
-  address: 松山市北条辻
+  name: 北条港 外港野積場
+  address: 愛媛県松山市北条辻
   lat: 33.977104
   lng: 132.770471
 organizer: 風早海まつり実行委員会
@@ -28,8 +28,9 @@ occurrences:
     start_time: 20:20
     end_time: 20:50
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0938e469533/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
+    source_url: https://www.city.matsuyama.ehime.jp/kanko/kankoguide/matsurievent/matsuri-summer.html
+    source_name: 松山市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 花火の打上げは20:20から。終了時刻は市のページに記載がない
 station: JR予讃線伊予北条駅から徒歩10分

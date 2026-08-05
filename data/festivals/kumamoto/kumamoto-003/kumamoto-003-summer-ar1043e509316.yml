@@ -7,11 +7,11 @@ area:
   city: 山鹿市
   ward: null
 venue:
-  name: 山鹿小学校、おまつり広場(国道325号)、大宮神社、菊池川河畔ほか
-  address: 山鹿市山鹿215
+  name: 山鹿小学校グラウンドほか
+  address: 熊本県山鹿市
   lat: 33.013182
   lng: 130.694253
-organizer: null
+organizer: 山鹿灯籠まつり実行委員会（山鹿市観光課）
 stalls: yes
 tags: []
 description: null
@@ -26,9 +26,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e509316/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日／出典に「規模縮小」と記載
+    source_url: https://yamaga-tanbou.jp/about/toromatsuri/
+    source_name: 山鹿市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 目玉の千人灯籠踊り（8月16日）は開場18:30、19:00から子ども灯籠踊り、20:00から21:00が本番
 station: JR新玉名駅からバスで山鹿郵便局前停留所下車、徒歩5分
