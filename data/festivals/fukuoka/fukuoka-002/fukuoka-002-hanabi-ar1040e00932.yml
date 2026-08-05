@@ -16,7 +16,9 @@ stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
 occurrences:
   - year: 2026
     dates:

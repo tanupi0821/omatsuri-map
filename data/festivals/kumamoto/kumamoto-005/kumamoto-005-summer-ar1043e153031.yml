@@ -1,5 +1,5 @@
 id: kumamoto-005-summer-ar1043e153031
-name: ヒゴタイ祭2026【延期】
+name: ヒゴタイ祭2026
 kind: 夏祭り
 scale: 市
 area:
@@ -22,8 +22,9 @@ occurrences:
       - 2026-08-01
     start_time: null
     end_time: null
-    status: confirmed
+    status: postponed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e153031/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-04
+    note: 出典に「延期」と記載

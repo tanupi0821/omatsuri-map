@@ -16,7 +16,9 @@ stalls: yes
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 号外NET 出雲市・雲南市
+    url: https://izumo-unnan.goguynet.jp/2026/07/17/kisukinatsumatsuri/
 occurrences:
   - year: 2026
     dates:

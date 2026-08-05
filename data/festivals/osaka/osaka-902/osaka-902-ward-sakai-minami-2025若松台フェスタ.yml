@@ -1,0 +1,29 @@
+id: osaka-902-ward-sakai-minami-2025若松台フェスタ
+name: 2025若松台フェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市南区
+  ward: null
+venue:
+  name: 若松台小学校
+  address: null
+  lat: null
+  lng: null
+organizer: 若松台地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

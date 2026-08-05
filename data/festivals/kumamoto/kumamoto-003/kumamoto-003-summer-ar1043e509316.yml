@@ -1,5 +1,5 @@
 id: kumamoto-003-summer-ar1043e509316
-name: 山鹿灯籠まつり【規模縮小】
+name: 山鹿灯籠まつり
 kind: 夏祭り
 scale: 市
 area:
@@ -28,4 +28,4 @@ occurrences:
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-04
-    note: 掲載の2日付は期間の初日と最終日
+    note: 掲載の2日付は期間の初日と最終日／出典に「規模縮小」と記載

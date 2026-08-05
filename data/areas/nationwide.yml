@@ -1215,6 +1215,8 @@ cities:
     slug: osaka-002
   - name: 大阪市西淀川区
     slug: osaka-901
+  - name: 堺市南区
+    slug: osaka-902
 ---
 pref: 佐賀県
 cities:

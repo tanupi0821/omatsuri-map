@@ -34,12 +34,33 @@ const strip = (s) => s
 
 /** 見出しの語から列の役割を決める */
 function roleOf(head) {
-  if (/名称|行事|イベント/.test(head)) return 'name';
-  if (/日にち|日時|開催日|期日|日程/.test(head)) return 'date';
+  if (/名称|行事|イベント|まつり/.test(head)) return 'name';
+  // 住吉区は見出しが「日」の 1 文字。長い語から先に判定すること
+  if (/日にち|日時|開催日|期日|日程/.test(head) || head === '日') return 'date';
   if (/場所|会場/.test(head)) return 'place';
   if (/時間|時刻/.test(head)) return 'time';
-  if (/地域|学区|町会|地区/.test(head)) return 'area';
+  if (/主催/.test(head)) return 'org';
+  if (/地域|学区|町会|地区|校区/.test(head)) return 'area';
   return null;
+}
+
+/**
+ * その表を取り込んでよいか。
+ * 堺市南区は 1 ページに「校区まつり」と「校区防災訓練」の表が同居している。
+ * 防災訓練を祭りとして載せるわけにはいかない。
+ */
+const NOT_FESTIVAL_TABLE = /防災訓練|避難訓練|清掃|美化|健診|健康診断|説明会/;
+
+/**
+ * 表の直前の見出しから年度を取る。
+ * 堺市南区は 1 ページに令和6・7・8年度が並び、日程欄に年が無い。
+ * ページの年で一律に補うと、過年度の祭りに今年の年を付けてしまう。
+ */
+function yearBefore(html, tableIndex, fallback) {
+  const before = html.slice(0, tableIndex);
+  const heads = [...before.matchAll(/令和\s*(\d{1,2})\s*年度?/g)];
+  if (!heads.length) return fallback;
+  return 2018 + Number(heads[heads.length - 1][1]);
 }
 
 // 既存データは「大阪市西淀川区」を 1 つの市区町村として持っている。それに合わせる
@@ -71,9 +92,18 @@ for (const [key, { pref, city, url }] of Object.entries(PAGES)) {
   if (!existsSync(path)) { console.warn(`${city}: ${path} がない`); continue; }
   const html = readFileSync(path, 'utf8');
 
-  for (const table of html.match(/<table[\s\S]*?<\/table>/g) ?? []) {
+  for (const m0 of html.matchAll(/<table[\s\S]*?<\/table>/g)) {
+    const table = m0[0];
     const trs = [...table.matchAll(/<tr[\s\S]*?<\/tr>/g)].map((m) => m[0]);
     if (!trs.length) continue;
+
+    // 表そのものが祭り以外（防災訓練など）なら丸ごと飛ばす。
+    // 見出しは表の外にあるので、直前 300 字も一緒に見る
+    const context = html.slice(Math.max(0, m0.index - 300), m0.index) + strip(table).slice(0, 200);
+    if (NOT_FESTIVAL_TABLE.test(context)) continue;
+
+    // この表が何年度のものか
+    const year = yearBefore(html, m0.index, YEAR);
 
     // 1 行目を見出しとみて列の役割を決める
     const roles = [...trs[0].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/g)]
@@ -98,10 +128,13 @@ for (const [key, { pref, city, url }] of Object.entries(PAGES)) {
 
       // 「8月14日(金曜日)、8月15日(土曜日)」のように複数日のことがある。
       // 「予備日7月5日」は雨天時の日程なので開催日ではない
-      const seg = dateText.split(/予備日|雨天|順延/)[0];
+      // 「雨天延期日」「予備日」は開催日ではない
+      const seg = dateText.split(/予備日|雨天|順延|延期/)[0];
+      // 「2026年7月11日（土曜日）」のように年が入っていればそれを使い、
+      // 無ければ表の年度（堺市南区は 1 ページに 3 年度ぶんある）
       const dates = [...new Set(
-        [...seg.matchAll(/(\d{1,2})月\s*(\d{1,2})日/g)]
-          .map((g) => `${YEAR}-${String(g[1]).padStart(2, '0')}-${String(g[2]).padStart(2, '0')}`),
+        [...seg.matchAll(/(?:(20\d\d)年)?\s*(\d{1,2})月\s*(\d{1,2})日/g)]
+          .map((g) => `${g[1] ?? year}-${String(g[2]).padStart(2, '0')}-${String(g[3]).padStart(2, '0')}`),
       )].slice(0, 4);
       if (!dates.length) { skipped++; continue; }
 
@@ -119,9 +152,11 @@ for (const [key, { pref, city, url }] of Object.entries(PAGES)) {
         scale: '町内会',
         // 「酉島夜店と花火大会」のように名前や日時欄に夜店とあれば屋台は出る
         stalls: /夜店|屋台|露店|模擬店/.test(`${name} ${dateText}`) ? 'yes' : 'unknown',
-        ...(area && area !== name ? { organizer: `${area}地域` } : {}),
+        // 主催の列があればそれを、無ければ地域名を主催として扱う
+        ...(pick(cells, 'org') ? { organizer: pick(cells, 'org') }
+          : area && area !== name ? { organizer: `${area}地域` } : {}),
         dates,
-        year: YEAR,
+        year,
         source: url,
         sourceName: city,
         sourceType: 'gov',

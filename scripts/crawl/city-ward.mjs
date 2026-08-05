@@ -33,11 +33,41 @@ export const PAGES = {
     city: '大阪市此花区',
     url: 'https://www.city.osaka.lg.jp/konohana/page/0000654633.html',
   },
+  'osaka-sumiyoshi': {
+    pref: '大阪府',
+    city: '大阪市住吉区',
+    url: 'https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html',
+  },
   // --- 名古屋市。robots.txt は /cgi-bin/ のみ禁止 ---
   'nagoya-meito': {
     pref: '愛知県',
     city: '名古屋市名東区',
     url: 'https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html',
+  },
+  // --- 千葉市。robots.txt は SEO 系ボットのみ禁止 ---
+  'chiba-mihama': {
+    pref: '千葉県',
+    city: '千葉市美浜区',
+    url: 'https://www.city.chiba.jp/mihama/chiikizukuri/tiikiibento_08.html',
+  },
+  // --- 北九州市。robots.txt は /soutatsu/ のみ禁止 ---
+  'kitakyushu-yahatanishi': {
+    pref: '福岡県',
+    city: '北九州市八幡西区',
+    url: 'https://www.city.kitakyushu.lg.jp/yahatanishi/w6200022.html',
+  },
+  'kitakyushu-moji': {
+    pref: '福岡県',
+    city: '北九州市門司区',
+    url: 'https://www.city.kitakyushu.lg.jp/moji/w1100129.html',
+  },
+  // --- 堺市。robots.txt が無い＝制限なし ---
+  // 1 ページに令和6・7・8年度が同居し、日程欄に年が無い。
+  // 「校区防災訓練」の表も混ざるので取り込み側で弾く
+  'sakai-minami': {
+    pref: '大阪府',
+    city: '堺市南区',
+    url: 'https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html',
   },
 };
 

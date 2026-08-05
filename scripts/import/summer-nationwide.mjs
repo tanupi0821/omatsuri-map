@@ -54,6 +54,8 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     if (it.pref && it.pref !== j.pref) continue;
     // 出典が名前に「【2026年中止】」と書いているものは載せない
     if (/中止|開催されません/.test(it.name)) { skippedCancelled++; continue; }
+    // 「【延期】」「【規模縮小】」は載せてよいが、そのままだと
+    // 「開催予定」に見える。名前から外して備考に回す（取り込み後に enrich で処理）
     if (!it.city) { skippedNoCity++; continue; }
     if (!it.startDate) { skippedNoDate++; continue; }
 

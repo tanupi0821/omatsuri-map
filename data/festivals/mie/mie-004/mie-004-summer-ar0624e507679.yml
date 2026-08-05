@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 鈴鹿市・亀山市
+    url: https://suzuka-kameyama.goguynet.jp/2026/07/16/sekijuku-summerfestival/
 occurrences:
   - year: 2026
     dates:

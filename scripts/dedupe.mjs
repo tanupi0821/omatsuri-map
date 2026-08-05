@@ -37,12 +37,23 @@ const TIER = { official: 3, gov: 2, media: 1, aggregator: 0 };
 
 // 括弧は全角・半角が混ざる。「入谷朝顔まつり」と「入谷朝顔まつり(入谷朝顔市)」が
 // 別物として残り、同じ写真が 2 件に付いて両方から外れていた
-const norm = (s) => s
+// 全角数字は半角に直してから「第N回」を落とす。
+// 「第３７回小田原酒匂川花火大会」が素通りしていた
+const han = (s) => s.replace(/[０-９]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xfee0));
+
+const norm = (s) => han(s)
   .replace(/（[^）]*）/g, '')
   .replace(/\([^)]*\)/g, '')
   .replace(/第\d+回/g, '')
   .replace(/20\d\d/g, '')
-  .replace(/[\s　・]/g, '')
+  // 「令和7年度  流山花火大会」の年度も名前ではない
+  .replace(/[令平]\s*[和成]\s*\d{1,2}\s*年度?/g, '')
+  // 「関宿祇園夏まつり」と「関宿祇園夏祭り」は同じもの
+  .replace(/まつり/g, '祭り')
+  .replace(/おどり/g, '踊り')
+  // 「納涼盆踊り大会」と「納涼盆踊り」も同じ
+  .replace(/大会$/, '')
+  .replace(/[\s　・「」『』]/g, '')
   .trim();
 
 const files = [];
@@ -101,6 +112,14 @@ for (const [key, items] of groups) {
   if (items.length < 2) continue;
   // まとめサイト由来を含まない組は、同名の別の祭り（別の神社）なので触らない
   if (!items.some((x) => FROM_AGGREGATOR.test(x.f.id))) continue;
+
+  /**
+   * **政令市の区が違えば別の祭り**。`area.city` が「横浜市」で揃っていても、
+   * 青葉区の「夏祭り」と港南区の「夏祭り」は無関係。
+   * 名前が総称のときにこれが効く。
+   */
+  const wards = new Set(items.map((x) => x.f.area?.ward ?? ''));
+  if (wards.size > 1) continue;
 
   const keep = pickKeeper(items);
   const others = items.filter((x) => x !== keep);
