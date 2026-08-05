@@ -84,8 +84,30 @@ const jsonld =
       }
     : null;
 
-const title = `${f.name}｜${occ?.year}年の日程`;
-const desc = `${f.area.city}${f.area.ward ?? ''}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.venue.name}にて。主催は${f.organizer ?? '不明'}。`;
+/**
+ * **同じ名前の祭りが全国に山ほどある**（「稲荷神社 例祭」は 69 件）。
+ * 題名を名前だけにすると 604 ページが同じ題名になり、検索側からは
+ * 区別が付かない。地名を頭に付けて一意にする。
+ * 名前に既に地名が入っているとき（「藤沢宿・遊行の盆」など）は重ねない。
+ */
+const place = `${f.area.city}${f.area.ward ?? ''}`;
+const bare = place.replace(/[市区町村]$/, '');
+// 同じ区に同名の神社が複数ある（足立区の稲荷神社 例祭が 4 件）。
+// 鎮座地の町名まで入れて初めて区別が付く
+// 住所は「横浜市青葉区元石川町」のように市も区も含む。素朴に最初の
+// 市区町村で切ると「青葉区元石川町」が残り、「横浜市青葉区青葉区…」になる
+const town = (f.venue?.address ?? '')
+  .replace(new RegExp(`^.*?${f.area.ward ?? ''}|^.*?[市区町村]`), '')
+  .replace(/[0-9０-９\-ー－].*$/, '')
+  .trim();
+const where = town.length >= 2 && !place.includes(town) ? `${place}${town}` : place;
+const title = f.name.includes(bare)
+  ? `${f.name}｜${occ?.year}年の日程`
+  : `${where} ${f.name}｜${occ?.year}年の日程`;
+
+const desc = `${place}の${f.kind}「${f.name}」。${formatDates(occ)}、${f.venue.name}にて。`
+  + (f.organizer ? `主催は${f.organizer}。` : '')
+  + (f.stalls === 'yes' ? '屋台・露店が出ます。' : '');
 ---
 
 <Base title={title} description={desc} jsonld={jsonld} image={f.photos?.[0]?.url}>
