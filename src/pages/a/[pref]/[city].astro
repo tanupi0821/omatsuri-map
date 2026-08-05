@@ -7,6 +7,7 @@
  */
 import Base from '../../../layouts/Base.astro';
 import FestivalList from '../../../components/FestivalList.astro';
+import Ad from '../../../components/Ad.astro';
 import { loadFestivals } from '../../../lib/data.js';
 import { SITE_NAME } from '../../../lib/site.js';
 import { areaSummary } from '../../../lib/summary.js';
@@ -71,6 +72,8 @@ const jsonld = {
   )}
 
   <FestivalList festivals={festivals} showArea={wards.size > 0} />
+
+  <Ad />
 
   <p class="lede" style="margin-top:24px">
     <a href={`/search?pref=${encodeURIComponent(prefName)}&city=${encodeURIComponent(cityName)}`}>

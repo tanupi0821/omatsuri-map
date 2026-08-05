@@ -1,5 +1,5 @@
 ---
-import { CONTACT, SITE_NAME, TAGLINE } from '../lib/site.js';
+import { CONTACT, SITE_NAME, TAGLINE, ADS } from '../lib/site.js';
 
 const { title, description, jsonld, image } = Astro.props;
 const site = SITE_NAME;
@@ -27,6 +27,14 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <meta property="og:locale" content="ja_JP" />
     <meta name="twitter:card" content="summary_large_image" />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+    {/* 審査に通って ID を入れるまでは読み込まない */}
+    {ADS.adsense && (
+      <script
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADS.adsense}`}
+        crossorigin="anonymous"
+      />
+    )}
     <style is:global>
       :root {
         --bg: #fdfaf5;
@@ -110,6 +118,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     </main>
     <footer class="site">
       <div class="wrap">
+        <p><a href="/privacy">プライバシーポリシー</a></p>
         <p>掲載しているのは公開告知されている祭りだけです。日時・場所は各出典元の発表にもとづきますが、変更・中止の可能性があります。おでかけ前に主催者の情報をご確認ください。</p>
         {(CONTACT.email || CONTACT.url) && (
           <p>

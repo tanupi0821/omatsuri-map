@@ -1,0 +1,37 @@
+---
+/**
+ * 広告枠
+ *
+ * `site.js` の `ADS.adsense` が空なら**何も出さない**。
+ * 審査に通る前にコードだけ置くと、空の枠が残って見た目が崩れる。
+ *
+ * 置き場所は「読み終わったところ」に限る。**日程や会場の上に広告を挟むと、
+ * 祭りを調べに来た人の邪魔をする**。それをやると滞在時間も検索順位も落ちて、
+ * 結局は広告収入も減る。
+ */
+import { ADS } from '../lib/site.js';
+---
+
+{ADS.adsense && ADS.slot && (
+  <aside class="ad" aria-label="広告">
+    <span class="label">広告</span>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={ADS.adsense}
+      data-ad-slot={ADS.slot}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    />
+    <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </aside>
+)}
+
+<style>
+  .ad { margin: 32px 0 8px; }
+  /* 広告だと分かるようにしておく。紛らわしい置き方は規約違反でもある */
+  .ad .label {
+    display: block; font-size: 11px; color: var(--muted);
+    margin-bottom: 4px; letter-spacing: .08em;
+  }
+</style>
