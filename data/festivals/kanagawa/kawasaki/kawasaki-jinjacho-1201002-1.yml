@@ -18,7 +18,9 @@ shrine: 八幡神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1201002-000/
 occurrences:
   - year: 2026
     dates:

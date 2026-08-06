@@ -12,12 +12,14 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links:
   - title: 隅田川花火大会公式サイト
     url: https://www.sumidagawa-hanabi.com/
+  - title: 号外NET 荒川区
+    url: https://arakawa.goguynet.jp/2026/07/25/dai49kaisumidagawa/
 occurrences:
   - year: 2026
     dates:

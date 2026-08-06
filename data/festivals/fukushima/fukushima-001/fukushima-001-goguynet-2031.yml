@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 郡山市（県中地域）
+    url: https://koriyama.goguynet.jp/2026/07/31/hagihimematsuri/
 occurrences:
   - year: 2026
     dates:

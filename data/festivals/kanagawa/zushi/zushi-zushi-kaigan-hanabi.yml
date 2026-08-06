@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 逗子海岸
-  address: null
+  address: 逗子市新宿1丁目2210-6
   lat: null
   lng: null
 station: 逗子
@@ -23,6 +23,8 @@ links:
     url: https://www.city.zushi.kanagawa.jp/shiminkatsudo/kanko/1004356/1013768.html
   - title: 第69回逗子海岸花火大会 公式サイト
     url: https://zushihanabi.com/
+  - title: 号外NET 鎌倉市・逗子市
+    url: https://kamakura-zushi.goguynet.jp/2026/04/21/zushihanabi-3/
 occurrences:
   - year: 2026
     dates:

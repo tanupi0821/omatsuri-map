@@ -15,13 +15,17 @@ organizer: 青森県弘前市
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 神戸ジャーナル
+    url: https://kobe-journal.com/archives/3443282855.html
 occurrences:
   - year: 2026
     dates:
       - 2026-05-29
-    start_time: null
-    end_time: null
+      - 2026-05-30
+      - 2026-05-31
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kobe-journal.com/archives/4275695722.html
     source_name: 神戸ジャーナル

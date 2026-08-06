@@ -15,7 +15,9 @@ organizer: 浄土寺
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 赤坂経済新聞
+    url: http://akasaka.keizai.biz/headline/4730/
 occurrences:
   - year: 2026
     dates:

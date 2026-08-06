@@ -17,7 +17,9 @@ organizer: 皇太神宮
 shrine: 皇太神宮
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1203007-000/
 occurrences:
   - year: 2026
     dates:

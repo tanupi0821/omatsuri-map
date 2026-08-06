@@ -16,7 +16,11 @@ shrine: 菅生神社
 tags:
   - 神輿
 description: null
-links: []
+links:
+  - title: みやまえご近所さん（宮前区役所運営）
+    url: https://miyamae-gokinjosan.com/festival/
+  - title: 長沢自治会 公式サイト
+    url: https://nagasawa-jichikai.org/sugao-jinja/
 occurrences:
   - year: 2026
     dates:
@@ -29,6 +33,16 @@ occurrences:
     source_name: みやまえご近所さん（宮前区役所運営）
     checked_at: 2026-08-02
     source_type: gov
+  - year: 2025
+    dates:
+      - 2025-10-04
+      - 2025-10-05
+    status: confirmed
+    note: 10/4 8:00 菅生神社境内で御神輿・御太鼓（山車）お祓い、9:00 長沢自治会館に神酒所開設、13:00頃 宮太鼓神酒所着、14:30〜21:00 演芸大会。10/5 8:00 宮出し、13:30 長沢子ども会神輿巡行、17:30 宮入り
+    source_url: https://nagasawa-jichikai.org/sugao-jinja/
+    source_name: 長沢自治会 公式サイト
+    source_type: official
+    checked_at: 2026-08-02
 recurrence: 10月第1日曜日
 recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201046-000/
 stalls: unknown

@@ -19,12 +19,14 @@ description: null
 links:
   - title: 公式サイト
     url: http://www.kan-cci.or.jp/zenigata/index.html
+  - title: 号外NET 高松市
+    url: https://takamatsu.goguynet.jp/2026/07/04/61kanonjimatsuri-kagawa/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0937e510350/
     source_name: 花火大会2026（ウォーカープラス）

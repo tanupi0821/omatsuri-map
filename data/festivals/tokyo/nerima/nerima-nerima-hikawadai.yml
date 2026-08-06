@@ -14,7 +14,9 @@ venue:
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 練馬区議会議員 佐藤力 公式サイト
+    url: https://satoriki.net/blog/8424/
 occurrences:
   - year: 2026
     dates:

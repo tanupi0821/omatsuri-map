@@ -17,7 +17,9 @@ organizer: 天満宮
 shrine: 天満宮
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1202109-000/
 occurrences:
   - year: 2026
     dates:

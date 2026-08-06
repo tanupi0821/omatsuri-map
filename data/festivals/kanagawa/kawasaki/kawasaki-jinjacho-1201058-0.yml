@@ -18,7 +18,9 @@ shrine: 神明社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1201058-000/
 occurrences:
   - year: 2026
     dates:

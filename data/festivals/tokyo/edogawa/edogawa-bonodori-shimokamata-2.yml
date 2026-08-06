@@ -14,7 +14,9 @@ venue:
 organizer: 下鎌田町会
 tags: []
 description: null
-links: []
+links:
+  - title: 江戸川区 えどがわ地域情報局
+    url: https://www.city.edogawa.tokyo.jp/e036/kurashi/chiikicommunity/johokyoku/tobu/event/toubutikubonnodori.html
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_type: gov
     checked_at: 2026-08-03
 stalls: unknown
+shrine: 山王神社

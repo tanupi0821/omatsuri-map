@@ -17,7 +17,9 @@ organizer: 天照大神
 shrine: 天照大神
 tags: []
 description: null
-links: []
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1204017-000/
 occurrences:
   - year: 2026
     dates:

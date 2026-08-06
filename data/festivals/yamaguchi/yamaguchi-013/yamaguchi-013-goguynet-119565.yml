@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 周南経済新聞
+    url: http://shunan.keizai.biz/headline/2206/
 occurrences:
   - year: 2026
     dates:

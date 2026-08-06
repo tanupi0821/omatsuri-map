@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 江戸川区
+    url: https://edogawa.goguynet.jp/2026/04/08/edogawakuhanabitaikai2026/
 occurrences:
   - year: 2026
     dates:

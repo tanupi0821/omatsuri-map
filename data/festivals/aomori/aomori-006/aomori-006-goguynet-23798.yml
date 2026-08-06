@@ -9,13 +9,16 @@ area:
 venue:
   name: 館鼻漁港
   address: 八戸市新湊3丁目
-  lat: null
-  lng: null
-organizer: null
-stalls: unknown
-tags: []
+  lat: 40.528203
+  lng: 141.529394
+organizer: 八戸花火大会実行委員会事務局
+stalls: yes
+tags:
+  - 花火
 description: null
-links: []
+links:
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0202e00027/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +30,4 @@ occurrences:
     source_name: 号外NET 八戸市（三八）
     source_type: media
     checked_at: 2026-08-04
+station: JR陸奥湊駅から徒歩10分またはJR白銀駅から徒歩20分

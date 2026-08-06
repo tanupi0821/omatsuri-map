@@ -11,11 +11,15 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 】榛名の祭り実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 高崎市
+    url: https://takasaki.goguynet.jp/2026/07/26/harunako_hanabi_2026/
+  - title: 高崎前橋経済新聞
+    url: http://takasaki.keizai.biz/headline/5285/
 occurrences:
   - year: 2026
     dates:

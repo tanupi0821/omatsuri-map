@@ -15,7 +15,9 @@ organizer: null
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 号外NET 横浜市磯子区・金沢区
+    url: https://yokohamakanazawa-isogo.goguynet.jp/2026/06/03/hanabi/
 occurrences:
   - year: 2026
     dates:

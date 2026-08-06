@@ -8,23 +8,28 @@ area:
   ward: null
 venue:
   name: 下渡橋下流
-  address: null
-  lat: null
-  lng: null
-organizer: null
-stalls: unknown
-tags: []
+  address: 美濃市横越中島地内
+  lat: 35.532843
+  lng: 136.900076
+organizer: 美濃市花火大会実行委員会
+stalls: yes
+tags:
+  - 花火
 description: null
-links: []
+links:
+  - title: 美濃市観光協会
+    url: https://minokanko.com/event/category/summer/p7968/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+      - 2026-08-29
+    start_time: 19:30
+    end_time: 20:00
     status: confirmed
     source_url: https://kani.goguynet.jp/2026/07/31/hanabi-7/
     source_name: 号外NET 可児市（中濃地域）
     source_type: media
     checked_at: 2026-08-06
     note: 8月1日の1日だけ。取り込みの読み直しでは8月29日が足されるが、記事の題は「8月1日は花火大会へ」で、8月29日は予備日か別の花火大会の日とみられるため採用しない
+station: 長良川鉄道 美濃市駅

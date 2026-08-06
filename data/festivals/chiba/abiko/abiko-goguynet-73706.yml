@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 我孫子市
+    url: https://abiko.goguynet.jp/2026/07/25/yukatakitsuke/
 occurrences:
   - year: 2026
     dates:

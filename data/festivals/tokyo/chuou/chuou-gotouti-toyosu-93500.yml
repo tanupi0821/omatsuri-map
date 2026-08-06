@@ -9,8 +9,8 @@ area:
 venue:
   name: 晴海ふ頭公園
   address: 中央区晴海5-7-1
-  lat: null
-  lng: null
+  lat: 35.648064
+  lng: 139.76871
 organizer: null
 stalls: yes
 tags: []
@@ -18,13 +18,15 @@ description: null
 links:
   - title: 晴海ふ頭公園盆踊り大会 公式Webサイト
     url: https://www.harumiflag.org/summerfestival
+  - title: 東京フェスタ
+    url: https://tokyofesta.com/23ku/30964/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://toyosu.tokyo/event/harumifutopark-bonodori-2026-info/
     source_name: とよすと

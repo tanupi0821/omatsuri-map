@@ -15,7 +15,9 @@ organizer: 鶴川地区協議会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 町田市
+    url: https://machida.goguynet.jp/2026/05/24/tsurukawaomotenashi2026/
 occurrences:
   - year: 2026
     dates:

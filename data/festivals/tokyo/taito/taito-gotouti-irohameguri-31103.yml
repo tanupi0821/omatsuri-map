@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 台東区
+    url: https://taito.goguynet.jp/2026/07/19/hanabi/
 occurrences:
   - year: 2026
     dates:

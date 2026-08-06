@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: 多摩センター夏まつり実行委員会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: レアリア
+    url: https://rarea.events/event/302388
 occurrences:
   - year: 2026
     dates:

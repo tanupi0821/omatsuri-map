@@ -8,14 +8,20 @@ area:
   ward: null
 venue:
   name: 開北橋下流（石巻市）
-  address: null
+  address: 石巻市中央
   lat: 38.448472
   lng: 141.306534
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 石巻市・東松島市
+    url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/06/11/post-18126/
+  - title: 号外NET 石巻市・東松島市
+    url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/07/28/kawabiraki-3/
+  - title: 号外NET 石巻市・東松島市
+    url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/07/30/post-18361/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +33,11 @@ occurrences:
     source_name: 号外NET 石巻市・東松島市
     source_type: media
     checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ishinomaki_kawahiraki_fes%2C_2026.jpg/1280px-Ishinomaki_kawahiraki_fes%2C_2026.jpg
+    width: 1000
+    height: 750
+    credit: 石巻敎祖
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Ishinomaki_kawahiraki_fes,_2026.jpg

@@ -92,11 +92,40 @@ for (let i = files.length - 1; i >= 0; i--) {
 if (revived) console.log(`統合済みなのに取り込みで戻っていた ${revived} 件を片付けた`);
 
 const groups = new Map();
+const bySource = new Map();
+// 出典 URL で作った組の目印。こちらは「同じページから 2 回作られた」証拠なので、
+// 出典の格や会場名の食い違いに関係なく統合してよい
+const sourceKeys = new Set();
 for (const path of files) {
   const f = parse(readFileSync(path, 'utf8'));
   const key = `${f.area.pref}|${f.area.city}|${norm(f.name)}`;
   if (!groups.has(key)) groups.set(key, []);
   groups.get(key).push({ path, f });
+
+  /**
+   * **出典 URL と名前が両方同じなら、同じ祭り。**
+   *
+   * 名前が同じだけでは統合しない（同じ市に同名の神社がいくつもある）が、
+   * **出典の URL まで同じなら、同じページから 2 回作られた**ということ。
+   * 実際に神奈川県神社庁の 1 社が `aoba-jinjacho-…` と
+   * `yokohama-jinjacho-…` の 2 件になっていた。区を市として扱っていた
+   * 頃の取り込みが残ったもので、125 組 250 件あった。
+   *
+   * この規則は出典の格を問わない（神社庁どうしでも成り立つ）。
+   */
+  const u = f.occurrences?.[0]?.source_url;
+  if (u) {
+    const sk = `${u}|${norm(f.name)}`;
+    if (!bySource.has(sk)) bySource.set(sk, []);
+    bySource.get(sk).push({ path, f });
+  }
+}
+// 出典が同じ組は、名前で作った組より確実なので先に入れておく
+for (const [sk, list] of bySource) {
+  if (list.length < 2) continue;
+  if (groups.has(sk)) continue;
+  groups.set(sk, list);
+  sourceKeys.add(sk);
 }
 
 /** 出典の質・写真の有無で「残す方」を選ぶ */
@@ -134,10 +163,15 @@ function pickKeeper(items) {
 }
 
 let merged = 0; let removed = 0;
-for (const [key, items] of groups) {
+// 1 つのファイルが「名前で作った組」と「出典で作った組」の両方に入ることがある。
+// 2 度消そうとして落ちたので、消したものを覚えておく
+const gone = new Set();
+for (const [key, rawItems] of groups) {
+  const items = rawItems.filter((x) => !gone.has(x.path));
   if (items.length < 2) continue;
-  // まとめサイト由来を含まない組は、同名の別の祭り（別の神社）なので触らない
-  if (!items.some((x) => FROM_AGGREGATOR.test(x.f.id))) continue;
+  // まとめサイト由来を含まない組は、同名の別の祭り（別の神社）なので触らない。
+  // ただし出典 URL が同じ組は別（同じページから 2 回作られたことが確定している）
+  if (!sourceKeys.has(key) && !items.some((x) => FROM_AGGREGATOR.test(x.f.id))) continue;
 
   /**
    * **政令市の区が違えば別の祭り**。`area.city` が「横浜市」で揃っていても、
@@ -161,7 +195,8 @@ for (const [key, items] of groups) {
    */
   const vkey = (x) => han(x.f.venue?.name ?? '').replace(/[\s　・（）()]/g, '');
   const venues = [...new Set(items.map(vkey).filter((v) => v && !/[市区町村]内$/.test(v)))];
-  const conflict = venues.some((p) => venues.some((q) => p !== q && !p.includes(q) && !q.includes(p)));
+  const conflict = !sourceKeys.has(key)
+    && venues.some((p) => venues.some((q) => p !== q && !p.includes(q) && !q.includes(p)));
   if (conflict) {
     console.log(`会場が違うので触らない: ${key.split('|').slice(1).join(' ')}`
       + `（${venues.join(' / ')}）`);
@@ -239,7 +274,8 @@ for (const [key, items] of groups) {
     writeFileSync(keep.path, stringify(k, { lineWidth: 0 }), 'utf8');
     for (const x of others) {
       mergedInto[x.f.id] = k.id;
-      unlinkSync(x.path);
+      if (existsSync(x.path)) unlinkSync(x.path);
+      gone.add(x.path);
     }
   }
 }
