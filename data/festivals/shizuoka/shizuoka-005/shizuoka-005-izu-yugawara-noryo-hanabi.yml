@@ -1,10 +1,10 @@
-id: yugawara-izu-yugawara-noryo-hanabi
+id: shizuoka-005-izu-yugawara-noryo-hanabi
 name: 伊豆湯河原温泉納涼花火大会
 kind: 花火
 scale: 市
 area:
-  pref: 神奈川県
-  city: 湯河原町
+  pref: 静岡県
+  city: 熱海市
   ward: null
 venue:
   name: 泉公園
@@ -32,5 +32,5 @@ occurrences:
     source_name: 湯河原温泉観光協会
     source_type: official
     checked_at: 2026-08-06
-    note: 和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から。会場の泉公園は県境を越えた静岡県熱海市泉にある（この祭りは神奈川県湯河原町として載せている）
+    note: 和太鼓19時40分から、手筒花火20時20分から、打上花火20時40分から。伊豆湯河原温泉は県境を越えた静岡県熱海市泉地区にある（隣の神奈川県湯河原町ではない）
 stalls: unknown

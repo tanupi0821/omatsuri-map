@@ -1,0 +1,29 @@
+id: shizuoka-002-gotouti-plus-on-mo-22931
+name: 豊橋納涼祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 静岡県
+  city: 浜松市
+  ward: null
+venue:
+  name: 浜松市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-05
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://plus.on-mo.jp/2026/06/25/toyohashi-summer-festival/
+    source_name: オンモプラス
+    source_type: media
+    checked_at: 2026-08-06

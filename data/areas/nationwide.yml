@@ -91,6 +91,8 @@ cities:
     slug: nagoya-atsuta
   - name: 名古屋市東区
     slug: nagoya-higashi
+  - name: 江南市
+    slug: aichi-704
 ---
 pref: 北海道
 cities:
@@ -441,6 +443,8 @@ cities:
     slug: fukuoka-704
   - name: 大木町
     slug: fukuoka-705
+  - name: 上毛町
+    slug: fukuoka-706
 ---
 pref: 福島県
 cities:
@@ -572,6 +576,10 @@ cities:
     slug: hiroshima-702
   - name: 世羅町
     slug: hiroshima-703
+  - name: 広島市安佐南区
+    slug: hiroshima-704
+  - name: 広島市安佐北区
+    slug: hiroshima-705
 ---
 pref: 兵庫県
 cities:
@@ -952,6 +960,8 @@ cities:
     slug: miyagi-001
   - name: 仙台市
     slug: miyagi-002
+  - name: 富谷市
+    slug: miyagi-701
 ---
 pref: 宮崎県
 cities:
@@ -1162,6 +1172,10 @@ cities:
     slug: oita-011
   - name: 臼杵市
     slug: oita-001
+  - name: 豊後高田市
+    slug: oita-701
+  - name: 豊前市
+    slug: oita-702
 ---
 pref: 岡山県
 cities:
@@ -1327,6 +1341,8 @@ cities:
     slug: osaka-702
   - name: 熊取町
     slug: osaka-703
+  - name: 堺市
+    slug: osaka-704
 ---
 pref: 佐賀県
 cities:

@@ -1,0 +1,29 @@
+id: chiyoda-gotouti-akiba-tv-13039
+name: かなまら祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 千代田区
+  ward: null
+venue:
+  name: 大師公園緑陰広場（かなまら神輿渡御休憩場）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: 09:30
+    end_time: 16:30
+    status: confirmed
+    source_url: https://akiba.tv/13039/
+    source_name: Akiba.TV
+    source_type: media
+    checked_at: 2026-08-06

@@ -94,8 +94,12 @@ for (const p of files) {
   if (bare.slice(muni.length).includes(muni)) add('dup-muni', f, addr, `「${muni}」が二重`);
 
   // 1. 町名が抜けている（市区町村の直後がいきなり数字）
+  // ただし**北海道の「◯条◯丁目」は正しい住所**（江別市3条5丁目11-1）。
+  // 京都の「四条通」なども同型なので、数字のすぐ後ろが「条」なら誤りとしない
   const rest = bare.slice(muni.length);
-  if (/^[\d０-９]/.test(rest)) add('truncated', f, addr, '市区町村の直後がいきなり番地');
+  if (/^[\d０-９]/.test(rest) && !/^[\d０-９]+条/.test(rest)) {
+    add('truncated', f, addr, '市区町村の直後がいきなり番地');
+  }
 
   // 4. 掲載市区町村と食い違う
   const am = areaMuni(f);
