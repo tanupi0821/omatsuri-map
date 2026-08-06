@@ -7,8 +7,8 @@ area:
   city: 福生市
   ward: null
 venue:
-  name: 】小平あじさい公園（西武線・小平駅南口より徒歩5分）
-  address: null
+  name: 福生駅周辺の商店街
+  address: 福生市本町
   lat: null
   lng: null
 organizer: null
@@ -19,14 +19,15 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-01
-      - 2026-07-08
-      - 2026-07-15
-      - 2026-07-22
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://hachioji.goguynet.jp/2026/07/10/tama-chill-sanpo/
     source_name: 号外NET 八王子市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月7日（金）〜9日（日）、福生駅周辺の商店街。会場名に同じまとめ記事の別の話題（小平市の「小平あじさい公園」）が入っていたので直した
+station: JR青梅線 福生駅

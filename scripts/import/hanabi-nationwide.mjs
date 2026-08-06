@@ -16,7 +16,7 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { emit, ROOT } from './_lib.mjs';
-import { citySlug } from '../lib/romaji.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { PREFS } from '../lib/prefs.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
@@ -29,9 +29,13 @@ if (!existsSync(RAW)) {
   process.exit(1);
 }
 
-// 既に定義済みの市区町村（関東など手で整えたもの）は、その slug をそのまま使う
-const known = new Map();
-for (const a of loadAreaList(ROOT)) known.set(`${a.pref}|${a.city}`, a.slug);
+/**
+ * **slug は `_slug.mjs` にまとめて採らせる。**
+ * ここは以前、県ごとに `let seq = 0` から連番を振り直していて、
+ * しかも使用済みかどうかを見ていなかった。そのため実行のたびに
+ * 別の市が同じ連番を取り、**同じ URL を共有する祭り**が生まれ続けていた。
+ */
+const pool = makeSlugPool(ROOT);
 
 const KIND = (name) => {
   if (/盆踊|盆おどり/.test(name)) return '盆踊り';
@@ -55,7 +59,6 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
   if (!pref) continue;
 
   const cities = new Map();
-  let seq = 0;
 
   for (const it of j.items) {
     // 出典側の都道府県が一覧の県と食い違うもの（他県の広告枠）は入れない
@@ -66,10 +69,7 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     if (!it.startDate) { skippedNoDate++; continue; }
 
     if (!cities.has(it.city)) {
-      const slug = known.get(`${j.pref}|${it.city}`)
-        ?? citySlug(it.city)
-        ?? `${pref.slug}-${String(++seq).padStart(3, '0')}`;
-      cities.set(it.city, slug);
+      cities.set(it.city, pool.assign(j.pref, it.city, pref.slug, 300));
     }
     const cSlug = cities.get(it.city);
 

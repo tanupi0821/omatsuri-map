@@ -1,0 +1,36 @@
+id: kawasaki-jinjacho-1201067-0
+name: 神明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 神明神社
+  address: 川崎市高津区下作延4-16-1
+  lat: null
+  lng: null
+recurrence: 9月28日に近い土曜日／9月28日に近い日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201067-000/
+organizer: 神明神社
+shrine: 神明神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 神明神社 公式サイト
+    url: http://nanajinjakonwakai.la.coocan.jp
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201067-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月28日に近い土曜日／9月28日に近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない

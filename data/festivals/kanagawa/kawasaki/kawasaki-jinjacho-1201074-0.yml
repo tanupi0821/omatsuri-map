@@ -1,0 +1,33 @@
+id: kawasaki-jinjacho-1201074-0
+name: 浅間社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 浅間社
+  address: 川崎市多摩区登戸2919
+  lat: null
+  lng: null
+recurrence: 4月第1日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201074-000/
+organizer: 浅間社
+shrine: 浅間社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201074-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

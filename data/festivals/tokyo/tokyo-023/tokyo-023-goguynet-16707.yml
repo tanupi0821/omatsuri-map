@@ -8,16 +8,14 @@ area:
   ward: null
 venue:
   name: 武蔵野市内
-  address: 武蔵野市吉祥寺本町1丁目11-26
+  address: null
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 号外NET 武蔵野市・小金井市
-    url: https://musashino.goguynet.jp/2026/07/14/maturi/
+links: []
 occurrences:
   - year: 2026
     dates:

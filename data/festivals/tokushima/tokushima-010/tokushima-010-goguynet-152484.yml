@@ -1,0 +1,30 @@
+id: tokushima-010-goguynet-152484
+name: 阿南夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 徳島県
+  city: 阿南市
+  ward: null
+venue:
+  name: 徳島県阿南市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokushima.goguynet.jp/2026/07/23/ibento-yu_guremarket-anan-natumaturi-kaisaiyotei/
+    source_name: 号外NET 徳島市
+    source_type: media
+    checked_at: 2026-08-04

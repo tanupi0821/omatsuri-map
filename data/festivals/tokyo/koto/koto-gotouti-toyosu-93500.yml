@@ -7,7 +7,7 @@ area:
   city: 江東区
   ward: null
 venue:
-  name: 深川第五中学校）は
+  name: 晴海ふ頭公園
   address: null
   lat: null
   lng: null
@@ -28,3 +28,4 @@ occurrences:
     source_name: とよすと
     source_type: media
     checked_at: 2026-08-06
+    note: 会場名に記事の地の文が混ざっていた（「深川第五中学校）は」）ので会場名だけにした。なお会場の晴海ふ頭公園は中央区晴海で、掲載区（江東区）と食い違うため要確認

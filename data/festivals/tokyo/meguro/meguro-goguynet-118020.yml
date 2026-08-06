@@ -7,8 +7,8 @@ area:
   city: 目黒区
   ward: null
 venue:
-  name: 】フナイリバ（⽬⿊区中⽬⿊1-11-18）
-  address: 目黒区中目黒3-1-6
+  name: フナイリバ
+  address: 目黒区中目黒1-11-18
   lat: 35.641551
   lng: 139.69954
 organizer: 中目黒盆踊り大会実行委員会
@@ -29,4 +29,5 @@ occurrences:
     source_url: https://meguro.goguynet.jp/2026/07/27/nakameguro_bonodori2026/
     source_name: 号外NET 目黒区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 会場名に見出しの記号と住所が混ざっていた（「】フナイリバ（目黒区中目黒1-11-18）」）ので分けた

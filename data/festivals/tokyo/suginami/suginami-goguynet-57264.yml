@@ -7,8 +7,8 @@ area:
   city: 杉並区
   ward: null
 venue:
-  name: 】神田川会場・玉川上水会場・久我山会館・久我山稲荷神社・北口商店街（ジャンボデン
-  address: null
+  name: 神田川会場・玉川上水会場・久我山会館・久我山稲荷神社・北口商店街（ジャンボデンキ内）・宮下橋公園
+  address: 杉並区久我山
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,6 @@ occurrences:
     source_url: https://suginami.goguynet.jp/2026/06/04/kugayamahotarumatsuri2026/
     source_name: 号外NET 杉並区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 6月6日（土）・7日（日）14:00〜21:00、小雨決行・荒天中止。会場は神田川・玉川上水・久我山会館・久我山稲荷神社・北口商店街（ジャンボデンキ内）・宮下橋公園の6か所
+station: 京王井の頭線 久我山駅

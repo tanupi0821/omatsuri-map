@@ -7,8 +7,8 @@ area:
   city: 長岡市
   ward: null
 venue:
-  name: 近くに駐車場は
-  address: null
+  name: 信濃川河川敷
+  address: 長岡市
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://niigatanagaoka.goguynet.jp/2026/07/29/nagaokamatsuri-parking2026/
     source_name: 号外NET 長岡市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 会場名に記事の地の文（「近くに駐車場は」）が入っていたので直した

@@ -7,8 +7,8 @@ area:
   city: 大里郡寄居町
   ward: null
 venue:
-  name: 寄居町玉淀河原
-  address: 大里郡寄居町大字寄居
+  name: 玉淀河原
+  address: 大里郡寄居町
   lat: 36.110851
   lng: 139.194526
 organizer: 寄居玉淀水天宮祭実行委員会事務局
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.town.yorii.saitama.jp/soshiki/13/yoriitamayodosuitengusai.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0311e00903/
 occurrences:
   - year: 2026
     dates:
@@ -26,8 +28,9 @@ occurrences:
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00903/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR・東武鉄道・秩父鉄道寄居駅南口から徒歩15分
+    source_url: https://www.town.yorii.saitama.jp/soshiki/13/yoriitamayodosuitengusai.html
+    source_name: 寄居町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 花火の打上時刻は寄居町の告知に記載がなく、以前の発表による
+station: 東武東上線・秩父鉄道・JR八高線 寄居駅

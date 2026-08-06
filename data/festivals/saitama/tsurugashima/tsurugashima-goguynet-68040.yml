@@ -1,5 +1,5 @@
 id: tsurugashima-goguynet-68040
-name: ☆各団体による演目や華やかな衣装 夏祭り
+name: 第32回 サマーカーニバルin鶴ヶ島
 kind: 夏祭り
 scale: 町内会
 area:
@@ -7,7 +7,7 @@ area:
   city: 鶴ヶ島市
   ward: null
 venue:
-  name: 近くの「コモディイイダ
+  name: 鶴ヶ島駅西口商店街通り（飯能信用金庫 鶴ヶ島支店前〜コモディイイダ 鶴ヶ島店前）
   address: 鶴ヶ島市鶴ヶ丘20-2
   lat: null
   lng: null
@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 21:00
     status: confirmed
     source_url: https://sakado-tsurugashima.goguynet.jp/2026/07/06/summer-carnival2026/
     source_name: 号外NET 坂戸市・鶴ヶ島市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月18日（土）14:00〜21:00。会場は鶴ヶ島駅西口商店街通りで、本会場は飯能信用金庫 鶴ヶ島支店前からコモディイイダ 鶴ヶ島店前までの区間。祭りの名前も会場名も記事の地の文の途中から切り出されていたので直した
+station: 東武東上線 鶴ヶ島駅（西口）

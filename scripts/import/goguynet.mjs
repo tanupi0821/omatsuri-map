@@ -16,7 +16,7 @@ import { join } from 'node:path';
 import { emit, ROOT } from './_lib.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { byName, PREFS } from '../lib/prefs.mjs';
-import { citySlug } from '../lib/romaji.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, hasStalls, pickDates, pickVenue, pickName, usableName,
@@ -62,6 +62,10 @@ const AREA_PREF = {
   nagasaki: '長崎県', saga: '佐賀県', 'kumamotochuo-higashi': '熊本県',
   ooita: '大分県', 'beppu-yufu-hita': '大分県',
   miyazaki: '宮崎県', 'kirishima-aira': '鹿児島県', 'satsumasendai-izumi': '鹿児島県',
+  // 四国の 5 版は見出しが「四国」としか書いていない。県を補わないと
+  // 市区町村の照合が県で絞れず、同名の市を他県から拾う
+  tokushima: '徳島県', takamatsu: '香川県', matsuyama: '愛媛県',
+  'imabari-saijo': '愛媛県', kochi: '高知県',
 };
 
 // 市区町村名 → エリア定義。同名の市が複数県にある（府中市など）ので候補を全部持つ
@@ -87,16 +91,15 @@ for (const a of loadAreaList(ROOT)) {
  */
 // まだエリア定義に無い市区町村。ここで足す（全国の花火・夏祭りと同じ nationwide.yml）
 const generated = new Map(); // prefSlug -> {pref, cities:[{name,slug}]}
-const seq = new Map();
 
 /**
- * **既に使われている slug を覚えておく。**
+ * **slug の採り方は `_slug.mjs` に共通化した。**
  *
- * これを見ずに毎回 001 から振り直していたため、実行のたびに別の市が同じ
- * 連番を取り、**147 組・1,059 件の祭りが別の市と同じ URL に同居していた**
+ * 使用済みを見ずに毎回 001 から振り直していたため、実行のたびに別の市が同じ
+ * 連番を取り、**別の市と同じ URL に同居する祭りが生まれ続けていた**
  * （`/a/aichi/aichi-007/` に西尾市と岡崎市が混ざっていた）。
  */
-const usedSlugs = new Set(loadAreaList(ROOT).map((a) => a.slug));
+const pool = makeSlugPool(ROOT);
 
 /**
  * 題名の【】は書き方が揺れる。
@@ -121,11 +124,26 @@ function resolveArea(rawCity, prefLabel) {
   return create(normalizeCity(rawCity).at(-1) ?? rawCity, prefLabel);
 }
 
+/**
+ * 市区町村名 → エリア定義。
+ *
+ * **候補が 1 件しか無くても、県を確かめずに返してはいけない。**
+ * 明和町は群馬県と三重県の両方にある。三重県側がまだエリア定義に無かったため、
+ * 松阪版の「満天夜市」が群馬県明和町の祭りとして入っていた。
+ * 府中市（東京都・広島県）、太田市と大田区も同じ形で衝突する。
+ *
+ * ただし版の見出しが「四国」のように県名でないことがある。
+ * そのときだけ、県を確かめずに 1 件の候補を使う。
+ */
 function lookup(city, prefLabel) {
   const cands = byCity.get(city) ?? [];
-  if (cands.length === 1) return cands[0];
+  if (!cands.length) return null;
   const hit = cands.filter((a) => prefLabel.includes(a.pref));
   if (hit.length === 1) return hit[0];
+  if (hit.length > 1) return null; // 同じ県に同名の区がある。決められない
+  // 見出しが県名でない版だけ、県の確認をあきらめて 1 件の候補を使う
+  const isPref = PREFS.some((p) => prefLabel.includes(p.name));
+  if (!isPref && cands.length === 1) return cands[0];
   return null;
 }
 
@@ -139,19 +157,7 @@ function create(city, prefLabel) {
   const p = byName(prefLabel);
   if (!p) return null;
 
-  // 読める slug（romaji.mjs にあるもの）を優先する。
-  // ただし他の市が既に使っていたら使えない（利島村と豊島区がどちらも
-  // toshima になる、といった衝突が実在する）
-  let slug = citySlug(city);
-  if (!slug || usedSlugs.has(slug)) {
-    let n = seq.get(p.slug) ?? 0;
-    do {
-      n += 1;
-      slug = `${p.slug}-${String(n).padStart(3, '0')}`;
-    } while (usedSlugs.has(slug));
-    seq.set(p.slug, n);
-  }
-  usedSlugs.add(slug);
+  const slug = pool.assign(p.name, city, p.slug, 1);
   const rec = { pref: p.name, city, citySlug: slug };
   add(city, rec);
   if (!generated.has(p.slug)) generated.set(p.slug, { pref: p.name, cities: [] });

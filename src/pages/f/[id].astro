@@ -70,7 +70,13 @@ const stale = staleDays(occ);
 // 区が無い市では ward が null。そのまま繋ぐと「茂原市null」という地図検索になる
 // 会場名が既に市名で始まることがある（「東海市中央町大池公園内」）。
 // そのまま前置すると「東海市 東海市中央町…」になり、地図が引きにくくなる
+//
+// **住所が無いときは緯度経度を使う。** 記事の地図埋め込みから起こした座標を
+// 1,290 件持っているのに、地図リンクが住所と会場名しか見ていなかった。
+// うち 189 件は住所が無く、「市区名＋会場名」という当てにならない語で
+// 地図を引いていた。座標があるならそれが一番正確。
 const mapQuery = f.venue.address
+  ?? (f.venue.lat != null ? `${f.venue.lat},${f.venue.lng}` : null)
   ?? (f.venue.name?.startsWith(f.area.city)
     ? f.venue.name
     : `${f.area.city}${f.area.ward ?? ''} ${f.venue.name}`);

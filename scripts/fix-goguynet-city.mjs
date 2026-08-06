@@ -47,6 +47,10 @@ const AREA_PREF = {
   nagasaki: '長崎県', saga: '佐賀県', 'kumamotochuo-higashi': '熊本県',
   ooita: '大分県', 'beppu-yufu-hita': '大分県',
   miyazaki: '宮崎県', 'kirishima-aira': '鹿児島県', 'satsumasendai-izumi': '鹿児島県',
+  // 四国の 5 版は見出しが「四国」としか書いていない。県を補わないと
+  // 市区町村の照合が県で絞れず、同名の市を他県から拾う
+  tokushima: '徳島県', takamatsu: '香川県', matsuyama: '愛媛県',
+  'imabari-saijo': '愛媛県', kochi: '高知県',
 };
 
 // 市区町村名 → エリア定義

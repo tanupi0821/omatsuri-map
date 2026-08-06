@@ -1,0 +1,33 @@
+id: yokohama-jinjacho-1203039-0
+name: 稲荷神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 保土ケ谷区
+venue:
+  name: 稲荷神社
+  address: 横浜市保土ケ谷区新井町620
+  lat: null
+  lng: null
+recurrence: 9月14日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1203039-000/
+organizer: 稲荷神社
+shrine: 稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1203039-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「9月14日」から導いたもので、神社が2026年の日程として発表したものではない

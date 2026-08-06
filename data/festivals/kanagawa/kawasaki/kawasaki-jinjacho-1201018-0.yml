@@ -1,0 +1,34 @@
+id: kawasaki-jinjacho-1201018-0
+name: 天満天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 幸区
+venue:
+  name: 天満天神社
+  address: 川崎市幸区東古市場84
+  lat: null
+  lng: null
+recurrence: 1月25日／8月25日近い日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201018-000/
+organizer: 天満天神社
+shrine: 天満天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-25
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201018-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「1月25日／8月25日近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない

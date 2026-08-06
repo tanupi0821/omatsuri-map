@@ -1,5 +1,5 @@
 id: fukuoka-019-gotouti-fukuoka-leapup-77242
-name: アニバーサリーフェスタ
+name: OHASHI HILL 1st アニバーサリーフェスタ
 kind: 夏祭り
 scale: 地区
 area:
@@ -7,8 +7,8 @@ area:
   city: 福岡市
   ward: null
 venue:
-  name: 感」
-  address: null
+  name: OHASHI HILL
+  address: 福岡市南区大橋1-3-3
   lat: null
   lng: null
 organizer: null
@@ -27,3 +27,5 @@ occurrences:
     source_name: フクリパ
     source_type: media
     checked_at: 2026-08-06
+    note: 4月18日（土）10:30〜17:00、会場はOHASHI HILL（福岡市南区大橋1-3-3）。会場名が「感」の1文字だけになっていたので直した。会場は南区だが掲載区は東区になっているため要確認
+station: 西鉄天神大牟田線 大橋駅

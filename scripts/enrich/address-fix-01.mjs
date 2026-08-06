@@ -65,11 +65,11 @@ patchAll([
   ['yokosuka-summer-ar0314e69082', {
     venue: { address: '横須賀市追浜本町1丁目' },
   }],
-  ['shinjuku-kagurazaka-matsuri', {
-    // `新宿区新宿区神楽坂1丁目～神楽坂上、神楽坂通り周辺` から
-    // 二重の区名と会場の説明を外す（会場の説明は venue.name のほうに残る）
-    venue: { address: '新宿区神楽坂1丁目' },
-  }],
+  // `新宿区新宿区神楽坂1丁目～神楽坂上、神楽坂通り周辺` から
+  // 二重の区名と会場の説明を外す（会場の説明は venue.name のほうに残る）。
+  // 同じ祭りが2件に割れているので両方直す
+  ...['shinjuku-kagurazaka-matsuri', 'shinjuku-summer-ar0313e71549']
+    .map((id) => [id, { venue: { address: '新宿区神楽坂1丁目' } }]),
   ['miyagi-001-summer-ar0204e4767', {
     // `仙台市青葉区宮城県` の末尾に県名が付いていた
     venue: { address: '仙台市青葉区' },

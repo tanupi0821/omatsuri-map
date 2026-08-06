@@ -1,0 +1,35 @@
+id: kawasaki-jinjacho-1201064-0
+name: 諏訪神社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 諏訪神社
+  address: 川崎市高津区諏訪3-16-48
+  lat: null
+  lng: null
+recurrence: 10月7日近い土・日曜日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201064-000/
+organizer: 諏訪神社
+shrine: 諏訪神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 諏訪神社 公式サイト
+    url: https://takatsu-suwa.jp
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201064-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月7日近い土・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

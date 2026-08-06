@@ -1,0 +1,29 @@
+id: tokushima-005-goguynet-152300
+name: 水都祭・小松島港まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 徳島県
+  city: 徳島市
+  ward: null
+venue:
+  name: 徳島市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokushima.goguynet.jp/2026/07/18/tokushimakennai-ibento-buru-inparusu-hikou-sumo-kuensyutuyotei/
+    source_name: 号外NET 徳島市
+    source_type: media
+    checked_at: 2026-08-04

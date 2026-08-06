@@ -9,8 +9,8 @@ area:
 venue:
   name: 七次第一公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.788506
+  lng: 140.03343
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/29/shimizuguchinatsumatsuri2026/
     source_name: 号外NET 鎌ケ谷市・白井市・印西市

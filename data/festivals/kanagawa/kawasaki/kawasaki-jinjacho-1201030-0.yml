@@ -1,0 +1,33 @@
+id: kawasaki-jinjacho-1201030-0
+name: 八幡大神 秋季例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 八幡大神
+  address: 川崎市中原区上平間299
+  lat: null
+  lng: null
+recurrence: 11月15日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1201030-000/
+organizer: 八幡大神
+shrine: 八幡大神
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1201030-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「11月15日」から導いたもので、神社が2026年の日程として発表したものではない

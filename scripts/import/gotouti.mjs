@@ -22,7 +22,7 @@ import { join } from 'node:path';
 import { emit, ROOT } from './_lib.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { byName, PREFS } from '../lib/prefs.mjs';
-import { citySlug } from '../lib/romaji.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, hasStalls, pickDates, pickVenue, pickName, usableName,
@@ -59,7 +59,8 @@ for (const a of loadAreaList(ROOT)) {
 }
 
 const generated = new Map();
-const seq = new Map();
+// slug の採り方は `_slug.mjs` に共通化した（別の市が同じ URL を共有するのを防ぐ）
+const pool = makeSlugPool(ROOT);
 
 /**
  * 市区町村名 → エリア定義。
@@ -84,15 +85,7 @@ function create(city, pref) {
   if ((byCity.get(city) ?? []).some((a) => a.pref === pref)) return null;
   const p = byName(pref);
   if (!p) return null;
-  const used = new Set([...byCity.values()].flat().map((r) => r.citySlug));
-  let slug = citySlug(city);
-  if (!slug || used.has(slug)) {
-    do {
-      const n = (seq.get(p.slug) ?? 0) + 1;
-      seq.set(p.slug, n);
-      slug = `${p.slug}-${String(700 + n).padStart(3, '0')}`;
-    } while (used.has(slug));
-  }
+  const slug = pool.assign(p.name, city, p.slug, 700);
   const rec = { pref: p.name, city, citySlug: slug };
   add(city, rec);
   if (!generated.has(p.slug)) generated.set(p.slug, { pref: p.name, cities: [] });

@@ -20,6 +20,7 @@ import { emit, ROOT } from './_lib.mjs';
 import { KIND } from './_article.mjs';
 import { PAGES } from '../crawl/city-ward.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { byName } from '../lib/prefs.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 
@@ -183,18 +184,13 @@ function yearBefore(html, tableIndex, fallback) {
 // 既存データは「大阪市西淀川区」を 1 つの市区町村として持っている。それに合わせる
 const byCity = new Map(loadAreaList(ROOT).map((a) => [`${a.pref}|${a.city}`, a.slug]));
 const generated = new Map();
-const seq = new Map();
+// slug の採り方は `_slug.mjs` に共通化した（別の市が同じ URL を共有するのを防ぐ）
+const pool = makeSlugPool(ROOT);
 function slugOf(pref, city) {
   const k = `${pref}|${city}`;
   if (byCity.has(k)) return byCity.get(k);
   const p = byName(pref);
-  const used = new Set(byCity.values());
-  let slug;
-  do {
-    const n = (seq.get(p.slug) ?? 0) + 1;
-    seq.set(p.slug, n);
-    slug = `${p.slug}-${String(900 + n).padStart(3, '0')}`;
-  } while (used.has(slug));
+  const slug = pool.assign(p.name, city, p.slug, 900);
   byCity.set(k, slug);
   if (!generated.has(p.slug)) generated.set(p.slug, { pref, cities: [] });
   generated.get(p.slug).cities.push({ name: city, slug });

@@ -9,8 +9,8 @@ area:
 venue:
   name: 臨港パーク海上
   address: null
-  lat: null
-  lng: null
+  lat: 35.461061
+  lng: 139.636894
 organizer: 横浜開港祭実行委員会 事務局
 stalls: yes
 tags:

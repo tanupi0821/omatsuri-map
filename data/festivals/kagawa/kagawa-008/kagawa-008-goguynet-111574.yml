@@ -1,0 +1,29 @@
+id: kagawa-008-goguynet-111574
+name: 第61回かんおんじ銭形まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 香川県
+  city: 観音寺市
+  ward: null
+venue:
+  name: 財田川河口（琴弾廻廊裏）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takamatsu.goguynet.jp/2026/07/04/61kanonjimatsuri-kagawa/
+    source_name: 号外NET 高松市
+    source_type: media
+    checked_at: 2026-08-04

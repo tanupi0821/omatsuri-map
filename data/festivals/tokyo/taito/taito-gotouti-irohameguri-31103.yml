@@ -7,7 +7,7 @@ area:
   city: 台東区
   ward: null
 venue:
-  name: 選びがスムーズでしょう
+  name: 隅田川周辺（第一会場・第二会場）
   address: null
   lat: null
   lng: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://irohameguri.jp/event/sumidagawahanabi2026/
     source_name: いろはめぐり
     source_type: media
     checked_at: 2026-08-06
+    note: 7月25日（土）19:00〜20:30頃。第一会場で点火し、その30分後に第二会場が始まる。会場名に記事の地の文が入っていたので直した。出典の記事は各会場の具体的な場所まで書いていないため、会場名は「隅田川周辺」にとどめた

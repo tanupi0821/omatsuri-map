@@ -1,6 +1,6 @@
 id: chiba-002-goguynet-49406
 name: THE DOG FES-犬と春祭り-
-kind: 夏祭り
+kind: 春祭り
 scale: 町内会
 area:
   pref: 千葉県
@@ -9,8 +9,8 @@ area:
 venue:
   name: 白井総合公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.792627
+  lng: 140.05896
 organizer: null
 stalls: yes
 tags: []

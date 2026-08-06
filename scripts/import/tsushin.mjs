@@ -24,7 +24,7 @@ import { emit, ROOT } from './_lib.mjs';
 import { SITES } from '../crawl/tsushin.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { byName, PREFS } from '../lib/prefs.mjs';
-import { citySlug } from '../lib/romaji.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, pickDates, pickName, usableName,
@@ -70,21 +70,14 @@ const LABELLED_STALLS = /(?:夜店|屋台|模擬店|縁日ブース|露店)\s*[�
 const byCity = new Map();
 for (const a of loadAreaList(ROOT)) byCity.set(`${a.pref}|${a.city}`, a.slug);
 const generated = new Map();
-const seq = new Map();
+// slug の採り方は `_slug.mjs` に共通化した（別の市が同じ URL を共有するのを防ぐ）
+const pool = makeSlugPool(ROOT);
 function slugOf(pref, city) {
   const k = `${pref}|${city}`;
   if (byCity.has(k)) return byCity.get(k);
   const p = byName(pref);
   if (!p) return null;
-  const used = new Set(byCity.values());
-  let slug = citySlug(city);
-  if (!slug || used.has(slug)) {
-    do {
-      const n = (seq.get(p.slug) ?? 0) + 1;
-      seq.set(p.slug, n);
-      slug = `${p.slug}-${String(800 + n).padStart(3, '0')}`;
-    } while (used.has(slug));
-  }
+  const slug = pool.assign(p.name, city, p.slug, 800);
   byCity.set(k, slug);
   if (!generated.has(p.slug)) generated.set(p.slug, { pref, cities: [] });
   generated.get(p.slug).cities.push({ name: city, slug });

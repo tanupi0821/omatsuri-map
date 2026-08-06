@@ -1,0 +1,39 @@
+id: kyoto-004-gotouti-kobe-journal-304637
+name: 七夕スカイランタン祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 京都府
+  city: 城陽市
+  ward: null
+venue:
+  name: 京都府立木津川運動公園（城陽五里五里の丘）
+  address: 城陽市富野北角14-8
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/7835293369.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06
+    note: 会場は京都府城陽市の京都府立木津川運動公園（城陽五里五里の丘）。神戸ジャーナルの記事から取り込んだため掲載地が神戸市になっていたが、神戸では開催しない。8月7日（金）〜16日（日）の期間で、データは端の2日しか持っていなかった

@@ -1,0 +1,34 @@
+id: gunma-009-hanabi-ar0310e01085
+name: 令和8年度 明和まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 邑楽郡明和町
+  ward: null
+venue:
+  name: 明和町ふるさとの広場
+  address: 邑楽郡明和町南大島1073番地
+  lat: 36.21115
+  lng: 139.53674
+organizer: 明和町役場産業振興課
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: 20:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html
+    source_name: 明和町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 荒天時は9月19日に順延
+station: 東武伊勢崎線 川俣駅東口（徒歩約15分）

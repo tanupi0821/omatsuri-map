@@ -7,8 +7,8 @@ area:
   city: 我孫子市
   ward: null
 venue:
-  name: 設営エリア・多目的広場以外は利用可）
-  address: null
+  name: 手賀沼公園（多目的広場 一般観覧エリア）
+  address: 我孫子市高野山新田
   lat: null
   lng: null
 organizer: null
@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:10
     status: confirmed
     source_url: https://abiko.goguynet.jp/2026/08/01/teganumahanabi2026/
     source_name: 号外NET 我孫子市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月1日（土）19:00〜20:10（打ち上げは19:10から）。会場名に記事の地の文が入っていたので直した
+station: JR成田線 我孫子駅

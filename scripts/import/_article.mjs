@@ -58,7 +58,40 @@ function expandSameMonth(s) {
   return out;
 }
 
-function scanDates(rawSeg, defaultYear = null) {
+/**
+ * **開催日ではない日付**が本文には山ほど書かれている。
+ * 実データで確認できたものだけで 8 種類あった:
+ *
+ *   記事の撮影日   十条銀座ちびっこ縁日（開催 5/6 に対し 4/30 が入っていた）
+ *   予備日         大垣花火大会 8/29、中南之町縁日 5/10
+ *   チケット販売日 日光花火大会 7/1
+ *   セール期間     東浅草こども縁日 6/21
+ *   キャンペーン   深谷花火大会「ふかやで夏イベ」7/3〜8/31
+ *   ふるさと納税   立川・昭和記念公園花火の募集開始 6/7
+ *   回顧の文       「昨年は8月2日に…」
+ *   記事の公開日
+ *
+ * **開催日の誤りはこのサイトで一番やってはいけない誤り**なので、
+ * 日付のすぐ近くにこれらの言葉があるものは採らない。
+ * 言葉は日付に隣接して置かれる（「4月30日撮影」「予備日は8月2日」
+ * 「7月1日からチケット販売」）ので、前 14 字・後ろ 16 字だけを見れば足りる。
+ */
+const NOT_A_DATE_CONTEXT = new RegExp([
+  '撮影', '取材', '公開日', '更新日', '掲載', '投稿',
+  '予備日', '順延', '雨天', '中止', '延期', '荒天',
+  '販売', '発売', '前売', 'チケット', '受付', '申込', '申し込', '応募', '募集', '締切', '締め切', '予約', '抽選',
+  'セール', 'キャンペーン', '割引', 'クーポン', 'ポイント', 'フェア開催中',
+  'ふるさと納税', '寄付', '寄附',
+  '昨年', '去年', '例年', '過去', '前回', '前年',
+  '開店', '閉店', 'オープン', '閉館', 'リニューアル',
+  '発表', '会見', '締結',
+].join('|'));
+
+/**
+ * 日付を位置つきで拾う。前後の文脈で捨てられるようにするため。
+ * @returns {{date:string, index:number}[]}
+ */
+function scanDatesAt(rawSeg, defaultYear = null) {
   const seg = expandSameMonth(toSeireki(rawSeg));
   const out = [];
   // 「５月９日㈯」のように年が書かれないことがある。**記事の掲載年**を既定にする。
@@ -68,31 +101,59 @@ function scanDates(rawSeg, defaultYear = null) {
   for (const g of seg.matchAll(/(?:(20\d\d)年)?\s*(\d{1,2})月\s*(\d{1,2})日/g)) {
     if (g[1]) year = g[1];
     if (!year) continue; // 年が分からないものは推測しない
-    out.push(`${year}-${String(g[2]).padStart(2, '0')}-${String(g[3]).padStart(2, '0')}`);
+    const mm = Number(g[2]); const dd = Number(g[3]);
+    if (mm < 1 || mm > 12 || dd < 1 || dd > 31) continue;
+    out.push({
+      date: `${year}-${String(mm).padStart(2, '0')}-${String(dd).padStart(2, '0')}`,
+      index: g.index,
+      seg,
+    });
   }
-  return [...new Set(out)];
+  return out;
 }
+
+/** 開催日として使ってよい文脈か */
+function inGoodContext(hit) {
+  const before = hit.seg.slice(Math.max(0, hit.index - 14), hit.index);
+  const after = hit.seg.slice(hit.index, hit.index + 16);
+  return !NOT_A_DATE_CONTEXT.test(before + after);
+}
+
+const uniqDates = (hits) => [...new Set(hits.map((h) => h.date))];
 
 /**
  * 「日時 2026年8月1日（土）…」の欄があればそれを、無ければ地の文の頭から。
  * 欄があるのは一部の記事だけで、欄が無いという理由で捨てたら 377 件落ちていた。
+ *
+ * **欄の中の日付は信用してよい。地の文の日付は文脈を確かめてから採る。**
  */
 export function pickDates(body, title = '', pubDate = null) {
   // 年が書かれていないときに使う既定の年（記事の掲載年）
   const y = pubDate ? Number(String(pubDate).slice(0, 4)) : null;
 
-  // 「日時：」「開催日時：」のように全角コロンで書く媒体もある
-  const m = body.match(/(?:開催)?日\s*時[：:]?[^0-9]{0,6}([\s\S]{0,80})/);
-  if (m) {
+  /**
+   * 「日時：」「開催日：」のように全角コロンで書く媒体もある。
+   * **「開催期間」は入れない。** 店のキャンペーンやセールの期間がこの言葉で
+   * 書かれていて、「ふかやで夏イベ 2026年7月3日〜8月31日」を
+   * 深谷花火大会の開催日にしてしまった。
+   */
+  const label = body.match(
+    /(?:開催)?(?:日\s*時|日\s*程|開催日|と\s*き)\s*[：:]?[^0-9]{0,6}([\s\S]{0,80})/,
+  );
+  if (label) {
     // 「場所」以降は別項目。「雨天の場合は8月2日に順延」の予備日も開催日ではない
-    const d = scanDates(m[1].split(/場\s*所|会\s*場|内\s*容|主\s*催|雨天|順延|中止|予備/)[0], y);
-    if (d.length) return d;
+    const seg = label[1].split(/場\s*所|会\s*場|内\s*容|主\s*催|雨天|順延|中止|予備|受付|申込|販売/)[0];
+    const d = uniqDates(scanDatesAt(seg, y));
+    if (d.length) return d.slice(0, 4);
   }
+
   // 題名に日付が入っている媒体もある（「2026年8月15日 厚木市 …で夏祭り」）
-  const fromTitle = scanDates(title.split(/雨天|順延/)[0], y);
-  if (fromTitle.length) return fromTitle.slice(0, 4);
-  // 地の文から。「昨年」以降は今年の日程ではない
-  return scanDates(body.slice(0, 400).split(/昨年|去年|例年|過去/)[0], y).slice(0, 4);
+  const fromTitle = scanDatesAt(title.split(/雨天|順延/)[0], y).filter(inGoodContext);
+  if (fromTitle.length) return uniqDates(fromTitle).slice(0, 4);
+
+  // 地の文から。ここがいちばん危ないので、1 つずつ前後の言葉を確かめる
+  const head = body.slice(0, 400).split(/昨年|去年|例年|過去|前回/)[0];
+  return uniqDates(scanDatesAt(head, y).filter(inGoodContext)).slice(0, 4);
 }
 
 /**

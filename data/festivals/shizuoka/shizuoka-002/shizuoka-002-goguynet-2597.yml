@@ -7,8 +7,8 @@ area:
   city: 伊東市
   ward: null
 venue:
-  name: 入場は無料
-  address: null
+  name: 松川藤の広場
+  address: 伊東市渚町1
   lat: null
   lng: null
 organizer: null
@@ -22,11 +22,19 @@ occurrences:
       - 2026-07-24
       - 2026-07-31
       - 2026-08-01
+      - 2026-08-04
+      - 2026-08-07
       - 2026-08-15
-    start_time: null
-    end_time: null
+      - 2026-08-16
+      - 2026-08-21
+      - 2026-08-22
+      - 2026-08-23
+      - 2026-08-29
+    start_time: 18:00
+    end_time: 21:30
     status: confirmed
     source_url: https://ito-izu-atami-izunokuni.goguynet.jp/2026/07/27/yusuzumiwakuwaku/
     source_name: 号外NET 伊東市・伊豆市・熱海市・伊豆の国市・函南町
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月24日・31日、8月1日・4日・7日・15日・16日・21日・22日・23日・29日の全11回、各日18:00〜21:30。会場名に「入場は無料」が入っていたので直した

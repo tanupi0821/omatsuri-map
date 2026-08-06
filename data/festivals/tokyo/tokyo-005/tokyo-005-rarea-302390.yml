@@ -1,0 +1,29 @@
+id: tokyo-005-rarea-302390
+name: 一生に一度は行きたい花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 多摩市
+  ward: null
+venue:
+  name: 永山公民館ベルブホール
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/302390
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-08-05

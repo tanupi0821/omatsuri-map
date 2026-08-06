@@ -11,7 +11,7 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { emit, ROOT } from './_lib.mjs';
-import { citySlug } from '../lib/romaji.mjs';
+import { makeSlugPool } from './_slug.mjs';
 import { PREFS } from '../lib/prefs.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
@@ -24,8 +24,12 @@ if (!existsSync(RAW)) {
   process.exit(1);
 }
 
-const known = new Map();
-for (const a of loadAreaList(ROOT)) known.set(`${a.pref}|${a.city}`, a.slug);
+/**
+ * **slug は `_slug.mjs` にまとめて採らせる。**
+ * ここは以前、県ごとに `let seq = 0` から連番を振り直していて、
+ * しかも使用済みかどうかを見ていなかった。
+ */
+const pool = makeSlugPool(ROOT);
 
 const KIND = (name) => {
   if (/盆踊|盆おどり|音頭/.test(name)) return '盆踊り';
@@ -48,7 +52,6 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
   if (!pref) continue;
 
   const cities = new Map();
-  let seq = 0;
 
   for (const it of j.items) {
     if (it.pref && it.pref !== j.pref) continue;
@@ -60,9 +63,7 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     if (!it.startDate) { skippedNoDate++; continue; }
 
     if (!cities.has(it.city)) {
-      cities.set(it.city, known.get(`${j.pref}|${it.city}`)
-        ?? citySlug(it.city)
-        ?? `${pref.slug}-${String(++seq).padStart(3, '0')}`);
+      cities.set(it.city, pool.assign(j.pref, it.city, pref.slug, 500));
     }
     const cSlug = cities.get(it.city);
 

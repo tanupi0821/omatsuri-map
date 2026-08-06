@@ -1,0 +1,33 @@
+id: yokohama-jinjacho-1202111-0
+name: 神明社 例大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 緑区
+venue:
+  name: 神明社
+  address: 横浜市緑区新治町607
+  lat: null
+  lng: null
+recurrence: 10月1日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1202111-000/
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1202111-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「10月1日」から導いたもので、神社が2026年の日程として発表したものではない

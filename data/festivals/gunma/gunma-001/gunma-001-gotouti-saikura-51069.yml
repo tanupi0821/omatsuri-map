@@ -1,0 +1,29 @@
+id: gunma-001-gotouti-saikura-51069
+name: 第42回 伊勢崎鉄馬縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 伊勢崎市
+  ward: null
+venue:
+  name: 伊勢崎オートレース
+  address: 伊勢崎市宮子町3074
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-31
+    start_time: 14:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://saikura.info/event-isesaki-tetsuma-enichi-20260531/
+    source_name: さいくら
+    source_type: media
+    checked_at: 2026-08-06

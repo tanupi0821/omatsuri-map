@@ -7,8 +7,8 @@ area:
   city: 長岡市
   ward: null
 venue:
-  name: ベンチ席）に応募できる
-  address: null
+  name: 信濃川河川敷
+  address: 長岡市
   lat: null
   lng: null
 organizer: null
@@ -19,7 +19,8 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-06-15
+      - 2026-08-02
+      - 2026-08-03
     start_time: null
     end_time: null
     status: confirmed
@@ -27,3 +28,4 @@ occurrences:
     source_name: にいがた経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 会場名に記事の地の文が入っていた。出典は観覧席が当たるスタンプラリーの告知記事で、データにあった6月15日はその応募期間の日付。開催は8月2日・3日

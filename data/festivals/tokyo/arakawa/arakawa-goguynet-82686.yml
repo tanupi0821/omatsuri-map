@@ -7,8 +7,8 @@ area:
   city: 荒川区
   ward: null
 venue:
-  name: ）は提灯
-  address: null
+  name: 素盞雄神社
+  address: 荒川区南千住6-60-1
   lat: null
   lng: null
 organizer: null
@@ -26,4 +26,7 @@ occurrences:
     source_url: https://arakawa.goguynet.jp/2026/06/06/tennousai-4/
     source_name: 号外NET 荒川区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 会場名に記事の地の文（「）は提灯」）が入っていたので、社名どおり素盞雄神社に直した
+shrine: 素盞雄神社
+station: 東京メトロ日比谷線・つくばエクスプレス 南千住駅
