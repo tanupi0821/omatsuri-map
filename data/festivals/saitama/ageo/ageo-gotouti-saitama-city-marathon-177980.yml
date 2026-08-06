@@ -11,11 +11,15 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 上尾夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: あげポタ ニュースまとめページ
+    url: https://agepota-news.com/area/ageo/20260702_agematsu/
+  - title: 埼玉マガジン
+    url: https://saitama-city-marathon.jp/2026/07/02/ageosi-439/
 occurrences:
   - year: 2026
     dates:

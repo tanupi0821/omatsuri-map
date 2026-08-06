@@ -11,11 +11,13 @@ venue:
   address: 葛飾区新宿2-1-17
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 新栄町会
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 葛飾区 夏まつり・盆踊り・イベント情報
+    url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +30,4 @@ occurrences:
     source_name: 葛飾つうしん
     source_type: media
     checked_at: 2026-08-06
+shrine: 日枝神社

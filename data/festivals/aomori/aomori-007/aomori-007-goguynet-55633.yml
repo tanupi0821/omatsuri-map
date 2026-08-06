@@ -15,7 +15,13 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: applestream
+    url: https://applestream.jp/19390/
+  - title: applestream
+    url: https://applestream.jp/19429/
+  - title: applestream
+    url: https://applestream.jp/19433/
 occurrences:
   - year: 2026
     dates:

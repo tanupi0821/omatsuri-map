@@ -12,17 +12,21 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: いいね！立川
+    url: https://iine-tachikawa.net/topics/event/160981/
+  - title: いいね！立川
+    url: https://iine-tachikawa.net/topics/event/161608/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-29
       - 2026-07-30
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:00
     status: confirmed
     source_url: https://iine-tachikawa.net/topics/event/161543/
     source_name: いいね！立川

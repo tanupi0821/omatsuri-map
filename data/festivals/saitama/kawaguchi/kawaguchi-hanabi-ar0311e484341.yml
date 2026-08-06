@@ -19,7 +19,19 @@ description: null
 links:
   - title: 公式サイト
     url: https://1110hanabi.com/
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/172409
 occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawaguchi-magazine.com/archives/172409
+    source_name: 川口マガジン
+    source_type: media
+    checked_at: 2026-08-06
   - year: 2025
     dates:
       - 2025-10-18

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: いいね！立川
+    url: https://iine-tachikawa.net/topics/event/161161/
 occurrences:
   - year: 2026
     dates:

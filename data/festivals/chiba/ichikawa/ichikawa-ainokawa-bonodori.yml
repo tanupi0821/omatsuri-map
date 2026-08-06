@@ -11,11 +11,24 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 相之川自治会
 tags: []
 description: null
-links: []
+links:
+  - title: 市川にゅ～す
+    url: https://ichi-24.jp/archives/55890
 occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichi-24.jp/archives/55890
+    source_name: 市川にゅ～す
+    source_type: media
+    checked_at: 2026-08-06
   - year: 2025
     dates:
       - 2025-08-02
@@ -28,4 +41,4 @@ occurrences:
     source_type: media
     checked_at: 2026-08-03
     note: 2025年の実績。2026年の日程は未発表
-stalls: unknown
+stalls: yes

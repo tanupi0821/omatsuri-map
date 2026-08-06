@@ -12,10 +12,14 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 苫小牧市
+    url: https://tomakomai.goguynet.jp/2026/07/09/tarumaematsuri/
+  - title: とまこまいFUN
+    url: https://tomakomai.fun/events/event-tarumina/
 occurrences:
   - year: 2026
     dates:

@@ -14,7 +14,9 @@ venue:
 organizer: 玉川町会
 tags: []
 description: null
-links: []
+links:
+  - title: futakoloco
+    url: https://futakoloco.com/36277/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,4 @@ occurrences:
     source_name: 世田谷ガイド
     source_type: media
     checked_at: 2026-08-03
-stalls: unknown
+stalls: yes

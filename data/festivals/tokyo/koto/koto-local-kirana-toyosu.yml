@@ -14,7 +14,9 @@ venue:
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: とよすと
+    url: https://toyosu.tokyo/event/kiranah-natsu-matsuri2026-info/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,4 @@ occurrences:
     source_name: 江東区の情報サイト
     source_type: media
     checked_at: 2026-08-03
-stalls: unknown
+stalls: yes

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 埼玉マガジン
+    url: https://saitama-city-marathon.jp/2026/05/01/ageosi-47/
 occurrences:
   - year: 2026
     dates:

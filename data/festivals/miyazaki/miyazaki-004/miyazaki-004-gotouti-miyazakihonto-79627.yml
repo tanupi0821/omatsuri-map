@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: ジモシル宮崎市
+    url: https://myzkc.jp/hanabi20260430/
 occurrences:
   - year: 2026
     dates:

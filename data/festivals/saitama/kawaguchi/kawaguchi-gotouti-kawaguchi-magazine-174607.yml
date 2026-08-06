@@ -15,7 +15,21 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/173777
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/174471
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/174619
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/174928
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/175081
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/175100
+  - title: 川口マガジン
+    url: https://kawaguchi-magazine.com/archives/175142
 occurrences:
   - year: 2026
     dates:

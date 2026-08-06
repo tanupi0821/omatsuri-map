@@ -14,7 +14,9 @@ venue:
 organizer: 綱島地区
 tags: []
 description: null
-links: []
+links:
+  - title: 綱島ニュース（仮）
+    url: https://tsunashima.love/event/tsunashima-bonodori2026/
 occurrences:
   - year: 2026
     dates:
@@ -27,4 +29,4 @@ occurrences:
     source_name: あさひさんぽ
     checked_at: 2026-08-02
     source_type: media
-stalls: unknown
+stalls: yes

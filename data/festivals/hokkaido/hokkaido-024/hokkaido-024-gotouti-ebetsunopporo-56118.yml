@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: えべナビ！
+    url: https://ebetsunopporo.com/?p=56221
 occurrences:
   - year: 2026
     dates:

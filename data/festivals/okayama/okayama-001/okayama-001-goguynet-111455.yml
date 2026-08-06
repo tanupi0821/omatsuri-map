@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 岡山おにさんぽ
+    url: https://onisanpo.com/event/106411/
 occurrences:
   - year: 2026
     dates:

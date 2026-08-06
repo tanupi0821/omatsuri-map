@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 埼北つうしん
+    url: https://sai2.info/archives/20260710-01.html
 occurrences:
   - year: 2026
     dates:

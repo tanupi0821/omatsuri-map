@@ -14,7 +14,9 @@ venue:
 organizer: 亀有五丁目西町会
 tags: []
 description: null
-links: []
+links:
+  - title: 葛飾つうしん
+    url: https://katsushika-tsushin.com/28890.html
 occurrences:
   - year: 2026
     dates:

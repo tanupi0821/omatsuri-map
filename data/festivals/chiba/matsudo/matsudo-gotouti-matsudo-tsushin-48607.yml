@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 松戸市
+    url: https://matsudo.goguynet.jp/2026/07/02/bonodoritaikai/
 occurrences:
   - year: 2026
     dates:

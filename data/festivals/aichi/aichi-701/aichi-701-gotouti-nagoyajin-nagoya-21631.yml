@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ナゴヤトコトン
+    url: https://nagoyato.com/posts/16735
 occurrences:
   - year: 2026
     dates:

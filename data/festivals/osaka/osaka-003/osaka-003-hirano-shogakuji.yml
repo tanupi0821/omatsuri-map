@@ -16,7 +16,9 @@ stalls: unknown
 tags:
   - 山車
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市平野区
+    url: https://hirano.goguynet.jp/2026/06/23/syoukakujidanjirimaturi/
 occurrences:
   - year: 2026
     dates:

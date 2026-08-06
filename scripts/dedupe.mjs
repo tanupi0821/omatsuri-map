@@ -147,6 +147,27 @@ for (const [key, items] of groups) {
   const wards = new Set(items.map((x) => x.f.area?.ward ?? ''));
   if (wards.size > 1) continue;
 
+  /**
+   * **会場が食い違う組は統合しない。**
+   *
+   * 「納涼盆踊り」「夏祭り」のような総称は、同じ市に町会の数だけ存在する。
+   * 実際、松戸市の「納涼盆踊り」8 件を 1 件に潰しかけた。**別々の町会の
+   * 盆踊りで、全部残さなければならないもの**だった。区の判定は政令市にしか
+   * 効かないので、松戸市のような市ではこれが唯一の歯止めになる。
+   *
+   * 同じ祭りを別の出典から取ると会場名の書き方は揺れる（「そうか公園」と
+   * 「そうか公園 芝生広場」）ので、**片方がもう片方を含むなら同じ**とみなす。
+   * 会場が「◯◯市内」のものは会場が分からないのと同じなので判定に使わない。
+   */
+  const vkey = (x) => han(x.f.venue?.name ?? '').replace(/[\s　・（）()]/g, '');
+  const venues = [...new Set(items.map(vkey).filter((v) => v && !/[市区町村]内$/.test(v)))];
+  const conflict = venues.some((p) => venues.some((q) => p !== q && !p.includes(q) && !q.includes(p)));
+  if (conflict) {
+    console.log(`会場が違うので触らない: ${key.split('|').slice(1).join(' ')}`
+      + `（${venues.join(' / ')}）`);
+    continue;
+  }
+
   const keep = pickKeeper(items);
   const others = items.filter((x) => x !== keep);
   const k = keep.f;

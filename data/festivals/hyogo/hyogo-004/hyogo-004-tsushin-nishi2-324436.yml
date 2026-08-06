@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 西宮流
+    url: https://nishinomiya-style.jp/blog/2026/06/03/72737
 occurrences:
   - year: 2026
     dates:

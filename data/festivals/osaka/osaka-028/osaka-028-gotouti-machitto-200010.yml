@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 豊中市
+    url: https://toyonaka.goguynet.jp/2026/04/04/hattori-ryokuchi-sakurafes/
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +30,18 @@ occurrences:
     source_name: まちっと北摂
     source_type: media
     checked_at: 2026-08-06
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E9%96%8B%E6%88%90%E5%B1%B1%E5%A4%A7%E7%A5%9E%E5%AE%AE%EF%BC%89.JPG/1280px-%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E9%96%8B%E6%88%90%E5%B1%B1%E5%A4%A7%E7%A5%9E%E5%AE%AE%EF%BC%89.JPG
+    width: 1000
+    height: 667
+    credit: 藍原あおい
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E9%96%8B%E6%88%90%E5%B1%B1%E5%A4%A7%E7%A5%9E%E5%AE%AE%EF%BC%89.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%E5%AF%8C%E5%A3%AB%E8%8A%9D%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A_-_panoramio.jpg/1280px-%E5%AF%8C%E5%A3%AB%E8%8A%9D%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A_-_panoramio.jpg
+    width: 1000
+    height: 667
+    credit: くろふね
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0
+    source: https://commons.wikimedia.org/wiki/File:%E5%AF%8C%E5%A3%AB%E8%8A%9D%E6%A1%9C%E3%81%BE%E3%81%A4%E3%82%8A_-_panoramio.jpg

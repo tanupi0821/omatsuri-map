@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 福岡のニュース
+    url: https://twitfukuoka.com/?p=409778
 occurrences:
   - year: 2026
     dates:

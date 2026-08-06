@@ -15,7 +15,9 @@ organizer: 八王子駅北口商店会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 八王子ジャーニー
+    url: https://8dabe.com/2026/06/25/tanabata-fureai-ennichi/
 occurrences:
   - year: 2026
     dates:

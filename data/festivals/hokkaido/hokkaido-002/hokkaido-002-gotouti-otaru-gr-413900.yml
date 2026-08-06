@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 小樽通
+    url: https://otaru.gr.jp/tourist/2026temiyamaturigo
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 仙台つーしん
+    url: https://sendai-tushin.jp/2026/07/21/post-518395/
 occurrences:
   - year: 2026
     dates:

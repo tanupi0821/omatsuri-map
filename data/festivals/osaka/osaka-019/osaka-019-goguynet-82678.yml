@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: マチコロ寝屋川
+    url: https://www.neyagawa-np.jp/hitokoto/kayashima-20260711.html
 occurrences:
   - year: 2026
     dates:

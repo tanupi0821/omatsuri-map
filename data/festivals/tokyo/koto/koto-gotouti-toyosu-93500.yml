@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: とよすと
+    url: https://toyosu.tokyo/event/harumifutopark-bonodori-2026-report/
 occurrences:
   - year: 2026
     dates:

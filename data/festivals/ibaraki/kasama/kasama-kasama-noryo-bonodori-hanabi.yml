@@ -18,6 +18,8 @@ description: null
 links:
   - title: 笠間納涼盆踊り花火大会2026 開催のお知らせ（主催者発表）
     url: https://prtimes.jp/main/html/rd/p/000000010.000169739.html
+  - title: 北関東ITトレンド
+    url: https://kitakanto.localbook.work/2026/08/02/kasama-fireworksfestival/
 occurrences:
   - year: 2026
     dates:
@@ -30,4 +32,4 @@ occurrences:
     source_name: 笠間納涼盆踊り花火大会実行委員会
     source_type: official
     checked_at: 2026-08-05
-stalls: unknown
+stalls: yes

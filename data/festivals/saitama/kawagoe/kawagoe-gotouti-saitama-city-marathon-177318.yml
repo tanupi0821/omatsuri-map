@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 埼玉マガジン
+    url: https://saitama-city-marathon.jp/2026/08/02/kawagoesi-964/
 occurrences:
   - year: 2026
     dates:

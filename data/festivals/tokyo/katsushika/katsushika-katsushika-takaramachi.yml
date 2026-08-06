@@ -15,7 +15,9 @@ organizer: 宝町町会
 shrine: 宝町八幡神社
 tags: []
 description: null
-links: []
+links:
+  - title: 葛飾つうしん
+    url: https://katsushika-tsushin.com/29075.html
 occurrences:
   - year: 2026
     dates:

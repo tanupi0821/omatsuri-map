@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 西宮つーしん
+    url: https://nishi2.jp/333820/
 occurrences:
   - year: 2026
     dates:

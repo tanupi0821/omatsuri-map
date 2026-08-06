@@ -14,7 +14,9 @@ venue:
 organizer: 西亀有二丁目ときわ自治会
 tags: []
 description: null
-links: []
+links:
+  - title: 葛飾つうしん
+    url: https://katsushika-tsushin.com/29012.html
 occurrences:
   - year: 2026
     dates:

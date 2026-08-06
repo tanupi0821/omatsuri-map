@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 坂川沿道
-  address: null
+  address: 松戸市松戸1810-1
   lat: null
   lng: null
 organizer: null
@@ -18,6 +18,10 @@ description: null
 links:
   - title: 号外NET 松戸市
     url: https://matsudo.goguynet.jp/2026/06/21/touroumaturi/
+  - title: 松戸つうしん
+    url: https://matsudo-tsushin.com/48808.html
+  - title: 松戸ロード　松戸の地域情報ブログ
+    url: https://wl29.net/2026/06/28/matsudok8115003/
 occurrences:
   - year: 2026
     dates:
@@ -30,4 +34,4 @@ occurrences:
     source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
     source_type: media
     checked_at: 2026-08-03
-stalls: unknown
+stalls: yes

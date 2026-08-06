@@ -14,7 +14,9 @@ venue:
 organizer: 西水元飯塚新町会
 tags: []
 description: null
-links: []
+links:
+  - title: 葛飾つうしん
+    url: https://katsushika-tsushin.com/28893.html
 occurrences:
   - year: 2026
     dates:

@@ -9,7 +9,8 @@
 export const CITY_SLUG = {
   // ---- 東京都（23区は area ファイル側。市町村部はここ）----
   八王子市: 'hachioji', 福生市: 'fussa', 奥多摩町: 'okutama', 大島町: 'oshima',
-  八丈町: 'hachijo', 昭島市: 'akishima', 調布市: 'chofu', あきる野市: 'akiruno',
+  八丈町: 'hachijo',
+  三宅村: 'miyake', 新島村: 'niijima', 神津島村: 'kozushima', 利島村: 'toshima-mura', 小笠原村: 'ogasawara', 昭島市: 'akishima', 調布市: 'chofu', あきる野市: 'akiruno',
   稲城市: 'inagi', 立川市: 'tachikawa', 町田市: 'machida', 府中市: 'fuchu',
 
   // ---- 神奈川県（政令市の区は area ファイル側で定義済み）----
