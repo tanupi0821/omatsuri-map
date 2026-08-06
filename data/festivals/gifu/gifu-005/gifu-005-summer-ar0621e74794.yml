@@ -7,30 +7,54 @@ area:
   city: 郡上市
   ward: null
 venue:
-  name: 白鳥神社
-  address: 郡上市白鳥町白鳥680-1
+  name: 白鳥の市街地（新栄町・下本町・駅前通りなど）／拝殿踊りは長滝白山神社・白鳥神社ほか
+  address: 郡上市白鳥町
   lat: 35.888857
   lng: 136.858081
-organizer: 白鳥観光協会
+organizer: 白鳥おどり実行委員会（白鳥観光協会）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://shirotori-gujo.com/html/odori.htm
+  - title: 郡上市 令和8年度「白鳥おどり」の開催について
+    url: https://www.city.gujo.gifu.jp/admin/info/4-20.html
+  - title: 郡上市 R8年度 白鳥おどり日程表（PDF）
+    url: https://www.city.gujo.gifu.jp/admin/info/docs/0ff70f5cdd01ab8264fc6abc42c2387b5cc132a3.pdf
 occurrences:
   - year: 2026
     dates:
       - 2026-07-09
+      - 2026-07-16
+      - 2026-07-18
+      - 2026-07-19
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+      - 2026-07-31
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+      - 2026-08-17
+      - 2026-08-20
+      - 2026-08-22
+      - 2026-08-29
+      - 2026-09-19
       - 2026-09-20
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 22:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0621e74794/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.gujo.gifu.jp/admin/info/4-20.html
+    source_name: 郡上市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 「白鳥おどり」17夜（7/18・19・24・25・26・31、8/1・2・8・9・13〜16・22・29、9/19）と「白鳥の拝殿踊り」5夜（7/9・16、8/17・20、9/20）を合わせた日程。平日・日曜は22時ごろ、土曜は23時ごろまで。徹夜おどりは8月13〜15日で翌朝4時ごろまで。拝殿踊りは曜日にかかわらず20時〜22時ごろ。小雨決行
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/8/8f/%E7%99%BD%E9%B3%A5%E3%81%8A%E3%81%A9%E3%82%8A%E7%99%BA%E7%A5%A5%E3%81%AE%E7%A2%91.jpg
     width: 1000

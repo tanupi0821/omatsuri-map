@@ -1,0 +1,30 @@
+id: yamaguchi-013-goguynet-119527
+name: 花火大会や地域の夏祭り
+kind: 花火
+scale: 町内会
+area:
+  pref: 山口県
+  city: 周南市
+  ward: null
+venue:
+  name: 山口県光市
+  address: null
+  lat: 33.969542
+  lng: 131.902093
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/07/23/2026-7-25-26event/
+    source_name: 号外NET 周南市・下松市・光市
+    source_type: media
+    checked_at: 2026-08-04

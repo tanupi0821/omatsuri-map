@@ -56,11 +56,29 @@ const SOURCES = [
     url: 'https://data.bodik.jp/dataset/a3b02650-8722-4555-b813-f07ba49d0c12/resource/86dd60b7-b3a2-4875-9f08-fe5d6358660c/download/15_meito_toshikouen20240401.csv',
     note: '名古屋市 都市公園一覧（名東区）',
   },
-  {
-    name: 'nagoya-midori-koen',
-    url: 'https://data.bodik.jp/dataset/a3b02650-8722-4555-b813-f07ba49d0c12/resource/d7de2c3d-f2af-4d4d-96ae-3adb043753d4/download/14_midori_toshikouen20240401.csv',
-    note: '名古屋市 都市公園一覧（緑区）',
-  },
+  // 名古屋市の都市公園は**区ごとに 1 ファイル**。祭りが増えたときに効くので全区入れておく
+  ...[
+    ['chikusa', '千種区', '63820a17-eb30-4ad1-a820-6ddfc136edac', '01_chikusa'],
+    ['higashi', '東区', 'b39b0246-7c1a-4d02-8a16-3baedfe5c5ff', '02_higashi'],
+    ['kita', '北区', '17b4e38e-dc6e-4428-aa11-15d384f7c9f6', '03_kita'],
+    ['nishi', '西区', '4b74de67-a6f9-4411-8b1f-667a11562bbf', '04_nishi'],
+    ['nakamura', '中村区', 'cb66bfa3-7e2c-4251-9d0b-74e987122b97', '05_nakamura'],
+    ['naka', '中区', '621c9422-2052-48e7-b17c-1719509365d5', '06_naka'],
+    ['showa', '昭和区', '7d16eb06-e24d-4eff-acdd-e5b273826833', '07_showa'],
+    ['mizuho', '瑞穂区', '549001ef-134c-4ae6-b87e-8b81bd11027d', '08_mizuho'],
+    ['atsuta', '熱田区', '5afbd159-8fe8-4c08-b484-6e9d07826626', '09_atsuta'],
+    ['nakagawa', '中川区', '5cd6ba90-9d54-4408-8033-ed15e89a2264', '10_nakagawa'],
+    ['minato', '港区', 'f3626954-d305-436e-bb85-d3ed61cf9421', '11_minato'],
+    ['minami', '南区', '8cd07f38-b755-42d3-931f-7989caa607fd', '12_minami'],
+    ['moriyama', '守山区', '3b431c71-7ccf-47c1-99e2-29d6dd5c36c6', '13_moriyama'],
+    ['midori', '緑区', 'd7de2c3d-f2af-4d4d-96ae-3adb043753d4', '14_midori'],
+    ['tenpaku', '天白区', 'e91bccda-afba-4ad1-96b7-41ba969e1493', '16_tenpaku'],
+  ].map(([slug, ward, res, file]) => ({
+    name: `nagoya-${slug}-koen`,
+    ward,
+    url: `https://data.bodik.jp/dataset/a3b02650-8722-4555-b813-f07ba49d0c12/resource/${res}/download/${file}_toshikouen20240401.csv`,
+    note: `名古屋市 都市公園一覧（${ward}）`,
+  })),
   // --- 大阪府大阪市 ---------------------------------------------------------
   // 「マップナビおおさか」のポイントデータ。所在地と緯度経度を持ち、
   // **児童遊園・広場・地域集会所まで入っている**ので町内会規模の会場に効く

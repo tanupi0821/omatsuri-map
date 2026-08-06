@@ -7,15 +7,17 @@ area:
   city: 川崎市
   ward: 多摩区
 venue:
-  name: 生田緑地東口ビジターセンター周辺
-  address: null
+  name: 生田緑地 東口ビジターセンター周辺の広場
+  address: 川崎市多摩区枡形7-1-4
   lat: 35.60988
   lng: 139.560011
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 生田緑地 生田緑地夜市
+    url: https://www.ikutaryokuti.jp/yoichi2026
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +26,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://kawasakitama.goguynet.jp/2026/07/12/ikutaryokuchiyoichi/
-    source_name: 号外NET 川崎市多摩区
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.ikutaryokuti.jp/yoichi2026
+    source_name: 生田緑地（川崎市）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月25日と8月15日の2日。間が空いているが取りこぼしではない

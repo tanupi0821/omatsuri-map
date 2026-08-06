@@ -7,28 +7,60 @@ area:
   city: 郡上市
   ward: null
 venue:
-  name: 岐阜県郡上市八幡町内
-  address: 郡上市八幡町内
+  name: 郡上八幡の市街地（旧庁舎記念館前・本町・新町など夜ごとに移動）
+  address: 郡上市八幡町
   lat: 35.749201
   lng: 136.957048
-organizer: 郡上八幡観光協会
+organizer: 郡上おどり運営委員会（郡上市商工観光部観光課）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.city.gujo.gifu.jp/admin/info/4-20.html
+  - title: 郡上市 令和8年 郡上おどり日程表（PDF）
+    url: https://www.city.gujo.gifu.jp/admin/info/docs/c242ca6b44d5f0cc9c5aac3dbee8e5598fb66ae0.pdf
+  - title: 郡上八幡観光協会 2026年郡上おどり日程
+    url: https://www.gujohachiman.com/kanko/odori_schedule.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
+      - 2026-07-16
+      - 2026-07-18
+      - 2026-07-19
+      - 2026-07-25
+      - 2026-07-27
+      - 2026-07-28
+      - 2026-07-30
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+      - 2026-08-18
+      - 2026-08-19
+      - 2026-08-20
+      - 2026-08-22
+      - 2026-08-24
+      - 2026-08-29
+      - 2026-08-30
       - 2026-09-05
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 22:30
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0621e74346/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.gujo.gifu.jp/admin/info/4-20.html
+    source_name: 郡上市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 全30夜。平日・日曜は20:00〜22:30、土曜は20:00〜23:00。徹夜おどりは8月13日〜16日で、13日と16日は翌朝4時まで、14日・15日は翌朝5時まで。会場は夜ごとに町内を移す。原則雨天決行
 station: 長良川鉄道郡上八幡駅から徒歩15分

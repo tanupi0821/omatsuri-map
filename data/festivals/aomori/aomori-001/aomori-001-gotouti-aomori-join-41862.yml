@@ -1,0 +1,29 @@
+id: aomori-001-gotouti-aomori-join-41862
+name: 青森ねぶた祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 青森県
+  city: 青森市
+  ward: null
+venue:
+  name: 青森市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aomori-join.com/2026/08/02/2026nebuta/
+    source_name: アオモリジョイン
+    source_type: media
+    checked_at: 2026-08-06

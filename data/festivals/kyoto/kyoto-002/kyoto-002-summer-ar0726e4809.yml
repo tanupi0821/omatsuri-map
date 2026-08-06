@@ -7,17 +7,19 @@ area:
   city: 京都市東山区
   ward: null
 venue:
-  name: 八坂神社
+  name: 八坂神社および氏子区域
   address: 京都市東山区祇園町北側625
   lat: 35.003658
   lng: 135.778601
-organizer: null
+organizer: 八坂神社
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://ja.kyoto.travel/event/major/gion/seat.php
+  - title: 八坂神社 祇園祭
+    url: https://www.yasaka-jinja.or.jp/event/gion.html
 occurrences:
   - year: 2026
     dates:
@@ -26,11 +28,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0726e4809/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.yasaka-jinja.or.jp/event/gion.html
+    source_name: 八坂神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月1日の「吉符入」から31日の「疫神社夏越祭」まで1か月にわたって神事・行事が続く。前祭の山鉾巡行は7月17日、後祭は7月24日。宵山は14〜16日と21〜23日で、露店が並ぶのは15日・16日
 station: JR京都駅からバスで祇園下車すぐ
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gion_Matsuri_2017-5.jpg/1280px-Gion_Matsuri_2017-5.jpg
@@ -40,3 +42,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg
+shrine: 八坂神社

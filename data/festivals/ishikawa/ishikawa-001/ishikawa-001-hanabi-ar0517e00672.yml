@@ -7,11 +7,11 @@ area:
   city: 加賀市
   ward: null
 venue:
-  name: 片山津温泉 柴山潟湖上
-  address: 加賀市−
+  name: 柴山潟周辺
+  address: 加賀市片山津温泉
   lat: 36.351115
   lng: 136.369007
-organizer: 片山津温泉観光協会
+organizer: 片山津温泉観光協会・片山津温泉旅館協同組合
 stalls: yes
 tags:
   - 花火
@@ -19,17 +19,47 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.kaga-hanabi.jp/
+  - title: 加賀温泉郷 納涼花火まつり in 片山津温泉 公式サイト
+    url: https://kaga-hanabi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+      - 2026-08-17
+      - 2026-08-18
+      - 2026-08-19
+      - 2026-08-20
+      - 2026-08-21
+      - 2026-08-22
+      - 2026-08-23
+      - 2026-08-24
+      - 2026-08-25
+      - 2026-08-26
+      - 2026-08-27
+      - 2026-08-28
+      - 2026-08-29
       - 2026-08-30
     start_time: 21:00
     end_time: 21:10
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0517e00672/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://kaga-hanabi.jp/
+    source_name: 片山津温泉観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月1日から30日まで毎夜開催（1日あたり約200発）。8月22日だけ源平勝負御輿のため21:20〜21:30。雨天決行、暴風警報時のみ中止
 station: JR加賀温泉駅からタクシーで約10分

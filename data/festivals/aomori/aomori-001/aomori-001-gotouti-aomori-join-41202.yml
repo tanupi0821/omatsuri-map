@@ -1,0 +1,29 @@
+id: aomori-001-gotouti-aomori-join-41202
+name: 青森安潟みなとまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 青森県
+  city: 青森市
+  ward: null
+venue:
+  name: 三内丸山遺跡センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://aomori-join.com/2026/07/16/tanabata-yasukata/
+    source_name: アオモリジョイン
+    source_type: media
+    checked_at: 2026-08-06

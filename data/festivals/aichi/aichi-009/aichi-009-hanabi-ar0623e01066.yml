@@ -7,11 +7,11 @@ area:
   city: 安城市
   ward: null
 venue:
-  name: 安城産業文化公園デンパーク
-  address: 安城市赤松町
+  name: 安城産業文化公園デンパーク 水のステージ
+  address: 安城市赤松町梶1
   lat: 34.930803
   lng: 137.060924
-organizer: null
+organizer: 安城産業文化公園デンパーク
 stalls: yes
 tags:
   - 花火
@@ -19,17 +19,28 @@ description: null
 links:
   - title: 公式サイト
     url: https://denpark.jp/
+  - title: 安城産業文化公園デンパーク 大迫力！夏の花火ショー
+    url: https://denpark.jp/event-detail.php?id=341
 occurrences:
   - year: 2026
     dates:
       - 2026-08-08
+      - 2026-08-11
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+      - 2026-08-22
+      - 2026-08-23
+      - 2026-08-29
       - 2026-08-30
     start_time: 19:20
     end_time: 19:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0623e01066/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://denpark.jp/event-detail.php?id=341
+    source_name: 安城産業文化公園デンパーク
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月8日だけ19:30から、ほかは19:20から。約10分。観覧無料、雨天決行・荒天中止
 station: 名古屋鉄道桜井駅または南桜井駅から市内循環バスあんくるバスでデンパーク停留所下車すぐ

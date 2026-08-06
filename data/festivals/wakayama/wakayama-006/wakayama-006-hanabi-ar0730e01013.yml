@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 和歌山マリーナシティ 西側防波堤
-  address: null
+  address: 和歌山市毛見1527
   lat: 34.15191
   lng: 135.173024
 organizer: null
@@ -19,17 +19,24 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.marinacity.com/marinacity/
+  - title: 和歌山市 スターライトイリュージョン2026
+    url: https://www.city.wakayama.wakayama.jp/kankou/nenkangyoji/1006616.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-09-20
+      - 2026-09-21
       - 2026-09-22
-    start_time: null
+    start_time: 19:30
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0730e01013/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.city.wakayama.wakayama.jp/kankou/nenkangyoji/1006616.html
+    source_name: 和歌山市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: まとめサイトは7月19日と9月22日の2日分しか載せていなかった。7月19日だけ19:45から約13分の特別バージョンで、8月・9月は19:30から約10分
 station: JR海南駅からバス(マリーナシティ行きで約15分)でマリーナシティ停留所下車すぐ

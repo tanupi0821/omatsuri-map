@@ -1,0 +1,30 @@
+id: yokohama-goguynet-77376
+name: 第20回ふるさと夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: null
+venue:
+  name: しらとり台第二公園（富士公園）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
+    source_name: 号外NET 横浜市緑区・青葉区
+    source_type: media
+    checked_at: 2026-08-04

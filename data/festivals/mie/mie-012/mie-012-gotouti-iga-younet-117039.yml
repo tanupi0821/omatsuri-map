@@ -1,0 +1,29 @@
+id: mie-012-gotouti-iga-younet-117039
+name: 大盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 三重県
+  city: 名張市
+  ward: null
+venue:
+  name: 名張市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.iga-younet.co.jp/2026/07/28/117039/
+    source_name: 伊賀タウン情報YOU
+    source_type: media
+    checked_at: 2026-08-06

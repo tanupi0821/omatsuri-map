@@ -7,24 +7,33 @@ area:
   city: 横須賀市・三浦市
   ward: null
 venue:
-  name: 横須賀市・三浦市内
-  address: null
+  name: 不断寺・福泉寺・東漸寺・浄楽寺・圓福寺・満昌寺（三浦半島の6か寺）
+  address: 横須賀市・三浦市
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 横須賀市観光情報 盆竹灯籠まつり in 三浦半島 2026
+    url: https://www.cocoyoko.net/event/taketourou-fes.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-04
+      - 2026-07-26
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-23
       - 2026-08-30
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://yokosuka.goguynet.jp/2026/07/04/bontaketouroumatsuri2026/
-    source_name: 号外NET 横須賀市・三浦市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.cocoyoko.net/event/taketourou-fes.html
+    source_name: 横須賀市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 寺ごとに日が違う。不断寺7/4、福泉寺7/26、東漸寺8/1・2、浄楽寺8/14・15、圓福寺8/23、満昌寺8/30。参加費無料（一部の体験・出店は有料）

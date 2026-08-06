@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 町田薬師池公園四季彩の杜
-  address: null
+  address: 東京都町田市野津田町3270
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: FC町田ゼルビア ＦＣ町田ゼルビア×町田薬師池公園四季彩の杜 納涼大作戦
+    url: https://www.zelvia.co.jp/news/news-352237/
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +26,8 @@ occurrences:
     start_time: 09:00
     end_time: 17:00
     status: confirmed
-    source_url: https://machida.goguynet.jp/2026/07/28/nouryoudaisakusen/
-    source_name: 号外NET 町田市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.zelvia.co.jp/news/news-352237/
+    source_name: FC町田ゼルビア
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月15日9時から9月2日17時までの期間の催し

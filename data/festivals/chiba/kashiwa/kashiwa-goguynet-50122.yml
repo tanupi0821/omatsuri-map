@@ -1,0 +1,30 @@
+id: kashiwa-goguynet-50122
+name: アルカサールサマーフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: 】アルカサール中央広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/13/alcazarsummerfesta2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-08-04

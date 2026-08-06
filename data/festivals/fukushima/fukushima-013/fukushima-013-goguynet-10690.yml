@@ -1,0 +1,29 @@
+id: fukushima-013-goguynet-10690
+name: 川の祭典
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福島県
+  city: 喜多方市
+  ward: null
+venue:
+  name: 喜多方市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aizu.goguynet.jp/2026/07/13/nippasihanabi/
+    source_name: 号外NET 会津若松市・喜多方市
+    source_type: media
+    checked_at: 2026-08-04

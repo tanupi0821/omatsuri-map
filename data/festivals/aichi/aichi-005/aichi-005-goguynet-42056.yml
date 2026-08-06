@@ -11,13 +11,15 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 覚王山商店街
 stalls: unknown
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://kakuozan.com/
+  - title: 覚王山祭 公式サイト
+    url: https://kakuozan.keyproject.info/
 occurrences:
   - year: 2026
     dates:
@@ -25,8 +27,9 @@ occurrences:
       - 2026-08-31
     start_time: null
     end_time: null
-    status: confirmed
-    source_url: https://nagoyameito-chikusa.goguynet.jp/2026/07/18/yukatasanpo/
-    source_name: 号外NET 名古屋市名東区・千種区
-    source_type: media
-    checked_at: 2026-08-04
+    status: cancelled
+    source_url: https://kakuozan.keyproject.info/
+    source_name: 覚王山商店街
+    source_type: official
+    checked_at: 2026-08-06
+    note: 覚王山祭の公式サイトによると、2026年は春祭（4月25日・26日）と秋祭のみで、夏祭は開催されない。データにあった7月18日〜8月31日という日付は根拠が確認できなかった

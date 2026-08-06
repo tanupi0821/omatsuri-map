@@ -1,0 +1,29 @@
+id: hyogo-703-gotouti-awaji-journal-10327
+name: アワジ ラニカイ フェスタ
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 淡路市
+  ward: null
+venue:
+  name: Awaji
+  address: 淡路市浦55
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://awaji-journal.com/lanikai_festa/
+    source_name: 淡路ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

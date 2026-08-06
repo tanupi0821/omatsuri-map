@@ -7,15 +7,17 @@ area:
   city: 今治市
   ward: null
 venue:
-  name: 今治市内
-  address: 今治市神宮甲699
+  name: 今治市内の各神社（野間神社・吹揚神社ほか）
+  address: 愛媛県今治市
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 今治市 今治地方春祭り
+    url: https://www.city.imabari.ehime.jp/event/?a=74
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +26,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://imabari-saijo.goguynet.jp/2026/05/02/imabaritihouharumaturi/
-    source_name: 号外NET 今治市・西条市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.imabari.ehime.jp/event/?a=74
+    source_name: 今治市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 5月3日から24日にかけて地区ごとに別の日に行う。継ぎ獅子が各地区の神社に奉納され、野間神社と吹揚神社には複数地区の獅子が集まる。西地区は5月16日・17日、南方地区は5月24日

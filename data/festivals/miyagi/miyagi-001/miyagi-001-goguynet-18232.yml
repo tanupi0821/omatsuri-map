@@ -1,0 +1,29 @@
+id: miyagi-001-goguynet-18232
+name: おながわみなと祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 宮城県
+  city: 女川町
+  ward: null
+venue:
+  name: 女川町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/07/06/minatomaturi/
+    source_name: 号外NET 石巻市・東松島市
+    source_type: media
+    checked_at: 2026-08-04

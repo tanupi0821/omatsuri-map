@@ -7,11 +7,11 @@ area:
   city: 新潟市秋葉区
   ward: null
 venue:
-  name: 堀出神社
-  address: 新潟市秋葉区新津本町3-14
+  name: 新津本町 目抜き通り
+  address: 新潟市秋葉区新津本町
   lat: 37.794653
   lng: 139.12334
-organizer: 新津観光協会
+organizer: 新津祭り実行委員会
 stalls: yes
 tags: []
 description: null
@@ -20,17 +20,21 @@ links:
     url: https://n-kankou.com/event/
   - title: 号外NET 新潟市江南区・秋葉区・南区
     url: https://niigatakonan-akiha-minami.goguynet.jp/2026/07/31/niitunatu26/
+  - title: 新潟市観光ガイド にいつ夏まつり
+    url: https://www.nvcb.or.jp/event/detail_1361.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-02
+      - 2026-08-16
+      - 2026-08-19
       - 2026-08-20
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e195014/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR新津駅から徒歩5分
+    source_url: https://www.nvcb.or.jp/event/detail_1361.html
+    source_name: 新潟観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月2日が大囃子祭（17:30〜）、16日が新津松坂流し、19日・20日がにいつ屋台まつり・輪っしょい広場
+station: JR信越本線 新津駅（徒歩5分）

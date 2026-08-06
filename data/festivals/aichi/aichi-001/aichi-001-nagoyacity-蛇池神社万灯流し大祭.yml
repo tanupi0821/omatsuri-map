@@ -8,7 +8,9 @@ area:
   ward: null
 venue:
   name: 蛇池公園
-  address: null
+  address: |-
+    名古屋市西区山田町大字大野木字起返、
+    　　大字比良字野市場
   lat: null
   lng: null
 recurrence: 8月20日

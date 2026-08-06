@@ -9,8 +9,8 @@ area:
 venue:
   name: 相模川 高田橋上流
   address: 相模原市中央区水郷田名
-  lat: null
-  lng: null
+  lat: 35.544894
+  lng: 139.328519
 organizer: 相模原納涼花火大会実行委員会
 stalls: yes
 tags:
@@ -21,6 +21,8 @@ links:
     url: https://sagamiharahanabi.com/
   - title: 号外NET 相模原市中央区
     url: https://sagamiharachuoku.goguynet.jp/2026/06/01/post-65006/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0314e00862/
 occurrences:
   - year: 2026
     dates:
@@ -32,3 +34,5 @@ occurrences:
     source_name: 相模原納涼花火大会実行委員会
     source_type: official
     checked_at: 2026-08-05
+    note: 協賛エリアの入場開始は13:00。終了時刻は公式サイトに記載がない
+station: JR相模原駅からバスで水郷田名停留所下車、徒歩5分

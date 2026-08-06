@@ -7,8 +7,8 @@ area:
   city: 遠野市
   ward: null
 venue:
-  name: 一例
-  address: null
+  name: 遠野市街地各所（蔵の道ひろば・JR遠野駅前・とおの物語の館・南部神社）
+  address: 岩手県遠野市
   lat: null
   lng: null
 organizer: null
@@ -18,6 +18,8 @@ description: null
 links:
   - title: 遠野市役所HP
     url: https://www.city.tono.iwate.jp/index.cfm/25,0,124,453,html
+  - title: 遠野時間（遠野市観光情報サイト）遠野春まつり＆GWイベント2026
+    url: https://tonojikan.jp/feature/tono-spring-trip-gw-events-2026/
 occurrences:
   - year: 2026
     dates:
@@ -26,7 +28,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/04/01/toonoharumaturi/
-    source_name: 号外NET 花巻市・北上市・遠野市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://tonojikan.jp/feature/tono-spring-trip-gw-events-2026/
+    source_name: 遠野市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 期間中に催しが散らばる。南部氏遠野入部行列は4月25日10:30から、遠野夜神楽は5月2日・3日19:00から、南部神社例祭は5月3日・4日

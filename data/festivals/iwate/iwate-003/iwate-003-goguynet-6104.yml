@@ -1,0 +1,31 @@
+id: iwate-003-goguynet-6104
+name: 盛岡花火の祭
+kind: 花火
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 盛岡市
+  ward: null
+venue:
+  name: 盛岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+      - 2026-08-10
+      - 2026-06-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://morioka.goguynet.jp/2026/06/03/moriokahanabinosaiten2026-senkouhanbai/
+    source_name: 号外NET 盛岡市
+    source_type: media
+    checked_at: 2026-08-04

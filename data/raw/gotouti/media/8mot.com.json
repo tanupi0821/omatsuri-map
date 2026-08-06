@@ -13,7 +13,7 @@
   "山梨県"
  ],
  "url": "http://8mot.com/",
- "skipped": "robots取得不可 (CERT_HAS_EXPIRED)",
+ "skipped": "REST 不可 (401)",
  "terms": [
   "盆踊り",
   "夏祭り",

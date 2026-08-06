@@ -8,7 +8,7 @@
   "宮崎県"
  ],
  "url": "http://visit.miyazaki.jp/",
- "skipped": "robots取得不可 (ERR_TLS_CERT_ALTNAME_INVALID)",
+ "skipped": "REST 不可 (403)",
  "terms": [
   "盆踊り",
   "夏祭り",

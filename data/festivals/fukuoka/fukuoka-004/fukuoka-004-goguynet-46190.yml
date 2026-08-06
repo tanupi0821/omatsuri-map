@@ -7,24 +7,27 @@ area:
   city: 福岡市中央区
   ward: null
 venue:
-  name: 福岡市中央区内
-  address: null
+  name: 福岡市役所西側ふれあい広場
+  address: 福岡市中央区天神1丁目8-1
   lat: null
   lng: null
-organizer: null
+organizer: 天神夏まつり2026実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: よかなび（福岡市観光情報サイト）夏はホークス！天神夏まつり2026
+    url: https://yokanavi.com/events/274343
 occurrences:
   - year: 2026
     dates:
       - 2026-07-17
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 22:00
     status: confirmed
-    source_url: https://fukuokachuo.goguynet.jp/2026/08/03/tenjinnatsumatsuri/
-    source_name: 号外NET 福岡市中央区・城南区
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://yokanavi.com/events/274343
+    source_name: 福岡市（よかなび）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月17日から8月23日までの38日間、期間中は休みなしで毎日開催

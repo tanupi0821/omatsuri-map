@@ -14,7 +14,7 @@
   "神奈川県"
  ],
  "url": "http://shonan-magazine.jp/",
- "skipped": "robots取得不可 (ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR)",
+ "skipped": "REST 不可 (403)",
  "terms": [
   "盆踊り",
   "夏祭り",

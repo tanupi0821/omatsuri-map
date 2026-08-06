@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-49168
+name: 函館新聞社第27回函館港花火大会‐海の日制定記念
+kind: 花火
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 青函連絡船記念館摩周丸前岸壁～豊川ふ頭
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/07/02/hakodatesinbun-hanabitaikai-4/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

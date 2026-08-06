@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: そうか公園
-  address: 草加市柿木町
+  address: 草加市柿木町272-1
   lat: 35.861771
   lng: 139.824333
-organizer: 草加市みんなでまちづくり課
+organizer: 草加市民納涼大花火大会実行委員会
 stalls: yes
 tags:
   - 花火
@@ -25,16 +25,18 @@ links:
     url: https://soka.goguynet.jp/2026/08/01/2026-8-1-2omatsuri/
   - title: 花火大会2026（ウォーカープラス）
     url: https://hanabi.walkerplus.com/detail/ar0311e01055/
+  - title: 草加市民納涼大花火大会2026 公式サイト
+    url: https://soka-hanabi.com/
 occurrences:
   - year: 2026
     dates:
-      - 2026-06-03
       - 2026-08-01
-    start_time: 15:00
-    end_time: 21:00
+    start_time: 19:25
+    end_time: 20:35
     status: confirmed
-    source_url: https://soka.goguynet.jp/2026/06/04/sokashiminnouryodaihanabitaikai2026/
-    source_name: 号外NET 草加市
-    source_type: media
-    checked_at: 2026-08-04
-station: 東武スカイツリーライン獨協大学前(草加松原)駅から東武バス新田駅東口行で約15分、総合グランド前下車徒歩1分
+    source_url: https://soka-hanabi.com/
+    source_name: 草加市民納涼大花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: データに入っていた6月3日は誤り。開催は8月1日の1日だけで、2019年以来7年ぶりの復活
+station: JR武蔵野線 レイクタウン駅（徒歩25分）／東武スカイツリーライン 獨協大学前駅・新田駅（東武バス）

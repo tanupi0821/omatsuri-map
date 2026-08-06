@@ -8,7 +8,7 @@
   "岐阜県"
  ],
  "url": "https://brunogen.com/",
- "skipped": "robots取得不可 (UNABLE_TO_GET_ISSUER_CERT_LOCALLY)",
+ "skipped": "robots で /wp-json/ が Disallow",
  "terms": [
   "盆踊り",
   "夏祭り",

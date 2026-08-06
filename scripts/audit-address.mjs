@@ -94,12 +94,26 @@ for (const p of files) {
   if (bare.slice(muni.length).includes(muni)) add('dup-muni', f, addr, `「${muni}」が二重`);
 
   // 1. 町名が抜けている（市区町村の直後がいきなり数字）
-  // ただし**北海道の「◯条◯丁目」は正しい住所**（江別市3条5丁目11-1）。
-  // 京都の「四条通」なども同型なので、数字のすぐ後ろが「条」なら誤りとしない
+  //
+  // **市と区だけを見る。** 町村は大字を持たないところがあり、
+  // 「利島村1」「神津島村41」は**それが正しい住所**（村全体で一つの大字）。
+  // 元々見つけたかったのは「足立区48-2」のような区の住所の書き落とし。
+  //
+  // 北海道の「◯条◯丁目」も正しい住所なので除く（江別市3条5丁目11-1）。
   const rest = bare.slice(muni.length);
-  if (/^[\d０-９]/.test(rest) && !/^[\d０-９]+条/.test(rest)) {
+  if (/[市区]$/.test(muni) && /^[\d０-９]/.test(rest) && !/^[\d０-９]+条/.test(rest)) {
     add('truncated', f, addr, '市区町村の直後がいきなり番地');
   }
+
+  // 7. 会場名がそのまま住所に入っている（取り込みの取り違え）
+  if (f.venue?.name && addr === f.venue.name) {
+    add('same-as-venue', f, addr, '会場名がそのまま住所に入っている');
+  }
+
+  // 8. 都道府県から始まっている。
+  // **誤りではないが書き方が揃っていない。** このデータは市区町村から始めるのが決まりで、
+  // 2400 件以上がその形。揃っていないと詳細ページで並びが不揃いに見える
+  if (PREF.test(addr)) add('pref-prefix', f, addr, '住所が都道府県から始まっている');
 
   // 4. 掲載市区町村と食い違う
   const am = areaMuni(f);
@@ -109,13 +123,16 @@ for (const p of files) {
     const okExact = muni === am || short(muni) === short(am);
     // 政令市は area.city に区まで入っているが、住所が市までのこともある
     const okLoose = am.startsWith(muni) || muni.startsWith(am);
-    if (!okExact && !okLoose) {
+    // **島名が自治体名の前に付く住所がある**（東京都八丈島八丈町大賀郷／
+    // 鹿児島県奄美市…）。「八丈島八丈町」は「八丈町」で終わるので誤りではない
+    const okIsland = muni.endsWith(am);
+    if (!okExact && !okLoose && !okIsland) {
       add('muni-mismatch', f, addr, `掲載は「${am}」だが住所は「${muni}」`);
     }
   }
 }
 
-const order = ['truncated', 'muni-mismatch', 'dup-muni', 'dup-pref', 'no-muni', 'junk'];
+const order = ['truncated', 'muni-mismatch', 'dup-muni', 'dup-pref', 'no-muni', 'junk', 'same-as-venue', 'pref-prefix'];
 const LABEL = {
   truncated: '町名が抜けている（地図が別の場所に落ちる）',
   'muni-mismatch': '掲載市区町村と住所が食い違う',
@@ -123,6 +140,8 @@ const LABEL = {
   'dup-pref': '都道府県名が住所の途中にある',
   'no-muni': '市区町村名で始まっていない',
   junk: '住所以外のものが混ざっている',
+  'same-as-venue': '会場名がそのまま住所に入っている',
+  'pref-prefix': '住所が都道府県から始まっている（書き方が揃っていない）',
 };
 
 console.log(`住所のある祭り ${checked} 件を点検\n`);

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 狸小路商店街
-  address: 札幌市中央区南2・3条西1丁目～7丁目
+  address: 札幌市中央区南2条〜3条西1〜7丁目
   lat: 43.057179
   lng: 141.352018
 organizer: null
@@ -18,6 +18,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.sapporo.travel/summerfes/event/tanukikoji/
+  - title: 北海道新聞 さっぽろ夏まつり
+    url: https://www.hokkaido-np.co.jp/event/79737/
 occurrences:
   - year: 2026
     dates:
@@ -26,11 +28,11 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e108977/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.hokkaido-np.co.jp/event/79737/
+    source_name: さっぽろ夏まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: さっぽろ夏まつりの一部で、7月23日から8月18日までの27日間
 station: 札幌市営地下鉄大通駅から徒歩8分
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/1/19/Raccoondog_festival_in_awa_2006.jpg

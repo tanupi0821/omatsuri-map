@@ -27,6 +27,7 @@ import { writeNationwideAreas } from './_nationwide.mjs';
 import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, hasStalls, pickDates, pickVenue, pickName, usableName,
 } from './_article.mjs';
+import { buildGazetteer, GAZETTEER, citiesIn } from './_gazetteer.mjs';
 
 const CHECKED = '2026-08-06';
 const RAW = join(ROOT, 'data', 'raw', 'gotouti', 'media');
@@ -134,35 +135,14 @@ function coverage(areas) {
 }
 
 /**
- * 市区町村の辞書（県 → 市区町村名の集合）。
+ * 市区町村の辞書（県 → 市区町村名の集合）は `_gazetteer.mjs` に切り出した。
+ * 号外NET の取り込みでも同じ辞書が要る（版の名前と実際の市町村が違う問題）。
  *
  * **行政区域が「群馬県」までしか無い媒体が 59 あり、そこに 562 記事ある。**
  * しかも北関東・山形・鳥取・宮崎・福井といった、このサイトがいちばん薄い県ばかり。
  * 市が決められないという理由で捨てていたが、**題名に市名が出ていれば決まる**。
- *
- * 辞書は名鑑の「行政区域」欄そのものから作る（1,736 媒体分を集めると 1,397 件）。
- * 全国の市区町村表を別に持ち込むより、出典と同じ表記で揃うぶん確実。
  */
-const GAZETTEER = new Map();
-{
-  const idxPath = join(ROOT, 'data', 'raw', 'gotouti', 'index.json');
-  const src = existsSync(idxPath) ? JSON.parse(readFileSync(idxPath, 'utf8')).items : [];
-  const put = (pref, city) => {
-    if (!GAZETTEER.has(pref)) GAZETTEER.set(pref, new Set());
-    GAZETTEER.get(pref).add(city);
-  };
-  for (const it of src) {
-    for (const a of it.areas ?? []) {
-      const p = parseArea(a);
-      if (!p?.city) continue;
-      put(p.pref, typeof p.city === 'string' ? p.city : p.city.city + p.city.ward);
-    }
-  }
-  for (const a of loadAreaList(ROOT)) {
-    put(a.pref, a.city);
-    for (const w of a.wards ?? []) put(a.pref, w.name);
-  }
-}
+buildGazetteer(ROOT);
 
 /**
  * 県だけしか分からない媒体で、題名から市区町村を決める。
@@ -186,27 +166,6 @@ function cityFromTitle(title, prefs) {
 /** 実在の市区町村名か（辞書の全県ぶんを串刺しで見る） */
 const ALL_CITIES = new Set([...GAZETTEER.values()].flatMap((s2) => [...s2]));
 const isRealCity = (c) => ALL_CITIES.has(c);
-
-/**
- * 文中に出てくる**実在する市区町村名**を全部返す。
- *
- * 正規表現で `.{2,6}[市区町村]` と書くと貪欲に伸びて、
- * 「西都市中心市街地」から「西都市中心市」という実在しない名前を作ってしまう。
- * 市区町村で終わる位置ごとに、長い方から辞書に当てる。
- */
-function citiesIn(text) {
-  const out = [];
-  const s = String(text ?? '');
-  for (let i = 0; i < s.length; i++) {
-    if (!/[市区町村]/.test(s[i])) continue;
-    for (let L = 7; L >= 2; L--) {
-      if (i - L + 1 < 0) continue;
-      const c = s.slice(i - L + 1, i + 1);
-      if (ALL_CITIES.has(c)) { out.push(c); break; }
-    }
-  }
-  return [...new Set(out)];
-}
 
 /**
  * 本文の「住所：◯◯県△△市…」が掲載市と違うなら、その記事は別の市の祭り。
@@ -438,14 +397,35 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     } else if (cov.length === 1) {
       hit = cov[0];
     } else {
-      // 題名 → 本文の頭 300 字の順に、守備範囲の市名を探す。
-      // 長い名前（政令市の区）から見る
-      const ordered = [...cov].sort((a, b) => b.full.length - a.full.length);
-      const inTitle = ordered.filter((c) => it.title.includes(c.full) || it.title.includes(c.name));
-      const head = it.body.slice(0, 300);
-      const inBody = ordered.filter((c) => head.includes(c.full) || head.includes(c.name));
-      if (inTitle.length === 1) hit = inTitle[0];
-      else if (!inTitle.length && inBody.length === 1) hit = inBody[0];
+      /**
+       * 守備範囲が複数市の媒体は、**どの市の名前がいちばん出てくるか**で決める。
+       * 題名は 3 倍、本文の頭 600 字は 1 倍。号外NET の版名を覆すのと同じ数え方
+       * （`_gazetteer.mjs` の `actualCity`）。
+       *
+       * 以前は「題名にちょうど 1 つ出ていること」を条件にしていたが、
+       * それだと 903 記事が「市が絞れない」で落ちていた。市名は本文の
+       * 会場や住所の側に書かれることが多い。
+       *
+       * **1 位が 2 位と同点なら捨てる。** 隣り合う 2 市を並べて書く記事
+       * （「松戸市と柏市の夏祭り」）は、どちらの祭りか決められない。
+       */
+      const head = it.body.slice(0, 600);
+      const countOf = (text, w) => {
+        let n = 0; let i = text.indexOf(w);
+        while (i >= 0) { n++; i = text.indexOf(w, i + w.length); }
+        return n;
+      };
+      const scored = cov.map((c) => {
+        // 「川崎市中原区」は「中原区」とも「川崎市中原区」とも書かれる。長い方を先に数える
+        const keys = [...new Set([c.full, c.name])].sort((a, b) => b.length - a.length);
+        const stem = (k) => k.replace(/[市区町村]$/, '');
+        const score = keys.reduce(
+          (acc, k) => acc + 3 * countOf(it.title, stem(k)) + countOf(head, stem(k)),
+          0,
+        );
+        return { c, score };
+      }).sort((a, b) => b.score - a.score);
+      if (scored[0].score >= 3 && scored[0].score > (scored[1]?.score ?? 0)) hit = scored[0].c;
     }
     if (!hit) { ambiguous++; continue; }
     const area = resolve(hit);

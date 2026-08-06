@@ -85,13 +85,34 @@ const PREF_NAMES = PREFS.map((p) => p.name);
  * **Content-Signal は robots.txt の中にコメント風の行として書かれる**ので
  * ファイル全体から探す。
  */
-async function robots(host) {
-  let text = '';
+/**
+ * **証明書が切れている・ホスト名が合っていない媒体が 82 ある。**
+ * 個人や小さな団体の運営なので珍しくない。https が TLS で失敗したときだけ
+ * http に落として試す（内容は公開情報なので、暗号化の有無は取得可否に影響しない）。
+ */
+const TLS_ERR = /CERT|TLS|SSL|ERR_SSL/i;
+
+async function fetchMaybeHttp(path, host) {
   try {
-    const r = await fetch(`https://${host}/robots.txt`, {
+    return await fetch(`https://${host}${path}`, {
       headers: { 'User-Agent': UA },
       signal: AbortSignal.timeout(20000),
     });
+  } catch (e) {
+    const code = e?.cause?.code ?? e?.code ?? '';
+    if (!TLS_ERR.test(String(code))) throw e;
+    return fetch(`http://${host}${path}`, {
+      headers: { 'User-Agent': UA },
+      signal: AbortSignal.timeout(20000),
+      redirect: 'follow',
+    });
+  }
+}
+
+async function robots(host) {
+  let text = '';
+  try {
+    const r = await fetchMaybeHttp('/robots.txt', host);
     // robots.txt が無い（404）＝制限なし
     if (r.status === 404) return { allowed: true, delayMs: MIN_DELAY, aiTrainNo: false };
     if (!r.ok) return { allowed: true, delayMs: MIN_DELAY, aiTrainNo: false };
@@ -192,7 +213,17 @@ console.log(`今回 ${todo.length} 媒体を回す（並列 ${WORKERS}）`);
 // ---------------------------------------------------------------------------
 
 async function getJson(url, timeout = 20000) {
-  const r = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(timeout) });
+  // 証明書が壊れている媒体は http に落とす（robots と同じ扱い）
+  let r;
+  try {
+    r = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(timeout) });
+  } catch (e) {
+    const code = e?.cause?.code ?? e?.code ?? '';
+    if (!TLS_ERR.test(String(code))) throw e;
+    r = await fetch(url.replace(/^https:/, 'http:'), {
+      headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(timeout), redirect: 'follow',
+    });
+  }
   if (!r.ok) throw new Error(String(r.status));
   const total = Number(r.headers.get('x-wp-total') ?? -1);
   const pages = Number(r.headers.get('x-wp-totalpages') ?? 1);

@@ -7,15 +7,17 @@ area:
   city: 中央区
   ward: null
 venue:
-  name: 東京ミッドタウン八重洲
-  address: null
+  name: 東京ミッドタウン八重洲 1階 ガレリア・アトリウムほか
+  address: 東京都中央区八重洲2-2-1
   lat: null
   lng: null
-organizer: 一般社団法人八重洲二丁目北地区エリアマネジメント
+organizer: 一般社団法人 八重洲二丁目北地区エリアマネジメント
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東京ミッドタウン八重洲 八重洲夜市 2026
+    url: https://www.yaesu.tokyo-midtown.com/special/yaesuyoichi/
 occurrences:
   - year: 2026
     dates:
@@ -24,7 +26,9 @@ occurrences:
     start_time: 17:00
     end_time: 21:00
     status: confirmed
-    source_url: https://tokyofesta.com/23ku/31901/
-    source_name: 東京フェスタ
-    source_type: media
-    checked_at: 2026-08-05
+    source_url: https://www.yaesu.tokyo-midtown.com/special/yaesuyoichi/
+    source_name: 八重洲二丁目北地区エリアマネジメント
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月28日から9月6日までの10日間。一部の催しは金・土・日のみで、9月1日は一部エリアが貸切。最終日（9月6日）は20:00で終了
+station: JR東京駅八重洲口

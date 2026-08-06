@@ -1,0 +1,29 @@
+id: yamagata-007-gotouti-shonai2-fun-87421
+name: さかた夏の縁日まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 山形県
+  city: 酒田市
+  ward: null
+venue:
+  name: 酒田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+    start_time: 17:30
+    end_time: 18:00
+    status: confirmed
+    source_url: https://shonai2.fun/wadai-saki-20260804/
+    source_name: ショーナイツウ!!
+    source_type: media
+    checked_at: 2026-08-06

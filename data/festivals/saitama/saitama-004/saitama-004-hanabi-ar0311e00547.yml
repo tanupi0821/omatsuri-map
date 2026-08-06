@@ -7,8 +7,8 @@ area:
   city: 南埼玉郡宮代町
   ward: null
 venue:
-  name: 東武動物公園　東ゲート白鳥の池周辺
-  address: 南埼玉郡宮代町大字須賀
+  name: 東武動物公園 東ゲート 白鳥の池周辺
+  address: 南埼玉郡宮代町須賀110
   lat: 36.019253
   lng: 139.718188
 organizer: 東武動物公園
@@ -19,17 +19,20 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.tobuzoo.com/
+  - title: 東武動物公園 打上花火2026
+    url: https://www.tobuzoo.com/event/9686.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-15
+      - 2026-08-22
       - 2026-08-29
     start_time: 19:30
     end_time: 19:35
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0311e00547/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.tobuzoo.com/event/9686.html
+    source_name: 東武動物公園
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月の土曜3日。1回約5分・約500発。荒天中止
 station: 東武鉄道東武動物公園駅西口から徒歩10分

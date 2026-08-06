@@ -1,0 +1,29 @@
+id: machida-gotouti-machisaga-25457
+name: 鶴川OMOTENASHI祭り 2026初夏
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 町田市
+  ward: null
+venue:
+  name: 鶴川香山園
+  address: null
+  lat: null
+  lng: null
+organizer: 鶴川地区協議会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machisaga.jp/tsurukawa-festival/
+    source_name: まちさが
+    source_type: media
+    checked_at: 2026-08-06

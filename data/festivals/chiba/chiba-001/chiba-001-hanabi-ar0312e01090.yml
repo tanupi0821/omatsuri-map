@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: ZOZOマリンスタジアム
-  address: 千葉市美浜区美浜
+  address: 千葉市美浜区美浜1
   lat: 35.644236
   lng: 140.029152
-organizer: null
+organizer: 千葉ロッテマリーンズ
 stalls: yes
 tags:
   - 花火
@@ -23,13 +23,30 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-10
+      - 2026-07-11
+      - 2026-07-12
+      - 2026-07-18
+      - 2026-07-19
+      - 2026-07-20
+      - 2026-07-22
+      - 2026-07-23
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-07
+      - 2026-08-08
       - 2026-08-09
+      - 2026-08-21
+      - 2026-08-22
+      - 2026-08-23
+      - 2026-08-25
+      - 2026-08-26
+      - 2026-08-27
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0312e01090/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.marines.co.jp/event/fireworks/
+    source_name: 千葉ロッテマリーンズ
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月10日〜8月9日が「BLACK SUMMER WEEK」、8月21日〜27日が「マリーンズ夏祭」。打上げは試合中の5回裏終了後（一部は7回表終了後・試合終了後）なので開始時刻は決まっていない
 station: JR海浜幕張駅から徒歩15分

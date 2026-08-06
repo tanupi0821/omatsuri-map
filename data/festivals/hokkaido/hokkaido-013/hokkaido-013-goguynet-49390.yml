@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-49390
+name: 第５回 七飯大沼夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 大沼国定公園広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/08/05/nanae-onuma-natsu-matsuri/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-08-04

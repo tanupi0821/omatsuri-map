@@ -1,0 +1,14 @@
+{
+ "host": "92m010.com",
+ "name": "十三エクスプレス",
+ "areas": [
+  "大阪府大阪市淀川区"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://92m010.com/13-xpress/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

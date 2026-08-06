@@ -1,0 +1,30 @@
+id: aomori-001-goguynet-23926
+name: 第37回はしかみいちご煮祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 青森県
+  city: 階上町
+  ward: null
+venue:
+  name: 小舟渡海岸（青森県三戸郡階上町道仏）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hachinohe.goguynet.jp/2026/07/20/ichigoni-2/
+    source_name: 号外NET 八戸市（三八）
+    source_type: media
+    checked_at: 2026-08-04

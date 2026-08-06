@@ -8,7 +8,7 @@
   "東京都"
  ],
  "url": "https://osaki-gotanda-link.com/",
- "skipped": "robots取得不可 (CERT_SIGNATURE_FAILURE)",
+ "skipped": "robots取得不可 (UND_ERR_CONNECT_TIMEOUT)",
  "terms": [
   "盆踊り",
   "夏祭り",

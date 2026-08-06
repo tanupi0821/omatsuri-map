@@ -7,8 +7,8 @@ area:
   city: 町田市
   ward: null
 venue:
-  name: 鶴間公園
-  address: null
+  name: 鶴間公園（南町田グランベリーパーク内）
+  address: 東京都町田市鶴間3-8-1
   lat: null
   lng: null
 organizer: null
@@ -22,11 +22,15 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
+      - 2026-07-19
+      - 2026-07-20
       - 2026-08-22
-    start_time: null
-    end_time: null
+      - 2026-08-23
+    start_time: 15:00
+    end_time: 20:00
     status: confirmed
-    source_url: https://machida.goguynet.jp/2026/07/17/natsumatsuridaisakusen/
-    source_name: 号外NET 町田市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://tsuruma-park.com/topics/47253/
+    source_name: 鶴間公園（町田市）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月18日〜20日と8月22日・23日の計5日。こども縁日・手持ち花火体験・わんわんプチマルシェなど

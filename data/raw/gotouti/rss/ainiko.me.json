@@ -1,0 +1,19 @@
+{
+ "host": "ainiko.me",
+ "name": "ainiko",
+ "areas": [
+  "東京都",
+  "神奈川県"
+ ],
+ "prefs": [
+  "東京都",
+  "神奈川県"
+ ],
+ "url": "https://ainiko.me/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

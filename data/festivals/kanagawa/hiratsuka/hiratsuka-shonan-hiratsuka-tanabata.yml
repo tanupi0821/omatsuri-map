@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 平塚市中心街および市内各所
-  address: 神奈川県平塚市
+  address: 平塚市
   lat: 35.328932
   lng: 139.350574
 station: JR東海道本線 平塚駅北口（徒歩2分）

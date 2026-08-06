@@ -7,26 +7,41 @@ area:
   city: 日光市
   ward: null
 venue:
-  name: 鬼怒川温泉
-  address: null
+  name: 鬼怒楯岩大吊橋（10月3日・10日は鬼怒川温泉駅前広場）
+  address: 日光市鬼怒川温泉大原
   lat: null
   lng: null
 organizer: null
 tags:
   - 花火
 description: null
-links: []
+links:
+  - title: 日光旅ナビ（日光市観光協会）百華繚乱花火〜鬼怒川焔火〜
+    url: https://www.nikko-kankou.org/event/769
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-08
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-22
+      - 2026-08-29
+      - 2026-09-05
+      - 2026-09-12
+      - 2026-09-19
+      - 2026-09-20
+      - 2026-09-21
+      - 2026-09-22
+      - 2026-09-26
+      - 2026-10-03
       - 2026-10-10
     start_time: 20:45
     end_time: null
     status: confirmed
-    source_url: https://www.flat-local.jp/event/
-    source_name: フラットローカル
-    source_type: media
-    checked_at: 2026-08-03
-    note: 8/1〜10/10のうち計15日間。掲載の2日付は期間の初日と最終日
+    source_url: https://www.nikko-kankou.org/event/769
+    source_name: 日光市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: まとめサイトは8月1日と10月10日の2日分しか載せていなかったが、日光市観光協会は15日を発表している。打上げは20:45から約8分。10月3日・10日は「月あかり花回廊」期間で打上場所が鬼怒川温泉駅前広場に変わる
 stalls: unknown

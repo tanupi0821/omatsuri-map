@@ -1,0 +1,30 @@
+id: miyagi-005-gotouti-izumikuplus-plus-0-42475
+name: 鶴が丘四丁目 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市泉区
+  ward: null
+venue:
+  name: 仙台市泉区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-08
+    start_time: 13:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://izumikuplus.com/event/20260731/42475.html
+    source_name: 泉区プラス
+    source_type: media
+    checked_at: 2026-08-06

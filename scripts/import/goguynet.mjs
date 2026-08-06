@@ -15,12 +15,13 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { emit, ROOT } from './_lib.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
-import { byName } from '../lib/prefs.mjs';
+import { byName, PREFS } from '../lib/prefs.mjs';
 import { citySlug } from '../lib/romaji.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, hasStalls, pickDates, pickVenue, pickName, usableName,
 } from './_article.mjs';
+import { buildGazetteer, actualCity } from './_gazetteer.mjs';
 
 const CHECKED = '2026-08-04';
 const RAW = join(ROOT, 'data', 'raw', 'goguynet');
@@ -29,6 +30,8 @@ if (!existsSync(RAW)) {
   console.error('data/raw/goguynet がない。先に scripts/crawl/goguynet.mjs を回すこと');
   process.exit(1);
 }
+
+buildGazetteer(ROOT);
 
 const areaMeta = new Map(
   existsSync(join(RAW, '_areas.json'))
@@ -145,10 +148,22 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json') && f !== '
   if (!meta) continue;
 
   for (const it of j.items) {
-    const city = (it.title.match(/^【([^】]{2,10})】/) ?? [])[1];
-    if (!city) { noCity++; continue; }
+    const edition = (it.title.match(/^【([^】]{2,10})】/) ?? [])[1];
+    if (!edition) { noCity++; continue; }
     // 見出しが複数県のときは地域版ごとの対応表を使う
     const prefLabel = AREA_PREF[j.area] ?? meta.pref;
+
+    /**
+     * **題名の【】は版の名札であって、その記事の市区町村とは限らない。**
+     * 帯広版は全記事が「【帯広市】」で始まるが、中身は大樹町の歴舟川清流まつり・
+     * 広尾町の十勝港まつり・更別村のすももの里まつりだった。
+     * 本文と題名で実際に言及されている市町村を数えて決める（`_gazetteer.mjs`）。
+     */
+    const prefName = byName(prefLabel)?.name
+      ?? PREFS.map((p) => p.name).find((p) => prefLabel.includes(p))
+      ?? meta.pref;
+    const city = actualCity(edition, it.title, it.body, prefName);
+
     const area = resolveArea(city, prefLabel);
     if (!area) { noCity++; continue; }
 

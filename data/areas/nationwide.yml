@@ -242,6 +242,24 @@ cities:
     slug: hokkaido-701
   - name: 札幌市
     slug: hokkaido-702
+  - name: 枝幸町
+    slug: hokkaido-001
+  - name: 幕別町
+    slug: hokkaido-002
+  - name: 音更町
+    slug: hokkaido-003
+  - name: 広尾町
+    slug: hokkaido-004
+  - name: 大樹町
+    slug: hokkaido-005
+  - name: 中札内村
+    slug: hokkaido-006
+  - name: 更別村
+    slug: hokkaido-007
+  - name: 陸別町
+    slug: hokkaido-008
+  - name: 中富良野町
+    slug: hokkaido-001
 ---
 pref: 秋田県
 cities:
@@ -300,6 +318,8 @@ cities:
     slug: aomori-001
   - name: 南部町
     slug: aomori-001
+  - name: 階上町
+    slug: aomori-001
 ---
 pref: 愛媛県
 cities:
@@ -333,6 +353,8 @@ cities:
     slug: ehime-704
   - name: 伊方町
     slug: ehime-705
+  - name: 西予市
+    slug: ehime-706
 ---
 pref: 福井県
 cities:
@@ -486,6 +508,8 @@ cities:
     slug: fukushima-702
   - name: 広野町
     slug: fukushima-703
+  - name: 柳津町
+    slug: fukushima-001
 ---
 pref: 岐阜県
 cities:
@@ -1343,6 +1367,8 @@ cities:
     slug: osaka-703
   - name: 堺市
     slug: osaka-704
+  - name: 岸和田市
+    slug: osaka-001
 ---
 pref: 佐賀県
 cities:
@@ -1389,6 +1415,8 @@ cities:
     slug: shiga-001
   - name: 高島市
     slug: shiga-801
+  - name: 愛荘町
+    slug: shiga-001
 ---
 pref: 島根県
 cities:

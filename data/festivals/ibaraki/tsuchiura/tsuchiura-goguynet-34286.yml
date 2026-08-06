@@ -7,27 +7,30 @@ area:
   city: 土浦市
   ward: null
 venue:
-  name: 土浦市内
-  address: 土浦市中央1-13-55
+  name: 土浦駅西口駅前通り・うらら大屋根広場・モール505・亀城公園ほか市街地一帯
+  address: 土浦市
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 土浦市観光協会 土浦キララまつり2026
+    url: https://www.tsuchiura-kankou.jp/whats_new/%E5%9C%9F%E6%B5%A6%E3%82%AD%E3%83%A9%E3%83%A9%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96-2/
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-04
+      - 2026-08-01
       - 2026-08-02
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/07/09/post-34286/
-    source_name: 号外NET 土浦市・かすみがうら市・石岡市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.tsuchiura-kankou.jp/whats_new/%E5%9C%9F%E6%B5%A6%E3%82%AD%E3%83%A9%E3%83%A9%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96-2/
+    source_name: 土浦市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: データに入っていた7月4日は誤りだった（まつりは8月1日・2日の2日間）。キララ花火は8月1日20:30から、山車競演は8月2日
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tsuchiurakirara_tanabatakazari.jpg/1280px-Tsuchiurakirara_tanabatakazari.jpg
     width: 1000

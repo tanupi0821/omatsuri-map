@@ -1,0 +1,30 @@
+id: hyogo-703-gotouti-awaji-journal-419
+name: 淡路島岩屋夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 淡路市
+  ward: null
+venue:
+  name: 淡路島タコステ
+  address: 淡路市岩屋1414-27
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://awaji-journal.com/tacosute_maturi/
+    source_name: 淡路ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

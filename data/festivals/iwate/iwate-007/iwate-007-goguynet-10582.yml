@@ -1,0 +1,32 @@
+id: iwate-007-goguynet-10582
+name: 石鳥谷夢まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 花巻市
+  ward: null
+venue:
+  name: 花巻市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-15
+      - 2026-08-07
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/07/31/hanabitaikai-2/
+    source_name: 号外NET 花巻市・北上市・遠野市
+    source_type: media
+    checked_at: 2026-08-04

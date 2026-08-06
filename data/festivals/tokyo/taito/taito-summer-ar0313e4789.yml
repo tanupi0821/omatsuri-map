@@ -7,7 +7,7 @@ area:
   city: 台東区
   ward: null
 venue:
-  name: 上野恩賜公園不忍池畔
+  name: 上野公園 不忍池周辺・水上音楽堂
   address: 台東区上野公園
   lat: 35.712336
   lng: 139.772326
@@ -24,6 +24,8 @@ links:
     url: https://tokyofesta.com/23ku/31312/
   - title: 夏休みおでかけガイド（ウォーカープラス）
     url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 上野観光連盟 第75回江戸趣味納涼大会 うえの夏まつり
+    url: https://enjoy.ueno.or.jp/summer2026/
 occurrences:
   - year: 2026
     dates:
@@ -32,9 +34,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4789/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://enjoy.ueno.or.jp/summer2026/
+    source_name: 一般社団法人上野観光連盟
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月10日から8月11日までの期間の催しで、毎日同じことをやっているわけではない（風鈴回廊と縁日は期間中ずっと、個別の催しは特定日のみ）。共催は東京都・台東区
 station: JR・東京メトロ上野駅からすぐ

@@ -8,7 +8,7 @@
   "奈良県"
  ],
  "url": "http://nara-pla.com/",
- "skipped": "robots取得不可 (CERT_HAS_EXPIRED)",
+ "skipped": "REST 不可 (JSONでない（HTMLが返った）)",
  "terms": [
   "盆踊り",
   "夏祭り",

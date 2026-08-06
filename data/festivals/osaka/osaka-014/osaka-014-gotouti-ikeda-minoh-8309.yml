@@ -1,0 +1,29 @@
+id: osaka-014-gotouti-ikeda-minoh-8309
+name: 第44回大阪大学夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 箕面市
+  ward: null
+venue:
+  name: 箕面市内
+  address: 箕面市船場東3-5-10
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: 11:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://ikeda-minoh.com/2026/06/23/44thosakadaigakusummerfes/
+    source_name: 箕面・池田マガジン
+    source_type: media
+    checked_at: 2026-08-06

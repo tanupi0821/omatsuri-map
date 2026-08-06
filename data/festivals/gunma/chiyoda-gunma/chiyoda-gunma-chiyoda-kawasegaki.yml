@@ -9,9 +9,9 @@ area:
 venue:
   name: 赤岩地先 利根川河畔（赤岩渡船付近）
   address: 邑楽郡千代田町赤岩
-  lat: null
-  lng: null
-organizer: null
+  lat: 36.207952
+  lng: 139.431943
+organizer: 千代田の祭 川せがき実施委員会事務局
 stalls: yes
 tags:
   - 灯籠流し
@@ -32,3 +32,4 @@ occurrences:
     source_type: gov
     checked_at: 2026-08-05
     note: 読経・灯ろう流しは19時40分から、打上花火は20時10分から
+station: 東武鉄道館林駅からタクシーで約20分、JR高崎線熊谷駅からタクシーで約30分

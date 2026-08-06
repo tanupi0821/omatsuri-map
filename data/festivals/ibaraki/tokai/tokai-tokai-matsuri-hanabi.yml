@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 阿漕ヶ浦公園
-  address: 茨城県那珂郡東海村大字村松
-  lat: null
-  lng: null
-organizer: null
+  address: 那珂郡東海村大字村松
+  lat: 36.455077
+  lng: 140.593322
+organizer: 東海まつり実行委員会
 stalls: yes
 tags:
   - 花火
@@ -19,6 +19,10 @@ description: null
 links:
   - title: 東海村「第48回東海まつり花火大会開催のお知らせ」
     url: https://www.vill.tokai.ibaraki.jp/soshikikarasagasu/sangyobu/sangyoseisakuka/4/3/9733.html
+  - title: 公式サイト
+    url: https://www.tokai-kanko.com/tokai_fes/html/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0308e356524/
 occurrences:
   - year: 2026
     dates:
@@ -30,3 +34,4 @@ occurrences:
     source_name: 東海村
     source_type: gov
     checked_at: 2026-08-06
+station: JR東海駅から徒歩30分

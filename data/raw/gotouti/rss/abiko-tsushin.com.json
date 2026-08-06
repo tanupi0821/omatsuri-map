@@ -1,0 +1,14 @@
+{
+ "host": "abiko-tsushin.com",
+ "name": "我孫子つうしん",
+ "areas": [
+  "千葉県我孫子市"
+ ],
+ "prefs": [
+  "千葉県"
+ ],
+ "url": "https://www.abiko-tsushin.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

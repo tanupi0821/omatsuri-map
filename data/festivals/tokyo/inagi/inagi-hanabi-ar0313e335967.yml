@@ -7,11 +7,11 @@ area:
   city: 稲城市
   ward: null
 venue:
-  name: よみうりランド
-  address: null
+  name: よみうりランド 波のプールエリア
+  address: 稲城市矢野口4015-1
   lat: 35.62494
   lng: 139.517534
-organizer: null
+organizer: 株式会社よみうりランド
 stalls: yes
 tags:
   - 花火
@@ -19,17 +19,22 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.yomiuriland.com/jewellumination/fountain/
+  - title: よみうりランド「5日間で6,000発！花火と大迫力噴水ショー」（プレスリリース）
+    url: https://prtimes.jp/main/html/rd/p/000000451.000041300.html
 occurrences:
   - year: 2026
     dates:
       - 2026-01-17
+      - 2026-01-24
+      - 2026-01-31
+      - 2026-02-07
       - 2026-02-14
     start_time: 19:15
     end_time: 19:25
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0313e335967/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://prtimes.jp/main/html/rd/p/000000451.000041300.html
+    source_name: 株式会社よみうりランド
+    source_type: official
+    checked_at: 2026-08-06
+    note: 毎週土曜に5週連続。1日約1,200発を約10分。荒天・強風の場合は翌日に延期
 station: 京王電鉄京王よみうりランド駅からゴンドラ「スカイシャトル」またはバスでよみうりランド下車すぐ

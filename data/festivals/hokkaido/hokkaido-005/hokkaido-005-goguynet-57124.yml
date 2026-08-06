@@ -1,0 +1,29 @@
+id: hokkaido-005-goguynet-57124
+name: 歴舟川清流まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 大樹町
+  ward: null
+venue:
+  name: 大樹町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://obihiro.goguynet.jp/2026/07/29/taiki_tokachi_obihiro_rekifunegawa_seiryuumatsuri20260802/
+    source_name: 号外NET 帯広市
+    source_type: media
+    checked_at: 2026-08-04

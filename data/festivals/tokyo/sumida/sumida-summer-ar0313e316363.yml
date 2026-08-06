@@ -7,11 +7,11 @@ area:
   city: 墨田区
   ward: null
 venue:
-  name: 東京スカイツリータウン(R)
-  address: 墨田区押上1-1-2
+  name: 東京スカイツリータウン1階 ソラマチひろば
+  address: 墨田区押上1丁目1-2
   lat: 35.710045
   lng: 139.809424
-organizer: null
+organizer: 墨田区（スポーツ振興課）
 stalls: yes
 tags: []
 description: null
@@ -20,6 +20,8 @@ links:
     url: https://www.tokyo-solamachi.jp/
   - title: 夏休みおでかけガイド（ウォーカープラス）
     url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
+  - title: 墨田区観光協会 墨田区民納涼民踊大会＆東京ソラマチ夏まつり2026
+    url: https://visit-sumida.jp/event/soramachi-natsumatsuri2026/
 occurrences:
   - year: 2026
     dates:
@@ -28,9 +30,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e316363/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: 東武スカイツリーラインとうきょうスカイツリー駅すぐ
+    source_url: https://visit-sumida.jp/event/soramachi-natsumatsuri2026/
+    source_name: 墨田区観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 盆踊り（墨田区民納涼民踊大会）は8月1日〜3日の3日間で18:00〜20:00。縁日（ソラマチこども縁日）はそれより長い期間やっている別の催しで、この1件に混ざっている
+station: 東武スカイツリーライン とうきょうスカイツリー駅／東京メトロ半蔵門線 押上駅

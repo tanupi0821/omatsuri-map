@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 駒林神社 境内
-  address: null
+  address: 神戸市長田区駒ヶ林町3-7-3
   lat: null
   lng: null
 organizer: 駒林神社
@@ -17,7 +17,9 @@ tags:
   - 雨天決行
   - 花火
 description: null
-links: []
+links:
+  - title: 駒林神社
+    url: https://komagabayashi.jp/
 occurrences:
   - year: 2026
     dates:
@@ -31,3 +33,5 @@ occurrences:
     source_type: gov
     checked_at: 2026-08-06
     note: 小雨決行。荒天時は規模を縮小することがある。14日15時から夏越の大祓
+shrine: 駒林神社
+station: 神戸市営地下鉄海岸線「駒ヶ林駅」2番口 徒歩約3分

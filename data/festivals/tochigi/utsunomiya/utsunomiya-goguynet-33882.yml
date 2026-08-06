@@ -1,0 +1,29 @@
+id: utsunomiya-goguynet-33882
+name: 食の大祭典
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 栃木県
+  city: 宇都宮市
+  ward: null
+venue:
+  name: FKDインターパーク店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://utsunomiya.goguynet.jp/2026/05/01/shokunodaisaiten_inp-2/
+    source_name: 号外NET 宇都宮市
+    source_type: media
+    checked_at: 2026-08-04

@@ -7,18 +7,20 @@ area:
   city: 日光市
   ward: null
 venue:
-  name: 日光二荒山神社・男体山
-  address: null
+  name: 日光二荒山神社中宮祠・中禅寺湖
+  address: 栃木県日光市中宮祠2484
   lat: null
   lng: null
 organizer: 日光二荒山神社
-shrine: 日光二荒山神社
+shrine: 日光二荒山神社中宮祠
 stalls: unknown
 tags: []
 description: null
 links:
   - title: 号外NET 日光市・鹿沼市
     url: https://nikko-kanuma.goguynet.jp/2026/07/21/nantaisan_tohaitaisai-3/
+  - title: 日光旅ナビ（日光市観光協会）男体山登拝大祭
+    url: https://www.nikko-kankou.org/event/412
 occurrences:
   - year: 2026
     dates:
@@ -27,8 +29,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
-    note: 7/31〜8/7の期間。掲載の2日付は期間の初日と最終日
+    source_url: https://www.nikko-kankou.org/event/412
+    source_name: 日光市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月31日に行人行列（15:00）・子供みこし（16:00）・深山踊り・奉納湖上花火（20:30）。夜間登拝は8月1日・2日の0:00から（受付は前日23:00頃）。8月2日に灯篭流し（19:30）、4日に扇の的弓道大会（9:00）

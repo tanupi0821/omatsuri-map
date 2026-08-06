@@ -7,11 +7,11 @@ area:
   city: 豊田市
   ward: null
 venue:
-  name: 香嵐渓
-  address: 豊田市足助町飯盛
+  name: 足助の町並み・足助川遊歩道・足助グラウンド・巴川
+  address: 愛知県豊田市足助町
   lat: 35.131472
   lng: 137.313127
-organizer: null
+organizer: 足助夏まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -21,14 +21,15 @@ links:
 occurrences:
   - year: 2026
     dates:
-      - 2026-08-08
+      - 2026-08-13
+      - 2026-08-14
       - 2026-08-15
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e607937/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://asuke.info/event/aug/entry-699.html
+    source_name: 豊田市足助観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 祭り本体は8月13日〜15日。13日・14日が足助川万灯まつり（18:00〜21:00）、14日が花火大会（20:30〜21:00・足助グラウンド）、15日が灯篭流し（18:00〜20:00・巴川）。手筒花火は8月11日、「たんころりん」は8月8日〜15日で別の行事
 station: 名鉄豊田線浄水駅からとよたおいでんバス百年草行きまたは名鉄豊田市駅から名鉄バス矢並線足助行きまたは名鉄東岡崎駅から名鉄バ

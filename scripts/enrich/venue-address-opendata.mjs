@@ -157,7 +157,16 @@ const add = (ward, name, address, src, lat = null, lng = null) => {
 
 // 名古屋市 都市公園一覧。見出し行が 3 行あるので列位置で読む。
 // 所在地が「名東区にじが丘３丁目」の形なので、そこから区を取る（他区の行を拾わない）
-for (const [file, ward] of [['nagoya-meito-koen', '名東区'], ['nagoya-midori-koen', '緑区']]) {
+for (const [file, ward] of [
+  ['nagoya-meito-koen', '名東区'], ['nagoya-midori-koen', '緑区'],
+  ['nagoya-chikusa-koen', '千種区'], ['nagoya-higashi-koen', '東区'],
+  ['nagoya-kita-koen', '北区'], ['nagoya-nishi-koen', '西区'],
+  ['nagoya-nakamura-koen', '中村区'], ['nagoya-naka-koen', '中区'],
+  ['nagoya-showa-koen', '昭和区'], ['nagoya-mizuho-koen', '瑞穂区'],
+  ['nagoya-atsuta-koen', '熱田区'], ['nagoya-nakagawa-koen', '中川区'],
+  ['nagoya-minato-koen', '港区'], ['nagoya-minami-koen', '南区'],
+  ['nagoya-moriyama-koen', '守山区'], ['nagoya-tenpaku-koen', '天白区'],
+]) {
   const rows = csvOrNull(file);
   if (!rows) continue;
   for (const r of rows) {
@@ -354,6 +363,33 @@ for (const [name, addr] of [
   ['左京山中学校', '左京山1407'], ['鎌倉台中学校', '鎌倉台二丁目402'], ['神の倉中学校', '白土1201'],
 ]) {
   add('緑区', name, `名古屋市緑区${addr}`, '名古屋市 緑区の小・中学校一覧');
+}
+
+// 名古屋市緑区のコミュニティセンター。区の施設一覧に所在地が並んでいる。
+// https://www.city.nagoya.jp/midori/shisetsu/1016038.html
+// **一覧の表記は「長根台」だけで「コミュニティセンター」が付かない**ので、
+// 会場名と突き合わせられるよう補って入れる
+for (const [name, addr] of [
+  ['鳴海東部', '平手南一丁目203'], ['緑', '鳴海町字前之輪106'], ['大高南', '森の里一丁目94'],
+  ['長根台', '鳴海町字池上98-6'], ['桃山', '桃山二丁目96'], ['平子', '平子が丘3202-2'],
+  ['滝ノ水', '滝ノ水一丁目1501'], ['鳴子', '鳴子町2丁目70'], ['太子', '姥子山三丁目1604'],
+  ['旭出', '鹿山一丁目54'], ['黒石', '鳴海町字神沢11'], ['熊の前', '藤塚一丁目608-2'],
+  ['浦里', '浦里一丁目67'], ['鳴海', '鳴海町字城22-1'], ['戸笠', '相川三丁目101'],
+  ['常安', '乗鞍三丁目12'], ['相原', '若田二丁目1102'], ['大清水', '砂田二丁目801'],
+  ['徳重', '徳重二丁目401'], ['小坂', '小坂二丁目2006'], ['東丘', '鳴海町字有松裏200'],
+  ['有松', '有松3052'], ['大高地域', '大高町字門田46-1'], ['神の倉', '神の倉四丁目199'],
+]) {
+  add('緑区', `${name}コミュニティセンター`, `名古屋市緑区${addr}`, '名古屋市 緑区のコミュニティセンター一覧');
+}
+
+// 堺市南区の校区地域会館。区の資料（AED設置施設一覧）に施設名と住所が並んでいる。
+// https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/kyogikai/r6teireikai/R6_10.files/a2.pdf
+for (const [name, addr] of [
+  ['美木多校区地域会館', '美木多上135-9'],
+  ['若松台校区地域会館', '若松台2-1-1'],
+  ['庭代台校区地域会館', '庭代台2-9-63'],
+]) {
+  add('南区', name, `堺市南区${addr}`, '堺市南区 校区施設一覧');
 }
 
 // 名東区: https://www.city.nagoya.jp/kodomo/schools/1015850/1015852/1015867.html

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 長田神社 境内・長田橋東広場
-  address: null
+  address: 神戸市長田区長田町3-1-1
   lat: null
   lng: null
 organizer: 夏越ゆかた祭実行委員会
@@ -16,7 +16,9 @@ stalls: yes
 tags:
   - 雨天決行
 description: null
-links: []
+links:
+  - title: 長田神社
+    url: https://nagatajinja.jp/
 occurrences:
   - year: 2026
     dates:
@@ -30,3 +32,5 @@ occurrences:
     source_type: gov
     checked_at: 2026-08-06
     note: 小雨決行
+shrine: 長田神社
+station: 神戸市営地下鉄「長田（長田神社前）駅」／阪急・阪神・山陽「高速長田駅」徒歩5分

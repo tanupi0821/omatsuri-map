@@ -1,0 +1,30 @@
+id: fukuoka-007-gotouti-chikugo-ikoi-100852
+name: 土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 筑後市
+  ward: null
+venue:
+  name: 筑後市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-20
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chikugo-ikoi.com/event-20260620_0621/
+    source_name: 筑後いこい
+    source_type: media
+    checked_at: 2026-08-06

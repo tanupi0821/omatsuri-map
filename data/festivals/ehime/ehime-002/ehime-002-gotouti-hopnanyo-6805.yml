@@ -1,0 +1,31 @@
+id: ehime-002-gotouti-hopnanyo-6805
+name: やわたはま新町土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛媛県
+  city: 八幡浜市
+  ward: null
+venue:
+  name: 八幡浜市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-25
+      - 2026-08-01
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hopnanyo.net/20260630yoichi/
+    source_name: ほっぷなんよ
+    source_type: media
+    checked_at: 2026-08-06

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 大谷景観公園
-  address: null
+  address: 宇都宮市大谷町1224-1
   lat: null
   lng: null
 organizer: NPO法人 大谷商工観光協力会
@@ -19,6 +19,8 @@ links:
     url: https://www.city.utsunomiya.lg.jp/event/event/1047972.html
   - title: 大谷地域観光情報サイト
     url: https://oya-stone-city.jp/event
+  - title: 宇都宮市 大谷景観公園
+    url: https://www.city.utsunomiya.lg.jp/kurashi/machi/1020735/1015510/1015519.html
 occurrences:
   - year: 2026
     dates:
