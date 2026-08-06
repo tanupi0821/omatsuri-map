@@ -1,0 +1,30 @@
+id: misato-gotouti-misato-gurashi-41740
+name: 戸ヶ崎香取神社の祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 三郷市
+  ward: null
+venue:
+  name: 戸ヶ崎香取神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-04
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://misato-gurashi.com/2026041601.html
+    source_name: 三郷ぐらし
+    source_type: media
+    checked_at: 2026-08-06

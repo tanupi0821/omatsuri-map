@@ -1,0 +1,29 @@
+id: nagareyama-gotouti-nagareyama-tsushin-4616
+name: 流山花火大会2026
+kind: 花火
+scale: 地区
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 流山1~3丁目付近江戸川堤
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagareyama-tsushin.com/4616.html
+    source_name: 流山つうしん
+    source_type: media
+    checked_at: 2026-08-06
