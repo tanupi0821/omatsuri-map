@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: TOTTEI
-  address: null
+  address: 神戸市中央区新港町2-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ticket.bleague.jp/clubs/ns/events?_ga=2.228771676.1307423843.1785727952-1413299038.1785727952
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://hanamaki-cci.or.jp/2026/06/30/%e3%82%a4%e3%83%bc%e3%83%8f%e3%83%88%e3%83%bc%e3%83%96%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a02026%e3%80%8c%e5%85%89%e3%81%a8%e9%9f%b3%e3%81%ae%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3/
 occurrences:
   - year: 2026
     dates:

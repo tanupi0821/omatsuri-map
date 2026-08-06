@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 長岡花火 公式ウェブサイトの交通・駐車場ページ
+    url: https://nagaokamatsuri.com/access/
+  - title: 長岡公式ホームページ 長岡まつり情報
+    url: https://www.city.nagaoka.niigata.jp/kankou/event/nagaokamatsuri.html
 occurrences:
   - year: 2026
     dates:

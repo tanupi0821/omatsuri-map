@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: あけぼの山農業公園 ホームページ
+    url: http://www.akebonoyama-nougyoukouen.jp/
 occurrences:
   - year: 2026
     dates:

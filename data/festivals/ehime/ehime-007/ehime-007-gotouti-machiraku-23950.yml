@@ -9,8 +9,8 @@ area:
 venue:
   name: 花園町通り
   address: null
-  lat: null
-  lng: null
+  lat: 33.838352
+  lng: 132.759998
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 行徳中央公園
   address: 市川市富浜3-10
-  lat: null
-  lng: null
+  lat: 35.687124
+  lng: 139.919743
 organizer: null
 stalls: yes
 tags: []

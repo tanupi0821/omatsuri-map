@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-11
       - 2026-07-12
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kasukabe.goguynet.jp/2026/05/31/kasukabenatsumatsuri/
     source_name: 号外NET 春日部市

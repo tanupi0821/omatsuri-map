@@ -9,8 +9,8 @@ area:
 venue:
   name: 西水元つばさ公園
   address: 葛飾区西水元4-10-19
-  lat: null
-  lng: null
+  lat: 35.793561
+  lng: 139.846657
 organizer: null
 stalls: unknown
 tags: []

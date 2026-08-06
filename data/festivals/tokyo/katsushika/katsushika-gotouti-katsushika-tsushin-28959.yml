@@ -9,8 +9,8 @@ area:
 venue:
   name: 西小菅小学校
   address: 葛飾区小菅1-25-1
-  lat: null
-  lng: null
+  lat: 35.756269
+  lng: 139.815338
 organizer: null
 stalls: yes
 tags: []

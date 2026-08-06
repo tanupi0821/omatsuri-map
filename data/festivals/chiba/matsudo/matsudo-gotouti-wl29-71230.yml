@@ -9,8 +9,8 @@ area:
 venue:
   name: 鴻之台公園
   address: 松戸市三矢小台4-21
-  lat: null
-  lng: null
+  lat: 35.768244
+  lng: 139.90117
 organizer: null
 stalls: unknown
 tags: []

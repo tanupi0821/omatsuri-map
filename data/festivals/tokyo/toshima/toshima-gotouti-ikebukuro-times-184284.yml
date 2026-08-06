@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 東武百貨店
-  address: null
+  address: 豊島区西池袋1-1-25
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東武食品サービス公式サイト
+    url: https://www.tobufoods.co.jp/2026-04-09/
+  - title: 池袋熱帯夜市公式サイト
+    url: https://www.tobufoods.co.jp/ikebeer/
 occurrences:
   - year: 2026
     dates:

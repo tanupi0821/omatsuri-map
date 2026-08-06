@@ -9,8 +9,8 @@ area:
 venue:
   name: 新宿日枝神社
   address: 葛飾区新宿2-1-17
-  lat: null
-  lng: null
+  lat: 35.759621
+  lng: 139.855782
 organizer: null
 stalls: unknown
 tags: []

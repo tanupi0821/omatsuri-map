@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tamano-matsuri.tamanoevent.com/
+  - title: たまの・港フェスティバル 公式サイト
+    url: https://minato-festival.tamanoevent.com/
 occurrences:
   - year: 2026
     dates:

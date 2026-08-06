@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: キスケBOX
-  address: null
-  lat: null
-  lng: null
+  address: 松山市宮田町4番地
+  lat: 33.84137
+  lng: 132.752288
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: キスケ 公式サイト
+    url: https://kisuke.com/
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 立川まつり国営昭和記念公園花火大会公式サイト
+    url: https://hanabi.tokyo-tachikawa.org/
 occurrences:
   - year: 2026
     dates:

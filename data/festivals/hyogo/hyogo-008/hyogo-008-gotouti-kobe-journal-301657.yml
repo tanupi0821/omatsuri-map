@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 高浜岸壁北側
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区東川崎町1-6
+  lat: 34.681973
+  lng: 135.184163
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://kirara-marche.info/kobe-asianfesta_2026-5-23/
 occurrences:
   - year: 2026
     dates:

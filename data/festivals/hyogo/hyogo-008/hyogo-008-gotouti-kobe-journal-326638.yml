@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 西神中央駅前
-  address: null
+  address: 神戸市西区糀台5-6
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: プレンティ公式サイト
+    url: https://plenty.jp/event/4567/
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 八女市 八女市「田代ホタル祭り2026」ホタルの舞う幻想的な
+    url: https://chikugo-ikoi.com/tashiro-hotarufes-2026/
+  - title: 大牟田市 大牟田「トミプラワールド のりのりタイムズ
+    url: https://chikugo-ikoi.com/norinoritimes-omuta/
 occurrences:
   - year: 2026
     dates:

@@ -9,8 +9,8 @@ area:
 venue:
   name: 住吉子供第二広場
   address: 葛飾区高砂7-6-16
-  lat: null
-  lng: null
+  lat: 35.754764
+  lng: 139.860382
 organizer: null
 stalls: yes
 tags: []

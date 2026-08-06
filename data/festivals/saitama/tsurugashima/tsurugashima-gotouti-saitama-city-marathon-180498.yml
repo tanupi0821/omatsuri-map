@@ -9,8 +9,8 @@ area:
 venue:
   name: ワカバウォーク
   address: null
-  lat: null
-  lng: null
+  lat: 35.949398
+  lng: 139.40862
 organizer: null
 stalls: yes
 tags: []

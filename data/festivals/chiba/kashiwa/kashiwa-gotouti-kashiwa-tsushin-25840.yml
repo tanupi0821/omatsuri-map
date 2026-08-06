@@ -9,8 +9,8 @@ area:
 venue:
   name: 松葉第一公園
   address: 柏市松葉町1-16-3
-  lat: null
-  lng: null
+  lat: 35.888036
+  lng: 139.972828
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 高郷小学校（船橋市西習志野1-47-1）
   address: 船橋市西習志野1-47-1
-  lat: null
-  lng: null
+  lat: 35.721668
+  lng: 140.033666
 organizer: null
 stalls: yes
 tags: []

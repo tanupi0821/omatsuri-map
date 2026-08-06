@@ -9,8 +9,8 @@ area:
 venue:
   name: 二三ヶ丘公園
   address: 松戸市三ケ月1499
-  lat: null
-  lng: null
+  lat: 35.817015
+  lng: 139.919088
 organizer: null
 stalls: yes
 tags: []

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 流山市内
-  address: null
+  address: 流山市南流山1丁目8-8
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://mizutama-kodomo.com
 occurrences:
   - year: 2026
     dates:

@@ -381,7 +381,7 @@ function pickOrganizerFull(text) {
 
 // 主催者の公式ページではないもの
 const LINK_NG_HOST = /(^|\.)(t\.co|twitter\.com|x\.com|tenki\.jp|tabelog\.com|google\.[a-z.]+|docs\.google\.com|goo\.gl|amazon\.co\.jp|rakuten\.co\.jp|youtube\.com|youtu\.be|jorudan\.co\.jp|navitime\.co\.jp|walkerplus\.com|jalan\.net|prtimes\.jp|note\.com|ameblo\.jp|line\.me|peatix\.com|eventbrite|wikipedia\.org)$/;
-const MEDIA_HOST = /(goguynet\.jp|rarea\.events|tokyofesta\.com|maji\.tv)$/;
+const MEDIA_HOST = /(goguynet\.jp|rarea\.events|tokyofesta\.com|maji\.tv|tsushin\.com|2shin\.com|keizai\.biz)$/;
 // 「公式サイト」「◯◯神社公式HP」のように書かれたリンクだけを採る
 const LINK_OK_TEXT = /公式|オフィシャル|ホームページ|(^|[^A-Za-z])HP([^A-Za-z]|$)/;
 
@@ -460,13 +460,26 @@ function auditContext(text, ch, occ) {
   return out.slice(0, 4);
 }
 
+/**
+ * 対象の id。号外NET・レアリア・東京フェスタに加えて、
+ * **名鑑（gotouti）とつーしん系**も通す。中身が空のページを減らすには
+ * 新しい媒体こそ地図の埋め込みを読む必要がある。
+ *
+ * RSS から取った記事（id が `-r123` の形）は WordPress の記事 id が無いので
+ * `include=` で引けない。`-\d+$` に当たらないので自然に外れる。
+ *
+ * robots.txt と Content-Signal は `crawl/gotouti-media.mjs` が
+ * 同じ `/wp-json/` に対して確認済み。そこを通った媒体だけがデータになっている。
+ */
+const ARTICLE_ID = /-(?:goguynet|rarea|tokyofesta)-\d+$|-(?:gotouti|tsushin)-[a-z0-9._-]+-\d+$/;
+
 const stat = { addr: 0, time: 0, org: 0, links: 0, latlng: 0, touched: 0, noArticle: 0 };
 const samples = [];
 let seen = 0;
 
 for (const path of walk(join(ROOT, 'data', 'festivals'))) {
   const b = basename(path, '.yml');
-  if (!/-(goguynet|rarea|tokyofesta)-\d+$/.test(b)) continue;
+  if (!ARTICLE_ID.test(b)) continue;
   const f = parse(readFileSync(path, 'utf8'));
   if (ONLY_ID && f.id !== ONLY_ID) continue;
   if (seen >= LIMIT) break;

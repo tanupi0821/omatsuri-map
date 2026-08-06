@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-06
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://otsu.goguynet.jp/2026/07/13/otsusa_close_aug6/
     source_name: 号外NET 大津市

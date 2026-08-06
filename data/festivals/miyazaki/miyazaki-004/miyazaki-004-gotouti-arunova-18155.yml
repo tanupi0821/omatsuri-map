@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Instagram
+    url: https://www.instagram.com/nishitachi_yoichi/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://arunova.com/nishitachi-yoichi/
     source_name: アルノバ

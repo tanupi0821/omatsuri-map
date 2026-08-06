@@ -9,8 +9,8 @@ area:
 venue:
   name: 西亀有なかよし公園
   address: 葛飾区西亀有2-14-3
-  lat: null
-  lng: null
+  lat: 35.759532
+  lng: 139.831666
 organizer: null
 stalls: yes
 tags: []

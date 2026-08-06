@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 騎西夏まつり | 加須市公式サイト
+    url: https://www.city.kazo.lg.jp/soshiki/kasai_chiikishinkou/event/17693.html
 occurrences:
   - year: 2026
     dates:

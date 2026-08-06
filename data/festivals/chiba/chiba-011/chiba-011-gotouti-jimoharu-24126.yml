@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 一宮町観光協会公式サイト
+    url: https://ichinomiya.org/
 occurrences:
   - year: 2026
     dates:

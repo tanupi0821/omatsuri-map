@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 明神社・明神公園一帯（広島市安佐北区可部2丁目）
-  address: null
-  lat: null
-  lng: null
+  address: 広島市安佐北区可部2丁目
+  lat: 34.511614
+  lng: 132.509409
 organizer: 明神社祭の会／可部駅前町内会
 stalls: yes
 tags: []

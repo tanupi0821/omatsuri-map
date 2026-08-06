@@ -9,13 +9,15 @@ area:
 venue:
   name: 新梅田シティ（梅田スカイビル）
   address: null
-  lat: null
-  lng: null
+  lat: 34.705909
+  lng: 135.491101
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.skybldg.co.jp/discover/?tab=1
 occurrences:
   - year: 2026
     dates:

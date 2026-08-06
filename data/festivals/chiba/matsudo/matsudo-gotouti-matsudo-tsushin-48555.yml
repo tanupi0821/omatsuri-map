@@ -9,8 +9,8 @@ area:
 venue:
   name: 子安神社
   address: 松戸市八ヶ崎2-36-2
-  lat: null
-  lng: null
+  lat: 35.814146
+  lng: 139.929649
 organizer: null
 stalls: unknown
 tags: []

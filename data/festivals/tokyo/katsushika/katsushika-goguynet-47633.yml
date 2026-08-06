@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.katsushika.lg.jp/tourism/1000064/1000065/1031830.html
 occurrences:
   - year: 2026
     dates:

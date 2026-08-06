@@ -9,8 +9,8 @@ area:
 venue:
   name: 十条銀座商店街 フジサンロード
   address: 北区上十条2丁目
-  lat: null
-  lng: null
+  lat: 35.760696
+  lng: 139.719066
 organizer: null
 stalls: yes
 tags: []

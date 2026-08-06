@@ -9,8 +9,8 @@ area:
 venue:
   name: 兵庫県立播磨中央公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.823778
+  lng: 135.271159
 organizer: null
 stalls: yes
 tags: []

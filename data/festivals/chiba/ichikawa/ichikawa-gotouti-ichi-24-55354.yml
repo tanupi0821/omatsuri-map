@@ -9,8 +9,8 @@ area:
 venue:
   name: ソフトタウン行徳B棟
   address: 市川市日之出22-1
-  lat: null
-  lng: null
+  lat: 35.674959
+  lng: 139.920882
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://ichi-24.jp/archives/55354
     source_name: 市川にゅ～す

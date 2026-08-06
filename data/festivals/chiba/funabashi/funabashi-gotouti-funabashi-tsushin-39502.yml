@@ -9,8 +9,8 @@ area:
 venue:
   name: 二宮小学校
   address: 船橋市前原東5-9-3
-  lat: null
-  lng: null
+  lat: 35.702919
+  lng: 140.029731
 organizer: null
 stalls: unknown
 tags: []

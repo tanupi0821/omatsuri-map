@@ -9,8 +9,8 @@ area:
 venue:
   name: 東中新宿子供の遊び場
   address: 柏市東中新宿4-7-6-1
-  lat: null
-  lng: null
+  lat: 35.829076
+  lng: 139.959651
 organizer: null
 stalls: yes
 tags: []

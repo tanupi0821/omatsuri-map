@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 星川通り
-  address: null
+  address: 熊谷市星川
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 星川とうろう流し | 熊谷市ホームページ
+    url: https://www.city.kumagaya.lg.jp/kanko/matsuri/tourou.html
 occurrences:
   - year: 2026
     dates:

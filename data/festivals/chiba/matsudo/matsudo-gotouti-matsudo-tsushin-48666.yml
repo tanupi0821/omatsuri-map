@@ -9,8 +9,8 @@ area:
 venue:
   name: 六実スポーツ広場
   address: null
-  lat: null
-  lng: null
+  lat: 35.793177
+  lng: 139.991265
 organizer: null
 stalls: unknown
 tags: []

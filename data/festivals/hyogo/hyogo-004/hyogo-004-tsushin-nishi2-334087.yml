@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 08:30
+    end_time: 20:00
     status: confirmed
     source_url: https://nishi2.jp/334087/
     source_name: 西宮つーしん

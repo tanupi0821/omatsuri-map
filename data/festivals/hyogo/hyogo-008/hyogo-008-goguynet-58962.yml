@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: オリックス・バファローズ公式サイト
+    url: https://www.buffaloes.co.jp/event/specialevent/
 occurrences:
   - year: 2026
     dates:

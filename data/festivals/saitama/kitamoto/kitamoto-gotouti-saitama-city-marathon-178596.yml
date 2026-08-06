@@ -9,8 +9,8 @@ area:
 venue:
   name: 本宿天神社・北本駅東口駅前ロータリー
   address: null
-  lat: null
-  lng: null
+  lat: 36.030738
+  lng: 139.534911
 organizer: null
 stalls: yes
 tags: []

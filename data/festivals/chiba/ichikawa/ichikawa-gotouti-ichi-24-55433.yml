@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 市川市内
-  address: null
+  address: 市川市民納涼花火大会2026
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 市川市民納涼花火大会 公式サイト
+    url: https://www.ichikawa-hanabi.net/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 20:20
     status: confirmed
     source_url: https://ichi-24.jp/archives/55433
     source_name: 市川にゅ～す

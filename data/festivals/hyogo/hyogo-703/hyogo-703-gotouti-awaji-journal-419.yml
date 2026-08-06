@@ -9,8 +9,8 @@ area:
 venue:
   name: 淡路島タコステ
   address: 淡路市岩屋1414-27
-  lat: null
-  lng: null
+  lat: 34.592414
+  lng: 135.012856
 organizer: null
 stalls: unknown
 tags: []

@@ -9,13 +9,15 @@ area:
 venue:
   name: ジャイアンツタウンスタジアム（所在地：東京都稲城市）
   address: null
-  lat: null
-  lng: null
+  lat: 35.629034
+  lng: 139.507296
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://tokyonominoichi.com/2026_summer/
 occurrences:
   - year: 2026
     dates:

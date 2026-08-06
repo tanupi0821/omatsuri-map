@@ -9,8 +9,8 @@ area:
 venue:
   name: 戸定が丘歴史公園
   address: 松戸市松戸1495-57
-  lat: null
-  lng: null
+  lat: 35.778026
+  lng: 139.898647
 organizer: null
 stalls: unknown
 tags: []

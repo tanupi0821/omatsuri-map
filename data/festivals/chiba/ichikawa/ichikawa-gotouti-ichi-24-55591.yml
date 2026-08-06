@@ -9,8 +9,8 @@ area:
 venue:
   name: 梨風公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.748791
+  lng: 139.943459
 organizer: あおば子ども会・梨風苑自治会・南大野2丁目自治会
 stalls: yes
 tags: []

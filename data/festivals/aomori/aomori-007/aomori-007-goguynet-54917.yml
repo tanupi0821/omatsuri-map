@@ -9,8 +9,8 @@ area:
 venue:
   name: 弘前天満宮
   address: 弘前市西茂森1-1-25
-  lat: null
-  lng: null
+  lat: 40.601518
+  lng: 140.456985
 organizer: null
 stalls: unknown
 tags: []

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ハッピーロード大山商店街公式サイト
+    url: https://haro.or.jp/event/now.html
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: ◎個人協賛金の募集 ( 和歌山港まつり花火大ホームページ
+    url: https://www.w-hanabi.com/supporter/personal.html
 occurrences:
   - year: 2026
     dates:

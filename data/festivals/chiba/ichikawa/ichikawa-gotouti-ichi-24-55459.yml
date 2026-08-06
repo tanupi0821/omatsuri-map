@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: レストラン
-  address: null
+  address: 市川市南大野2-1-4
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55459
     source_name: 市川にゅ～す

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: HOME – 江平子安観世音菩薩 公式サイト
+    url: https://www.ehira-koyasukannon.com/
 occurrences:
   - year: 2026
     dates:

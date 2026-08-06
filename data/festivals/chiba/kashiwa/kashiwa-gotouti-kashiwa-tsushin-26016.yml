@@ -9,8 +9,8 @@ area:
 venue:
   name: 一本松公園
   address: 柏市緑ヶ丘24-2
-  lat: null
-  lng: null
+  lat: 35.85121
+  lng: 139.971358
 organizer: null
 stalls: yes
 tags: []

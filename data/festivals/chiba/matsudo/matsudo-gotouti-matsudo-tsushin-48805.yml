@@ -9,8 +9,8 @@ area:
 venue:
   name: 紙敷こどもの遊び場
   address: 松戸市紙敷1573
-  lat: null
-  lng: null
+  lat: 35.767771
+  lng: 139.928776
 organizer: null
 stalls: yes
 tags: []

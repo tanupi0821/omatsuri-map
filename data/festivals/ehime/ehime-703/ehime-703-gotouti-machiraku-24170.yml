@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 伊予彩まつり公式Facebook
+    url: https://www.facebook.com/iyosai/?locale=ja_JP
 occurrences:
   - year: 2026
     dates:

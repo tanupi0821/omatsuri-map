@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 武蔵野市HP
+    url: https://www.city.musashino.lg.jp/kurashi_tetsuzuki/shigoto_sangyo/shoko/1031686.html
 occurrences:
   - year: 2026
     dates:

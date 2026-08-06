@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 小樽市内
-  address: null
+  address: 小樽市末広町38-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 小樽稲荷神社ホームページ
+    url: https://otaruzin.com/otaru-inari-zinja/
 occurrences:
   - year: 2026
     dates:

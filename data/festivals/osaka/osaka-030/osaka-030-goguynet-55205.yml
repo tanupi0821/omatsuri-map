@@ -9,8 +9,8 @@ area:
 venue:
   name: ハプナカフェ前広場
   address: null
-  lat: null
-  lng: null
+  lat: 34.702546
+  lng: 135.566541
 organizer: null
 stalls: yes
 tags: []

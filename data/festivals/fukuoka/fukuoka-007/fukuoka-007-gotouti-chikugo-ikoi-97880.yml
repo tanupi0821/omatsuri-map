@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-04-25
       - 2026-04-26
-    start_time: null
-    end_time: null
+    start_time: 13:30
+    end_time: 14:00
     status: confirmed
     source_url: https://chikugo-ikoi.com/event-20260425-26/
     source_name: 筑後いこい

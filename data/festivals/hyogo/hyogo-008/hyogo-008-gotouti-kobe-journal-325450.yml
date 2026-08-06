@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: こうべアグリパーク（旧農業公園）
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市西区押部谷町高和1557-1
+  lat: 34.767493
+  lng: 135.002692
 organizer: null
 stalls: yes
 tags: []

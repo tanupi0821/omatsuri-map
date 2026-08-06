@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 「城山公園」ふれあい広場
-  address: null
-  lat: null
-  lng: null
+  address: 長野市箱清水1-6-6
+  lat: 36.663437
+  lng: 138.188487
 organizer: カンパイ横丁実行委員会
 stalls: yes
 tags: []

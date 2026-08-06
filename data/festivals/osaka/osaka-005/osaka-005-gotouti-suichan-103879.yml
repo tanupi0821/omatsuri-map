@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 高浜神社HP
+    url: http://takahamajinjya.kir.jp/harumaturi.html
+  - title: 高浜神社公式HP
+    url: http://takahamajinjya.kir.jp/index.html
 occurrences:
   - year: 2026
     dates:

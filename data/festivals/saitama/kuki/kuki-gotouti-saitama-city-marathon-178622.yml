@@ -9,8 +9,8 @@ area:
 venue:
   name: モラージュ菖蒲
   address: null
-  lat: null
-  lng: null
+  lat: 36.075725
+  lng: 139.607773
 organizer: null
 stalls: yes
 tags: []

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://akitahaku.jp/
 occurrences:
   - year: 2026
     dates:
@@ -23,8 +25,8 @@ occurrences:
       - 2026-05-31
       - 2026-05-29
       - 2026-06-09
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://akitashi.goguynet.jp/2026/05/30/maruttoakitahaku/
     source_name: 号外NET 秋田市

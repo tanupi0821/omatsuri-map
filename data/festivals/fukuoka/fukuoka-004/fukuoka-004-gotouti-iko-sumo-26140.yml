@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: わっしょい百万夏まつり公式サイト
+    url: https://wasshoi.info/
 occurrences:
   - year: 2026
     dates:

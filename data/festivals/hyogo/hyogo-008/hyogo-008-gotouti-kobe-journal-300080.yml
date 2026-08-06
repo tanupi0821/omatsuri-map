@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: イベント場所：神戸ハーバーランドumieモザイク前（高浜岸壁）
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 神戸市中央区東川崎町1-6
+  lat: 34.680479
+  lng: 135.181803
+organizer: 青森県弘前市
 stalls: unknown
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-29
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://kobe-journal.com/archives/3443282855.html
     source_name: 神戸ジャーナル

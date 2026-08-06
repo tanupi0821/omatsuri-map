@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://chatgpt.com/c/69c4f12f-f5f0-83a2-ab80-8eb736858f09
+  - title: 赤羽に立ち飲み屋『スタンド ミハラシマート』が新オープンする
+    url: https://akabane-shinbun.com/archives/240616
 occurrences:
   - year: 2026
     dates:

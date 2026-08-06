@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 神戸元町商店街
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市元町通1
+  lat: 34.688125
+  lng: 135.186415
 organizer: null
 stalls: yes
 tags: []

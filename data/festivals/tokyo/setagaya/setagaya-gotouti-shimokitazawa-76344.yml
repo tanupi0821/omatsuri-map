@@ -15,7 +15,9 @@ organizer: 下北緑日実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Web
+    url: https://www.aotoki.jp/shimokita-ennichi2026
 occurrences:
   - year: 2026
     dates:

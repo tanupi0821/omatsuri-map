@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 晴海ふ頭公園盆踊り大会 公式Webサイト
+    url: https://www.harumiflag.org/summerfestival
 occurrences:
   - year: 2026
     dates:

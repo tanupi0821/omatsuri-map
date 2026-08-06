@@ -9,8 +9,8 @@ area:
 venue:
   name: 一文字公園
   address: 松戸市五香4-56
-  lat: null
-  lng: null
+  lat: 35.791438
+  lng: 139.979553
 organizer: null
 stalls: yes
 tags: []

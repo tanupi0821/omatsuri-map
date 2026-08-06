@@ -9,13 +9,15 @@ area:
 venue:
   name: ららぽーと柏の葉本館1階
   address: 柏市若柴175
-  lat: null
-  lng: null
+  lat: 35.894312
+  lng: 139.949441
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ららぽーと柏の葉公式Webサイト
+    url: https://mitsui-shopping-park.com/lalaport/kashiwa/
 occurrences:
   - year: 2026
     dates:

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 神戸電鉄木津駅
-  address: null
+  address: 神戸市西区押部谷町木津71-5
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Instagram
+    url: https://www.instagram.com/minnano_furusato_maturi/
 occurrences:
   - year: 2026
     dates:

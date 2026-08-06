@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 戸田市内
-  address: null
+  address: 戸田市戸田公園
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 戸田市公式サイト
+    url: https://www.city.toda.saitama.jp/soshiki/214/keizai-73hanabimusic.html
 occurrences:
   - year: 2026
     dates:

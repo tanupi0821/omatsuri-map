@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 神戸学園都市キャンパススクエア
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市西区学園西町1-4
+  lat: 34.6822
+  lng: 135.059046
 organizer: null
 stalls: yes
 tags: []

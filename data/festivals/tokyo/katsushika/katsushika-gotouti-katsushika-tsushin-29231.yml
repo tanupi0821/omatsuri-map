@@ -9,8 +9,8 @@ area:
 venue:
   name: 白鷺公園
   address: 葛飾区小菅4-2-25
-  lat: null
-  lng: null
+  lat: 35.757805
+  lng: 139.823209
 organizer: null
 stalls: unknown
 tags: []

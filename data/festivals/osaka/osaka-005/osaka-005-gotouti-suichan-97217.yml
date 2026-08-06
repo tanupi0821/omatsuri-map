@@ -15,7 +15,9 @@ organizer: 中通商店街
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 吹田市HP
+    url: https://www.city.suita.osaka.jp/shisei/1018880/1018884/1019204.html
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 第42回 市川市民納涼花火大会 公式サイト
+    url: https://www.ichikawa-hanabi.net/
+  - title: シャポー本八幡 公式Webサイト
+    url: https://shapo.jrtk.jp/motoyawata/
 occurrences:
   - year: 2026
     dates:

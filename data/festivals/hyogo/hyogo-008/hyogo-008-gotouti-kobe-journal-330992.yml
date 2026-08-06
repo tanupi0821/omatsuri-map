@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 三宮プラッツ
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区三宮町1-1-3
+  lat: 34.688852
+  lng: 135.188491
 organizer: null
 stalls: unknown
 tags: []

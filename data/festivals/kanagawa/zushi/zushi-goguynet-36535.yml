@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 逗子市内
-  address: null
+  address: 逗子市新宿1丁目2210-6
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-21
-    start_time: null
-    end_time: null
+    start_time: 19:20
+    end_time: 20:15
     status: confirmed
     source_url: https://kamakura-zushi.goguynet.jp/2026/04/21/zushihanabi-3/
     source_name: 号外NET 鎌倉市・逗子市

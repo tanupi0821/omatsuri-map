@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 玉川町会公式サイト
+    url: https://setagayatamagawa.com/%E6%AD%B4%E5%8F%B2/
 occurrences:
   - year: 2026
     dates:

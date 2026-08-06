@@ -9,8 +9,8 @@ area:
 venue:
   name: アルカサール中央広場
   address: null
-  lat: null
-  lng: null
+  lat: 35.801485
+  lng: 140.117389
 organizer: null
 stalls: yes
 tags: []

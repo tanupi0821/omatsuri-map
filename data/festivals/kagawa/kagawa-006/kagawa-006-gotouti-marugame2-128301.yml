@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: レクザムボールパーク丸亀
-  address: null
-  lat: null
-  lng: null
+  address: 丸亀市金倉町975
+  lat: 34.26657
+  lng: 133.78254
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 香川オリーブガイナーズ公式サイト
+    url: https://oliveguyners.com/
 occurrences:
   - year: 2026
     dates:

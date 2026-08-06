@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: イオンモールむさし村山公式ページ
+    url: https://musashimurayama.aeonmall.jp/event/2ed99b96-701d-4b9d-a4e9-32aa69e50c84
+  - title: イオンモールむさし村山公式ページ
+    url: https://musashimurayama.aeonmall.jp/news/mallnews/f0a35ccc-6d66-48e1-9fc3-b70beb198774
 occurrences:
   - year: 2026
     dates:

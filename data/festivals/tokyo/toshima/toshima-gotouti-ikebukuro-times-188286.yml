@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 豊島区内
-  address: null
+  address: 豊島区東池袋3-1-3
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://bandainamco-am.co.jp/tp/namja/
 occurrences:
   - year: 2026
     dates:

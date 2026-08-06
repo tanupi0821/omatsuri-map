@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-09
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 13:30
     status: confirmed
     source_url: https://ashikaga-sano.goguynet.jp/2026/05/08/hanabi-7/
     source_name: 号外NET 足利市・佐野市

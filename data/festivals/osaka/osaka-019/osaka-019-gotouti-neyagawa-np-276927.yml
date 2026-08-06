@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tour.heiwado.jp/Tour/Detail/977/ja-JP?deptDate=
+  - title: 公式サイト
+    url: https://www.biwako-visitors.jp/hanabi/
 occurrences:
   - year: 2026
     dates:

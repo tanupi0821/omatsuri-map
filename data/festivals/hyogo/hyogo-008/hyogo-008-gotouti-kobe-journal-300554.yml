@@ -9,8 +9,8 @@ area:
 venue:
   name: アワジ・ラニカイ・スクエア
   address: null
-  lat: null
-  lng: null
+  lat: 34.559555
+  lng: 135.007185
 organizer: null
 stalls: yes
 tags: []

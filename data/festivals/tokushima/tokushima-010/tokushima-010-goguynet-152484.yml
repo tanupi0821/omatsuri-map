@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 21:15
     status: confirmed
     source_url: https://tokushima.goguynet.jp/2026/07/23/ibento-yu_guremarket-anan-natumaturi-kaisaiyotei/
     source_name: 号外NET 徳島市

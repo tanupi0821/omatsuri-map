@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 上総更級公園・上総大路・アリオ市原内サンシャインコート（屋外）
-  address: null
+  address: 市原市更級5-1-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 上総いちはら国府祭り公式サイト
+    url: https://ichihara-fes.com/
+  - title: いちはら大綱引公式サイト
+    url: https://ichiharaootsunahiki.com/
 occurrences:
   - year: 2026
     dates:

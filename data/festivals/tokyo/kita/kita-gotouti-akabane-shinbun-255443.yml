@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.mod.go.jp/gsdf/gmcc/bonodori.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-17
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:00
     status: confirmed
     source_url: https://akabane-shinbun.com/archives/255443
     source_name: 赤羽マガジン新聞

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 石巻川開き祭り公式ホームページ
+    url: https://www.ishinomakikawabiraki.jp/
 occurrences:
   - year: 2026
     dates:

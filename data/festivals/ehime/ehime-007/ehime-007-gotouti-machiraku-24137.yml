@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 松山観光港ターミナル
-  address: null
-  lat: null
-  lng: null
+  address: 松山市高浜町5丁目2258-7
+  lat: 33.888766
+  lng: 132.69899
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 松山観光港ターミナル 公式サイト
+    url: https://www.kankoko.com/
 occurrences:
   - year: 2026
     dates:

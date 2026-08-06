@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式ホームページ
+    url: https://www.biwakokisen.co.jp/season_event/31562/
 occurrences:
   - year: 2026
     dates:
@@ -23,8 +25,8 @@ occurrences:
       - 2026-05-07
       - 2026-05-15
       - 2026-05-20
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://otsu.goguynet.jp/2026/05/04/hanabi_michigan_special/
     source_name: 号外NET 大津市

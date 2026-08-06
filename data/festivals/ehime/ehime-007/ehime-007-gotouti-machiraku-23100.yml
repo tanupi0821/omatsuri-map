@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: MSP 松山商店街プロジェクト 公式サイト
+    url: https://matsuyama-shotengai.com/
 occurrences:
   - year: 2026
     dates:

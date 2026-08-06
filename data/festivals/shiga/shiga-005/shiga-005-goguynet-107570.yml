@@ -8,20 +8,24 @@ area:
   ward: null
 venue:
   name: ホテルボストンプラザ草津びわ湖
-  address: null
+  address: 草津市西大路町1-27
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式オンラインショップ
+    url: https://shop.hotel-bp.co.jp/
+  - title: 公式HP
+    url: https://www.hotel-bp.co.jp/topics/detail/36/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://kusatsuritto.goguynet.jp/2026/07/02/hanabiseki2026/
     source_name: 号外NET 草津市・栗東市

@@ -9,8 +9,8 @@ area:
 venue:
   name: 広尾散歩通り
   address: 渋谷区広尾5丁目
-  lat: null
-  lng: null
+  lat: 35.650622
+  lng: 139.719367
 organizer: null
 stalls: unknown
 tags: []

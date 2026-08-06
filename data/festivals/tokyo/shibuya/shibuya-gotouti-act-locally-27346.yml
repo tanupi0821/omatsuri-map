@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 渋谷区内
-  address: null
+  address: 渋谷区上原1-29-10
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: HP
+    url: https://highertokyo.shop/
 occurrences:
   - year: 2026
     dates:

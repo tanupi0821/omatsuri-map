@@ -9,8 +9,8 @@ area:
 venue:
   name: 兵庫県立赤穂海浜公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.803622
+  lng: 134.025278
 organizer: null
 stalls: yes
 tags: []

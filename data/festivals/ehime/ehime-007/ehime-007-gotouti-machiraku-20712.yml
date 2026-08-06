@@ -9,8 +9,8 @@ area:
 venue:
   name: 城山公園
   address: null
-  lat: null
-  lng: null
+  lat: 33.841183
+  lng: 132.758889
 organizer: null
 stalls: yes
 tags: []

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 湊新田
-  address: null
-  lat: null
-  lng: null
+  address: 市川市湊新田1丁目10
+  lat: 35.681253
+  lng: 139.907489
 organizer: null
 stalls: yes
 tags: []

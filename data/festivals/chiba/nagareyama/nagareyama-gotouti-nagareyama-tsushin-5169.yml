@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 赤城神社境内
-  address: null
-  lat: null
-  lng: null
+  address: 流山市流山6-649
+  lat: 35.848562
+  lng: 139.896024
 organizer: null
 stalls: yes
 tags: []

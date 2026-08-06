@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 境港市公式ホームページ
+    url: https://www.city.sakaiminato.lg.jp/index.php?view=115457
 occurrences:
   - year: 2026
     dates:

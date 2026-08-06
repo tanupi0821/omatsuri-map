@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://reserve.489ban.net/client/nishikinohama/0/detail/1232384?_gl=1*1bjzpvt*_ga*MzE1NjkwNTYuMTc3MjU4NDMzNg..*_ga_3C03SRZ4LD*czE3NzI1ODQzMzYkbzEkZzEkdDE3NzI1ODQzNjAkajM2JGwwJGg0MjM2MDMyNQ..
+  - title: 公式サイト
+    url: https://reserve.489ban.net/client/nishikinohama/0/detail/1232698?_gl=1*1bjzpvt*_ga*MzE1NjkwNTYuMTc3MjU4NDMzNg..*_ga_3C03SRZ4LD*czE3NzI1ODQzMzYkbzEkZzEkdDE3NzI1ODQzNjAkajM2JGwwJGg0MjM2MDMyNQ..
 occurrences:
   - year: 2026
     dates:

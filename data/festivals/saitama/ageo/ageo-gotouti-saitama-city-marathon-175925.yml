@@ -9,8 +9,8 @@ area:
 venue:
   name: イオンモール上尾
   address: null
-  lat: null
-  lng: null
+  lat: 35.965243
+  lng: 139.597966
 organizer: null
 stalls: unknown
 tags: []

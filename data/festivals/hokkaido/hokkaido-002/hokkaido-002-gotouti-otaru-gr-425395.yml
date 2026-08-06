@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 小樽市内
-  address: null
+  address: 小樽市港町4番3号
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: おたる潮まつり公式サイト
+    url: http://otaru.ushiomatsuri.net/
 occurrences:
   - year: 2026
     dates:

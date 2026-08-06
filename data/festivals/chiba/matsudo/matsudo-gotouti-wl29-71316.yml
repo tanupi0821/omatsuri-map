@@ -9,8 +9,8 @@ area:
 venue:
   name: 六実スポーツ広場
   address: 松戸市六実2-20-14
-  lat: null
-  lng: null
+  lat: 35.793355
+  lng: 139.991645
 organizer: null
 stalls: unknown
 tags: []

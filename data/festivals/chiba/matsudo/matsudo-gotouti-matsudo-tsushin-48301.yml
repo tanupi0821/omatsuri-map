@@ -9,8 +9,8 @@ area:
 venue:
   name: 虹の街こどもの遊び場
   address: null
-  lat: null
-  lng: null
+  lat: 35.813623
+  lng: 139.902931
 organizer: null
 stalls: yes
 tags: []

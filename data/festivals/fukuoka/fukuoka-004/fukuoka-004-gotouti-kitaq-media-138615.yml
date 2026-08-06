@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市のホームページ
+    url: https://www.city.kitakyushu.lg.jp/yahatanishi/w6100142.html
 occurrences:
   - year: 2026
     dates:

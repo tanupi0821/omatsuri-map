@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://ashi2.jp/42095/
     source_name: 芦屋つーしん

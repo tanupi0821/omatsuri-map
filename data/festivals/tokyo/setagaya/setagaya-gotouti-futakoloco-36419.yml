@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ブラックラムズ東京公式サイト
+    url: https://blackrams-tokyo.com/news/information/2026-2027/20260722a.html
+  - title: 二子玉川ライズがラグビーチーム「リコーブラックラムズ東京」の
+    url: https://futakoloco.com/23576/
 occurrences:
   - year: 2026
     dates:

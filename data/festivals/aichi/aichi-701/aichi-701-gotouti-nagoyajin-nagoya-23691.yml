@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: メインステージ
-  address: null
+  address: 名古屋市中区栄3丁目65
   lat: null
   lng: null
-organizer: null
+organizer: 公益財団法人
 stalls: unknown
 tags: []
 description: null

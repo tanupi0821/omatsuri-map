@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 高島第六小学校
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 板橋区高島平1-50-1
+  lat: 35.784432
+  lng: 139.667993
+organizer: 高島平一丁目町会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://taka1chokai.com/
 occurrences:
   - year: 2026
     dates:

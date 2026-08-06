@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 神戸ガス燈通り・はねっこ広場
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区東川崎町1-5-5
+  lat: 34.677618
+  lng: 135.177771
 organizer: null
 stalls: yes
 tags: []

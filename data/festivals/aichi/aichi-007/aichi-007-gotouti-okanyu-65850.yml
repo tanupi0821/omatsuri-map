@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 引用：公式 HP
+    url: https://sd-milk.com/contents/1085791
 occurrences:
   - year: 2026
     dates:

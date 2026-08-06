@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 逆井ふるさと会館広場
-  address: null
-  lat: null
-  lng: null
+  address: 柏市逆井
+  lat: 35.816017
+  lng: 139.981785
 organizer: null
 stalls: unknown
 tags: []

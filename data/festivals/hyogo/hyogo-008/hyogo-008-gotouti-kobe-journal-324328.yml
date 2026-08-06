@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 鉄人広場
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区1-1
+  lat: 34.658402
+  lng: 135.144155
 organizer: null
 stalls: yes
 tags: []

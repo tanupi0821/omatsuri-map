@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 谷崎潤一郎旧邸「倚松庵」
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市東灘区住吉東町1-6-50
+  lat: 34.715445
+  lng: 135.252372
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 神戸市HP
+    url: https://www.city.kobe.lg.jp/a31937/kanko/bunka/bunkashisetsu/ishoan/index.html
 occurrences:
   - year: 2026
     dates:

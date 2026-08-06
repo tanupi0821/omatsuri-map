@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 伊予市しおさい公園
-  address: null
-  lat: null
-  lng: null
+  address: 伊予市森甲91-1
+  lat: 33.744256
+  lng: 132.680313
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 伊予市しおさい公園HP
+    url: https://www.shiosai-iyosasaeru.com/access
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 一般社団法人日本自動車連盟公式サイト「ドライブスタンプラリー
+    url: https://area.jaf.or.jp/drive/stamp-rally/kanto/niigata_stamp-rally_no1571
 occurrences:
   - year: 2026
     dates:

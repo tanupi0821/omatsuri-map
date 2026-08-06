@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 糀台公園（多目的芝生広場）
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市西区糀台3-33
+  lat: 34.71971
+  lng: 135.021955
 organizer: null
 stalls: yes
 tags: []

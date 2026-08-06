@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 正八幡神社及びその周辺
-  address: null
-  lat: null
-  lng: null
+  address: 松山市窪野町1098
+  lat: 33.738706
+  lng: 132.849311
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 令和8年 松山くぼの町ホタルの里山まつりを開催します 松山市
+    url: https://www.city.matsuyama.ehime.jp/hodo/202605/20260606.html
+  - title: 松山くぼの町ホタルの里山まつり 公式サイト
+    url: https://tamaku-ehime.wixstudio.com/kubono-satoyamakai/hotaru
 occurrences:
   - year: 2026
     dates:

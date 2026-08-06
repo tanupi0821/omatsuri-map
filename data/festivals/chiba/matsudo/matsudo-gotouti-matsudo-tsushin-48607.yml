@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 陸上自衛隊
-  address: null
-  lat: null
-  lng: null
+  address: 松戸市五香六実17
+  lat: 35.788421
+  lng: 139.971426
 organizer: null
 stalls: yes
 tags: []

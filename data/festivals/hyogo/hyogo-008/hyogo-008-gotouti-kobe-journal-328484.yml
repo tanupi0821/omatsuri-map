@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 神戸市青少年会館
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区東川崎町1-3-3
+  lat: 34.679549
+  lng: 135.179055
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 貝の花第二公園
   address: 松戸市八ヶ崎3-237
-  lat: null
-  lng: null
+  lat: 35.81158
+  lng: 139.93761
 organizer: null
 stalls: yes
 tags: []

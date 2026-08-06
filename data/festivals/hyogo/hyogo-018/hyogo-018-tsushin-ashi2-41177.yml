@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: イベント詳細はこちら（三条地車保存会公式Instagram
+    url: https://www.instagram.com/sanjo__danjiri/
 occurrences:
   - year: 2026
     dates:

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: メリケンパーク
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区波止場町2
+  lat: 34.684131
+  lng: 135.17621
 organizer: null
 stalls: yes
 tags: []

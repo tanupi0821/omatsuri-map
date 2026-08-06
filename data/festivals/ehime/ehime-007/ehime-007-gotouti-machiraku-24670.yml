@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: ジョー・プラ
-  address: null
-  lat: null
-  lng: null
+  address: 松山市朝生田町5丁目1-25
+  lat: 33.821167
+  lng: 132.771344
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ジョー・プラ 公式サイト
+    url: https://jow-pla.jp/
 occurrences:
   - year: 2026
     dates:

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 熊野公園
-  address: null
-  lat: null
-  lng: null
+  address: 葛飾区東水元5-40-7
+  lat: 35.79182
+  lng: 139.865844
 organizer: null
 stalls: yes
 tags: []

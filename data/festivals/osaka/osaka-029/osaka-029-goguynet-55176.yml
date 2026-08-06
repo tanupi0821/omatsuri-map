@@ -9,8 +9,8 @@ area:
 venue:
   name: 鴫野グラウンド
   address: 大阪市城東区鴫野東
-  lat: null
-  lng: null
+  lat: 34.691892
+  lng: 135.541244
 organizer: null
 stalls: unknown
 tags: []

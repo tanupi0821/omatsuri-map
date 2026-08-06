@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 千方神社境内
-  address: null
-  lat: null
-  lng: null
+  address: 加須市中央2-5-27
+  lat: 36.12375
+  lng: 139.591686
 organizer: null
 stalls: yes
 tags: []

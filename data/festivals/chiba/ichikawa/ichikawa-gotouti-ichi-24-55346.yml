@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 新田南公園（市川市新田3-15-2）
-  address: null
-  lat: null
-  lng: null
+  address: 市川市新田3-15-2
+  lat: 35.723183
+  lng: 139.912042
 organizer: 新田2・3丁目自治会
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-22
       - 2026-07-23
-    start_time: null
-    end_time: null
+    start_time: 18:30
+    end_time: 21:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55346
     source_name: 市川にゅ～す

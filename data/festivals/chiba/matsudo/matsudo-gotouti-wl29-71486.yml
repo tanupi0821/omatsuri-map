@@ -9,8 +9,8 @@ area:
 venue:
   name: 稔台小学校
   address: 松戸市稔台2-36-1
-  lat: null
-  lng: null
+  lat: 35.78347
+  lng: 139.932015
 organizer: null
 stalls: yes
 tags: []

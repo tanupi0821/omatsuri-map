@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ≫≫オオサカきのこ大祭公式 HP
+    url: http://www.buna-21.jp/kinoko/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-06
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://tsurumi-joto.goguynet.jp/2026/06/01/kinoko-3/
     source_name: 号外NET 大阪市鶴見区・城東区

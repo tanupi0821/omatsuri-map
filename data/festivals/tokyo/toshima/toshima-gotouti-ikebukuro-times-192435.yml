@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 豊島区公式サイト
+    url: https://www.city.toshima.lg.jp/132/2607071400.html
 occurrences:
   - year: 2026
     dates:

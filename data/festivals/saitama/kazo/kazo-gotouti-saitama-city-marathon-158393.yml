@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: キサイフーズはなさきふれあいパーク（旧・加須はなさき公園）
-  address: null
-  lat: null
-  lng: null
+  address: 加須市水深1722
+  lat: 36.097952
+  lng: 139.607895
 organizer: null
 stalls: yes
 tags: []

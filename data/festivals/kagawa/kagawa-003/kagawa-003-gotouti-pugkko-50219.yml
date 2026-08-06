@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 西村ジョイ成合店
-  address: null
-  lat: null
-  lng: null
+  address: 高松市成合町812-1
+  lat: 34.301734
+  lng: 134.012507
 organizer: null
 stalls: yes
 tags: []

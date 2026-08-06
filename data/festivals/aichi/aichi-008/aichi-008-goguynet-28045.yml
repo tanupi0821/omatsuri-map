@@ -9,8 +9,8 @@ area:
 venue:
   name: 豊川公園内（しばふ広場・OKAKENアスリートフィールド周辺）
   address: 豊川市諏訪1丁目
-  lat: null
-  lng: null
+  lat: 34.828575
+  lng: 137.374143
 organizer: null
 stalls: yes
 tags: []

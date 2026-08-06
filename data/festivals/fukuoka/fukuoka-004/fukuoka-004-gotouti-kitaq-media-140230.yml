@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 北九州市内
-  address: null
+  address: 北九州市八幡西区木屋瀬3-16-26
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市立長崎街道木屋瀬宿記念館のホームページ
+    url: https://koyanose.jp/info/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E3%80%80%E3%81%93%E3%82%84%E3%81%AE%E3%81%9B%E3%81%9F%E3%81%AA%E3%81%B0%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A%E3%80%80%E9%96%8B%E5%82%AC%E5%91%8A%E7%9F%A5/
 occurrences:
   - year: 2026
     dates:

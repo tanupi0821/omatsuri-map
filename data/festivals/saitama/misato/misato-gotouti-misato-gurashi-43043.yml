@@ -9,8 +9,8 @@ area:
 venue:
   name: カンガルー公園
   address: 三郷市三郷2-20-3
-  lat: null
-  lng: null
+  lat: 35.84349
+  lng: 139.879673
 organizer: null
 stalls: unknown
 tags: []

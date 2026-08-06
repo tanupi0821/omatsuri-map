@@ -9,8 +9,8 @@ area:
 venue:
   name: みなと中央公園
   address: 船橋市湊町1-9-13
-  lat: null
-  lng: null
+  lat: 35.693675
+  lng: 139.984053
 organizer: null
 stalls: yes
 tags: []

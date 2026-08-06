@@ -9,8 +9,8 @@ area:
 venue:
   name: 栗ヶ沢公園
   address: 松戸市小金原8-26
-  lat: null
-  lng: null
+  lat: 35.813489
+  lng: 139.937267
 organizer: null
 stalls: yes
 tags: []

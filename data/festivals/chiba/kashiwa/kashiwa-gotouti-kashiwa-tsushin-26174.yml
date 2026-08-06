@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: セブンパークアリオ柏 ホームページ
+    url: http://www.sevenpark-ario-kashiwa.jp/web/
 occurrences:
   - year: 2026
     dates:

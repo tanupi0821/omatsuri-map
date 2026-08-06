@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 神戸ハーバーランドumieモザイク前（高浜岸壁）
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 神戸市中央区東川崎町1-6
+  lat: 34.680479
+  lng: 135.181803
+organizer: 青森県弘前市
 stalls: unknown
 tags: []
 description: null

@@ -29,6 +29,7 @@ import { join, dirname, relative, sep } from 'node:path';
 import { parse, parseAllDocuments, stringify } from 'yaml';
 import { byName } from './lib/prefs.mjs';
 import { ROOT } from './import/_lib.mjs';
+import { loadAreaList } from './lib/areas.mjs';
 
 const APPLY = process.argv.includes('--apply');
 const FEST = join(ROOT, 'data', 'festivals');
@@ -92,14 +93,36 @@ for (const list of docs.values()) {
 }
 
 // --- 2. 各市区町村の「家」を決める ------------------------------------------
+/**
+ * **エリア定義がある市区町村は、その slug が正。**
+ * 置き場所の多数決で決めると、定義（`ota-gunma`）と違う場所（`ota`）へ寄せてしまい、
+ * 次の取り込みが定義どおりの場所にまた作って、同じ市が 2 か所に分かれる。
+ */
+const definedSlug = new Map();
+for (const a of loadAreaList(ROOT)) {
+  const ps = byName(a.pref)?.slug;
+  if (ps) definedSlug.set(`${ps}|${a.city}`, a.slug);
+}
+
 /** `${prefSlug}|${city}` -> citySlug */
 const home = new Map();
 const fresh = [];
+const takenHome = new Set();
 for (const [wk, m] of [...where].sort()) {
   const [prefSlug] = wk.split('|');
-  const ownDirs = [...m].filter(([slug]) => owner.get(`${prefSlug}/${slug}`) === wk.split('|')[1]);
+  const def = definedSlug.get(wk);
+  if (def && !takenHome.has(`${prefSlug}/${def}`)) {
+    home.set(wk, def);
+    takenHome.add(`${prefSlug}/${def}`);
+    used.add(`${prefSlug}/${def}`);
+    continue;
+  }
+  const ownDirs = [...m].filter(([slug]) => owner.get(`${prefSlug}/${slug}`) === wk.split('|')[1]
+    && !takenHome.has(`${prefSlug}/${slug}`));
   if (ownDirs.length) {
-    home.set(wk, ownDirs.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0]);
+    const pick = ownDirs.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0];
+    home.set(wk, pick);
+    takenHome.add(`${prefSlug}/${pick}`);
     continue;
   }
   fresh.push(wk);
@@ -112,8 +135,9 @@ for (const wk of fresh) {
   do {
     n += 1;
     slug = `${prefSlug}-${String(n).padStart(3, '0')}`;
-  } while (used.has(`${prefSlug}/${slug}`));
+  } while (used.has(`${prefSlug}/${slug}`) || takenHome.has(`${prefSlug}/${slug}`));
   used.add(`${prefSlug}/${slug}`);
+  takenHome.add(`${prefSlug}/${slug}`);
   home.set(wk, slug);
 }
 

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 板宿小学校
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市須磨区菊池町1-1-1
+  lat: 34.662538
+  lng: 135.132855
 organizer: null
 stalls: yes
 tags: []

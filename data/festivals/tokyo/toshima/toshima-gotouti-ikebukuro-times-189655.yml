@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: JR巣鴨駅南口ロータリー
-  address: null
-  lat: null
-  lng: null
+  address: 豊島区巣鴨1-16
+  lat: 35.733108
+  lng: 139.737057
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 巣鴨大鳥神社商店街公式サイト
+    url: http://suichishoutenkai.com/event/bonodori_2026
 occurrences:
   - year: 2026
     dates:

@@ -9,8 +9,8 @@ area:
 venue:
   name: 陸上自衛隊
   address: null
-  lat: null
-  lng: null
+  lat: 34.913173
+  lng: 135.796826
 organizer: null
 stalls: yes
 tags: []

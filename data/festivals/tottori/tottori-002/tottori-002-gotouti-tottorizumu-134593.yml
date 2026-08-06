@@ -15,7 +15,9 @@ organizer: 貝がら節祭り実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 鳥取市公式ホームページ
+    url: https://www.city.tottori.lg.jp/page/20889.html
 occurrences:
   - year: 2026
     dates:

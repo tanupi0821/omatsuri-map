@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 「瀬崎淺間神社」ホームページ
+    url: https://sengenjinja.com/
+  - title: 「瀬崎淺間神社」公式Instagram
+    url: https://www.instagram.com/sezaki_sengen_shrine/
 occurrences:
   - year: 2026
     dates:

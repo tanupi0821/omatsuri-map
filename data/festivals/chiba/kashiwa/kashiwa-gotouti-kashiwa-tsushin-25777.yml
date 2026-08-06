@@ -9,8 +9,8 @@ area:
 venue:
   name: 白山神社境内広場
   address: 柏市豊住2-1-1
-  lat: null
-  lng: null
+  lat: 35.836454
+  lng: 139.959448
 organizer: null
 stalls: yes
 tags: []

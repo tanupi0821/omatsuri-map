@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 一帯には地元飲食店の「B級グルメ」が並ぶ飲食ブース
-  address: null
+  address: 神戸市東灘区向洋町中2-22
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.rokko-island.com/event/605
 occurrences:
   - year: 2026
     dates:

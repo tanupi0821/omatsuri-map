@@ -9,8 +9,8 @@ area:
 venue:
   name: 浦安市郷土博物館
   address: null
-  lat: null
-  lng: null
+  lat: 35.655239
+  lng: 139.898518
 organizer: null
 stalls: unknown
 tags: []

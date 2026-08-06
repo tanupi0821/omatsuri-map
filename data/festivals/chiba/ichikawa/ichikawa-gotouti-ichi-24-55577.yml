@@ -9,8 +9,8 @@ area:
 venue:
   name: 北方児童公園
   address: null
-  lat: null
-  lng: null
+  lat: 35.722256
+  lng: 139.936012
 organizer: 北方1丁目自治会
 stalls: unknown
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55577
     source_name: 市川にゅ～す

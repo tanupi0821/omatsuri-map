@@ -9,13 +9,15 @@ area:
 venue:
   name: 阿漕浦海岸沖南方
   address: null
-  lat: null
-  lng: null
+  lat: 34.709063
+  lng: 136.51843
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 津花火大会 公式サイト
+    url: https://tsu-hanabi.info/
 occurrences:
   - year: 2026
     dates:

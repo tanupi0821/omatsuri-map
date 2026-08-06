@@ -15,7 +15,11 @@ organizer: ニシタチまちづくり協同組合
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 宮崎県公式観光サイト
+    url: https://www.kanko-miyazaki.jp/event/2260
+  - title: 小戸神社公式サイト
+    url: https://www.odo-jinja.jp/schedule/%E5%A4%8F%E8%B6%8A%E7%A5%AD%EF%BC%88%E5%BE%A1%E7%A5%9E%E5%B9%B8%E7%A5%AD%EF%BC%89/
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://skylumina.jp/#ticket
+  - title: 公式サイト
+    url: https://skylumina.jp/
 occurrences:
   - year: 2026
     dates:

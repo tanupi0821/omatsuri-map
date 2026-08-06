@@ -9,13 +9,15 @@ area:
 venue:
   name: 籠原駅北口周辺・駅前ロータリー
   address: null
-  lat: null
-  lng: null
+  lat: 36.174139
+  lng: 139.328179
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Instagram
+    url: https://www.instagram.com/kagoharachou_ohayashikai/reels/
 occurrences:
   - year: 2026
     dates:

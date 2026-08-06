@@ -9,8 +9,8 @@ area:
 venue:
   name: 上尾ショーサンプラザ
   address: null
-  lat: null
-  lng: null
+  lat: 35.97204
+  lng: 139.586005
 organizer: null
 stalls: yes
 tags: []

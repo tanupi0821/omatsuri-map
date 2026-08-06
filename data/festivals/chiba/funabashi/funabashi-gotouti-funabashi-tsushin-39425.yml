@@ -9,8 +9,8 @@ area:
 venue:
   name: 札場公園
   address: 船橋市前原西1-2-7
-  lat: null
-  lng: null
+  lat: 35.696349
+  lng: 140.007367
 organizer: null
 stalls: yes
 tags: []

@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 名鉄都市開発株式会社
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: Meieki Parklet公式サイト
+    url: https://www.chunichi-adnet.co.jp/meiekiparklet
 occurrences:
   - year: 2026
     dates:

@@ -9,13 +9,15 @@ area:
 venue:
   name: モラージュ柏
   address: 柏市大山台2-3
-  lat: null
-  lng: null
+  lat: 35.882378
+  lng: 139.967105
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: モラージュ柏 ホームページ
+    url: http://www.mallage.com/kashiwa/
 occurrences:
   - year: 2026
     dates:

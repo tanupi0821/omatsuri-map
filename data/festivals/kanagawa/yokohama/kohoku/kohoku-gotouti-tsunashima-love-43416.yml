@@ -8,14 +8,16 @@ area:
   ward: 港北区
 venue:
   name: 港北区内
-  address: null
+  address: 横浜市港北区高田東1-45-4
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト店舗詳細ページ
+    url: https://www.sawayakapure.com/shops/2355/
 occurrences:
   - year: 2026
     dates:

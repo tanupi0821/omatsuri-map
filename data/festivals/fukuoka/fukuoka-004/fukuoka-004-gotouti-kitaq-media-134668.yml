@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: リバーウォーク北九州のホームページ
+    url: https://riverwalk.co.jp/event/ribakidsfesta_2026/
 occurrences:
   - year: 2026
     dates:

@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 白鳥神社（香川県東かがわ市松原69）
-  address: null
+  address: 東かがわ市松原69
   lat: null
   lng: null
-organizer: null
+organizer: 東かがわ市商工会青年部
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 白鳥神社 公式HP
+    url: https://www.shirotori-jinja.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://takamatsu.goguynet.jp/2026/07/29/shirotorijinjya-kagawa-2/
     source_name: 号外NET 高松市

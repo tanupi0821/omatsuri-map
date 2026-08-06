@@ -9,8 +9,8 @@ area:
 venue:
   name: 開北橋下流（石巻市）
   address: null
-  lat: null
-  lng: null
+  lat: 38.448472
+  lng: 141.306534
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
     source_url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/06/18/kawabiraki-2/
     source_name: 号外NET 石巻市・東松島市

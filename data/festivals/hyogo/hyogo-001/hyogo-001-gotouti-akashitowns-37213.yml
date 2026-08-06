@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 宮西公園
-  address: null
-  lat: null
-  lng: null
+  address: 明石市松の内1丁目11
+  lat: 34.663909
+  lng: 134.962213
 organizer: null
 stalls: yes
 tags: []

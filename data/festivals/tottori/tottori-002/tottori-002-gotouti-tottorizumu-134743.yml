@@ -15,13 +15,15 @@ organizer: あゆ祭企画実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 鳥取市河原町総合支所 公式Instagram
+    url: https://www.instagram.com/tottoricity_kawahara_official/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 15:30
+    end_time: 21:00
     status: confirmed
     source_url: https://tottorizumu.com/ayu-matsuri/
     source_name: とっとりずむ

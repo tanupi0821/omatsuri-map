@@ -9,13 +9,15 @@ area:
 venue:
   name: イオンモール柏
   address: 柏市豊町2-5-25
-  lat: null
-  lng: null
+  lat: 35.851683
+  lng: 139.959543
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: イオンモール柏 ホームページ
+    url: https://www.aeon.jp/sc/chiba-kashiwa/
 occurrences:
   - year: 2026
     dates:

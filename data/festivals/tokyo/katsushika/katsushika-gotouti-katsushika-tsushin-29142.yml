@@ -9,8 +9,8 @@ area:
 venue:
   name: 亀四町会会館前
   address: 葛飾区亀有4-15-8
-  lat: null
-  lng: null
+  lat: 35.761618
+  lng: 139.84314
 organizer: null
 stalls: yes
 tags: []

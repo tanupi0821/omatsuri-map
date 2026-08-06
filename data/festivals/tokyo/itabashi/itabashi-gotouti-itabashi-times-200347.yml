@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: なります北口なつまつり公式インスタグラム
+    url: https://www.instagram.com/nnnfes2024/
+  - title: 星野製作所（麦）公式インスタグラム
+    url: https://www.instagram.com/hoshinobeer/
 occurrences:
   - year: 2026
     dates:

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 富士森公園（八王子市台町2-2）
-  address: null
-  lat: null
-  lng: null
-organizer: null
+  address: 八王子市台町2-2
+  lat: 35.650926
+  lng: 139.320161
+organizer: 公益社団法人
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 八王子花火大会｜八王子観光コンベンション協会公式サイト いこ
+    url: https://www.hkc.or.jp/fireworks/
 occurrences:
   - year: 2026
     dates:

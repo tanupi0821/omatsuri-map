@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 寺泊観光協会の公式ホームページ
+    url: https://www.teradomari-kankou.com/minatomatsuri2026/
 occurrences:
   - year: 2026
     dates:

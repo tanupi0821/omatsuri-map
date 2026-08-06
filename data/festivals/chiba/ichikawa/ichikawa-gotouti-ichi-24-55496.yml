@@ -9,20 +9,22 @@ area:
 venue:
   name: 鶴指小学校
   address: null
-  lat: null
-  lng: null
+  lat: 35.717981
+  lng: 139.897249
 organizer: 大和田自治会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大和田自治会ホームページ
+    url: https://oowada-ichikawa.localinfo.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 20:30
     status: confirmed
     source_url: https://ichi-24.jp/archives/55496
     source_name: 市川にゅ～す

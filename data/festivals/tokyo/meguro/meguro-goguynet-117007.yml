@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 正覚寺ホームページ
+    url: https://nakameguro-shogakuji.or.jp/about/
 occurrences:
   - year: 2026
     dates:

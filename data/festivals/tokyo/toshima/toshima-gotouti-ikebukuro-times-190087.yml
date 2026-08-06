@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 大正大学
-  address: null
-  lat: null
-  lng: null
+  address: 豊島区西巣鴨3-20-1
+  lat: 35.743002
+  lng: 139.727166
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 鴨台盆踊り公式Instagram
+    url: https://www.instagram.com/bonodori_tais/
+  - title: 大正大学公式サイト
+    url: https://www.tais.ac.jp/region_international/contribution_society/ohdai_bonodori/
 occurrences:
   - year: 2026
     dates:

@@ -9,8 +9,8 @@ area:
 venue:
   name: 浅間公園
   address: 松戸市中金杉4-208
-  lat: null
-  lng: null
+  lat: 35.842128
+  lng: 139.918211
 organizer: null
 stalls: yes
 tags: []

@@ -15,7 +15,9 @@ organizer: 八頭町きらめき祭実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 八頭町公式ホームページ
+    url: https://www.town.yazu.tottori.jp/soshiki/18/17293.html
 occurrences:
   - year: 2026
     dates:

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 須磨寺前商店街
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市須磨区須磨寺町1-8-22
+  lat: 34.647822
+  lng: 135.114965
 organizer: null
 stalls: yes
 tags: []

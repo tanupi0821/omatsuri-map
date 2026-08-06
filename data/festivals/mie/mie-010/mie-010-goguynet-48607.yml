@@ -9,8 +9,8 @@ area:
 venue:
   name: 阿漕浦海岸沖南方
   address: null
-  lat: null
-  lng: null
+  lat: 34.706799
+  lng: 136.522483
 organizer: null
 stalls: unknown
 tags: []

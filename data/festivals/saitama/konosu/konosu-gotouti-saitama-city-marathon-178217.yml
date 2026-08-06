@@ -9,8 +9,8 @@ area:
 venue:
   name: 吹上神社前と中山道の一部
   address: null
-  lat: null
-  lng: null
+  lat: 36.105577
+  lng: 139.447359
 organizer: null
 stalls: yes
 tags: []

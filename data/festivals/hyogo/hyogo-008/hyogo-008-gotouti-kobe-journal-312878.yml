@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 新開地商店街一帯
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市兵庫区新開地2-3
+  lat: 34.677169
+  lng: 135.165865
 organizer: null
 stalls: unknown
 tags: []

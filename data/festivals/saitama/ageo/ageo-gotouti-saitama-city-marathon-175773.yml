@@ -9,8 +9,8 @@ area:
 venue:
   name: アリオ上尾
   address: null
-  lat: null
-  lng: null
+  lat: 35.961041
+  lng: 139.562564
 organizer: null
 stalls: yes
 tags: []

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 鞘ヶ谷市民センターのホームページ
+    url: https://www.ktqc01.net/toba/sacc/
 occurrences:
   - year: 2026
     dates:

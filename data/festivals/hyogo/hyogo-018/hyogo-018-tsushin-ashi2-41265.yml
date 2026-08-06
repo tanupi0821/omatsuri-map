@@ -15,13 +15,15 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: シンコースポーツ体育館・青少年センター公式ホームページ
+    url: https://ashiya-sports.com/event/3347/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-05
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 13:00
     status: confirmed
     source_url: https://ashi2.jp/41265/
     source_name: 芦屋つーしん

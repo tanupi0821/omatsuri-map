@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.kita.lg.jp/city-information/pr/1011994/1025485/1025640.html
+  - title: 王子の居酒屋に『久本雅美』来てた
+    url: https://akabane-shinbun.com/archives/242756
 occurrences:
   - year: 2026
     dates:

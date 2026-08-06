@@ -9,8 +9,8 @@ area:
 venue:
   name: しあわせの村
   address: null
-  lat: null
-  lng: null
+  lat: 34.724218
+  lng: 135.108588
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 南部公園さくら広場
   address: 柏市新逆井2-5-13
-  lat: null
-  lng: null
+  lat: 35.809943
+  lng: 139.967429
 organizer: null
 stalls: yes
 tags: []

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 第10回あらたまばし大盆踊り大会の公式サイト
+    url: https://aratamabashi.aeonmall.jp/event/9bd741e9-ec7e-455e-b3ce-64077a3db117
 occurrences:
   - year: 2026
     dates:

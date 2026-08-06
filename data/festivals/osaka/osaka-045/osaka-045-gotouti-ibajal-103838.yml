@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 新屋坐天照御魂神社（西河原）HP
+    url: https://niiya-nishigawara.webnode.jp/home/newscbm_52562/5/
 occurrences:
   - year: 2026
     dates:

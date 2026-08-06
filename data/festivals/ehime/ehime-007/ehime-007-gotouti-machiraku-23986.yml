@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 愛媛県県民文化会館
-  address: null
-  lat: null
-  lng: null
+  address: 松山市道後町2丁目5-1
+  lat: 33.848597
+  lng: 132.778061
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 愛媛県県民文化会館 公式サイト
+    url: https://www.kenbun.jp/
 occurrences:
   - year: 2026
     dates:

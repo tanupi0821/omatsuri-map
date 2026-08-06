@@ -15,13 +15,15 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 芦屋市公式ホームページ／芦屋さくらまつり
+    url: https://www.city.ashiya.lg.jp/sankaku/sakura/sakura.html
 occurrences:
   - year: 2026
     dates:
       - 2026-04-05
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:30
     status: confirmed
     source_url: https://ashi2.jp/40970/
     source_name: 芦屋つーしん

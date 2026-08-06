@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 明石T3テラス
-  address: null
-  lat: null
-  lng: null
+  address: 明石市中崎1-8
+  lat: 34.643337
+  lng: 134.99015
 organizer: null
 stalls: yes
 tags: []

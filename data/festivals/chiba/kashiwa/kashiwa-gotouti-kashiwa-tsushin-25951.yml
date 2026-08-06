@@ -9,8 +9,8 @@ area:
 venue:
   name: 柏第八小学校
   address: 柏市永楽台2-8-1
-  lat: null
-  lng: null
+  lat: 35.844019
+  lng: 139.969809
 organizer: null
 stalls: unknown
 tags: []

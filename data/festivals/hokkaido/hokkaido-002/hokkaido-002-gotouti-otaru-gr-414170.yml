@@ -9,8 +9,8 @@ area:
 venue:
   name: 水天宮
   address: 小樽市相生町3-1
-  lat: null
-  lng: null
+  lat: 43.192723
+  lng: 141.004184
 organizer: null
 stalls: yes
 tags: []

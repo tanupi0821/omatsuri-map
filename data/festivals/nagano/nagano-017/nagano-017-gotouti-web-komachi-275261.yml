@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 小諸城址懐古園
-  address: null
-  lat: null
-  lng: null
+  address: 小諸市丁311
+  lat: 36.327114
+  lng: 138.414971
 organizer: null
 stalls: yes
 tags: []

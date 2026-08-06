@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 南行徳小学校
-  address: null
+  address: 市川市欠真間1-6-38
   lat: null
   lng: null
 organizer: 欠真間自治会
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55599
     source_name: 市川にゅ～す

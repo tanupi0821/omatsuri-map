@@ -9,8 +9,8 @@ area:
 venue:
   name: フィットネスクラブ コ・ス・パ 鶴見緑地24
   address: 大阪市鶴見区
-  lat: null
-  lng: null
+  lat: 34.70599
+  lng: 135.567334
 organizer: null
 stalls: unknown
 tags: []

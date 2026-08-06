@@ -9,8 +9,8 @@ area:
 venue:
   name: 旭ヶ丘第一公園
   address: 松戸市松戸2275
-  lat: null
-  lng: null
+  lat: 35.775704
+  lng: 139.907575
 organizer: null
 stalls: yes
 tags: []

@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: HP
+    url: https://www.park-698.net/
 occurrences:
   - year: 2026
     dates:

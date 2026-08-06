@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-04
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 14:00
     status: confirmed
     source_url: https://rarea.events/event/305115
     source_name: レアリア

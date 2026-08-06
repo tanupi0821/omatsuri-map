@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大牟田市 「マイメロディ＆クロミ スペシャルステージ」イオン
+    url: https://chikugo-ikoi.com/mymelody-kuromi-20260711/
+  - title: 筑後市 「筑後夏祭り～なつかし夜市～」開催
+    url: https://chikugo-ikoi.com/chikugo-summer-festival/
 occurrences:
   - year: 2026
     dates:

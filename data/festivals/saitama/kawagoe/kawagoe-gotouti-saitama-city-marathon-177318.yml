@@ -9,8 +9,8 @@ area:
 venue:
   name: ウニクス南古谷
   address: null
-  lat: null
-  lng: null
+  lat: 35.905271
+  lng: 139.510778
 organizer: null
 stalls: yes
 tags: []

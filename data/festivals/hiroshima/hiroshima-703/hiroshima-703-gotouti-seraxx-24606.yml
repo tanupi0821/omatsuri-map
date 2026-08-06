@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 香山ラベンダーの丘
-  address: null
-  lat: null
-  lng: null
+  address: 世羅町別迫794-9
+  lat: 34.642338
+  lng: 133.023582
 organizer: null
 stalls: unknown
 tags: []

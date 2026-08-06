@@ -9,8 +9,8 @@ area:
 venue:
   name: 小根本公園
   address: 松戸市小根本94-2
-  lat: null
-  lng: null
+  lat: 35.786823
+  lng: 139.906212
 organizer: null
 stalls: yes
 tags: []

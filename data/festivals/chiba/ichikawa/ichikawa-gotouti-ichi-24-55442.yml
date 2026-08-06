@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 市川市立塩焼小学校
-  address: null
+  address: 市川市塩焼5-9-8
   lat: null
   lng: null
 organizer: 塩焼地区自治会連絡協議会
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: https://ichi-24.jp/archives/55442
     source_name: 市川にゅ～す

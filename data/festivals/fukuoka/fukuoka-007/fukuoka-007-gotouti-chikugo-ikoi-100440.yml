@@ -15,7 +15,11 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大牟田市 「内藤哲也＆BUSHI SPECIAL TALK
+    url: https://chikugo-ikoi.com/naitotetsuya-bushi-omuta/
+  - title: 久留米市 「Saturday Sunday Market」西
+    url: https://chikugo-ikoi.com/saturday-sunday-market/
 occurrences:
   - year: 2026
     dates:

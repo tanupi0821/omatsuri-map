@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 前野公園（板橋区前野町5-1-1）
-  address: null
-  lat: null
-  lng: null
+  address: 板橋区前野町5-1-1
+  lat: 35.768896
+  lng: 139.678387
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.city.itabashi.tokyo.jp/kusei/profile/event/sakura/1006867.html
 occurrences:
   - year: 2026
     dates:

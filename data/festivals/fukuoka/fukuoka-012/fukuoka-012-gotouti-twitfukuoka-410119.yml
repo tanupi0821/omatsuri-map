@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: おおむた大蛇山まつり 公式サイト
+    url: https://www.omuta-daijayama.com/
 occurrences:
   - year: 2026
     dates:

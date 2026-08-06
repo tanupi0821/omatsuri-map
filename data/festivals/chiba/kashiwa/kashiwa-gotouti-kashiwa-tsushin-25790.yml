@@ -9,13 +9,15 @@ area:
 venue:
   name: 諏訪神社境内
   address: 柏市柏5-7-7
-  lat: null
-  lng: null
+  lat: 35.866189
+  lng: 139.973235
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 諏訪神社 ホームページ
+    url: https://www.suwajinja-kashiwa.com
 occurrences:
   - year: 2026
     dates:

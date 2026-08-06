@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 欠真間公園（市川市香取2-17-4）
-  address: null
-  lat: null
-  lng: null
+  address: 市川市香取2-17-4
+  lat: 35.678216
+  lng: 139.903903
 organizer: 香取二丁目自治会
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55452
     source_name: 市川にゅ～す

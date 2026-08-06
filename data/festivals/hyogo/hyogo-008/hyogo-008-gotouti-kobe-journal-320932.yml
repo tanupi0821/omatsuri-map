@@ -9,13 +9,15 @@ area:
 venue:
   name: 魚の棚商店街とその付近
   address: null
-  lat: null
-  lng: null
+  lat: 34.647156
+  lng: 134.991787
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 魚の棚ホームページ
+    url: https://www.uonotana.or.jp/
 occurrences:
   - year: 2026
     dates:

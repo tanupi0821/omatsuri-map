@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 株式会社エスケイハウス
-  address: null
+  address: 松前町東古泉573-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 愛媛やる氣縁の会 公式サイト
+    url: https://yarukienishiehime.wixsite.com/hogonekomarche
 occurrences:
   - year: 2026
     dates:

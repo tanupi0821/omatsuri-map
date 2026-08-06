@@ -9,8 +9,8 @@ area:
 venue:
   name: Awaji
   address: 淡路市浦55
-  lat: null
-  lng: null
+  lat: 34.535468
+  lng: 134.989829
 organizer: null
 stalls: yes
 tags: []

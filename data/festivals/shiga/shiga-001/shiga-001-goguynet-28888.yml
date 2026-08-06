@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://shigacho.jimdofree.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/
 occurrences:
   - year: 2026
     dates:

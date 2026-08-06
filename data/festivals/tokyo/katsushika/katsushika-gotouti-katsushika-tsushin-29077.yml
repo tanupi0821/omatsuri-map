@@ -9,8 +9,8 @@ area:
 venue:
   name: 半田稲荷神社
   address: 葛飾区東金町4-28-22
-  lat: null
-  lng: null
+  lat: 35.77583
+  lng: 139.873071
 organizer: null
 stalls: yes
 tags: []

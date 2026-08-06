@@ -15,7 +15,9 @@ organizer: 八王子まつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 八王子まつり公式ウェブサイト 八王子まつりの公式ウェブサイト
+    url: https://www.hachiojimatsuri.jp/
 occurrences:
   - year: 2026
     dates:

@@ -9,13 +9,15 @@ area:
 venue:
   name: 横河原駅前広場
   address: null
-  lat: null
-  lng: null
+  lat: 33.803451
+  lng: 132.883209
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: とうおん旅あそび 公式サイト
+    url: https://toon-kanko.jp/
 occurrences:
   - year: 2026
     dates:

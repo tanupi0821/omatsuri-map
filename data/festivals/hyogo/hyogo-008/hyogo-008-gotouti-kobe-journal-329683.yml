@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: さんちか5番街
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市中央区三宮町1-10-1
+  lat: 34.693684
+  lng: 135.194078
 organizer: null
 stalls: yes
 tags: []

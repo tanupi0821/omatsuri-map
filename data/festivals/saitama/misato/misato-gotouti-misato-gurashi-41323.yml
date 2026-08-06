@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: シネマサンシャイン三郷 ホームページ
+    url: https://www.cinemasunshine.co.jp/theater/misato/
 occurrences:
   - year: 2026
     dates:

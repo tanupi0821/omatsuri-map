@@ -9,9 +9,9 @@ area:
 venue:
   name: 江戸川運動公園
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.849067
+  lng: 139.884289
+organizer: 三郷市商工会青年部
 stalls: unknown
 tags: []
 description: null

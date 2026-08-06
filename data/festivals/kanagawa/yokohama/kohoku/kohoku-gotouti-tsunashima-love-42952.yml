@@ -8,14 +8,18 @@ area:
   ward: 港北区
 venue:
   name: 港北区内
-  address: null
+  address: 横浜市港北区新吉田東5丁目47-16
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://higenopanya.co.jp/
+  - title: 公式サイト
+    url: http://jizake-ya.com/
 occurrences:
   - year: 2026
     dates:

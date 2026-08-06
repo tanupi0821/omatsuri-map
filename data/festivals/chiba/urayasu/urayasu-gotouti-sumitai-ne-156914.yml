@@ -9,9 +9,9 @@ area:
 venue:
   name: 清瀧神社境内
   address: null
-  lat: null
-  lng: null
-organizer: null
+  lat: 35.662298
+  lng: 139.887522
+organizer: 清瀧神社を飾る会
 stalls: yes
 tags: []
 description: null

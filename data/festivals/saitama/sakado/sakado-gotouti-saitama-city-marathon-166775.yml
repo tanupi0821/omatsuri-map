@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 永源寺
-  address: null
-  lat: null
-  lng: null
+  address: 坂戸市仲町12-69
+  lat: 35.962348
+  lng: 139.394873
 organizer: null
 stalls: yes
 tags: []

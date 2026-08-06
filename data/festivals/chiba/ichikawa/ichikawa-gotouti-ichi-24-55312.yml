@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 新田胡録神社
-  address: null
-  lat: null
-  lng: null
+  address: 市川市新田1-3-1
+  lat: 35.727885
+  lng: 139.898077
 organizer: 新田くるみ子ども会
 stalls: yes
 tags: []

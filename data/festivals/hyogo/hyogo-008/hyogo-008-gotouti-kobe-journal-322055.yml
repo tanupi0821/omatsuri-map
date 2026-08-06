@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 長田神社
-  address: null
-  lat: null
-  lng: null
+  address: 神戸市長田区長田町3-1-1
+  lat: 34.668767
+  lng: 135.134896
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 中央一丁目公園
   address: 三郷市中央1-21-8
-  lat: null
-  lng: null
+  lat: 35.821059
+  lng: 139.872585
 organizer: null
 stalls: yes
 tags: []

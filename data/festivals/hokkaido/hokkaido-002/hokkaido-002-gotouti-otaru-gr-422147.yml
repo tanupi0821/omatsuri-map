@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 小樽芸術村中庭・小樽堺町通り
-  address: null
-  lat: null
-  lng: null
+  address: 小樽市堺町6-11
+  lat: 43.191523
+  lng: 141.006825
 organizer: null
 stalls: yes
 tags: []

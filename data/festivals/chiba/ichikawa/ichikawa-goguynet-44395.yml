@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 市川市民納涼花火大会公式サイト
+    url: https://www.ichikawa-hanabi.net/overview/
 occurrences:
   - year: 2026
     dates:

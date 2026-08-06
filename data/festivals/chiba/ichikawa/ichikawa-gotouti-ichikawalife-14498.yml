@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 市川市内
-  address: null
+  address: 市川市大和田2-5-4
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大和田自治会 ホームページ
+    url: https://oowada-ichikawa.localinfo.jp/
 occurrences:
   - year: 2026
     dates:

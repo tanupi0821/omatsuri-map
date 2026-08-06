@@ -9,8 +9,8 @@ area:
 venue:
   name: 籠原駅北口周辺・駅前ロータリー
   address: null
-  lat: null
-  lng: null
+  lat: 36.174139
+  lng: 139.328179
 organizer: null
 stalls: unknown
 tags: []

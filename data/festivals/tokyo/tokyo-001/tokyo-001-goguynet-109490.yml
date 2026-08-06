@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: あたご三丁目町会と西武中央商店会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 清瀬駅北口のバス時刻表はこちら（西武バス ホームページ
+    url: https://transfer-cloud.navitime.biz/seibubus/courses?busstop=00111068
 occurrences:
   - year: 2026
     dates:

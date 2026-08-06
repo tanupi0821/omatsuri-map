@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 引用：岡崎市 HP
+    url: https://www.city.okazaki.lg.jp/shisei/koho/1006195/1006358/1014944/1015500.html
 occurrences:
   - year: 2026
     dates:

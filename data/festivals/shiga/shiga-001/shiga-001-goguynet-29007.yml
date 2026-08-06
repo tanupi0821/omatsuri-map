@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 比叡山・びわ湖DMOの公式サイト
+    url: https://www.hieizan.gr.jp/news/20260629-7576.html
+  - title: 坂本ケーブルの公式サイト
+    url: https://sakamoto-cable.jp/
 occurrences:
   - year: 2026
     dates:

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 20:30
     status: confirmed
     source_url: https://helen-harumin.com/?p=20835
     source_name: 北海道「江別」の暮らし情報 Hokkaido Ebetsu Life

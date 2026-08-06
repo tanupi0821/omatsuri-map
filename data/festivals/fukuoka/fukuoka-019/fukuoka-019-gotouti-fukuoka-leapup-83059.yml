@@ -9,8 +9,8 @@ area:
 venue:
   name: 西鉄天神大牟田線大橋駅西口広場
   address: null
-  lat: null
-  lng: null
+  lat: 33.558758
+  lng: 130.42396
 organizer: null
 stalls: yes
 tags: []

@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 大見自治センターグラウンド
-  address: null
-  lat: null
-  lng: null
+  address: 世羅町安田45
+  lat: 34.646254
+  lng: 132.992685
 organizer: 大見振興協議会
 stalls: yes
 tags: []

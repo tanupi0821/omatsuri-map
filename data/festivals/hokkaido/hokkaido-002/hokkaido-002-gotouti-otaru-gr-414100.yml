@@ -9,8 +9,8 @@ area:
 venue:
   name: 龍宮神社
   address: 小樽市稲穂3丁目22-11
-  lat: null
-  lng: null
+  lat: 43.200467
+  lng: 140.848008
 organizer: null
 stalls: unknown
 tags: []
@@ -24,8 +24,8 @@ occurrences:
       - 2026-06-20
       - 2026-06-21
       - 2026-06-22
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://otaru.gr.jp/citizen/2026-shrine-festival
     source_name: 小樽観光協会

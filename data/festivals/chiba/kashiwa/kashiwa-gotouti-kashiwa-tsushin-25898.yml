@@ -9,8 +9,8 @@ area:
 venue:
   name: 高柳小学校校庭
   address: 柏市高南台3-14-12
-  lat: null
-  lng: null
+  lat: 35.806905
+  lng: 139.993469
 organizer: null
 stalls: yes
 tags: []

@@ -42,6 +42,20 @@ const FORCE = process.argv.includes('--force');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * 対象の id。号外NET・レアリア・東京フェスタに加えて、
+ * **名鑑（gotouti）とつーしん系**も通す。中身が空のページを減らすには
+ * 新しい媒体こそ地図の埋め込みを読む必要がある。
+ *
+ * RSS から取った記事（id が `-r123` の形）は WordPress の記事 id が無いので
+ * `include=` で引けない。`-\d+$` に当たらないので自然に外れる。
+ *
+ * robots.txt と Content-Signal は `crawl/gotouti-media.mjs` が
+ * 同じ `/wp-json/` に対して確認済み。そこを通った媒体だけがデータになっている。
+ */
+const ARTICLE_ID = /-(?:goguynet|rarea|tokyofesta)-\d+$|-(?:gotouti|tsushin)-[a-z0-9._-]+-\d+$/;
+
+
 function walk(dir) {
   const out = [];
   for (const e of readdirSync(dir)) {
@@ -57,7 +71,7 @@ function walk(dir) {
 const byHost = new Map();
 for (const p of walk(join(ROOT, 'data', 'festivals'))) {
   const b = basename(p, '.yml');
-  if (!/-(goguynet|rarea|tokyofesta)-\d+$/.test(b)) continue;
+  if (!ARTICLE_ID.test(b)) continue;
   const postId = b.match(/-(\d+)$/)[1];
   const f = parse(readFileSync(p, 'utf8'));
   const url = f.occurrences?.[0]?.source_url;
@@ -90,12 +104,31 @@ for (const host of hosts) {
   // per_page は 100 まで。1 サイトの対象はせいぜい十数件なので 1 回で足りる
   for (let i = 0; i < ids.length; i += 100) {
     const chunk = ids.slice(i, i + 100);
-    const url = `https://${host}/wp-json/wp/v2/posts`
-      + `?include=${chunk.join(',')}&per_page=100&_fields=id,link,date,title,content`;
+    /**
+     * **`/wp-json/` を塞いでいても `?rest_route=` は開いている媒体がある**
+     * （セキュリティプラグインが前者だけを弾く）。名鑑経由の媒体に多い。
+     */
+    const q = `include=${chunk.join(',')}&per_page=100&_fields=id,link,date,title,content`;
+    const urls = [
+      `https://${host}/wp-json/wp/v2/posts?${q}`,
+      `https://${host}/?rest_route=/wp/v2/posts&${q}`,
+    ];
     try {
-      const r = await fetch(url, { headers: { 'User-Agent': UA } });
-      if (!r.ok) throw new Error(String(r.status));
-      for (const p of await r.json()) {
+      let rows = null;
+      let last = '';
+      for (const u of urls) {
+        try {
+          const r = await fetch(u, { headers: { 'User-Agent': UA } });
+          if (!r.ok) { last = String(r.status); continue; }
+          if (!/json/i.test(r.headers.get('content-type') ?? '')) { last = 'JSONでない'; continue; }
+          const j = await r.json();
+          if (Array.isArray(j)) { rows = j; break; }
+          last = 'JSONでない';
+        } catch (e) { last = e.message; }
+        await sleep(DELAY_MS);
+      }
+      if (!rows) throw new Error(last || '取得できない');
+      for (const p of rows) {
         items.push({
           id: p.id,
           url: p.link,

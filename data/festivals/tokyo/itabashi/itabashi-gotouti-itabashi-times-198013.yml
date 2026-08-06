@@ -9,13 +9,15 @@ area:
 venue:
   name: 中板橋商店街
   address: null
-  lat: null
-  lng: null
+  lat: 35.755984
+  lng: 139.69779
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.nakaita.com/
 occurrences:
   - year: 2026
     dates:

@@ -32,7 +32,7 @@ const ROWS = [
     name: 'みどりサマーフェスタ（第16回）', kind: '夏祭り',
     venue: 'みどり市内', scale: '市', dates: ['2026-08-29'] },
 
-  { ...g('太田市', 'ota'), slug: 'ojima-neputa',
+  { ...g('太田市', 'ota-gunma'), slug: 'ojima-neputa',
     name: '尾島ねぷたまつり', kind: '夏祭り',
     venue: '尾島地区', scale: '地区', tags: ['ねぷた', '山車'],
     dates: ['2026-08-14', '2026-08-15'] },

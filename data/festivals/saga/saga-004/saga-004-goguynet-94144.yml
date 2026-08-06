@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 佐賀城下栄の国まつり | 佐賀市公式ホームページ
+    url: https://www.city.saga.lg.jp/main/90584.html
 occurrences:
   - year: 2026
     dates:

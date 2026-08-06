@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 東急歌舞伎町タワー(東京都新宿区歌舞伎町1-29-1)
-  address: null
+  address: 新宿区歌舞伎町1-29-1
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.tokyu-kabukicho-tower.jp/
 occurrences:
   - year: 2026
     dates:

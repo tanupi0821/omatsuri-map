@@ -8,14 +8,16 @@ area:
   ward: 港北区
 venue:
   name: 港北区内
-  address: null
+  address: 横浜市港北区箕輪町2-5-3
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: プリーズコミュニティ公式サイト
+    url: https://please-community.com/
 occurrences:
   - year: 2026
     dates:

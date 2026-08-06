@@ -9,8 +9,8 @@ area:
 venue:
   name: 伊勢崎オートレース
   address: 伊勢崎市宮子町3074
-  lat: null
-  lng: null
+  lat: 36.334839
+  lng: 139.164265
 organizer: null
 stalls: yes
 tags: []

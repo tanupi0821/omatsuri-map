@@ -9,8 +9,8 @@ area:
 venue:
   name: 明石公園
   address: null
-  lat: null
-  lng: null
+  lat: 34.647933
+  lng: 134.994148
 organizer: null
 stalls: yes
 tags: []

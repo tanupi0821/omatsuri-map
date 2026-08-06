@@ -9,8 +9,8 @@ area:
 venue:
   name: 南部町ふれあい公園
   address: null
-  lat: null
-  lng: null
+  lat: 40.464946
+  lng: 141.38009
 organizer: null
 stalls: unknown
 tags: []

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 20:30
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/07/23/fujimaturi-3/
     source_name: 号外NET 富士市・富士宮市

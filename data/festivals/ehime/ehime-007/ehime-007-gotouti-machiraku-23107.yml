@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 松山ロープウェー商店街
-  address: null
-  lat: null
-  lng: null
+  address: 松山市大街道3丁目
+  lat: 33.843259
+  lng: 132.769114
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 本八幡駅南口ロータリー
   address: null
-  lat: null
-  lng: null
+  lat: 35.721332
+  lng: 139.925956
 organizer: null
 stalls: unknown
 tags: []

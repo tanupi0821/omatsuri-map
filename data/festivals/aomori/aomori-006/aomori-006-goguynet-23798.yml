@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 館鼻漁港
-  address: null
+  address: 八戸市新湊3丁目
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hachinohe.goguynet.jp/2026/06/26/hachinohehanabi/
     source_name: 号外NET 八戸市（三八）

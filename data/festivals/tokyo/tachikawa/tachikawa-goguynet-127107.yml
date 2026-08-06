@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: IKEA【公式
+    url: https://www.ikea.com/jp/ja/stores/tachikawa/sale/
 occurrences:
   - year: 2026
     dates:

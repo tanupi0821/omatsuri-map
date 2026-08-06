@@ -9,8 +9,8 @@ area:
 venue:
   name: 区立前津公園
   address: 葛飾区亀有2-51
-  lat: null
-  lng: null
+  lat: 35.761829
+  lng: 139.848005
 organizer: null
 stalls: yes
 tags: []

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 北九州市内
-  address: null
+  address: 北九州市若松区東二島3-26
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市のホームページ
+    url: https://www.city.kitakyushu.lg.jp/wakamatsu/file_0034.html
 occurrences:
   - year: 2026
     dates:

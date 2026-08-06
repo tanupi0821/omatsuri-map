@@ -11,17 +11,19 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 東久留米駅前商店会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 駅前夏祭りの詳細はこちら（東久留米駅前商店会 ホームページ
+    url: https://higashikurume.net/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 21:00
     status: confirmed
     source_url: https://higashikurume-kiyose.goguynet.jp/2026/07/29/202607ekimaematuri/
     source_name: 号外NET 東久留米市・清瀬市

@@ -9,8 +9,8 @@ area:
 venue:
   name: 関宿ふれあい広場（宝珠花橋下・江戸川河川敷）
   address: null
-  lat: null
-  lng: null
+  lat: 36.030722
+  lng: 139.816373
 organizer: null
 stalls: yes
 tags: []

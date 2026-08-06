@@ -62,7 +62,7 @@ emit([
     name: '前橋花火大会（第70回）', kind: '花火',
     venue: '利根川河畔 大渡橋南北河川緑地', scale: '市', station: '前橋',
     dates: ['2026-08-08'] },
-  { city: '太田市', citySlug: 'ota', slug: 'nitta-matsuri-hanabi',
+  { city: '太田市', citySlug: 'ota-gunma', slug: 'nitta-matsuri-hanabi',
     name: '新田まつり花火大会（第37回）', kind: '花火',
     venue: '新田陸上競技場', scale: '市', dates: ['2026-08-08'] },
   { city: '甘楽町', citySlug: 'kanra', slug: 'kanra-hanabi',

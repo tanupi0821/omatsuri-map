@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:00
     status: confirmed
     source_url: https://ichi-24.jp/archives/55502
     source_name: 市川にゅ～す

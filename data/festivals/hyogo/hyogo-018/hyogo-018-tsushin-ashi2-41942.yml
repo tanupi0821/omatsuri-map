@@ -15,14 +15,16 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 精道コミスク公式ホームページ
+    url: https://komisuku.jimdofree.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:30
+    end_time: 19:00
     status: confirmed
     source_url: https://ashi2.jp/41942/
     source_name: 芦屋つーしん

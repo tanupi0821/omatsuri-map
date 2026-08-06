@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 我孫子市内
-  address: null
+  address: 我孫子市我孫子4丁目11-1
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 18:00
     status: confirmed
     source_url: https://abiko.goguynet.jp/2026/07/25/yukatakitsuke/
     source_name: 号外NET 我孫子市

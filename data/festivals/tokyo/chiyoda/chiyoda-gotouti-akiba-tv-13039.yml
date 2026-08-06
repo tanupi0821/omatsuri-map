@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式クラウドファンディング
+    url: https://camp-fire.jp/projects/929487/view&argument=33pKQw5N&dmai=a5d5b96bb47f7b&rtbhc=dkTFFrWZN_vmPI46cJN9LjaSXPUwx6nvqnFMaFtIMF4.929487.1773897829263.0.TUORVrKIB0osQ1em4QYJ
 occurrences:
   - year: 2026
     dates:

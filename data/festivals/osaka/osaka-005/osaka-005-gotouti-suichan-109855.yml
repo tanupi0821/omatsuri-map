@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 藤白台小学校（大阪府吹田市藤白台3丁目3-3-1）
-  address: null
-  lat: null
-  lng: null
+  address: 吹田市藤白台3丁目3-3-1
+  lat: 34.819393
+  lng: 135.512808
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 吹田市HP
+    url: https://www.city.suita.osaka.jp/_res/projects/default_project/_page_/001/044/761/fujishirobonodori2026.png
+  - title: 藤白台のホームページ
+    url: http://fujishirodai.com/e794677.html
 occurrences:
   - year: 2026
     dates:

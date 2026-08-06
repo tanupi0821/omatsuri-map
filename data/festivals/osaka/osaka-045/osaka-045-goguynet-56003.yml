@@ -9,13 +9,15 @@ area:
 venue:
   name: 辯天宗
   address: null
-  lat: null
-  lng: null
+  lat: 34.825616
+  lng: 135.548901
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://ibaraki-bentenhanabi.com/
 occurrences:
   - year: 2026
     dates:

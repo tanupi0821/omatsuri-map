@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 常盤平さくらまつり 公式サイト
+    url: https://sakuramatsuri.jp
 occurrences:
   - year: 2026
     dates:

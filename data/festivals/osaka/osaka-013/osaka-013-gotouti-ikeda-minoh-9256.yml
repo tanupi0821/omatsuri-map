@@ -9,8 +9,8 @@ area:
 venue:
   name: サカエマチ商店街
   address: null
-  lat: null
-  lng: null
+  lat: 34.822819
+  lng: 135.424813
 organizer: null
 stalls: unknown
 tags: []

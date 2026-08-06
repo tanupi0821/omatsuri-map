@@ -9,8 +9,8 @@ area:
 venue:
   name: さぬき市役所裏
   address: null
-  lat: null
-  lng: null
+  lat: 34.325212
+  lng: 134.169414
 organizer: null
 stalls: unknown
 tags: []

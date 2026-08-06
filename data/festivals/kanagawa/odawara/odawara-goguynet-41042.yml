@@ -15,7 +15,11 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 小田原市観光協会の公式サイト
+    url: https://www.odawara-kankou.com/hanabi/ticket.html
+  - title: 小田原市の公式サイト
+    url: https://www.city.odawara.kanagawa.jp/press/detail.php?prs_id=5863
 occurrences:
   - year: 2026
     dates:

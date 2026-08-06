@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 所沢市内
-  address: null
+  address: 所沢市御幸町1-22
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-10
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://tokorozawanavi.com/event-tokotoko_tower_fes20260428/
     source_name: 所沢なび

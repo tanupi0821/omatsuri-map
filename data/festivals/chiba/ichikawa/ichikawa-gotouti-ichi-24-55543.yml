@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 行徳南部公園（市川市幸2-4）
-  address: null
-  lat: null
-  lng: null
+  address: 市川市幸2-4
+  lat: 35.678866
+  lng: 139.925726
 organizer: 幸二丁目自治会
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://ichi-24.jp/archives/55543
     source_name: 市川にゅ～す

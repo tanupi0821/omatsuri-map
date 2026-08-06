@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 岩殿観音正法寺・参道
-  address: null
-  lat: null
-  lng: null
+  address: 東松山市岩殿1229
+  lat: 36.001385
+  lng: 139.359762
 organizer: null
 stalls: unknown
 tags: []

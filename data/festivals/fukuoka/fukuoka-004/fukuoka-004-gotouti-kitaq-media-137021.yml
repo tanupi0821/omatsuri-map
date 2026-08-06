@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 北九州市内
-  address: null
+  address: 北九州市小倉北区浅野3-8-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市立子育てふれあい交流プラザ 元気のもりのホームページ
+    url: https://www.kosodate-fureai.jp/event
 occurrences:
   - year: 2026
     dates:

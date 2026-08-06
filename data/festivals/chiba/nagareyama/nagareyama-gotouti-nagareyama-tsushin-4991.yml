@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 白みりんミュージアム
-  address: null
-  lat: null
-  lng: null
+  address: 流山市流山3-358-1
+  lat: 35.85284
+  lng: 139.8984
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://shiro-mirin.com/museum/
 occurrences:
   - year: 2026
     dates:

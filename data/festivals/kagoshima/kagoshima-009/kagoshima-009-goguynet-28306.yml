@@ -9,8 +9,8 @@ area:
 venue:
   name: 姶良市役所周辺
   address: 姶良市宮島町25
-  lat: null
-  lng: null
+  lat: 31.728438
+  lng: 130.627193
 organizer: null
 stalls: yes
 tags: []

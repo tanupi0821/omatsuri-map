@@ -9,8 +9,8 @@ area:
 venue:
   name: 八ケ崎公園
   address: 松戸市八ヶ崎6-54-54
-  lat: null
-  lng: null
+  lat: 35.808938
+  lng: 139.924236
 organizer: null
 stalls: yes
 tags: []

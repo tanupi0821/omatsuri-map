@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: イオンモール羽生
-  address: null
-  lat: null
-  lng: null
+  address: 羽生市川崎2-281-3
+  lat: 36.144211
+  lng: 139.528797
 organizer: null
 stalls: yes
 tags: []

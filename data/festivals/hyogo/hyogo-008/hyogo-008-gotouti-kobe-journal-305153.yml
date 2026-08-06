@@ -9,13 +9,15 @@ area:
 venue:
   name: コウノトリ但馬空港
   address: null
-  lat: null
-  lng: null
+  lat: 35.336235
+  lng: 134.558545
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式Instagram
+    url: https://www.instagram.com/ennichi_41/
 occurrences:
   - year: 2026
     dates:

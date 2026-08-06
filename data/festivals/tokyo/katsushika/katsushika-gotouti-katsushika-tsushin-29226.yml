@@ -9,8 +9,8 @@ area:
 venue:
   name: 西水元宮田公園
   address: 葛飾区西水元5-3-11
-  lat: null
-  lng: null
+  lat: 35.784958
+  lng: 139.851051
 organizer: null
 stalls: unknown
 tags: []

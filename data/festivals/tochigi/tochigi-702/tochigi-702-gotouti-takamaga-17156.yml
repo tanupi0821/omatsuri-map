@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 原公民館（栃木県塩谷郡高根沢町石末１９５３−１）
-  address: null
-  lat: null
-  lng: null
+  address: 高根沢町石末1953-1
+  lat: 36.634837
+  lng: 139.995776
 organizer: null
 stalls: unknown
 tags: []

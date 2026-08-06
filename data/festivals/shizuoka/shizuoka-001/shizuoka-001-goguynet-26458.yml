@@ -9,8 +9,8 @@ area:
 venue:
   name: 蓮華寺池公園
   address: 藤枝市若王子474-1
-  lat: null
-  lng: null
+  lat: 34.875114
+  lng: 138.250685
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 20:30
     status: confirmed
     source_url: https://fujieda-yaizu.goguynet.jp/2026/06/17/fujiedahanabitaikai/
     source_name: 号外NET 藤枝市・焼津市・島田市

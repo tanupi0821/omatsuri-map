@@ -9,8 +9,8 @@ area:
 venue:
   name: AGEO
   address: null
-  lat: null
-  lng: null
+  lat: 35.964593
+  lng: 139.598037
 organizer: null
 stalls: yes
 tags: []

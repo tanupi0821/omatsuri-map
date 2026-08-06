@@ -9,8 +9,8 @@ area:
 venue:
   name: せせらぎホール坂戸
   address: null
-  lat: null
-  lng: null
+  lat: 35.968375
+  lng: 139.407576
 organizer: null
 stalls: yes
 tags: []

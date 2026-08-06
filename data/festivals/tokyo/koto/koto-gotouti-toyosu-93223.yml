@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: はがき（宛先などは公式サイトで確認
+    url: https://koto-hanabi.com/ticket
 occurrences:
   - year: 2026
     dates:

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 丸之内ヘリオス2000丸亀駐車場
-  address: null
-  lat: null
-  lng: null
+  address: 丸亀市金倉町176-10
+  lat: 34.259379
+  lng: 133.777219
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 丸之内ヘリオス 公式サイト
+    url: https://www.maruheli.com/
 occurrences:
   - year: 2026
     dates:
