@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 相模原市中央区
+    url: https://sagamiharachuoku.goguynet.jp/2026/07/31/gooday-place-sagamihara/
 occurrences:
   - year: 2026
     dates:

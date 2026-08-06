@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 千葉市
+    url: https://chiba.goguynet.jp/2026/04/29/makuharikaihinkoen/
 occurrences:
   - year: 2026
     dates:

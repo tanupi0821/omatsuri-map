@@ -178,8 +178,10 @@ for (const [key, rawItems] of groups) {
    * 青葉区の「夏祭り」と港南区の「夏祭り」は無関係。
    * 名前が総称のときにこれが効く。
    */
+  // ただし出典 URL が同じ組は別。区を市として扱っていた頃の版と、
+  // 市＋区で持つ版が並んでいるだけなので、区が違って見えても同じ祭り
   const wards = new Set(items.map((x) => x.f.area?.ward ?? ''));
-  if (wards.size > 1) continue;
+  if (!sourceKeys.has(key) && wards.size > 1) continue;
 
   /**
    * **会場が食い違う組は統合しない。**
