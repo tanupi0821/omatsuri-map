@@ -1,0 +1,29 @@
+id: chiba-011-gotouti-jimoharu-23174
+name: 上総いちはら国府祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: 市原市
+  ward: null
+venue:
+  name: 上総更級公園・上総大路・アリオ市原内サンシャインコート（屋外）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://jimoharu.net/%e7%ac%ac13%e5%9b%9e%e4%b8%8a%e7%b7%8f%e3%81%84%e3%81%a1%e3%81%af%e3%82%89%e5%9b%bd%e5%ba%9c%e7%a5%ad%e3%82%8a%e3%80%90%e5%b8%82%e5%8e%9f%e5%b8%82%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%91/
+    source_name: ジモはる
+    source_type: media
+    checked_at: 2026-08-06

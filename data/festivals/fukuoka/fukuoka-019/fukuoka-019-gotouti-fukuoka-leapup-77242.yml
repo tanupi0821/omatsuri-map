@@ -1,0 +1,29 @@
+id: fukuoka-019-gotouti-fukuoka-leapup-77242
+name: アニバーサリーフェスタ
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: null
+venue:
+  name: 感」
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: 10:30
+    end_time: 17:00
+    status: confirmed
+    source_url: https://fukuoka-leapup.jp/city/202604.77242
+    source_name: フクリパ
+    source_type: media
+    checked_at: 2026-08-06

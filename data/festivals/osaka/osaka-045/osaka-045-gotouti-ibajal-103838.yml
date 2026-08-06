@@ -1,0 +1,29 @@
+id: osaka-045-gotouti-ibajal-103838
+name: 春のお祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 茨木市
+  ward: null
+venue:
+  name: 新屋坐天照御魂神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ibajal.com/event/20260504wadaiko/
+    source_name: 茨木ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

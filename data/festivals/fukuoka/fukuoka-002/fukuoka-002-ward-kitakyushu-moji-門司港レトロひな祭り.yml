@@ -7,7 +7,7 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
+  name: 三宜楼・旧門司税関・栄町銀天街ほか門司港レトロ地区
   address: null
   lat: null
   lng: null
@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 福岡県公式観光サイト 門司港レトロひなまつり
+    url: https://www.crossroadfukuoka.jp/event/11461
 occurrences:
   - year: 2026
     dates:

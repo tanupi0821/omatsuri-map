@@ -1,0 +1,32 @@
+id: fukui-011-summer-ar0518e4801
+name: 永平寺町大燈籠ながし
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福井県
+  city: 吉田郡永平寺町
+  ward: null
+venue:
+  name: 九頭竜川左岸および永平寺河川公園
+  address: 吉田郡永平寺町谷口
+  lat: 36.09454
+  lng: 136.335611
+organizer: 永平寺町大燈籠ながし実行委員会事務局
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://toronagashi.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0518e4801/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: えちぜん鉄道永平寺口駅から徒歩15分または下志比駅から徒歩10分

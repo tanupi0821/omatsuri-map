@@ -7,8 +7,8 @@ area:
   city: 五所川原市
   ward: null
 venue:
-  name: 五所川原市内中心部
-  address: 五所川原市
+  name: 五所川原市中心部（立佞武多の館前ほか約1.3kmを巡回）
+  address: 五所川原市大町506-10
   lat: 40.810926
   lng: 140.443222
 organizer: 五所川原市観光協会
@@ -22,13 +22,16 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
+      - 2026-08-07
       - 2026-08-08
     start_time: 19:00
-    end_time: null
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e41477/
     source_name: 夏休みおでかけガイド2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR五所川原駅から徒歩5分
+    checked_at: 2026-08-06
+    note: 8月4日（火）〜8日（土）の5日間、毎晩19:00から。高さ約23mの大型立佞武多3台、中型5台、組ねぷた7台が市内中心部約1.3kmを巡回する。データは端の2日しか持っていなかったので、今の出典の詳細ページから5日間を入れ直した。五所川原市観光協会のサイトは証明書のホスト名が合わず読めなかったため出典は据え置き
+station: JR五能線 五所川原駅（徒歩2分の旧ロータリー交差点がスタート地点）

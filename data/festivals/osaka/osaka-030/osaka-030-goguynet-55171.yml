@@ -7,8 +7,8 @@ area:
   city: 大阪市鶴見区
   ward: null
 venue:
-  name: 大阪市鶴見区内
-  address: null
+  name: フィットネスクラブ コ・ス・パ 鶴見緑地24
+  address: 大阪市鶴見区
   lat: null
   lng: null
 organizer: null
@@ -19,7 +19,6 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-23
       - 2026-07-30
     start_time: 11:00
     end_time: 13:00
@@ -27,4 +26,5 @@ occurrences:
     source_url: https://tsurumi-joto.goguynet.jp/2026/07/19/cospa-2/
     source_name: 号外NET 大阪市鶴見区・城東区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月30日（木）11:00〜13:00の1日だけ。データにあった7月23日は誤り

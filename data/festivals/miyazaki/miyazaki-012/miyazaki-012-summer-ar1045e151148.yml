@@ -1,0 +1,37 @@
+id: miyazaki-012-summer-ar1045e151148
+name: 西都夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 宮崎県
+  city: 西都市
+  ward: null
+venue:
+  name: 西都市中心市街地
+  address: 西都市
+  lat: 32.106648
+  lng: 131.40443
+organizer: 西都夏まつり振興会（西都商工会議所内）
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.saito-kanko.jp/tourisms/%E8%A5%BF%E9%83%BD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E3%81%95%E3%81%84%E3%81%A8%E3%81%AA%E3%81%A4%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89/
+  - title: ほんみや
+    url: https://www.miyazakihonto.com/2026/07/16/saito-summer-festival-2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+      - 2026-07-19
+    start_time: 18:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://www.saito-kanko.jp/tourisms/%E8%A5%BF%E9%83%BD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E3%81%95%E3%81%84%E3%81%A8%E3%81%AA%E3%81%A4%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89/
+    source_name: 西都市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: まとめサイトは初日と最終日の2日分しか載せていなかった
+station: JR佐土原駅からバスで約30分、御舟通り停留所下車すぐ

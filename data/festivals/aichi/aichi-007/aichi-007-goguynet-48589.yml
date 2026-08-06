@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 岡崎城公園
-  address: 岡崎市康生町515
+  address: 岡崎市康生町561-1
   lat: null
   lng: null
 organizer: null
@@ -20,6 +20,9 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-02
+      - 2026-05-03
+      - 2026-05-04
+      - 2026-05-05
       - 2026-05-06
     start_time: 10:00
     end_time: 20:00
@@ -27,4 +30,5 @@ occurrences:
     source_url: https://okazaki.goguynet.jp/2026/04/29/goldenlanternfesta202605/
     source_name: 号外NET 岡崎市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 5月2日（土）〜6日（水・休）の5日間、各日10:00〜20:00（ランタンの打ち上げは19:10頃）。データは端の2日しか持っていなかった

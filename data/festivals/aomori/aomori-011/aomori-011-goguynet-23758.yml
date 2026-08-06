@@ -1,0 +1,30 @@
+id: aomori-011-goguynet-23758
+name: ジャックドまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 青森県
+  city: 南部町
+  ward: null
+venue:
+  name: 南部町ふれあい公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hachinohe.goguynet.jp/2026/06/23/jacked/
+    source_name: 号外NET 八戸市（三八）
+    source_type: media
+    checked_at: 2026-08-04

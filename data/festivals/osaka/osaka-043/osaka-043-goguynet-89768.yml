@@ -1,0 +1,30 @@
+id: osaka-043-goguynet-89768
+name: こども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 枚方市
+  ward: null
+venue:
+  name: 枚方市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-04
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hirakata.goguynet.jp/2026/05/01/parucoop/
+    source_name: 号外NET 枚方市
+    source_type: media
+    checked_at: 2026-08-04

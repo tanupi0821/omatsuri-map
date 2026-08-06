@@ -1,0 +1,33 @@
+id: kumamoto-026-summer-ar1043e153031
+name: ヒゴタイ祭2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 熊本県
+  city: 阿蘇郡産山村
+  ward: null
+venue:
+  name: UBUYAMA PLACE
+  address: 阿蘇郡産山村山鹿2100-3
+  lat: 32.988585
+  lng: 131.19702
+organizer: 産山村商工会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.ubuyama-v.jp/index.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:00
+    end_time: 21:00
+    status: postponed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1043e153031/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 出典に「延期」と記載
+station: JR宮地駅からバスで約25分、ほっと館入口停留所下車徒歩10分

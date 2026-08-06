@@ -7,28 +7,33 @@ area:
   city: 函館市
   ward: null
 venue:
-  name: 函館市内一円
-  address: 函館市
+  name: 函館駅前・五稜郭公園前電停付近・はこだてグリーンプラザ沿道
+  address: 函館市若松町
   lat: 41.773269
   lng: 140.727699
-organizer: 函館港まつり実行委員会
+organizer: 函館港まつり実行委員会（函館国際観光コンベンション協会内）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.hakodate-minatomatsuri.org/
+  - title: はこぶら（函館市公式観光情報）函館港まつり（パレードなど）
+    url: https://www.hakobura.jp/events/355
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
       - 2026-08-05
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74650/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR函館駅から徒歩すぐ
+    source_url: https://www.hakobura.jp/events/355
+    source_name: 函館市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 8月1日（土）〜5日（水）の5日間。1日は第71回道新花火大会（19:45〜、雨天時は5日に延期）で開幕。2日は「ワッショイはこだて」十字街・松風コース（豊川町〜函館駅前〜松風町、約1.4km）、3日は千代台・五稜郭コース（千代台町〜本町〜五稜郭町、約1km）。4日・5日は予備日。期間中は露店が出る。データは端の2日しか持っていなかった
+station: JR函館駅

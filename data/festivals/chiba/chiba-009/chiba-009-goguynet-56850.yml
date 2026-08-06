@@ -1,0 +1,29 @@
+id: chiba-009-goguynet-56850
+name: 髙瀧神社 春季例祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 市原市
+  ward: null
+venue:
+  name: 市原市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichihara.goguynet.jp/2026/04/09/419haru_m/
+    source_name: 号外NET 市原市
+    source_type: media
+    checked_at: 2026-08-04

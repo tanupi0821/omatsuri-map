@@ -1,0 +1,29 @@
+id: aomori-011-goguynet-23969
+name: 南部まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 青森県
+  city: 南部町
+  ward: null
+venue:
+  name: 旧向小学校
+  address: 南部町大向飛鳥20-2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 14:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hachinohe.goguynet.jp/2026/07/25/nanbu/
+    source_name: 号外NET 八戸市（三八）
+    source_type: media
+    checked_at: 2026-08-04

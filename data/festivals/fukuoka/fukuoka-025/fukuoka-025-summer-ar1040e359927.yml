@@ -1,0 +1,47 @@
+id: fukuoka-025-summer-ar1040e359927
+name: はかた夏まつり2026
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 福岡市博多区
+  ward: null
+venue:
+  name: JR博多駅前広場
+  address: 福岡市博多区博多駅中央街1-1
+  lat: 33.589849
+  lng: 130.419989
+organizer: はかた夏まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://natumaturi.jp/
+  - title: 号外NET 福岡市博多区
+    url: https://fukuokahakata.goguynet.jp/2026/07/28/hakatanatumaturi2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+      - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: 17:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://natumaturi.jp/
+    source_name: はかた夏まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月4日から16日まで13日間、休みなしで毎日開催（ラストオーダー21:45）。初日は打ち水のイベントがある
+station: JR博多駅

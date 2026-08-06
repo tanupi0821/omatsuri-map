@@ -1,0 +1,34 @@
+id: aichi-025-summer-ar0623e74962
+name: 尾張津島天王祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 天王川公園
+  address: 津島市宮川町1丁目地内外
+  lat: 35.175051
+  lng: 136.721726
+organizer: 愛知県津島市観光協会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://tsushima-kankou.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74962/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: 名鉄津島駅から徒歩20分

@@ -1,0 +1,34 @@
+id: chiba-015-hanabi-ar0312e44006
+name: 栄町町制70周年記念事業 SAKAEリバーサイド・フェスティバル
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 印旛郡栄町
+  ward: null
+venue:
+  name: 利根川河川敷特設会場(栄町消防署前)
+  address: 印旛郡栄町生板鍋子新田
+  lat: 35.853257
+  lng: 140.230002
+organizer: SAKAE リバーサイド・フェスティバル実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.sakae.chiba.jp/page/dir000044.html
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e44006/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR安食駅から徒歩35分

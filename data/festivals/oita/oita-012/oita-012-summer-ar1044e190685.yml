@@ -1,0 +1,34 @@
+id: oita-012-summer-ar1044e190685
+name: 臼杵天神夏祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大分県
+  city: 臼杵市
+  ward: null
+venue:
+  name: 福良天満宮
+  address: 臼杵市福良211
+  lat: 33.115621
+  lng: 131.794661
+organizer: 福良天満宮
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://fukuragu.jp/wp/event/event07
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-26
+    start_time: 10:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1044e190685/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR上臼杵駅から徒歩5分

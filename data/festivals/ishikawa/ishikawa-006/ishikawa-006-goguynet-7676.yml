@@ -1,0 +1,29 @@
+id: ishikawa-006-goguynet-7676
+name: 子ども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 石川県
+  city: 野々市市
+  ward: null
+venue:
+  name: 野々市市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-27
+    start_time: 10:30
+    end_time: 14:00
+    status: confirmed
+    source_url: https://hakusan-nomi-nonoichi.goguynet.jp/2026/06/22/tanabata-2/
+    source_name: 号外NET 白山市・能美市・野々市市
+    source_type: media
+    checked_at: 2026-08-04

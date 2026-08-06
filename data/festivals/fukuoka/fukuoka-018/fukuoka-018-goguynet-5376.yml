@@ -1,0 +1,29 @@
+id: fukuoka-018-goguynet-5376
+name: 奥之宮 不動神社 夏季大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福津市
+  ward: null
+venue:
+  name: 福津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://munakata-fukutsu-koga.goguynet.jp/2026/07/24/miyajidakejina-okunomiyafudoujinja-kakitaisai2026/
+    source_name: 号外NET 宗像市・福津市・古賀市
+    source_type: media
+    checked_at: 2026-08-04

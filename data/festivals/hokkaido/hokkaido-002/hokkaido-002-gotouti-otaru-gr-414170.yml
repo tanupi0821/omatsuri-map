@@ -7,15 +7,17 @@ area:
   city: 小樽市
   ward: null
 venue:
-  name: 小樽市内
-  address: null
+  name: 水天宮
+  address: 小樽市相生町3-1
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: おたるぽーたる（小樽観光協会）令和8年度 小樽市内 神社の例大祭情報（一覧）
+    url: https://otaru.gr.jp/citizen/2026-shrine-festival
 occurrences:
   - year: 2026
     dates:
@@ -25,7 +27,9 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://otaru.gr.jp/tourist/otarusuitenguutagareosai6-14-16
-    source_name: 小樽通
-    source_type: media
+    source_url: https://otaru.gr.jp/citizen/2026-shrine-festival
+    source_name: 小樽観光協会
+    source_type: official
     checked_at: 2026-08-06
+    note: 6月14日（日）〜16日（火）の3日間。小樽三大まつりのひとつ
+shrine: 水天宮

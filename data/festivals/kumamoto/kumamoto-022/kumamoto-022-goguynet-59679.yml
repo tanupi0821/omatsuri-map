@@ -1,0 +1,31 @@
+id: kumamoto-022-goguynet-59679
+name: 清正公夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 熊本県
+  city: 熊本市
+  ward: null
+venue:
+  name: 加藤神社境内
+  address: null
+  lat: 32.807132
+  lng: 130.702757
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: https://www.kato-jinja.or.jp/%e3%80%907-25%e5%9c%9f%e9%96%8b%e5%82%ac%e3%80%91%e6%b8%85%e6%ad%a3%e5%85%ac%e5%a4%9c%e5%b8%82%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-%e2%80%95/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kumamotochuo-higashi.goguynet.jp/2026/07/21/katojinjya-2/
+    source_name: 号外NET 熊本市
+    source_type: media
+    checked_at: 2026-08-04

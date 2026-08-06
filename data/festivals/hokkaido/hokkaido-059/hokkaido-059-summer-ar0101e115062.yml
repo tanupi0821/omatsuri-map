@@ -1,0 +1,33 @@
+id: hokkaido-059-summer-ar0101e115062
+name: 第47回 新しのつ青空まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 石狩郡新篠津村
+  ward: null
+venue:
+  name: 自治センター前および歩行者天国
+  address: 石狩郡新篠津村第46線北12
+  lat: 43.223671
+  lng: 141.647325
+organizer: 実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.vill.shinshinotsu.hokkaido.jp/visit/detail/00002472.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 10:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.vill.shinshinotsu.hokkaido.jp/visit/detail/00002472.html
+    source_name: 新篠津村
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 時刻は村のページに記載がなく、以前の発表による
+station: JR上幌向駅からバスで新篠津下車、徒歩2分

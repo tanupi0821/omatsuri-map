@@ -1,0 +1,29 @@
+id: chiba-001-goguynet-50229
+name: 第一回 あひるSHOP夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 白井市
+  ward: null
+venue:
+  name: 白井市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/07/31/ahirushopnatsumatsuri2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-08-04

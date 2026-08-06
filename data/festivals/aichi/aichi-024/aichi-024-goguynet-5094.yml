@@ -1,0 +1,30 @@
+id: aichi-024-goguynet-5094
+name: HASUパ 初夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 愛西市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ama-tsushima-aisai.goguynet.jp/2026/06/05/hasupa-shokamatsuri/
+    source_name: 号外NET あま市・津島市・愛西市
+    source_type: media
+    checked_at: 2026-08-04

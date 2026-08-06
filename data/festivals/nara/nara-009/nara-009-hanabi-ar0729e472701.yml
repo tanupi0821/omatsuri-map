@@ -1,0 +1,33 @@
+id: nara-009-hanabi-ar0729e472701
+name: 令和8年 第18回 平維盛の大祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 奈良県
+  city: 吉野郡野迫川村
+  ward: null
+venue:
+  name: 平維盛歴史の里
+  address: 吉野郡野迫川村大字平
+  lat: 34.113302
+  lng: 135.644941
+organizer: 平維盛の大祭実行委員会事務局
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://yamatoji.nara-kankou.or.jp/02nature/07park/04south_area/tairanokoremorirekishinosato/event/76f9h4rjpl
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0729e472701/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 南海電鉄高野山駅からタクシーで約50分

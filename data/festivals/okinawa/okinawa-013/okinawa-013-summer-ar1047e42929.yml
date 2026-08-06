@@ -1,0 +1,33 @@
+id: okinawa-013-summer-ar1047e42929
+name: 第27回 いぜな尚円王まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 沖縄県
+  city: 島尻郡伊是名村
+  ward: null
+venue:
+  name: 臨海ふれあい公園
+  address: 島尻郡伊是名村字諸見
+  lat: 26.931046
+  lng: 127.953347
+organizer: いぜな尚円王まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://izena-fes.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: 09:00
+    end_time: 22:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1047e42929/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日

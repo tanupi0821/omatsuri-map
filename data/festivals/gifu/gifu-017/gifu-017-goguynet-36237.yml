@@ -1,0 +1,29 @@
+id: gifu-017-goguynet-36237
+name: 御嵩薬師祭礼
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 御嵩町
+  ward: null
+venue:
+  name: 御嵩町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/04/04/20260405/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-08-04

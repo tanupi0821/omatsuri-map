@@ -1,0 +1,34 @@
+id: hokkaido-079-summer-ar0101e511037
+name: 第72回 もんべつ港まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 紋別市
+  ward: null
+venue:
+  name: 紋別市旧駅前通り周辺
+  address: 紋別市幸町、本町、港町
+  lat: 44.352483
+  lng: 143.353855
+organizer: もんべつ港まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://tic.mombetsu.net/port-fes/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e511037/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR遠軽駅からバス紋別バスターミナル停留所下車、徒歩5分

@@ -1,0 +1,34 @@
+id: ehime-010-summer-ar0938e510127
+name: 第67回 内子笹まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛媛県
+  city: 喜多郡内子町
+  ward: null
+venue:
+  name: 内子本町通り商店街
+  address: 喜多郡内子町内子
+  lat: 33.551838
+  lng: 132.651983
+organizer: 内子笹まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.we-love-uchiko.jp/event/sasa_fes/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+      - 2026-08-07
+    start_time: 08:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0938e510127/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR内子駅から徒歩10分

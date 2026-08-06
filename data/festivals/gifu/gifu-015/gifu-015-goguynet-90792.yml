@@ -1,0 +1,45 @@
+id: gifu-015-goguynet-90792
+name: 道三まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 岐阜市
+  ward: null
+venue:
+  name: 岐阜市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-04
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://gifu.goguynet.jp/2026/04/03/dousan_2026/
+    source_name: 号外NET 岐阜市（岐阜地域）
+    source_type: media
+    checked_at: 2026-08-04
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jurinzan_J%C5%8Dzai-ji_Temple_20220403_02.jpg/1280px-Jurinzan_J%C5%8Dzai-ji_Temple_20220403_02.jpg
+    width: 1000
+    height: 750
+    credit: 先従隗始
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Jurinzan_J%C5%8Dzai-ji_Temple_20220403_02.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jurinzan_J%C5%8Dzai-ji_Temple_20220403_01.jpg/1280px-Jurinzan_J%C5%8Dzai-ji_Temple_20220403_01.jpg
+    width: 1000
+    height: 750
+    credit: 先従隗始
+    license: CC0
+    license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+    source: https://commons.wikimedia.org/wiki/File:Jurinzan_J%C5%8Dzai-ji_Temple_20220403_01.jpg

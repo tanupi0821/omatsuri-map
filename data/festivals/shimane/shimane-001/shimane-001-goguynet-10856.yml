@@ -7,8 +7,8 @@ area:
   city: 安来市
   ward: null
 venue:
-  name: 安来港
-  address: null
+  name: 安来港・安来町地内・安来市街地各会場
+  address: 安来市安来町
   lat: null
   lng: null
 organizer: null
@@ -21,10 +21,14 @@ occurrences:
     dates:
       - 2026-08-08
       - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+      - 2026-08-17
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://matsue-yasugi.goguynet.jp/2026/07/25/yasugitsukinowamatsuri/
     source_name: 号外NET 松江市・安来市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月8日（土）が花火大会（20:08〜20:30・安来港）、8月14日（金）〜17日（月）が月の輪神事と自治会ステージイベント。月の輪ナイト・月の輪マルシェは16:00〜21:00。データは8月8日と14日しか持っていなかった

@@ -7,23 +7,29 @@ area:
   city: 小樽市
   ward: null
 venue:
-  name: 小樽市内
-  address: null
+  name: 龍宮神社
+  address: 小樽市稲穂3丁目22-11
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: おたるぽーたる（小樽観光協会）令和8年度 小樽市内 神社の例大祭情報（一覧）
+    url: https://otaru.gr.jp/citizen/2026-shrine-festival
 occurrences:
   - year: 2026
     dates:
+      - 2026-06-20
       - 2026-06-21
+      - 2026-06-22
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://otaru.gr.jp/tourist/rilyuuguuzinzilyareiteisai6-20-22
-    source_name: 小樽通
-    source_type: media
+    source_url: https://otaru.gr.jp/citizen/2026-shrine-festival
+    source_name: 小樽観光協会
+    source_type: official
     checked_at: 2026-08-06
+    note: 6月20日（土）〜22日（月）の3日間。データは21日しか持っていなかった。水天宮・住吉神社とあわせて小樽三大まつりのひとつ
+shrine: 龍宮神社

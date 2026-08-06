@@ -1,0 +1,29 @@
+id: tochigi-703-gotouti-tochigi-seeds-8962
+name: えかんべ祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 栃木県
+  city: 塩谷町
+  ward: null
+venue:
+  name: 塩谷町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tochigi-seeds.com/%e3%81%88%e3%81%8b%e3%82%93%e3%81%b9%e7%a5%ad2026/
+    source_name: 栃木のしゅし
+    source_type: media
+    checked_at: 2026-08-06

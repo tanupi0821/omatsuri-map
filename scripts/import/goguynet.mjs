@@ -90,6 +90,15 @@ const generated = new Map(); // prefSlug -> {pref, cities:[{name,slug}]}
 const seq = new Map();
 
 /**
+ * **既に使われている slug を覚えておく。**
+ *
+ * これを見ずに毎回 001 から振り直していたため、実行のたびに別の市が同じ
+ * 連番を取り、**147 組・1,059 件の祭りが別の市と同じ URL に同居していた**
+ * （`/a/aichi/aichi-007/` に西尾市と岡崎市が混ざっていた）。
+ */
+const usedSlugs = new Set(loadAreaList(ROOT).map((a) => a.slug));
+
+/**
  * 題名の【】は書き方が揺れる。
  *   「東京都北区」→「北区」、「川崎市多摩区」→ 区として引く
  */
@@ -129,9 +138,20 @@ function create(city, prefLabel) {
 
   const p = byName(prefLabel);
   if (!p) return null;
-  const n = (seq.get(p.slug) ?? 0) + 1;
-  seq.set(p.slug, n);
-  const slug = citySlug(city) ?? `${p.slug}-${String(n).padStart(3, '0')}`;
+
+  // 読める slug（romaji.mjs にあるもの）を優先する。
+  // ただし他の市が既に使っていたら使えない（利島村と豊島区がどちらも
+  // toshima になる、といった衝突が実在する）
+  let slug = citySlug(city);
+  if (!slug || usedSlugs.has(slug)) {
+    let n = seq.get(p.slug) ?? 0;
+    do {
+      n += 1;
+      slug = `${p.slug}-${String(n).padStart(3, '0')}`;
+    } while (usedSlugs.has(slug));
+    seq.set(p.slug, n);
+  }
+  usedSlugs.add(slug);
   const rec = { pref: p.name, city, citySlug: slug };
   add(city, rec);
   if (!generated.has(p.slug)) generated.set(p.slug, { pref: p.name, cities: [] });

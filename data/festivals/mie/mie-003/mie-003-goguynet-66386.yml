@@ -7,8 +7,8 @@ area:
   city: 松阪市
   ward: null
 venue:
-  name: 松阪市内
-  address: null
+  name: 松阪駅前商店街周辺
+  address: 松阪市日野町
   lat: null
   lng: null
 organizer: null
@@ -22,11 +22,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-      - 2026-07-08
+      - 2026-07-19
     start_time: 16:55
     end_time: 19:15
     status: confirmed
     source_url: https://matsusaka.goguynet.jp/2026/07/18/post-66386/
     source_name: 号外NET 松阪市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月18日（土）・19日（日）の2日。データにあった7月8日は誤り。18日は小若みこしが16:55〜19:15、クライマックスの練り込みが20:15頃

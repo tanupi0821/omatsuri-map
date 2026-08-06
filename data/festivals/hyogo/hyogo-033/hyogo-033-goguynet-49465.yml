@@ -1,0 +1,29 @@
+id: hyogo-033-goguynet-49465
+name: 春季大祭
+kind: 春祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 神戸市須磨区
+  ward: null
+venue:
+  name: 弓場八幡神社
+  address: null
+  lat: 34.648705
+  lng: 135.124003
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kobetarumi.goguynet.jp/2026/04/03/post-49465/
+    source_name: 号外NET 神戸市垂水区・須磨区
+    source_type: media
+    checked_at: 2026-08-04

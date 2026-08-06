@@ -1,0 +1,29 @@
+id: gifu-023-goguynet-45654
+name: 海津夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 海津市
+  ward: null
+venue:
+  name: 海津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ogaki.goguynet.jp/2026/07/30/kaizunatumaturi2026/
+    source_name: 号外NET 大垣市（西濃地域）
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: gifu-020-goguynet-36486
+name: ひつじフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 関市
+  ward: null
+venue:
+  name: 関市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/05/04/minoseki/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-08-04

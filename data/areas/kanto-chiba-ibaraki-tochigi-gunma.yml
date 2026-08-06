@@ -1,103 +1,265 @@
-# 千葉・茨城・栃木・群馬。
-# この4県は神社庁が神社データベースを持っていないため、神社庁からの自動生成ができない。
-# 祭りを1件でも入れた市町村を、ここに手で足していく。
-#
-# 収録が薄いのは祭りが少ないからではなく、機械的に舐められる一次情報源が無いから。
-
 pref: 千葉県
 cities:
-  - { name: 香取市, slug: katori, sources: [{ name: 香取市 公式, url: https://www.city.katori.lg.jp/sightseeing/matsuri/, type: gov }] }
-  - { name: 成田市, slug: narita, sources: [{ name: ちば観光ナビ, url: https://maruchiba.jp/, type: gov }] }
-  - { name: 船橋市, slug: funabashi, sources: [{ name: まいぷれ船橋市, url: https://funabashi.mypl.net/, type: media, note: 町内会・自治会単位まで載る数少ない媒体 }] }
-  - { name: 松戸市, slug: matsudo, sources: [{ name: 千葉すまいラボ, url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/, type: aggregator }] }
-  - { name: 柏市, slug: kashiwa, sources: [{ name: 千葉すまいラボ, url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/, type: aggregator }] }
-  - { name: 市川市, slug: ichikawa, sources: [{ name: 千葉すまいラボ, url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/, type: aggregator }] }
-  - { name: 流山市, slug: nagareyama, sources: [{ name: 千葉すまいラボ, url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/, type: aggregator }] }
+  - name: 香取市
+    slug: katori
+    sources:
+      - name: 香取市 公式
+        url: https://www.city.katori.lg.jp/sightseeing/matsuri/
+        type: gov
+  - name: 成田市
+    slug: narita
+    sources:
+      - name: ちば観光ナビ
+        url: https://maruchiba.jp/
+        type: gov
+  - name: 船橋市
+    slug: funabashi
+    sources:
+      - name: まいぷれ船橋市
+        url: https://funabashi.mypl.net/
+        type: media
+        note: 町内会・自治会単位まで載る数少ない媒体
+  - name: 松戸市
+    slug: matsudo
+    sources:
+      - name: 千葉すまいラボ
+        url: https://chiba-sumai-labo.com/matsudo-natsumatsuri/
+        type: aggregator
+  - name: 柏市
+    slug: kashiwa
+    sources:
+      - name: 千葉すまいラボ
+        url: https://chiba-sumai-labo.com/kashiwa-natsumatsuri/
+        type: aggregator
+  - name: 市川市
+    slug: ichikawa
+    sources:
+      - name: 千葉すまいラボ
+        url: https://chiba-sumai-labo.com/ichikawa-natsumatsuri/
+        type: aggregator
+  - name: 流山市
+    slug: nagareyama
+    sources:
+      - name: 千葉すまいラボ
+        url: https://chiba-sumai-labo.com/nagareyama-natsumatsuri/
+        type: aggregator
   - name: 千葉市
     slug: chiba
     wards:
-      - { name: 中央区, slug: chiba-chuo }
-      - { name: 花見川区, slug: hanamigawa }
-      - { name: 稲毛区, slug: inage }
-      - { name: 若葉区, slug: wakaba }
-      - { name: 緑区, slug: chiba-midori }
-      - { name: 美浜区, slug: mihama }
-  - { name: 匝瑳市, slug: sosa }
-  - { name: 旭市, slug: asahi-chiba }
-  - { name: 勝浦市, slug: katsuura }
-  - { name: 富里市, slug: tomisato }
-  - { name: 銚子市, slug: choshi }
-  - { name: 野田市, slug: noda }
-  - { name: 富津市, slug: futtsu }
-  - { name: 茂原市, slug: mobara }
-  - { name: 九十九里町, slug: kujukuri }
-  - { name: 多古町, slug: tako }
-  - { name: 東金市, slug: togane }
-  - { name: 鎌ケ谷市, slug: kamagaya }
-  - { name: 南房総市, slug: minamiboso }
-  - { name: 八千代市, slug: yachiyo }
-  - { name: 大網白里市, slug: oamishirasato }
-  - { name: 館山市, slug: tateyama }
-  - { name: 印西市, slug: inzai, sources: [{ name: 千葉すまいラボ, url: https://chiba-sumai-labo.com/inzai-natsumatsuri/, type: aggregator }] }
+      - name: 中央区
+        slug: chiba-chuo
+      - name: 花見川区
+        slug: hanamigawa
+      - name: 稲毛区
+        slug: inage
+      - name: 若葉区
+        slug: wakaba
+      - name: 緑区
+        slug: chiba-midori
+      - name: 美浜区
+        slug: mihama
+  - name: 匝瑳市
+    slug: sosa
+  - name: 旭市
+    slug: asahi-chiba
+  - name: 勝浦市
+    slug: katsuura
+  - name: 富里市
+    slug: tomisato
+  - name: 銚子市
+    slug: choshi
+  - name: 野田市
+    slug: noda
+  - name: 富津市
+    slug: futtsu
+  - name: 茂原市
+    slug: mobara
+  - name: 九十九里町
+    slug: kujukuri
+  - name: 多古町
+    slug: tako
+  - name: 東金市
+    slug: togane
+  - name: 鎌ケ谷市
+    slug: kamagaya
+  - name: 南房総市
+    slug: minamiboso
+  - name: 八千代市
+    slug: yachiyo
+  - name: 大網白里市
+    slug: oamishirasato
+  - name: 館山市
+    slug: tateyama
+  - name: 印西市
+    slug: inzai
+    sources:
+      - name: 千葉すまいラボ
+        url: https://chiba-sumai-labo.com/inzai-natsumatsuri/
+        type: aggregator
 ---
 pref: 茨城県
 cities:
-  - { name: 石岡市, slug: ishioka, sources: [{ name: 常陸國總社宮例大祭 公式, url: https://sosyagu-reitaisai.com/, type: official }] }
-  - { name: 鹿嶋市, slug: kashima, sources: [{ name: 鹿嶋市 公式, url: https://www.city.kashima.ibaraki.jp/site/kankou/, type: gov }] }
-  - { name: 水戸市, slug: mito, sources: [{ name: いばナビ, url: https://ibanavi.net/, type: media }] }
-  - { name: つくば市, slug: tsukuba, sources: [{ name: トラベルコ, url: https://www.tour.ne.jp/matome/articles/j545/, type: aggregator }] }
-  - { name: つくばみらい市, slug: tsukubamirai }
-  - { name: 常総市, slug: joso }
-  - { name: 下妻市, slug: shimotsuma }
-  - { name: 行方市, slug: namegata }
-  - { name: 潮来市, slug: itako }
-  - { name: かすみがうら市, slug: kasumigaura }
-  - { name: 笠間市, slug: kasama }
-  - { name: 桜川市, slug: sakuragawa }
-  - { name: 龍ケ崎市, slug: ryugasaki }
-  - { name: 結城市, slug: yuki }
-  - { name: 筑西市, slug: chikusei }
-  - { name: 土浦市, slug: tsuchiura }
-  - { name: 稲敷市, slug: inashiki }
-  - { name: 北茨城市, slug: kitaibaraki }
-  - { name: 取手市, slug: toride }
-  - { name: 東海村, slug: tokai }
-  - { name: ひたちなか市, slug: hitachinaka }
-  - { name: 利根町, slug: tone }
-  - { name: 神栖市, slug: kamisu }
+  - name: 石岡市
+    slug: ishioka
+    sources:
+      - name: 常陸國總社宮例大祭 公式
+        url: https://sosyagu-reitaisai.com/
+        type: official
+  - name: 鹿嶋市
+    slug: kashima
+    sources:
+      - name: 鹿嶋市 公式
+        url: https://www.city.kashima.ibaraki.jp/site/kankou/
+        type: gov
+  - name: 水戸市
+    slug: mito
+    sources:
+      - name: いばナビ
+        url: https://ibanavi.net/
+        type: media
+  - name: つくば市
+    slug: tsukuba
+    sources:
+      - name: トラベルコ
+        url: https://www.tour.ne.jp/matome/articles/j545/
+        type: aggregator
+  - name: つくばみらい市
+    slug: tsukubamirai
+  - name: 常総市
+    slug: joso
+  - name: 下妻市
+    slug: shimotsuma
+  - name: 行方市
+    slug: namegata
+  - name: 潮来市
+    slug: itako
+  - name: かすみがうら市
+    slug: kasumigaura
+  - name: 笠間市
+    slug: kasama
+  - name: 桜川市
+    slug: sakuragawa
+  - name: 龍ケ崎市
+    slug: ryugasaki
+  - name: 結城市
+    slug: yuki
+  - name: 筑西市
+    slug: chikusei
+  - name: 土浦市
+    slug: tsuchiura
+  - name: 稲敷市
+    slug: inashiki
+  - name: 北茨城市
+    slug: kitaibaraki
+  - name: 取手市
+    slug: toride
+  - name: 東海村
+    slug: tokai
+  - name: ひたちなか市
+    slug: hitachinaka
+  - name: 利根町
+    slug: tone
+  - name: 神栖市
+    slug: kamisu
 ---
 pref: 栃木県
 cities:
-  - { name: 日光市, slug: nikko, sources: [{ name: 日光東照宮 公式, url: https://toshogu.jp/, type: official }] }
-  - { name: 那須烏山市, slug: nasukarasuyama, sources: [{ name: とちぎ旅ネット, url: https://www.tochigiji.or.jp/, type: gov }] }
-  - { name: 鹿沼市, slug: kanuma, sources: [{ name: 栃木県 公式, url: https://www.pref.tochigi.lg.jp/culture/bunkajoho/tokushu/matsuri.html, type: gov }] }
-  - { name: 宇都宮市, slug: utsunomiya, sources: [{ name: 宇都宮観光ナビ, url: https://www.utsunomiya-cvb.org/, type: gov }] }
-  - { name: 大田原市, slug: otawara }
-  - { name: 小山市, slug: oyama }
-  - { name: 下野市, slug: shimotsuke }
-  - { name: 栃木市, slug: tochigi-shi }
-  - { name: さくら市, slug: sakura-tochigi }
-  - { name: 益子町, slug: mashiko }
-  - { name: 那須町, slug: nasu }
-  - { name: 壬生町, slug: mibu }
-  - { name: 那須塩原市, slug: nasushiobara }
-  - { name: 市貝町, slug: ichikai }
-  - { name: 芳賀町, slug: haga }
+  - name: 日光市
+    slug: nikko
+    sources:
+      - name: 日光東照宮 公式
+        url: https://toshogu.jp/
+        type: official
+  - name: 那須烏山市
+    slug: nasukarasuyama
+    sources:
+      - name: とちぎ旅ネット
+        url: https://www.tochigiji.or.jp/
+        type: gov
+  - name: 鹿沼市
+    slug: kanuma
+    sources:
+      - name: 栃木県 公式
+        url: https://www.pref.tochigi.lg.jp/culture/bunkajoho/tokushu/matsuri.html
+        type: gov
+  - name: 宇都宮市
+    slug: utsunomiya
+    sources:
+      - name: 宇都宮観光ナビ
+        url: https://www.utsunomiya-cvb.org/
+        type: gov
+  - name: 大田原市
+    slug: otawara
+  - name: 小山市
+    slug: oyama
+  - name: 下野市
+    slug: shimotsuke
+  - name: 栃木市
+    slug: tochigi-shi
+  - name: さくら市
+    slug: sakura-tochigi
+  - name: 益子町
+    slug: mashiko
+  - name: 那須町
+    slug: nasu
+  - name: 壬生町
+    slug: mibu
+  - name: 那須塩原市
+    slug: nasushiobara
+  - name: 市貝町
+    slug: ichikai
+  - name: 芳賀町
+    slug: haga
 ---
 pref: 群馬県
 cities:
-  - { name: 桐生市, slug: kiryu, sources: [{ name: 桐生八木節まつり 公式, url: http://www.kiryu-maturi.net/, type: official }] }
-  - { name: 沼田市, slug: numata, sources: [{ name: 沼田市 公式, url: https://www.city.numata.gunma.jp/kanko/numatamatsuri/, type: gov }] }
-  - { name: 富岡市, slug: tomioka, sources: [{ name: 一之宮貫前神社 公式, url: http://nukisaki.or.jp/, type: official }] }
-  - { name: 前橋市, slug: maebashi, sources: [{ name: 前橋観光コンベンション協会, url: https://www.maebashi-cvb.com/, type: gov }] }
-  - { name: 高崎市, slug: takasaki, sources: [{ name: 高崎まつり 公式, url: https://www.takasaki-matsuri.jp/, type: official }] }
-  - { name: みどり市, slug: midori-gunma }
-  - { name: 太田市, slug: ota }
-  - { name: 下仁田町, slug: shimonita }
-  - { name: 甘楽町, slug: kanra }
-  - { name: 館林市, slug: tatebayashi }
-  - { name: 藤岡市, slug: fujioka }
-  - { name: 草津町, slug: kusatsu }
-  - { name: 中之条町, slug: nakanojo }
-  - { name: 千代田町, slug: chiyoda-gunma }
-  - { name: 明和町, slug: meiwa }
+  - name: 桐生市
+    slug: kiryu
+    sources:
+      - name: 桐生八木節まつり 公式
+        url: http://www.kiryu-maturi.net/
+        type: official
+  - name: 沼田市
+    slug: numata
+    sources:
+      - name: 沼田市 公式
+        url: https://www.city.numata.gunma.jp/kanko/numatamatsuri/
+        type: gov
+  - name: 富岡市
+    slug: tomioka
+    sources:
+      - name: 一之宮貫前神社 公式
+        url: http://nukisaki.or.jp/
+        type: official
+  - name: 前橋市
+    slug: maebashi
+    sources:
+      - name: 前橋観光コンベンション協会
+        url: https://www.maebashi-cvb.com/
+        type: gov
+  - name: 高崎市
+    slug: takasaki
+    sources:
+      - name: 高崎まつり 公式
+        url: https://www.takasaki-matsuri.jp/
+        type: official
+  - name: みどり市
+    slug: midori-gunma
+  - name: 太田市
+    slug: ota
+  - name: 下仁田町
+    slug: shimonita
+  - name: 甘楽町
+    slug: kanra
+  - name: 館林市
+    slug: tatebayashi
+  - name: 藤岡市
+    slug: fujioka
+  - name: 草津町
+    slug: kusatsu
+  - name: 中之条町
+    slug: nakanojo
+  - name: 千代田町
+    slug: chiyoda-gunma
+  - name: 明和町
+    slug: meiwa

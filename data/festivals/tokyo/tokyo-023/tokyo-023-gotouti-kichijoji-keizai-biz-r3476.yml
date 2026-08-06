@@ -1,0 +1,29 @@
+id: tokyo-023-gotouti-kichijoji-keizai-biz-r3476
+name: まつりうた
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 武蔵野市
+  ward: null
+venue:
+  name: 武蔵野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://kichijoji.keizai.biz/headline/3476/
+    source_name: 吉祥寺経済新聞
+    source_type: media
+    checked_at: 2026-08-06

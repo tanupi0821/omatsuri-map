@@ -1,0 +1,29 @@
+id: gifu-025-goguynet-45007
+name: 垂井曳軕（ひきやま）まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 垂井町
+  ward: null
+venue:
+  name: 垂井町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ogaki.goguynet.jp/2026/04/26/tarui_hikiyama2026/
+    source_name: 号外NET 大垣市（西濃地域）
+    source_type: media
+    checked_at: 2026-08-04

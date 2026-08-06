@@ -1,0 +1,30 @@
+id: tochigi-702-gotouti-takamaga-17156
+name: 石末原の天祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 栃木県
+  city: 高根沢町
+  ward: null
+venue:
+  name: 原公民館（栃木県塩谷郡高根沢町石末１９５３−１）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takamaga.com/events/tensai2608/
+    source_name: たかマガ
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,34 @@
+id: kanagawa-010-summer-ar0314e600630
+name: 横浜七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横浜市西区
+  ward: null
+venue:
+  name: 臨港パーク
+  address: 横浜市西区みなとみらい1
+  lat: 35.461194
+  lng: 139.636879
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://yokohama-tanabata.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: 10:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e600630/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: みなとみらい線みなとみらい駅から徒歩7分 または新高島駅から徒歩10分

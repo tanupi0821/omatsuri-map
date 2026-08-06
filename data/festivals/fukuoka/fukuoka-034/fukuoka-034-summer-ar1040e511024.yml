@@ -1,0 +1,35 @@
+id: fukuoka-034-summer-ar1040e511024
+name: 前原山笠(火伏地蔵・老松神社夏祭り)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 糸島市
+  ward: null
+venue:
+  name: 老松神社
+  address: 糸島市前原中央1-4-14
+  lat: 33.558046
+  lng: 130.202463
+organizer: 糸島市観光協会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://kanko-itoshima.jp/spot/maebaruyamakasa/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanko-itoshima.jp/spot/maebaruyamakasa/
+    source_name: 糸島市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 例年は7月24日・25日の2日だが、糸島市観光協会によると2026年は7月25日（土）のみ。山笠は14:30から5分おきに出発
+station: JR筑肥線 筑前前原駅北口（徒歩約5分）
+recurrence: 7月24日（火伏地蔵庵）・7月25日（老松神社）
+recurrence_source: https://kanko-itoshima.jp/spot/maebaruyamakasa/

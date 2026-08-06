@@ -7,8 +7,8 @@ area:
   city: 高知市
   ward: null
 venue:
-  name: 【高知市】本日最終日！おまち多目的広場
-  address: null
+  name: 大旺新洋おまち多目的広場
+  address: 高知市追手筋
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://kochi.goguynet.jp/2026/07/02/event_omachi-kagura2026/
     source_name: 号外NET 高知市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月4日（土）・11日（土）の2回、各日14:00〜21:00。間の日は開催しないので、日付が2つなのは取りこぼしではない

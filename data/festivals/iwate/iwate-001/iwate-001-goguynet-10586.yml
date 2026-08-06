@@ -7,8 +7,8 @@ area:
   city: 遠野市
   ward: null
 venue:
-  name: 近郊
-  address: null
+  name: 早瀬川緑地グラウンド周辺
+  address: 遠野市松崎町
   lat: null
   lng: null
 organizer: null
@@ -20,11 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-15
-      - 2026-08-09
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/08/01/hanabitaikai-3/
     source_name: 号外NET 花巻市・北上市・遠野市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月15日（土）19:00〜20:30の1日だけ。観覧無料。小雨決行、荒天中止で延期はない。データにあった8月9日は、同じ記事に並記されていた北上市「トロッコ流しと花火の夕べ」の日付が混ざったもの

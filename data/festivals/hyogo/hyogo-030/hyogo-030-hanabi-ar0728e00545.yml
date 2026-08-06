@@ -1,0 +1,33 @@
+id: hyogo-030-hanabi-ar0728e00545
+name: 三日月日限地蔵尊夏大祭花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 兵庫県
+  city: 佐用郡佐用町
+  ward: null
+venue:
+  name: 三方里山公園
+  address: 佐用郡佐用町乃井野
+  lat: 34.988492
+  lng: 134.429916
+organizer: 佐用町役場三日月支所
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.sayo.lg.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0728e00545/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR三日月駅から徒歩3分

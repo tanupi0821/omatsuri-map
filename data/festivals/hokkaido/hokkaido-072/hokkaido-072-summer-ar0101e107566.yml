@@ -1,0 +1,34 @@
+id: hokkaido-072-summer-ar0101e107566
+name: 美國神社例大祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 積丹郡積丹町
+  ward: null
+venue:
+  name: 美國神社
+  address: 積丹郡積丹町大字美国町字船澗230
+  lat: 43.293191
+  lng: 140.594605
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://sites.google.com/view/bikuni-shrine
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e107566/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR余市駅からバスで美国ターミナル下車、徒歩10分

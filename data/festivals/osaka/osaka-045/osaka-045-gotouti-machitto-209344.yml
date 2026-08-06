@@ -1,0 +1,29 @@
+id: osaka-045-gotouti-machitto-209344
+name: 第71回 茨木辯天花火大会×Let’s遊ベンチャー
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 茨木市
+  ward: null
+venue:
+  name: 茨木市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machitto.jp/kashiwa/209344/
+    source_name: まちっと北摂
+    source_type: media
+    checked_at: 2026-08-06

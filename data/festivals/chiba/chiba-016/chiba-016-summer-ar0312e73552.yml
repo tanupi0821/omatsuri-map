@@ -1,0 +1,37 @@
+id: chiba-016-summer-ar0312e73552
+name: 多古祇園祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 千葉県
+  city: 香取郡多古町
+  ward: null
+venue:
+  name: 八坂神社周辺
+  address: 香取郡多古町多古
+  lat: 35.739724
+  lng: 140.466493
+organizer: 多古町役場 企画政策課
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.tako.chiba.jp/docs/2018012900186/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.town.tako.chiba.jp/docs/2018012900186/
+    source_name: 多古町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催日は毎年7月25日・26日。時刻は町のページに記載がない
+station: 芝山鉄道 芝山千代田駅（徒歩約2分）
+shrine: 八坂神社
+recurrence: 7月25日・26日
+recurrence_source: https://www.town.tako.chiba.jp/docs/2018012900186/

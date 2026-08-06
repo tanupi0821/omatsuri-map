@@ -1,0 +1,33 @@
+id: okinawa-014-summer-ar1047e313183
+name: 第38回 いへやまつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 沖縄県
+  city: 島尻郡伊平屋村
+  ward: null
+venue:
+  name: いへや愛ランドよねざき
+  address: 島尻郡伊平屋村島尻1982
+  lat: 26.997259
+  lng: 127.9366
+organizer: 伊平屋村観光交通課
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.vill.iheya.okinawa.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1047e313183/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日

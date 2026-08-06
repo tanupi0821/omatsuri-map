@@ -7,8 +7,8 @@ area:
   city: 大垣市
   ward: null
 venue:
-  name: 大垣市内
-  address: null
+  name: 揖斐川河畔
+  address: 大垣市
   lat: null
   lng: null
 organizer: null
@@ -20,11 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-      - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:15
     status: confirmed
     source_url: https://ogaki.goguynet.jp/2026/07/13/ogaki_hanabi2026-2/
     source_name: 号外NET 大垣市（西濃地域）
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月25日（土）19:30〜20:15の1日だけ。データにあった8月29日は荒天・増水時の予備日（延期日）であって開催日ではない。小雨決行

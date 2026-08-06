@@ -7,8 +7,8 @@ area:
   city: 板橋区
   ward: null
 venue:
-  name: 板橋区内
-  address: null
+  name: 板橋区立美術館・板橋区立教育科学館・板橋区立中央図書館ほか区内各所
+  address: 板橋区赤塚5-34-27
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://itabashi.goguynet.jp/2026/07/19/itabashi-ehon-design-festival/
     source_name: 号外NET 板橋区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月18日（土）から8月16日（日）までの期間の催しで、日付が2つなのは取りこぼしではない。板橋区立美術館・教育科学館・中央図書館など区内各所で日を分けて行う

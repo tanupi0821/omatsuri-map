@@ -7,8 +7,8 @@ area:
   city: 大阪市城東区
   ward: null
 venue:
-  name: 】聖賢小学校
-  address: null
+  name: 鴫野グラウンド
+  address: 大阪市城東区鴫野東
   lat: null
   lng: null
 organizer: null
@@ -19,12 +19,12 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-25
       - 2026-08-01
-    start_time: null
+    start_time: 15:00
     end_time: null
     status: confirmed
     source_url: https://tsurumi-joto.goguynet.jp/2026/07/20/natsumaturi2026/
     source_name: 号外NET 大阪市鶴見区・城東区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月1日（土）15:00からの1日だけ。データにあった7月25日は、同じ記事に並んでいた聖賢・今福・関目・菫（すみれフェスティバル）・榎並の祭りの日付で、しぎの夏まつりの開催日ではない

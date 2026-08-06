@@ -7,8 +7,8 @@ area:
   city: 東近江市
   ward: null
 venue:
-  name: 東近江市内
-  address: null
+  name: 浜野会館 駐車場（稲荷神社前）
+  address: 東近江市
   lat: null
   lng: null
 organizer: null
@@ -19,12 +19,13 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-08-31
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://higashiomi-omihachiman.goguynet.jp/2026/07/04/inari-2/
     source_name: 号外NET 東近江市・近江八幡市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月19日19:00〜21:00の1日だけ。会場は稲荷神社前の浜野会館駐車場で、雨天時は会館2階の大広間。データにあった8月31日は、同じ記事に載っていた「きらきら夏の八日市」の終了日で、この祭りの開催日ではない
+shrine: 稲荷神社

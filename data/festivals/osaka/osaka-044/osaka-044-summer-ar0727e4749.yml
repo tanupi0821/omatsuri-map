@@ -1,0 +1,34 @@
+id: osaka-044-summer-ar0727e4749
+name: 令和年八年浪速高津宮夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大阪府
+  city: 大阪市中央区
+  ward: null
+venue:
+  name: 高津宮
+  address: 大阪市中央区高津1-1-29
+  lat: 34.668532
+  lng: 135.514055
+organizer: 高津宮
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://kouzu.or.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0727e4749/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: Osaka Metro 谷町九丁目駅から徒歩5分

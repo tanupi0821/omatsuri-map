@@ -1,0 +1,29 @@
+id: toyama-007-goguynet-32372
+name: DJ盆踊り！2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 富山県
+  city: 氷見市
+  ward: null
+venue:
+  name: 氷見市芸術文化館
+  address: 氷見市幸町31-9
+  lat: 36.858537
+  lng: 136.974445
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://takaoka.goguynet.jp/2026/07/30/dj-bonodori/
+    source_name: 号外NET 高岡市・氷見市
+    source_type: media
+    checked_at: 2026-08-04

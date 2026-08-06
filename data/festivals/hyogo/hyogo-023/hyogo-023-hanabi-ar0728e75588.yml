@@ -1,0 +1,30 @@
+id: hyogo-023-hanabi-ar0728e75588
+name: はが祭り 第53回 波賀花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 兵庫県
+  city: 宍粟市
+  ward: null
+venue:
+  name: 波賀総合スポーツ公園 駐車場
+  address: 宍粟市波賀町有賀
+  lat: 35.161172
+  lng: 134.543195
+organizer: はが祭り実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0728e75588/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05

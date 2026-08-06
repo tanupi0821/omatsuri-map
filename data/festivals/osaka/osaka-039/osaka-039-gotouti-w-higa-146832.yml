@@ -1,0 +1,29 @@
+id: osaka-039-gotouti-w-higa-146832
+name: 近鉄東大阪の夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 東大阪市
+  ward: null
+venue:
+  name: 近鉄百貨店東大阪店（「近商ストア」前特設会場）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: 10:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://www.w-higa.com/20260726kintetsunatsumatsuri
+    source_name: 週刊ひがしおおさか
+    source_type: media
+    checked_at: 2026-08-06

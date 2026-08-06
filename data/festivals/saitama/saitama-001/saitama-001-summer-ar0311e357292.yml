@@ -1,0 +1,32 @@
+id: saitama-001-summer-ar0311e357292
+name: 長瀞船玉まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: 秩父郡長瀞町
+  ward: null
+venue:
+  name: 長瀞岩畳周辺
+  address: 秩父郡長瀞町大字長瀞地内
+  lat: 36.09486
+  lng: 139.115663
+organizer: 長瀞船玉まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.nagatoro.gr.jp/spot/matsuri/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 17:00
+    end_time: 20:45
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e357292/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 秩父鉄道秩父本線長瀞駅から徒歩5分

@@ -7,24 +7,26 @@ area:
   city: 小樽市
   ward: null
 venue:
-  name: 小樽市内
-  address: null
+  name: 小樽公園 顕誠塔前広場
+  address: 小樽市花園5丁目
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: おたるぽーたる（小樽観光協会）令和8年 小樽市内お祭り情報
+    url: https://otaru.gr.jp/tourist/r8otarusinaiomaturizilyouhou
 occurrences:
   - year: 2026
     dates:
-      - 2026-05-10
       - 2026-05-15
-    start_time: null
+    start_time: 11:00
     end_time: null
     status: confirmed
-    source_url: https://otaru.gr.jp/tourist/2026sakuraotarukouen2-5-10
-    source_name: 小樽通
-    source_type: media
+    source_url: https://otaru.gr.jp/tourist/r8otarusinaiomaturizilyouhou
+    source_name: 小樽観光協会
+    source_type: official
     checked_at: 2026-08-06
+    note: 2026年は第81回。5月15日（金）11:00から小樽公園の顕誠塔前広場で。データにあった5月10日は誤りで、開催は1日だけ。小樽市内で一番早い祭り

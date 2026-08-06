@@ -1,32 +1,44 @@
-# 横浜市のエリア定義と、区ごとの一次情報源。
-# 川崎市と違って行政が町内会レベルの一覧を出している区はなく、
-# 地域メディアのまとめ記事が実質の一覧になっている。
-
 pref: 神奈川県
 city: 横浜市
 slug: kanagawa-yokohama
-# data/festivals/<prefSlug>/<city_slug>/<ward slug>/ のディレクトリ名になる
 city_slug: yokohama
 wards:
-  - { name: 鶴見区,     slug: tsurumi }
-  - { name: 神奈川区,   slug: kanagawa }
-  - { name: 西区,       slug: nishi }
-  - { name: 中区,       slug: naka }
-  - { name: 南区,       slug: minami }
-  - { name: 港南区,     slug: konan }
-  - { name: 保土ケ谷区, slug: hodogaya }
-  - { name: 旭区,       slug: asahi }
-  - { name: 磯子区,     slug: isogo }
-  - { name: 金沢区,     slug: kanazawa }
-  - { name: 港北区,     slug: kohoku }
-  - { name: 緑区,       slug: midori }
-  - { name: 青葉区,     slug: aoba }
-  - { name: 都筑区,     slug: tsuzuki }
-  - { name: 戸塚区,     slug: totsuka }
-  - { name: 栄区,       slug: sakae }
-  - { name: 泉区,       slug: izumi }
-  - { name: 瀬谷区,     slug: seya }
-
+  - name: 鶴見区
+    slug: tsurumi
+  - name: 神奈川区
+    slug: kanagawa
+  - name: 西区
+    slug: nishi
+  - name: 中区
+    slug: naka
+  - name: 南区
+    slug: minami
+  - name: 港南区
+    slug: konan
+  - name: 保土ケ谷区
+    slug: hodogaya
+  - name: 旭区
+    slug: asahi
+  - name: 磯子区
+    slug: isogo
+  - name: 金沢区
+    slug: kanazawa
+  - name: 港北区
+    slug: kohoku
+  - name: 緑区
+    slug: midori
+  - name: 青葉区
+    slug: aoba
+  - name: 都筑区
+    slug: tsuzuki
+  - name: 戸塚区
+    slug: totsuka
+  - name: 栄区
+    slug: sakae
+  - name: 泉区
+    slug: izumi
+  - name: 瀬谷区
+    slug: seya
 city_sources:
   - name: あさひさんぽ 横浜市内の夏祭り・縁日まとめ
     url: https://asahi-sanpo.com/yokohama-natsumatsuri-2026/

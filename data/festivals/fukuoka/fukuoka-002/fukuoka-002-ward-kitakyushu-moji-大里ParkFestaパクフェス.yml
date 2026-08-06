@@ -7,15 +7,17 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
-  address: null
-  lat: null
-  lng: null
+  name: 大里公園 芝生広場
+  address: 北九州市門司区不老町一丁目
+  lat: 33.897388
+  lng: 130.93779
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区 大里Park Festa 報道資料
+    url: https://www.city.kitakyushu.lg.jp/files/001181386.pdf
 occurrences:
   - year: 2026
     dates:
@@ -26,4 +28,5 @@ occurrences:
     source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
     source_name: 北九州市門司区
     source_type: gov
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 会場は前回（令和7年11月30日）の北九州市の報道資料による。今年の会場は未発表

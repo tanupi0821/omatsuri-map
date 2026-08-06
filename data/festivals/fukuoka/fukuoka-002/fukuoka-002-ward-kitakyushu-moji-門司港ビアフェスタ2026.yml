@@ -7,15 +7,17 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
-  address: null
+  name: 門司港レトロ 中央広場
+  address: 北九州市門司区東港町1-12
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 福岡県公式観光サイト 門司港ビアフェスタ
+    url: https://www.crossroadfukuoka.jp/event/14191
 occurrences:
   - year: 2026
     dates:

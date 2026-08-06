@@ -1,0 +1,36 @@
+id: kanagawa-006-hanabi-ar0314e00862
+name: 第53回 相模原納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 相模原市中央区
+  ward: null
+venue:
+  name: 相模川高田橋上流
+  address: 相模原市中央区水郷田名
+  lat: 35.544894
+  lng: 139.328519
+organizer: 相模原納涼花火大会実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://sagamiharahanabi.com/
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0314e00862/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: 19:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sagamiharahanabi.com/
+    source_name: 相模原納涼花火大会実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 協賛エリアの入場開始は13:00。終了時刻は公式サイトに記載がない
+station: JR相模原駅からバスで水郷田名停留所下車、徒歩5分

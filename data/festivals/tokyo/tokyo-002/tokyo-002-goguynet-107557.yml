@@ -1,0 +1,29 @@
+id: tokyo-002-goguynet-107557
+name: 第7回 谷仲山夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 日野市
+  ward: null
+venue:
+  name: 山下児童遊園（生活保健センターそば・高速道路下）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hino.goguynet.jp/2026/07/28/yanakayama-2026/
+    source_name: 号外NET 日野市
+    source_type: media
+    checked_at: 2026-08-04

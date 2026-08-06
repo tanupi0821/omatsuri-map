@@ -1,0 +1,33 @@
+id: fukuoka-033-hanabi-ar1040e00936
+name: くきのうみ花火の祭典
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 北九州市若松区
+  ward: null
+venue:
+  name: 洞海湾（若戸大橋周辺）
+  address: 北九州市若松区久岐の浜7番1号（個人協賛会場）
+  lat: 33.899969
+  lng: 130.811951
+organizer: くきのうみ花火の祭典実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.city.kitakyushu.lg.jp/wakamatsu/file_0033.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: 19:00
+    end_time: 19:40
+    status: confirmed
+    source_url: https://www.city.kitakyushu.lg.jp/wakamatsu/file_0033.html
+    source_name: 北九州市
+    source_type: gov
+    checked_at: 2026-08-06
+station: JR筑豊本線 若松駅（徒歩3分）／JR鹿児島本線 戸畑駅（徒歩5分）

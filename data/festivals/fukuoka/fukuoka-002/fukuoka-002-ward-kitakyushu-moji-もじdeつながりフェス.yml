@@ -7,15 +7,17 @@ area:
   city: 北九州市門司区
   ward: null
 venue:
-  name: 北九州市門司区内
+  name: 栄町銀天街
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: "門司区役所 総務企画課（共催: 門司港栄町商店街振興組合・北九州市立大学地域創生学群）"
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市 もじdeつながりフェス
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100648.html
 occurrences:
   - year: 2026
     dates:

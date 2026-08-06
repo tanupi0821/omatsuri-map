@@ -1,0 +1,33 @@
+id: yamanashi-011-hanabi-ar0419e00582
+name: 第49回 忍野八海祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 山梨県
+  city: 南都留郡忍野村
+  ward: null
+venue:
+  name: 忍野中学校校庭
+  address: 南都留郡忍野村忍草
+  lat: 35.464498
+  lng: 138.845633
+organizer: 忍野八海祭り実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.vill.oshino.lg.jp/site/kanko/list5-19.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0419e00582/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 富士急行富士山駅から富士急行バス(内野行きで約25分)で忍野村役場前停留所下車、徒歩5分

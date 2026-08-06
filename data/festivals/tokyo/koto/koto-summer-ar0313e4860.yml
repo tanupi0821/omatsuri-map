@@ -7,7 +7,7 @@ area:
   city: 江東区
   ward: null
 venue:
-  name: 富岡八幡宮とその周辺
+  name: 富岡八幡宮および氏子各町
   address: 江東区富岡1-20-3
   lat: 35.672132
   lng: 139.799588
@@ -20,17 +20,23 @@ links:
     url: http://www.tomiokahachimangu.or.jp/annai/maturi/maturih1.html
   - title: 号外NET 江東区
     url: https://koto.goguynet.jp/2026/06/20/fukagawamatsuri2026/
+  - title: 江東おでかけ情報局（江東区観光協会）深川八幡祭り（富岡八幡宮例大祭）
+    url: https://koto-kanko.jp/special/detail.php?spid=55
 occurrences:
   - year: 2026
     dates:
       - 2026-08-12
+      - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
       - 2026-08-16
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e4860/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: 東京メトロ門前仲町駅から徒歩3分
+    source_url: https://koto-kanko.jp/special/detail.php?spid=55
+    source_name: 江東区観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 2026年は3年に一度の「本祭り」の年。8月12日が御魂入れの儀などの神事、15日が神幸祭（御鳳輦が約70kmを巡幸）、16日が各町神輿連合渡御で50基以上の町神輿が練り歩く。沿道から担ぎ手に水を浴びせる「水かけ祭り」として知られる。データは端の2日しか持っていなかった
+station: 東京メトロ東西線・都営大江戸線 門前仲町駅（1番出口から徒歩3分）
+shrine: 富岡八幡宮

@@ -1,0 +1,52 @@
+id: wakayama-012-summer-ar0730e4755
+name: 田辺祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 和歌山県
+  city: 田辺市
+  ward: null
+venue:
+  name: 鬪雞神社
+  address: 田辺市東陽1-1
+  lat: 33.729477
+  lng: 135.383908
+organizer: 闘鶏神社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.tanabe-kanko.jp/event/tanabematsuri/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.tanabe-kanko.jp/event/tanabematsuri/
+    source_name: 田辺市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 開催日は毎年7月24日・25日。24日は8:00頃から、25日は4:30頃から
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tanabe_festival_20170724.jpg/1280px-Tanabe_festival_20170724.jpg
+    width: 1000
+    height: 750
+    credit: Dryota39
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Tanabe_festival_20170724.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b0/%E7%94%B0%E8%BE%BA%E7%A5%AD%28%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE%29.jpg
+    width: 1000
+    height: 666
+    credit: Dryota0309
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:%E7%94%B0%E8%BE%BA%E7%A5%AD(%E9%AC%AA%E9%9B%9E%E7%A5%9E%E7%A4%BE).jpg
+station: JR紀伊田辺駅から徒歩5分
+shrine: 鬪雞神社
+recurrence: 7月24日・25日
+recurrence_source: https://www.tanabe-kanko.jp/event/tanabematsuri/

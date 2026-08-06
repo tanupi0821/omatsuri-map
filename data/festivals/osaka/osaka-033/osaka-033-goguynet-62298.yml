@@ -1,0 +1,29 @@
+id: osaka-033-goguynet-62298
+name: 盆おどり
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大東市
+  ward: null
+venue:
+  name: 大東市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://daitoshijonawate.goguynet.jp/2026/06/02/sennichimairi-2/
+    source_name: 号外NET 大東市・四條畷市
+    source_type: media
+    checked_at: 2026-08-04

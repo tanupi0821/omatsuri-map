@@ -1,0 +1,29 @@
+id: chiba-014-goguynet-77649
+name: 八街ふれあい夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 八街市
+  ward: null
+venue:
+  name: 八街市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakura-yotsukaido-yachimata.goguynet.jp/2026/07/31/yachimatahureaimatsuri/
+    source_name: 号外NET 佐倉市・四街道市・八街市
+    source_type: media
+    checked_at: 2026-08-04

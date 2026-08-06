@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 下新庄公園
-  address: null
+  address: 大阪市東淀川区下新庄
   lat: 34.746798
   lng: 135.516858
 organizer: null
@@ -19,12 +19,13 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-26
-      - 2026-07-29
-    start_time: null
-    end_time: null
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://higashiyodogawaku.goguynet.jp/2026/07/25/shimoshinjo-bon/
     source_name: 号外NET 大阪市東淀川区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 令和8年8月1日（土）・2日（日）18:00〜21:00、雨天中止。データにあった7月26日・29日はどちらも誤り

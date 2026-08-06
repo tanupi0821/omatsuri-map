@@ -1,0 +1,33 @@
+id: mie-016-hanabi-ar0624e00231
+name: 錦花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 三重県
+  city: 度会郡大紀町
+  ward: null
+venue:
+  name: 錦魚港
+  address: 度会郡大紀町錦
+  lat: 34.216735
+  lng: 136.398043
+organizer: 大紀町役場産業振興課
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.taiki.mie.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 20:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0624e00231/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR紀伊長島駅からタクシーで約20分

@@ -7,24 +7,27 @@ area:
   city: 神戸市
   ward: null
 venue:
-  name: メリケンパーク沖
-  address: null
+  name: 神戸元町商店街 全エリア
+  address: 神戸市中央区元町通3丁目13-1
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 神戸元町商店街連合会
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 神戸元町商店街 第43回元町夜市2026
+    url: https://www.kobe-motomachi.or.jp/event/2026/06/Yoichi1.html
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-04
-      - 2026-07-18
-    start_time: null
+      - 2026-07-28
+    start_time: 18:00
     end_time: null
     status: confirmed
-    source_url: https://kobe-journal.com/archives/9693874553.html
-    source_name: 神戸ジャーナル
-    source_type: media
+    source_url: https://www.kobe-motomachi.or.jp/event/2026/06/Yoichi1.html
+    source_name: 神戸元町商店街連合会
+    source_type: official
     checked_at: 2026-08-06
+    note: データにあった7月4日〜18日は誤りで、開催は7月28日の1日だけ。19:30頃に神戸港ウィークエンド花火が特別開催される
+station: JR・阪神 元町駅

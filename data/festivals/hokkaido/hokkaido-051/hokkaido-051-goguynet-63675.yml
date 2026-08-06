@@ -1,0 +1,29 @@
+id: hokkaido-051-goguynet-63675
+name: なかふらのラベンダーまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 中富良野町
+  ward: null
+venue:
+  name: 中富良野町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asahikawa.goguynet.jp/2026/07/31/hanabitaikai-0801nakafurano/
+    source_name: 号外NET 旭川市
+    source_type: media
+    checked_at: 2026-08-04

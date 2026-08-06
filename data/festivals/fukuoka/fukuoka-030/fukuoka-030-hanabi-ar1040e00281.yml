@@ -1,0 +1,33 @@
+id: fukuoka-030-hanabi-ar1040e00281
+name: 第102回 飯塚納涼花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 飯塚市
+  ward: null
+venue:
+  name: 遠賀川中之島
+  address: 飯塚市吉原町
+  lat: 33.640396
+  lng: 130.688882
+organizer: 飯塚商工会議所
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.iizuka-cci.org/tourism/hanabi/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-25
+    start_time: 20:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1040e00281/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR新飯塚駅から徒歩10分

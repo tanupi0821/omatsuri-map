@@ -7,25 +7,29 @@ area:
   city: 小樽市
   ward: null
 venue:
-  name: 小樽市内
-  address: null
+  name: 小樽港第3号ふ頭基部および市内中心部
+  address: 小樽市港町
   lat: null
   lng: null
-organizer: null
+organizer: おたる潮まつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: おたる潮まつり公式サイト 開催情報（2026年）
+    url: https://otaru.ushiomatsuri.net/2026
+  - title: おたるぽーたる（小樽観光協会）第60回おたる潮まつり
+    url: https://otaru.gr.jp/event/ushiomaturi2026
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-24
-      - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 20:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://otaru.gr.jp/tourist/60otaruusiomaturi-hanabitaikai
-    source_name: 小樽通
-    source_type: media
+    source_url: https://otaru.ushiomatsuri.net/2026
+    source_name: おたる潮まつり実行委員会
+    source_type: official
     checked_at: 2026-08-06
+    note: 大花火大会は潮まつり3日間の最終日、7月26日（日）20:00〜20:30のみ。データは祭り本体と同じ3日間になっていた
+station: JR函館本線 小樽駅

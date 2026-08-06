@@ -1,0 +1,33 @@
+id: shimane-009-hanabi-ar0832e112303
+name: 第44回 天領さん久手花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 島根県
+  city: 大田市
+  ward: null
+venue:
+  name: 大田市久手港
+  address: 大田市久手町刺鹿
+  lat: 35.231187
+  lng: 132.501672
+organizer: 久手まちづくりセンター
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.city.oda.lg.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0832e112303/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR久手駅から徒歩3分

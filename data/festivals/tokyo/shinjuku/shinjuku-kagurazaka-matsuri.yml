@@ -7,18 +7,20 @@ area:
   city: 新宿区
   ward: null
 venue:
-  name: 神楽坂通り・毘沙門天善國寺
+  name: 神楽坂通り周辺（神楽坂1丁目〜神楽坂上）
   address: 新宿区神楽坂1丁目
   lat: 35.701672
   lng: 139.739518
-station: 飯田橋
-organizer: null
+station: 東京メトロ東西線 神楽坂駅／JR飯田橋駅
+organizer: 神楽坂まつり実行委員会（神楽坂通り商店会・本多横丁商店会・神楽坂仲通り商店会）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 夏休みおでかけガイド2026（ウォーカープラス）
     url: https://summer.walkerplus.com/odekake/detail_e/ar0313e71549/
+  - title: 神楽坂通り商店会 2026年第52回神楽坂まつりを開催します
+    url: https://www.kagurazaka.in/kagurazaka_festival/52th/
 occurrences:
   - year: 2026
     dates:
@@ -29,7 +31,8 @@ occurrences:
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/list/ar0313/sg0999/yatai/
-    source_name: 夏休みおでかけガイド（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-03
+    source_url: https://www.kagurazaka.in/kagurazaka_festival/52th/
+    source_name: 神楽坂通り商店会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月22日（水）〜25日（土）の4日間。前半22日・23日が第一部「ほおずき市」（17:00〜21:00）、後半24日・25日が第二部「阿波踊り大会」（19:00〜21:00）で、25日は18:00〜19:00に子供阿波踊り大会もある。データは端の2日しか持っていなかった

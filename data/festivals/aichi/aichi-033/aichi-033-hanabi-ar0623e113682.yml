@@ -1,0 +1,33 @@
+id: aichi-033-hanabi-ar0623e113682
+name: 第13回 新舞子ビーチフェスティバル花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 愛知県
+  city: 知多市
+  ward: null
+venue:
+  name: 新舞子マリンパーク ブルーサンビーチ
+  address: null
+  lat: 34.950256
+  lng: 136.821421
+organizer: 新舞子ビーチフェスティバル実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://chita-kanko.com/feature/detail/14/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 19:00
+    end_time: null
+    status: confirmed
+    source_url: https://chita-kanko.com/feature/detail/14/
+    source_name: 知多市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: 名鉄常滑線 新舞子駅

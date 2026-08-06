@@ -1,0 +1,29 @@
+id: osaka-032-goguynet-14058
+name: 金剛テラス 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 富田林市
+  ward: null
+venue:
+  name: 富田林市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://tondabayashi-kawachinagano.goguynet.jp/2026/07/02/kongou_natsumatsuri/
+    source_name: 号外NET 富田林市・河内長野市
+    source_type: media
+    checked_at: 2026-08-04

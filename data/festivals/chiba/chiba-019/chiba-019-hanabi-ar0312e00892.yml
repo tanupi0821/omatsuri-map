@@ -1,0 +1,33 @@
+id: chiba-019-hanabi-ar0312e00892
+name: 鴨川市民花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 鴨川市
+  ward: null
+venue:
+  name: 前原横渚海岸
+  address: null
+  lat: 35.098616
+  lng: 140.108341
+organizer: 鴨川市民花火大会実行委員会事務局
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://kamotabi.jp/news/detail/341
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+    start_time: 19:30
+    end_time: 20:10
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e00892/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR安房鴨川駅から徒歩5分

@@ -1,0 +1,34 @@
+id: fukuoka-021-summer-ar1040e317003
+name: 道の駅おおとう桜街道2026夏祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 福岡県
+  city: 田川郡大任町
+  ward: null
+venue:
+  name: 道の駅 おおとう桜街道
+  address: 田川郡大任町大字今任原1339
+  lat: 33.625539
+  lng: 130.845836
+organizer: 大任町役場夏祭り実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.town.oto.fukuoka.jp/kiji003536/index.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar1040e317003/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR田川伊田駅からタクシーで約7分

@@ -1,0 +1,37 @@
+id: tokushima-008-summer-ar0936e508010
+name: 宍喰祇園祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 徳島県
+  city: 海部郡海陽町
+  ward: null
+venue:
+  name: 宍喰八坂神社周辺
+  address: 海部郡海陽町久保
+  lat: 33.569257
+  lng: 134.300961
+organizer: 海陽町観光協会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.kaiyo-kankou.jp/event/event-961/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-16
+      - 2026-07-17
+    start_time: 18:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.kaiyo-kankou.jp/event/event-961/
+    source_name: 海陽町観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 宵宮（16日）は18:00から、奉納花火は20:30から。本祭（17日）は10:00から、奉納餅投げは13:00から
+station: 阿佐海岸鉄道 宍喰駅（徒歩3分）
+shrine: 宍喰八坂神社
+recurrence: 7月16日・17日
+recurrence_source: https://www.kaiyo-kankou.jp/event/event-961/

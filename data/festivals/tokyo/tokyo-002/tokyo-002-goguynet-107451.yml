@@ -1,0 +1,29 @@
+id: tokyo-002-goguynet-107451
+name: DJ×盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 日野市
+  ward: null
+venue:
+  name: 高幡不動尊
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hino.goguynet.jp/2026/07/13/takahatabondance/
+    source_name: 号外NET 日野市
+    source_type: media
+    checked_at: 2026-08-04

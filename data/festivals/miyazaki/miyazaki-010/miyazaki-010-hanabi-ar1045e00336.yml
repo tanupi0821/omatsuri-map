@@ -1,0 +1,32 @@
+id: miyazaki-010-hanabi-ar1045e00336
+name: しいば花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 宮崎県
+  city: 東臼杵郡椎葉村
+  ward: null
+venue:
+  name: 椎葉中学校グラウンド
+  address: 東臼杵郡椎葉村大字下福良
+  lat: 32.456549
+  lng: 131.150813
+organizer: 椎葉村観光協会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.vill.shiiba.miyazaki.jp/event/2019/08/post-455.php
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1045e00336/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05

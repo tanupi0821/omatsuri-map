@@ -1,0 +1,29 @@
+id: gifu-016-goguynet-4261
+name: みずなみ祈願大花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 瑞浪市
+  ward: null
+venue:
+  name: JR瑞浪駅前周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/08/05/mizunamitanabata/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-08-04

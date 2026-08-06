@@ -1,0 +1,29 @@
+id: aichi-026-goguynet-4715
+name: 第14回 甚目寺春まつり
+kind: 春祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: あま市
+  ward: null
+venue:
+  name: あま市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ama-tsushima-aisai.goguynet.jp/2026/04/11/jimokuji-spring-festival-2026/
+    source_name: 号外NET あま市・津島市・愛西市
+    source_type: media
+    checked_at: 2026-08-04

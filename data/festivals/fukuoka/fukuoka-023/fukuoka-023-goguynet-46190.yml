@@ -1,0 +1,33 @@
+id: fukuoka-023-goguynet-46190
+name: 天神夏まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市中央区
+  ward: null
+venue:
+  name: 福岡市役所西側ふれあい広場
+  address: 福岡市中央区天神1丁目8-1
+  lat: null
+  lng: null
+organizer: 天神夏まつり2026実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: よかなび（福岡市観光情報サイト）夏はホークス！天神夏まつり2026
+    url: https://yokanavi.com/events/274343
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+      - 2026-08-23
+    start_time: 17:30
+    end_time: 22:00
+    status: confirmed
+    source_url: https://yokanavi.com/events/274343
+    source_name: 福岡市（よかなび）
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 7月17日から8月23日までの38日間、期間中は休みなしで毎日開催

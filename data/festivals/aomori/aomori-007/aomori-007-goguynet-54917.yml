@@ -7,8 +7,8 @@ area:
   city: 弘前市
   ward: null
 venue:
-  name: 弘前市内
-  address: null
+  name: 弘前天満宮
+  address: 弘前市西茂森1-1-25
   lat: null
   lng: null
 organizer: null
@@ -20,6 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-20
+      - 2026-04-21
+      - 2026-04-22
+      - 2026-04-23
+      - 2026-04-24
+      - 2026-04-25
       - 2026-04-26
     start_time: 10:00
     end_time: 15:00
@@ -27,7 +32,8 @@ occurrences:
     source_url: https://hirosaki.goguynet.jp/2026/04/21/umematsuri-tenmangu/
     source_name: 号外NET 弘前市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 4月20日（月）〜26日（土）の7日間、各日10:00〜15:00。データは端の2日しか持っていなかった
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/a/a8/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A20100503.JPG
     width: 1000
@@ -43,3 +49,4 @@ photos:
     license: CC BY 4.0
     license_url: https://creativecommons.org/licenses/by/4.0
     source: https://commons.wikimedia.org/wiki/File:%E7%AD%91%E6%B3%A2%E5%B1%B1%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A.jpg
+shrine: 弘前天満宮

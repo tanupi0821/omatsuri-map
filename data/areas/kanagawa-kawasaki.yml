@@ -1,10 +1,6 @@
-# 川崎市のエリア定義と、区ごとの一次情報源。
-# 収集の巡回対象リストを兼ねる。新しい区に着手するときはここに情報源を足してから。
-
 pref: 神奈川県
 city: 川崎市
 slug: kanagawa-kawasaki
-# data/festivals/<prefSlug>/<city_slug>/<ward slug>/ のディレクトリ名になる
 city_slug: kawasaki
 wards:
   - name: 川崎区
@@ -17,7 +13,6 @@ wards:
       - name: 川崎区役所
         url: https://www.city.kawasaki.jp/kawasaki/
         type: gov
-
   - name: 幸区
     slug: saiwai
     coverage: none
@@ -28,7 +23,6 @@ wards:
       - name: 幸区民祭
         url: https://www.city.kawasaki.jp/saiwai/category/109-5-11-0-0-0-0-0-0-0.html
         type: gov
-
   - name: 中原区
     slug: nakahara
     coverage: none
@@ -40,7 +34,6 @@ wards:
       - name: 号外NET 中原区
         url: https://kawasakinakahara.goguynet.jp/category/cat_event/
         type: local_news
-
   - name: 高津区
     slug: takatsu
     coverage: partial
@@ -49,7 +42,6 @@ wards:
         url: https://www.city.kawasaki.jp/takatsu/category/116-2-3-0-0-0-0-0-0-0.html
         type: gov
         note: 区の大きい祭りのみ。町内会レベルは載っていない
-
   - name: 宮前区
     slug: miyamae
     coverage: seeded
@@ -58,7 +50,6 @@ wards:
         url: https://miyamae-gokinjosan.com/festival/
         type: gov
         note: 川崎市で唯一、町内会レベルの一覧を行政が公開している。最重要ソース
-
   - name: 多摩区
     slug: tama
     coverage: none
@@ -67,7 +58,6 @@ wards:
         url: https://kawasakitama.goguynet.jp/
         type: local_news
         note: 週末ごとに盆踊りまとめ記事が出る
-
   - name: 麻生区
     slug: asao
     coverage: none
@@ -75,8 +65,6 @@ wards:
       - name: 号外NET 麻生区 / レアリア
         url: https://rarea.events/
         type: local_news
-
-# 市全体にかかる情報源
 city_sources:
   - name: 川崎市観光協会 イベント
     url: https://www.k-kankou.jp/event/

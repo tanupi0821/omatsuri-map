@@ -1,0 +1,38 @@
+id: niigata-023-hanabi-ar0415e00060
+name: 令和8年度 おぢやまつり 大花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 新潟県
+  city: 小千谷市
+  ward: null
+venue:
+  name: 信濃川 旭橋下流左岸堤防
+  address: 小千谷市
+  lat: 37.311973
+  lng: 138.806955
+organizer: おぢやまつり実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://ojiyakanko.com/
+  - title: 小千谷市 おぢやまつり
+    url: https://www.city.ojiya.niigata.jp/site/kanko/ojiyamatsuri.html
+  - title: ウォーカープラス 花火大会2026（元の出典）
+    url: https://hanabi.walkerplus.com/detail/ar0415e00060/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 19:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.ojiya.niigata.jp/site/kanko/ojiyamatsuri.html
+    source_name: 小千谷市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: おぢやまつりは8月21日〜23日の3日間で、大花火大会は22日。予備日は23日
+station: JR小千谷駅から徒歩15分

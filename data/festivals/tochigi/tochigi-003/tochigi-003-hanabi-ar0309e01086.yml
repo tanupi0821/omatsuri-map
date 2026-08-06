@@ -1,0 +1,33 @@
+id: tochigi-003-hanabi-ar0309e01086
+name: 芳賀町ロマン花火大会 2026×HAGAグルミネーションフェス2026
+kind: 花火
+scale: 市
+area:
+  pref: 栃木県
+  city: 芳賀郡芳賀町
+  ward: null
+venue:
+  name: 道の駅はが芳賀温泉ロマンの湯、芳賀町役場周辺
+  address: 芳賀郡芳賀町大字上延生
+  lat: 36.551777
+  lng: 140.05174
+organizer: 芳賀町観光協会事務局
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://hagamachi-kanko.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0309e01086/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR宇都宮駅からLRT(ライトライン)芳賀・高根沢工業団地行きで約40分

@@ -1,0 +1,33 @@
+id: gunma-005-hanabi-ar0310e00516
+name: 第42回 つまごい祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 吾妻郡嬬恋村
+  ward: null
+venue:
+  name: 嬬恋村立東部小学校校庭対岸・吾妻川河川敷右岸
+  address: 吾妻郡嬬恋村大字三原
+  lat: 36.535723
+  lng: 138.553477
+organizer: つまごい祭り実施委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.tsumagoi-kankou.jp/tsumagoi-fes
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0310e00516/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR万座・鹿沢口駅から徒歩5分

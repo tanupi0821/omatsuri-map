@@ -1,0 +1,34 @@
+id: hokkaido-056-summer-ar0101e75587
+name: 令和8年 沼田町夜高あんどん祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 北海道
+  city: 雨竜郡沼田町
+  ward: null
+venue:
+  name: 沼田町市街
+  address: 雨竜郡沼田町本通2丁目3-6
+  lat: 43.809089
+  lng: 141.934777
+organizer: 沼田町観光協会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://numata-youtaka.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e75587/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR石狩沼田駅から徒歩1分

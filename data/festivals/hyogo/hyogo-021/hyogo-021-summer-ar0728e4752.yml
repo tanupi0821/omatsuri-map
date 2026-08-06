@@ -1,0 +1,40 @@
+id: hyogo-021-summer-ar0728e4752
+name: 献燈祭・菊水天神祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 兵庫県
+  city: 神戸市中央区
+  ward: null
+venue:
+  name: 湊川神社
+  address: 神戸市中央区多聞通3-1-1
+  lat: 34.681964
+  lng: 135.175167
+organizer: 湊川神社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.minatogawajinja.or.jp/natumaturi/
+  - title: 湊川神社 夏まつり〜献燈祭・菊水天神祭〜
+    url: https://www.minatogawajinja.or.jp/event/7742/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+      - 2026-08-24
+      - 2026-08-25
+      - 2026-08-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.minatogawajinja.or.jp/event/7742/
+    source_name: 湊川神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月22日〜26日の5日間。献燈祭は22日が宵宮祭（18:00）、23〜25日が第一夜祭〜第三夜祭（18:00）、26日が御礼祭（18:00）。菊水天神祭は24日が宵宮祭（16:00）、25日が本祭（11:00）、26日が翌日祭（10:00）。屋台と猿まわしは17:00から。参列・観覧は無料。データは端の2日しか持っていなかった
+station: JR神戸駅／神戸高速 高速神戸駅
+shrine: 湊川神社
