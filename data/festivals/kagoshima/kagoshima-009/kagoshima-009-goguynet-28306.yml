@@ -7,8 +7,8 @@ area:
   city: 姶良市
   ward: null
 venue:
-  name: 姶良市役所
-  address: null
+  name: 姶良市役所周辺
+  address: 姶良市宮島町25
   lat: null
   lng: null
 organizer: null
@@ -20,11 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-23
-      - 2026-10-11
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://kirishima-aira.goguynet.jp/2026/07/14/aira-yoichi-2/
     source_name: 号外NET 霧島市・姶良市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月23日（日）16:00〜20:30。データにあった10月11日は、今の出典の記事には出てこないので外した。別の回の開催がある場合は改めて確かめる必要がある

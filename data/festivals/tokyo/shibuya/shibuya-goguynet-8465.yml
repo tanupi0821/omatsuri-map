@@ -7,8 +7,8 @@ area:
   city: 渋谷区
   ward: null
 venue:
-  name: 渋谷区内
-  address: null
+  name: 広尾散歩通り
+  address: 渋谷区広尾5丁目
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,6 @@ occurrences:
     source_url: https://shibuya.goguynet.jp/2026/06/30/post-8465/
     source_name: 号外NET 渋谷区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月25日から8月11日までの期間、いつでも無料で参加できる街歩き型の催しで、日付が2つなのは取りこぼしではない
+station: 東京メトロ日比谷線 広尾駅

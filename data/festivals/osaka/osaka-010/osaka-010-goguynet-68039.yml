@@ -7,8 +7,8 @@ area:
   city: 泉大津市
   ward: null
 venue:
-  name: 泉大津市内
-  address: null
+  name: 東雲公園グラウンド
+  address: 泉大津市東雲町9
   lat: null
   lng: null
 organizer: 泉大津野外映画実行委員会
@@ -20,11 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-      - 2026-07-26
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://kanku-area.goguynet.jp/2026/07/09/muvio-6/
     source_name: 号外NET 泉大津市・高石市・忠岡町
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月20日（月・祝）の1日だけ。映画の上映は19:30（予定）から。データにあった7月26日は誤り

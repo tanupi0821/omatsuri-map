@@ -7,8 +7,8 @@ area:
   city: 橿原市
   ward: null
 venue:
-  name: 橿原市内
-  address: null
+  name: イオンモール橿原
+  address: 橿原市曲川町7-20-1
   lat: null
   lng: null
 organizer: null
@@ -27,4 +27,5 @@ occurrences:
     source_url: https://yamatotakadakashihara.goguynet.jp/2026/07/25/ion-356/
     source_name: 号外NET 大和高田市・橿原市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月18日（土）と25日（土）の2回開催で、2回目は19:30から。間の日は開催しないので、日付が2つなのは取りこぼしではない

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 宮ヶ瀬湖畔園地
-  address: 愛甲郡清川村宮ヶ瀬
+  address: 愛甲郡清川村宮ヶ瀬940-4
   lat: 35.524557
   lng: 139.226005
 organizer: 宮ヶ瀬ふるさとまつり実行委員会
@@ -23,13 +23,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-12
+      - 2026-08-15
       - 2026-08-16
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 21:00
     status: confirmed
     source_url: https://hanabi.walkerplus.com/detail/ar0314e00928/
     source_name: 花火大会2026（ウォーカープラス）
     source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: 小田急本厚木駅から宮ヶ瀬行きバスで約50分、宮ヶ瀬停留所下車すぐ
+    checked_at: 2026-08-06
+    note: 8月12日・15日・16日の3日。祭りは11:00〜21:00で、花火は19:30から約5分間。データは12日と16日しか持っておらず、15日が抜けていた
+station: 小田急線 本厚木駅から宮ヶ瀬行きバス約50分（宮ヶ瀬停留所すぐ）

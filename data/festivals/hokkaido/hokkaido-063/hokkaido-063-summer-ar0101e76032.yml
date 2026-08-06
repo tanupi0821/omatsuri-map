@@ -7,8 +7,8 @@ area:
   city: 河東郡士幌町
   ward: null
 venue:
-  name: コミュニティ広場
-  address: 河東郡士幌町士幌225
+  name: コミュニティ広場（雨天時は総合研修センター）
+  address: 河東郡士幌町字士幌
   lat: 43.168915
   lng: 143.244068
 organizer: しほろ7000人のまつり実行委員会事務局
@@ -26,9 +26,9 @@ occurrences:
     start_time: 10:30
     end_time: 16:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e76032/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.shihoro.jp/tourism/detail.php?content=126
+    source_name: 士幌町
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 8月16日（日）が本祭り（10:30〜16:00）、20日（木）が仮装盆踊り（18:00〜）。別の日にやる別の行事なので、日付が2つなのは取りこぼしではない。入場無料、雨天時は総合研修センター
 station: JR帯広駅からバスでタウンプラザ前停留所下車、徒歩すぐ

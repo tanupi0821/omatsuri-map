@@ -1,5 +1,5 @@
 id: fukaya-goguynet-3689
-name: 花火大会
+name: 深谷花火大会
 kind: 花火
 scale: 町内会
 area:
@@ -7,8 +7,8 @@ area:
   city: 深谷市
   ward: null
 venue:
-  name: 深谷市内
-  address: null
+  name: 深谷テラスパーク（屋上デッキを開放）
+  address: 深谷市黒田
   lat: null
   lng: null
 organizer: null
@@ -19,12 +19,12 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-03
-      - 2026-08-31
+      - 2026-08-02
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://fukaya-honjo.goguynet.jp/2026/07/10/outlets-8/
     source_name: 号外NET 深谷市・本庄市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月2日の1日だけ。データにあった7月3日・8月31日は、同じ記事の「ふかやで夏イベ」キャンペーンの期間（7/3〜8/31）で、花火大会の開催日ではない。同記事には第31回深谷まつり（7/25）とトワイライト動物園（8/8・9）も並記されている

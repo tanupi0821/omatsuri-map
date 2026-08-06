@@ -7,8 +7,8 @@ area:
   city: 立川市
   ward: null
 venue:
-  name: 立川市内
-  address: null
+  name: 国営昭和記念公園
+  address: 立川市緑町3173
   lat: null
   lng: null
 organizer: null
@@ -20,11 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-      - 2026-06-07
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tachikawa-akishima.goguynet.jp/2026/06/02/tachikawa-hanabi-cityhall-rooftop-furusato-202607/
     source_name: 号外NET 立川市・昭島市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月25日（土）の1日だけ。データにあった6月7日は、同じ記事にあった花火大会関連のふるさと納税返礼品の募集開始日（6/7 9:00）で、開催日ではない
+station: JR中央線 立川駅

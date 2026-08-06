@@ -7,8 +7,8 @@ area:
   city: 東大阪市
   ward: null
 venue:
-  name: 東大阪市内
-  address: null
+  name: 御劔神社 境内
+  address: 東大阪市友井
   lat: null
   lng: null
 organizer: null
@@ -20,11 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-26
-      - 2026-05-10
     start_time: 13:00
     end_time: 16:00
     status: confirmed
     source_url: https://higashiosaka.goguynet.jp/2026/04/17/miturugijinja-omaturi/
     source_name: 号外NET 東大阪市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 4月26日（日）13:00〜16:00の1日だけ。データにあった5月10日は雨天中止だった場合の代替開催日で、開催日ではない
+shrine: 御劔神社
+station: 近鉄大阪線 弥刀駅（徒歩7分）
