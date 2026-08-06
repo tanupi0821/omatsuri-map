@@ -1,0 +1,29 @@
+id: chuou-tokyofesta-31875
+name: 中央区大江戸まつり盆おどり大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 中央区
+  ward: null
+venue:
+  name: 甘酒横丁商店会
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31875/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

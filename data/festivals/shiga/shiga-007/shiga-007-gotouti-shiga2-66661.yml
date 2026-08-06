@@ -1,0 +1,29 @@
+id: shiga-007-gotouti-shiga2-66661
+name: 湖南市 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 湖南市
+  ward: null
+venue:
+  name: 湖南市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 16:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://shiga2.jp/konan-natsumatsuri-2026/shiga2/
+    source_name: 滋賀つーしん
+    source_type: media
+    checked_at: 2026-08-06

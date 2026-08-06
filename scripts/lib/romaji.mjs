@@ -10,6 +10,9 @@ export const CITY_SLUG = {
   // ---- 東京都（23区は area ファイル側。市町村部はここ）----
   八王子市: 'hachioji', 福生市: 'fussa', 奥多摩町: 'okutama', 大島町: 'oshima',
   八丈町: 'hachijo',
+  // 同じ slug の市が 2 県にあると id が衝突する（id は県を含まない）。
+  // 件数の少ない側に県名を足して分ける。東京都大田区・東京都府中市はそのまま
+  太田市: 'ota-gunma',
   三宅村: 'miyake', 新島村: 'niijima', 神津島村: 'kozushima', 利島村: 'toshima-mura', 小笠原村: 'ogasawara', 昭島市: 'akishima', 調布市: 'chofu', あきる野市: 'akiruno',
   稲城市: 'inagi', 立川市: 'tachikawa', 町田市: 'machida', 府中市: 'fuchu',
 
@@ -98,3 +101,15 @@ export function citySlug(name) {
 export function wardSlug(city, ward) {
   return WARD_SLUG[city]?.[ward] ?? null;
 }
+
+/**
+ * **同名の市が 2 県にある場合の上書き。**
+ * id は `<citySlug>-<出典>-<番号>` の形で都道府県を含まないので、
+ * slug が同じだと id が衝突して検証が落ちる（東京都府中市の祭りが
+ * 広島県府中市にも同じ id で作られ、ビルドが止まった）。
+ * **件数の少ない側**に県名を足して分ける。
+ */
+export const CITY_SLUG_BY_PREF = {
+  '広島県|府中市': 'fuchu-hiroshima',
+  '群馬県|太田市': 'ota-gunma',
+};

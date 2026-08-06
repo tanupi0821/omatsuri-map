@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-330666
+name: 京都夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 東本願寺前・お東さん広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 16:00
+    end_time: 23:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/9524984654.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

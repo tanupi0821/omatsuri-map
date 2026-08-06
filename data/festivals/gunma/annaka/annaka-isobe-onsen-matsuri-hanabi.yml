@@ -1,0 +1,31 @@
+id: annaka-isobe-onsen-matsuri-hanabi
+name: 磯部温泉祭り花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 群馬県
+  city: 安中市
+  ward: null
+venue:
+  name: 磯部温泉 碓氷川河川敷
+  address: null
+  lat: null
+  lng: null
+station: 磯部
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0310/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

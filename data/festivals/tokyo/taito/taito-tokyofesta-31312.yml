@@ -1,0 +1,30 @@
+id: taito-tokyofesta-31312
+name: 第75回江戸趣味納涼大会・うえの夏まつり
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 上野公園不忍池周辺・水上音楽堂
+  address: null
+  lat: null
+  lng: null
+organizer: 一般社団法人
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/31312/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-08-05

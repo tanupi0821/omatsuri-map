@@ -1,0 +1,31 @@
+id: yamato-yamato-awaodori
+name: 神奈川大和阿波おどり（第50回）
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 大和市
+  ward: null
+venue:
+  name: 大和駅周辺の商店街
+  address: null
+  lat: null
+  lng: null
+station: 大和
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/yamato-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02

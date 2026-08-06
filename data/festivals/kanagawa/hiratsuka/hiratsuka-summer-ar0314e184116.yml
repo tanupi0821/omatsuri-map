@@ -1,0 +1,31 @@
+id: hiratsuka-summer-ar0314e184116
+name: 第74回 湘南ひらつか七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 平塚市
+  ward: null
+venue:
+  name: JR平塚駅北口商店街を中心とする平塚市内全域
+  address: 平塚市紅谷町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-03
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e184116/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

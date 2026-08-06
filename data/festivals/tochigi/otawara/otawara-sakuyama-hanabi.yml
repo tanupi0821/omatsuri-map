@@ -1,0 +1,30 @@
+id: otawara-sakuyama-hanabi
+name: 与一の里大田原 佐久山花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 栃木県
+  city: 大田原市
+  ward: null
+venue:
+  name: 箒川岩井橋付近・佐久山運動公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0309/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

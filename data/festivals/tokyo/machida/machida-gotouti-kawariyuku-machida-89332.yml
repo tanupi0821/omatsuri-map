@@ -1,0 +1,31 @@
+id: machida-gotouti-kawariyuku-machida-89332
+name: 第50回たまがわ夏祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 町田市
+  ward: null
+venue:
+  name: 町田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-31
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 21:30
+    status: confirmed
+    source_url: https://kawariyuku-machida.com/article/89332.html
+    source_name: 変わりゆく町田の街並み
+    source_type: media
+    checked_at: 2026-08-06

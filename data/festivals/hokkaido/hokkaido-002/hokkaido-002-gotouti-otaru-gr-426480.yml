@@ -1,0 +1,31 @@
+id: hokkaido-002-gotouti-otaru-gr-426480
+name: 第60回おたる潮まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 北海道
+  city: 小樽市
+  ward: null
+venue:
+  name: 小樽市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otaru.gr.jp/tourist/60otaruusiomaturi-nerikomi
+    source_name: 小樽通
+    source_type: media
+    checked_at: 2026-08-06

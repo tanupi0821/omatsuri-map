@@ -1,0 +1,34 @@
+id: sakuragawa-makabe-gion
+name: 真壁祇園祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 茨城県
+  city: 桜川市
+  ward: null
+venue:
+  name: 真壁町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 神輿
+  - 山車
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/list/ar0308/sg0999/yatai/
+    source_name: 夏休みおでかけガイド（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

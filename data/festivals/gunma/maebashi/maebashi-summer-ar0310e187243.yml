@@ -1,0 +1,31 @@
+id: maebashi-summer-ar0310e187243
+name: 第76回 前橋七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 群馬県
+  city: 前橋市
+  ward: null
+venue:
+  name: 前橋市中心部および周辺部商店街
+  address: 前橋市千代田町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0310e187243/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,31 @@
+id: toshima-summer-ar0313e112877
+name: 第47回 サンシャインシティ納涼盆踊り大会
+kind: 盆踊り
+scale: 市
+area:
+  pref: 東京都
+  city: 豊島区
+  ward: null
+venue:
+  name: サンシャインシティ
+  address: 豊島区東池袋3-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-30
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e112877/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

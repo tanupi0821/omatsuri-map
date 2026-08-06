@@ -1,0 +1,33 @@
+id: ota-gunma-goguynet-62792
+name: 世良田祇園まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 群馬県
+  city: 太田市
+  ward: null
+venue:
+  name: 太田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 八坂神社の公式HP
+    url: https://www.yasaka-jinja.jp/event01
+  - title: 公式HP
+    url: http://seradagion.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://ota.goguynet.jp/2026/07/13/seradagionmatsuri/
+    source_name: 号外NET 太田市
+    source_type: media
+    checked_at: 2026-08-04

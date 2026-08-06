@@ -1,0 +1,31 @@
+id: toride-toride-tonegawa-hanabi
+name: とりで利根川大花火（第71回）
+kind: 花火
+scale: 市
+area:
+  pref: 茨城県
+  city: 取手市
+  ward: null
+venue:
+  name: 取手緑地運動公園
+  address: null
+  lat: null
+  lng: null
+station: 取手
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/list/ar0308/yatai/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-03

@@ -1,0 +1,31 @@
+id: mito-summer-ar0308e72432
+name: 第66回 水戸黄門まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 水戸市内
+  address: 水戸市三の丸、南町、泉町、大工町
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0308e72432/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,30 @@
+id: katsushika-katsushika-higashikanamachi-handa
+name: 東金町半田自治会 納涼盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 葛飾区
+  ward: null
+venue:
+  name: 半田稲荷神社 境内
+  address: 葛飾区東金町4-28
+  lat: null
+  lng: null
+organizer: 東金町半田自治会
+shrine: 半田稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 18:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+    source_name: 葛飾区 夏まつり・盆踊り・イベント情報
+    source_type: gov
+    checked_at: 2026-08-03

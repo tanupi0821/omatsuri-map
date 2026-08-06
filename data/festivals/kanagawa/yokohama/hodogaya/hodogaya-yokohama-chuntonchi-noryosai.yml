@@ -1,0 +1,30 @@
+id: hodogaya-yokohama-chuntonchi-noryosai
+name: 横浜駐屯地 納涼祭
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 保土ケ谷区
+venue:
+  name: 陸上自衛隊 横浜駐屯地
+  address: 横浜市保土ケ谷区岡沢町
+  lat: null
+  lng: null
+organizer: 陸上自衛隊
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/hodogaya-ku-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: media
+    checked_at: 2026-08-02
+    note: 雨天のときは翌19日に順延

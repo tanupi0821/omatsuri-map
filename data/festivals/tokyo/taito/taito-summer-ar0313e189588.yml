@@ -1,0 +1,31 @@
+id: taito-summer-ar0313e189588
+name: 入谷朝顔まつり(入谷朝顔市)
+kind: 夏祭り
+scale: 市
+area:
+  pref: 東京都
+  city: 台東区
+  ward: null
+venue:
+  name: 入谷鬼子母神
+  address: 台東区下谷1-12-16
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-06
+      - 2026-07-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0313e189588/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-04
+    note: 掲載の2日付は期間の初日と最終日

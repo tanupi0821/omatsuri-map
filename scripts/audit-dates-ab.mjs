@@ -91,3 +91,6 @@ console.log(`  日付が消える: ${dropped.length}（＝怪しい日付を採�
 console.log(`  日付が付く:   ${added.length}`);
 console.log(`  減る: ${fewer.length} / 増える: ${more.length}`);
 console.log(`  飛んだ 2 日組: 旧 ${diff.filter((d) => span(d.a) >= 3).length} → 新 ${diff.filter((d) => span(d.b) >= 3).length}`);
+const newSparse = diff.filter((d) => span(d.b) >= 3 && span(d.a) < 3);
+console.log(`  新しくできた飛んだ 2 日組 ${newSparse.length} 件の例:`);
+for (const d of newSparse.slice(0, 18)) console.log(`    ${d.a.join(',') || '(なし)'} → ${d.b.join(',')}  | ${d.title}`);

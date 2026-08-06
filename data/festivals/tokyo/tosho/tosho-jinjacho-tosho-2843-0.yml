@@ -1,0 +1,34 @@
+id: tosho-jinjacho-tosho-2843-0
+name: 阿豆佐和気命神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 島嶼
+  ward: null
+venue:
+  name: 阿豆佐和気命神社
+  address: 島嶼1
+  lat: null
+  lng: null
+station: 東海汽船及び村営船で大島から利島、港より5分
+recurrence: 12月27日
+recurrence_source: http://www.tokyo-jinjacho.or.jp/tosho/2843
+organizer: 阿豆佐和気命神社
+shrine: 阿豆佐和気命神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: http://www.tokyo-jinjacho.or.jp/tosho/2843
+    source_name: 東京都神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「12月27日」から導いたもので、神社が2026年の日程として発表したものではない

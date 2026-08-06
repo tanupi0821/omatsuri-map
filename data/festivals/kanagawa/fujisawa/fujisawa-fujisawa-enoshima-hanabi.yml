@@ -1,0 +1,31 @@
+id: fujisawa-fujisawa-enoshima-hanabi
+name: ふじさわ江の島花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 片瀬西浜海水浴場
+  address: null
+  lat: null
+  lng: null
+station: 片瀬江ノ島
+organizer: null
+stalls: unknown
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kanagawa-sumai-labo.com/fujisawa-shi-natsumatsuri/
+    source_name: 神奈川すまいラボ
+    source_type: aggregator
+    checked_at: 2026-08-02
