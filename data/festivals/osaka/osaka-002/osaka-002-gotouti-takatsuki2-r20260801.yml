@@ -1,0 +1,30 @@
+id: osaka-002-gotouti-takatsuki2-r20260801
+name: 高槻まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 高槻市
+  ward: null
+venue:
+  name: 高槻市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.takatsuki2.jp/event/takatsukimatsuri-20260801.html
+    source_name: 高槻つーしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,19 @@
+{
+ "host": "yamaguchi.keizai.biz",
+ "name": "山口宇部経済新聞",
+ "areas": [
+  "山口県山口市",
+  "山口県宇部市",
+  "山口県山陽小野田市"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "http://yamaguchi.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

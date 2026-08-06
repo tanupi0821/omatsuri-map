@@ -69,7 +69,7 @@ patchAll([
   // 藤沢市観光協会（主催側）の告知。**30分だけの大会**で18:00〜18:30
   ['fujisawa-hanabi-ar0314e00859', {
     organizer: 'ふじさわ江の島花火大会実行委員会',
-    venue: { name: '片瀬海岸西浜（西浜沖の台船から打上げ）', address: '神奈川県藤沢市片瀬海岸' },
+    venue: { name: '片瀬海岸西浜（西浜沖の台船から打上げ）', address: '藤沢市片瀬海岸' },
     links: [
       L('藤沢市観光協会「2026ふじさわ江の島花火大会」の開催について', 'https://www.fujisawa-kanko.jp/news/20260626-1.html'),
       WP('ar0314e00859'),
@@ -86,7 +86,7 @@ patchAll([
   // 川崎市のページ。**世田谷区のたまがわ花火大会と合同開催**だが別の大会
   ['kanagawa-007-hanabi-ar0314e182441', {
     organizer: '川崎市・一般社団法人川崎市観光協会・高津観光協会',
-    venue: { name: '多摩川河川敷（国道246号旧道 二子橋〜第三京浜道路間）', address: '神奈川県川崎市高津区' },
+    venue: { name: '多摩川河川敷（国道246号旧道 二子橋〜第三京浜道路間）', address: '川崎市高津区' },
     links: [
       L('川崎市 川崎市制記念多摩川花火大会', 'https://www.city.kawasaki.jp/280/page/0000117559.html'),
       WP('ar0314e182441'),
@@ -103,7 +103,7 @@ patchAll([
   // 相模原市緑区のページ。会場の番地（与瀬317-1）はここで取れた
   ['kanagawa-008-hanabi-ar0314e00894', {
     organizer: 'さがみ湖湖上祭花火大会実行委員会',
-    venue: { name: '県立相模湖公園（相模湖湖上）', address: '神奈川県相模原市緑区与瀬317-1' },
+    venue: { name: '県立相模湖公園（相模湖湖上）', address: '相模原市緑区与瀬317-1' },
     links: [
       L('相模原市 さがみ湖湖上祭花火大会', 'https://www.city.sagamihara.kanagawa.jp/midoriku/1032827/1033503.html'),
       WP('ar0314e00894'),
@@ -119,7 +119,7 @@ patchAll([
   // 相模原納涼花火大会は実行委員会の公式サイトがある。**終了時刻の記載は無い**
   ['kanagawa-006-hanabi-ar0314e00862', {
     organizer: '相模原納涼花火大会実行委員会',
-    venue: { name: '相模川高田橋上流', address: '神奈川県相模原市中央区水郷田名' },
+    venue: { name: '相模川高田橋上流', address: '相模原市中央区水郷田名' },
     links: [
       L('相模原納涼花火大会 公式サイト', 'https://sagamiharahanabi.com/'),
       WP('ar0314e00862'),
@@ -136,7 +136,7 @@ patchAll([
   // まとめサイトは18:30を打上開始として載せていた
   ['odawara-hanabi-ar0314e00865', {
     station: 'JR東海道線 鴨宮駅（徒歩約15分）／小田原駅（徒歩約20分）',
-    venue: { name: '酒匂川スポーツ広場', address: '神奈川県小田原市寿町5-22' },
+    venue: { name: '酒匂川スポーツ広場', address: '小田原市寿町5-22' },
     links: [
       L('小田原市 第37回小田原酒匂川花火大会', 'https://www.city.odawara.kanagawa.jp/kanko/event/AUG/p36642.html'),
       L('小田原市観光協会 第37回小田原酒匂川花火大会', 'https://www.odawara-kankou.com/hanabi/sakawa-hanabi.html'),
@@ -187,7 +187,7 @@ patchAll([
   // 公式の実施概要に日付の記載が無いので日付は触らず、花火の時刻だけ入れた
   ['nishi-minatomirai-festival', {
     name: '横浜グリーンエクスポ応援 みなとみらいフェスティバル',
-    venue: { name: '臨港パーク・耐震バース・横浜ハンマーヘッド9号岸壁・カップヌードルミュージアムパークほか', address: '神奈川県横浜市西区みなとみらい' },
+    venue: { name: '臨港パーク・耐震バース・横浜ハンマーヘッド9号岸壁・カップヌードルミュージアムパークほか', address: '横浜市西区みなとみらい' },
     links: [
       L('みなとみらいフェスティバル 2026実施概要', 'https://www.mmsf.yokohama/pages/8958430/page_202505121411'),
       L('みなとみらいフェスティバル 公式サイト', 'https://www.mmsf.yokohama/'),

@@ -1,0 +1,14 @@
+{
+ "host": "naratowa.jp",
+ "name": "ナラトワ",
+ "areas": [
+  "奈良県"
+ ],
+ "prefs": [
+  "奈良県"
+ ],
+ "url": "https://naratowa.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

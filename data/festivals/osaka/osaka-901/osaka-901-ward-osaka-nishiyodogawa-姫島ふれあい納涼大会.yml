@@ -9,8 +9,8 @@ area:
 venue:
   name: 姫島公園
   address: 大阪市西淀川区姫島4-14
-  lat: null
-  lng: null
+  lat: 34.7043220600005
+  lng: 135.452638900001
 organizer: 姫島地域
 stalls: unknown
 tags: []

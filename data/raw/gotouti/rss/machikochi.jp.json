@@ -1,0 +1,14 @@
+{
+ "host": "machikochi.jp",
+ "name": "machikochi",
+ "areas": [
+  "東京都豊島区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://machikochi.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

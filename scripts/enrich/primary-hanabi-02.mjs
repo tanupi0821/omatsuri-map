@@ -34,7 +34,7 @@ patchAll([
   // 主催はNPO法人。**公式サイトに花火の時刻の記載が無い**ので時刻は触っていない
   ['utsunomiya-hanabi-ar0309e01088', {
     organizer: '特定非営利活動法人うつのみや百年花火',
-    venue: { name: '宇都宮市道場宿緑地（鬼怒川河川敷）', address: '栃木県宇都宮市道場宿町' },
+    venue: { name: '宇都宮市道場宿緑地（鬼怒川河川敷）', address: '宇都宮市道場宿町' },
     links: [
       L('2026うつのみや花火大会 公式サイト 開催概要', 'https://www.utsunomiya-hanabi.jp/summary'),
       WP('ar0309e01088'),
@@ -72,7 +72,7 @@ patchAll([
   // 日光花火大会。公式サイトに「栃木県日光市」と明記があり本人確認できた
   ['nikko-hanabi-ar0309e00578', {
     organizer: '日光花火大会実行委員会',
-    venue: { name: '日光だいや川公園河川敷・丸山公園', address: '栃木県日光市瀬川' },
+    venue: { name: '日光だいや川公園河川敷・丸山公園', address: '日光市瀬川' },
     links: [
       L('日光花火大会 公式サイト', 'https://www.nikko-hanabi.com/'),
       WP('ar0309e00578'),
@@ -89,7 +89,7 @@ patchAll([
   // 花火の時刻は note に書く（`docs/kanto-plan.md` の線引きに従う）
   ['tochigi-shi-watarase-yusuichi-hanabi', {
     organizer: '渡良瀬遊水地花火大会実行委員会',
-    venue: { name: '藤岡渡良瀬運動公園（渡良瀬遊水地）', address: '栃木県栃木市藤岡町藤岡字東原地先' },
+    venue: { name: '藤岡渡良瀬運動公園（渡良瀬遊水地）', address: '栃木市藤岡町藤岡字東原地先' },
     links: [
       L('第4回 渡良瀬遊水地花火大会 概要（公式）', 'https://watarase-hanabi.info/fireworks-display-overview2026/'),
       L('渡良瀬遊水地花火大会 公式サイト', 'https://watarase-hanabi.info/'),
@@ -142,7 +142,7 @@ patchAll([
   // 市のページに花火の時刻が無いので、時刻は前の出典のまま残す
   ['takasaki-hanabi-ar0310e00577', {
     organizer: '高崎市箕郷支所',
-    venue: { name: 'ふれあい公園', address: '群馬県高崎市箕郷町西明屋740' },
+    venue: { name: 'ふれあい公園', address: '高崎市箕郷町西明屋740' },
     links: [
       L('高崎市（箕郷支所）箕郷ふるさと祭り', 'https://www.city.takasaki.gunma.jp/page/40646.html'),
       WP('ar0310e00577'),
@@ -157,7 +157,7 @@ patchAll([
   // 沼田花火大会。実行委員会の公式サイトで第14回・9月12日を確認
   ['numata-hanabi-ar0310e40188', {
     organizer: '沼田花火大会実行委員会',
-    venue: { name: '沼田市運動公園', address: '群馬県沼田市硯田町626' },
+    venue: { name: '沼田市運動公園', address: '沼田市硯田町626' },
     links: [
       L('沼田花火大会 公式サイト', 'https://numatahanabi.com/'),
       L('沼田市 沼田花火大会', 'https://www.city.numata.gunma.jp/kanko/1004168/index.html'),
@@ -175,7 +175,7 @@ patchAll([
   ['annaka-hanabi-ar0310e513296', {
     organizer: '磯部温泉祭り実行委員会（磯部温泉組合）',
     station: 'JR信越本線 磯部駅',
-    venue: { name: '磯部温泉 碓氷川河川敷', address: '群馬県安中市磯部' },
+    venue: { name: '磯部温泉 碓氷川河川敷', address: '安中市磯部' },
     links: [
       L('磯部温泉 公式ホームページ 第75回 磯部温泉大花火大会', 'https://www.isobeonsen.com/%E3%80%90%E7%AC%AC75%E5%9B%9E-%E7%A3%AF%E9%83%A8%E6%B8%A9%E6%B3%89%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A%E3%80%91%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%86%85%E6%9C%80%E5%A4%9A%E9%96%8B%E5%82%AC'),
       WP('ar0310e513296'),

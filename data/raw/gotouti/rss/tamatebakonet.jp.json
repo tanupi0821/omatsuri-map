@@ -1,0 +1,14 @@
+{
+ "host": "tamatebakonet.jp",
+ "name": "多摩てばこネット",
+ "areas": [
+  "東京都立川市"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://www.tamatebakonet.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

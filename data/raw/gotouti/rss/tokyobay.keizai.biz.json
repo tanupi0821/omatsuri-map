@@ -1,0 +1,17 @@
+{
+ "host": "tokyobay.keizai.biz",
+ "name": "東京ベイ経済新聞",
+ "areas": [
+  "東京都"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://tokyobay.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

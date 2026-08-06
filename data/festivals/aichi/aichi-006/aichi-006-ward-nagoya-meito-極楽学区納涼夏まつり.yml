@@ -9,8 +9,8 @@ area:
 venue:
   name: 極楽小学校
   address: 名古屋市名東区高針台三丁目901
-  lat: null
-  lng: null
+  lat: 35.156213
+  lng: 137.016108
 organizer: null
 stalls: unknown
 tags: []

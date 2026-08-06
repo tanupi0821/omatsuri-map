@@ -1,0 +1,29 @@
+id: yamato-goguynet-61163
+name: 第1回 大和市花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 大和市
+  ward: null
+venue:
+  name: 大和市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yamato.goguynet.jp/2026/07/15/hanabi_yamatocity/
+    source_name: 号外NET 大和市
+    source_type: media
+    checked_at: 2026-08-04

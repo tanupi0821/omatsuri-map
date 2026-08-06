@@ -43,7 +43,7 @@ patchAll([
   // 酒田。**会場は両羽橋〜出羽大橋の間の最上川河川公園**
   ['yamagata-007-hanabi-ar0206e00028', {
     organizer: '酒田の花火実行委員会',
-    venue: { name: '最上川河川公園（国道7号両羽橋〜国道112号出羽大橋の間）', address: '山形県酒田市' },
+    venue: { name: '最上川河川公園（国道7号両羽橋〜国道112号出羽大橋の間）', address: '酒田市' },
     links: [
       L('酒田の花火2026 公式サイト 開催概要', 'https://sakata-hanabi.com/summary/'),
       WP('ar0206e00028'),
@@ -59,7 +59,7 @@ patchAll([
   // 山形大花火大会。**打上げは19:12〜20:25**（まとめサイトは19:00としていた）
   ['yamagata-002-hanabi-ar0206e00657', {
     organizer: '山形大花火大会実行委員会（公益社団法人山形青年会議所内）',
-    venue: { name: '霞城公園', address: '山形県山形市霞城町1-7' },
+    venue: { name: '霞城公園', address: '山形市霞城町1-7' },
     links: [
       L('山形大花火大会 公式サイト 2026年花火大会概要', 'https://yamagatahanabi.com/overview/'),
       WP('ar0206e00657'),
@@ -80,7 +80,7 @@ patchAll([
   // 盛岡。主催は盛岡商工会議所都南支所内の実行委員会
   ['iwate-003-hanabi-ar0203e00646', {
     organizer: '盛岡花火の祭典実行委員会（盛岡商工会議所都南支所）',
-    venue: { name: '都南大橋下流 北上川河川敷', address: '岩手県盛岡市' },
+    venue: { name: '都南大橋下流 北上川河川敷', address: '盛岡市' },
     links: [
       L('盛岡観光コンベンション協会 盛岡花火の祭典', 'https://www.odette.or.jp/?p=798'),
       WP('ar0203e00646'),
@@ -101,7 +101,7 @@ patchAll([
   // 石和温泉。会場の番地（石和町市部777）が主催側のページで取れた
   ['yamanashi-005-hanabi-ar0419e00682', {
     organizer: '一般社団法人笛吹市観光物産連盟（共催：笛吹市）',
-    venue: { name: '笛吹市役所前 笛吹川河川敷', address: '山梨県笛吹市石和町市部777' },
+    venue: { name: '笛吹市役所前 笛吹川河川敷', address: '笛吹市石和町市部777' },
     links: [
       L('笛吹市観光物産連盟 2026笛吹市夏祭り', 'https://www.fuefuki-kanko.jp/scontents/summerfes/'),
       WP('ar0419e00682'),
@@ -122,7 +122,7 @@ patchAll([
   // 大村。**長崎空港の最終便が発着したあとに打ち上げる**ので開始が21:30頃と遅い
   ['nagasaki-015-hanabi-ar1042e01032', {
     organizer: '一般社団法人大村市観光コンベンション協会',
-    venue: { name: 'ボートレース大村（大村湾）', address: '長崎県大村市玖島1丁目45-3' },
+    venue: { name: 'ボートレース大村（大村湾）', address: '大村市玖島1丁目45-3' },
     links: [
       L('大村市観光コンベンション協会 おおむら夏越花火大会特設ページ', 'https://e-oomura.jp/pages/45/'),
       WP('ar1042e01032'),

@@ -12,12 +12,10 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: yes
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: 大阪ミナミじゃーなる
-    url: https://osakaminami-journal.com/2026/06/15/%e3%83%af%e3%82%a4%e3%83%89%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ae%e6%b2%a1%e5%85%a5%e4%bd%93%e9%a8%93%ef%bc%81%e8%8a%b1%e7%81%ab%e3%81%a8%e3%83%89%e3%83%ad%e3%83%bc%e3%83%b3%e3%81%8c%e8%9e%8d%e5%90%88/
+links: []
 occurrences:
   - year: 2026
     dates:

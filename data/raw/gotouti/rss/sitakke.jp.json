@@ -1,0 +1,14 @@
+{
+ "host": "sitakke.jp",
+ "name": "Sitakke",
+ "areas": [
+  "北海道/dd>\n地域\n北海道"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://sitakke.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

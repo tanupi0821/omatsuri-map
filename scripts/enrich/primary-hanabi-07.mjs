@@ -31,7 +31,7 @@ patchAll([
   // 勝毎花火大会。主催の十勝毎日新聞社が大会概要のページを持っている
   ['hokkaido-008-hanabi-ar0101e01041', {
     organizer: '十勝毎日新聞社',
-    venue: { name: '十勝川河川敷特設会場（十勝大橋下流400m付近）', address: '北海道帯広市' },
+    venue: { name: '十勝川河川敷特設会場（十勝大橋下流400m付近）', address: '帯広市' },
     links: [
       L('勝毎花火大会 公式サイト 大会概要', 'https://kachimai-hanabi.com/pg.php?c=about_overview'),
       WP('ar0101e01041'),
@@ -65,7 +65,7 @@ patchAll([
   ['hokkaido-013-hanabi-ar0101e00710', {
     organizer: '函館港まつり実行委員会・北海道新聞函館支社',
     station: 'JR函館駅',
-    venue: { name: '緑の島', address: '北海道函館市大町15' },
+    venue: { name: '緑の島', address: '函館市大町15' },
     links: [
       L('北海道新聞「2026年夏 道新主催花火大会情報（函館市）」', 'https://www.hokkaido-np.co.jp/hanabi2026/hakodate/'),
       WP('ar0101e00710'),
@@ -98,7 +98,7 @@ patchAll([
   // 北海道芸術花火。会場の住所（モエレ沼公園1-1）が取れた
   ['hokkaido-017-hanabi-ar0101e05892', {
     organizer: '北海道芸術花火2026開催委員会／NPO法人北海道芸術花火',
-    venue: { name: 'モエレ沼公園', address: '北海道札幌市東区モエレ沼公園1-1' },
+    venue: { name: 'モエレ沼公園', address: '札幌市東区モエレ沼公園1-1' },
     links: [
       L('北海道芸術花火2026 公式サイト', 'https://www.moere.jp/'),
       WP('ar0101e05892'),
@@ -116,7 +116,7 @@ patchAll([
   ['hokkaido-020-hanabi-ar0101e00342', {
     organizer: '北海道新聞釧路支社',
     station: 'JR釧路駅',
-    venue: { name: '釧路川河口付近（幣舞橋下流）', address: '北海道釧路市幸町3丁目ほか' },
+    venue: { name: '釧路川河口付近（幣舞橋下流）', address: '釧路市幸町3丁目ほか' },
     links: [
       L('北海道新聞「2026年夏 道新主催花火大会情報（釧路市）」', 'https://www.hokkaido-np.co.jp/hanabi2026/kushiro/'),
       WP('ar0101e00342'),
@@ -131,7 +131,7 @@ patchAll([
   // 北見。**会場は「小泉河川敷グラウンド（常呂川河畔）」**
   ['hokkaido-028-hanabi-ar0101e00975', {
     organizer: '第73回北見ぼんちまつり実行委員会・北見市観光協会・北海道新聞北見支社',
-    venue: { name: '小泉河川敷グラウンド（常呂川河畔）', address: '北海道北見市' },
+    venue: { name: '小泉河川敷グラウンド（常呂川河畔）', address: '北見市' },
     links: [
       L('北海道新聞「2026年夏 道新主催花火大会情報（北見市）」', 'https://www.hokkaido-np.co.jp/hanabi2026/kitami/'),
       WP('ar0101e00975'),

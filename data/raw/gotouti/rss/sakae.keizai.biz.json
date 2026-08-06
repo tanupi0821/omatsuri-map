@@ -1,0 +1,17 @@
+{
+ "host": "sakae.keizai.biz",
+ "name": "サカエ経済新聞",
+ "areas": [
+  "愛知県名古屋市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://sakae.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

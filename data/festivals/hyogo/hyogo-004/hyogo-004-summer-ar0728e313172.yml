@@ -7,7 +7,7 @@ area:
   city: 西宮市
   ward: null
 venue:
-  name: えびす宮総本社　西宮神社
+  name: 西宮神社
   address: 西宮市社家町1-17
   lat: 34.735814
   lng: 135.33455
@@ -18,17 +18,22 @@ description: null
 links:
   - title: 公式サイト
     url: https://nishinomiya-ebisu.com/event/event01.html#16
+  - title: えびす宮総本社 西宮神社 七月（文月）の祭典・行事案内
+    url: https://nishinomiya-ebisu.com/event/fuzuki/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-07
+      - 2026-07-09
+      - 2026-07-10
       - 2026-07-20
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e313172/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://nishinomiya-ebisu.com/event/fuzuki/
+    source_name: 西宮神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月7日は神池のLED「天の川」（夕刻〜）、9日・10日はあらえびす夜まつり（ヱビスビールフェスタ・16:00〜21:00）、10日は沖恵美酒神社祭、20日は夏祭（10:00）とえびす萬燈籠（18:00点灯）
 station: 阪神電鉄西宮駅えびす口から南へ徒歩5分
+shrine: 西宮神社

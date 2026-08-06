@@ -1,0 +1,26 @@
+{
+ "host": "zushi-hayama.keizai.biz",
+ "name": "逗子葉山経済新聞",
+ "areas": [
+  "神奈川県逗子市",
+  "神奈川県三浦郡葉山町"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://zushi-hayama.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "1089",
+   "title": "葉山の花火大会10分間×2日間 突堤から打ち上げられる近さに歓声",
+   "url": "http://zushi-hayama.keizai.biz/headline/1089/",
+   "date": "2026-07-28",
+   "body": "「葉山海岸HANABI2026」が、7月22日に一色海岸で、24日に森戸海岸で、それぞれ開催された。 #逗子葉山経済新聞"
+  }
+ ]
+}

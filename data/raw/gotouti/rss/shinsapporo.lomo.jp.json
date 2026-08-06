@@ -1,0 +1,14 @@
+{
+ "host": "shinsapporo.lomo.jp",
+ "name": "新札幌情報ハンター（旧・新札幌情報ナビ）",
+ "areas": [
+  "北海道札幌市厚別区"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "http://shinsapporo.lomo.jp/wp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

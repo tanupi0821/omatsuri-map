@@ -15,20 +15,14 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 北九州ノコト
-    url: https://kitaq.media/136484/
-  - title: 北九州ノコト
-    url: https://kitaq.media/136555/
-  - title: 北九州ノコト
-    url: https://kitaq.media/136663/
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-06-06
       - 2026-06-07
-    start_time: 15:00
-    end_time: 21:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://kitaq.style/orio_matsuri_2026/
     source_name: キタキュースタイル

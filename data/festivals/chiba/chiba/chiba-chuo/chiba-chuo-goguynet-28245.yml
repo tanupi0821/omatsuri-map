@@ -1,0 +1,29 @@
+id: chiba-chuo-goguynet-28245
+name: 幕張ビーチ花火フェスタ2026
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 千葉市
+  ward: 中央区
+venue:
+  name: 千葉市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba.goguynet.jp/2026/07/26/chibaporttower-17/
+    source_name: 号外NET 千葉市
+    source_type: media
+    checked_at: 2026-08-04

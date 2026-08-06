@@ -1,0 +1,17 @@
+{
+ "host": "takasaki2shin.com",
+ "name": "たかさき通信",
+ "areas": [
+  "群馬県高崎市"
+ ],
+ "prefs": [
+  "群馬県"
+ ],
+ "url": "https://takasaki2shin.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

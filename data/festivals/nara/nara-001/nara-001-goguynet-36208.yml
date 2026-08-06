@@ -1,0 +1,30 @@
+id: nara-001-goguynet-36208
+name: イオンモール橿原 花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 橿原市
+  ward: null
+venue:
+  name: 橿原市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yamatotakadakashihara.goguynet.jp/2026/07/25/ion-356/
+    source_name: 号外NET 大和高田市・橿原市
+    source_type: media
+    checked_at: 2026-08-04

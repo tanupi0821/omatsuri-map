@@ -1,0 +1,14 @@
+{
+ "host": "drive-okinawa.com",
+ "name": "沖縄くるまーい",
+ "areas": [
+  "沖縄県"
+ ],
+ "prefs": [
+  "沖縄県"
+ ],
+ "url": "https://www.drive-okinawa.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

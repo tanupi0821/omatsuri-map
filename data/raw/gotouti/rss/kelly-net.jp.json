@@ -1,0 +1,14 @@
+{
+ "host": "kelly-net.jp",
+ "name": "日刊ケリー",
+ "areas": [
+  "愛知県名古屋市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://kelly-net.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

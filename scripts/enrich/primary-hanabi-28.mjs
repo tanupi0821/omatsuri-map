@@ -31,7 +31,7 @@ patchAll([
   ['hokkaido-021-hanabi-ar0101e510159', {
     organizer: '北海道新聞社',
     station: '地下鉄東豊線 福住駅（徒歩約10分）',
-    venue: { name: '大和ハウス プレミストドーム（屋外会場）', address: '北海道札幌市豊平区羊ケ丘1番地' },
+    venue: { name: '大和ハウス プレミストドーム（屋外会場）', address: '札幌市豊平区羊ケ丘1番地' },
     links: [L('道新・秋華火 公式ページ', 'https://moula.jp/LP/doshin_akihanabi/')],
     occurrence: {
       ...src(2026, 'https://moula.jp/LP/doshin_akihanabi/', '北海道新聞社', 'official'),
@@ -79,7 +79,7 @@ patchAll([
   // ライオンズ夏祭り。会場はベルーナドーム
   ['tokorozawa-goguynet-49324', {
     organizer: 'ライオンズ夏祭り2026 事務局',
-    venue: { name: 'ベルーナドーム', address: '埼玉県所沢市大字上山口2135' },
+    venue: { name: 'ベルーナドーム', address: '所沢市大字上山口2135' },
     links: [L('埼玉西武ライオンズ ライオンズ夏祭り2026', 'https://www.seibulions.jp/special/lionsnatsumatsuri/')],
     occurrence: {
       ...src(2026, 'https://www.seibulions.jp/special/lionsnatsumatsuri/', '埼玉西武ライオンズ', 'official'),
@@ -95,7 +95,7 @@ patchAll([
   // レゴランドのまつりナイト。会場の住所が取れた
   ['aichi-014-summer-ar0623e558284', {
     organizer: 'LEGOLAND Japan合同会社',
-    venue: { name: 'レゴランド・ジャパン・リゾート', address: '愛知県名古屋市港区金城ふ頭二丁目7番地1' },
+    venue: { name: 'レゴランド・ジャパン・リゾート', address: '名古屋市港区金城ふ頭二丁目7番地1' },
     links: [L('レゴランド・ジャパン まつりナイト2026', 'https://www.legoland.jp/operation/seasonal-events/night/2026/matsurinight/')],
     occurrence: {
       ...src(2026, 'https://www.legoland.jp/operation/seasonal-events/night/2026/matsurinight/', 'LEGOLAND Japan合同会社', 'official'),

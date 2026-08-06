@@ -1,0 +1,17 @@
+{
+ "host": "sapporo-list.info",
+ "name": "札幌リスト",
+ "areas": [
+  "北海道札幌市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://sapporo-list.info/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

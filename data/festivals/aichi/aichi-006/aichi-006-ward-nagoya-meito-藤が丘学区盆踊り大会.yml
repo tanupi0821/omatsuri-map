@@ -9,8 +9,8 @@ area:
 venue:
   name: 藤が丘小学校
   address: 名古屋市名東区藤が丘54
-  lat: null
-  lng: null
+  lat: 35.184468
+  lng: 137.019633
 organizer: null
 stalls: unknown
 tags: []

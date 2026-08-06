@@ -1,0 +1,14 @@
+{
+ "host": "timeout.jp",
+ "name": "Time Out Tokyo",
+ "areas": [
+  "東京都"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://www.timeout.jp/tokyo/ja",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

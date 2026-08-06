@@ -12,12 +12,10 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: yes
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: ミヤキジ
-    url: https://sasakizai.com/oosakihanabitaikaityuusi/
+links: []
 occurrences:
   - year: 2026
     dates:

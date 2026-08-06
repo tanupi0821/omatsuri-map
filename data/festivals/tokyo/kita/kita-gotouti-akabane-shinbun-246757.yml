@@ -15,17 +15,7 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links:
-  - title: 赤羽マガジン新聞
-    url: https://akabane-shinbun.com/archives/253256
-  - title: 赤羽マガジン新聞
-    url: https://akabane-shinbun.com/archives/259579
-  - title: 赤羽マガジン新聞
-    url: https://akabane-shinbun.com/archives/259622
-  - title: 赤羽マガジン新聞
-    url: https://akabane-shinbun.com/archives/259743
-  - title: 赤羽マガジン新聞
-    url: https://akabane-shinbun.com/archives/259996
+links: []
 occurrences:
   - year: 2026
     dates:

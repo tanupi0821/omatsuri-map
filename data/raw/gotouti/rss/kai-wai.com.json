@@ -1,0 +1,14 @@
+{
+ "host": "kai-wai.com",
+ "name": "kai-wai SAPPORO",
+ "areas": [
+  "北海道札幌市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://www.kai-wai.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

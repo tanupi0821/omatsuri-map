@@ -39,7 +39,7 @@ patchAll([
   // 「どこで」は日程表を見てもらうしかない
   ['gifu-005-summer-ar0621e74346', {
     organizer: '郡上おどり運営委員会（郡上市商工観光部観光課）',
-    venue: { name: '郡上八幡の市街地（旧庁舎記念館前・本町・新町など夜ごとに移動）', address: '岐阜県郡上市八幡町' },
+    venue: { name: '郡上八幡の市街地（旧庁舎記念館前・本町・新町など夜ごとに移動）', address: '郡上市八幡町' },
     links: [
       L('郡上市 令和8年度「郡上おどり」の開催について', GUJO),
       L('郡上市 令和8年 郡上おどり日程表（PDF）', 'https://www.city.gujo.gifu.jp/admin/info/docs/c242ca6b44d5f0cc9c5aac3dbee8e5598fb66ae0.pdf'),
@@ -66,7 +66,7 @@ patchAll([
   // データの7月9日〜9月20日という範囲は拝殿踊りの初日と最終日だった
   ['gifu-005-summer-ar0621e74794', {
     organizer: '白鳥おどり実行委員会（白鳥観光協会）',
-    venue: { name: '白鳥の市街地（新栄町・下本町・駅前通りなど）／拝殿踊りは長滝白山神社・白鳥神社ほか', address: '岐阜県郡上市白鳥町' },
+    venue: { name: '白鳥の市街地（新栄町・下本町・駅前通りなど）／拝殿踊りは長滝白山神社・白鳥神社ほか', address: '郡上市白鳥町' },
     links: [
       L('郡上市 令和8年度「白鳥おどり」の開催について', GUJO),
       L('郡上市 R8年度 白鳥おどり日程表（PDF）', 'https://www.city.gujo.gifu.jp/admin/info/docs/0ff70f5cdd01ab8264fc6abc42c2387b5cc132a3.pdf'),

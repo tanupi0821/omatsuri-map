@@ -1,0 +1,29 @@
+id: meguro-goguynet-117007
+name: 鬼子母尊神大祭満願会（まんがんえ）
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 目黒区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://meguro.goguynet.jp/2026/04/05/shokakuji_nakameguro5/
+    source_name: 号外NET 目黒区
+    source_type: media
+    checked_at: 2026-08-04

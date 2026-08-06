@@ -1,0 +1,29 @@
+id: mihama-goguynet-27958
+name: 幕張ビーチ花火フェスタ2026 （第48回千葉市民花火大会）
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 千葉市
+  ward: 美浜区
+venue:
+  name: 千葉市美浜区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba.goguynet.jp/2026/04/29/makuharikaihinkoen/
+    source_name: 号外NET 千葉市
+    source_type: media
+    checked_at: 2026-08-04

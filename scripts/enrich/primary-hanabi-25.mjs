@@ -30,7 +30,7 @@ patchAll([
     shrine: '焼津神社',
     recurrence: '8月12日・13日',
     recurrence_source: 'https://yaizujinja.or.jp/annai/aramaturi/',
-    venue: { name: '焼津神社', address: '静岡県焼津市焼津二丁目7番2号' },
+    venue: { name: '焼津神社', address: '焼津市焼津二丁目7番2号' },
     links: [L('焼津神社 荒祭', 'https://yaizujinja.or.jp/annai/aramaturi/')],
     occurrence: {
       ...src(2026, 'https://yaizujinja.or.jp/annai/aramaturi/', '焼津神社', 'official'),
@@ -43,7 +43,7 @@ patchAll([
   // 富士まつり。会場と時間帯が市のページで取れた
   ['shizuoka-020-hanabi-ar0622e357468', {
     organizer: '富士まつり運営委員会',
-    venue: { name: '中央公園・中央公園前 青葉通り', address: '静岡県富士市' },
+    venue: { name: '中央公園・中央公園前 青葉通り', address: '富士市' },
     links: [L('富士市 富士まつり', 'https://www.city.fuji.shizuoka.jp/fujijikan/enjoy/kb719c00000006jt.html')],
     occurrence: {
       ...src(2026, 'https://www.city.fuji.shizuoka.jp/fujijikan/enjoy/kb719c00000006jt.html', '富士市', 'gov'),
@@ -60,7 +60,7 @@ patchAll([
   // 十日町おおまつり。**8月25日・26日・27日の3日間**
   ['niigata-001-summer-ar0415e196957', {
     organizer: '十日町市観光協会',
-    venue: { name: '駅通り・本町通りほか', address: '新潟県十日町市' },
+    venue: { name: '駅通り・本町通りほか', address: '十日町市' },
     links: [L('十日町市観光協会 十日町おおまつり', 'https://www.tokamachishikankou.jp/event/tokamashioomatsuri/')],
     occurrence: {
       ...src(2026, 'https://www.tokamachishikankou.jp/event/tokamashioomatsuri/', '十日町市観光協会', 'official'),
@@ -76,7 +76,7 @@ patchAll([
 
   // ゆふいん盆地まつり。市のページで第58回・2日間を確認
   ['oita-006-summer-ar1044e190830', {
-    venue: { name: '湯布院町内', address: '大分県由布市湯布院町' },
+    venue: { name: '湯布院町内', address: '由布市湯布院町' },
     links: [L('由布市 ゆふいん盆地まつり', 'https://www.city.yufu.oita.jp/event08/yufuinbontimaturi')],
     occurrence: {
       ...src(2026, 'https://www.city.yufu.oita.jp/event08/yufuinbontimaturi', '由布市', 'gov'),
@@ -94,7 +94,7 @@ patchAll([
   ['higashimatsuyama-goguynet-68050', {
     organizer: '東松山夏まつり実行委員会',
     station: '東武東上線 東松山駅',
-    venue: { name: '本町・材木町・箭弓町・松葉町ほか', address: '埼玉県東松山市' },
+    venue: { name: '本町・材木町・箭弓町・松葉町ほか', address: '東松山市' },
     links: [L('東松山市 東松山夏まつり', 'https://www.city.higashimatsuyama.lg.jp/soshiki/18/1502.html')],
     occurrence: {
       ...src(2026, 'https://www.city.higashimatsuyama.lg.jp/soshiki/18/1502.html', '東松山市', 'gov'),

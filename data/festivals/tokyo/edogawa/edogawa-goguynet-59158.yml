@@ -1,0 +1,30 @@
+id: edogawa-goguynet-59158
+name: 第51回江戸川区花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江戸川区
+  ward: null
+venue:
+  name: 江戸川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://edogawa.goguynet.jp/2026/07/31/edogawahanabi/
+    source_name: 号外NET 江戸川区
+    source_type: media
+    checked_at: 2026-08-04

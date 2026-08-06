@@ -1,0 +1,17 @@
+{
+ "host": "okayama.keizai.biz",
+ "name": "岡山経済新聞",
+ "areas": [
+  "岡山県"
+ ],
+ "prefs": [
+  "岡山県"
+ ],
+ "url": "https://okayama.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

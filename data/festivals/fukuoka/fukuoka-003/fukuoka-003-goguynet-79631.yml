@@ -1,0 +1,29 @@
+id: fukuoka-003-goguynet-79631
+name: 原鶴温泉川開き花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 朝倉市
+  ward: null
+venue:
+  name: 原鶴温泉
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/04/29/harazuru_hanabi2026/
+    source_name: 号外NET 筑紫野市・太宰府市・朝倉市
+    source_type: media
+    checked_at: 2026-08-04

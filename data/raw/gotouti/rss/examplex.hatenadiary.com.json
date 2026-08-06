@@ -1,0 +1,22 @@
+{
+ "host": "examplex.hatenadiary.com",
+ "name": "タイトルは決まっていません。",
+ "areas": [
+  "広島県福山市",
+  "岡山県岡山市",
+  "岡山県倉敷市",
+  "岡山県笠岡市",
+  "岡山県浅口市"
+ ],
+ "prefs": [
+  "広島県",
+  "岡山県"
+ ],
+ "url": "https://examplex.hatenadiary.com/",
+ "via": "rss",
+ "feed": "/rss",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

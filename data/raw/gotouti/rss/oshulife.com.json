@@ -1,0 +1,17 @@
+{
+ "host": "oshulife.com",
+ "name": "奥州ライフ",
+ "areas": [
+  "岩手県奥州市"
+ ],
+ "prefs": [
+  "岩手県"
+ ],
+ "url": "http://oshulife.com/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

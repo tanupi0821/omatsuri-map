@@ -1,0 +1,30 @@
+id: yamaguchi-013-goguynet-118284
+name: 第47回 東川ぼんぼりまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 周南市
+  ward: null
+venue:
+  name: 周南市柳町・東川緑地公園周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-04
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/04/02/2026-4-4-5event/
+    source_name: 号外NET 周南市・下松市・光市
+    source_type: media
+    checked_at: 2026-08-04

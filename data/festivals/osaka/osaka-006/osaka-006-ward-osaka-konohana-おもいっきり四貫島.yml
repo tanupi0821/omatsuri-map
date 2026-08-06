@@ -9,8 +9,8 @@ area:
 venue:
   name: 此花区民一休ホール
   address: 大阪市此花区四貫島1-1-18
-  lat: null
-  lng: null
+  lat: 34.685854
+  lng: 135.457175
 organizer: null
 stalls: unknown
 tags: []

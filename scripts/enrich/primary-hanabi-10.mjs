@@ -26,7 +26,7 @@ patchAll([
   // 諏訪湖。主催は諏訪湖祭実行委員会（諏訪市役所観光課内）
   ['nagano-005-hanabi-ar0420e00799', {
     organizer: '諏訪湖祭実行委員会（諏訪市役所観光課内）',
-    venue: { name: '上諏訪温泉 諏訪湖上（湖畔公園前）', address: '長野県諏訪市' },
+    venue: { name: '上諏訪温泉 諏訪湖上（湖畔公園前）', address: '諏訪市' },
     links: [
       L('諏訪市観光ガイド（諏訪観光協会）2026 諏訪湖の花火', 'https://www.suwakanko.jp/story/hanabi-suwako/'),
       WP('ar0420e00799'),
@@ -47,7 +47,7 @@ patchAll([
   // 全体の時間帯を start/end に入れ、内訳は note に書く
   ['akita-005-hanabi-ar0205e00654', {
     organizer: '大曲商工会議所・大仙市',
-    venue: { name: '「大曲の花火」公園（雄物川河畔）', address: '秋田県大仙市大曲雄物川河畔' },
+    venue: { name: '「大曲の花火」公園（雄物川河畔）', address: '大仙市大曲雄物川河畔' },
     links: [
       L('大曲の花火 公式サイト 開催概要（全国花火競技大会）', 'https://www.omagari-hanabi.com/overview/summer'),
       WP('ar0205e00654'),
@@ -64,7 +64,7 @@ patchAll([
   // 大館。**大文字焼き（第58回）と花火大会（第72回）で回数が違う**同じ祭りの中の行事
   ['akita-003-hanabi-ar0205e00041', {
     organizer: '大館大文字まつり実行委員会',
-    venue: { name: '長木川河川敷', address: '秋田県大館市' },
+    venue: { name: '長木川河川敷', address: '大館市' },
     links: [
       L('大館市 大館大文字まつり', 'https://www.city.odate.lg.jp/city/kankou/festibal/festa/summer/daimonzi'),
       WP('ar0205e00041'),
@@ -81,7 +81,7 @@ patchAll([
   ['akita-009-hanabi-ar0205e01043', {
     organizer: '能代の花火実行委員会（能代商工会議所内）',
     station: 'JR五能線 能代駅',
-    venue: { name: '能代港下浜ふ頭 特設会場', address: '秋田県能代市' },
+    venue: { name: '能代港下浜ふ頭 特設会場', address: '能代市' },
     links: [
       L('能代観光協会 第22回港まつり 能代の花火', 'https://welcomenoshiro.com/event/22thnoshiro%EF%BD%B0hanabi/'),
       L('能代の花火 公式サイト', 'https://noshiro-hanabi.com/'),
@@ -104,7 +104,7 @@ patchAll([
   ['hyogo-005-hanabi-ar0728e00353', {
     organizer: '姫路みなと祭協賛会',
     station: '山陽電鉄 飾磨駅',
-    venue: { name: '姫路港（飾磨地区）', address: '兵庫県姫路市飾磨区' },
+    venue: { name: '姫路港（飾磨地区）', address: '姫路市飾磨区' },
     links: [
       L('姫路市「姫路みなと祭海上花火大会2026」の開催について', 'https://www.city.himeji.lg.jp/shisei/0000033517.html'),
       WP('ar0728e00353'),
@@ -122,7 +122,7 @@ patchAll([
   // 2026年は熱中症対策のため8月から11月に移した
   ['hyogo-010-hanabi-ar0728e00767', {
     organizer: '猪名川花火大会開催委員会（池田市・川西市）',
-    venue: { name: '猪名川河川敷（大阪側＝池田市桃園／兵庫側＝川西市小花・下加茂）', address: '兵庫県川西市小花' },
+    venue: { name: '猪名川河川敷（大阪側＝池田市桃園／兵庫側＝川西市小花・下加茂）', address: '川西市小花' },
     links: [
       L('池田市「令和8年第77回猪名川花火大会の開催について」', 'https://www.city.ikeda.osaka.jp/soshiki/siminseikatsu/citypro/event/18901.html'),
       WP('ar0728e00767'),

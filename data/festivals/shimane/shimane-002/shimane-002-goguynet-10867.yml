@@ -1,0 +1,30 @@
+id: shimane-002-goguynet-10867
+name: 松江水郷祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 松江市
+  ward: null
+venue:
+  name: 松江市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsue-yasugi.goguynet.jp/2026/07/31/suigosai_kotsukisei/
+    source_name: 号外NET 松江市・安来市
+    source_type: media
+    checked_at: 2026-08-04

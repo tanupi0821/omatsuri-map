@@ -9,8 +9,8 @@ area:
 venue:
   name: 緑小学校
   address: 名古屋市緑区鳴海町前之輪24
-  lat: null
-  lng: null
+  lat: 35.075332
+  lng: 136.943912
 organizer: 緑学区
 stalls: unknown
 tags: []

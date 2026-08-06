@@ -31,7 +31,7 @@ patchAll([
     shrine: '綴子神社',
     recurrence: '7月14日・15日',
     recurrence_source: 'https://www.city.kitaakita.akita.jp/archive/contents-6038',
-    venue: { name: '綴子神社', address: '秋田県北秋田市綴子' },
+    venue: { name: '綴子神社', address: '北秋田市綴子' },
     links: [L('北秋田市 八幡宮綴子神社例大祭', 'https://www.city.kitaakita.akita.jp/archive/contents-6038')],
     occurrence: {
       ...src(2026, 'https://www.city.kitaakita.akita.jp/archive/contents-6038', '北秋田市', 'gov'),
@@ -51,7 +51,7 @@ patchAll([
     shrine: '亀岡八幡宮',
     recurrence: '7月16日',
     recurrence_source: 'https://www.kanagawa-jinja.or.jp/shrine/1205122-000/',
-    venue: { name: '亀岡八幡宮', address: '神奈川県逗子市逗子5-2-13' },
+    venue: { name: '亀岡八幡宮', address: '逗子市逗子5-2-13' },
     links: [L('神奈川県神社庁 亀岡八幡宮', 'https://www.kanagawa-jinja.or.jp/shrine/1205122-000/')],
     occurrence: {
       ...src(2026, 'https://www.kanagawa-jinja.or.jp/shrine/1205122-000/', '神奈川県神社庁', 'official'),
@@ -67,7 +67,7 @@ patchAll([
     shrine: '冨塚八幡宮',
     recurrence: '8月第1日曜日',
     recurrence_source: 'https://www.kanagawa-jinja.or.jp/shrine/1204082-000/',
-    venue: { name: '冨塚八幡宮', address: '神奈川県横浜市戸塚区戸塚町3828' },
+    venue: { name: '冨塚八幡宮', address: '横浜市戸塚区戸塚町3828' },
     links: [L('神奈川県神社庁 冨塚八幡宮', 'https://www.kanagawa-jinja.or.jp/shrine/1204082-000/')],
     occurrence: {
       ...src(2026, 'https://www.kanagawa-jinja.or.jp/shrine/1204082-000/', '神奈川県神社庁', 'official'),
@@ -81,7 +81,7 @@ patchAll([
   // したがって住所などの事実だけ入れ、**出典は差し替えない**
   ['nakahara-shinjo-jinja-bonodori', {
     shrine: '新城神社',
-    venue: { name: '新城神社', address: '神奈川県川崎市中原区新城中町4-14' },
+    venue: { name: '新城神社', address: '川崎市中原区新城中町4-14' },
     links: [L('神奈川県神社庁 新城神社', 'https://www.kanagawa-jinja.or.jp/shrine/1201044-000/')],
   }],
 
@@ -92,7 +92,7 @@ patchAll([
   // みやざき青島国際ビールまつり。会場（こどものくに）の住所が取れた
   ['miyazaki-004-hanabi-ar1045e00463', {
     organizer: 'みやざき青島国際ビールまつり実行委員会',
-    venue: { name: 'こどものくに（ホテル側広場）', address: '宮崎県宮崎市青島1丁目1-1' },
+    venue: { name: 'こどものくに（ホテル側広場）', address: '宮崎市青島1丁目1-1' },
     links: [L('宮崎市観光協会 みやざき青島国際ビールまつり', 'https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_thingtao')],
     occurrence: {
       ...src(2026, 'https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_thingtao', '宮崎市観光協会', 'official'),

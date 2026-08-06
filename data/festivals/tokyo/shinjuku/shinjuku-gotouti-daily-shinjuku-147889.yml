@@ -9,15 +9,13 @@ area:
 venue:
   name: 東急歌舞伎町タワー(東京都新宿区歌舞伎町1-29-1)
   address: null
-  lat: 35.695751
-  lng: 139.698014
+  lat: null
+  lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links:
-  - title: 東京フェスタ
-    url: https://tokyofesta.com/23ku/32259/
+links: []
 occurrences:
   - year: 2026
     dates:

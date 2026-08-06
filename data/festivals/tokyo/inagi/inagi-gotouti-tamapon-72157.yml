@@ -11,20 +11,18 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: 東京蚤の市実行委員会
+organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 東京フェスタ
-    url: https://tokyofesta.com/tama/31580/
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: 15:00
-    end_time: 21:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://tamapon.com/2026/06/06/tokyonominoichi2026_summer/
     source_name: 多摩ポン

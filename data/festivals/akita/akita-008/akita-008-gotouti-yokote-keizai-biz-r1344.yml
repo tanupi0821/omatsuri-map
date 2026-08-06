@@ -1,0 +1,29 @@
+id: akita-008-gotouti-yokote-keizai-biz-r1344
+name: トントン拍子祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 秋田県
+  city: 横手市
+  ward: null
+venue:
+  name: 横手市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://yokote.keizai.biz/headline/1344/
+    source_name: 横手経済新聞
+    source_type: media
+    checked_at: 2026-08-06

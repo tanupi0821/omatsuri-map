@@ -1,0 +1,16 @@
+{
+ "host": "muhouse.cocolog-nifty.com",
+ "name": "国国 City Blog",
+ "areas": [
+  "東京都国立市",
+  "東京都国分寺市",
+  "東京都立川市"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://muhouse.cocolog-nifty.com/kunikuni/",
+ "via": "rss",
+ "skipped": "robots取得不可 (UND_ERR_CONNECT_TIMEOUT)",
+ "items": []
+}

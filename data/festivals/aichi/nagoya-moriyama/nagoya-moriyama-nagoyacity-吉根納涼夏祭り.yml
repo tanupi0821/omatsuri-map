@@ -9,8 +9,8 @@ area:
 venue:
   name: 吉根公園
   address: 名古屋市守山区吉根三丁目
-  lat: null
-  lng: null
+  lat: 35.23886
+  lng: 136.99955
 recurrence: 8月第2土曜日
 recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
 organizer: null

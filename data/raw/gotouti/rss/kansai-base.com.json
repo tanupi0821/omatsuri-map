@@ -1,0 +1,22 @@
+{
+ "host": "kansai-base.com",
+ "name": "関西ベース",
+ "areas": [
+  "大阪府",
+  "京都府",
+  "兵庫県",
+  "奈良県",
+  "滋賀県"
+ ],
+ "prefs": [
+  "大阪府",
+  "京都府",
+  "兵庫県",
+  "奈良県",
+  "滋賀県"
+ ],
+ "url": "https://kansai-base.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

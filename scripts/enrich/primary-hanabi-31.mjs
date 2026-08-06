@@ -33,7 +33,7 @@ patchAll([
   ['hyogo-011-goguynet-46024', {
     organizer: 'ゆめ広場ふれあい夏まつり実行委員会',
     station: '阪急宝塚線 宝塚駅',
-    venue: { name: 'ソリオ宝塚 ゆめ広場一帯', address: '兵庫県宝塚市栄町2丁目' },
+    venue: { name: 'ソリオ宝塚 ゆめ広場一帯', address: '宝塚市栄町2丁目' },
     links: [L('宝塚市 ゆめ広場ふれあい夏まつり', 'https://www.city.takarazuka.hyogo.jp/event/1000043/1061701/1063688.html')],
     occurrence: {
       ...src(2026, 'https://www.city.takarazuka.hyogo.jp/event/1000043/1061701/1063688.html', '宝塚市', 'gov'),
@@ -51,7 +51,7 @@ patchAll([
   ['kumamoto-001-summer-ar1043e153733', {
     recurrence: '8月13日',
     recurrence_source: 'https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981',
-    venue: { name: '宮原 ケヤキ広場周辺', address: '熊本県阿蘇郡小国町宮原' },
+    venue: { name: '宮原 ケヤキ広場周辺', address: '阿蘇郡小国町宮原' },
     links: [L('小国町 ふるさとの夏祭り', 'https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981')],
     occurrence: {
       ...src(2026, 'https://www.town.kumamoto-oguni.lg.jp/toppage/toppage_hihyoji/20981', '小国町', 'gov'),
@@ -67,7 +67,7 @@ patchAll([
   // 風早海まつり。**会場は北条港の外港野積場**（まとめサイトより具体的）。
   // 花火は20:20から
   ['ehime-007-hanabi-ar0938e469533', {
-    venue: { name: '北条港 外港野積場', address: '愛媛県松山市北条辻' },
+    venue: { name: '北条港 外港野積場', address: '松山市北条辻' },
     links: [L('松山市 夏のまつり・イベント（風早海まつり）', 'https://www.city.matsuyama.ehime.jp/kanko/kankoguide/matsurievent/matsuri-summer.html')],
     occurrence: {
       ...src(2026, 'https://www.city.matsuyama.ehime.jp/kanko/kankoguide/matsurievent/matsuri-summer.html', '松山市', 'gov'),

@@ -30,7 +30,7 @@ patchAll([
   ['hokkaido-033-hanabi-ar0101e00742', {
     organizer: '千歳市民花火大会実行委員会',
     station: 'JR千歳駅（バス「桜木線」で北桜コミュニティセンター前下車）',
-    venue: { name: '陸上自衛隊北千歳駐屯地内 スキー山横', address: '北海道千歳市北信濃724番地' },
+    venue: { name: '陸上自衛隊北千歳駐屯地内 スキー山横', address: '千歳市北信濃724番地' },
     links: [L('千歳商工会議所 千歳市空港開港100年記念 千歳市民花火大会', 'https://www.chitose-cci.or.jp/information/view/87')],
     occurrence: {
       ...src(2026, 'https://www.chitose-cci.or.jp/information/view/87', '千歳市民花火大会実行委員会（千歳商工会議所）', 'official'),
@@ -47,7 +47,7 @@ patchAll([
   // おわせ港まつり。荒天時は翌日に順延
   ['mie-015-hanabi-ar0624e00208', {
     organizer: '第73回おわせ港まつり実行委員会',
-    venue: { name: '尾鷲港周辺', address: '三重県尾鷲市' },
+    venue: { name: '尾鷲港周辺', address: '尾鷲市' },
     links: [L('尾鷲観光物産協会 第73回おわせ港まつり', 'https://owasekankou.com/special/minatomatsuri/')],
     occurrence: {
       ...src(2026, 'https://owasekankou.com/special/minatomatsuri/', '尾鷲観光物産協会', 'official'),
@@ -64,7 +64,7 @@ patchAll([
     station: '近鉄志摩線 鵜方駅（三交バス御座行きで約47分、「和具」下車）',
     recurrence: '7月14日（前夜祭は7月13日）',
     recurrence_source: 'https://www.iseshima-kanko.jp/event/1020',
-    venue: { name: '和具漁港 魚市場周辺', address: '三重県志摩市志摩町和具' },
+    venue: { name: '和具漁港 魚市場周辺', address: '志摩市志摩町和具' },
     links: [L('伊勢志摩観光ナビ（志摩市観光協会）潮かけ祭り', 'https://www.iseshima-kanko.jp/event/1020')],
     occurrence: {
       ...src(2026, 'https://www.iseshima-kanko.jp/event/1020', '一般社団法人志摩市観光協会', 'official'),
@@ -129,7 +129,7 @@ patchAll([
     shrine: '今井津須佐神社',
     recurrence: '7月中旬〜8月初旬',
     recurrence_source: 'https://www.city.yukuhashi.fukuoka.jp/site/bunkazai/27697.html',
-    venue: { name: '今井津須佐神社・今井西公民館', address: '福岡県行橋市元永1299' },
+    venue: { name: '今井津須佐神社・今井西公民館', address: '行橋市元永1299' },
     links: [L('行橋市 今井祇園行事', 'https://www.city.yukuhashi.fukuoka.jp/site/bunkazai/27697.html')],
     occurrence: {
       ...src(2026, 'https://www.city.yukuhashi.fukuoka.jp/site/bunkazai/27697.html', '行橋市', 'gov'),
@@ -147,7 +147,7 @@ patchAll([
   ['hyogo-001-summer-ar0728e194700', {
     organizer: 'こうべ海の盆踊り実行委員会',
     station: '神戸市営地下鉄海岸線 みなと元町駅（徒歩7分）／JR・阪神 元町駅（徒歩10分）',
-    venue: { name: 'メリケンパーク', address: '兵庫県神戸市中央区波止場町2-2' },
+    venue: { name: 'メリケンパーク', address: '神戸市中央区波止場町2-2' },
     links: [L('神戸市中央区 こうべ海の盆踊り2026', 'https://www.city.kobe.lg.jp/d49614/kuyakusho/chuoku/keikaku/uminobon/top.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kobe.lg.jp/d49614/kuyakusho/chuoku/keikaku/uminobon/top.html', '神戸市', 'gov'),

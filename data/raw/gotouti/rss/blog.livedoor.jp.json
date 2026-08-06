@@ -1,0 +1,16 @@
+{
+ "host": "blog.livedoor.jp",
+ "name": "白井市速報 (ﾉ∀`)",
+ "areas": [
+  "千葉県白井市",
+  "千葉県印西市",
+  "千葉県鎌ケ谷市"
+ ],
+ "prefs": [
+  "千葉県"
+ ],
+ "url": "http://blog.livedoor.jp/shiroish/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

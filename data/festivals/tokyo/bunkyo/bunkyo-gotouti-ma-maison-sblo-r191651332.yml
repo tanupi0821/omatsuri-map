@@ -1,0 +1,29 @@
+id: bunkyo-gotouti-ma-maison-sblo-r191651332
+name: 播磨坂さくらまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 文京区
+  ward: null
+venue:
+  name: 文京区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://ma-maison.sblo.jp/article/191651332.html
+    source_name: 播磨坂わんだ～ぁらぅんど
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,17 @@
+{
+ "host": "float-shonai.com",
+ "name": "FLOAT SHONAI",
+ "areas": [
+  "山形県鶴岡市",
+  "山形県酒田市",
+  "山形県庄内町",
+  "山形県三川町"
+ ],
+ "prefs": [
+  "山形県"
+ ],
+ "url": "http://float-shonai.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

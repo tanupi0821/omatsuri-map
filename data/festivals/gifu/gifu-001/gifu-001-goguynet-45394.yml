@@ -1,0 +1,29 @@
+id: gifu-001-goguynet-45394
+name: 第70回大垣花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 大垣市
+  ward: null
+venue:
+  name: 大垣市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ogaki.goguynet.jp/2026/06/21/ogaki_hanabi2026/
+    source_name: 号外NET 大垣市（西濃地域）
+    source_type: media
+    checked_at: 2026-08-04

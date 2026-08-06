@@ -15,11 +15,7 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 埼玉マガジン
-    url: https://saitama-city-marathon.jp/2026/07/09/kounosusi-422/
-  - title: 埼玉マガジン
-    url: https://saitama-city-marathon.jp/2026/07/11/kounosusi-423/
+links: []
 occurrences:
   - year: 2026
     dates:

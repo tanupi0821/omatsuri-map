@@ -12,7 +12,7 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: yes
+stalls: unknown
 tags: []
 description: null
 links: []

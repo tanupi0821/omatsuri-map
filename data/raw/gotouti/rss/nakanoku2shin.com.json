@@ -1,0 +1,17 @@
+{
+ "host": "nakanoku2shin.com",
+ "name": "なかのく通信",
+ "areas": [
+  "東京都中野区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://nakanoku2shin.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

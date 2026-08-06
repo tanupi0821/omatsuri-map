@@ -9,8 +9,8 @@ area:
 venue:
   name: 前山小学校
   address: 名古屋市名東区牧の里二丁目1501
-  lat: null
-  lng: null
+  lat: 35.152085
+  lng: 137.004304
 organizer: null
 stalls: unknown
 tags: []

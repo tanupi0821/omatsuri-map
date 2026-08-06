@@ -7,11 +7,11 @@ area:
   city: 八戸市
   ward: null
 venue:
-  name: 八戸市中心街
-  address: 八戸市内丸
+  name: 八戸市中心街（おがみ神社・長者山新羅神社・八戸市庁前ほか）
+  address: 八戸市
   lat: 40.511558
   lng: 141.489273
-organizer: 八戸三社大祭実行委員会
+organizer: 八戸三社大祭運営委員会
 stalls: yes
 tags: []
 description: null
@@ -22,15 +22,18 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
+      - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
       - 2026-08-04
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e473095/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://visithachinohe.com/stories/sannshataisai_schedule/
+    source_name: 八戸観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月31日が前夜祭（18:00〜21:00）、8月1日がお通り（15:00〜19:00）、2日が長者山新羅神社例祭と加賀美流騎馬打毬・夜間山車運行、3日がお還り、4日が後夜祭。データは端の2日しか持っていなかった
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG/1280px-Hachinohe_Sansha_Taisai_Festival%2C_2_August_2014-002.JPG
     width: 1000

@@ -1,0 +1,14 @@
+{
+ "host": "ofuna.net",
+ "name": "大船ランチガイド",
+ "areas": [
+  "神奈川県鎌倉市"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://ofuna.net/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

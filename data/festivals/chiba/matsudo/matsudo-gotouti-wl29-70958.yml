@@ -15,16 +15,14 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 松戸つうしん
-    url: https://matsudo-tsushin.com/48388.html
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: 18:00
-    end_time: 20:30
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://wl29.net/2026/07/05/matsudok88372265/
     source_name: 松戸ロード　松戸の地域情報ブログ

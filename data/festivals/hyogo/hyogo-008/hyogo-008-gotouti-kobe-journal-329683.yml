@@ -12,12 +12,10 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: yes
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: 神戸ジャーナル
-    url: https://kobe-journal.com/archives/8696284824.html
+links: []
 occurrences:
   - year: 2026
     dates:

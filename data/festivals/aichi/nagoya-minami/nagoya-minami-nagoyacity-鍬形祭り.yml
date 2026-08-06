@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 笠寺小学校
-  address: null
-  lat: null
-  lng: null
+  address: 名古屋市南区本星崎町本城765
+  lat: 35.090453
+  lng: 136.934765
 recurrence: 5月5日
 recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
 organizer: null

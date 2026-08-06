@@ -12,12 +12,10 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: yes
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: 北九州ノコト
-    url: https://kitaq.media/138849/
+links: []
 occurrences:
   - year: 2026
     dates:

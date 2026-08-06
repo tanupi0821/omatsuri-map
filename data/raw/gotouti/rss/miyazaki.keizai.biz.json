@@ -1,0 +1,17 @@
+{
+ "host": "miyazaki.keizai.biz",
+ "name": "ひなた宮崎経済新聞",
+ "areas": [
+  "宮崎県"
+ ],
+ "prefs": [
+  "宮崎県"
+ ],
+ "url": "https://miyazaki.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

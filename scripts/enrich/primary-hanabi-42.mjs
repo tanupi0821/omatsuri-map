@@ -37,7 +37,7 @@ patchAll([
   ['hyogo-008-gotouti-kobe-journal-319578', {
     organizer: '神戸元町商店街連合会',
     station: 'JR・阪神 元町駅',
-    venue: { name: '神戸元町商店街 全エリア', address: '兵庫県神戸市中央区元町通3丁目13-1' },
+    venue: { name: '神戸元町商店街 全エリア', address: '神戸市中央区元町通3丁目13-1' },
     links: [L('神戸元町商店街 第43回元町夜市2026', 'https://www.kobe-motomachi.or.jp/event/2026/06/Yoichi1.html')],
     occurrence: {
       ...src(2026, 'https://www.kobe-motomachi.or.jp/event/2026/06/Yoichi1.html', '神戸元町商店街連合会', 'official'),
@@ -56,7 +56,7 @@ patchAll([
   ['aichi-021-summer-ar0623e411060', {
     organizer: '名古屋市観光文化交流局 名古屋城総合事務所',
     station: '地下鉄名城線 名古屋城駅7番出口（徒歩5分）',
-    venue: { name: '名古屋城', address: '愛知県名古屋市中区本丸1番1号' },
+    venue: { name: '名古屋城', address: '名古屋市中区本丸1番1号' },
     links: [L('名古屋城公式ウェブサイト 名古屋城夏まつり（2026年）', 'https://www.nagoyajo.city.nagoya.jp/event/2026/07/20260708_4897.html')],
     occurrence: {
       ...src(2026, 'https://www.nagoyajo.city.nagoya.jp/event/2026/07/20260708_4897.html', '名古屋市', 'gov'),
@@ -77,7 +77,7 @@ patchAll([
   ['chuou-tokyofesta-31901', {
     organizer: '一般社団法人 八重洲二丁目北地区エリアマネジメント',
     station: 'JR東京駅八重洲口',
-    venue: { name: '東京ミッドタウン八重洲 1階 ガレリア・アトリウムほか', address: '東京都中央区八重洲2-2-1' },
+    venue: { name: '東京ミッドタウン八重洲 1階 ガレリア・アトリウムほか', address: '中央区八重洲2-2-1' },
     links: [L('東京ミッドタウン八重洲 八重洲夜市 2026', 'https://www.yaesu.tokyo-midtown.com/special/yaesuyoichi/')],
     occurrence: {
       ...src(2026, 'https://www.yaesu.tokyo-midtown.com/special/yaesuyoichi/', '八重洲二丁目北地区エリアマネジメント', 'official'),
@@ -94,7 +94,7 @@ patchAll([
 
   // 今治地方春祭り。**地区ごとに別の日にやる**ので、5月3日〜24日は期間
   ['ehime-001-goguynet-14006', {
-    venue: { name: '今治市内の各神社（野間神社・吹揚神社ほか）', address: '愛媛県今治市' },
+    venue: { name: '今治市内の各神社（野間神社・吹揚神社ほか）', address: '今治市' },
     links: [L('今治市 今治地方春祭り', 'https://www.city.imabari.ehime.jp/event/?a=74')],
     occurrence: {
       ...src(2026, 'https://www.city.imabari.ehime.jp/event/?a=74', '今治市', 'gov'),
@@ -110,7 +110,7 @@ patchAll([
   // 遠野春まつり。**4月中旬から5月上旬にかけての期間**で、
   // 南部氏遠野入部行列（4/25）や南部神社例祭（5/3・4）など催しが散らばる
   ['iwate-001-goguynet-10052', {
-    venue: { name: '遠野市街地各所（蔵の道ひろば・JR遠野駅前・とおの物語の館・南部神社）', address: '岩手県遠野市' },
+    venue: { name: '遠野市街地各所（蔵の道ひろば・JR遠野駅前・とおの物語の館・南部神社）', address: '遠野市' },
     links: [L('遠野時間（遠野市観光情報サイト）遠野春まつり＆GWイベント2026', 'https://tonojikan.jp/feature/tono-spring-trip-gw-events-2026/')],
     occurrence: {
       ...src(2026, 'https://tonojikan.jp/feature/tono-spring-trip-gw-events-2026/', '遠野市観光協会', 'official'),
@@ -127,6 +127,6 @@ patchAll([
   // 神社の公式サイトが見つからなかったので出典は差し替えず、社号と住所だけ入れる
   ['shizuoka-020-goguynet-171761', {
     shrine: '富知六所浅間神社（三日市浅間神社）',
-    venue: { name: '富知六所浅間神社（三日市浅間神社）', address: '静岡県富士市浅間本町5-1' },
+    venue: { name: '富知六所浅間神社（三日市浅間神社）', address: '富士市浅間本町5-1' },
   }],
 ], '複数日開催の取りこぼしを直す（7）');

@@ -1,0 +1,14 @@
+{
+ "host": "fukuoka.in.coocan.jp",
+ "name": "福岡アンテナ",
+ "areas": [
+  "福岡県"
+ ],
+ "prefs": [
+  "福岡県"
+ ],
+ "url": "http://fukuoka.in.coocan.jp/",
+ "via": "rss",
+ "skipped": "robots取得不可 (TimeoutError)",
+ "items": []
+}

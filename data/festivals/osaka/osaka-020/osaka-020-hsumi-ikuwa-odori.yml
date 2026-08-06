@@ -9,8 +9,8 @@ area:
 venue:
   name: 育和小学校 運動場
   address: 大阪市東住吉区杭全4-10-12
-  lat: null
-  lng: null
+  lat: 34.6349060000003
+  lng: 135.537633
 organizer: 育和地域
 stalls: yes
 tags: []

@@ -1,0 +1,14 @@
+{
+ "host": "kisacon.com",
+ "name": "KISACON",
+ "areas": [
+  "千葉県木更津市"
+ ],
+ "prefs": [
+  "千葉県"
+ ],
+ "url": "http://kisacon.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

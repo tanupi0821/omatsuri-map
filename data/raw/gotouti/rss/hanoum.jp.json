@@ -1,0 +1,17 @@
+{
+ "host": "hanoum.jp",
+ "name": "hanoum",
+ "areas": [
+  "埼玉県飯能市"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://hanoum.jp/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

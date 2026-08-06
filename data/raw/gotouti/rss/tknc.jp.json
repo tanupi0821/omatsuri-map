@@ -1,0 +1,14 @@
+{
+ "host": "tknc.jp",
+ "name": "トカチニッチ",
+ "areas": [
+  "北海道十勝地方"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://tknc.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

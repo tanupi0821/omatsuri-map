@@ -8,9 +8,9 @@ area:
   ward: 岩槻区
 venue:
   name: 岩槻文化公園
-  address: null
-  lat: null
-  lng: null
+  address: さいたま市岩槻区村国229
+  lat: 35.945148
+  lng: 139.720324
 organizer: さいたま市花火大会実行委員会（事務局：公益社団法人さいたま観光国際協会）
 tags:
   - 花火

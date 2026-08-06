@@ -1,0 +1,14 @@
+{
+ "host": "media.neriman.jp",
+ "name": "ネリマンタイムス",
+ "areas": [
+  "東京都練馬区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://media.neriman.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

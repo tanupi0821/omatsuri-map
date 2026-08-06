@@ -1,0 +1,29 @@
+id: mie-001-goguynet-73941
+name: 四日市花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 三重県
+  city: 四日市市
+  ward: null
+venue:
+  name: 四日市地区第2埠頭・第3埠頭（有料エリア）・四日市ドーム周辺（無料エリア）・磯津
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokkaichi.goguynet.jp/2026/06/20/hanabi2026/
+    source_name: 号外NET 四日市市
+    source_type: media
+    checked_at: 2026-08-04

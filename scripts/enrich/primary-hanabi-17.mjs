@@ -28,7 +28,7 @@ patchAll([
   ['shiga-007-hanabi-ar0725e512144', {
     organizer: '湖南市三大まつり実行委員会',
     station: 'JR草津線 甲西駅（徒歩約20分）',
-    venue: { name: '野洲川親水公園', address: '滋賀県湖南市夏見地先' },
+    venue: { name: '野洲川親水公園', address: '湖南市夏見地先' },
     links: [L('ぶらり湖南（湖南市観光協会）湖南市夏まつり', 'https://www.burari-konan.jp/kanko/event/post_114/')],
     occurrence: {
       ...src(2026, 'https://www.burari-konan.jp/kanko/event/post_114/', '湖南市観光協会', 'official'),
@@ -44,7 +44,7 @@ patchAll([
   // 浜田市観光協会。会場（浜田漁港一帯）の町名と最寄駅が取れた
   ['shimane-003-hanabi-ar0832e00687', {
     station: 'JR山陰本線 浜田駅（シャトルバス運行）',
-    venue: { name: '浜田漁港一帯', address: '島根県浜田市原井町' },
+    venue: { name: '浜田漁港一帯', address: '浜田市原井町' },
     links: [L('浜田市観光協会 2026石州浜っ子夏まつり', 'https://kankou-hamada.or.jp/lp/hamakko-natsumaturi/')],
     occurrence: {
       ...src(2026, 'https://kankou-hamada.or.jp/lp/hamakko-natsumaturi/', '浜田市観光協会', 'official'),
@@ -79,7 +79,7 @@ patchAll([
   // 御坊市。会場は日高川河川敷
   ['wakayama-003-hanabi-ar0730e00435', {
     organizer: '御坊市花火大会実行委員会',
-    venue: { name: '日高川河川敷', address: '和歌山県御坊市' },
+    venue: { name: '日高川河川敷', address: '御坊市' },
     links: [L('御坊市 御坊市花火大会', 'https://www.city.gobo.lg.jp/topics/4691.html')],
     occurrence: {
       ...src(2026, 'https://www.city.gobo.lg.jp/topics/4691.html', '御坊市', 'gov'),
@@ -107,7 +107,7 @@ patchAll([
   ['yamagata-005-hanabi-ar0206e00659', {
     organizer: '大石田まつり委員会',
     station: 'JR奥羽本線 大石田駅',
-    venue: { name: '最上川 横山下河原（打上げ）', address: '山形県北村山郡大石田町' },
+    venue: { name: '最上川 横山下河原（打上げ）', address: '北村山郡大石田町' },
     links: [L('大石田町 大石田まつり「最上川花火大会」', 'https://www.town.oishida.yamagata.jp/kankou/matsuri/o-maturi.html')],
     occurrence: {
       ...src(2026, 'https://www.town.oishida.yamagata.jp/kankou/matsuri/o-maturi.html', '大石田町', 'gov'),
@@ -123,7 +123,7 @@ patchAll([
   // 秋吉台。会場の番地（秋芳町秋吉3506-2）が取れた
   ['yamaguchi-005-hanabi-ar0835e00698', {
     organizer: '秋吉台観光まつり実行委員会',
-    venue: { name: '秋吉台カルスト展望台周辺', address: '山口県美祢市秋芳町秋吉3506-2' },
+    venue: { name: '秋吉台カルスト展望台周辺', address: '美祢市秋芳町秋吉3506-2' },
     links: [L('カルストくん（美祢市観光協会）第48回秋吉台観光まつり花火大会', 'https://karusuto.com/event/hanabi2026/')],
     occurrence: {
       ...src(2026, 'https://karusuto.com/event/hanabi2026/', '美祢市観光協会', 'official'),

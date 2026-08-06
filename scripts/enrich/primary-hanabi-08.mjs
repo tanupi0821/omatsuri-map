@@ -44,7 +44,7 @@ patchAll([
   // 清水みなと祭り。会場の住所（相生町6-17）は公式サイトで取れた
   ['shizuoka-017-hanabi-ar0622e00907', {
     organizer: '清水みなと祭り実行委員会',
-    venue: { name: '清水港 日の出埠頭', address: '静岡県静岡市清水区相生町6-17' },
+    venue: { name: '清水港 日の出埠頭', address: '静岡市清水区相生町6-17' },
     links: [
       L('清水みなと祭り 公式ホームページ 2026 海上花火大会', 'https://www.minatokappore.jp/hanabi/'),
       WP('ar0622e00907'),
@@ -60,7 +60,7 @@ patchAll([
   // 焼津。市のページで打上場所（焼津外港南防波堤）と観覧会場の別が分かった
   ['shizuoka-013-hanabi-ar0622e01046', {
     organizer: '焼津海上花火大会実行委員会',
-    venue: { name: '焼津漁港新港地区（打上げは焼津外港南防波堤）', address: '静岡県焼津市城之腰付近' },
+    venue: { name: '焼津漁港新港地区（打上げは焼津外港南防波堤）', address: '焼津市城之腰付近' },
     links: [
       L('焼津市「【市制75周年】第51回焼津海上花火大会」', 'https://www.city.yaizu.lg.jp/event/fireflower.html'),
       WP('ar0622e01046'),
@@ -91,7 +91,7 @@ patchAll([
   // 藤枝。会場の番地（若王子474-1）が観光協会の告知で取れた
   ['shizuoka-001-hanabi-ar0622e00617', {
     organizer: '一般社団法人藤枝市観光協会',
-    venue: { name: '蓮華寺池公園', address: '静岡県藤枝市若王子474-1' },
+    venue: { name: '蓮華寺池公園', address: '藤枝市若王子474-1' },
     links: [
       L('藤枝市観光協会 第46回 藤枝花火大会開催のお知らせ', 'https://www.fujieda.gr.jp/news/n24551/'),
       WP('ar0622e00617'),
@@ -110,7 +110,7 @@ patchAll([
   ['shizuoka-005-hanabi-ar0622e00886', {
     organizer: '熱海市観光協会',
     station: 'JR東海道本線 熱海駅',
-    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '静岡県熱海市渚町地先' },
+    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '熱海市渚町地先' },
     links: [
       L('あたみニュース（熱海市観光協会）熱海海上花火大会', 'https://www.ataminews.gr.jp/event/8/'),
       WP('ar0622e00886'),

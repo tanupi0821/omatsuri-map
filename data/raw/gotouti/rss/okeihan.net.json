@@ -1,0 +1,16 @@
+{
+ "host": "okeihan.net",
+ "name": "K PRESS web",
+ "areas": [
+  "大阪府",
+  "京都府"
+ ],
+ "prefs": [
+  "大阪府",
+  "京都府"
+ ],
+ "url": "https://www.okeihan.net/k-press/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

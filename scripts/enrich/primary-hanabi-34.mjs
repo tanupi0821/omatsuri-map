@@ -32,23 +32,23 @@ patchAll([
 
   ['asao-takaishi-natsumatsuri', {
     shrine: '高石神社',
-    venue: { name: '高石神社', address: '神奈川県川崎市麻生区高石1-31-1' },
+    venue: { name: '高石神社', address: '川崎市麻生区高石1-31-1' },
     links: [L('神奈川県神社庁 高石神社', 'https://www.kanagawa-jinja.or.jp/shrine/1201085-000/')],
   }],
   ['takatsu-chitose-bonodori', {
     shrine: '千年神社',
-    venue: { name: '千年神社', address: '神奈川県川崎市高津区千年539' },
+    venue: { name: '千年神社', address: '川崎市高津区千年539' },
     links: [L('神奈川県神社庁 千年神社', 'https://www.kanagawa-jinja.or.jp/shrine/1201070-000/')],
   }],
   ['takatsu-futako-kodomokai-bonodori', {
     shrine: '二子神社',
-    venue: { name: '二子神社', address: '神奈川県川崎市高津区二子1-4-1' },
+    venue: { name: '二子神社', address: '川崎市高津区二子1-4-1' },
     links: [L('神奈川県神社庁 二子神社', 'https://www.kanagawa-jinja.or.jp/shrine/1201061-000/')],
   }],
   ['takatsu-shibokuchi-kita-bonodori', {
     // 子母口の鎮守は「橘樹神社（たちばなじんじゃ）」
     shrine: '橘樹神社',
-    venue: { name: '橘樹神社', address: '神奈川県川崎市高津区子母口122' },
+    venue: { name: '橘樹神社', address: '川崎市高津区子母口122' },
     links: [L('神奈川県神社庁 橘樹神社', 'https://www.kanagawa-jinja.or.jp/shrine/1201053-000/')],
   }],
 
@@ -61,7 +61,7 @@ patchAll([
   ['kagoshima-011-hanabi-ar1046e00573', {
     name: '第36回 えいのゴッソイまつり',
     organizer: 'えいのゴッソイまつり実行委員会',
-    venue: { name: '頴娃運動公園', address: '鹿児島県南九州市頴娃町牧之内2606番地' },
+    venue: { name: '頴娃運動公園', address: '南九州市頴娃町牧之内2606番地' },
     links: [L('南九州市 第36回えいのゴッソイまつり', 'https://www.city.minamikyushu.lg.jp/kankosite/event/5571.html')],
     occurrence: {
       ...src(2026, 'https://www.city.minamikyushu.lg.jp/kankosite/event/5571.html', '南九州市', 'gov'),

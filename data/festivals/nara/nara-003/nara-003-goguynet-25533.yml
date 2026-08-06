@@ -1,0 +1,29 @@
+id: nara-003-goguynet-25533
+name: 二上山花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 香芝市
+  ward: null
+venue:
+  name: 畑公民館南池堤
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ikoma-kashiba.goguynet.jp/2026/08/03/nijo-hanabi-2026/
+    source_name: 号外NET 生駒市・香芝市
+    source_type: media
+    checked_at: 2026-08-04

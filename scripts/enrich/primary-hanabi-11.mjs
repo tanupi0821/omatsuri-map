@@ -46,7 +46,7 @@ patchAll([
   ['mie-002-hanabi-ar0624e00803', {
     organizer: '熊野市観光協会',
     station: 'JR紀勢本線 熊野市駅（徒歩5分）',
-    venue: { name: '七里御浜海岸', address: '三重県熊野市井戸町' },
+    venue: { name: '七里御浜海岸', address: '熊野市井戸町' },
     links: [
       L('熊野市観光協会 熊野大花火大会', 'https://www.kumano-kankou.info/kumano-fireworks/'),
       WP('ar0624e00803'),
@@ -61,7 +61,7 @@ patchAll([
 
   // 伊勢。伊勢市が花火大会専用のサイトを持っている
   ['mie-003-hanabi-ar0624e00804', {
-    venue: { name: '宮川河畔（度会橋上流）', address: '三重県伊勢市' },
+    venue: { name: '宮川河畔（度会橋上流）', address: '伊勢市' },
     links: [
       L('伊勢市 伊勢神宮奉納全国花火大会', 'https://www.city.ise.mie.jp/hanabi/'),
       L('伊勢市 第74回大会プログラム', 'https://www.city.ise.mie.jp/hanabi/program/1020446.html'),
@@ -82,7 +82,7 @@ patchAll([
   // 仙台七夕花火祭。**主催は公益社団法人仙台青年会議所**（市ではない）
   ['miyagi-001-hanabi-ar0204e00651', {
     organizer: '公益社団法人仙台青年会議所',
-    venue: { name: '青葉山公園周辺・広瀬川河川敷', address: '宮城県仙台市青葉区' },
+    venue: { name: '青葉山公園周辺・広瀬川河川敷', address: '仙台市青葉区' },
     links: [
       L('第57回仙台七夕花火祭 公式サイト 開催概要', 'https://sendai-tanabatahanabi.com/overview/'),
       WP('ar0204e00651'),
@@ -118,7 +118,7 @@ patchAll([
   // ふくしま花火大会。市のページで会場（信夫ケ丘緑地）と時刻が取れた
   ['fukushima-012-hanabi-ar0207e00660', {
     station: 'JR福島駅（有料臨時シャトルバスで約15分）',
-    venue: { name: '信夫ケ丘緑地（阿武隈川と松川の合流点の河川敷）', address: '福島県福島市' },
+    venue: { name: '信夫ケ丘緑地（阿武隈川と松川の合流点の河川敷）', address: '福島市' },
     links: [
       L('福島市 第48回ふくしま花火大会', 'https://www.city.fukushima.fukushima.jp/kankounavi/contents/enjoy/1/13758.html'),
       WP('ar0207e00660'),
@@ -135,7 +135,7 @@ patchAll([
   ['fukushima-007-hanabi-ar0207e00661', {
     organizer: 'いわき花火大会実行委員会',
     station: 'JR常磐線 泉駅（バスで約15分）',
-    venue: { name: 'アクアマリンパーク（小名浜港1・2号埠頭間）', address: '福島県いわき市小名浜本町11-1' },
+    venue: { name: 'アクアマリンパーク（小名浜港1・2号埠頭間）', address: 'いわき市小名浜本町11-1' },
     links: [
       L('いわき花火大会 公式サイト', 'https://www.iwakihanabi.com/'),
       WP('ar0207e00661'),

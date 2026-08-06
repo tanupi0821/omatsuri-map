@@ -7,8 +7,8 @@ area:
   city: 蒲生郡日野町
   ward: null
 venue:
-  name: 滋賀農業公園 ブルーメの丘
-  address: 蒲生郡日野町大字西大路
+  name: 滋賀農業公園ブルーメの丘
+  address: 蒲生郡日野町西大路843
   lat: 35.014129
   lng: 136.279599
 organizer: null
@@ -19,6 +19,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.blumenooka.jp/
+  - title: ミュージック花火大会2026 公式ページ
+    url: https://sites.google.com/view/blume-music-hanabi2026/
 occurrences:
   - year: 2026
     dates:
@@ -27,9 +29,9 @@ occurrences:
     start_time: 20:15
     end_time: 20:30
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0725e387765/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://sites.google.com/view/blume-music-hanabi2026/
+    source_name: 滋賀農業公園ブルーメの丘
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月11日と29日の2日。間が空いているが取りこぼしではない
 station: JR近江八幡駅からバス(約50分)で幅野町停留所下車、徒歩10分

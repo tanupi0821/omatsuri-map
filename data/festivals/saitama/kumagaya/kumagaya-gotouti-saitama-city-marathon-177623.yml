@@ -1,0 +1,29 @@
+id: kumagaya-gotouti-saitama-city-marathon-177623
+name: 第74回 熊谷花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 熊谷市
+  ward: null
+venue:
+  name: 荒川河畔（荒川大橋下流側）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/07/13/kounosusi-425/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06

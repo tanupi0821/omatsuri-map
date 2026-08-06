@@ -27,7 +27,7 @@ patchAll([
   ['fukuoka-009-hanabi-ar1040e00936', {
     organizer: 'くきのうみ花火の祭典実行委員会',
     station: 'JR筑豊本線 若松駅（徒歩3分）／JR鹿児島本線 戸畑駅（徒歩5分）',
-    venue: { name: '洞海湾（若戸大橋周辺）', address: '福岡県北九州市若松区久岐の浜7番1号（個人協賛会場）' },
+    venue: { name: '洞海湾（若戸大橋周辺）', address: '北九州市若松区久岐の浜7番1号（個人協賛会場）' },
     links: [L('北九州市若松区 くきのうみ花火の祭典', 'https://www.city.kitakyushu.lg.jp/wakamatsu/file_0033.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kitakyushu.lg.jp/wakamatsu/file_0033.html', '北九州市', 'gov'),
@@ -41,7 +41,7 @@ patchAll([
   ['fukuoka-004-hanabi-ar1040e00981', {
     name: '第50回 なかがわ市民の祭り',
     organizer: 'なかがわ市民の祭り実行委員会',
-    venue: { name: '梶原運動広場／安徳南小学校運動場', address: '福岡県那珂川市' },
+    venue: { name: '梶原運動広場／安徳南小学校運動場', address: '那珂川市' },
     links: [L('那珂川市 第50回なかがわ市民の祭り', 'https://www.city.nakagawa.lg.jp/soshiki/47/maturi2026.html')],
     occurrence: {
       ...src(2026, 'https://www.city.nakagawa.lg.jp/soshiki/47/maturi2026.html', '那珂川市', 'gov'),
@@ -57,7 +57,7 @@ patchAll([
 
   // 千代田町。会場は赤岩渡船付近の利根川河畔
   ['gunma-002-hanabi-ar0310e00588', {
-    venue: { name: '利根川河畔（赤岩渡船付近）', address: '群馬県邑楽郡千代田町赤岩地先' },
+    venue: { name: '利根川河畔（赤岩渡船付近）', address: '邑楽郡千代田町赤岩地先' },
     links: [L('千代田町 千代田の祭 川せがき', 'https://www.town.chiyoda.gunma.jp/keizai/syoko/syoko007.html')],
     occurrence: {
       ...src(2026, 'https://www.town.chiyoda.gunma.jp/keizai/syoko/syoko007.html', '千代田町', 'gov'),
@@ -74,7 +74,7 @@ patchAll([
   // 小林市（旧須木村）。会場は須木中学校運動場
   ['miyazaki-001-hanabi-ar1045e00570', {
     organizer: 'すき納涼花火大会実行委員会',
-    venue: { name: '須木中学校運動場', address: '宮崎県小林市須木' },
+    venue: { name: '須木中学校運動場', address: '小林市須木' },
     links: [L('小林市 第47回小林市すき納涼花火大会', 'https://www.city.kobayashi.lg.jp/soshikikarasagasu/sukichoshachiikishinkoka/7529.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kobayashi.lg.jp/soshikikarasagasu/sukichoshachiikishinkoka/7529.html', '小林市', 'gov'),
@@ -125,7 +125,7 @@ patchAll([
 
   // 下妻まつり。**会場は砂沼南岸と砂沼の湖上**
   ['shimotsuma-hanabi-ar0308e357291', {
-    venue: { name: '砂沼南岸および砂沼湖上', address: '茨城県下妻市' },
+    venue: { name: '砂沼南岸および砂沼湖上', address: '下妻市' },
     links: [L('下妻市 下妻まつり2026', 'https://www.city.shimotsuma.lg.jp/kanko-business-sangyo/event/shimotsumafestival/shimotsumamatsuri2026/')],
     occurrence: {
       ...src(2026, 'https://www.city.shimotsuma.lg.jp/kanko-business-sangyo/event/shimotsumafestival/shimotsumamatsuri2026/', '下妻市', 'gov'),

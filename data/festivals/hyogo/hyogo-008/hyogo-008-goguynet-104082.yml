@@ -1,0 +1,29 @@
+id: hyogo-008-goguynet-104082
+name: 第46回いたみ花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 伊丹市
+  ward: null
+venue:
+  name: 伊丹市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://itami.goguynet.jp/2026/07/15/hanabitaikaiyuuryousenchaku/
+    source_name: 号外NET 伊丹市
+    source_type: media
+    checked_at: 2026-08-04

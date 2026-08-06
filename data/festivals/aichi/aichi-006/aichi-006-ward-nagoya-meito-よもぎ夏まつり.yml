@@ -9,8 +9,8 @@ area:
 venue:
   name: 蓬莱小学校
   address: 名古屋市名東区よもぎ台一丁目501
-  lat: null
-  lng: null
+  lat: 35.17853
+  lng: 136.988569
 organizer: null
 stalls: unknown
 tags: []

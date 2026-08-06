@@ -1,0 +1,14 @@
+{
+ "host": "kawagoe.fun",
+ "name": "川越マガジン",
+ "areas": [
+  "埼玉県川越市"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://kawagoe.fun/magazine/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

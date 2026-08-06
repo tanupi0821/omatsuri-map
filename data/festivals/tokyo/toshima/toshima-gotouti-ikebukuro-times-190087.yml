@@ -9,15 +9,13 @@ area:
 venue:
   name: 大正大学
   address: null
-  lat: 35.743002
-  lng: 139.724591
-organizer: 大正大学
+  lat: null
+  lng: null
+organizer: null
 stalls: unknown
 tags: []
 description: null
-links:
-  - title: 東京フェスタ
-    url: https://tokyofesta.com/23ku/31077/
+links: []
 occurrences:
   - year: 2026
     dates:

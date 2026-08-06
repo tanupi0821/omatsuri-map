@@ -1,0 +1,17 @@
+{
+ "host": "nanitabe.com",
+ "name": "鳥取なにたべ！",
+ "areas": [
+  "鳥取県"
+ ],
+ "prefs": [
+  "鳥取県"
+ ],
+ "url": "https://nanitabe.com/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

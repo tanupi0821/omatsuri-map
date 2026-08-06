@@ -1,0 +1,14 @@
+{
+ "host": "shoko-data.co.jp",
+ "name": "静岡商工データ",
+ "areas": [
+  "静岡県"
+ ],
+ "prefs": [
+  "静岡県"
+ ],
+ "url": "http://www.shoko-data.co.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

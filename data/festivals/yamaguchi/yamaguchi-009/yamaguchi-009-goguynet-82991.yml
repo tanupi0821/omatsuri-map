@@ -1,0 +1,29 @@
+id: yamaguchi-009-goguynet-82991
+name: 第72回宇部市花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 山口県
+  city: 宇部市
+  ward: null
+venue:
+  name: 宇部市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ube-sanyoonoda.goguynet.jp/2026/07/22/fireworks_ubecity72/
+    source_name: 号外NET 宇部市・山陽小野田市
+    source_type: media
+    checked_at: 2026-08-04

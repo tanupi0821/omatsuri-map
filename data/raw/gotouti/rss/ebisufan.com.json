@@ -1,0 +1,14 @@
+{
+ "host": "ebisufan.com",
+ "name": "恵比寿新聞",
+ "areas": [
+  "東京都渋谷区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://ebisufan.com/news/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

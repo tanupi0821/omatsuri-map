@@ -9,8 +9,8 @@ area:
 venue:
   name: 上社公園
   address: 名古屋市名東区上社五丁目
-  lat: null
-  lng: null
+  lat: 35.17055
+  lng: 137.01143
 organizer: null
 stalls: unknown
 tags: []

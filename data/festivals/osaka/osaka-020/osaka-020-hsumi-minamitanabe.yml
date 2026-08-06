@@ -9,8 +9,8 @@ area:
 venue:
   name: 南田辺小学校
   address: 大阪市東住吉区南田辺4-3-4
-  lat: null
-  lng: null
+  lat: 34.6176170000003
+  lng: 135.521958
 organizer: 南田辺地域
 stalls: yes
 tags: []

@@ -1,0 +1,29 @@
+id: sumida-gotouti-sumida-keizai-biz-r1895
+name: 墨田区民納涼民踊大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 墨田区
+  ward: null
+venue:
+  name: 墨田区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://sumida.keizai.biz/headline/1895/
+    source_name: すみだ経済新聞
+    source_type: media
+    checked_at: 2026-08-06

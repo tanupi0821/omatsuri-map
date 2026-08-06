@@ -1,0 +1,29 @@
+id: setagaya-gotouti-futakoloco-36277
+name: 玉川町会盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 二子玉川西地区ふれあい広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://futakoloco.com/36277/
+    source_name: futakoloco
+    source_type: media
+    checked_at: 2026-08-06

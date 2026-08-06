@@ -1,0 +1,18 @@
+{
+ "host": "jimoto-ryohin.com",
+ "name": "地元良品JOURNEY-三浦半島篇-",
+ "areas": [
+  "神奈川県横須賀市",
+  "神奈川県鎌倉市",
+  "神奈川県逗子市",
+  "神奈川県三浦市",
+  "神奈川県三浦郡葉山町"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://jimoto-ryohin.com/miura/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -1,0 +1,19 @@
+{
+ "host": "katch.co.jp",
+ "name": "近所のはなし",
+ "areas": [
+  "愛知県刈谷市",
+  "愛知県安城市",
+  "愛知県高浜市",
+  "愛知県知立市",
+  "愛知県碧南市",
+  "愛知県西尾市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://www.katch.co.jp/kinjo/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

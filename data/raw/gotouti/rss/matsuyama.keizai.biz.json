@@ -1,0 +1,17 @@
+{
+ "host": "matsuyama.keizai.biz",
+ "name": "松山経済新聞",
+ "areas": [
+  "愛媛県松山市"
+ ],
+ "prefs": [
+  "愛媛県"
+ ],
+ "url": "https://matsuyama.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

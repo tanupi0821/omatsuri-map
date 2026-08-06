@@ -1,0 +1,27 @@
+{
+ "host": "kanazawa.keizai.biz",
+ "name": "金沢経済新聞",
+ "areas": [
+  "石川県金沢市",
+  "石川県野々市市",
+  "石川県能美市ほか"
+ ],
+ "prefs": [
+  "石川県"
+ ],
+ "url": "https://kanazawa.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "4079",
+   "title": "松任で「千代女あさがおまつり」 市民が育てた多様な花が並ぶ",
+   "url": "http://kanazawa.keizai.biz/headline/4079/",
+   "date": "2026-08-02",
+   "body": "第49回「千代女（ちよじょ）あさがおまつり」が7月31日から、松任総合運動公園屋内運動場（白山市倉光4）と松任駅南広場（殿町）で行われている。 #金沢経済新聞"
+  }
+ ]
+}

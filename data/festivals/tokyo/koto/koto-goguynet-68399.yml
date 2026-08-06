@@ -1,0 +1,29 @@
+id: koto-goguynet-68399
+name: 深川八幡祭り（富岡八幡宮例大祭）
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 江東区
+  ward: null
+venue:
+  name: 江東区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://koto.goguynet.jp/2026/06/20/fukagawamatsuri2026/
+    source_name: 号外NET 江東区
+    source_type: media
+    checked_at: 2026-08-04

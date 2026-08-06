@@ -34,7 +34,7 @@ patchAll([
 
   // 新城市観光協会のページ。会場の郵便番号つき住所が取れた
   ['aichi-002-hanabi-ar0623e00816', {
-    venue: { name: '桜淵公園', address: '愛知県新城市庭野字八名井田2-1' },
+    venue: { name: '桜淵公園', address: '新城市庭野字八名井田2-1' },
     links: [L('新城市観光協会 第57回新城納涼花火大会', 'https://shinshirokankou.com/feature/detail/124/')],
     occurrence: {
       ...src(2026, 'https://shinshirokankou.com/feature/detail/124/', '新城市観光協会', 'official'),
@@ -49,7 +49,7 @@ patchAll([
   // 「ロングラン花火」で、犬山市と各務原市にまたがる
   ['aichi-003-hanabi-ar0623e00814', {
     organizer: '日本ライン夏まつり実行委員会',
-    venue: { name: '木曽川河畔 ツインブリッジ下流', address: '愛知県犬山市' },
+    venue: { name: '木曽川河畔 ツインブリッジ下流', address: '犬山市' },
     links: [L('犬山市 日本ライン夏まつり ロングラン花火', 'https://www.city.inuyama.aichi.jp/shisei/1005983/1006011/1008860.html')],
     occurrence: {
       ...src(2026, 'https://www.city.inuyama.aichi.jp/shisei/1005983/1006011/1008860.html', '犬山市', 'gov'),
@@ -73,7 +73,7 @@ patchAll([
   // みよし市。会場の住所と時刻が市のページで揃った
   ['aichi-015-hanabi-ar0623e00820', {
     organizer: '三好池まつり実行委員会',
-    venue: { name: '三好池周辺', address: '愛知県みよし市三好町池ノ原1' },
+    venue: { name: '三好池周辺', address: 'みよし市三好町池ノ原1' },
     links: [L('みよし市 三好池まつり', 'https://www.city.aichi-miyoshi.lg.jp/soshiki/shiminkeizai/sangyo/kankou/117.html')],
     occurrence: {
       ...src(2026, 'https://www.city.aichi-miyoshi.lg.jp/soshiki/shiminkeizai/sangyo/kankou/117.html', 'みよし市', 'gov'),
@@ -91,7 +91,7 @@ patchAll([
   ['akita-004-hanabi-ar0205e512284', {
     organizer: '八峰町花火大会実行委員会',
     station: 'JR五能線 八森駅（徒歩5分）',
-    venue: { name: '中浜海岸', address: '秋田県山本郡八峰町' },
+    venue: { name: '中浜海岸', address: '山本郡八峰町' },
     stalls: 'yes',
     links: [L('八峰町 八峰花火フェス2026', 'https://www.town.happo.lg.jp/archive/p20260610161448')],
     occurrence: {
@@ -108,7 +108,7 @@ patchAll([
     station: '秋田内陸線 阿仁合駅（徒歩5分）',
     recurrence: '8月16日',
     recurrence_source: 'https://www.city.kitaakita.akita.jp/archive/contents-6041',
-    venue: { name: '阿仁河川公園', address: '秋田県北秋田市阿仁銀山字下新町' },
+    venue: { name: '阿仁河川公園', address: '北秋田市阿仁銀山字下新町' },
     links: [L('北秋田市 阿仁の花火と灯籠流し', 'https://www.city.kitaakita.akita.jp/archive/contents-6041')],
     occurrence: {
       ...src(2026, 'https://www.city.kitaakita.akita.jp/archive/contents-6041', '北秋田市', 'gov'),
@@ -125,7 +125,7 @@ patchAll([
   // 朝倉市。**正式には「甘木川花火大会 流灌頂法要会」**で主催は流灌頂奉賛会
   ['fukuoka-003-hanabi-ar1040e01031', {
     organizer: '流灌頂奉賛会（問合せ：朝倉商工会議所）',
-    venue: { name: '小石原川 甘木橋下流', address: '福岡県朝倉市' },
+    venue: { name: '小石原川 甘木橋下流', address: '朝倉市' },
     links: [L('朝倉市 甘木川花火大会', 'https://www.city.asakura.lg.jp/site/kanko/13553.html')],
     occurrence: {
       ...src(2026, 'https://www.city.asakura.lg.jp/site/kanko/13553.html', '朝倉市', 'gov'),
@@ -141,7 +141,7 @@ patchAll([
   // 下呂市。会場の番地（森960）と最寄駅が取れた
   ['gifu-006-hanabi-ar0621e440135', {
     station: 'JR高山本線 下呂駅（徒歩約3分）',
-    venue: { name: '下呂大橋上流 河川敷', address: '岐阜県下呂市森960番地' },
+    venue: { name: '下呂大橋上流 河川敷', address: '下呂市森960番地' },
     links: [L('下呂市 下呂温泉まつり 花火ミュージカル夏公演', 'https://www.city.gero.lg.jp/site/kanko/23881.html')],
     occurrence: {
       ...src(2026, 'https://www.city.gero.lg.jp/site/kanko/23881.html', '下呂市', 'gov'),
@@ -168,7 +168,7 @@ patchAll([
   ['gifu-012-hanabi-ar0621e471876', {
     organizer: '美濃市花火大会実行委員会',
     station: '長良川鉄道 美濃市駅',
-    venue: { name: '下渡橋下流 長良川河畔', address: '岐阜県美濃市横越中島地内' },
+    venue: { name: '下渡橋下流 長良川河畔', address: '美濃市横越中島地内' },
     links: [L('美濃市観光協会 美濃市民花火大会', 'https://minokanko.com/event/category/summer/p7968/')],
     occurrence: {
       ...src(2026, 'https://minokanko.com/event/category/summer/p7968/', '美濃市観光協会', 'official'),
@@ -184,7 +184,7 @@ patchAll([
   // 明和町。会場の番地と最寄駅が取れた
   ['gunma-003-hanabi-ar0310e01085', {
     station: '東武伊勢崎線 川俣駅東口（徒歩約15分）',
-    venue: { name: '明和町ふるさとの広場', address: '群馬県邑楽郡明和町南大島1073番地' },
+    venue: { name: '明和町ふるさとの広場', address: '邑楽郡明和町南大島1073番地' },
     links: [L('明和町 令和8年度明和まつり', 'https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html')],
     occurrence: {
       ...src(2026, 'https://www.town.meiwa.gunma.jp/life/soshiki/sangyoukankyo/event/5632.html', '明和町', 'gov'),
@@ -203,7 +203,7 @@ patchAll([
   ['hiroshima-004-hanabi-ar0834e00106', {
     organizer: '一般社団法人竹原市観光協会',
     station: 'JR呉線 大乗駅（徒歩約10分）',
-    venue: { name: '高崎町', address: '広島県竹原市高崎町' },
+    venue: { name: '高崎町', address: '竹原市高崎町' },
     links: [L('竹原市観光協会 たけはら夏まつり花火大会', 'https://www.takeharakankou.jp/event/8297/')],
     occurrence: {
       ...src(2026, 'https://www.takeharakankou.jp/event/8297/', '一般社団法人竹原市観光協会', 'official'),

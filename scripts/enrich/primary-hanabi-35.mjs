@@ -24,7 +24,7 @@ patchAll([
 
   // 北中城まつり。村のページで第41回・10月10日・しおさい公苑を確認
   ['okinawa-004-hanabi-ar1047e124948', {
-    venue: { name: 'しおさい公苑', address: '沖縄県中頭郡北中城村' },
+    venue: { name: 'しおさい公苑', address: '中頭郡北中城村' },
     links: [L('北中城村 第41回北中城まつり', 'https://www.vill.kitanakagusuku.lg.jp/kakuka/kikaku/chiiki/kankou/dai34kaikitanakagusukusiosaimaturinituite/index.html')],
     occurrence: {
       ...src(2026, 'https://www.vill.kitanakagusuku.lg.jp/kakuka/kikaku/chiiki/kankou/dai34kaikitanakagusukusiosaimaturinituite/index.html', '北中城村', 'gov'),
@@ -43,7 +43,7 @@ patchAll([
     shrine: '神﨑神社',
     recurrence: '7月27日（前夜祭）・7月28日（船御幸）',
     recurrence_source: 'https://www.kotoura-kankou.com/event/hanabi2025/',
-    venue: { name: '神﨑神社・赤碕港周辺', address: '鳥取県東伯郡琴浦町赤碕' },
+    venue: { name: '神﨑神社・赤碕港周辺', address: '東伯郡琴浦町赤碕' },
     links: [L('琴浦町観光協会 波止のまつり納涼花火大会', 'https://www.kotoura-kankou.com/event/hanabi2025/')],
     occurrence: {
       ...src(2026, 'https://www.kotoura-kankou.com/event/hanabi2025/', '琴浦町観光協会', 'official'),
@@ -63,7 +63,7 @@ patchAll([
     station: '名鉄名古屋本線 知立駅（徒歩約12分）',
     recurrence: '9月下旬の日曜日',
     recurrence_source: 'https://www.chiryu-kanko.com/event/detail/4/',
-    venue: { name: '知立神社ほか（本町・西町・宝町・山町・山屋敷町・中新町）', address: '愛知県知立市西町神田12' },
+    venue: { name: '知立神社ほか（本町・西町・宝町・山町・山屋敷町・中新町）', address: '知立市西町神田12' },
     links: [L('知立市観光協会 秋葉まつり', 'https://www.chiryu-kanko.com/event/detail/4/')],
     occurrence: {
       ...src(2026, 'https://www.chiryu-kanko.com/event/detail/4/', '知立市観光協会', 'official'),
@@ -79,6 +79,6 @@ patchAll([
   // 土居夏まつり。**市のページは2017年の記事のまま**なので出典には使えないが、
   // 会場（関川河川敷ふるさと広場）は変わらない事実なので入れておく
   ['ehime-003-hanabi-ar0938e00118', {
-    venue: { name: '関川河川敷 ふるさと広場', address: '愛媛県四国中央市土居町' },
+    venue: { name: '関川河川敷 ふるさと広場', address: '四国中央市土居町' },
   }],
 ], '既存リンクからの格上げ（19）');

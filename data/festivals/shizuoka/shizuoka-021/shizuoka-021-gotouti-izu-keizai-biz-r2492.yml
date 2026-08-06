@@ -1,0 +1,29 @@
+id: shizuoka-021-gotouti-izu-keizai-biz-r2492
+name: 沼津夏まつり・狩野川花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 静岡県
+  city: 沼津市
+  ward: null
+venue:
+  name: 沼津市中心市街地と狩野川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://izu.keizai.biz/headline/2492/
+    source_name: 沼津経済新聞
+    source_type: media
+    checked_at: 2026-08-06

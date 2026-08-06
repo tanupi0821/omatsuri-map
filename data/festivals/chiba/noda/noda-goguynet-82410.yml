@@ -1,0 +1,29 @@
+id: noda-goguynet-82410
+name: 第33回 関宿まつり花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 野田市
+  ward: null
+venue:
+  name: 関宿ふれあい広場（宝珠花橋下・江戸川河川敷）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagareyama-noda.goguynet.jp/2026/08/06/sekiyadomatsurihanabitaikai-2/
+    source_name: 号外NET 流山市・野田市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,14 @@
+{
+ "host": "sasaru.media",
+ "name": "SASARU",
+ "areas": [
+  "北海道"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://sasaru.media/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

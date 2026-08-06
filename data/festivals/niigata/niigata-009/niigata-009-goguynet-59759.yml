@@ -1,0 +1,29 @@
+id: niigata-009-goguynet-59759
+name: 長岡まつり大花火大会屋上観覧席応募キャンペーン
+kind: 花火
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: 長岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanagaoka.goguynet.jp/2026/06/13/riverside-kanranseki/
+    source_name: 号外NET 長岡市
+    source_type: media
+    checked_at: 2026-08-04

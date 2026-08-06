@@ -1,0 +1,29 @@
+id: osaka-706-gotouti-katano-times-r20260706
+name: 七夕祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 交野市
+  ward: null
+venue:
+  name: 機物神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-06
+    start_time: 09:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.katano-times.com/news/hatamono-20260706.html
+    source_name: 交野タイムズ
+    source_type: media
+    checked_at: 2026-08-06

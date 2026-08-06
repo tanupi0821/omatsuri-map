@@ -31,6 +31,9 @@ import { buildGazetteer, GAZETTEER, citiesIn } from './_gazetteer.mjs';
 
 const CHECKED = '2026-08-06';
 const RAW = join(ROOT, 'data', 'raw', 'gotouti', 'media');
+// REST が塞がっている媒体は RSS から取っている（`crawl/gotouti-rss.mjs`）。
+// 出力の形は media/ と同じにしてあるので、同じ処理で読める
+const RAW_RSS = join(ROOT, 'data', 'raw', 'gotouti', 'rss');
 
 if (!existsSync(RAW)) {
   console.error('data/raw/gotouti/media がない。先に scripts/crawl/gotouti-media.mjs を回すこと');
@@ -328,6 +331,16 @@ function brokenName(n) {
   if (/^(明日|今日|本日|来週|今週|昨日|先週|きょう|あす)/.test(n)) return true;
   // 「宮城県北エリア【７月開催】花火大会」はまとめ記事の見出し
   if (/エリア|【|】/.test(n)) return true;
+  // 「高槻の北部からみた大阪天満宮の天神祭り」「交野市最大の夏祭り」のような
+  // 記事の言い回し。祭りの名前ではない
+  if (/からみた|から見た|最大の|話題の|人気の|注目の|恒例の|おすすめ|特集|レポート/.test(n)) return true;
+  // 「長岡まつり大花火大会休憩所」は祭りそのものではなく付帯設備
+  if (/休憩所|観覧席|駐車場|臨時列車|交通規制|通行止/.test(n)) return true;
+  // 「群馬・前橋市の8神社と前橋花火大会」のような、県名から始まる記事の見出し
+  if (/^(北海道|青森|岩手|宮城|秋田|山形|福島|茨城|栃木|群馬|埼玉|千葉|東京|神奈川|新潟|富山|石川|福井|山梨|長野|岐阜|静岡|愛知|三重|滋賀|京都|大阪|兵庫|奈良|和歌山|鳥取|島根|岡山|広島|山口|徳島|香川|愛媛|高知|福岡|佐賀|長崎|熊本|大分|宮崎|鹿児島|沖縄)[・･]/.test(n)) return true;
+  if (/[市区町村]の\d/.test(n)) return true;
+  // 「お祭りイベント」「夏のイベント」のような総称
+  if (/^(お?祭り|夏|春|秋|冬)の?(イベント|行事|情報)$/.test(n)) return true;
   if (/[㈪-㈰㊊-㊐]/.test(n)) return true;                        // 丸囲みの曜日
   return false;
 }
@@ -366,8 +379,12 @@ let usedMedia = 0; let skippedMedia = 0;
 const skipReasons = new Map();
 const perMedia = new Map();
 
-for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
-  const j = JSON.parse(readFileSync(join(RAW, file), 'utf8'));
+const corpora = [
+  ...readdirSync(RAW).filter((f) => f.endsWith('.json')).map((f) => join(RAW, f)),
+  ...(existsSync(RAW_RSS) ? readdirSync(RAW_RSS).filter((f) => f.endsWith('.json')).map((f) => join(RAW_RSS, f)) : []),
+];
+for (const file of corpora) {
+  const j = JSON.parse(readFileSync(file, 'utf8'));
   if (j.skipped) {
     skippedMedia++;
     const key = j.skipped.replace(/\(.*\)/, '(…)').replace(/（.*）/, '（…）');
@@ -495,13 +512,31 @@ for (const file of readdirSync(RAW).filter((f) => f.endsWith('.json'))) {
     const vc = citiesIn(venue).find((c) => c !== cityLabel && c !== area.city && !area.city.includes(c));
     if (vc) { otherCity++; continue; }
 
+    /**
+     * **祭りの名前そのものがいちばん強い手がかり。**
+     * 「高崎前橋経済新聞」の記事から「前橋花火大会」を取り出して高崎市に
+     * 入れていた。名前に別の市の地名（「前橋」「大阪天満宮」の「大阪」）が
+     * 入っていて、それが掲載市と違うなら、その記事はここの祭りではない。
+     *
+     * 名前は「◯◯市」と書かずに地名だけで書かれる（「前橋花火大会」）ので、
+     * 市区町村名から市／区／町／村を落とした形で照合する。
+     */
+    const nameStem = (c) => c.replace(/[市区町村]$/, '').replace(/^.+?郡/, '');
+    const ownStems = new Set([cityLabel, area.city].filter(Boolean).map(nameStem));
+    const foreign = [...(GAZETTEER.get(area.pref) ?? [])]
+      .map(nameStem)
+      // 2 文字未満の地名は普通の言葉と衝突する（「南」「原」）
+      .filter((st) => st.length >= 2 && !ownStems.has(st) && ![...ownStems].some((o) => o.includes(st) || st.includes(o)))
+      .find((st) => name.includes(st));
+    if (foreign) { otherCity++; continue; }
+
     const key = `${area.pref}|${area.citySlug}|${area.wardSlug ?? ''}`;
     if (!rowsByArea.has(key)) rowsByArea.set(key, { area, rows: [] });
     rowsByArea.get(key).rows.push({
       city: area.city,
       citySlug: area.citySlug,
       ...(area.ward ? { ward: area.ward, wardSlug: area.wardSlug } : {}),
-      slug: `gotouti-${hostKey}-${it.id}`,
+      slug: `gotouti-${hostKey}-${j.via === 'rss' ? 'r' : ''}${it.id}`,
       name,
       kind: KIND(name),
       venue: venue ?? `${cityLabel}内`,

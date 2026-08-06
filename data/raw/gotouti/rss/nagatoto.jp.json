@@ -1,0 +1,14 @@
+{
+ "host": "nagatoto.jp",
+ "name": "ながとと",
+ "areas": [
+  "山口県長門市"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "https://nagatoto.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -1,0 +1,17 @@
+{
+ "host": "fukushima.keizai.biz",
+ "name": "福島経済新聞",
+ "areas": [
+  "福島県福島市"
+ ],
+ "prefs": [
+  "福島県"
+ ],
+ "url": "https://fukushima.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

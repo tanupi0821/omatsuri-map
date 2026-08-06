@@ -8,9 +8,9 @@ area:
   ward: null
 venue:
   name: 市貝町役場 さわやか広場周辺
-  address: null
-  lat: null
-  lng: null
+  address: 市貝町大字市塙1280
+  lat: 36.54328
+  lng: 140.10212
 organizer: null
 stalls: yes
 tags:

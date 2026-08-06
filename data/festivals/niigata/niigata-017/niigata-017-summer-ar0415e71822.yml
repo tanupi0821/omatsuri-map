@@ -7,7 +7,7 @@ area:
   city: 上越市
   ward: null
 venue:
-  name: 高田地区・直江津地区
+  name: 高田地区・直江津地区（八坂神社ほか）
   address: 上越市
   lat: 37.115077
   lng: 138.2452
@@ -22,13 +22,18 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-23
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+      - 2026-07-27
+      - 2026-07-28
       - 2026-07-29
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e71822/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://joetsukankonavi.jp/joetsumatsuri/
+    source_name: 上越観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 高田祇園祭が7月23日〜26日、直江津祇園祭が7月26日〜29日で、26日で継がれる。高田は23日が発輿祭・前夜祭・大民踊流し、26日が祇園みこし奉送。直江津は26日に大花火大会（20:00〜20:50）
 station: えちごトキめき鉄道高田駅から徒歩5分(高田地区)、直江津駅から徒歩5分(直江津地区)

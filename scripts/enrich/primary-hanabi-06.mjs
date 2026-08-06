@@ -33,7 +33,7 @@ patchAll([
   // **第一会場は19:00、第二会場は19:30に打上開始**なので全体を start/end に入れる
   ['sumida-sumidagawa-hanabi', {
     organizer: '隅田川花火大会実行委員会',
-    venue: { name: '隅田川（第一会場：桜橋下流〜言問橋上流／第二会場：駒形橋下流〜厩橋上流）', address: '東京都墨田区' },
+    venue: { name: '隅田川（第一会場：桜橋下流〜言問橋上流／第二会場：駒形橋下流〜厩橋上流）', address: '墨田区' },
     links: [
       L('東京都「令和8年（第49回）隅田川花火大会」', 'https://www.kasenrikatsuyou.metro.tokyo.lg.jp/events/info/sumida-fireworks-2026.html'),
       WP('ar0313e00858'),
@@ -99,7 +99,7 @@ patchAll([
   // 八王子。会場の番地（台町2-2）と最寄駅は観光コンベンション協会のページで取れた
   ['hachioji-hanabi-ar0313e00929', {
     station: 'JR八王子駅南口・JR西八王子駅南口・京王線 山田駅',
-    venue: { name: '富士森公園', address: '東京都八王子市台町2-2' },
+    venue: { name: '富士森公園', address: '八王子市台町2-2' },
     links: [
       L('八王子観光コンベンション協会 八王子花火大会', 'https://www.hkc.or.jp/fireworks/'),
       WP('ar0313e00929'),
@@ -132,7 +132,7 @@ patchAll([
   // 八丈島。**町の告知は8月10日・11日の2日間**で、花火は11日の20:11から
   ['tokyo-002-hanabi-ar0313e00508', {
     organizer: '八丈島納涼花火大会実行委員会',
-    venue: { name: '底土海岸（底土港）', address: '東京都八丈島八丈町三根' },
+    venue: { name: '底土海岸（底土港）', address: '八丈島八丈町三根' },
     links: [
       L('八丈町 第25回八丈島納涼花火大会', 'https://www.town.hachijo.tokyo.jp/articles/oshirase-20260701-06/'),
       WP('ar0313e00508'),
@@ -148,7 +148,7 @@ patchAll([
   // 江東花火大会。区のページで会場（葛西橋と清砂大橋の間）と主催が取れた
   ['koto-local-koto-hanabi', {
     organizer: '江東花火大会実行委員会',
-    venue: { name: '荒川・砂町水辺公園（葛西橋と清砂大橋の間）', address: '東京都江東区' },
+    venue: { name: '荒川・砂町水辺公園（葛西橋と清砂大橋の間）', address: '江東区' },
     links: [
       L('江東区 江東花火大会2026', 'https://www.city.koto.lg.jp/101000/kotohanabi.html'),
       L('江東花火大会 公式WEBサイト', 'https://koto-hanabi.com/'),

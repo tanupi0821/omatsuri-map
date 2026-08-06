@@ -1,0 +1,25 @@
+{
+ "host": "takadanobaba.keizai.biz",
+ "name": "高田馬場経済新聞",
+ "areas": [
+  "東京都新宿区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://takadanobaba.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "1691",
+   "title": "今年150周年の戸一小で「といちまつり」 校舎と校庭にあふれる子どもの笑顔",
+   "url": "http://takadanobaba.keizai.biz/headline/1691/",
+   "date": "2026-07-30",
+   "body": "「開校150周年記念 といちまつり」が戸塚第一小学校（新宿区西早稲田3）で7月25日、行われた。 #高田馬場経済新聞"
+  }
+ ]
+}

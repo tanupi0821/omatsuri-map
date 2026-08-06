@@ -1,0 +1,16 @@
+{
+ "host": "tsukuba-style.jp",
+ "name": "つくばスタイル",
+ "areas": [
+  "茨城県つくば市",
+  "茨城県つくばみらい市",
+  "茨城県守谷市"
+ ],
+ "prefs": [
+  "茨城県"
+ ],
+ "url": "https://www.tsukuba-style.jp/index.html",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

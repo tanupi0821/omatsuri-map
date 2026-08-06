@@ -11,23 +11,17 @@ venue:
   address: 松戸市五香4-56
   lat: null
   lng: null
-organizer: 五香南町会
+organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 号外NET 松戸市
-    url: https://matsudo.goguynet.jp/2026/07/30/post-18855/
-  - title: 松戸つうしん
-    url: https://matsudo-tsushin.com/47649.html
-  - title: 松戸ロード　松戸の地域情報ブログ
-    url: https://wl29.net/2026/07/31/matsudoe28810353/
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: 16:00
-    end_time: 20:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://wl29.net/2026/07/27/matsudoi52216093/
     source_name: 松戸ロード　松戸の地域情報ブログ

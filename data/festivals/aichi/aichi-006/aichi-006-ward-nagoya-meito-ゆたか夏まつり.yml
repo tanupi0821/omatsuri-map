@@ -9,8 +9,8 @@ area:
 venue:
   name: 豊が丘小学校
   address: 名古屋市名東区豊が丘1501
-  lat: null
-  lng: null
+  lat: 35.187756
+  lng: 137.014218
 organizer: null
 stalls: unknown
 tags: []

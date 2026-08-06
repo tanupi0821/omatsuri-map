@@ -1,0 +1,29 @@
+id: hyogo-008-gotouti-kobe-journal-330764
+name: 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: メリケンパーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/2365236946.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

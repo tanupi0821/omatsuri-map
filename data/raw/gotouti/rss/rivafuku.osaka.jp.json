@@ -1,0 +1,17 @@
+{
+ "host": "rivafuku.osaka.jp",
+ "name": "リバフク",
+ "areas": [
+  "大阪府大阪市福島区"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://rivafuku.osaka.jp/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

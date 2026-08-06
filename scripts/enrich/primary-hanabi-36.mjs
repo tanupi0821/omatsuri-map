@@ -37,7 +37,7 @@ patchAll([
   // 百華繚乱花火。**8月から10月まで15日**上がる。
   // しかも10月の2日だけ打上場所が違う（鬼怒川温泉駅前広場）
   ['nikko-kinugawa-hyakka-ryoran-hanabi', {
-    venue: { name: '鬼怒楯岩大吊橋（10月3日・10日は鬼怒川温泉駅前広場）', address: '栃木県日光市鬼怒川温泉大原' },
+    venue: { name: '鬼怒楯岩大吊橋（10月3日・10日は鬼怒川温泉駅前広場）', address: '日光市鬼怒川温泉大原' },
     links: [L('日光旅ナビ（日光市観光協会）百華繚乱花火〜鬼怒川焔火〜', 'https://www.nikko-kankou.org/event/769')],
     occurrence: {
       ...src(2026, 'https://www.nikko-kankou.org/event/769', '日光市観光協会', 'official'),
@@ -61,7 +61,7 @@ patchAll([
   ['shizuoka-005-hanabi-ar0622e442226', {
     organizer: '熱海市観光協会',
     station: 'JR東海道本線 熱海駅',
-    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '静岡県熱海市渚町地先' },
+    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '熱海市渚町地先' },
     links: [L('あたみニュース（熱海市観光協会）2026年熱海花火大会開催日決定', 'https://www.ataminews.gr.jp/notices/352')],
     occurrence: {
       ...src(2026, 'https://www.ataminews.gr.jp/notices/352', '熱海市観光協会', 'official'),
@@ -78,7 +78,7 @@ patchAll([
   ['shizuoka-005-hanabi-ar0622e464812', {
     organizer: '熱海市観光協会',
     station: 'JR東海道本線 熱海駅',
-    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '静岡県熱海市渚町地先' },
+    venue: { name: '熱海湾（熱海港7.5m岸壁〜海釣り施設）', address: '熱海市渚町地先' },
     links: [L('あたみニュース（熱海市観光協会）2026年熱海花火大会開催日決定', 'https://www.ataminews.gr.jp/notices/352')],
     occurrence: {
       ...src(2026, 'https://www.ataminews.gr.jp/notices/352', '熱海市観光協会', 'official'),
@@ -97,7 +97,7 @@ patchAll([
   // 主催側の表記は「満点」ではなく「満天打上花火」
   ['tokorozawa-hanabi-ar0311e00439', {
     name: '西武園ゆうえんち 満天打上花火',
-    venue: { name: '西武園ゆうえんち レッツゴー！レオランド特設ステージ', address: '埼玉県所沢市山口2964' },
+    venue: { name: '西武園ゆうえんち レッツゴー！レオランド特設ステージ', address: '所沢市山口2964' },
     links: [L('西武園ゆうえんち 大夏祭り2026（満天打上花火）', 'https://www.seibuen-amusement-park.jp/2026summer/')],
     occurrence: {
       ...src(2026, 'https://www.seibuen-amusement-park.jp/2026summer/', '西武園ゆうえんち', 'official'),
@@ -120,7 +120,7 @@ patchAll([
   // スターライトイリュージョン。**7月19日と、お盆（8/13〜15）、
   // シルバーウィーク（9/20〜22）の計7日**
   ['wakayama-006-hanabi-ar0730e01013', {
-    venue: { name: '和歌山マリーナシティ 西側防波堤', address: '和歌山県和歌山市毛見1527' },
+    venue: { name: '和歌山マリーナシティ 西側防波堤', address: '和歌山市毛見1527' },
     links: [L('和歌山市 スターライトイリュージョン2026', 'https://www.city.wakayama.wakayama.jp/kankou/nenkangyoji/1006616.html')],
     occurrence: {
       ...src(2026, 'https://www.city.wakayama.wakayama.jp/kankou/nenkangyoji/1006616.html', '和歌山市', 'gov'),

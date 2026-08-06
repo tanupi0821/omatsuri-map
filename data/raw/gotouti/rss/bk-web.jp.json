@@ -1,0 +1,14 @@
+{
+ "host": "bk-web.jp",
+ "name": "ビジネス香川",
+ "areas": [
+  "香川県"
+ ],
+ "prefs": [
+  "香川県"
+ ],
+ "url": "https://www.bk-web.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

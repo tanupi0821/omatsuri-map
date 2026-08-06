@@ -29,7 +29,7 @@ patchAll([
     shrine: '深谷八坂神社',
     recurrence: '7月第4土曜日',
     recurrence_source: 'https://www.city.kasumigaura.lg.jp/page/page000244.html',
-    venue: { name: '深谷八坂神社', address: '茨城県かすみがうら市坂1029-1' },
+    venue: { name: '深谷八坂神社', address: 'かすみがうら市坂1029-1' },
     links: [L('かすみがうら市 藤切り祇園祭', 'https://www.city.kasumigaura.lg.jp/page/page000244.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kasumigaura.lg.jp/page/page000244.html', 'かすみがうら市', 'gov'),
@@ -44,7 +44,7 @@ patchAll([
     shrine: '五所駒瀧神社',
     recurrence: '7月23日〜26日',
     recurrence_source: 'https://www.kankou-sakuragawa.jp/page/page000031.html',
-    venue: { name: '真壁町市街地', address: '茨城県桜川市真壁町' },
+    venue: { name: '真壁町市街地', address: '桜川市真壁町' },
     links: [L('桜川市観光協会 真壁祇園祭', 'https://www.kankou-sakuragawa.jp/page/page000031.html')],
     occurrence: {
       ...src(2026, 'https://www.kankou-sakuragawa.jp/page/page000031.html', '桜川市観光協会', 'official'),
@@ -76,7 +76,7 @@ patchAll([
 
   // 津田まつり。**会場は津田の松原（砂浜から花火が見える）**
   ['kagawa-005-hanabi-ar0937e513593', {
-    venue: { name: '津田の松原', address: '香川県さぬき市津田町津田' },
+    venue: { name: '津田の松原', address: 'さぬき市津田町津田' },
     links: [L('さぬき市観光協会 津田まつり', 'https://sanuki-kanko.jp/event/summer')],
     occurrence: {
       ...src(2026, 'https://sanuki-kanko.jp/event/summer', 'さぬき市観光協会', 'official'),
@@ -92,7 +92,7 @@ patchAll([
   // 歴舟川清流まつり。**実際の開催地は大樹町**（データの area.city は帯広市のまま）
   ['hokkaido-048-goguynet-57124', {
     organizer: '大樹町観光協会・大樹町',
-    venue: { name: '歴舟川 大樹橋上流河川敷', address: '北海道広尾郡大樹町南通1丁目12番地先' },
+    venue: { name: '歴舟川 大樹橋上流河川敷', address: '広尾郡大樹町南通1丁目12番地先' },
     links: [L('大樹町 歴舟川清流まつり', 'https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html')],
     occurrence: {
       ...src(2026, 'https://www.town.taiki.hokkaido.jp/soshiki/kikakushokoka/3/1/629.html', '大樹町', 'gov'),
@@ -124,7 +124,7 @@ patchAll([
     shrine: '鬪雞神社',
     recurrence: '7月24日・25日',
     recurrence_source: 'https://www.tanabe-kanko.jp/event/tanabematsuri/',
-    venue: { name: '鬪雞神社', address: '和歌山県田辺市東陽1-1' },
+    venue: { name: '鬪雞神社', address: '田辺市東陽1-1' },
     links: [L('田辺市観光協会 田辺祭', 'https://www.tanabe-kanko.jp/event/tanabematsuri/')],
     occurrence: {
       ...src(2026, 'https://www.tanabe-kanko.jp/event/tanabematsuri/', '田辺市観光協会', 'official'),

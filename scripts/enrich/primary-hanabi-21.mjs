@@ -67,7 +67,7 @@ patchAll([
   ['hyogo-001-summer-ar0728e358506', {
     organizer: '生田神社',
     shrine: '生田神社',
-    venue: { name: '生田神社（境内の大海神社）', address: '兵庫県神戸市中央区下山手通1丁目2-1' },
+    venue: { name: '生田神社（境内の大海神社）', address: '神戸市中央区下山手通1丁目2-1' },
     links: [L('生田神社 生田大海夏祭', 'https://ikutajinja.or.jp/info/daikai')],
     occurrence: {
       ...src(2026, 'https://ikutajinja.or.jp/info/daikai', '生田神社', 'official'),
@@ -82,7 +82,7 @@ patchAll([
 
   // 余市町。**花火は19:15頃**で、祭り全体は16:00から20:00
   ['hokkaido-001-summer-ar0101e509303', {
-    venue: { name: '余市港', address: '北海道余市郡余市町' },
+    venue: { name: '余市港', address: '余市郡余市町' },
     links: [L('余市町 第58回北海ソーラン祭り', 'https://www.town.yoichi.hokkaido.jp/kankou/event/2026-0430-1416-19.html')],
     occurrence: {
       ...src(2026, 'https://www.town.yoichi.hokkaido.jp/kankou/event/2026-0430-1416-19.html', '余市町', 'gov'),
@@ -110,7 +110,7 @@ patchAll([
   // 土沢七夕まつり。**会場は駅前から中町までの土沢商店街**
   ['iwate-007-goguynet-10603', {
     organizer: '土沢七夕まつり実行委員会',
-    venue: { name: '土沢商店街（駅前〜中町）', address: '岩手県花巻市東和町土沢' },
+    venue: { name: '土沢商店街（駅前〜中町）', address: '花巻市東和町土沢' },
     links: [L('花巻観光協会 土沢七夕まつり', 'https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=41')],
     occurrence: {
       ...src(2026, 'https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=41', '花巻観光協会', 'official'),
@@ -128,7 +128,7 @@ patchAll([
   ['maebashi-summer-ar0310e351778', {
     organizer: '大胡町自治会・大胡町青年会',
     station: '上毛電気鉄道 大胡駅（徒歩約3分）',
-    venue: { name: 'JA前橋市大胡支所広場', address: '群馬県前橋市堀越町1115番地1' },
+    venue: { name: 'JA前橋市大胡支所広場', address: '前橋市堀越町1115番地1' },
     links: [L('前橋市 大胡祇園まつり', 'https://www.city.maebashi.gunma.jp/soshiki/shimin/ogo/gyomu/1/2120.html')],
     occurrence: {
       ...src(2026, 'https://www.city.maebashi.gunma.jp/soshiki/shimin/ogo/gyomu/1/2120.html', '前橋市', 'gov'),

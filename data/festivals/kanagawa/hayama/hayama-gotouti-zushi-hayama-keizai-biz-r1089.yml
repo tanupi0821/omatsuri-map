@@ -1,0 +1,29 @@
+id: hayama-gotouti-zushi-hayama-keizai-biz-r1089
+name: 葉山の花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 葉山町
+  ward: null
+venue:
+  name: 葉山町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://zushi-hayama.keizai.biz/headline/1089/
+    source_name: 逗子葉山経済新聞
+    source_type: media
+    checked_at: 2026-08-06

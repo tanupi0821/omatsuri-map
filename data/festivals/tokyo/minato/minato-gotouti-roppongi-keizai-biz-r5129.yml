@@ -1,0 +1,29 @@
+id: minato-gotouti-roppongi-keizai-biz-r5129
+name: 納涼祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: 港区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://roppongi.keizai.biz/headline/5129/
+    source_name: 六本木経済新聞
+    source_type: media
+    checked_at: 2026-08-06

@@ -11,7 +11,7 @@ venue:
   address: null
   lat: 34.973304
   lng: 139.102816
-organizer: 一般社団法人伊東観光協会
+organizer: 伊東観光協会
 stalls: yes
 tags:
   - 花火
@@ -26,8 +26,8 @@ occurrences:
     start_time: 20:50
     end_time: 21:00
     status: confirmed
-    source_url: https://hanabi.walkerplus.com/detail/ar0622e00512/
-    source_name: 花火大会2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-station: JR・伊豆急行伊東駅から徒歩5分
+    source_url: https://itospa.com/event/detail_10019.html
+    source_name: 伊東観光協会
+    source_type: official
+    checked_at: 2026-08-06
+station: JR伊東線 伊東駅

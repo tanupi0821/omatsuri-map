@@ -36,7 +36,7 @@ patchAll([
   // データの「7月29日〜8月16日」は誤り
   ['aomori-006-goguynet-23959', {
     organizer: '八戸三社大祭運営委員会',
-    venue: { name: '八戸市中心街（おがみ神社・長者山新羅神社・八戸市庁前ほか）', address: '青森県八戸市' },
+    venue: { name: '八戸市中心街（おがみ神社・長者山新羅神社・八戸市庁前ほか）', address: '八戸市' },
     links: [L('VISIT HACHINOHE 2026年 八戸三社大祭 行事日程', 'https://visithachinohe.com/stories/sannshataisai_schedule/')],
     occurrence: {
       ...src(2026, 'https://visithachinohe.com/stories/sannshataisai_schedule/', '八戸観光コンベンション協会', 'official'),
@@ -53,7 +53,7 @@ patchAll([
   // 男体山登拝大祭。**7月31日から8月7日までの8日間**で、日付は元から正しかった
   ['nikko-nantaisan-tohai-taisai', {
     shrine: '日光二荒山神社中宮祠',
-    venue: { name: '日光二荒山神社中宮祠・中禅寺湖', address: '栃木県日光市中宮祠2484' },
+    venue: { name: '日光二荒山神社中宮祠・中禅寺湖', address: '日光市中宮祠2484' },
     links: [L('日光旅ナビ（日光市観光協会）男体山登拝大祭', 'https://www.nikko-kankou.org/event/412')],
     occurrence: {
       ...src(2026, 'https://www.nikko-kankou.org/event/412', '日光市観光協会', 'official'),
@@ -69,7 +69,7 @@ patchAll([
   // 高岡七夕まつり。**8月1日から8日まで8日間連続**
   ['toyama-001-summer-ar0516e72972', {
     organizer: '高岡七夕まつり実行委員会',
-    venue: { name: '高岡市中心市街地', address: '富山県高岡市' },
+    venue: { name: '高岡市中心市街地', address: '高岡市' },
     links: [L('高岡観光ナビ 高岡七夕まつり', 'https://www.takaoka.or.jp/event/detail_3915.html')],
     occurrence: {
       ...src(2026, 'https://www.takaoka.or.jp/event/detail_3915.html', '高岡市観光協会', 'official'),
@@ -89,7 +89,7 @@ patchAll([
   // 手筒花火（8/11）や「たんころりん」（8/8〜15）は前後にある別の行事
   ['aichi-004-summer-ar0623e607937', {
     organizer: '足助夏まつり実行委員会',
-    venue: { name: '足助の町並み・足助川遊歩道・足助グラウンド・巴川', address: '愛知県豊田市足助町' },
+    venue: { name: '足助の町並み・足助川遊歩道・足助グラウンド・巴川', address: '豊田市足助町' },
     links: [L('豊田市足助観光協会 足助夏まつり', 'https://asuke.info/event/aug/entry-699.html')],
     occurrence: {
       ...src(2026, 'https://asuke.info/event/aug/entry-699.html', '豊田市足助観光協会', 'official'),
@@ -106,7 +106,7 @@ patchAll([
   // 夏祭り大作戦。**7月18日〜20日と8月22日・23日の計5日**。
   // データは7月18日と8月22日の2日しか持っていなかった
   ['machida-goguynet-66746', {
-    venue: { name: '鶴間公園（南町田グランベリーパーク内）', address: '東京都町田市鶴間3-8-1' },
+    venue: { name: '鶴間公園（南町田グランベリーパーク内）', address: '町田市鶴間3-8-1' },
     links: [L('鶴間公園 夏祭り大作戦', 'https://tsuruma-park.com/topics/47253/')],
     occurrence: {
       ...src(2026, 'https://tsuruma-park.com/topics/47253/', '鶴間公園（町田市）', 'gov'),
@@ -120,7 +120,7 @@ patchAll([
 
   // 納涼大作戦。**8月15日から9月2日までの期間もの**で、日付は元から正しかった
   ['machida-goguynet-66824', {
-    venue: { name: '町田薬師池公園四季彩の杜', address: '東京都町田市野津田町3270' },
+    venue: { name: '町田薬師池公園四季彩の杜', address: '町田市野津田町3270' },
     links: [L('FC町田ゼルビア ＦＣ町田ゼルビア×町田薬師池公園四季彩の杜 納涼大作戦', 'https://www.zelvia.co.jp/news/news-352237/')],
     occurrence: {
       ...src(2026, 'https://www.zelvia.co.jp/news/news-352237/', 'FC町田ゼルビア', 'official'),

@@ -1,0 +1,30 @@
+id: hiroshima-002-goguynet-49351
+name: 卯之大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 福山市
+  ward: null
+venue:
+  name: 福山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-09
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuyama.goguynet.jp/2026/05/04/unotaisai/
+    source_name: 号外NET 福山市
+    source_type: media
+    checked_at: 2026-08-04

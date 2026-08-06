@@ -1,0 +1,26 @@
+{
+ "host": "osakabay.keizai.biz",
+ "name": "大阪ベイ経済新聞",
+ "areas": [
+  "関西地方",
+  "大阪府"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://osakabay.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "1490",
+   "title": "泉南ロングパークで「大阪泉州夏祭り」 10周年記念し特別企画も",
+   "url": "http://osakabay.keizai.biz/headline/1490/",
+   "date": "2026-07-24",
+   "body": "花火や音楽フェスなどを実施するイベント「大阪泉州夏祭り」が8月22日、「泉南りんくう公園 泉南ロングパーク」（泉南市りんくう南浜2）で開催される。 #大阪ベイ経済新聞"
+  }
+ ]
+}

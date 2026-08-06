@@ -1,0 +1,15 @@
+{
+ "host": "tokyostationcity.com",
+ "name": "東京エキマチ",
+ "areas": [
+  "東京都千代田区",
+  "東京都中央区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://www.tokyostationcity.com/tokyoekimachi/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

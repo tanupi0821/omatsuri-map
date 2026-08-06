@@ -26,7 +26,7 @@ patchAll([
 
   // 敦賀。**とうろう流し18:30 → 花火19:30**の順で行う
   ['fukui-005-hanabi-ar0518e00677', {
-    venue: { name: '名勝「気比の松原」', address: '福井県敦賀市松島町' },
+    venue: { name: '名勝「気比の松原」', address: '敦賀市松島町' },
     links: [L('敦賀観光協会 第77回とうろう流しと大花火大会', 'https://tsuruga-kanko.jp/special/sp_fireworks/')],
     occurrence: {
       ...src(2026, 'https://tsuruga-kanko.jp/special/sp_fireworks/', '敦賀観光協会', 'official'),
@@ -53,7 +53,7 @@ patchAll([
   // 白糠町。会場の番地（岬1丁目228番地）が取れた
   ['hokkaido-014-hanabi-ar0101e558988', {
     organizer: '港inしらぬか花火大会実行委員会',
-    venue: { name: '白糠漁港特設会場', address: '北海道白糠郡白糠町岬1丁目228番地' },
+    venue: { name: '白糠漁港特設会場', address: '白糠郡白糠町岬1丁目228番地' },
     links: [L('白糠町 第12回港inしらぬか花火大会', 'https://www.town.shiranuka.lg.jp/section/keizai/h8v21a0000001jnq.html')],
     occurrence: {
       ...src(2026, 'https://www.town.shiranuka.lg.jp/section/keizai/h8v21a0000001jnq.html', '白糠町', 'gov'),
@@ -78,7 +78,7 @@ patchAll([
   // 広尾町。**十勝港まつりは第70回、海上花火大会は第36回**で回数が別
   ['hokkaido-045-hanabi-ar0101e01059', {
     organizer: '十勝港まつり協賛会（事務局：広尾町役場水産商工観光課）',
-    venue: { name: '十勝港第4ふ頭', address: '北海道広尾郡広尾町会所前6丁目' },
+    venue: { name: '十勝港第4ふ頭', address: '広尾郡広尾町会所前6丁目' },
     links: [L('広尾町 十勝港まつり', 'https://www.town.hiroo.lg.jp/kankou/event/')],
     occurrence: {
       ...src(2026, 'https://www.town.hiroo.lg.jp/kankou/event/', '広尾町', 'gov'),
@@ -95,7 +95,7 @@ patchAll([
   ['atsugi-hanabi-ar0314e00243', {
     organizer: 'あつぎ鮎まつり実行委員会（厚木市商業観光課）',
     station: '小田急小田原線 本厚木駅（東口から徒歩約15分）',
-    venue: { name: '相模川 三川合流点', address: '神奈川県厚木市' },
+    venue: { name: '相模川 三川合流点', address: '厚木市' },
     links: [L('厚木市観光協会 第80回あつぎ鮎まつり', 'https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html')],
     occurrence: {
       ...src(2026, 'https://www.atsugi-kankou.jp/soshiki/ac-kankou/ayu-festival9.html', '厚木市観光協会', 'official'),

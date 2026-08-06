@@ -1,0 +1,14 @@
+{
+ "host": "hitohitosendai.com",
+ "name": "ひと×ひと",
+ "areas": [
+  "宮城県仙台市"
+ ],
+ "prefs": [
+  "宮城県"
+ ],
+ "url": "https://www.hitohitosendai.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

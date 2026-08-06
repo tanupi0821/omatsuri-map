@@ -1,0 +1,14 @@
+{
+ "host": "visit.miyazaki.jp",
+ "name": "宮崎てげてげ通信",
+ "areas": [
+  "宮崎県"
+ ],
+ "prefs": [
+  "宮崎県"
+ ],
+ "url": "http://visit.miyazaki.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

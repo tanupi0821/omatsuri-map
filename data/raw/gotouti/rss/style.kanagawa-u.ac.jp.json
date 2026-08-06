@@ -1,0 +1,15 @@
+{
+ "host": "style.kanagawa-u.ac.jp",
+ "name": "神大スタイルWEB",
+ "areas": [
+  "神奈川県横浜市神奈川区六角橋",
+  "神奈川県横浜市西区みなとみらい"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://style.kanagawa-u.ac.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

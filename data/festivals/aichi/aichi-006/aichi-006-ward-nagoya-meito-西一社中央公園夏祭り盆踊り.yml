@@ -9,8 +9,8 @@ area:
 venue:
   name: 西一社中央公園
   address: 名古屋市名東区一社二丁目
-  lat: null
-  lng: null
+  lat: 35.16687
+  lng: 136.99874
 organizer: null
 stalls: unknown
 tags: []

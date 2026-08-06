@@ -1,0 +1,14 @@
+{
+ "host": "yamanashibank.co.jp",
+ "name": "ふじのーと",
+ "areas": [
+  "山梨県"
+ ],
+ "prefs": [
+  "山梨県"
+ ],
+ "url": "https://www.yamanashibank.co.jp/fuji_note/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

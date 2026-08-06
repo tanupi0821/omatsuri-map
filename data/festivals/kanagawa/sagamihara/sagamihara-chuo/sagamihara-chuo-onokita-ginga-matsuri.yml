@@ -9,8 +9,8 @@ area:
 venue:
   name: 鹿沼公園
   address: 相模原市中央区鹿沼台2-15-1
-  lat: null
-  lng: null
+  lat: 35.566806
+  lng: 139.391991
 station: JR横浜線「淵野辺駅」南口 徒歩約3分
 organizer: 大野北銀河まつり実行委員会
 stalls: yes

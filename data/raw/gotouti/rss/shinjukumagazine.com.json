@@ -1,0 +1,14 @@
+{
+ "host": "shinjukumagazine.com",
+ "name": "新宿マガジン",
+ "areas": [
+  "東京都新宿区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://shinjukumagazine.com/",
+ "via": "rss",
+ "skipped": "robots取得不可 (ECONNRESET)",
+ "items": []
+}

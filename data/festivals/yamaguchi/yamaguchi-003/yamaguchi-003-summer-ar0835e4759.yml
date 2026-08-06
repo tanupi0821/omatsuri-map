@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 忌宮神社
-  address: 下宮の内町1-18
+  address: 下関市長府宮の内町1-18
   lat: 33.999037
   lng: 130.987608
 organizer: 忌宮神社
@@ -18,17 +18,25 @@ description: null
 links:
   - title: 公式サイト
     url: https://iminomiya-jinjya.com/
+  - title: 下関観光ガイドブック「海峡出会い旅」WEB版 数方庭祭
+    url: https://shimonoseki-kgb.jp/events/%E6%95%B0%E6%96%B9%E5%BA%AD%E7%A5%AD/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
+      - 2026-08-11
+      - 2026-08-12
       - 2026-08-13
-    start_time: 19:00
-    end_time: 21:30
+    start_time: 19:30
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0835e4759/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://shimonoseki-kgb.jp/events/%E6%95%B0%E6%96%B9%E5%BA%AD%E7%A5%AD/
+    source_name: 下関市観光施設協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月7日から13日まで毎晩行う（神事は19:00から）。山口県指定無形民俗文化財。男性が大幟、女性が切籠を捧げ持ち、鬼石を中心に右回りに回る。データは端の2日しか持っていなかった
 station: JR下関駅からバスで約20分、城下町長府下車徒歩5分
+shrine: 忌宮神社

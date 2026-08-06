@@ -1,0 +1,17 @@
+{
+ "host": "kyodo.keizai.biz",
+ "name": "経堂経済新聞",
+ "areas": [
+  "東京都世田谷区（経堂）"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://kyodo.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

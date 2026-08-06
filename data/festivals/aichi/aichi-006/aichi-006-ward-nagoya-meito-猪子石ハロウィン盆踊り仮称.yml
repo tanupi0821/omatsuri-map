@@ -9,8 +9,8 @@ area:
 venue:
   name: 猪子石小学校
   address: 名古屋市名東区猪子石二丁目1201
-  lat: null
-  lng: null
+  lat: 35.186229
+  lng: 137.003881
 organizer: null
 stalls: unknown
 tags: []

@@ -31,7 +31,7 @@ patchAll([
   // しかも**日ごとに開始時刻が違う**（18:30 / 17:30 / 17:00）
   ['hokkaido-014-summer-ar0101e74521', {
     organizer: '旭川夏まつり実行委員会',
-    venue: { name: '旭川駅周辺（買物公園）・36フェスティバル会場・昭和通り会場', address: '北海道旭川市' },
+    venue: { name: '旭川駅周辺（買物公園）・36フェスティバル会場・昭和通り会場', address: '旭川市' },
     links: [L('旭川商工会議所 旭川夏まつり', 'https://www.ccia.or.jp/event/summer_fes/index.html')],
     occurrence: {
       ...src(2026, 'https://www.ccia.or.jp/event/summer_fes/index.html', '旭川夏まつり実行委員会（旭川商工会議所）', 'official'),
@@ -68,7 +68,7 @@ patchAll([
   // データは17日と19日の2日しか持っていなかった
   ['miyazaki-004-summer-ar1045e151148', {
     organizer: '西都夏まつり振興会（西都商工会議所内）',
-    venue: { name: '西都市中心市街地', address: '宮崎県西都市' },
+    venue: { name: '西都市中心市街地', address: '西都市' },
     links: [L('西都市観光協会 西都夏まつり', 'https://www.saito-kanko.jp/tourisms/%E8%A5%BF%E9%83%BD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E3%81%95%E3%81%84%E3%81%A8%E3%81%AA%E3%81%A4%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89/')],
     occurrence: {
       ...src(2026, 'https://www.saito-kanko.jp/tourisms/%E8%A5%BF%E9%83%BD%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%88%E3%81%95%E3%81%84%E3%81%A8%E3%81%AA%E3%81%A4%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%89/', '西都市観光協会', 'official'),
@@ -87,7 +87,7 @@ patchAll([
   // 日田川開き観光祭。**花火は2日とも上がる**（19:40〜21:00）
   ['oita-007-hanabi-ar1044e183827', {
     station: 'JR久大本線 日田駅',
-    venue: { name: '三隈川周辺・JR日田駅南広場・中央公園・パトリア日田', address: '大分県日田市' },
+    venue: { name: '三隈川周辺・JR日田駅南広場・中央公園・パトリア日田', address: '日田市' },
     links: [L('日田市 第79回日田川開き観光祭', 'https://www.city.hita.oita.jp/site/hitanioideyo/2722.html')],
     occurrence: {
       ...src(2026, 'https://www.city.hita.oita.jp/site/hitanioideyo/2722.html', '日田市', 'gov'),
@@ -105,7 +105,7 @@ patchAll([
   // 山鹿灯籠まつり。**目玉の「千人灯籠踊り」は8月16日**の20:00から21:00
   ['kumamoto-003-summer-ar1043e509316', {
     organizer: '山鹿灯籠まつり実行委員会（山鹿市観光課）',
-    venue: { name: '山鹿小学校グラウンドほか', address: '熊本県山鹿市' },
+    venue: { name: '山鹿小学校グラウンドほか', address: '山鹿市' },
     links: [L('山鹿探訪ナビ（山鹿市観光協会）山鹿灯籠まつり', 'https://yamaga-tanbou.jp/about/toromatsuri/')],
     occurrence: {
       ...src(2026, 'https://yamaga-tanbou.jp/about/toromatsuri/', '山鹿市観光協会', 'official'),

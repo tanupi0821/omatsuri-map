@@ -15,16 +15,14 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: ぴんちょすの沼津ライフ
-    url: https://numazulife.com/2026/07/18/tourounagashi2026/
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: 19:00
-    end_time: 20:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://numazulife.com/2026/07/22/numazusummerfes2026soon/
     source_name: ぴんちょすの沼津ライフ

@@ -1,0 +1,29 @@
+id: mito-gotouti-mito-keizai-biz-r2907
+name: あんばまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 水戸市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://mito.keizai.biz/headline/2907/
+    source_name: 水戸経済新聞
+    source_type: media
+    checked_at: 2026-08-06

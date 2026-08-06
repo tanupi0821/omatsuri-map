@@ -1,0 +1,29 @@
+id: shizuoka-021-gotouti-izu-keizai-biz-r2491
+name: 原・浮島ふるさと夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 静岡県
+  city: 沼津市
+  ward: null
+venue:
+  name: 沼津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://izu.keizai.biz/headline/2491/
+    source_name: 沼津経済新聞
+    source_type: media
+    checked_at: 2026-08-06

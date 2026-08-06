@@ -1,0 +1,14 @@
+{
+ "host": "nagoya.identity.city",
+ "name": "IDENTITY名古屋",
+ "areas": [
+  "愛知県名古屋市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://nagoya.identity.city/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

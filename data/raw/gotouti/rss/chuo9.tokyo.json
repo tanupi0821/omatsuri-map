@@ -1,0 +1,14 @@
+{
+ "host": "chuo9.tokyo",
+ "name": "中央区民マガジン",
+ "areas": [
+  "東京都中央区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://chuo9.tokyo/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

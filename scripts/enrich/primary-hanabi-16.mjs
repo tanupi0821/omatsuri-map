@@ -25,7 +25,7 @@ patchAll([
   // ななせの火群まつり。会場の住所（大字市字赤池188）が市のページで取れた
   ['oita-005-hanabi-ar1044e191268', {
     organizer: 'ななせの火群まつり実行委員会',
-    venue: { name: '七瀬川自然公園', address: '大分県大分市大字市字赤池188' },
+    venue: { name: '七瀬川自然公園', address: '大分市大字市字赤池188' },
     links: [L('大分市 第27回ななせの火群まつり', 'https://www.city.oita.oita.jp/o058/bunkasports/guide/2026homura.html')],
     occurrence: {
       ...src(2026, 'https://www.city.oita.oita.jp/o058/bunkasports/guide/2026homura.html', '大分市', 'gov'),
@@ -41,7 +41,7 @@ patchAll([
 
   // 久米島まつり。町のページで会場（ふれあい公園）と2日間の開催を確認
   ['okinawa-002-hanabi-ar1047e357470', {
-    venue: { name: '久米島町ふれあい公園', address: '沖縄県島尻郡久米島町' },
+    venue: { name: '久米島町ふれあい公園', address: '島尻郡久米島町' },
     links: [L('久米島町 第26回久米島まつり', 'https://www.town.kumejima.okinawa.jp/docs/2026071000037/')],
     occurrence: {
       ...src(2026, 'https://www.town.kumejima.okinawa.jp/docs/2026071000037/', '久米島町', 'gov'),
@@ -57,7 +57,7 @@ patchAll([
   // 出雲神話まつり。**盆踊りは8月8日、花火大会は8月22日**と日が離れている
   ['shimane-006-hanabi-ar0832e76834', {
     organizer: '出雲神話まつり振興会・出雲神話まつり実行委員会',
-    venue: { name: '大津神立河川敷公園', address: '島根県出雲市' },
+    venue: { name: '大津神立河川敷公園', address: '出雲市' },
     links: [L('出雲市 第21回出雲神話まつり', 'https://www.city.izumo.shimane.jp/www/contents/1780383228895/index.html')],
     occurrence: {
       ...src(2026, 'https://www.city.izumo.shimane.jp/www/contents/1780383228895/index.html', '出雲市', 'gov'),
@@ -76,7 +76,7 @@ patchAll([
   // まとめサイト由来のデータは最初と最後の2日しか持っていなかった
   ['shizuoka-012-hanabi-ar0622e469847', {
     organizer: '一般社団法人西伊豆町観光協会',
-    venue: { name: '堂ヶ島公園', address: '静岡県賀茂郡西伊豆町仁科2910-2' },
+    venue: { name: '堂ヶ島公園', address: '賀茂郡西伊豆町仁科2910-2' },
     links: [L('西伊豆町観光協会 堂ヶ島夕映えの花火', 'https://www.nishiizu-kankou.com/event/sunsethanabi')],
     occurrence: {
       ...src(2026, 'https://www.nishiizu-kankou.com/event/sunsethanabi', '一般社団法人西伊豆町観光協会', 'official'),
@@ -109,7 +109,7 @@ patchAll([
   // 吉野川市。主催は吉野川商工会議所内の実行委員会
   ['tokushima-001-hanabi-ar0936e01004', {
     organizer: '吉野川市納涼花火大会等実行委員会（吉野川商工会議所内）',
-    venue: { name: '吉野川市県民運動場', address: '徳島県吉野川市' },
+    venue: { name: '吉野川市県民運動場', address: '吉野川市' },
     links: [L('吉野川商工会議所 吉野川市納涼花火大会', 'https://www.yoshinogawacci.jp/kankou/hanabi/renraku')],
     occurrence: {
       ...src(2026, 'https://www.yoshinogawacci.jp/kankou/hanabi/renraku', '吉野川商工会議所', 'official'),
@@ -127,7 +127,7 @@ patchAll([
   ['toyama-006-hanabi-ar0516e00670', {
     organizer: '富山新港花火大会実行委員会・射水市観光まちづくり課',
     station: '万葉線 海王丸駅',
-    venue: { name: '海王丸パーク', address: '富山県射水市海王町8' },
+    venue: { name: '海王丸パーク', address: '射水市海王町8' },
     links: [L('射水市観光協会 第60回富山新港花火大会', 'https://www.imizu-kanko.jp/events/fireworks-festival/')],
     occurrence: {
       ...src(2026, 'https://www.imizu-kanko.jp/events/fireworks-festival/', '射水市観光協会', 'official'),
@@ -143,7 +143,7 @@ patchAll([
 
   // 串本まつり。**会場は「串本漁港」**（まとめサイトの記載より具体的）
   ['wakayama-011-hanabi-ar0730e00159', {
-    venue: { name: '串本漁港', address: '和歌山県東牟婁郡串本町' },
+    venue: { name: '串本漁港', address: '東牟婁郡串本町' },
     links: [L('串本町 串本まつり', 'https://www.town.kushimoto.wakayama.jp/kanko/event/kusimotomaturi.html')],
     occurrence: {
       ...src(2026, 'https://www.town.kushimoto.wakayama.jp/kanko/event/kusimotomaturi.html', '串本町', 'gov'),

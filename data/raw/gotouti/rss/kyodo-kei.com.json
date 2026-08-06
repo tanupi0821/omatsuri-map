@@ -1,0 +1,14 @@
+{
+ "host": "kyodo-kei.com",
+ "name": "経堂系ドットコム",
+ "areas": [
+  "東京都世田谷区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://www.kyodo-kei.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

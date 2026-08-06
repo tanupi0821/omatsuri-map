@@ -1,0 +1,14 @@
+{
+ "host": "loypi.com",
+ "name": "LOYPI",
+ "areas": [
+  "長崎県"
+ ],
+ "prefs": [
+  "長崎県"
+ ],
+ "url": "http://loypi.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -53,7 +53,7 @@ patchAll([
 
   // 熊谷市のページで日付・時刻を確認。会場は「荒川大橋下流側」と明記されている
   ['kumagaya-hanabi-ar0311e00874', {
-    venue: { name: '荒川河畔（荒川大橋下流側）', address: '埼玉県熊谷市' },
+    venue: { name: '荒川河畔（荒川大橋下流側）', address: '熊谷市' },
     links: [
       L('熊谷市 熊谷花火大会', 'https://www.city.kumagaya.lg.jp/kanko/matsuri/kumagayahanabitaikai/index.html'),
       WP('ar0311e00874'),
@@ -86,7 +86,7 @@ patchAll([
   // 寄居町。**町のページに花火の時刻が無い**ので時刻は触らず、最寄駅だけ足した
   ['saitama-007-hanabi-ar0311e00903', {
     station: '東武東上線・秩父鉄道・JR八高線 寄居駅',
-    venue: { name: '玉淀河原', address: '埼玉県大里郡寄居町' },
+    venue: { name: '玉淀河原', address: '大里郡寄居町' },
     links: [
       L('寄居町 寄居玉淀水天宮祭', 'https://www.town.yorii.saitama.jp/soshiki/13/yoriitamayodosuitengusai.html'),
       WP('ar0311e00903'),
@@ -120,7 +120,7 @@ patchAll([
   ['kasukabe-hanabi-ar0311e115907', {
     organizer: '庄和商工会・春日部大凧花火大会実行委員会（花火の部）',
     station: '東武アーバンパークライン 南桜井駅',
-    venue: { name: 'レジデンシャルパークSHOWA（庄和総合公園）', address: '埼玉県春日部市' },
+    venue: { name: 'レジデンシャルパークSHOWA（庄和総合公園）', address: '春日部市' },
     links: [
       L('春日部市「第2回春日部大凧花火大会を開催（令和8年8月22日開催）」', 'https://www.city.kasukabe.lg.jp/soshikikarasagasu/shiminsankasuishinka/eventjoho/32193.html'),
       WP('ar0311e115907'),
@@ -207,7 +207,7 @@ patchAll([
   // 市川市のページで「第42回」「大洲三丁目地先」を確認。**市のページに時刻は無い**
   ['ichikawa-ichikawa-noryo-hanabi', {
     organizer: '市川市民納涼花火大会実行委員会',
-    venue: { name: '江戸川河川敷（大洲三丁目地先）', address: '千葉県市川市大洲3丁目地先' },
+    venue: { name: '江戸川河川敷（大洲三丁目地先）', address: '市川市大洲3丁目地先' },
     links: [
       L('市川市「令和8年度 第42回市川市民納涼花火大会」', 'https://www.city.ichikawa.lg.jp/eco04/1111000127.html'),
       L('市川市民納涼花火大会 公式ホームページ', 'https://www.ichikawa-hanabi.net/'),

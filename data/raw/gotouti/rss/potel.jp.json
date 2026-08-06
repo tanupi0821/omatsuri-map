@@ -1,0 +1,14 @@
+{
+ "host": "potel.jp",
+ "name": "ポmagazine",
+ "areas": [
+  "京都府京都市"
+ ],
+ "prefs": [
+  "京都府"
+ ],
+ "url": "https://www.potel.jp/kyoto/cityguide",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

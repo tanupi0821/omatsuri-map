@@ -1,0 +1,29 @@
+id: osaka-001-goguynet-7325
+name: PARKにて行われる関西最大級の花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 泉南市
+  ward: null
+venue:
+  name: 泉南市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://izumisano-sennan-hannan.goguynet.jp/2026/06/21/sbi-musiccircus/
+    source_name: 号外NET 泉佐野市・泉南市・阪南市
+    source_type: media
+    checked_at: 2026-08-04

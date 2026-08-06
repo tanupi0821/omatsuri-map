@@ -1,0 +1,29 @@
+id: maebashi-gotouti-takasaki-keizai-biz-r5282
+name: 赤城山らんたん祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 群馬県
+  city: 前橋市
+  ward: null
+venue:
+  name: 前橋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://takasaki.keizai.biz/headline/5282/
+    source_name: 高崎前橋経済新聞
+    source_type: media
+    checked_at: 2026-08-06

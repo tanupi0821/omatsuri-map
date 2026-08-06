@@ -9,8 +9,8 @@ area:
 venue:
   name: 毛利小学校
   address: 江東区毛利2-2-2
-  lat: null
-  lng: null
+  lat: 35.691324
+  lng: 139.816285
 organizer: 毛利町会
 stalls: unknown
 tags: []

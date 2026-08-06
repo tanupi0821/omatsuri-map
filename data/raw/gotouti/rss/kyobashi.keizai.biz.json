@@ -1,0 +1,26 @@
+{
+ "host": "kyobashi.keizai.biz",
+ "name": "京橋経済新聞",
+ "areas": [
+  "大阪府大阪市城東区",
+  "大阪府大阪市都島区"
+ ],
+ "prefs": [
+  "大阪府"
+ ],
+ "url": "https://kyobashi.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "2145",
+   "title": "京橋中央商店街で「復活！夜店街道」 子ども店主のブースも",
+   "url": "http://kyobashi.keizai.biz/headline/2145/",
+   "date": "2026-07-29",
+   "body": "昔ながらの縁日を楽しめるイベント「復活！夜店街道」が8月2日、JR京橋駅北口近くの京橋中央商店街（大阪市都島区東野田町5）で開かれる。 #京橋経済新聞"
+  }
+ ]
+}

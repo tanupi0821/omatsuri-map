@@ -1,0 +1,29 @@
+id: tachikawa-goguynet-127107
+name: 立川まつり 国営昭和記念公園花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 】IKEA立川
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tachikawa-akishima.goguynet.jp/2026/06/08/ikea-tachikawa-hanabi-2026/
+    source_name: 号外NET 立川市・昭島市
+    source_type: media
+    checked_at: 2026-08-04

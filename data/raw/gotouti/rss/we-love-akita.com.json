@@ -1,0 +1,14 @@
+{
+ "host": "we-love-akita.com",
+ "name": "WE LOVE AKITA MAGAZINE",
+ "areas": [
+  "秋田県"
+ ],
+ "prefs": [
+  "秋田県"
+ ],
+ "url": "http://we-love-akita.com/magazine/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -28,7 +28,7 @@ patchAll([
   // 加西。会場の番地（北条町横尾1000）と花火の時刻が市のページで揃った
   ['hyogo-020-hanabi-ar0728e355834', {
     organizer: '加西サイサイまつり祭典委員会',
-    venue: { name: '加西市役所駐車場', address: '兵庫県加西市北条町横尾1000番地' },
+    venue: { name: '加西市役所駐車場', address: '加西市北条町横尾1000番地' },
     links: [L('加西市 第49回加西サイサイまつり', 'https://www.city.kasai.hyogo.jp/site/bunka03/')],
     occurrence: {
       ...src(2026, 'https://www.city.kasai.hyogo.jp/site/bunka03/', '加西市', 'gov'),
@@ -46,7 +46,7 @@ patchAll([
   // 知覧ねぷた祭。会場（知覧まち商店街）の番地が取れた
   ['kagoshima-011-summer-ar1046e187805', {
     organizer: '知覧ねぷた祭実行委員会',
-    venue: { name: '知覧まち商店街', address: '鹿児島県南九州市知覧町郡6204番地一帯' },
+    venue: { name: '知覧まち商店街', address: '南九州市知覧町郡6204番地一帯' },
     links: [L('南九州市 第27回知覧ねぷた祭', 'https://www.city.minamikyushu.lg.jp/kankosite/event/5566.html')],
     occurrence: {
       ...src(2026, 'https://www.city.minamikyushu.lg.jp/kankosite/event/5566.html', '南九州市', 'gov'),
@@ -64,7 +64,7 @@ patchAll([
   // まとめサイト由来のデータは初日と最終日の2日分しか持っていなかった
   ['hokkaido-020-summer-ar0101e75772', {
     organizer: 'くしろ港まつり会',
-    venue: { name: '花火大会は耐震・旅客船ターミナル、パレードは北大通', address: '北海道釧路市' },
+    venue: { name: '花火大会は耐震・旅客船ターミナル、パレードは北大通', address: '釧路市' },
     links: [L('釧路市 第79回くしろ港まつり', 'https://www.city.kushiro.lg.jp/sangyou/umisora/1006541/1006564/1006566.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kushiro.lg.jp/sangyou/umisora/1006541/1006564/1006566.html', '釧路市', 'gov'),
@@ -77,7 +77,7 @@ patchAll([
   ['hokkaido-011-summer-ar0101e74820', {
     organizer: '伊達武者まつり実行委員会',
     station: 'JR室蘭本線 伊達紋別駅',
-    venue: { name: '総合公園だて歴史の杜 カルチャーセンター前広場ほか', address: '北海道伊達市' },
+    venue: { name: '総合公園だて歴史の杜 カルチャーセンター前広場ほか', address: '伊達市' },
     links: [L('伊達市 第50回伊達武者まつり', 'https://www.city.date.hokkaido.jp/hotnews/detail/00007654.html')],
     occurrence: {
       ...src(2026, 'https://www.city.date.hokkaido.jp/hotnews/detail/00007654.html', '伊達市', 'gov'),
@@ -90,7 +90,7 @@ patchAll([
   ['hokkaido-047-hanabi-ar0101e01012', {
     recurrence: '8月第1日曜日',
     recurrence_source: 'https://www.town.tohma.hokkaido.jp/all-about/04/01/1807',
-    venue: { name: '公民館まとまーる前特設会場', address: '北海道上川郡当麻町' },
+    venue: { name: '公民館まとまーる前特設会場', address: '上川郡当麻町' },
     links: [L('当麻町 蟠龍まつり', 'https://www.town.tohma.hokkaido.jp/all-about/04/01/1807')],
     occurrence: {
       ...src(2026, 'https://www.town.tohma.hokkaido.jp/all-about/04/01/1807', '当麻町', 'gov'),
@@ -109,7 +109,7 @@ patchAll([
     station: '関東鉄道竜ヶ崎線 竜ヶ崎駅',
     recurrence: '7月下旬（八坂神社祇園祭の最終日）',
     recurrence_source: 'https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html',
-    venue: { name: '根町 撞舞通り', address: '茨城県龍ケ崎市根町' },
+    venue: { name: '根町 撞舞通り', address: '龍ケ崎市根町' },
     links: [L('龍ケ崎市 撞舞（つくまい）', 'https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html')],
     occurrence: {
       ...src(2026, 'https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html', '龍ケ崎市', 'gov'),

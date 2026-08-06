@@ -7,8 +7,8 @@ area:
   city: 弘前市
   ward: null
 venue:
-  name: 土手町コースほか
-  address: 弘前市
+  name: 弘前市中心市街地（土手町コース・駅前コース）
+  address: 弘前市土手町
   lat: 40.603662
   lng: 140.467751
 organizer: 弘前市立観光館
@@ -22,15 +22,20 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
       - 2026-08-07
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e4839/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.hirosaki-kanko.or.jp/edit.html?id=cat02_summer_neputa
+    source_name: 弘前観光コンベンション協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月1日〜4日は土手町コース（19:00〜）、5日・6日は駅前コース（19:00〜）、7日は土手町の午前コース（10:00〜）。7日夜は岩木川河川敷で「なぬかびおくり」（17:00〜20:30予定）
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neputa_%28Hirosaki%2C_Japan%29.jpg/1280px-Neputa_%28Hirosaki%2C_Japan%29.jpg
     width: 1000

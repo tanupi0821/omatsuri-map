@@ -43,7 +43,7 @@ patchAll([
     organizer: '弥栄ふるさとまつり実行委員会',
     recurrence: '8月中旬（お盆）',
     recurrence_source: 'https://kankou-hamada.or.jp/guidepost/10628',
-    venue: { name: '浜田市役所弥栄支所前イベント広場', address: '島根県浜田市弥栄町長安本郷' },
+    venue: { name: '浜田市役所弥栄支所前イベント広場', address: '浜田市弥栄町長安本郷' },
     links: [L('浜田市観光協会 弥栄ふるさとまつり', 'https://kankou-hamada.or.jp/guidepost/10628')],
     occurrence: {
       ...src(2026, 'https://kankou-hamada.or.jp/guidepost/10628', '浜田市観光協会', 'official'),
@@ -58,7 +58,7 @@ patchAll([
 
   // 月見ヶ池弁財天祭り。**「開始・終了時間は状況により変動」**と市が明記している
   ['yamanashi-004-summer-ar0419e187238', {
-    venue: { name: '月見ヶ池', address: '山梨県上野原市' },
+    venue: { name: '月見ヶ池', address: '上野原市' },
     links: [L('上野原市 月見ヶ池弁財天祭り', 'https://www.city.uenohara.yamanashi.jp/site/kankou/1018661.html')],
     occurrence: {
       ...src(2026, 'https://www.city.uenohara.yamanashi.jp/site/kankou/1018661.html', '上野原市', 'gov'),
@@ -73,7 +73,7 @@ patchAll([
 
   // 紀の川市民まつり。会場の番地（花野604）と花火の時刻が市のページで取れた
   ['wakayama-004-hanabi-ar0730e560621', {
-    venue: { name: '紀の川市民公園多目的広場（打田若もの広場）', address: '和歌山県紀の川市花野604' },
+    venue: { name: '紀の川市民公園多目的広場（打田若もの広場）', address: '紀の川市花野604' },
     links: [L('紀の川市 紀の川市民まつり', 'https://www.city.kinokawa.lg.jp/032/2020-0520-1150-12.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kinokawa.lg.jp/032/2020-0520-1150-12.html', '紀の川市', 'gov'),
@@ -93,7 +93,7 @@ patchAll([
     station: '西武秩父線 西武秩父駅',
     recurrence: '12月2日（宵宮）・12月3日（本祭）',
     recurrence_source: 'https://navi.city.chichibu.lg.jp/info/2025/11/28217/',
-    venue: { name: '羊山公園ほか秩父市街地', address: '埼玉県秩父市' },
+    venue: { name: '羊山公園ほか秩父市街地', address: '秩父市' },
     links: [L('秩父市観光ナビ 秩父夜祭', 'https://navi.city.chichibu.lg.jp/info/2025/11/28217/')],
     occurrence: {
       ...src(2025, 'https://navi.city.chichibu.lg.jp/info/2025/11/28217/', '秩父市', 'gov'),
@@ -108,7 +108,7 @@ patchAll([
   // 春日部の納涼夏祭り。**会場は市役所の「まちのリビング」ほか**
   ['kasukabe-goguynet-82764', {
     station: '東武スカイツリーライン 春日部駅',
-    venue: { name: '春日部市役所 まちのリビング・まちなかひろば・ひだまりホール', address: '埼玉県春日部市中央七丁目2番地1' },
+    venue: { name: '春日部市役所 まちのリビング・まちなかひろば・ひだまりホール', address: '春日部市中央七丁目2番地1' },
     links: [L('春日部市 納涼夏祭り', 'https://www.city.kasukabe.lg.jp/eventjoho/eventjoho_kanko_omatsuri/37655.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kasukabe.lg.jp/eventjoho/eventjoho_kanko_omatsuri/37655.html', '春日部市', 'gov'),

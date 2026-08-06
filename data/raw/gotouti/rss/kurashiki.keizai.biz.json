@@ -1,0 +1,17 @@
+{
+ "host": "kurashiki.keizai.biz",
+ "name": "倉敷経済新聞",
+ "areas": [
+  "岡山県倉敷市"
+ ],
+ "prefs": [
+  "岡山県"
+ ],
+ "url": "https://kurashiki.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

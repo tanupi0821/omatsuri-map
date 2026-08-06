@@ -1,0 +1,17 @@
+{
+ "host": "voiceofnara.jp",
+ "name": "奈良の声",
+ "areas": [
+  "奈良県"
+ ],
+ "prefs": [
+  "奈良県"
+ ],
+ "url": "http://voiceofnara.jp/",
+ "via": "rss",
+ "feed": "/atom.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

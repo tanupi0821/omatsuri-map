@@ -46,7 +46,7 @@ patchAll([
 
   // 銚子市の告知。会場の住所（中央町3-1）はここでしか取れなかった
   ['choshi-hanabi-ar0312e00411', {
-    venue: { name: '河岸公園周辺および利根川河畔', address: '千葉県銚子市中央町3-1' },
+    venue: { name: '河岸公園周辺および利根川河畔', address: '銚子市中央町3-1' },
     links: [
       L('銚子市 銚子みなとまつり花火大会', 'https://www.city.choshi.chiba.jp/event/page1103_00076.html'),
       WP('ar0312e00411'),
@@ -63,7 +63,7 @@ patchAll([
   // 野田市の告知。**会場は「宝珠花橋の江戸川河川敷」**と明記されている
   ['noda-hanabi-ar0312e00408', {
     organizer: '野田市関宿まつり花火大会運営委員会',
-    venue: { name: '関宿ふれあい広場（宝珠花橋 江戸川河川敷）', address: '千葉県野田市' },
+    venue: { name: '関宿ふれあい広場（宝珠花橋 江戸川河川敷）', address: '野田市' },
     links: [
       L('野田市 関宿まつり花火大会', 'https://www.city.noda.chiba.jp/kanko/1021506/1048328.html'),
       WP('ar0312e00408'),
@@ -97,7 +97,7 @@ patchAll([
   // 旭市の告知。会場は飯岡海岸。**市のページに花火の時刻は無い**
   ['asahi-chiba-hanabi-ar0312e00249', {
     organizer: '旭市いいおかYOU・遊フェスティバル実行委員会',
-    venue: { name: '飯岡海岸', address: '千葉県旭市飯岡' },
+    venue: { name: '飯岡海岸', address: '旭市飯岡' },
     links: [
       L('旭市「旭市いいおかYOU・遊フェスティバル2026海浜花火大会開催日について」', 'https://www.city.asahi.lg.jp/soshiki/14/28262.html'),
       L('旭市いいおかYOU･遊フェスティバル 公式サイト', 'https://youyufes.com/'),
@@ -117,7 +117,7 @@ patchAll([
     station: 'JR外房線 上総一ノ宮駅',
     recurrence: '8月第1土曜日',
     recurrence_source: 'https://ichinomiya.org/spot/%E4%B8%80%E5%AE%AE%E7%94%BA%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/',
-    venue: { name: '一宮海岸（2号突堤）', address: '千葉県長生郡一宮町一宮地先' },
+    venue: { name: '一宮海岸（2号突堤）', address: '長生郡一宮町一宮地先' },
     links: [
       L('一宮町観光協会 一宮町納涼花火大会', 'https://ichinomiya.org/spot/%E4%B8%80%E5%AE%AE%E7%94%BA%E7%B4%8D%E6%B6%BC%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/'),
       WP('ar0312e00900'),
@@ -149,7 +149,7 @@ patchAll([
   // 大網白里市。**例年7月だが2026年は9月開催**。市の告知で日付を確かめた
   ['oamishirasato-hanabi-ar0312e00504', {
     organizer: '大網白里市なつまつり実行委員会',
-    venue: { name: '白里海岸（白里海水浴場）', address: '千葉県大網白里市' },
+    venue: { name: '白里海岸（白里海水浴場）', address: '大網白里市' },
     links: [
       L('大網白里市「おおあみしらさとの花火を9月26日（土曜日）に開催します！」', 'https://www.city.oamishirasato.lg.jp/0000015266.html'),
       WP('ar0312e00504'),
@@ -182,7 +182,7 @@ patchAll([
   ['nagareyama-hanabi-ar0312e00885', {
     name: '令和8年度 流山花火大会',
     station: '流鉄流山線 流山駅・平和台駅（徒歩約5分）',
-    venue: { name: '江戸川堤（流山1〜3丁目地先）', address: '千葉県流山市流山1〜3丁目地先' },
+    venue: { name: '江戸川堤（流山1〜3丁目地先）', address: '流山市流山1〜3丁目地先' },
     links: [
       L('流山市 令和8年度 流山花火大会', 'https://www.city.nagareyama.chiba.jp/tourism/1013059/1050206.html'),
       WP('ar0312e00885'),

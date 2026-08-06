@@ -1,0 +1,20 @@
+{
+ "host": "shonan-magazine.jp",
+ "name": "THE SHONAN MAG",
+ "areas": [
+  "神奈川県湘南地域（神奈川県鎌倉市",
+  "神奈川県逗子市",
+  "神奈川県大船市",
+  "神奈川県茅ケ崎市",
+  "神奈川県三浦郡葉山町",
+  "神奈川県平塚市",
+  "神奈川県藤沢市）"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "http://shonan-magazine.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

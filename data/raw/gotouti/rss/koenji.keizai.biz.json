@@ -1,0 +1,25 @@
+{
+ "host": "koenji.keizai.biz",
+ "name": "高円寺経済新聞",
+ "areas": [
+  "東京都杉並区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://koenji.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "1740",
+   "title": "阿佐谷七夕まつり開幕へ 「ひらやすみ」コラボ企画を展開",
+   "url": "http://koenji.keizai.biz/headline/1740/",
+   "date": "2026-08-03",
+   "body": "「阿佐谷七夕まつり」が8月7日から、阿佐谷パールセンター商店街（杉並区阿佐谷南1）で開催される。 #高円寺経済新聞"
+  }
+ ]
+}

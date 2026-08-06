@@ -1,0 +1,29 @@
+id: miyazaki-004-gotouti-myzkc-24522
+name: みやざき納涼花火大会
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 宮崎県
+  city: 宮崎市
+  ward: null
+venue:
+  name: 宮崎市鶴島大淀川河畔
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://myzkc.jp/hanabi20260430/
+    source_name: ジモシル宮崎市
+    source_type: media
+    checked_at: 2026-08-06

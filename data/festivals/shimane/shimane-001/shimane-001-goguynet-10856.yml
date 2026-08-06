@@ -1,0 +1,30 @@
+id: shimane-001-goguynet-10856
+name: やすぎ月の輪まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 安来市
+  ward: null
+venue:
+  name: 安来港
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsue-yasugi.goguynet.jp/2026/07/25/yasugitsukinowamatsuri/
+    source_name: 号外NET 松江市・安来市
+    source_type: media
+    checked_at: 2026-08-04

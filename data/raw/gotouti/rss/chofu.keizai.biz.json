@@ -1,0 +1,17 @@
+{
+ "host": "chofu.keizai.biz",
+ "name": "調布経済新聞",
+ "areas": [
+  "東京都調布市"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://chofu.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

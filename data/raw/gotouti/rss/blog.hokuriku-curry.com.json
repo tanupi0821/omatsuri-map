@@ -1,0 +1,20 @@
+{
+ "host": "blog.hokuriku-curry.com",
+ "name": "北陸カレー物語（日記版）",
+ "areas": [
+  "石川県野々市市",
+  "石川県",
+  "富山県",
+  "福井県",
+  "石川県金沢市"
+ ],
+ "prefs": [
+  "石川県",
+  "富山県",
+  "福井県"
+ ],
+ "url": "https://blog.hokuriku-curry.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

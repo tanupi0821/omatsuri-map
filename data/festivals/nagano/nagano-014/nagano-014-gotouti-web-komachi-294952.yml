@@ -1,0 +1,29 @@
+id: nagano-014-gotouti-web-komachi-294952
+name: 第39回須坂みんなの花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 長野県
+  city: 須坂市
+  ward: null
+venue:
+  name: 百々川緑地公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.web-komachi.com/?p=294952
+    source_name: Web-Komachi
+    source_type: media
+    checked_at: 2026-08-06

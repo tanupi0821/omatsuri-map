@@ -1,0 +1,14 @@
+{
+ "host": "scapes.tokyo",
+ "name": "Tokyo scapes",
+ "areas": [
+  "東京都"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://scapes.tokyo/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

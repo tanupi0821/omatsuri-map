@@ -41,7 +41,7 @@ patchAll([
   ['fukuoka-005-summer-ar1040e359927', {
     organizer: 'はかた夏まつり実行委員会',
     station: 'JR博多駅',
-    venue: { name: 'JR博多駅前広場', address: '福岡県福岡市博多区博多駅中央街1-1' },
+    venue: { name: 'JR博多駅前広場', address: '福岡市博多区博多駅中央街1-1' },
     stalls: 'yes',
     links: [L('はかた夏まつり2026 公式サイト', 'https://natumaturi.jp/')],
     occurrence: {
@@ -64,7 +64,7 @@ patchAll([
   ['sumida-summer-ar0313e316363', {
     organizer: '墨田区（スポーツ振興課）',
     station: '東武スカイツリーライン とうきょうスカイツリー駅／東京メトロ半蔵門線 押上駅',
-    venue: { name: '東京スカイツリータウン1階 ソラマチひろば', address: '東京都墨田区押上1丁目1-2' },
+    venue: { name: '東京スカイツリータウン1階 ソラマチひろば', address: '墨田区押上1丁目1-2' },
     links: [L('墨田区観光協会 墨田区民納涼民踊大会＆東京ソラマチ夏まつり2026', 'https://visit-sumida.jp/event/soramachi-natsumatsuri2026/')],
     occurrence: {
       ...src(2026, 'https://visit-sumida.jp/event/soramachi-natsumatsuri2026/', '墨田区観光協会', 'official'),
@@ -80,7 +80,7 @@ patchAll([
   // 生田緑地夜市。**7月25日と8月15日の2日で、日付は元から正しかった**。
   // 出典と会場だけ直す
   ['tama-goguynet-52531', {
-    venue: { name: '生田緑地 東口ビジターセンター周辺の広場', address: '神奈川県川崎市多摩区枡形7-1-4' },
+    venue: { name: '生田緑地 東口ビジターセンター周辺の広場', address: '川崎市多摩区枡形7-1-4' },
     links: [L('生田緑地 生田緑地夜市', 'https://www.ikutaryokuti.jp/yoichi2026')],
     occurrence: {
       ...src(2026, 'https://www.ikutaryokuti.jp/yoichi2026', '生田緑地（川崎市）', 'gov'),

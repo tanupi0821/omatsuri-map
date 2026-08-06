@@ -7,29 +7,33 @@ area:
   city: 大津市
   ward: null
 venue:
-  name: 大津市内
-  address: null
+  name: 県営大津港沖 びわ湖畔
+  address: 大津市浜大津
   lat: null
   lng: null
-organizer: null
+organizer: びわ湖大花火大会実行委員会
 stalls: yes
 tags: []
 description: null
 links:
   - title: 屋台が出ると出典に記載
     url: https://hanabi.walkerplus.com/detail/ar0725e00765/
+  - title: びわ湖大津トラベルガイド（びわ湖大津観光協会）2026 びわ湖大花火大会
+    url: https://otsu.or.jp/event/hanabi20250808
+  - title: びわ湖大花火大会 公式サイト
+    url: https://www.biwako-visitors.jp/hanabi
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-28
       - 2026-08-06
     start_time: 19:30
     end_time: 20:30
     status: confirmed
-    source_url: https://otsu.goguynet.jp/2026/07/06/summer_traditional_festivals/
-    source_name: 号外NET 大津市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://otsu.or.jp/event/hanabi20250808
+    source_name: びわ湖大津観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: データにあった7月28日は誤りで、開催は8月6日の1日だけ。2026年は第40回の記念大会
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%E3%81%B3%E3%82%8F%E6%B9%96%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2012_%E5%85%A5%E5%8F%A3_%E4%B8%80%E5%BA%A6%E9%80%80%E5%A0%B4%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%A8%E5%86%8D%E5%85%A5%E5%A0%B4%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93_%288227327146%29.jpg/1280px-%E3%81%B3%E3%82%8F%E6%B9%96%E5%A4%A7%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A2012_%E5%85%A5%E5%8F%A3_%E4%B8%80%E5%BA%A6%E9%80%80%E5%A0%B4%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%81%A8%E5%86%8D%E5%85%A5%E5%A0%B4%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93_%288227327146%29.jpg
     width: 1000

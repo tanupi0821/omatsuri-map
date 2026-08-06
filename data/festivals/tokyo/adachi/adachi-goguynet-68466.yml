@@ -1,0 +1,29 @@
+id: adachi-goguynet-68466
+name: 東京で一番早い大規模花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 足立区
+  ward: null
+venue:
+  name: 荒川河川敷（東京メトロ千代田線鉄橋～西新井橋間）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://adachi.goguynet.jp/2026/05/23/adachinohanabi-3/
+    source_name: 号外NET 足立区
+    source_type: media
+    checked_at: 2026-08-04

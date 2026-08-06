@@ -1,0 +1,16 @@
+{
+ "host": "odakyu-voice.jp",
+ "name": "ODAKYU VOICE",
+ "areas": [
+  "東京都",
+  "神奈川県"
+ ],
+ "prefs": [
+  "東京都",
+  "神奈川県"
+ ],
+ "url": "https://www.odakyu-voice.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

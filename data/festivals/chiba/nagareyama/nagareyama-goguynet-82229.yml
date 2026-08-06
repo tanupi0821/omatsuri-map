@@ -1,0 +1,29 @@
+id: nagareyama-goguynet-82229
+name: 流山花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 流山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagareyama-noda.goguynet.jp/2026/07/20/nagareyamahanabitaikai-5/
+    source_name: 号外NET 流山市・野田市
+    source_type: media
+    checked_at: 2026-08-04

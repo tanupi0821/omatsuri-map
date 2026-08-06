@@ -29,7 +29,7 @@ patchAll([
   ['aichi-001-hanabi-ar0623e00812', {
     organizer: '第57回東海まつり花火大会実行委員会',
     station: '名鉄常滑線 太田川駅',
-    venue: { name: '大池公園', address: '愛知県東海市中央町3丁目' },
+    venue: { name: '大池公園', address: '東海市中央町3丁目' },
     links: [
       L('東海市 第57回東海まつり花火大会', 'https://www.city.tokai.aichi.jp/bunka/1002737/1006610/1009628.html'),
       WP('ar0623e00812'),
@@ -96,7 +96,7 @@ patchAll([
   // 分かれている。まとめサイトは「上須頃堤外地」しか持っていなかった
   ['niigata-018-hanabi-ar0415e00056', {
     organizer: '三条夏まつり協賛会',
-    venue: { name: '三条防災ステーション（打上場所）／六ノ町河川緑地（指定観覧会場）', address: '新潟県三条市' },
+    venue: { name: '三条防災ステーション（打上場所）／六ノ町河川緑地（指定観覧会場）', address: '三条市' },
     links: [
       L('三条夏まつり協賛会 行事スケジュール', 'https://sanjo-natsumatsuri.com/event-schedule/'),
       WP('ar0415e00056'),
@@ -113,7 +113,7 @@ patchAll([
   // 小千谷市のページ。会場は「信濃川旭橋下流左岸堤防」
   ['niigata-003-hanabi-ar0415e00060', {
     organizer: 'おぢやまつり実行委員会',
-    venue: { name: '信濃川 旭橋下流左岸堤防', address: '新潟県小千谷市' },
+    venue: { name: '信濃川 旭橋下流左岸堤防', address: '小千谷市' },
     links: [
       L('小千谷市 おぢやまつり', 'https://www.city.ojiya.niigata.jp/site/kanko/ojiyamatsuri.html'),
       WP('ar0415e00060'),
@@ -130,7 +130,7 @@ patchAll([
   // 阿賀野川ござれや花火。**主催は新潟市北区**（区役所）
   ['niigata-004-hanabi-ar0415e00061', {
     organizer: '新潟市北区',
-    venue: { name: '阿賀野川 松浜橋上流側', address: '新潟県新潟市北区松浜本町（右岸）・東区津島屋（左岸）' },
+    venue: { name: '阿賀野川 松浜橋上流側', address: '新潟市北区松浜本町（右岸）・東区津島屋（左岸）' },
     links: [
       L('阿賀野川ござれや花火 公式サイト 大会概要', 'https://www.gozareya.jp/overview'),
       L('新潟市北区 阿賀野川ござれや花火', 'https://www.city.niigata.lg.jp/kita/about/fubutsu/fireworks.html'),
@@ -148,7 +148,7 @@ patchAll([
   // 見附市のページ。会場の番地（本町字焼田所1308番地3）が取れた
   ['niigata-012-hanabi-ar0415e511938', {
     organizer: '見附まつり実行委員会',
-    venue: { name: '見附運動公園多目的グラウンド内特設会場', address: '新潟県見附市本町字焼田所1308番地3' },
+    venue: { name: '見附運動公園多目的グラウンド内特設会場', address: '見附市本町字焼田所1308番地3' },
     links: [
       L('見附市 第58回見附まつり花火大会インフォメーション', 'https://www.city.mitsuke.niigata.jp/soshiki/4/26486.html'),
       WP('ar0415e511938'),

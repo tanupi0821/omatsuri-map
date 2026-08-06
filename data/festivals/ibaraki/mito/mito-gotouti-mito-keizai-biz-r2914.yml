@@ -1,0 +1,30 @@
+id: mito-gotouti-mito-keizai-biz-r2914
+name: 納涼盆踊り花火大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 茨城県
+  city: 水戸市
+  ward: null
+venue:
+  name: 水戸市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://mito.keizai.biz/headline/2914/
+    source_name: 水戸経済新聞
+    source_type: media
+    checked_at: 2026-08-06

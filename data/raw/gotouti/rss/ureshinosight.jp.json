@@ -1,0 +1,14 @@
+{
+ "host": "ureshinosight.jp",
+ "name": "嬉野サイト",
+ "areas": [
+  "佐賀県嬉野市"
+ ],
+ "prefs": [
+  "佐賀県"
+ ],
+ "url": "http://ureshinosight.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -1,0 +1,17 @@
+{
+ "host": "nagasaki-keizai.jp",
+ "name": "ながさき経済web",
+ "areas": [
+  "長崎県"
+ ],
+ "prefs": [
+  "長崎県"
+ ],
+ "url": "https://nagasaki-keizai.jp/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

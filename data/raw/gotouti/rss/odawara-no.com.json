@@ -1,0 +1,14 @@
+{
+ "host": "odawara-no.com",
+ "name": "オダワラの",
+ "areas": [
+  "神奈川県小田原市"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://odawara-no.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

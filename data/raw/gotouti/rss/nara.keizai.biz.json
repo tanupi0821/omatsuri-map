@@ -1,0 +1,17 @@
+{
+ "host": "nara.keizai.biz",
+ "name": "奈良経済新聞",
+ "areas": [
+  "奈良県"
+ ],
+ "prefs": [
+  "奈良県"
+ ],
+ "url": "https://nara.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

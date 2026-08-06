@@ -1,0 +1,30 @@
+id: niigata-009-goguynet-60714
+name: 長岡まつり大花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: 近くに駐車場は
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanagaoka.goguynet.jp/2026/07/29/nagaokamatsuri-parking2026/
+    source_name: 号外NET 長岡市
+    source_type: media
+    checked_at: 2026-08-04

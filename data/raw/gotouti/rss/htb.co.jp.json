@@ -1,0 +1,14 @@
+{
+ "host": "htb.co.jp",
+ "name": "SODANE",
+ "areas": [
+  "北海道"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://www.htb.co.jp/sodane/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

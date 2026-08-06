@@ -9,21 +9,19 @@ area:
 venue:
   name: JR巣鴨駅南口ロータリー
   address: null
-  lat: 35.73263
-  lng: 139.737313
+  lat: null
+  lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links:
-  - title: 東京フェスタ
-    url: https://tokyofesta.com/23ku/31235/
+links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-07-17
-    start_time: 18:00
-    end_time: 21:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://ikebukuro-times.com/archives/sugamo-bonodori202607.html
     source_name: 池袋タイムズ

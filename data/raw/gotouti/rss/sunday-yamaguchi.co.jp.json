@@ -1,0 +1,14 @@
+{
+ "host": "sunday-yamaguchi.co.jp",
+ "name": "サンデー山口",
+ "areas": [
+  "山口県山口市"
+ ],
+ "prefs": [
+  "山口県"
+ ],
+ "url": "https://www.sunday-yamaguchi.co.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

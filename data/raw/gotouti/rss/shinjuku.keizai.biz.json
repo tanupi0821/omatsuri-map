@@ -1,0 +1,17 @@
+{
+ "host": "shinjuku.keizai.biz",
+ "name": "新宿経済新聞",
+ "areas": [
+  "東京都新宿区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://shinjuku.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

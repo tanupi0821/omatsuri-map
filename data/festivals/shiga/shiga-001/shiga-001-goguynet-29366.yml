@@ -1,0 +1,29 @@
+id: shiga-001-goguynet-29366
+name: 第40回記念大会 2026びわ湖大花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 滋賀県
+  city: 大津市
+  ward: null
+venue:
+  name: 浜大津
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otsu.goguynet.jp/2026/07/23/biwakohanabi_12000/
+    source_name: 号外NET 大津市
+    source_type: media
+    checked_at: 2026-08-04

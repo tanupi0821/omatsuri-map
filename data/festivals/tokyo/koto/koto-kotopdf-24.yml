@@ -9,8 +9,8 @@ area:
 venue:
   name: 第一大島小学校
   address: 江東区大島2-41-4
-  lat: null
-  lng: null
+  lat: 35.68972794
+  lng: 139.8253936
 organizer: 大島１丁目・大島２丁目
 stalls: unknown
 tags: []

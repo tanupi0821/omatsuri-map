@@ -1,0 +1,14 @@
+{
+ "host": "koberu.com",
+ "name": "KOBERU",
+ "areas": [
+  "兵庫県神戸市"
+ ],
+ "prefs": [
+  "兵庫県"
+ ],
+ "url": "https://koberu.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

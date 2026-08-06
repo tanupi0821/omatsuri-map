@@ -1,0 +1,14 @@
+{
+ "host": "kamatama.jp",
+ "name": "かまたマガジン",
+ "areas": [
+  "東京都大田区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://kamatama.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

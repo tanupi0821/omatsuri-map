@@ -1,0 +1,29 @@
+id: fukaya-gotouti-sai2-201204
+name: 第32回 深谷花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 深谷市
+  ward: null
+venue:
+  name: ワモア川本南
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://sai2.info/archives/20260731-02.html
+    source_name: 埼北つうしん
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: zushi-goguynet-36535
+name: 第69回逗子海岸花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 逗子市
+  ward: null
+venue:
+  name: 逗子市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamakura-zushi.goguynet.jp/2026/04/21/zushihanabi-3/
+    source_name: 号外NET 鎌倉市・逗子市
+    source_type: media
+    checked_at: 2026-08-04

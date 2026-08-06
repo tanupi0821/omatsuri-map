@@ -1,0 +1,29 @@
+id: chiyoda-gotouti-lovewalker-r000
+name: 竈門神社七夕祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 千代田区
+  ward: null
+venue:
+  name: 千代田区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://lovewalker.jp/elem/000/004/419/4419953/?rss
+    source_name: 丸の内LOVE Walker
+    source_type: media
+    checked_at: 2026-08-06

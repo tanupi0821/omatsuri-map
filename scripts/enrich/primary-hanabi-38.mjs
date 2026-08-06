@@ -30,7 +30,7 @@ patchAll([
   // 片山津温泉。**8月1日から30日まで毎夜**上げる。2日ではなく30日
   ['ishikawa-001-hanabi-ar0517e00672', {
     organizer: '片山津温泉観光協会・片山津温泉旅館協同組合',
-    venue: { name: '柴山潟周辺', address: '石川県加賀市片山津温泉' },
+    venue: { name: '柴山潟周辺', address: '加賀市片山津温泉' },
     links: [L('加賀温泉郷 納涼花火まつり in 片山津温泉 公式サイト', 'https://kaga-hanabi.jp/')],
     occurrence: {
       ...src(2026, 'https://kaga-hanabi.jp/', '片山津温泉観光協会', 'official'),
@@ -50,7 +50,7 @@ patchAll([
   // 計19日**。まとめサイトは前半の端2日しか持っていなかった
   ['chiba-001-hanabi-ar0312e01090', {
     organizer: '千葉ロッテマリーンズ',
-    venue: { name: 'ZOZOマリンスタジアム', address: '千葉県千葉市美浜区美浜1' },
+    venue: { name: 'ZOZOマリンスタジアム', address: '千葉市美浜区美浜1' },
     links: [L('千葉ロッテマリーンズ マリーンズ花火', 'https://www.marines.co.jp/event/fireworks/')],
     occurrence: {
       ...src(2026, 'https://www.marines.co.jp/event/fireworks/', '千葉ロッテマリーンズ', 'official'),
@@ -71,7 +71,7 @@ patchAll([
   // よみうりランド。**毎週土曜の5日**（1/17・24・31、2/7・14）
   ['inagi-hanabi-ar0313e335967', {
     organizer: '株式会社よみうりランド',
-    venue: { name: 'よみうりランド 波のプールエリア', address: '東京都稲城市矢野口4015-1' },
+    venue: { name: 'よみうりランド 波のプールエリア', address: '稲城市矢野口4015-1' },
     links: [L('よみうりランド「5日間で6,000発！花火と大迫力噴水ショー」（プレスリリース）', 'https://prtimes.jp/main/html/rd/p/000000451.000041300.html')],
     occurrence: {
       ...src(2026, 'https://prtimes.jp/main/html/rd/p/000000451.000041300.html', '株式会社よみうりランド', 'official'),
@@ -86,7 +86,7 @@ patchAll([
   // 催しごとに日が違う。日付が2件なのは取りこぼしではない
   ['taito-summer-ar0313e4789', {
     organizer: '一般社団法人上野観光連盟',
-    venue: { name: '上野公園 不忍池周辺・水上音楽堂', address: '東京都台東区上野公園' },
+    venue: { name: '上野公園 不忍池周辺・水上音楽堂', address: '台東区上野公園' },
     links: [L('上野観光連盟 第75回江戸趣味納涼大会 うえの夏まつり', 'https://enjoy.ueno.or.jp/summer2026/')],
     occurrence: {
       ...src(2026, 'https://enjoy.ueno.or.jp/summer2026/', '一般社団法人上野観光連盟', 'official'),
@@ -102,7 +102,7 @@ patchAll([
   // 土浦キララまつり。**まつりは8月1日・2日の2日間**。
   // データに入っていた7月4日は誤りだった
   ['tsuchiura-goguynet-34286', {
-    venue: { name: '土浦駅西口駅前通り・うらら大屋根広場・モール505・亀城公園ほか市街地一帯', address: '茨城県土浦市' },
+    venue: { name: '土浦駅西口駅前通り・うらら大屋根広場・モール505・亀城公園ほか市街地一帯', address: '土浦市' },
     links: [L('土浦市観光協会 土浦キララまつり2026', 'https://www.tsuchiura-kankou.jp/whats_new/%E5%9C%9F%E6%B5%A6%E3%82%AD%E3%83%A9%E3%83%A9%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96-2/')],
     occurrence: {
       ...src(2026, 'https://www.tsuchiura-kankou.jp/whats_new/%E5%9C%9F%E6%B5%A6%E3%82%AD%E3%83%A9%E3%83%A9%E3%81%BE%E3%81%A4%E3%82%8A%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96-2/', '土浦市観光協会', 'official'),
@@ -119,7 +119,7 @@ patchAll([
   // ハウステンボス。**7月18日から8月30日まで20日**
   ['nagasaki-002-hanabi-ar1042e72221', {
     organizer: 'ハウステンボス株式会社',
-    venue: { name: 'アートガーデン・ハーバータウンほか場内各所', address: '長崎県佐世保市ハウステンボス町1-1' },
+    venue: { name: 'アートガーデン・ハーバータウンほか場内各所', address: '佐世保市ハウステンボス町1-1' },
     links: [L('ハウステンボス よくあるご質問「花火の時間と場所」', 'https://faq.huistenbosch.co.jp/%E8%8A%B1%E7%81%AB%E3%81%AE%E6%99%82%E9%96%93%E3%81%A8%E5%A0%B4%E6%89%80%E3%82%92%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%80%82-698a8255f604b8a8375e3750')],
     occurrence: {
       ...src(2026, 'https://faq.huistenbosch.co.jp/%E8%8A%B1%E7%81%AB%E3%81%AE%E6%99%82%E9%96%93%E3%81%A8%E5%A0%B4%E6%89%80%E3%82%92%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%80%82-698a8255f604b8a8375e3750', 'ハウステンボス', 'official'),
@@ -142,7 +142,7 @@ patchAll([
   ['kyoto-002-summer-ar0726e4809', {
     organizer: '八坂神社',
     shrine: '八坂神社',
-    venue: { name: '八坂神社および氏子区域', address: '京都府京都市東山区祇園町北側625' },
+    venue: { name: '八坂神社および氏子区域', address: '京都市東山区祇園町北側625' },
     links: [L('八坂神社 祇園祭', 'https://www.yasaka-jinja.or.jp/event/gion.html')],
     occurrence: {
       ...src(2026, 'https://www.yasaka-jinja.or.jp/event/gion.html', '八坂神社', 'official'),

@@ -1,0 +1,25 @@
+{
+ "host": "saga.keizai.biz",
+ "name": "佐賀経済新聞",
+ "areas": [
+  "佐賀県"
+ ],
+ "prefs": [
+  "佐賀県"
+ ],
+ "url": "https://saga.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "2357",
+   "title": "佐賀市柳町にカフェ「木陰礼讃コーヒー」 ひなまつり出店を経て常設店舗に",
+   "url": "http://saga.keizai.biz/headline/2357/",
+   "date": "2026-08-05",
+   "body": "カフェ「木陰礼讃COFFEE（コーヒー）」（佐賀市柳町）が7月28日、佐賀市歴史民俗館・旧古賀銀行向かいの「旧中村家」にオープンした。 #佐賀経済新聞"
+  }
+ ]
+}

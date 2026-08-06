@@ -1,0 +1,14 @@
+{
+ "host": "kumin.news",
+ "name": "大田区民ニュース",
+ "areas": [
+  "東京都大田区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://kumin.news/ota/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

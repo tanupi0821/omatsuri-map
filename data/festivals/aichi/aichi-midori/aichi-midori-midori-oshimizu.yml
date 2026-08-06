@@ -9,8 +9,8 @@ area:
 venue:
   name: 平手南公園
   address: 名古屋市緑区砂田二丁目
-  lat: null
-  lng: null
+  lat: 35.081042
+  lng: 136.985145
 organizer: 大清水学区
 stalls: unknown
 tags: []

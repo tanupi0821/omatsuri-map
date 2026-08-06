@@ -1,0 +1,32 @@
+{
+ "host": "ishigaki.keizai.biz",
+ "name": "石垣経済新聞",
+ "areas": [
+  "沖縄県八重山地方（沖縄県石垣市ほか）"
+ ],
+ "prefs": [
+  "沖縄県"
+ ],
+ "url": "https://ishigaki.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "2690",
+   "title": "石垣島「第3回島の子ども応援まつり」盛況 来場者1万1000人超え",
+   "url": "http://ishigaki.keizai.biz/headline/2690/",
+   "date": "2025-07-07",
+   "body": "「第3回島の子ども応援まつり」が6月22日、新栄公園（石垣市新栄町）で開催された。 #石垣経済新聞"
+  },
+  {
+   "id": "2681",
+   "title": "石垣市役所で「石垣島やきもの祭り」 「コーヒーカップ特設市」も",
+   "url": "http://ishigaki.keizai.biz/headline/2681/",
+   "date": "2024-12-16",
+   "body": "石垣市役所で12月14日・15日、「第15回石垣島やきもの祭り」が開催された。 #石垣経済新聞"
+  }
+ ]
+}

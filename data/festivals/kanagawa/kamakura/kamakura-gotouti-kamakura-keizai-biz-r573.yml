@@ -1,0 +1,29 @@
+id: kamakura-gotouti-kamakura-keizai-biz-r573
+name: あじさい夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 鎌倉市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://kamakura.keizai.biz/headline/573/
+    source_name: 鎌倉経済新聞
+    source_type: media
+    checked_at: 2026-08-06

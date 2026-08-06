@@ -1,0 +1,30 @@
+id: yamanashi-003-gotouti-kofu-keizai-biz-r564
+name: GOOD VIBES ONLY 夏祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 山梨県
+  city: 甲府市
+  ward: null
+venue:
+  name: 甲府市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://kofu.keizai.biz/headline/564/
+    source_name: 甲府経済新聞
+    source_type: media
+    checked_at: 2026-08-06

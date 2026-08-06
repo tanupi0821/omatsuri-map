@@ -1,0 +1,17 @@
+{
+ "host": "meguro.keizai.biz",
+ "name": "目黒経済新聞",
+ "areas": [
+  "東京都目黒区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://meguro.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

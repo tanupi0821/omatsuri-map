@@ -1,0 +1,29 @@
+id: shinjuku-gotouti-ichigaya-keizai-biz-r3876
+name: エドモント 夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 新宿区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://ichigaya.keizai.biz/headline/3876/
+    source_name: 市ケ谷経済新聞
+    source_type: media
+    checked_at: 2026-08-06

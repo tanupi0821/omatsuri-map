@@ -1,0 +1,30 @@
+id: kagoshima-009-goguynet-28306
+name: 姶良夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 鹿児島県
+  city: 姶良市
+  ward: null
+venue:
+  name: 姶良市役所
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kirishima-aira.goguynet.jp/2026/07/14/aira-yoichi-2/
+    source_name: 号外NET 霧島市・姶良市
+    source_type: media
+    checked_at: 2026-08-04

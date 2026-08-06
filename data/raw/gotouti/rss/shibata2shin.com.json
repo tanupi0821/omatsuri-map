@@ -1,0 +1,17 @@
+{
+ "host": "shibata2shin.com",
+ "name": "しばた通信",
+ "areas": [
+  "新潟県新発田市"
+ ],
+ "prefs": [
+  "新潟県"
+ ],
+ "url": "http://shibata2shin.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

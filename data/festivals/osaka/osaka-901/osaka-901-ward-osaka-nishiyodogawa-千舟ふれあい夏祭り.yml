@@ -9,8 +9,8 @@ area:
 venue:
   name: 千舟公園
   address: 大阪市西淀川区千舟2-8
-  lat: null
-  lng: null
+  lat: 34.7110290000005
+  lng: 135.452264900001
 organizer: 千舟地域
 stalls: unknown
 tags: []

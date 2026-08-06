@@ -9,8 +9,8 @@ area:
 venue:
   name: 高針小学校
   address: 名古屋市名東区高針二丁目1103
-  lat: null
-  lng: null
+  lat: 35.158049
+  lng: 137.008927
 organizer: null
 stalls: unknown
 tags: []

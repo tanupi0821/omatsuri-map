@@ -1,0 +1,14 @@
+{
+ "host": "kanazawatime.net",
+ "name": "金沢時間",
+ "areas": [
+  "石川県金沢市"
+ ],
+ "prefs": [
+  "石川県"
+ ],
+ "url": "http://kanazawatime.net/",
+ "via": "rss",
+ "skipped": "robots取得不可 (UND_ERR_CONNECT_TIMEOUT)",
+ "items": []
+}

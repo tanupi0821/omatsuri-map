@@ -1,0 +1,29 @@
+id: abiko-goguynet-73666
+name: 手賀沼花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 我孫子市
+  ward: null
+venue:
+  name: 我孫子市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://abiko.goguynet.jp/2026/07/25/yukatakitsuke/
+    source_name: 号外NET 我孫子市
+    source_type: media
+    checked_at: 2026-08-04

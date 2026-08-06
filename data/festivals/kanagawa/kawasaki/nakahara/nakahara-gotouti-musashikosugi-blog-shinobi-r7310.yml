@@ -1,0 +1,30 @@
+id: nakahara-gotouti-musashikosugi-blog-shinobi-r7310
+name: 第3回とうすみ盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 中原区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://musashikosugi.blog.shinobi.jp/Entry/7310/
+    source_name: 武蔵小杉ブログ
+    source_type: media
+    checked_at: 2026-08-06

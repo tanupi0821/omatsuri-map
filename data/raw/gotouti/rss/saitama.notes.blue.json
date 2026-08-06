@@ -1,0 +1,14 @@
+{
+ "host": "saitama.notes.blue",
+ "name": "さいたまノート",
+ "areas": [
+  "埼玉県"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://saitama.notes.blue/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

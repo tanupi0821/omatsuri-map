@@ -1,0 +1,14 @@
+{
+ "host": "motocracy.jp",
+ "name": "モトクラシー",
+ "areas": [
+  "北海道旭川市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "https://www.motocracy.jp",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

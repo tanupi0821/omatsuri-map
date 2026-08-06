@@ -1,0 +1,30 @@
+id: osaka-706-gotouti-katano-times-r20260720
+name: 虫送り祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 交野市
+  ward: null
+venue:
+  name: 交野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+      - 2026-07-05
+    start_time: 12:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://www.katano-times.com/news/mushiokuri-20260720.html
+    source_name: 交野タイムズ
+    source_type: media
+    checked_at: 2026-08-06

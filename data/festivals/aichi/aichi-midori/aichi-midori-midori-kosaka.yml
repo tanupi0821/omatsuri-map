@@ -9,8 +9,8 @@ area:
 venue:
   name: 小坂小学校
   address: 名古屋市緑区小坂一丁目1001-2
-  lat: null
-  lng: null
+  lat: 35.085187
+  lng: 136.981761
 organizer: 小坂学区
 stalls: unknown
 tags: []

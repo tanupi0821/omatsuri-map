@@ -1,0 +1,14 @@
+{
+ "host": "takt-toyama.net",
+ "name": "日刊オンラインタクト",
+ "areas": [
+  "富山県"
+ ],
+ "prefs": [
+  "富山県"
+ ],
+ "url": "https://takt-toyama.net/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

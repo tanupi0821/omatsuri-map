@@ -1,0 +1,14 @@
+{
+ "host": "iinenagano.jline.net",
+ "name": "いいね!長野 Like Nagano",
+ "areas": [
+  "長野県長野市"
+ ],
+ "prefs": [
+  "長野県"
+ ],
+ "url": "https://iinenagano.jline.net/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

@@ -1,0 +1,29 @@
+id: ishioka-goguynet-33920
+name: 石岡のおまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 茨城県
+  city: 石岡市
+  ward: null
+venue:
+  name: 石岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/05/31/ishioka_manhallcard/
+    source_name: 号外NET 土浦市・かすみがうら市・石岡市
+    source_type: media
+    checked_at: 2026-08-04

@@ -7,7 +7,7 @@ area:
   city: 富山市
   ward: null
 venue:
-  name: 富山市愛宕町2丁目6
+  name: 愛宕神社
   address: 富山市愛宕町2丁目6
   lat: null
   lng: null
@@ -28,3 +28,4 @@ occurrences:
     source_name: 号外NET 富山市
     source_type: media
     checked_at: 2026-08-04
+shrine: 愛宕神社

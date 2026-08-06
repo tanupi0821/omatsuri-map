@@ -37,7 +37,7 @@ patchAll([
 
   // 東武動物公園。**8月の土曜3日**（15日・22日・29日）
   ['saitama-004-hanabi-ar0311e00547', {
-    venue: { name: '東武動物公園 東ゲート 白鳥の池周辺', address: '埼玉県南埼玉郡宮代町須賀110' },
+    venue: { name: '東武動物公園 東ゲート 白鳥の池周辺', address: '南埼玉郡宮代町須賀110' },
     links: [L('東武動物公園 打上花火2026', 'https://www.tobuzoo.com/event/9686.html')],
     occurrence: {
       ...src(2026, 'https://www.tobuzoo.com/event/9686.html', '東武動物公園', 'official'),
@@ -56,7 +56,7 @@ patchAll([
   // デンパーク。**8月に11日**。8月8日だけ19:30で、他は19:20から
   ['aichi-009-hanabi-ar0623e01066', {
     organizer: '安城産業文化公園デンパーク',
-    venue: { name: '安城産業文化公園デンパーク 水のステージ', address: '愛知県安城市赤松町梶1' },
+    venue: { name: '安城産業文化公園デンパーク 水のステージ', address: '安城市赤松町梶1' },
     links: [L('安城産業文化公園デンパーク 大迫力！夏の花火ショー', 'https://denpark.jp/event-detail.php?id=341')],
     occurrence: {
       ...src(2026, 'https://denpark.jp/event-detail.php?id=341', '安城産業文化公園デンパーク', 'official'),
@@ -89,7 +89,7 @@ patchAll([
 
   // 玉造温泉夏まつり。**7月18日から8月31日まで45日間、毎晩**
   ['shimane-002-goguynet-10806', {
-    venue: { name: '玉造温泉ゆ〜ゆ前 川沿い特設ステージ／松乃湯駐車場（キッズ夜店）', address: '島根県松江市玉湯町玉造255番地' },
+    venue: { name: '玉造温泉ゆ〜ゆ前 川沿い特設ステージ／松乃湯駐車場（キッズ夜店）', address: '松江市玉湯町玉造255番地' },
     stalls: 'yes',
     links: [L('玉造温泉公式サイト・たまなび 玉造温泉夏まつり2026', 'https://tamayado.com/3839')],
     occurrence: {
@@ -110,7 +110,7 @@ patchAll([
   // 花火が上がるのは4日だけ**（2/21・22・28・3/7）。
   // この祭りは `kind: 花火` で入っているので、花火の日に合わせる
   ['nagasaki-011-hanabi-ar1042e214973', {
-    venue: { name: '雲仙温泉街一帯・旧八万地獄・雲仙お山の情報館前広場', address: '長崎県雲仙市小浜町雲仙' },
+    venue: { name: '雲仙温泉街一帯・旧八万地獄・雲仙お山の情報館前広場', address: '雲仙市小浜町雲仙' },
     links: [L('島原半島観光連盟 雲仙灯りの花ぼうろ2026', 'https://www.shimakanren.com/event/detail_10127.html')],
     occurrence: {
       ...src(2026, 'https://www.shimakanren.com/event/detail_10127.html', '島原半島観光連盟', 'official'),
@@ -128,7 +128,7 @@ patchAll([
   // さっぽろ夏まつり。**7月23日から8月18日までの27日間続く期間もの**。
   // 日付が2件なのは取りこぼしではない
   ['hokkaido-001-summer-ar0101e4761', {
-    venue: { name: '大通公園5〜8丁目・10丁目・11丁目ほか', address: '北海道札幌市中央区大通西5〜8' },
+    venue: { name: '大通公園5〜8丁目・10丁目・11丁目ほか', address: '札幌市中央区大通西5〜8' },
     links: [L('北海道新聞 さっぽろ夏まつり', 'https://www.hokkaido-np.co.jp/event/79737/')],
     occurrence: {
       ...src(2026, 'https://www.hokkaido-np.co.jp/event/79737/', 'さっぽろ夏まつり実行委員会', 'official'),
@@ -139,7 +139,7 @@ patchAll([
 
   // 狸まつり。さっぽろ夏まつりの一部で、同じく27日間の期間もの
   ['hokkaido-001-summer-ar0101e108977', {
-    venue: { name: '狸小路商店街', address: '北海道札幌市中央区南2条〜3条西1〜7丁目' },
+    venue: { name: '狸小路商店街', address: '札幌市中央区南2条〜3条西1〜7丁目' },
     links: [L('北海道新聞 さっぽろ夏まつり', 'https://www.hokkaido-np.co.jp/event/79737/')],
     occurrence: {
       ...src(2026, 'https://www.hokkaido-np.co.jp/event/79737/', 'さっぽろ夏まつり実行委員会', 'official'),

@@ -7,24 +7,30 @@ area:
   city: 秋田市
   ward: null
 venue:
-  name: 秋田市内
-  address: null
+  name: 竿燈大通り（昼竿燈はエリアなかいち にぎわい広場）
+  address: 秋田市大町
   lat: null
   lng: null
-organizer: null
+organizer: 秋田市竿燈まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 秋田竿燈まつり 公式サイト 日程
+    url: https://www.kantou.gr.jp/eventa/item.cgi?pro2&1
 occurrences:
   - year: 2026
     dates:
       - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
       - 2026-08-06
-    start_time: null
-    end_time: null
+    start_time: 19:10
+    end_time: 20:50
     status: confirmed
-    source_url: https://akitashi.goguynet.jp/2026/08/02/kanto2026/
-    source_name: 号外NET 秋田市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.kantou.gr.jp/eventa/item.cgi?pro2&1
+    source_name: 秋田市竿燈まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月3日（月）〜6日（木）の4日間。夜本番は竿燈大通りで、3日・6日が19:10〜20:25、4日・5日が19:15〜20:35（交通規制は18:15から、終了は21:00）。昼竿燈（竿燈妙技大会）はエリアなかいち にぎわい広場で4日・5日が予選9:00〜15:40、6日が決勝9:20〜15:00（雨天時はCNAアリーナ★あきた）。データは端の2日しか持っていなかった
+station: JR秋田駅

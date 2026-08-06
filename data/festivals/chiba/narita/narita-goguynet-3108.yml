@@ -1,0 +1,29 @@
+id: narita-goguynet-3108
+name: 手持ち花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 成田市
+  ward: null
+venue:
+  name: 屋外「なりそらテラス」横
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://narita-tomisato.goguynet.jp/2026/07/07/temotihanabitaikai/
+    source_name: 号外NET 成田市・富里市・酒々井町
+    source_type: media
+    checked_at: 2026-08-04

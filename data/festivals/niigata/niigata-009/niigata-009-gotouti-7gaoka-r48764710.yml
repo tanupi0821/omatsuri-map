@@ -1,0 +1,29 @@
+id: niigata-009-gotouti-7gaoka-r48764710
+name: 第31回 中之島夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 新潟県
+  city: 長岡市
+  ward: null
+venue:
+  name: 長岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://7gaoka.jp/archives/48764710.html
+    source_name: ながおか通信
+    source_type: media
+    checked_at: 2026-08-06

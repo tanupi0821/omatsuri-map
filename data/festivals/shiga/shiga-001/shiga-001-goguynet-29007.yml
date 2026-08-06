@@ -1,0 +1,29 @@
+id: shiga-001-goguynet-29007
+name: 夏の坂本ケーブル 山の上から花火大会と夜景鑑賞！2026
+kind: 花火
+scale: 町内会
+area:
+  pref: 滋賀県
+  city: 大津市
+  ward: null
+venue:
+  name: 大津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otsu.goguynet.jp/2026/06/30/sakamotocable_biwakofireworks/
+    source_name: 号外NET 大津市
+    source_type: media
+    checked_at: 2026-08-04

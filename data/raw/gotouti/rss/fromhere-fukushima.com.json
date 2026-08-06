@@ -1,0 +1,14 @@
+{
+ "host": "fromhere-fukushima.com",
+ "name": "fromhere FUKUSHIMA",
+ "areas": [
+  "福島県浜通り地方"
+ ],
+ "prefs": [
+  "福島県"
+ ],
+ "url": "https://fromhere-fukushima.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

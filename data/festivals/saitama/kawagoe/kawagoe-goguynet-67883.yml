@@ -1,0 +1,29 @@
+id: kawagoe-goguynet-67883
+name: ひがしまつやま花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 川越市
+  ward: null
+venue:
+  name: 川越市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-21
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakado-tsurugashima.goguynet.jp/2026/06/11/kawagoe-hanabi2026/
+    source_name: 号外NET 坂戸市・鶴ヶ島市
+    source_type: media
+    checked_at: 2026-08-04

@@ -7,24 +7,43 @@ area:
   city: 羽生市
   ward: null
 venue:
-  name: 羽生市内
-  address: null
+  name: 大天白神社（大天白公園）
+  address: 羽生市中央3-8
   lat: null
   lng: null
-organizer: null
+organizer: 一般社団法人 羽生市観光協会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 羽生市観光協会 大天白羽生藤まつり
+    url: https://hanyu-kanko.jp/event_calendar/event/fujimatsuri/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-04-19
+      - 2026-04-20
+      - 2026-04-21
+      - 2026-04-22
+      - 2026-04-23
+      - 2026-04-24
+      - 2026-04-25
+      - 2026-04-26
+      - 2026-04-27
+      - 2026-04-28
+      - 2026-04-29
+      - 2026-04-30
+      - 2026-05-01
+      - 2026-05-02
+      - 2026-05-03
+      - 2026-05-04
       - 2026-05-05
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://kazo-hanyu.goguynet.jp/2026/04/15/daitenpaku-fujimatsuri-69th/
-    source_name: 号外NET 加須市・羽生市・行田市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://hanyu-kanko.jp/event_calendar/event/fujimatsuri/index.html
+    source_name: 羽生市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 2026年は第69回。4月19日（日）〜5月5日（火・祝）の期間。公園中央の池の周りに紫と白の藤が約60本。飲食出店は4月19日・25日・26日で、25日は奉納剣道とキャラクター撮影会、26日は奉納芸能と子ども縁日。羽生市の公式ページは令和7年のままだったため観光協会のページを出典にした
+shrine: 大天白神社

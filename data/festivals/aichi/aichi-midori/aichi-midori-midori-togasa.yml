@@ -9,8 +9,8 @@ area:
 venue:
   name: 戸笠小学校
   address: 名古屋市緑区相川三丁目60
-  lat: null
-  lng: null
+  lat: 35.101841
+  lng: 136.975967
 organizer: 戸笠学区
 stalls: unknown
 tags: []

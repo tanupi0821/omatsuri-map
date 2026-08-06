@@ -1,0 +1,25 @@
+{
+ "host": "kofu.keizai.biz",
+ "name": "甲府経済新聞",
+ "areas": [
+  "山梨県甲府市"
+ ],
+ "prefs": [
+  "山梨県"
+ ],
+ "url": "https://kofu.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": [
+  {
+   "id": "564",
+   "title": "「フモット南アルプス」で夏祭り ダンスと音楽競演",
+   "url": "http://kofu.keizai.biz/headline/564/",
+   "date": "2026-07-15",
+   "body": "「fumotto（フモット）南アルプス」（南アルプス市十日市場）で7月25日・26日の2日間、「GOOD VIBES ONLY 夏祭り2026」が開催される。 #甲府経済新聞"
+  }
+ ]
+}

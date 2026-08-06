@@ -1,0 +1,30 @@
+id: aichi-705-gotouti-komaki2-r20260724
+name: 桃花台まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 桃花台中央公園芝生広場（愛知県小牧市城山2丁目10-1）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://komaki2.jp/event/tokadaimatsuri-20260724.html
+    source_name: 小牧つーしん
+    source_type: media
+    checked_at: 2026-08-06

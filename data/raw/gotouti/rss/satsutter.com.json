@@ -1,0 +1,14 @@
+{
+ "host": "satsutter.com",
+ "name": "サツッター",
+ "areas": [
+  "北海道札幌市"
+ ],
+ "prefs": [
+  "北海道"
+ ],
+ "url": "http://satsutter.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

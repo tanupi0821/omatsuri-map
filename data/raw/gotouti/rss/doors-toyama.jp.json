@@ -1,0 +1,14 @@
+{
+ "host": "doors-toyama.jp",
+ "name": "doors TOYAMA",
+ "areas": [
+  "富山県"
+ ],
+ "prefs": [
+  "富山県"
+ ],
+ "url": "https://doors-toyama.jp/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

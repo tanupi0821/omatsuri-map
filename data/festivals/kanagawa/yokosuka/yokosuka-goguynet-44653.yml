@@ -1,0 +1,29 @@
+id: yokosuka-goguynet-44653
+name: 久里浜ペリー祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横須賀市
+  ward: null
+venue:
+  name: 横須賀市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokosuka.goguynet.jp/2026/07/06/perry-keikyu/
+    source_name: 号外NET 横須賀市・三浦市
+    source_type: media
+    checked_at: 2026-08-04

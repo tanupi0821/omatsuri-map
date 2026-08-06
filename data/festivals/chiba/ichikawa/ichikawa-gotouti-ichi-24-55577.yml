@@ -12,12 +12,10 @@ venue:
   lat: null
   lng: null
 organizer: 北方1丁目自治会
-stalls: yes
+stalls: unknown
 tags: []
 description: null
-links:
-  - title: 号外NET 市川市
-    url: https://ichikawa.goguynet.jp/2026/07/28/kitaichisummerfestival/
+links: []
 occurrences:
   - year: 2026
     dates:

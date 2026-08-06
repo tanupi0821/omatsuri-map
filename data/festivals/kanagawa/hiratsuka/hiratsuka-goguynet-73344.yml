@@ -1,0 +1,31 @@
+id: hiratsuka-goguynet-73344
+name: 第74回湘南ひらつか花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 平塚市
+  ward: null
+venue:
+  name: 平塚市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-30
+      - 2026-07-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiratsuka.goguynet.jp/2026/07/14/hiratsuka-hanabi2026828/
+    source_name: 号外NET 平塚市・大磯町
+    source_type: media
+    checked_at: 2026-08-04

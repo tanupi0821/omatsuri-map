@@ -1,0 +1,20 @@
+{
+ "host": "honjo.keizai.biz",
+ "name": "本庄経済新聞",
+ "areas": [
+  "埼玉県本庄市",
+  "埼玉県児玉郡上里町",
+  "埼玉県児玉郡美里町",
+  "埼玉県児玉郡神川町"
+ ],
+ "prefs": [
+  "埼玉県"
+ ],
+ "url": "https://honjo.keizai.biz/",
+ "via": "rss",
+ "feed": "/rss.xml",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

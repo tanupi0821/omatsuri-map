@@ -1,5 +1,5 @@
 id: aichi-004-summer-ar0623e73964
-name: 第57回 豊田おいでんまつり
+name: 豊田おいでんまつり
 kind: 夏祭り
 scale: 市
 area:
@@ -7,18 +7,38 @@ area:
   city: 豊田市
   ward: null
 venue:
-  name: 名鉄豊田市駅 東側一帯、ほか
-  address: 豊田市喜多町、ほか
+  name: 名鉄豊田市駅東側一帯・白浜公園ほか市内14会場
+  address: 豊田市西町3-60
   lat: 35.08691
   lng: 137.156876
-organizer: 豊田おいでんまつり実行委員会事務局
+organizer: 豊田おいでんまつり実行委員会（豊田市役所産業振興課内）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.oidenmaturi.com
+  - title: 豊田市 報道発表「第58回豊田おいでんまつり」開催概要の決定
+    url: https://www.city.toyota.aichi.jp/pressrelease/1073556/1074123.html
+  - title: 豊田おいでんまつり 公式サイト
+    url: https://www.oidenmaturi.com/
 occurrences:
+  - year: 2026
+    source_url: https://www.city.toyota.aichi.jp/pressrelease/1073556/1074123.html
+    source_name: 豊田市
+    source_type: gov
+    checked_at: 2026-08-06
+    dates:
+      - 2026-06-06
+      - 2026-06-13
+      - 2026-06-20
+      - 2026-06-27
+      - 2026-07-04
+      - 2026-07-05
+      - 2026-07-25
+      - 2026-07-26
+    status: confirmed
+    note: 2026年は第58回。マイタウンおいでんが6月6日〜7月5日（鞍ケ池公園芝生広場ほか市内14会場を土日に巡る）、おいでん総踊りが7月25日（18:00〜21:00・名鉄豊田市駅東側一帯）、花火大会が7月26日（19:00〜20:40・白浜公園一帯）。データは2025年の第57回のまま止まっていた
   - year: 2025
     dates:
       - 2025-05-31
@@ -39,4 +59,4 @@ photos:
     license: CC BY 2.0
     license_url: https://creativecommons.org/licenses/by/2.0
     source: https://commons.wikimedia.org/wiki/File:PIZZA-LA_(3764263264).jpg
-station: 名鉄豊田市駅または愛知環状鉄道新豊田駅下車すぐ
+station: 名鉄三河線・愛知環状鉄道 豊田市駅

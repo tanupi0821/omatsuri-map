@@ -1,0 +1,17 @@
+{
+ "host": "blog.bluehana.com",
+ "name": "にいがたガイダンス",
+ "areas": [
+  "新潟県新潟市"
+ ],
+ "prefs": [
+  "新潟県"
+ ],
+ "url": "http://blog.bluehana.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

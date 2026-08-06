@@ -1,0 +1,17 @@
+{
+ "host": "nerima2shin.com",
+ "name": "ねりまく通信",
+ "areas": [
+  "東京都練馬区"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "https://nerima2shin.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

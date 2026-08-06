@@ -8,7 +8,7 @@ area:
   ward: 多摩区
 venue:
   name: 杉山神社 境内
-  address: 川崎市高津区末長2-28-1
+  address: null
   lat: null
   lng: null
 organizer: null
@@ -28,4 +28,5 @@ occurrences:
     source_name: 号外NET 川崎市多摩区
     checked_at: 2026-08-02
     source_type: media
+    note: 住所欄に高津区末長の杉山神社（末長杉山神社）の所在地が入っていたが、出典の記事は多摩区の祭りとしている。川崎市には杉山神社が複数あり取り違えたとみられるので住所を外した
 stalls: unknown

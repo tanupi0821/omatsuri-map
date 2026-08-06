@@ -1,0 +1,29 @@
+id: kagawa-005-goguynet-111165
+name: 志度花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 香川県
+  city: さぬき市
+  ward: null
+venue:
+  name: さぬき市役所裏
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takamatsu.goguynet.jp/2026/06/13/shidohanabi-kagawa-2/
+    source_name: 号外NET 高松市
+    source_type: media
+    checked_at: 2026-08-04

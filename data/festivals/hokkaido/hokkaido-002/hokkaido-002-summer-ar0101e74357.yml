@@ -7,11 +7,11 @@ area:
   city: 小樽市
   ward: null
 venue:
-  name: 小樽港第3号ふ頭基部及び市内中心部
+  name: 小樽港第3号ふ頭基部および市内中心部
   address: 小樽市港町
   lat: 43.199937
   lng: 141.003267
-organizer: null
+organizer: おたる潮まつり実行委員会
 stalls: yes
 tags: []
 description: null
@@ -32,19 +32,24 @@ links:
     url: https://www.otaru-journal.com/2026/07/post-125295/
   - title: 小樽ジャーナル
     url: https://www.otaru-journal.com/2026/07/post-125725/
+  - title: おたる潮まつり公式サイト 開催情報（2026年）
+    url: https://otaru.ushiomatsuri.net/2026
+  - title: おたるぽーたる（小樽観光協会）第60回おたる潮まつり
+    url: https://otaru.gr.jp/event/ushiomaturi2026
 occurrences:
   - year: 2026
     dates:
       - 2026-07-24
+      - 2026-07-25
       - 2026-07-26
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0101e74357/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://otaru.ushiomatsuri.net/2026
+    source_name: おたる潮まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月24日（金）〜26日（日）の3日間。第60回の記念大会でテーマは「60年目の潮 さあ、港を熱くしろ！」。大花火大会は最終日26日の20:00〜20:30
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png/1280px-Otaru_Ushio_Matsuri_Ushio_Nerikomi_Main_Venue.png
     width: 1000
@@ -60,4 +65,4 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Otaru_Ushio_Matsuri_Main_Venue.png
-station: JR小樽駅から徒歩10分
+station: JR函館本線 小樽駅

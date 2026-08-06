@@ -1,0 +1,17 @@
+{
+ "host": "okazaki.local-now.jp",
+ "name": "岡崎ナウ",
+ "areas": [
+  "愛知県岡崎市"
+ ],
+ "prefs": [
+  "愛知県"
+ ],
+ "url": "https://okazaki.local-now.jp/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

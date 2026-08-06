@@ -7,24 +7,27 @@ area:
   city: 盛岡市
   ward: null
 venue:
-  name: 盛岡城跡公園内
-  address: null
+  name: 盛岡城跡公園（岩手公園）・高松公園
+  address: 盛岡市内丸1-37
   lat: 39.7003
   lng: 141.148499
-organizer: null
+organizer: 盛岡市観光課
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 盛岡さくらまつり 公式サイト
+    url: https://moriokasakurafestival.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-04-10
       - 2026-04-26
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://morioka.goguynet.jp/2026/04/06/moriokasakuramatsuri-2026/
-    source_name: 号外NET 盛岡市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://moriokasakurafestival.com/
+    source_name: 盛岡市観光課
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 4月10日から26日までの期間。18:00〜21:00はぼんぼりの点灯とライトアップ（ライトアップは盛岡城跡公園のみ）。露店の出店もある

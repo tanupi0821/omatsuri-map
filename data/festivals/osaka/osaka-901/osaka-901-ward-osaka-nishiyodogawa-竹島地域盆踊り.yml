@@ -9,8 +9,8 @@ area:
 venue:
   name: 竹島西公園
   address: 大阪市西淀川区竹島5-5
-  lat: null
-  lng: null
+  lat: 34.7270400000005
+  lng: 135.448930000001
 organizer: 竹島地域
 stalls: unknown
 tags: []

@@ -1,0 +1,29 @@
+id: kamakura-goguynet-36989
+name: 鎌倉花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 鎌倉市
+  ward: null
+venue:
+  name: 鎌倉海岸（由比ヶ浜海岸
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamakura-zushi.goguynet.jp/2026/07/09/kamakurahanabitaikai/
+    source_name: 号外NET 鎌倉市・逗子市
+    source_type: media
+    checked_at: 2026-08-04

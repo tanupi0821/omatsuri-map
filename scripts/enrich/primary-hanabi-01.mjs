@@ -88,7 +88,7 @@ patchAll([
   // まとめサイトの住所は「取手市取手」だったので、市の発表で置き換える
   ['toride-hanabi-ar0308e00914', {
     organizer: '取手市観光協会',
-    venue: { name: '取手緑地運動公園', address: '茨城県取手市寺田5139' },
+    venue: { name: '取手緑地運動公園', address: '取手市寺田5139' },
     links: [
       L('取手市「第71回とりで利根川大花火」開催日決定', 'https://www.city.toride.ibaraki.jp/sanshin/bunkakatsudo/kanko/oshirase/71kaihanabi.html'),
       WP('ar0308e00914'),
@@ -104,7 +104,7 @@ patchAll([
   // 古河市観光協会の花火特設ページ。会場の郵便番号つき住所と最寄駅が取れた
   ['ibaraki-006-hanabi-ar0308e01029', {
     station: 'JR宇都宮線 古河駅／東武日光線 新古河駅',
-    venue: { name: '古河ゴルフリンクス（渡良瀬川河川敷）', address: '茨城県古河市西町10-1' },
+    venue: { name: '古河ゴルフリンクス（渡良瀬川河川敷）', address: '古河市西町10-1' },
     links: [
       L('こがナビ（古河市観光協会） 古河花火大会', 'https://www.kogakanko.jp/hanabi'),
       WP('ar0308e01029'),
@@ -132,7 +132,7 @@ patchAll([
   // 第39回を掲げている公式ドメイン（sakai-hanabi.com）の方を採った。
   // 終了時刻は「約120分」としか書かれていないので入れていない
   ['ibaraki-003-hanabi-ar0308e01044', {
-    venue: { name: 'さかいリバーサイドパーク（利根川河川敷）', address: '茨城県猿島郡境町 利根川河川敷' },
+    venue: { name: 'さかいリバーサイドパーク（利根川河川敷）', address: '猿島郡境町 利根川河川敷' },
     links: [
       L('第39回 利根川大花火大会 公式サイト', 'https://www.sakai-hanabi.com/'),
       WP('ar0308e01044'),
@@ -161,7 +161,7 @@ patchAll([
   }],
   // 上と同じ祭り（重複データ）。片方だけ直すと一覧で格の違うものが並ぶので両方に入れる
   ['tokai-tokai-matsuri-hanabi', {
-    venue: { name: '阿漕ヶ浦公園', address: '茨城県那珂郡東海村大字村松' },
+    venue: { name: '阿漕ヶ浦公園', address: '那珂郡東海村大字村松' },
     links: [
       L('東海村「第48回東海まつり花火大会開催のお知らせ」', 'https://www.vill.tokai.ibaraki.jp/soshikikarasagasu/sangyobu/sangyoseisakuka/4/3/9733.html'),
     ],
@@ -175,7 +175,7 @@ patchAll([
 
   // 鹿嶋市の令和8年度の告知。住所が「鹿嶋市−」のままだったので大船津に直す
   ['kashima-hanabi-ar0308e01114', {
-    venue: { name: '大船津地内北浦湖上', address: '茨城県鹿嶋市大船津' },
+    venue: { name: '大船津地内北浦湖上', address: '鹿嶋市大船津' },
     links: [
       L('鹿嶋市「鹿嶋市花火大会（令和8年度開催について）」', 'https://www.city.kashima.ibaraki.jp/site/kankou/9118.html'),
       WP('ar0308e01114'),
@@ -211,7 +211,7 @@ patchAll([
     organizer: '一般社団法人神栖市観光協会・神栖市商工会',
     shrine: '息栖神社',
     station: 'JR総武線 小見川駅（タクシー10分）／JR鹿島線 鹿島神宮駅・潮来駅（タクシー20分）',
-    venue: { name: '息栖神社周辺 常陸利根川河畔', address: '茨城県神栖市息栖' },
+    venue: { name: '息栖神社周辺 常陸利根川河畔', address: '神栖市息栖' },
     links: [
       L('神栖市観光協会 第50回神栖花火大会', 'https://www.kamisu-kanko.jp/event-page/natsumatsuri.html'),
       WP('ar0308e358258'),
@@ -229,7 +229,7 @@ patchAll([
   // 町の発表では第1会場（栄橋下）と第2会場（利根緑地運動公園）に分かれている**
   ['ibaraki-002-hanabi-ar0308e00587', {
     organizer: '利根町',
-    venue: { name: '利根川栄橋下河川敷（第1会場）／利根緑地運動公園（第2会場）', address: '茨城県北相馬郡利根町布川' },
+    venue: { name: '利根川栄橋下河川敷（第1会場）／利根緑地運動公園（第2会場）', address: '北相馬郡利根町布川' },
     links: [
       L('利根町「第49回利根町民納涼花火大会を開催します！」', 'https://www.town.tone.ibaraki.jp/kanko-bunka/ibenntogyouzi/hanabi/page006051.html'),
       WP('ar0308e00587'),
@@ -245,7 +245,7 @@ patchAll([
 
   // 稲敷市の告知ページ。会場の番地（荒沼3-1）が取れた
   ['inashiki-hanabi-ar0308e00879', {
-    venue: { name: '江戸崎総合運動公園', address: '茨城県稲敷市荒沼3-1' },
+    venue: { name: '江戸崎総合運動公園', address: '稲敷市荒沼3-1' },
     links: [
       L('稲敷市「2026いなしき夏まつり花火大会」', 'https://www.city.inashiki.lg.jp/page/page008477.html'),
       WP('ar0308e00879'),
@@ -259,7 +259,7 @@ patchAll([
   }],
   // 上と同じ祭り（重複データ）
   ['inashiki-inashiki-natsumatsuri-hanabi', {
-    venue: { name: '江戸崎総合運動公園', address: '茨城県稲敷市荒沼3-1' },
+    venue: { name: '江戸崎総合運動公園', address: '稲敷市荒沼3-1' },
     links: [
       L('稲敷市「2026いなしき夏まつり花火大会」', 'https://www.city.inashiki.lg.jp/page/page008477.html'),
     ],
@@ -274,7 +274,7 @@ patchAll([
   // 花火の日にしていた。公式サイトの記載どおり花火の日を8/22に絞る
   ['hitachinaka-hitachinaka-matsuri-hanabi', {
     organizer: '第32回ひたちなか祭り実行委員会',
-    venue: { name: '陸上自衛隊勝田駐屯地', address: '茨城県ひたちなか市勝倉3433' },
+    venue: { name: '陸上自衛隊勝田駐屯地', address: 'ひたちなか市勝倉3433' },
     links: [
       L('第32回ひたちなか祭り 公式サイト', 'https://www.hitachinaka-fes.com/'),
       L('ひたちなか市 2026年 夏のイベント情報', 'https://www.city.hitachinaka.lg.jp/business/kankoshinko/1002695/1015568.html'),

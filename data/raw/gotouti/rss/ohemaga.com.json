@@ -1,0 +1,15 @@
+{
+ "host": "ohemaga.com",
+ "name": "おへマガ",
+ "areas": [
+  "岐阜県恵那市",
+  "岐阜県中津川市"
+ ],
+ "prefs": [
+  "岐阜県"
+ ],
+ "url": "http://ohemaga.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

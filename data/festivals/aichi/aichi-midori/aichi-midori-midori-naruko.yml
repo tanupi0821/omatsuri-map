@@ -9,8 +9,8 @@ area:
 venue:
   name: 鳴子中央公園
   address: 名古屋市緑区鳴子町２丁目
-  lat: null
-  lng: null
+  lat: 35.09836
+  lng: 136.96686
 organizer: 鳴子学区
 stalls: unknown
 tags: []

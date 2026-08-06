@@ -1,0 +1,29 @@
+id: shizuoka-010-goguynet-35132
+name: ふくろい遠州の花火大会 2026
+kind: 花火
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 袋井市
+  ward: null
+venue:
+  name: 袋井市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://iwata-fukuroi-kakegawa.goguynet.jp/2026/07/21/fukuroihanabi/
+    source_name: 号外NET 磐田市・袋井市・掛川市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: kawagoe-gotouti-saitama-city-marathon-180464
+name: エンジョイ夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 埼玉県
+  city: 川越市
+  ward: null
+venue:
+  name: ウニクス南古谷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://saitama-city-marathon.jp/2026/08/02/kawagoesi-964/
+    source_name: 埼玉マガジン
+    source_type: media
+    checked_at: 2026-08-06

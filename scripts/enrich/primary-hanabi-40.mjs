@@ -32,7 +32,7 @@ patchAll([
   ['soka-goguynet-58255', {
     organizer: '草加市民納涼大花火大会実行委員会',
     station: 'JR武蔵野線 レイクタウン駅（徒歩25分）／東武スカイツリーライン 獨協大学前駅・新田駅（東武バス）',
-    venue: { name: 'そうか公園', address: '埼玉県草加市柿木町272-1' },
+    venue: { name: 'そうか公園', address: '草加市柿木町272-1' },
     links: [L('草加市民納涼大花火大会2026 公式サイト', 'https://soka-hanabi.com/')],
     occurrence: {
       ...src(2026, 'https://soka-hanabi.com/', '草加市民納涼大花火大会実行委員会', 'official'),
@@ -51,7 +51,7 @@ patchAll([
   // 河口湖冬花火。**1月24日から2月22日までの土日と2月23日で計11回**
   ['yamanashi-001-hanabi-ar0419e528485', {
     organizer: '富士河口湖町観光連盟',
-    venue: { name: '大池公園（メイン会場）・畳岩・八木崎公園', address: '山梨県南都留郡富士河口湖町船津' },
+    venue: { name: '大池公園（メイン会場）・畳岩・八木崎公園', address: '南都留郡富士河口湖町船津' },
     links: [L('富士河口湖町観光情報サイト 湖上花火', 'https://fujisan.ne.jp/feature/804/')],
     occurrence: {
       ...src(2026, 'https://fujisan.ne.jp/feature/804/', '富士河口湖町観光連盟', 'official'),
@@ -75,7 +75,7 @@ patchAll([
   ['niigata-008-summer-ar0415e195014', {
     organizer: '新津祭り実行委員会',
     station: 'JR信越本線 新津駅（徒歩5分）',
-    venue: { name: '新津本町 目抜き通り', address: '新潟県新潟市秋葉区新津本町' },
+    venue: { name: '新津本町 目抜き通り', address: '新潟市秋葉区新津本町' },
     links: [L('新潟市観光ガイド にいつ夏まつり', 'https://www.nvcb.or.jp/event/detail_1361.html')],
     occurrence: {
       ...src(2026, 'https://www.nvcb.or.jp/event/detail_1361.html', '新潟観光コンベンション協会', 'official'),
@@ -92,7 +92,7 @@ patchAll([
   // 天神夏まつり。**7月17日から8月23日まで38日間、休みなしで毎日**
   ['fukuoka-004-summer-ar1040e314981', {
     organizer: '天神夏まつり2026実行委員会',
-    venue: { name: '福岡市役所西側ふれあい広場', address: '福岡県福岡市中央区天神1丁目8-1' },
+    venue: { name: '福岡市役所西側ふれあい広場', address: '福岡市中央区天神1丁目8-1' },
     stalls: 'yes',
     links: [L('よかなび（福岡市観光情報サイト）夏はホークス！天神夏まつり2026', 'https://yokanavi.com/events/274343')],
     occurrence: {
@@ -105,7 +105,7 @@ patchAll([
   }],
   ['fukuoka-004-goguynet-46190', {
     organizer: '天神夏まつり2026実行委員会',
-    venue: { name: '福岡市役所西側ふれあい広場', address: '福岡県福岡市中央区天神1丁目8-1' },
+    venue: { name: '福岡市役所西側ふれあい広場', address: '福岡市中央区天神1丁目8-1' },
     stalls: 'yes',
     links: [L('よかなび（福岡市観光情報サイト）夏はホークス！天神夏まつり2026', 'https://yokanavi.com/events/274343')],
     occurrence: {
@@ -137,7 +137,7 @@ patchAll([
   // 一宮の「サマーフェスタ」は**138タワーパーク（国営木曽三川公園）の
   // 7月18日〜8月31日の期間もの**。日付が2件なのは期間の始まりと終わり
   ['aichi-003-goguynet-125653', {
-    venue: { name: '国営木曽三川公園 138タワーパーク', address: '愛知県一宮市光明寺字浦崎21-3' },
+    venue: { name: '国営木曽三川公園 138タワーパーク', address: '一宮市光明寺字浦崎21-3' },
     links: [L('一宮市 138タワーパーク サマーフェスタ', 'https://www.city.ichinomiya.aichi.jp/machidukuri/kouenryokuchi/1044181/1044182/1024089.html')],
     occurrence: {
       ...src(2026, 'https://www.city.ichinomiya.aichi.jp/machidukuri/kouenryokuchi/1044181/1044182/1024089.html', '一宮市', 'gov'),
@@ -157,7 +157,7 @@ patchAll([
     'kanagawa-001-goguynet-44641',
     'yokosuka-goguynet-44641',
   ].map((id) => [id, {
-    venue: { name: '不断寺・福泉寺・東漸寺・浄楽寺・圓福寺・満昌寺（三浦半島の6か寺）', address: '神奈川県横須賀市・三浦市' },
+    venue: { name: '不断寺・福泉寺・東漸寺・浄楽寺・圓福寺・満昌寺（三浦半島の6か寺）', address: '横須賀市・三浦市' },
     links: [L('横須賀市観光情報 盆竹灯籠まつり in 三浦半島 2026', 'https://www.cocoyoko.net/event/taketourou-fes.html')],
     occurrence: {
       ...src(2026, 'https://www.cocoyoko.net/event/taketourou-fes.html', '横須賀市', 'gov'),

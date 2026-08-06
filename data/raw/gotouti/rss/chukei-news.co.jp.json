@@ -1,0 +1,23 @@
+{
+ "host": "chukei-news.co.jp",
+ "name": "中部経済新聞",
+ "areas": [
+  "愛知県",
+  "岐阜県",
+  "三重県",
+  "静岡県"
+ ],
+ "prefs": [
+  "愛知県",
+  "岐阜県",
+  "三重県",
+  "静岡県"
+ ],
+ "url": "https://www.chukei-news.co.jp/",
+ "via": "rss",
+ "feed": "/feed/",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

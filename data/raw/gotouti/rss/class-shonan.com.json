@@ -1,0 +1,17 @@
+{
+ "host": "class-shonan.com",
+ "name": "くらす湘南",
+ "areas": [
+  "神奈川県湘南地域（神奈川県藤沢市",
+  "神奈川県鎌倉市",
+  "神奈川県茅ヶ崎市",
+  "神奈川県平塚市）"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "http://class-shonan.com/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

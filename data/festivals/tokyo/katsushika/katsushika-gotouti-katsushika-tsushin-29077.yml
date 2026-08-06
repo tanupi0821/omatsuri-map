@@ -11,13 +11,11 @@ venue:
   address: 葛飾区東金町4-28-22
   lat: null
   lng: null
-organizer: 東金町半田自治会
+organizer: null
 stalls: yes
 tags: []
 description: null
-links:
-  - title: 葛飾区 夏まつり・盆踊り・イベント情報
-    url: https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/028/707/080731.pdf
+links: []
 occurrences:
   - year: 2026
     dates:
@@ -29,4 +27,3 @@ occurrences:
     source_name: 葛飾つうしん
     source_type: media
     checked_at: 2026-08-06
-shrine: 半田稲荷神社

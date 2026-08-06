@@ -1,0 +1,30 @@
+id: minato-gotouti-akasaka-keizai-biz-r4730
+name: 第51回浄土寺盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: 港区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://akasaka.keizai.biz/headline/4730/
+    source_name: 赤坂経済新聞
+    source_type: media
+    checked_at: 2026-08-06

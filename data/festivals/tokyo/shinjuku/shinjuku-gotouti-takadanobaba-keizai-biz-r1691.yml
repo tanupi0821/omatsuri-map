@@ -1,0 +1,29 @@
+id: shinjuku-gotouti-takadanobaba-keizai-biz-r1691
+name: といちまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 新宿区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://takadanobaba.keizai.biz/headline/1691/
+    source_name: 高田馬場経済新聞
+    source_type: media
+    checked_at: 2026-08-06

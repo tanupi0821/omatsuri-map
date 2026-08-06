@@ -1,0 +1,14 @@
+{
+ "host": "takasago.keizai.biz",
+ "name": "高砂経済新聞",
+ "areas": [
+  "兵庫県高砂市"
+ ],
+ "prefs": [
+  "兵庫県"
+ ],
+ "url": "https://takasago.keizai.biz/",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

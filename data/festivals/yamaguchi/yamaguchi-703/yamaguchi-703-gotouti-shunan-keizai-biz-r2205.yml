@@ -1,0 +1,29 @@
+id: yamaguchi-703-gotouti-shunan-keizai-biz-r2205
+name: くだまつ土曜夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 山口県
+  city: 下松市
+  ward: null
+venue:
+  name: 下松市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://shunan.keizai.biz/headline/2205/
+    source_name: 周南経済新聞
+    source_type: media
+    checked_at: 2026-08-06

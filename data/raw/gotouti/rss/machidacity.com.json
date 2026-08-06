@@ -1,0 +1,17 @@
+{
+ "host": "machidacity.com",
+ "name": "まちだ通信",
+ "areas": [
+  "東京都町田市"
+ ],
+ "prefs": [
+  "東京都"
+ ],
+ "url": "http://machidacity.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

@@ -1,0 +1,29 @@
+id: hokkaido-024-gotouti-ebetsunopporo-56221
+name: 納涼コミセン夏まつり
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 江別市
+  ward: null
+venue:
+  name: 江別市コミュニティセンター・江別市中央公民館
+  address: 江別市3条5丁目11-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://ebetsunopporo.com/?p=56221
+    source_name: えべナビ！
+    source_type: media
+    checked_at: 2026-08-06

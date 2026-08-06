@@ -7,11 +7,11 @@ area:
   city: 青森市
   ward: null
 venue:
-  name: 青森市中心市街地運行コース
+  name: 青森市中心部（青森駅周辺の運行コース）
   address: 青森市
   lat: 40.822392
   lng: 140.747339
-organizer: 青森観光コンベンション協会
+organizer: 青森ねぶた祭実行委員会
 stalls: yes
 tags: []
 description: null
@@ -22,13 +22,17 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
       - 2026-08-07
     start_time: null
     end_time: null
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0202e4763/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://www.nebuta.jp/
+    source_name: 青森ねぶた祭実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月2日から7日までの6日間。2日・3日は夜に子どもねぶたと大型ねぶたが運行、4日〜6日は夜に大型ねぶたが運行、7日は昼に大型ねぶたが運行し、夜は青森港で花火大会と海上運行。8月1日には前夜祭がある
 station: JR青森駅から徒歩15分

@@ -1,0 +1,29 @@
+id: arakawa-goguynet-82249
+name: 第49回隅田川花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 第一会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/04/11/hanabitaikaikaisaibi/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-08-04

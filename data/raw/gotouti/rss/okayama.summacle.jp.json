@@ -1,0 +1,14 @@
+{
+ "host": "okayama.summacle.jp",
+ "name": "さまくるおかやま",
+ "areas": [
+  "岡山県"
+ ],
+ "prefs": [
+  "岡山県"
+ ],
+ "url": "http://okayama.summacle.jp/",
+ "via": "rss",
+ "skipped": "robots で feed が Disallow",
+ "items": []
+}

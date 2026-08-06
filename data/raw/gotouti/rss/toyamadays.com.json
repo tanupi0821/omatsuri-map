@@ -1,0 +1,17 @@
+{
+ "host": "toyamadays.com",
+ "name": "富山デイズ",
+ "areas": [
+  "富山県富山市"
+ ],
+ "prefs": [
+  "富山県"
+ ],
+ "url": "http://toyamadays.com/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

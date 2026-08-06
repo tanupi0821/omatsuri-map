@@ -1,0 +1,17 @@
+{
+ "host": "yamatopi.jp",
+ "name": "大和とぴっく",
+ "areas": [
+  "神奈川県大和市"
+ ],
+ "prefs": [
+  "神奈川県"
+ ],
+ "url": "https://www.yamatopi.jp/",
+ "via": "rss",
+ "feed": "/index.rdf",
+ "terms": [
+  "(RSS 新着)"
+ ],
+ "items": []
+}

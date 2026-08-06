@@ -1,0 +1,14 @@
+{
+ "host": "freenavi.co.jp",
+ "name": "フリーナビとやま",
+ "areas": [
+  "富山県"
+ ],
+ "prefs": [
+  "富山県"
+ ],
+ "url": "https://www.freenavi.co.jp",
+ "via": "rss",
+ "skipped": "RSS が見つからない",
+ "items": []
+}

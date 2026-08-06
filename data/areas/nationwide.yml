@@ -93,6 +93,10 @@ cities:
     slug: nagoya-higashi
   - name: 江南市
     slug: aichi-704
+  - name: 小牧市
+    slug: aichi-705
+  - name: 弥富市
+    slug: aichi-706
 ---
 pref: 北海道
 cities:
@@ -731,6 +735,8 @@ cities:
     slug: iwate-001
   - name: 遠野市・北上市
     slug: iwate-001
+  - name: 八幡平市
+    slug: iwate-701
 ---
 pref: 香川県
 cities:
@@ -754,6 +760,8 @@ cities:
     slug: kagawa-009
   - name: 東かがわ市
     slug: kagawa-701
+  - name: 土庄町
+    slug: kagawa-702
 ---
 pref: 鹿児島県
 cities:
@@ -795,6 +803,8 @@ cities:
     slug: kagoshima-001
   - name: 伊佐市
     slug: kagoshima-701
+  - name: 日置市
+    slug: kagoshima-702
 ---
 pref: 高知県
 cities:
@@ -986,6 +996,8 @@ cities:
     slug: miyagi-002
   - name: 富谷市
     slug: miyagi-701
+  - name: 栗原市
+    slug: miyagi-702
 ---
 pref: 宮崎県
 cities:
@@ -1114,6 +1126,8 @@ cities:
     slug: nara-004
   - name: 大和高田市
     slug: nara-005
+  - name: 橿原市
+    slug: nara-001
 ---
 pref: 新潟県
 cities:
@@ -1258,6 +1272,8 @@ cities:
     slug: okinawa-001
   - name: 宮古島市
     slug: okinawa-701
+  - name: 石垣市
+    slug: okinawa-702
 ---
 pref: 大阪府
 cities:
@@ -1369,6 +1385,10 @@ cities:
     slug: osaka-704
   - name: 岸和田市
     slug: osaka-001
+  - name: 堺市北区
+    slug: osaka-705
+  - name: 交野市
+    slug: osaka-706
 ---
 pref: 佐賀県
 cities:
@@ -1515,6 +1535,8 @@ cities:
     slug: shizuoka-703
   - name: 西伊豆町
     slug: shizuoka-704
+  - name: 富士宮市
+    slug: shizuoka-001
 ---
 pref: 徳島県
 cities:
@@ -1601,6 +1623,10 @@ cities:
     slug: wakayama-011
   - name: 田辺市
     slug: wakayama-001
+  - name: かつらぎ町
+    slug: wakayama-701
+  - name: 九度山町
+    slug: wakayama-702
 ---
 pref: 山形県
 cities:
@@ -1657,6 +1683,12 @@ cities:
     slug: yamaguchi-013
   - name: 周南市・下松市・光市
     slug: yamaguchi-001
+  - name: 柳井市
+    slug: yamaguchi-701
+  - name: 上関町
+    slug: yamaguchi-702
+  - name: 下松市
+    slug: yamaguchi-703
 ---
 pref: 山梨県
 cities:

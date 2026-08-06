@@ -9,8 +9,8 @@ area:
 venue:
   name: 鷹合小学校
   address: 大阪市東住吉区鷹合3-12-38
-  lat: null
-  lng: null
+  lat: 34.6122560000003
+  lng: 135.5294
 organizer: 鷹合地域
 stalls: yes
 tags: []

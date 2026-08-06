@@ -42,7 +42,7 @@ patchAll([
     station: '阿佐海岸鉄道 宍喰駅（徒歩3分）',
     recurrence: '7月16日・17日',
     recurrence_source: 'https://www.kaiyo-kankou.jp/event/event-961/',
-    venue: { name: '宍喰八坂神社周辺', address: '徳島県海部郡海陽町久保' },
+    venue: { name: '宍喰八坂神社周辺', address: '海部郡海陽町久保' },
     links: [L('海陽町観光協会 宍喰祇園祭り', 'https://www.kaiyo-kankou.jp/event/event-961/')],
     occurrence: {
       ...src(2026, 'https://www.kaiyo-kankou.jp/event/event-961/', '海陽町観光協会', 'official'),
@@ -60,7 +60,7 @@ patchAll([
   ['wakayama-004-summer-ar0730e4757', {
     recurrence: '7月25日（宵祭）・26日（本祭）、2年に1回',
     recurrence_source: 'https://www.city.kinokawa.lg.jp/kankoshinko/2020-0520-1150-12.html',
-    venue: { name: '粉河とんまか通り周辺', address: '和歌山県紀の川市粉河地内' },
+    venue: { name: '粉河とんまか通り周辺', address: '紀の川市粉河地内' },
     links: [L('紀の川市 粉河祭', 'https://www.city.kinokawa.lg.jp/kankoshinko/2020-0520-1150-12.html')],
     occurrence: {
       ...src(2026, 'https://www.city.kinokawa.lg.jp/kankoshinko/2020-0520-1150-12.html', '紀の川市', 'gov'),
@@ -76,7 +76,7 @@ patchAll([
     shrine: '鹿島神社',
     recurrence: '8月1日',
     recurrence_source: 'https://www.minabe-kanko.jp/sightseeing/1187',
-    venue: { name: '南部湾', address: '和歌山県日高郡みなべ町埴田20' },
+    venue: { name: '南部湾', address: '日高郡みなべ町埴田20' },
     links: [L('みなべ観光協会 鹿島神社奉納花火祭', 'https://www.minabe-kanko.jp/sightseeing/1187')],
     occurrence: {
       ...src(2026, 'https://www.minabe-kanko.jp/sightseeing/1187', 'みなべ観光協会', 'official'),
@@ -93,7 +93,7 @@ patchAll([
   // 石和温泉鵜飼花火。**主催側は11日分を発表している**（うち8月12日・13日は特別打上げ）。
   // まとめサイト由来のデータは7月20日と8月16日の2日しか持っていなかった
   ['yamanashi-005-hanabi-ar0419e467624', {
-    venue: { name: '笛吹市役所前 笛吹川河川敷', address: '山梨県笛吹市石和町市部777' },
+    venue: { name: '笛吹市役所前 笛吹川河川敷', address: '笛吹市石和町市部777' },
     links: [L('笛吹市観光物産連盟 石和温泉鵜飼', 'https://www.fuefuki-kanko.jp/scontents/summerfes/1011/index.html')],
     occurrence: {
       ...src(2026, 'https://www.fuefuki-kanko.jp/scontents/summerfes/1011/index.html', '一般社団法人笛吹市観光物産連盟', 'official'),
@@ -117,7 +117,7 @@ patchAll([
   ['fujimino-summer-ar0311e69080', {
     organizer: 'おおい祭り実行委員会',
     station: '東武東上線 ふじみ野駅西口（徒歩10分）',
-    venue: { name: '東久保中央公園および周辺道路・大井東中学校', address: '埼玉県ふじみ野市' },
+    venue: { name: '東久保中央公園および周辺道路・大井東中学校', address: 'ふじみ野市' },
     links: [L('ふじみ野市 第26回おおい祭り', 'https://www.city.fujimino.saitama.jp/soshikiichiran/kyodosuishinka/chiikishinkogakari/ooimatsuri/16727.html')],
     occurrence: {
       ...src(2026, 'https://www.city.fujimino.saitama.jp/soshikiichiran/kyodosuishinka/chiikishinkogakari/ooimatsuri/16727.html', 'ふじみ野市', 'gov'),
@@ -135,7 +135,7 @@ patchAll([
   // 日暮里繊維街夏祭り。**昼の催し（10:00〜15:00）**で夜祭ではない
   ['arakawa-goguynet-82848', {
     organizer: '荒川区',
-    venue: { name: 'ふらっとにっぽり（荒川区立日暮里地域活性化施設）1階・2階', address: '東京都荒川区東日暮里' },
+    venue: { name: 'ふらっとにっぽり（荒川区立日暮里地域活性化施設）1階・2階', address: '荒川区東日暮里' },
     links: [L('荒川区 日暮里繊維街夏祭り in ふらっとにっぽり', 'https://www.city.arakawa.tokyo.jp/a020/sangyou/furattonippori/natsumatsuri2026.html')],
     occurrence: {
       ...src(2026, 'https://www.city.arakawa.tokyo.jp/a020/sangyou/furattonippori/natsumatsuri2026.html', '荒川区', 'gov'),

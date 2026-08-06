@@ -108,6 +108,26 @@ const norm = (s) => (s ?? '')
 /** 都道府県を落として「市区町村＋以下」にする（既存データの書き方に合わせる） */
 const dropPref = (a) => (a ?? '').replace(/^(東京都|北海道|(?:京都|大阪)府|.{2,3}県)/, '').trim();
 
+const KANJI_NUM = { 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9, 十: 10 };
+
+/**
+ * **住所どうしが同じ場所を指しているかを比べるためだけ**の正規化。
+ * これで作った文字列は保存しない（出典の書き方を壊さない）。
+ *
+ * 同じ小学校が「名東区牧の里二丁目1501」と「名東区牧の里2-1501」の двух 通りで
+ * 出典に載っていることがあり、素朴に比べると「同名で住所が違う＝別の場所」と
+ * 誤判定して、せっかくの緯度経度を捨ててしまう。
+ */
+const sameSpotKey = (a) => dropPref(a ?? '')
+  .replace(/[０-９]/g, (d) => '0123456789'['０１２３４５６７８９'.indexOf(d)])
+  .replace(/([一二三四五六七八九十])丁目/g, (_, k) => `${KANJI_NUM[k]}-`)
+  .replace(/丁目|丁|番地|番|号/g, '-')
+  .replace(/大字|字/g, '')
+  .replace(/[−－ー―‐]/g, '-')
+  .replace(/[\s　]/g, '')
+  .replace(/-+/g, '-')
+  .replace(/-$/, '');
+
 /**
  * 政令市は area.city に区まで入っていて area.ward は null（例「堺市南区」）。
  * 東京の特別区は area.city が「足立区」。どちらからも区名を取り出す。
@@ -281,6 +301,50 @@ for (const [file, nameCol, addrCol] of [
     const lng = Number(r[iLng]);
     add(ward, name, full, '北九州市オープンデータ',
       Number.isFinite(lat) && lat ? lat : null, Number.isFinite(lng) && lng ? lng : null);
+  }
+}
+
+// 国土地理院「指定緊急避難場所データ」（`scripts/crawl/hinanbasho.mjs`）。
+// **全国が同じ形**で出ていて、小中学校・公園・広場・公民館がほぼ網羅されている。
+// 所在地は都道府県から番地まで入っているので、そこから市区町村を切り出して鍵にする。
+{
+  /**
+   * 「大阪府大阪市此花区…」→ 此花区（政令市は区が鍵）
+   * 「大阪府茨木市…」→ 茨木市
+   * 「千葉県香取郡多古町…」→ 多古町（こちらのデータは郡を持たない）
+   * wardOf() が返す粒度に合わせること。ずれると 1 件も当たらない
+   */
+  const muniKey = (addr) => {
+    const a = addr.replace(/^(東京都|北海道|(?:京都|大阪)府|.{2,3}県)/, '');
+    return a.match(/^.+?市(.+?区)/)?.[1]
+      ?? a.match(/^.+?郡(.+?[町村])/)?.[1]
+      ?? a.match(/^(.+?[市区町村])/)?.[1]
+      ?? null;
+  };
+
+  for (const e of existsSync(OD) ? readdirSync(OD) : []) {
+    const m = e.match(/^hinanbasho-(\d{2})\.csv$/);
+    if (!m) continue;
+    const rows = csvOrNull(e.replace(/\.csv$/, ''));
+    if (!rows) continue;
+    const h = rows[0];
+    const iName = h.indexOf('施設名');
+    const iAddr = h.indexOf('所在地');
+    const iLat = h.indexOf('緯度');
+    const iLng = h.indexOf('経度');
+    if (iName < 0 || iAddr < 0) continue;
+
+    for (const r of rows.slice(1)) {
+      const name = r[iName];
+      const addr = r[iAddr];
+      if (!name || !addr) continue;
+      const key = muniKey(addr);
+      if (!key) continue;
+      const lat = Number(r[iLat]);
+      const lng = Number(r[iLng]);
+      add(key, name, addr, '国土地理院 指定緊急避難場所',
+        Number.isFinite(lat) && lat ? lat : null, Number.isFinite(lng) && lng ? lng : null);
+    }
   }
 }
 
@@ -466,7 +530,14 @@ const ambiguous = [];
 for (const f of loadFestivals()) {
   const occ = f.occurrences?.[0];
   if (!['official', 'gov'].includes(occ?.source_type)) continue; // 担当範囲の外
-  if (f.venue?.address) continue;
+
+  // 住所が入っていても**緯度経度が無ければ**引きにいく。
+  // 住所は文字列なので地図側の解釈に任せることになるが、緯度経度があれば地点が定まる。
+  // このとき**住所は上書きしない**（既に入っている出典の書き方を尊重する）
+  const wantAddress = !f.venue?.address;
+  const wantLatLng = !f.venue?.lat;
+  if (!wantAddress && !wantLatLng) continue;
+
   const ward = wardOf(f);
   const raw = f.venue?.name ?? '';
 
@@ -489,17 +560,25 @@ for (const f of loadFestivals()) {
     // 同じ会場が何度も出ることがある（1 つの公園を複数の町会が使う）。
     // **候補が指す住所が全部同じなら曖昧ではない**ので採る。
     // 違う住所を指しているときだけ「同名の別の場所」なので捨てる
-    const addrs = new Set(list.map((x) => x.address));
+    // 表記の違いは同じ場所とみなす（「牧の里二丁目1501」と「牧の里2-1501」）
+    const addrs = new Set(list.map((x) => sameSpotKey(x.address)));
     if (addrs.size > 1) { ambiguous.push(`${f.id} / ${c}（${addrs.size}通りの住所）`); continue; }
-    hit = list[0];
+    // 緯度経度を持っている出典を優先して採る
+    hit = list.find((x) => x.lat && x.lng) ?? list[0];
     break;
   }
   if (!hit) continue;
 
-  const venue = { address: hit.address };
+  const venue = {};
+  if (wantAddress) venue.address = hit.address;
   // 緯度経度は施設一覧が持っているときだけ。無い分を推測で足さない
-  if (hit.lat && hit.lng && !f.venue?.lat) { venue.lat = hit.lat; venue.lng = hit.lng; latlng++; }
-  if (patch(f.id, { venue })) filled++;
+  if (wantLatLng && hit.lat && hit.lng) { venue.lat = hit.lat; venue.lng = hit.lng; }
+  if (!Object.keys(venue).length) continue;
+
+  if (patch(f.id, { venue })) {
+    if (venue.address) filled++;
+    if (venue.lat) latlng++;
+  }
 }
 
 if (ambiguous.length) {
