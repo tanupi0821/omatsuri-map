@@ -7,28 +7,33 @@ area:
   city: 鎌倉市
   ward: null
 venue:
-  name: 鶴岡八幡宮
+  name: 鶴岡八幡宮境内
   address: 鎌倉市雪ノ下2-1-31
   lat: 35.324857
   lng: 139.556069
-organizer: null
+organizer: 鶴岡八幡宮
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.hachimangu.or.jp/matsuri/index.html#tabpanel8
+  - title: 鎌倉市観光協会 ぼんぼり祭［夏越祭/立秋祭/実朝祭］（鶴岡八幡宮）
+    url: https://www.trip-kamakura.com/event/detail.php?id=53
 occurrences:
   - year: 2026
     dates:
       - 2026-08-06
+      - 2026-08-07
+      - 2026-08-08
       - 2026-08-09
     start_time: 09:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e356981/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR･江ノ島電鉄鎌倉駅から徒歩10分
+    source_url: https://www.trip-kamakura.com/event/detail.php?id=53
+    source_name: 鎌倉市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 8月6日〜9日の4日間。境内に約400基のぼんぼりが掲揚され、夕刻から明かりが灯る。6日が夏越祭（15:00〜）、7日が立秋祭（17:00〜）、9日が実朝祭（10:00〜）。2026年で88回目。データは端の2日しか持っていなかった
+station: JR横須賀線 鎌倉駅／江ノ島電鉄 鎌倉駅
+shrine: 鶴岡八幡宮

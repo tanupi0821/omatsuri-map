@@ -7,24 +7,30 @@ area:
   city: 中央区
   ward: null
 venue:
-  name: 築地本願寺
-  address: null
+  name: 築地本願寺 境内
+  address: 中央区築地3-15-1
   lat: 35.666486
   lng: 139.772284
 organizer: 築地本願寺奉讃会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 築地本願寺 第79回築地本願寺納涼盆踊り大会のおしらせ
+    url: https://tsukijihongwanji.jp/news/11529/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-29
+      - 2026-07-30
+      - 2026-07-31
       - 2026-08-01
     start_time: 19:00
     end_time: 21:00
     status: confirmed
-    source_url: https://tokyofesta.com/23ku/30953/
-    source_name: 東京フェスタ
-    source_type: media
-    checked_at: 2026-08-05
+    source_url: https://tsukijihongwanji.jp/news/11529/
+    source_name: 築地本願寺
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月29日（水）〜8月1日（土）の4日間。最終日だけ18:00〜20:30。主催は築地本願寺奉讃会、後援が築地本願寺。築地場外市場の店が屋台を出す。データは端の2日しか持っていなかった
+station: 東京メトロ日比谷線 築地駅（出口1直結）

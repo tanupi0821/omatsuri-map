@@ -7,28 +7,33 @@ area:
   city: 高岡市
   ward: null
 venue:
-  name: 高岡市戸出地区一円
-  address: 高岡市戸出町3-8-10
+  name: 戸出町一円（メイン会場は戸出商工会館前）
+  address: 高岡市戸出町
   lat: 36.683324
   lng: 136.979189
-organizer: 戸出七夕まつり実行委員会
+organizer: 戸出七夕まつり実行委員会（高岡市商工会内）
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.shokoren-toyama.or.jp/~takaoka/archives/2265
+  - title: 高岡市観光協会 戸出七夕まつり
+    url: https://www.takaoka.or.jp/event/detail_3874.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-03
+      - 2026-07-04
+      - 2026-07-05
+      - 2026-07-06
       - 2026-07-07
     start_time: 14:00
     end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0516e187237/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
-station: JR戸出駅からすぐ
+    source_url: https://www.takaoka.or.jp/event/detail_3874.html
+    source_name: 高岡市観光協会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月3日（金）〜7日（火）の5日間。町内ごとに作った大小500本の七夕飾りがトンネルを作る。民謡踊り街流しや、高岡市商工会戸出支所前の夜店（約70店）もある。データは端の2日しか持っていなかった
+station: JR城端線 戸出駅（徒歩5分）

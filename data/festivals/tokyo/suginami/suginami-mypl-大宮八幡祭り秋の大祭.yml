@@ -20,6 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-09-13
+      - 2026-09-14
+      - 2026-09-15
       - 2026-09-16
     start_time: null
     end_time: null
@@ -27,4 +29,7 @@ occurrences:
     source_url: https://suginami.mypl.net/article/summer-fes_suginami
     source_name: まいぷれ[杉並区]
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 9月13日〜16日の4日間。14日が宵祭り（18:00〜）、15日が例祭・氏子奉幣祭（10:00〜）と神輿合同宮入り（18:00〜）。13日〜15日は約100軒の露店が出る。データは端の2日しか持っていなかったので、今の出典の記事から4日間を入れ直した。大宮八幡宮の公式ページは令和元年の内容のままだったため出典は据え置き
+shrine: 大宮八幡宮
+station: 京王井の頭線 西永福駅／永福町駅

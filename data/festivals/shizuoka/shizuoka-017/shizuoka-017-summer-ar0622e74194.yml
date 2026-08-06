@@ -7,11 +7,11 @@ area:
   city: 静岡市清水区
   ward: null
 venue:
-  name: 清水駅前銀座商店街 ほか
-  address: 静岡市清水区
+  name: 清水駅前銀座商店街・清水銀座商店街・よってこ商店街・中央銀座商店街
+  address: 静岡市清水区銀座
   lat: 35.023693
   lng: 138.489388
-organizer: 清水七夕まつり実行委員会
+organizer: 清水七夕まつり実行委員会（静岡商工会議所 清水事務所内）
 stalls: yes
 tags: []
 description: null
@@ -22,15 +22,17 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-02
+      - 2026-07-03
+      - 2026-07-04
       - 2026-07-05
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
-    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e74194/
-    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
-    source_type: aggregator
-    checked_at: 2026-08-05
-    note: 掲載の2日付は期間の初日と最終日
+    source_url: https://shimizutanabata.com/
+    source_name: 清水七夕まつり実行委員会
+    source_type: official
+    checked_at: 2026-08-06
+    note: 2026年は第72回。7月2日（木）〜5日（日）の4日間で、最終日だけ20:00まで。竹と紙のくす玉や仕掛けものが約1kmのアーケードを飾る。データは端の2日しか持っていなかった
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shimizu_Tanabata_Matsuri_01.jpg/1280px-Shimizu_Tanabata_Matsuri_01.jpg
     width: 1000
@@ -46,4 +48,4 @@ photos:
     license: CC BY 4.0
     license_url: https://creativecommons.org/licenses/by/4.0
     source: https://commons.wikimedia.org/wiki/File:Shimizu_Tanabata_Matsuri_02.jpg
-station: JR清水駅から徒歩すぐ
+station: JR東海道本線 清水駅（江尻口）

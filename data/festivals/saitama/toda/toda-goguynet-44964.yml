@@ -1,5 +1,5 @@
 id: toda-goguynet-44964
-name: 戸田橋花火大会
+name: 市制施行60周年記念 第73回戸田橋花火大会 Sky Fantasia
 kind: 花火
 scale: 町内会
 area:
@@ -7,24 +7,27 @@ area:
   city: 戸田市
   ward: null
 venue:
-  name: 戸田市内
-  address: null
+  name: 国道17号 戸田橋上流 荒川河川敷
+  address: 戸田市戸田公園
   lat: null
   lng: null
-organizer: null
+organizer: 戸田橋花火大会実行委員会（戸田市経済戦略室）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 戸田市 市制施行60周年記念第73回戸田橋花火大会への協賛募集
+    url: https://www.city.toda.saitama.jp/soshiki/214/keizai-73hanabikyosan.html
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-29
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
-    source_url: https://toda-warabi.goguynet.jp/2026/07/23/marugameseimen-2/
-    source_name: 号外NET 戸田市・蕨市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.city.toda.saitama.jp/soshiki/214/keizai-73hanabikyosan.html
+    source_name: 戸田市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: データにあった7月29日は誤りで、開催は8月1日（土）の1日だけ。約7,500発（対岸のいたばし花火大会との両岸合算で約15,000発）。両岸の花火がシンクロする演出がある
+station: JR埼京線 戸田公園駅（東側会場まで徒歩20分）
