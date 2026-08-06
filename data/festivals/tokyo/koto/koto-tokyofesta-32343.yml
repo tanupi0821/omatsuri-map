@@ -26,7 +26,8 @@ occurrences:
     source_url: https://tokyofesta.com/23ku/32343/
     source_name: 東京フェスタ
     source_type: media
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 出典の記事は「KIBACO キッズウォーターフェス」（木場公園）で、祭りの名前（富岡八幡宮例大祭）と合っていない。レコードの取り違えとみられるので日付は触らない
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hachiman_Festival_at_Monzen_Nakacho_001.jpg/1280px-Hachiman_Festival_at_Monzen_Nakacho_001.jpg
     width: 1000

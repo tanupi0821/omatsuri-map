@@ -25,6 +25,7 @@ occurrences:
     status: confirmed
     source_url: https://yokohamamidori-aoba.goguynet.jp/2026/07/17/aobaku-summer-festival/
     source_name: 号外NET 横浜市緑区・青葉区
-    checked_at: 2026-08-02
+    checked_at: 2026-08-06
     source_type: media
+    note: 出典が「地域の祭りをまとめて紹介する記事」なので、取り込みを読み直すと記事の先頭の日付が全部の祭りに割り当てられてしまう（この記事から作られた祭りが全部同じ日になる）。祭りごとの日付であるいまの値を残した
 stalls: unknown

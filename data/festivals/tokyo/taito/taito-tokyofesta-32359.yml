@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tokyofesta.com/23ku/32359/
     source_name: 東京フェスタ
     source_type: media
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 記事の題に「08-01〜08-02」とある。取り込みの読み直しで1日から2日になった

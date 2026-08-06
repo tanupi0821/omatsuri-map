@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-05
+      - 2026-06-06
+      - 2026-06-07
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://hiroshima.goguynet.jp/2026/05/10/toukasan-2026-hiroshima--hiroshimaedit2--/
     source_name: 号外NET 広島市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「06-05〜06-07」とある。取り込みの読み直しで1日から3日になった

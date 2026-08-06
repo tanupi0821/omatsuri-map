@@ -22,11 +22,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-      - 2026-08-07
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://koriyama.goguynet.jp/2026/07/23/fukuyamahanabi/
     source_name: 号外NET 郡山市（県中地域）
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月8日（土）の1日だけ。データにあった8月7日は根拠がない（サポーター席の販売に関する日付とみられる）

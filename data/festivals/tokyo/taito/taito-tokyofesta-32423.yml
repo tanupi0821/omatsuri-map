@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
+      - 2026-08-16
     start_time: 12:00
     end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/32423/
     source_name: 東京フェスタ
     source_type: media
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 08-07から08-16までの期間。日ごとの内訳は出典に書かれていないので端の2日のままにした

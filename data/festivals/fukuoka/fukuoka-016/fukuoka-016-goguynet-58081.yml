@@ -29,4 +29,5 @@ occurrences:
     source_url: https://kurume.goguynet.jp/2026/06/18/55th-doyouyoichi/
     source_name: 号外NET 久留米市(筑後北部)
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 6月20日から7月25日まで毎週土曜の夜市。記事の題は「6/20〜7/25」なので、取り込みを読み直すと端の2日に縮んでしまう。開催日を並べたいまの値のほうが正しい（7月11日・18日も本来は開催日）

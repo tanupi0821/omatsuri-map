@@ -29,4 +29,5 @@ occurrences:
     source_url: https://naha.goguynet.jp/2026/07/28/makisiyataimura/
     source_name: 号外NET 那覇市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 台風で延期になった催しで、記事に当初の日程と延期後の日程が混在している。取り込みを読み直しても混在の仕方が変わるだけで確定できないので触らない

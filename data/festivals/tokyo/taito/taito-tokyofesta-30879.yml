@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-03
+      - 2026-07-04
+      - 2026-07-05
     start_time: 11:00
     end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/23ku/30879/
     source_name: 東京フェスタ
     source_type: media
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 記事の題に「07-03〜07-05」とある。取り込みの読み直しで1日から3日になった

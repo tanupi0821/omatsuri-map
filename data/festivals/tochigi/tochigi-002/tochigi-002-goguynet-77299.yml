@@ -7,23 +7,27 @@ area:
   city: 足利市
   ward: null
 venue:
-  name: 田中橋下流渡良瀬運動公園
-  address: null
+  name: 渡良瀬川 田中橋下流河川敷
+  address: 足利市田中町
   lat: null
   lng: null
-organizer: null
+organizer: 足利花火大会実行委員会（足利商工会議所内）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 足利商工会議所 足利花火大会情報
+    url: https://www.ashikaga.info/category/youai_info/hanabi
 occurrences:
   - year: 2026
     dates:
-      - 2026-06-01
-    start_time: null
-    end_time: null
+      - 2026-08-01
+    start_time: 19:15
+    end_time: 20:50
     status: confirmed
-    source_url: https://ashikaga-sano.goguynet.jp/2026/05/25/hanabi-8/
-    source_name: 号外NET 足利市・佐野市
-    source_type: media
-    checked_at: 2026-08-04
+    source_url: https://www.ashikaga.info/category/youai_info/hanabi
+    source_name: 足利商工会議所
+    source_type: official
+    checked_at: 2026-08-06
+    note: 令和8年8月1日（土）19:15〜20:50。第110回の記念大会でドローンショーが加わる。約2万発。データにあった6月1日は有料観覧席の販売開始日で開催日ではない。8月2日（日）は予備日なので開催日には入れない。交通規制は17:30〜21:30
+station: JR両毛線 足利駅（徒歩5分）／東武伊勢崎線 足利市駅（徒歩10分）

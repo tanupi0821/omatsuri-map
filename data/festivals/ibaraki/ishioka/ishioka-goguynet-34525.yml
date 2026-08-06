@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-09-19
+      - 2026-09-20
+      - 2026-09-21
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tsuchiura-kasumigaura-ishioka.goguynet.jp/2026/08/05/ishiokanoomaturi2026/
     source_name: 号外NET 土浦市・かすみがうら市・石岡市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 9月19日〜21日の3日間。データは初日しか持っていなかった

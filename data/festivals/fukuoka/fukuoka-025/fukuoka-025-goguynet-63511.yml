@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-04
+      - 2026-08-16
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://fukuokahakata.goguynet.jp/2026/07/28/hakatanatumaturi2026/
     source_name: 号外NET 福岡市博多区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 08-04から08-16までの期間。日ごとの内訳は出典に書かれていないので端の2日のままにした

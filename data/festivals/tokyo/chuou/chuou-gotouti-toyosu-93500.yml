@@ -1,14 +1,14 @@
-id: koto-gotouti-toyosu-93500
+id: chuou-gotouti-toyosu-93500
 name: 晴海ふ頭公園盆踊り大会2026
 kind: 盆踊り
 scale: 地区
 area:
   pref: 東京都
-  city: 江東区
+  city: 中央区
   ward: null
 venue:
   name: 晴海ふ頭公園
-  address: null
+  address: 中央区晴海5-7-1
   lat: null
   lng: null
 organizer: null
@@ -30,4 +30,5 @@ occurrences:
     source_name: とよすと
     source_type: media
     checked_at: 2026-08-06
-    note: 会場名に記事の地の文が混ざっていた（「深川第五中学校）は」）ので会場名だけにした。なお会場の晴海ふ頭公園は中央区晴海で、掲載区（江東区）と食い違うため要確認
+    note: 会場の晴海ふ頭公園は中央区晴海。出典が豊洲（江東区）のメディアのため掲載区が江東区になっていたので中央区へ移した
+station: ゆりかもめ 市場前駅／都営大江戸線 勝どき駅

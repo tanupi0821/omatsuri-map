@@ -20,6 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
+      - 2026-08-01
       - 2026-08-02
     start_time: null
     end_time: null
@@ -27,4 +28,5 @@ occurrences:
     source_url: https://aizu.goguynet.jp/2026/08/03/higasiyamabonodori-3/
     source_name: 号外NET 会津若松市・喜多方市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月31日〜8月2日の3日間。中日の8月1日が抜けていた。約1,000個の提灯が灯る

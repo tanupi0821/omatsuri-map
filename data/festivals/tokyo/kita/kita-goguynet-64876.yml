@@ -20,12 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-07
+      - 2026-08-08
       - 2026-08-09
-      - 2026-08-01
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tokyokita.goguynet.jp/2026/08/02/ojijinjyasairei_jujo_bonodori2026/
     source_name: 号外NET 北区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月7日（金）〜9日（日）の3日間。データにあった8月1日は根拠がなく、8日が抜けていた

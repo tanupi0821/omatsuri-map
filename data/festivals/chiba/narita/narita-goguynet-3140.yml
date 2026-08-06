@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-10
+      - 2026-07-11
+      - 2026-07-12
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://narita-tomisato.goguynet.jp/2026/07/14/naritagionsai/
     source_name: 号外NET 成田市・富里市・酒々井町
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「07-10〜07-12」とある。取り込みの読み直しで1日から3日になった

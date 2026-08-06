@@ -20,10 +20,17 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
+      - 2026-08-02
+      - 2026-08-03
+      - 2026-08-04
+      - 2026-08-05
+      - 2026-08-06
+      - 2026-08-07
     start_time: 18:30
     end_time: 22:00
     status: confirmed
     source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/07/10/kamado_tanabata2026/
     source_name: 号外NET 筑紫野市・太宰府市・朝倉市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「08-01〜08-07」とあるので7日間。取り込みの読み直しでは端2日になっていたので全日にした

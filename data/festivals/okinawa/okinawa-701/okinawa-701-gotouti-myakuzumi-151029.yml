@@ -7,7 +7,7 @@ area:
   city: 宮古島市
   ward: null
 venue:
-  name: 宮古島市平良西里301
+  name: みゃーくずみ野外店（西里通り交差点）
   address: 宮古島市平良西里301
   lat: null
   lng: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: みゃーくずみ
     source_type: media
     checked_at: 2026-08-06
+    note: 会場名が住所そのものになっていた。宮古島夏まつり（15:00〜21:00）の開催時間に合わせて営業する野外店

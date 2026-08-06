@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-02
+      - 2026-05-03
+      - 2026-05-04
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://ogaki.goguynet.jp/2026/04/26/tarui_hikiyama2026/
     source_name: 号外NET 大垣市（西濃地域）
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 5月2日〜4日の3日間。データは初日しか持っていなかった

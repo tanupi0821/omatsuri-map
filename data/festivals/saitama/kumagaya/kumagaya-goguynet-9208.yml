@@ -19,11 +19,12 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-04-23
+      - 2026-08-08
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://kumagaya.goguynet.jp/2026/07/28/hanabitaikai/
     source_name: 号外NET 熊谷市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月8日開催。データにあった4月23日は有料観覧席の前売り開始日で、開催日ではない

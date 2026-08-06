@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
+      - 2026-07-19
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tama-inagi.goguynet.jp/2026/07/13/ochiai-furusato-summer-fes-2026/
     source_name: 号外NET 多摩市・稲城市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「07-18〜07-19」とある。取り込みの読み直しで1日から2日になった

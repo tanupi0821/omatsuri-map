@@ -20,13 +20,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-04
-      - 2026-08-07
+      - 2026-08-05
       - 2026-08-06
-      - 2026-08-01
+      - 2026-08-07
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://morioka.goguynet.jp/2026/08/04/moriokatanabatamatsuri-2026/
     source_name: 号外NET 盛岡市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月4日（火）〜7日の4日間。データにあった8月1日は根拠がなく、5日・6日が抜けていた

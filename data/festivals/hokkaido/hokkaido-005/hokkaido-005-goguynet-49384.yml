@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-19
+      - 2026-05-20
+      - 2026-05-21
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://sapporokitaku.goguynet.jp/2026/05/09/harunotaisai/
     source_name: 号外NET 札幌市北区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 5月19日〜21日。露店が約60店並び、限定御朱印や花手水もある。データは初日しか持っていなかった

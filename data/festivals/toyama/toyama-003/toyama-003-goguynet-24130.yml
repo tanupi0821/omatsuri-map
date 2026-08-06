@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-21
+      - 2026-08-22
+      - 2026-08-23
     start_time: 18:30
     end_time: 21:00
     status: confirmed
     source_url: https://toyama.goguynet.jp/2026/06/29/chuuoushokubutuen-2026summer/
     source_name: 号外NET 富山市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月21日から3日間。データは初日しか持っていなかった

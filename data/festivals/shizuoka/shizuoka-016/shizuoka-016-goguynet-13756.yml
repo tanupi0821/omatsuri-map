@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-13
+      - 2026-08-14
+      - 2026-08-15
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://aoi.goguynet.jp/2026/08/02/post-13756/
     source_name: 号外NET 静岡市葵区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月13日〜15日の3日間。約1万灯の提灯が並び、花火も上がる。データは初日しか持っていなかった

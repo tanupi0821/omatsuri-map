@@ -20,10 +20,12 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
+      - 2026-07-26
     start_time: 16:00
     end_time: 22:00
     status: confirmed
     source_url: https://minoh.goguynet.jp/2026/07/22/ishibashimatsuri/
     source_name: 号外NET 箕面市・池田市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月25日・26日の2日間、石橋駅前公園で。データは初日しか持っていなかった

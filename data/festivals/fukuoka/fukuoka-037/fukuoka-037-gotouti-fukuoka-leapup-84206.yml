@@ -1,14 +1,14 @@
-id: fukuoka-019-gotouti-fukuoka-leapup-84206
+id: fukuoka-037-gotouti-fukuoka-leapup-84206
 name: おおはしヒル夏まつり
 kind: 夏祭り
 scale: 地区
 area:
   pref: 福岡県
-  city: 福岡市
+  city: 福岡市南区
   ward: null
 venue:
-  name: 感」
-  address: 福岡市南区大橋1丁目3番3号
+  name: OHASHI HILL
+  address: 福岡市南区大橋1-3-3
   lat: null
   lng: null
 organizer: null
@@ -28,3 +28,5 @@ occurrences:
     source_name: フクリパ
     source_type: media
     checked_at: 2026-08-06
+    note: 会場名が「感」の1文字だけになっていたので直した。会場のOHASHI HILLは福岡市南区大橋
+station: 西鉄天神大牟田線 大橋駅

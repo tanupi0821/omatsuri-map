@@ -20,13 +20,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-17
-      - 2026-07-20
       - 2026-07-18
       - 2026-07-19
+      - 2026-07-20
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://nikko-kanuma.goguynet.jp/2026/07/14/aeon_nikkoimaichi_event/
     source_name: 号外NET 日光市・鹿沼市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「07-17〜07-20」とある。取り込みの読み直しで4日から4日になった

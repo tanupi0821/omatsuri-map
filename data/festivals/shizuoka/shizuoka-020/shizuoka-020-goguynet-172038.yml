@@ -22,10 +22,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
+      - 2026-08-09
+      - 2026-08-10
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://fuji-fujinomiya.goguynet.jp/2026/08/03/kennmin/
     source_name: 号外NET 富士市・富士宮市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「08-08〜08-10」とある。取り込みの読み直しで1日から3日になった

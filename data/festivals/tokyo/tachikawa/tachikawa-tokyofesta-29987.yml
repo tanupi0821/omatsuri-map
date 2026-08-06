@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-10-10
+      - 2026-10-11
+      - 2026-10-12
     start_time: 11:00
     end_time: 21:00
     status: confirmed
     source_url: https://tokyofesta.com/tama/29987/
     source_name: 東京フェスタ
     source_type: media
-    checked_at: 2026-08-05
+    checked_at: 2026-08-06
+    note: 記事の題に「10-10〜10-12」とある。取り込みの読み直しで1日から3日になった

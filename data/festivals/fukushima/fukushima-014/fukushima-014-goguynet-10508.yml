@@ -24,6 +24,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
+      - 2026-08-01
       - 2026-08-02
     start_time: null
     end_time: null
@@ -31,4 +32,5 @@ occurrences:
     source_url: https://aizu.goguynet.jp/2026/06/21/higasiyamabonodori/
     source_name: 号外NET 会津若松市・喜多方市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「07-31〜08-02」とある。取り込みの読み直しで2日から3日になった

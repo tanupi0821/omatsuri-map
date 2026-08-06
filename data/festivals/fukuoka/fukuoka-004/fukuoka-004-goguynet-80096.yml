@@ -20,6 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
+      - 2026-08-01
       - 2026-08-02
     start_time: null
     end_time: null
@@ -27,4 +28,5 @@ occurrences:
     source_url: https://kitakyushukokuraminami.goguynet.jp/2026/07/26/summer-odekakematome2026/
     source_name: 号外NET 北九州市小倉南区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月31日〜8月2日。中日の8月1日が抜けていた

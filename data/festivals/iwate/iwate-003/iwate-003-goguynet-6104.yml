@@ -20,12 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-      - 2026-08-10
-      - 2026-06-01
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://morioka.goguynet.jp/2026/06/03/moriokahanabinosaiten2026-senkouhanbai/
     source_name: 号外NET 盛岡市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 8月11日（火・祝）開催。データにあった6月1日は前売り開始日（6/1〜6/14が販売期間）、8月10日は根拠がない

@@ -22,6 +22,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
+      - 2026-08-01
       - 2026-08-02
     start_time: null
     end_time: null
@@ -29,4 +30,5 @@ occurrences:
     source_url: https://takamatsu.goguynet.jp/2026/07/19/sunportnatsumatsuri-takamatsu/
     source_name: 号外NET 高松市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月31日〜8月2日の3日間。中日の8月1日が抜けていた

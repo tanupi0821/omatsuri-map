@@ -20,10 +20,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
     start_time: 16:00
     end_time: 21:00
     status: confirmed
     source_url: https://aoi.goguynet.jp/2026/07/22/ice/
     source_name: 号外NET 静岡市葵区
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月24日〜26日の3日間、駿府城公園で。データは初日しか持っていなかった

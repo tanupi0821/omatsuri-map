@@ -31,4 +31,5 @@ occurrences:
     source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/07/31/hanabitaikai-2/
     source_name: 号外NET 花巻市・北上市・遠野市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 出典が「地域の祭りをまとめて紹介する記事」なので、取り込みを読み直すと記事の先頭の日付が全部の祭りに割り当てられてしまう（この記事から作られた祭りが全部同じ日になる）。祭りごとの日付であるいまの値を残した

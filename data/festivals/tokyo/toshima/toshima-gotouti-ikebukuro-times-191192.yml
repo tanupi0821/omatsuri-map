@@ -7,7 +7,7 @@ area:
   city: 豊島区
   ward: null
 venue:
-  name: 豊島区上池袋2-45-15
+  name: 上池袋さくら公園
   address: 豊島区上池袋2-45-15
   lat: null
   lng: null
@@ -21,10 +21,11 @@ occurrences:
     dates:
       - 2026-07-10
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: https://ikebukuro-times.com/archives/kamiike-sakura202607.html
     source_name: 池袋タイムズ
     source_type: media
     checked_at: 2026-08-06
+    note: 7月10日（金）・11日（土）19:00〜21:00、雨天順延（1日のみ）。会場名が住所そのものになっていたので公園名にした

@@ -20,10 +20,14 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-02
+      - 2026-05-03
+      - 2026-05-04
+      - 2026-05-05
     start_time: 11:00
     end_time: 12:30
     status: confirmed
     source_url: https://kazo-hanyu.goguynet.jp/2026/05/02/tamashiki-syunkitaisai/
     source_name: 号外NET 加須市・羽生市・行田市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 記事の題に「05-02〜05-05」とある。取り込みの読み直しで1日から4日になった

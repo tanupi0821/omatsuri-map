@@ -20,16 +20,20 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-30
-      - 2026-05-06
+      - 2026-05-01
       - 2026-05-02
       - 2026-05-03
+      - 2026-05-04
+      - 2026-05-05
+      - 2026-05-06
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://tokyofuchu.goguynet.jp/2026/04/21/kurayamifesfuchu/
     source_name: 号外NET 府中市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 4月30日から5月6日までの一連の神事。データは4/30と5/6を端に持ちながら間が虫食いになっていた（取り込みを読み直しても虫食いの場所が変わるだけだったので、期間として全日を入れた）。5月3日からは周辺道路で交通規制がある
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Okunitama-jinja-24.jpg/1280px-Okunitama-jinja-24.jpg
     width: 1000

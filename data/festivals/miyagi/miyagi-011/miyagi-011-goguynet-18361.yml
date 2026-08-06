@@ -22,12 +22,13 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-      - 2026-08-02
       - 2026-08-01
+      - 2026-08-02
     start_time: null
     end_time: null
     status: confirmed
     source_url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/07/30/post-18361/
     source_name: 号外NET 石巻市・東松島市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月31日〜8月2日の3日間

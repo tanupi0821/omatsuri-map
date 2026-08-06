@@ -19,7 +19,6 @@ links: []
 occurrences:
   - year: 2026
     dates:
-      - 2026-07-21
       - 2026-07-24
       - 2026-07-25
     start_time: null
@@ -28,4 +27,5 @@ occurrences:
     source_url: https://hino.goguynet.jp/2026/07/16/asahigaoka-matsuri/
     source_name: 号外NET 日野市
     source_type: media
-    checked_at: 2026-08-04
+    checked_at: 2026-08-06
+    note: 7月24日・25日の2日間。データにあった7月21日は根拠がない
