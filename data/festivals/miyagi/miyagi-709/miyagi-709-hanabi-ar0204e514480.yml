@@ -1,0 +1,33 @@
+id: miyagi-709-hanabi-ar0204e514480
+name: ダイワロイネットホテルズpresents 夏スタ! フィナーレ花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 宮城県
+  city: 仙台市宮城野区
+  ward: null
+venue:
+  name: 楽天モバイルパーク宮城
+  address: 仙台市宮城野区宮城野二丁目
+  lat: 38.256323
+  lng: 140.902649
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.rakuteneagles.jp/news/detail/202601109550.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0204e514480/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR仙台駅から徒歩20分または楽天モバイルパーク宮城行きシャトルバスで約8分

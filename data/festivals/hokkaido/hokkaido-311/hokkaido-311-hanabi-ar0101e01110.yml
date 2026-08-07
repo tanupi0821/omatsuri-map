@@ -1,0 +1,33 @@
+id: hokkaido-311-hanabi-ar0101e01110
+name: T×T GARAGE(ティーバイティーガレージ) 第14回 真駒内花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 北海道
+  city: 札幌市南区
+  ward: null
+venue:
+  name: 真駒内セキスイハイムスタジアム
+  address: 札幌市南区真駒内公園
+  lat: 42.996267
+  lng: 141.34292
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.makomanai-hanabi.com
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+    start_time: 19:50
+    end_time: 20:50
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0101e01110/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 札幌市営地下鉄真駒内駅から徒歩30分

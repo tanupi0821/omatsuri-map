@@ -1,0 +1,36 @@
+id: niigata-summer-ar0415e195014
+name: にいつ夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 新潟県
+  city: 新潟市
+  ward: 秋葉区
+venue:
+  name: 堀出神社
+  address: 新潟市秋葉区新津本町3-14
+  lat: 37.794653
+  lng: 139.12334
+organizer: 新津観光協会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://n-kankou.com/event/
+  - title: 号外NET 新潟市江南区・秋葉区・南区
+    url: https://niigatakonan-akiha-minami.goguynet.jp/2026/07/31/niitunatu26/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+      - 2026-08-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0415e195014/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR新津駅から徒歩5分

@@ -1,0 +1,34 @@
+id: chiba-905-hanabi-ar0312e561316
+name: 千葉Xmas芸術花火2025
+kind: 花火
+scale: 市
+area:
+  pref: 千葉県
+  city: 千葉市美浜区
+  ward: null
+venue:
+  name: 千葉幕張海浜公園
+  address: 千葉市美浜区ひび野二丁目
+  lat: 35.645068
+  lng: 140.04323
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://chibaxmashanabi.com/
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-11-24
+    start_time: 17:10
+    end_time: 18:10
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0312e561316/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 出典は2025年の日程のまま。2026年の開催は発表されていない
+station: JR海浜幕張駅から徒歩15分またはシャトルバスで約5分

@@ -1,0 +1,29 @@
+id: nagoya-gotouti-nagoyato-17294
+name: 第65回 大曽根七夕まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: 名古屋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagoyato.com/posts/17294
+    source_name: ナゴヤトコトン
+    source_type: media
+    checked_at: 2026-08-06

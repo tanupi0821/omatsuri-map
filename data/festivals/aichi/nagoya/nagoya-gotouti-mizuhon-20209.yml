@@ -1,0 +1,29 @@
+id: nagoya-gotouti-mizuhon-20209
+name: 第10回 あらたまばし大盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 瑞穂区
+venue:
+  name: イオンモール新瑞橋
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://mizuhon.com/aratamabashi-sum-fes-2026-info/
+    source_name: みずほん
+    source_type: media
+    checked_at: 2026-08-06

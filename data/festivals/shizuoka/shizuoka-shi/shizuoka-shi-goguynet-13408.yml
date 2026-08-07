@@ -1,0 +1,33 @@
+id: shizuoka-shi-goguynet-13408
+name: アイスフェス＆アジアン夜市 SHIZUOKA 2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 静岡市
+  ward: 葵区
+venue:
+  name: 駿府城公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 静岡市葵区
+    url: https://aoi.goguynet.jp/2026/06/08/post-13474/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-24
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aoi.goguynet.jp/2026/05/26/asian/
+    source_name: 号外NET 静岡市葵区
+    source_type: media
+    checked_at: 2026-08-04

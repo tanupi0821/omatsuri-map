@@ -1,0 +1,33 @@
+id: kitakyushu-hanabi-ar1040e00936
+name: くきのうみ花火の祭典
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: 若松区
+venue:
+  name: 洞海湾、若戸大橋周辺
+  address: null
+  lat: 33.899969
+  lng: 130.811951
+organizer: くきのうみ花火の祭典実行委員会事務局
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.city.kitakyushu.lg.jp/wakamatsu/file_0033.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: 19:00
+    end_time: 19:40
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1040e00936/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR若松駅から徒歩3分、JR戸畑駅から徒歩5分

@@ -1,0 +1,31 @@
+id: kobe-nagata-hoshi-no-bon
+name: 星の盆祭り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 鉄人広場
+  address: null
+  lat: null
+  lng: null
+organizer: 長田区連合婦人会
+stalls: yes
+tags:
+  - 雨天決行
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.kobe.lg.jp/h53961/kuyakusho/nagataku/jyouhou/natsumatsuri.html
+    source_name: 神戸市長田区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 小雨決行

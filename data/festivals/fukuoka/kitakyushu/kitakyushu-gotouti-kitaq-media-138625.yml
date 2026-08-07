@@ -1,0 +1,32 @@
+id: kitakyushu-gotouti-kitaq-media-138625
+name: 筑前木屋瀬祇園祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: 北九州市八幡西区木屋瀬3-19-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 北九州市のホームページ
+    url: https://www.city.kitakyushu.lg.jp/yahatanishi/file_0131.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitaq.media/138625/
+    source_name: 北九州ノコト
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: chiba-ward-chiba-mihama-磯辺ふれあい夏祭り
+name: 磯辺ふれあい夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 千葉市
+  ward: 美浜区
+venue:
+  name: 磯辺公園
+  address: 千葉市美浜区磯辺第三小学校の前、磯辺1-26
+  lat: 35.629481
+  lng: 140.064976
+organizer: 磯辺ふれあい夏祭り実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.chiba.jp/mihama/chiikizukuri/tiikiibento_08.html
+    source_name: 千葉市美浜区
+    source_type: gov
+    checked_at: 2026-08-05

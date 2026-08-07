@@ -1,0 +1,34 @@
+id: hiroshima-shi-summer-ar0834e4758
+name: 住吉祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 広島県
+  city: 広島市
+  ward: 中区
+venue:
+  name: 住吉神社
+  address: 広島市中区住吉町5-10
+  lat: 34.384923
+  lng: 132.447419
+organizer: 住吉神社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: http://www.sumiyoshijinja.net/summer.php
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-27
+      - 2026-07-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0834e4758/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: 広島電鉄舟入本町停留所から徒歩5分

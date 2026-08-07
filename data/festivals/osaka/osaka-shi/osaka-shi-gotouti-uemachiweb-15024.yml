@@ -1,0 +1,30 @@
+id: osaka-shi-gotouti-uemachiweb-15024
+name: 愛染（あいぜん）祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: null
+venue:
+  name: 大阪市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-30
+      - 2026-07-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://uemachiweb.com/news/%e3%80%8c%e6%84%9b%e6%9f%93%ef%bc%88%e3%81%82%e3%81%84%e3%81%9c%e3%82%93%ef%bc%89%e7%a5%ad%e3%80%8d%e6%98%8e%e6%97%a5%ef%bc%96-%ef%bc%93%ef%bc%90%e7%81%ab%e9%96%8b%e5%b9%95%e3%80%81%ef%bc%97/
+    source_name: うえまち新聞web
+    source_type: media
+    checked_at: 2026-08-06

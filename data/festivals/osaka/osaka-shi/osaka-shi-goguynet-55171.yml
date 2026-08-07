@@ -1,0 +1,30 @@
+id: osaka-shi-goguynet-55171
+name: コ・ス・パ鶴見緑地24 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 鶴見区
+venue:
+  name: フィットネスクラブ コ・ス・パ 鶴見緑地24
+  address: 大阪市鶴見区
+  lat: 34.70599
+  lng: 135.567334
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-30
+    start_time: 11:00
+    end_time: 13:00
+    status: confirmed
+    source_url: https://tsurumi-joto.goguynet.jp/2026/07/19/cospa-2/
+    source_name: 号外NET 大阪市鶴見区・城東区
+    source_type: media
+    checked_at: 2026-08-06
+    note: 7月30日（木）11:00〜13:00の1日だけ。データにあった7月23日は誤り

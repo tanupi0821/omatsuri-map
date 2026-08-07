@@ -1,0 +1,30 @@
+id: nagoya-ward-nagoya-meito-猪子石ハロウィン盆踊り仮称
+name: 猪子石ハロウィン盆踊り（仮称）
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 名東区
+venue:
+  name: 猪子石小学校
+  address: 名古屋市名東区猪子石2-1201
+  lat: 35.186229
+  lng: 137.003881
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-28
+      - 2026-11-29
+    start_time: 17:00
+    end_time: 19:45
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
+    source_name: 名古屋市名東区
+    source_type: gov
+    checked_at: 2026-08-05

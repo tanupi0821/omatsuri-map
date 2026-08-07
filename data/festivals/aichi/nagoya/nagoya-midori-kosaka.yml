@@ -1,0 +1,29 @@
+id: nagoya-midori-kosaka
+name: 小坂学区 盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 緑区
+venue:
+  name: 小坂小学校
+  address: 名古屋市緑区小坂1-1001-2
+  lat: 35.085187
+  lng: 136.981761
+organizer: 小坂学区
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 18:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/midori/oshirase/1024402/1051527.html
+    source_name: 名古屋市緑区
+    source_type: gov
+    checked_at: 2026-08-06

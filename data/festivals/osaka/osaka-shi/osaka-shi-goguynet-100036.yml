@@ -1,0 +1,31 @@
+id: osaka-shi-goguynet-100036
+name: 下新庄盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 東淀川区
+venue:
+  name: 下新庄公園
+  address: 大阪市東淀川区下新庄
+  lat: 34.746798
+  lng: 135.516858
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://higashiyodogawaku.goguynet.jp/2026/07/25/shimoshinjo-bon/
+    source_name: 号外NET 大阪市東淀川区
+    source_type: media
+    checked_at: 2026-08-06
+    note: 令和8年8月1日（土）・2日（日）18:00〜21:00、雨天中止。データにあった7月26日・29日はどちらも誤り

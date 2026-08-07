@@ -1,0 +1,35 @@
+id: sagamihara-jinjacho-1208227-0
+name: 石楯尾神社 春季大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 緑区
+venue:
+  name: 石楯尾神社
+  address: 相模原市緑区名倉4524
+  lat: null
+  lng: null
+recurrence: 4月10日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1208227-000/
+organizer: 石楯尾神社
+shrine: 石楯尾神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1208227-000/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1208227-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「4月10日」から導いたもので、神社が2026年の日程として発表したものではない

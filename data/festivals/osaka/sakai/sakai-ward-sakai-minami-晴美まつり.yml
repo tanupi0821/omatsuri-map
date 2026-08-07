@@ -1,0 +1,29 @@
+id: sakai-ward-sakai-minami-晴美まつり
+name: 晴美まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市
+  ward: 南区
+venue:
+  name: はるみ小学校
+  address: 堺市南区晴美台3丁3-1
+  lat: 34.49612665
+  lng: 135.535898
+organizer: 晴美台地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-09-14
+    start_time: 15:00
+    end_time: 21:30
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

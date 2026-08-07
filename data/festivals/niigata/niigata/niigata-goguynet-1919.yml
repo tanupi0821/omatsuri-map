@@ -1,0 +1,31 @@
+id: niigata-goguynet-1919
+name: 夜店まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市
+  ward: 西区
+venue:
+  name: 新潟市西区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 新潟市西区・西蒲区
+    url: https://niigatanishi-nishikan.goguynet.jp/2026/07/28/yomisematuri-horumon/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanishi-nishikan.goguynet.jp/2026/07/16/uchino-yomisematuri/
+    source_name: 号外NET 新潟市西区・西蒲区
+    source_type: media
+    checked_at: 2026-08-04

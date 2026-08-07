@@ -1,0 +1,30 @@
+id: aichi-903-ward-nagoya-meito-梅森坂学区納涼夏まつり
+name: 梅森坂学区納涼夏まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 名古屋市名東区
+  ward: null
+venue:
+  name: 梅森荘中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: 18:50
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
+    source_name: 名古屋市名東区
+    source_type: gov
+    checked_at: 2026-08-05

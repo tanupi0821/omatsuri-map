@@ -1,0 +1,29 @@
+id: nagoya-midori-oshimizu
+name: 大清水学区 ふれあい納涼盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 緑区
+venue:
+  name: 平手南公園
+  address: 名古屋市緑区砂田2
+  lat: 35.081042
+  lng: 136.985145
+organizer: 大清水学区
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/midori/oshirase/1024402/1051527.html
+    source_name: 名古屋市緑区
+    source_type: gov
+    checked_at: 2026-08-06

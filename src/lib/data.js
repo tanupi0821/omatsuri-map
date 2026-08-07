@@ -16,6 +16,27 @@ function walk(dir) {
   return out;
 }
 
+/**
+ * 政令指定都市。**区は市の中にまとめる。**
+ *
+ * 取り込みは記事の見出し【此花区】から `area.city: 大阪市此花区` を作ることがあり、
+ * そのままだと「大阪市此花区」という市が存在することになって、
+ * 1 つの市が区の数だけの入口に割れる（大阪市は 18 本に割れていた）。
+ * 取り込み側を直しても、新しい媒体を足すたびに同じことが起きるので、
+ * **読むときに必ず市と区へ割る**。横浜市・川崎市と同じ持ち方に揃える。
+ */
+const SEIREI = [
+  '札幌市', '仙台市', 'さいたま市', '千葉市', '横浜市', '川崎市', '相模原市',
+  '新潟市', '静岡市', '浜松市', '名古屋市', '京都市', '大阪市', '堺市', '神戸市',
+  '岡山市', '広島市', '北九州市', '福岡市', '熊本市',
+];
+function splitWard(area) {
+  const raw = area?.city ?? '';
+  const city = SEIREI.find((c) => raw !== c && raw.startsWith(c) && raw.endsWith('区'));
+  if (!city) return area;
+  return { ...area, city, ward: area.ward ?? raw.slice(city.length) };
+}
+
 export function loadFestivals() {
   const dir = join(DATA_DIR, 'festivals');
   return walk(dir)
@@ -23,8 +44,10 @@ export function loadFestivals() {
       // 置き場所が data/festivals/<県>/<市>[/<区>]/*.yml なので、
       // そのままエリアページの URL に使える。名前から作り直さなくてよい
       const rel = p.slice(dir.length + 1).split(/[\\/]/);
+      const f = parse(readFileSync(p, 'utf8'));
       return {
-        ...parse(readFileSync(p, 'utf8')),
+        ...f,
+        area: splitWard(f.area),
         _file: basename(p),
         _prefSlug: rel[0],
         _citySlug: rel[1],

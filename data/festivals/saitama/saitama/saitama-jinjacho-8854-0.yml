@@ -1,0 +1,35 @@
+id: saitama-jinjacho-8854-0
+name: 氷川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市
+  ward: 西区
+venue:
+  name: 氷川神社
+  address: さいたま市西区島根456
+  lat: null
+  lng: null
+recurrence: 3月28日
+recurrence_source: https://www.saitama-jinjacho.or.jp/shrine/8854/
+organizer: 氷川神社
+shrine: 氷川神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 埼玉県神社庁
+    url: https://www.saitama-jinjacho.or.jp/shrine/8854/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.saitama-jinjacho.or.jp/shrine/8854/
+    source_name: 埼玉県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「3月28日」から導いたもので、神社が2026年の日程として発表したものではない

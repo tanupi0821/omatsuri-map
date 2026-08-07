@@ -1,0 +1,31 @@
+id: osaka-shi-hirano-asahi-jinja
+name: 旭神社 夏祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 平野区
+venue:
+  name: 旭神社
+  address: 大阪市平野区加美正覚寺
+  lat: null
+  lng: null
+organizer: 加美地域
+shrine: 旭神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+      - 2026-07-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06

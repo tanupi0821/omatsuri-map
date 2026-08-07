@@ -1,0 +1,29 @@
+id: sendai-gotouti-sendai-tushin-518693
+name: おやこで楽しむ夏祭りinAER
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 仙台市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/07/23/post-518693/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

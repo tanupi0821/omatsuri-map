@@ -1,0 +1,29 @@
+id: kobe-gotouti-kobe-journal-318782
+name: よさこい祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: メリケンパーク
+  address: 神戸市中央区波止場町2
+  lat: 34.686039
+  lng: 135.191188
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-04
+    start_time: 09:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/9248697284.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

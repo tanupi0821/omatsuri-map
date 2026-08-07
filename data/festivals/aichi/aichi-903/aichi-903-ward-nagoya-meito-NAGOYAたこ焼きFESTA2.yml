@@ -1,0 +1,30 @@
+id: aichi-903-ward-nagoya-meito-NAGOYAたこ焼きFESTA2
+name: NAGOYAたこ焼きFESTA 2026夏in本郷
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 名古屋市名東区
+  ward: null
+venue:
+  name: 本郷公園・ 本郷コミセン
+  address: 名古屋市名東区本郷1
+  lat: 35.17847
+  lng: 137.0158
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: 16:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
+    source_name: 名古屋市名東区
+    source_type: gov
+    checked_at: 2026-08-05

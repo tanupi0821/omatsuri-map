@@ -1,0 +1,29 @@
+id: osaka-shi-ward-osaka-nishiyodogawa-出来島盆踊り大会
+name: 出来島盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 西淀川区
+venue:
+  name: 大和田川公園
+  address: 大阪市西淀川区出来島2-1
+  lat: 34.7049373000006
+  lng: 135.438124500001
+organizer: 出来島地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/nishiyodogawa/page/0000678487.html
+    source_name: 大阪市西淀川区
+    source_type: gov
+    checked_at: 2026-08-05

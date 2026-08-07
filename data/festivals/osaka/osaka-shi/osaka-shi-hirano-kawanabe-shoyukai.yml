@@ -1,0 +1,29 @@
+id: osaka-shi-hirano-kawanabe-shoyukai
+name: 川辺 昭友会 盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 平野区
+venue:
+  name: 川辺中公園
+  address: 大阪市平野区長吉川辺2-1
+  lat: 34.5975001000002
+  lng: 135.572611
+organizer: 長吉川辺地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiranomachisen.com/?p=4880
+    source_name: 平野区まちづくりセンター
+    source_type: gov
+    checked_at: 2026-08-06

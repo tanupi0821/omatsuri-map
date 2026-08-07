@@ -1,0 +1,29 @@
+id: aichi-718-gotouti-mizuhon-20410
+name: がんみち夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 雁道商店街［
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://mizuhon.com/2026-ganmichi-sum-fes/
+    source_name: みずほん
+    source_type: media
+    checked_at: 2026-08-06

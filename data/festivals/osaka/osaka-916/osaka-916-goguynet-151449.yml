@@ -1,0 +1,29 @@
+id: osaka-916-goguynet-151449
+name: 商店街の夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市住吉区
+  ward: null
+venue:
+  name: あびんこ商店街(地下鉄あびこ中央商店街)
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/07/09/abinkoyomise/
+    source_name: 号外NET 大阪市住吉区・東住吉区
+    source_type: media
+    checked_at: 2026-08-04

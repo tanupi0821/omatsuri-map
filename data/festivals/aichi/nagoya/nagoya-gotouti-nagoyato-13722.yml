@@ -1,0 +1,29 @@
+id: nagoya-gotouti-nagoyato-13722
+name: ホーム夜市
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: 名古屋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagoyato.com/posts/13722
+    source_name: ナゴヤトコトン
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,30 @@
+id: osaka-shi-goguynet-89460
+name: に堀越神社 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 天王寺区
+venue:
+  name: 大阪市天王寺区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tennoji-ku.goguynet.jp/2026/07/11/horikoshi/
+    source_name: 号外NET 大阪市天王寺区・阿倍野区
+    source_type: media
+    checked_at: 2026-08-04

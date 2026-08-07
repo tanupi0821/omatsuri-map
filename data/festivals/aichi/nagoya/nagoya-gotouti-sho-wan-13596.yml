@@ -1,0 +1,30 @@
+id: nagoya-gotouti-sho-wan-13596
+name: 伊勝八幡宮 天王祭 夏祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 昭和区
+venue:
+  name: 名古屋市昭和区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-07
+      - 2026-07-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sho-wan.com/20260707-natsumatsuri-ikatsu/
+    source_name: しょうわん
+    source_type: media
+    checked_at: 2026-08-06

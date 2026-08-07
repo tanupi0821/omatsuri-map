@@ -1,0 +1,30 @@
+id: aichi-718-gotouti-mizuhon-20430
+name: 内浜公園盆踊り大会
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 名古屋市瑞穂区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://mizuhon.com/uchifes-sum-mizuho-2026-info/
+    source_name: みずほん
+    source_type: media
+    checked_at: 2026-08-06

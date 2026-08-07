@@ -1,0 +1,29 @@
+id: osaka-914-ward-osaka-nishiyodogawa-竹島地域盆踊り
+name: 竹島地域盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市西淀川区
+  ward: null
+venue:
+  name: 竹島西公園
+  address: 大阪市西淀川区竹島5-5
+  lat: 34.7270400000005
+  lng: 135.448930000001
+organizer: 竹島地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/nishiyodogawa/page/0000678487.html
+    source_name: 大阪市西淀川区
+    source_type: gov
+    checked_at: 2026-08-05

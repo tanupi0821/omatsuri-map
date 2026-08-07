@@ -1,0 +1,30 @@
+id: fukuoka-shi-goguynet-46328
+name: 第7回鳥飼八幡宮古着祭り ナイトマーケットビアガーデン 真夏の夜の夢
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: 中央区
+venue:
+  name: 福岡市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+      - 2026-08-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokachuo.goguynet.jp/2026/07/30/hurugimatsuri/
+    source_name: 号外NET 福岡市中央区・城南区
+    source_type: media
+    checked_at: 2026-08-04

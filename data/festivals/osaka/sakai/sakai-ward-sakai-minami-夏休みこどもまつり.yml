@@ -1,0 +1,29 @@
+id: sakai-ward-sakai-minami-夏休みこどもまつり
+name: 夏休み・こどもまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市
+  ward: 南区
+venue:
+  name: 庭代台地域自治会館前広場
+  address: null
+  lat: null
+  lng: null
+organizer: 庭代台地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2024
+    dates:
+      - 2024-07-20
+    start_time: 17:30
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

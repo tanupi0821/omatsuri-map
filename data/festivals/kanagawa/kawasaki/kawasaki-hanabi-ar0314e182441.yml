@@ -1,0 +1,33 @@
+id: kawasaki-hanabi-ar0314e182441
+name: 第85回 川崎市制記念多摩川花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 多摩川河川敷
+  address: 川崎市高津区諏訪二丁目
+  lat: 35.604451
+  lng: 139.631898
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.city.kawasaki.jp/280/page/0000117559.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 18:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0314e182441/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 東急田園都市線二子新地駅から徒歩15分、高津駅から徒歩25分

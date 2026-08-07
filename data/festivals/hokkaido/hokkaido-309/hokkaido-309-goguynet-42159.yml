@@ -1,0 +1,29 @@
+id: hokkaido-309-goguynet-42159
+name: アルトキワ祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市東区
+  ward: null
+venue:
+  name: アルトキワ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sapporohigashi.goguynet.jp/2026/05/19/artkiwa2026-sapporo/
+    source_name: 号外NET 札幌市東区
+    source_type: media
+    checked_at: 2026-08-04

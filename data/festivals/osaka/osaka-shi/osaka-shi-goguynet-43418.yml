@@ -1,0 +1,33 @@
+id: osaka-shi-goguynet-43418
+name: 九条にある茨住吉神社さんで夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 西区
+venue:
+  name: 茨住吉神社
+  address: 大阪市西区九条1-1-17
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-22
+      - 2026-07-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://icchome.goguynet.jp/2026/07/11/osakasi-nisiku-17/
+    source_name: 号外NET 大阪市西区
+    source_type: media
+    checked_at: 2026-08-06
+    note: 7月22日・23日の2日。データにあった7月15日・20日はどちらも誤り
+shrine: 茨住吉神社
+station: 大阪メトロ中央線・阪神なんば線 九条駅

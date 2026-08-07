@@ -1,0 +1,29 @@
+id: osaka-shi-goguynet-151629
+name: 矢田西ふれあい夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 東住吉区
+venue:
+  name: 公園南小公園
+  address: 大阪市東住吉区公園南矢田2丁目
+  lat: 34.604832
+  lng: 135.519432
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 17:00
+    end_time: 20:15
+    status: confirmed
+    source_url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/07/31/yatanisifureainatsumatsuri/
+    source_name: 号外NET 大阪市住吉区・東住吉区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,30 @@
+id: hiroshima-shi-goguynet-43057
+name: 万灯みたま祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 広島市
+  ward: 中区
+venue:
+  name: 広島市中区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-30
+      - 2026-05-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiroshima.goguynet.jp/2026/05/26/hiroshima-gokoku-mantou-mitamamatsuri-2026--hiroshimaedit2--/
+    source_name: 号外NET 広島市
+    source_type: media
+    checked_at: 2026-08-04

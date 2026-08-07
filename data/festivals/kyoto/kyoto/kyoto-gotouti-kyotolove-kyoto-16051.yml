@@ -1,0 +1,31 @@
+id: kyoto-gotouti-kyotolove-kyoto-16051
+name: これこそが祇園祭です
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 京都府
+  city: 京都市
+  ward: null
+venue:
+  name: 京都市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: Kyoto Love.Kyoto
+    url: https://kyotolove.kyoto/marketing3/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kyotolove.kyoto/marketing2/
+    source_name: Kyoto Love.Kyoto
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,34 @@
+id: saitama-505-summer-ar0311e72219
+name: 大宮夏まつり 2026中山道まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 埼玉県
+  city: さいたま市大宮区
+  ward: null
+venue:
+  name: 大宮駅東口周辺
+  address: さいたま市大宮区大門町ほか
+  lat: 35.90654
+  lng: 139.625189
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://visitsaitamacity.jp/events/24
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0311e72219/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR・東武アーバンパークライン・埼玉新都市交通大宮駅東口からすぐ

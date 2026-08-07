@@ -1,0 +1,29 @@
+id: osaka-shi-sumi-shinan
+name: 四南町会 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 住吉区
+venue:
+  name: 東粉浜公園
+  address: 大阪市住吉区東粉浜3丁目13番
+  lat: 34.6160281000004
+  lng: 135.492719400001
+organizer: 四南町会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
+    source_name: 大阪市住吉区
+    source_type: gov
+    checked_at: 2026-08-06

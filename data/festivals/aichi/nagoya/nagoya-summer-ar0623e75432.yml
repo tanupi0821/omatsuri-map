@@ -1,0 +1,34 @@
+id: nagoya-summer-ar0623e75432
+name: 第28回 にっぽんど真ん中祭り
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 中区
+venue:
+  name: 久屋大通公園
+  address: 名古屋市中区丸の内3丁目～大須4丁目
+  lat: 35.166924
+  lng: 136.908963
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.domatsuri.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-30
+    start_time: 09:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e75432/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: 名古屋市営地下鉄久屋大通駅・栄駅・矢場町駅からすぐ

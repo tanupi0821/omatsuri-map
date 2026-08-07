@@ -1,0 +1,29 @@
+id: kyoto-303-goguynet-59934
+name: 砂川夏まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京都市伏見区
+  ward: null
+venue:
+  name: 京都市立砂川小学校グラウンド（伏見区深草ケナサ町25-5）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fushimi.goguynet.jp/2026/07/19/sunagawafes2026/
+    source_name: 号外NET 京都市伏見区
+    source_type: media
+    checked_at: 2026-08-04

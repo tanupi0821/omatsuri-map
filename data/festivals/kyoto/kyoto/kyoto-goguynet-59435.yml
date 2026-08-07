@@ -1,0 +1,29 @@
+id: kyoto-goguynet-59435
+name: 紫陽花まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京都市
+  ward: 伏見区
+venue:
+  name: 京都市伏見区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fushimi.goguynet.jp/2026/05/25/fujinomori-ajisai-2/
+    source_name: 号外NET 京都市伏見区
+    source_type: media
+    checked_at: 2026-08-04

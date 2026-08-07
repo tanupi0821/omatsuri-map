@@ -1,0 +1,29 @@
+id: osaka-shi-goguynet-55205
+name: ハプナフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 鶴見区
+venue:
+  name: ハプナカフェ前広場
+  address: null
+  lat: 34.702546
+  lng: 135.566541
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 16:30
+    end_time: 20:00
+    status: confirmed
+    source_url: https://tsurumi-joto.goguynet.jp/2026/07/26/hapunafesta-2/
+    source_name: 号外NET 大阪市鶴見区・城東区
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,29 @@
+id: osaka-917-ward-sakai-minami-上神谷サマフェスタ
+name: 上神谷サマーフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市南区
+  ward: null
+venue:
+  name: 青少年の家グラウンド
+  address: null
+  lat: null
+  lng: null
+organizer: 上神谷地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

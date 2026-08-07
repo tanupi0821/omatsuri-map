@@ -1,0 +1,33 @@
+id: shizuoka-313-hanabi-ar0622e00907
+name: 第77回 清水みなと祭り 海上花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 静岡市清水区
+  ward: null
+venue:
+  name: 清水港 日の出埠頭
+  address: null
+  lat: 35.008541
+  lng: 138.4993
+organizer: 清水みなと祭り実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.minatokappore.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 19:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e00907/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR清水駅から徒歩20分、静岡鉄道新清水駅から徒歩15分

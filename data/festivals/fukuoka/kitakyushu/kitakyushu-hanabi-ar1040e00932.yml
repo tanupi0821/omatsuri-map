@@ -1,0 +1,33 @@
+id: kitakyushu-hanabi-ar1040e00932
+name: 第39回 関門海峡花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: 門司区
+venue:
+  name: 北九州市門司区西海岸周辺
+  address: 北九州市門司区西海岸一丁目
+  lat: 33.94414
+  lng: 130.955257
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.kanmon-hanabi.love/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1040e00932/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR門司港駅から徒歩5分(門司側)

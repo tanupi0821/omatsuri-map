@@ -1,0 +1,29 @@
+id: fukuoka-shi-goguynet-46194
+name: 納涼夜市
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: 中央区
+venue:
+  name: 福岡市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokachuo.goguynet.jp/2026/07/18/noryoyoichi/
+    source_name: 号外NET 福岡市中央区・城南区
+    source_type: media
+    checked_at: 2026-08-04

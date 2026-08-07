@@ -1,0 +1,32 @@
+id: osaka-shi-sumi-shimizugaoka
+name: 清水丘納涼夏祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 住吉区
+venue:
+  name: 清水丘小学校
+  address: 大阪市住吉区清水丘2-9-41
+  lat: 34.6019610000004
+  lng: 135.492416000001
+organizer: 清水丘地域活動協議会
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 大阪市住吉区
+    url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: 16:00
+    end_time: 21:50
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
+    source_name: 大阪市住吉区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 子どもの部は16時〜19時30分、大人の部は20時〜21時50分。予備日は8月1日

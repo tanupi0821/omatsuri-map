@@ -1,0 +1,34 @@
+id: hyogo-503-summer-ar0728e4752
+name: 献燈祭・菊水天神祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 兵庫県
+  city: 神戸市中央区
+  ward: null
+venue:
+  name: 湊川神社
+  address: 神戸市中央区多聞通3-1-1
+  lat: 34.681964
+  lng: 135.175167
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.minatogawajinja.or.jp/natumaturi/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0728e4752/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR神戸駅から北へ徒歩3分

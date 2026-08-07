@@ -1,0 +1,34 @@
+id: shizuoka-shi-summer-ar0622e74194
+name: 清水七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 静岡県
+  city: 静岡市
+  ward: 清水区
+venue:
+  name: 清水駅前銀座商店街 ほか
+  address: 静岡市清水区袖師町
+  lat: 35.023693
+  lng: 138.489388
+organizer: 清水七夕まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://shimizutanabata.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-02
+      - 2026-07-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0622e74194/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: JR清水駅から徒歩すぐ

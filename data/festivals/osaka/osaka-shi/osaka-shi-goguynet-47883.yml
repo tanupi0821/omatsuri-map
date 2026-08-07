@@ -1,0 +1,29 @@
+id: osaka-shi-goguynet-47883
+name: サマーフェスタ2026 in ひらの
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 平野区
+venue:
+  name: コミュニティプラザ平野・平野区民センター 大ホール
+  address: 大阪市平野区長吉出戸5-3-58
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hirano.goguynet.jp/2026/07/12/sama-fwesuta2026-in-hirano/
+    source_name: 号外NET 大阪市平野区
+    source_type: media
+    checked_at: 2026-08-04

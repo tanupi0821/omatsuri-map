@@ -1,0 +1,30 @@
+id: sendai-gotouti-sendai-tushin-503718
+name: 仙台エキナカ縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 〉JR仙台駅1F
+  address: 仙台市青葉区中央1丁目1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-16
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sendai-tushin.jp/2026/05/13/post-503718/
+    source_name: 仙台つーしん
+    source_type: media
+    checked_at: 2026-08-06

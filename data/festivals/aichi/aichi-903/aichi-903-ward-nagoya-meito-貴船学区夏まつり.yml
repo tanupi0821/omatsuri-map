@@ -1,0 +1,29 @@
+id: aichi-903-ward-nagoya-meito-貴船学区夏まつり
+name: 貴船学区夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 名古屋市名東区
+  ward: null
+venue:
+  name: 貴船小学校
+  address: 名古屋市名東区貴船3-2301
+  lat: 35.164113
+  lng: 137.011225
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
+    source_name: 名古屋市名東区
+    source_type: gov
+    checked_at: 2026-08-05

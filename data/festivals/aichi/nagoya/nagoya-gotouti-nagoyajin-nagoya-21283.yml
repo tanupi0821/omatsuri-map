@@ -1,0 +1,29 @@
+id: nagoya-gotouti-nagoyajin-nagoya-21283
+name: 祭りのシーズン
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: 山車=築地神社〜ガーデンふ頭交差点／総おどり=ガーデンふ頭交差点北
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagoyajin.nagoya/nagoya-aichi-natsu-matsuri-bonodori-2026/
+    source_name: NAGOYAJIN
+    source_type: media
+    checked_at: 2026-08-06

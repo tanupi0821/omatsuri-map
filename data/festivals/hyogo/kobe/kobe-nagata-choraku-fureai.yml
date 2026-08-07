@@ -1,0 +1,31 @@
+id: kobe-nagata-choraku-fureai
+name: 長楽ふれあいの夏まつり・盆踊り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 駒ヶ林小学校 校庭
+  address: 神戸市長田区野田町6-1-16
+  lat: 34.6500314333416
+  lng: 135.1414645
+organizer: 長楽ふれあいのまちづくり協議会
+stalls: yes
+tags:
+  - 雨天決行
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 16:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.kobe.lg.jp/h53961/kuyakusho/nagataku/jyouhou/natsumatsuri.html
+    source_name: 神戸市長田区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 雨天順延。模擬店は16時30分〜18時30分、盆踊りは19時〜20時30分

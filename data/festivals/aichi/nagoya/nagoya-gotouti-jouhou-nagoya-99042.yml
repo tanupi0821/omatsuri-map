@@ -1,0 +1,30 @@
+id: nagoya-gotouti-jouhou-nagoya-99042
+name: 円頓寺七夕まつり 2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: 名古屋市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://jouhou.nagoya/endouji-tanabata2026/
+    source_name: 名古屋情報通
+    source_type: media
+    checked_at: 2026-08-06

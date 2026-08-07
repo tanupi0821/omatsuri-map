@@ -1,0 +1,33 @@
+id: kitakyushu-gotouti-kitaq-media-135652
+name: 黒崎ほたる祭り2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: 北九州市八幡西区岸の浦2
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 北九州市のホームページ
+    url: https://www.city.kitakyushu.lg.jp/yahatanishi/file_0129.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-20
+      - 2026-05-23
+      - 2026-05-24
+    start_time: 11:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://kitaq.media/135652/
+    source_name: 北九州ノコト
+    source_type: media
+    checked_at: 2026-08-06

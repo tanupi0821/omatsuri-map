@@ -1,0 +1,30 @@
+id: osaka-shi-gotouti-ebisubashi-magazine-17965
+name: 法善寺横丁まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 中央区
+venue:
+  name: 法善寺境内
+  address: null
+  lat: null
+  lng: null
+organizer: ／法善寺横丁まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-10
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ebisubashi-magazine.com/hozenji-yokocho-matsuri/
+    source_name: ぶらっとなんば
+    source_type: media
+    checked_at: 2026-08-06

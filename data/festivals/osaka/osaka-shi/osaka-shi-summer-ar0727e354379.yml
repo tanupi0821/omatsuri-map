@@ -1,0 +1,39 @@
+id: osaka-shi-summer-ar0727e354379
+name: 杭全神社 夏祭
+kind: 夏祭り
+scale: 市
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 平野区
+venue:
+  name: 杭全神社
+  address: 大阪市平野区平野宮町2-1-67
+  lat: 34.629053
+  lng: 135.554925
+organizer: 杭全神社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://kumata.jp/natsumatsuri/
+  - title: 杭全神社 公式サイト
+    url: https://www.kumata.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-11
+      - 2026-07-12
+      - 2026-07-13
+      - 2026-07-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.kumata.jp/
+    source_name: 杭全神社
+    source_type: official
+    checked_at: 2026-08-06
+    note: 7月11日〜14日の4日間。11日は太鼓台・神輿出発式（6:00頃）・川行き神事（15:00）・神遷し（20:00）、12日は九町合同曳行（21:45）、13日は夏祭祭典（10:00）とだんじり宮入（19:00）、14日は御旅所祭（15:00）と神遷し（23:00）。データは端の2日しか持っていなかった
+station: JR大和路線 平野駅
+shrine: 杭全神社

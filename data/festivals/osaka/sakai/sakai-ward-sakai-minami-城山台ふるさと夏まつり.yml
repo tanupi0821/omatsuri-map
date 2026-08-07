@@ -1,0 +1,29 @@
+id: sakai-ward-sakai-minami-城山台ふるさと夏まつり
+name: 城山台ふるさと夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市
+  ward: 南区
+venue:
+  name: 城山公園
+  address: 堺市南区城山台１丁１９－１
+  lat: null
+  lng: null
+organizer: 城山台地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-08-02
+    start_time: 17:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

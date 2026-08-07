@@ -1,0 +1,30 @@
+id: niigata-315-goguynet-1882
+name: 和納十五夜祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市西蒲区
+  ward: null
+venue:
+  name: 新潟市西蒲区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanishi-nishikan.goguynet.jp/2026/07/12/wanoujyogoyamaturi/
+    source_name: 号外NET 新潟市西区・西蒲区
+    source_type: media
+    checked_at: 2026-08-04

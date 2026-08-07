@@ -1,0 +1,31 @@
+id: fukuoka-shi-gotouti-fukuoka-leapup-83656
+name: 天神夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: null
+venue:
+  name: 福岡市役所西側ふれあい広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.tenjinnatumaturi.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: 17:30
+    end_time: 22:00
+    status: confirmed
+    source_url: https://fukuoka-leapup.jp/tour/202607.83656
+    source_name: フクリパ
+    source_type: media
+    checked_at: 2026-08-06

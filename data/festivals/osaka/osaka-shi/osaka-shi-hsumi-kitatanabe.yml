@@ -1,0 +1,29 @@
+id: osaka-shi-hsumi-kitatanabe
+name: 夏まつりだョ！北田辺
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 東住吉区
+venue:
+  name: 北田辺商店街
+  address: null
+  lat: null
+  lng: null
+organizer: 北田辺地域
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000600898.html
+    source_name: 大阪市東住吉区
+    source_type: gov
+    checked_at: 2026-08-06

@@ -1,0 +1,32 @@
+id: nagoya-nagoyacity-吉根納涼夏祭り
+name: 吉根納涼夏祭り
+kind: 納涼祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 守山区
+venue:
+  name: 吉根公園
+  address: 名古屋市守山区吉根3
+  lat: 35.23886
+  lng: 136.99955
+recurrence: 8月第2土曜日
+recurrence_source: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 17:00
+    end_time: null
+    status: estimated
+    source_url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
+    source_name: 名古屋市
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 開催は「毎年8月第2土曜日」という決まり。午後5時から

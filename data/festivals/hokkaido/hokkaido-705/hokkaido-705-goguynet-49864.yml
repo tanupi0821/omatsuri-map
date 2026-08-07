@@ -1,0 +1,30 @@
+id: hokkaido-705-goguynet-49864
+name: 円山夏祭り 子供盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 札幌市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sapporochuo.goguynet.jp/2026/08/03/shotengai-maruyama_natsumatsuri/
+    source_name: 号外NET 札幌市中央区
+    source_type: media
+    checked_at: 2026-08-04

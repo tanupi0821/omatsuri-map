@@ -1,0 +1,30 @@
+id: osaka-915-ward-osaka-konohana-高見納涼盆踊り
+name: 高見納涼盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市此花区
+  ward: null
+venue:
+  name: 高見公園
+  address: 大阪市此花区高見1-5
+  lat: 34.6914829200005
+  lng: 135.458613800001
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-15
+    start_time: 19:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html
+    source_name: 大阪市此花区
+    source_type: gov
+    checked_at: 2026-08-05

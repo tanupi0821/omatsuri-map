@@ -1,0 +1,29 @@
+id: hiroshima-shi-gotouti-marugoto-love-29023
+name: 第29回 大塚・伴南ふれあい祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 広島県
+  city: 広島市
+  ward: 安佐南区
+venue:
+  name: 広島市立大塚小学校グラウンド（広島市安佐南区大塚西6-1-1）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://marugoto.love/archives/260724-02.html
+    source_name: まるごとGO！
+    source_type: media
+    checked_at: 2026-08-06

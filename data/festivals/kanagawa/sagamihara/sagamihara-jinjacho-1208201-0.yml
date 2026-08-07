@@ -1,0 +1,35 @@
+id: sagamihara-jinjacho-1208201-0
+name: 日枝神社 大祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 南区
+venue:
+  name: 日枝神社
+  address: 相模原市南区新戸2459
+  lat: null
+  lng: null
+recurrence: 8月26日(前後の土日に変更有)
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1208201-000/
+organizer: 日枝神社
+shrine: 日枝神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1208201-000/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-26
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1208201-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「8月26日(前後の土日に変更有)」から導いたもので、神社が2026年の日程として発表したものではない

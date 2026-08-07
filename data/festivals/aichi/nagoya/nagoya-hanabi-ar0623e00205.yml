@@ -1,0 +1,33 @@
+id: nagoya-hanabi-ar0623e00205
+name: 第75回 大須夏まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 中区
+venue:
+  name: 大須観音境内
+  address: 名古屋市中区大須二丁目
+  lat: 35.159585
+  lng: 136.899174
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://osu.nagoya/ja/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: 21:00
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0623e00205/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 名古屋市営地下鉄大須観音境内駅から徒歩2分、名古屋市営地下鉄上前津駅から徒歩10分

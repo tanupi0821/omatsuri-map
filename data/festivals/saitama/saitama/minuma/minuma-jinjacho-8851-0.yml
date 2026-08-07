@@ -17,7 +17,9 @@ organizer: 氷川社
 shrine: 氷川社
 tags: []
 description: null
-links: []
+links:
+  - title: 埼玉県神社庁
+    url: https://www.saitama-jinjacho.or.jp/shrine/8851/
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,29 @@
+id: osaka-shi-goguynet-26278
+name: 福島区まもりごと夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: 福島区
+venue:
+  name: 大阪市福島区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukushima-konohana.goguynet.jp/2026/07/10/mamorigotonatsumatsuri-3/
+    source_name: 号外NET 大阪市福島区・此花区
+    source_type: media
+    checked_at: 2026-08-04

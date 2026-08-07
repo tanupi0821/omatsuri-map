@@ -1,0 +1,34 @@
+id: kanagawa-505-summer-ar0314e77064
+name: 第17回 みなとみらい大盆踊り
+kind: 盆踊り
+scale: 市
+area:
+  pref: 神奈川県
+  city: 横浜市西区
+  ward: null
+venue:
+  name: 臨港パーク・プラザ広場
+  address: 横浜市西区みなとみらい1-1
+  lat: 35.459423
+  lng: 139.637255
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.pacifico.co.jp/event/MM_BonOdori
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+      - 2026-08-29
+    start_time: 16:30
+    end_time: 20:30
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0314e77064/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: 横浜高速鉄道みなとみらい駅から徒歩7分

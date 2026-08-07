@@ -1,0 +1,31 @@
+id: shizuoka-shi-goguynet-13566
+name: 第62回 静岡夏まつり夜店市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 静岡市
+  ward: 葵区
+venue:
+  name: 紺屋町
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aoi.goguynet.jp/2026/06/25/yomiseichi/
+    source_name: 号外NET 静岡市葵区
+    source_type: media
+    checked_at: 2026-08-04

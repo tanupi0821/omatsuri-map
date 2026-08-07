@@ -1,0 +1,30 @@
+id: kobe-nagata-ikeda-fureai
+name: 池田ふれあい盆おどり
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 池田小学校 校庭
+  address: 神戸市長田区池田上町19
+  lat: 34.6678811333656
+  lng: 135.1449296
+organizer: 池田ふれあいのまちづくり協議会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: 17:00
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.kobe.lg.jp/h53961/kuyakusho/nagataku/jyouhou/natsumatsuri.html
+    source_name: 神戸市長田区
+    source_type: gov
+    checked_at: 2026-08-06
+    note: 雨天中止。池田小学校PTA・青少年育成協議会 池田支部との共催

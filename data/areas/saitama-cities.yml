@@ -2,33 +2,6 @@
 # 手で書いた area ファイルで定義済みの市町村は含めない。
 pref: 埼玉県
 cities:
-  - name: さいたま市
-    slug: saitama
-    wards:
-      - name: 浦和区
-        slug: urawa
-      - name: 岩槻区
-        slug: iwatsuki
-      - name: 見沼区
-        slug: minuma
-      - name: 桜区
-        slug: sakura
-      - name: 西区
-        slug: saitama-nishi
-      - name: 大宮区
-        slug: omiya
-      - name: 中央区
-        slug: saitama-chuo
-      - name: 南区
-        slug: saitama-minami
-      - name: 北区
-        slug: saitama-kita
-      - name: 緑区
-        slug: saitama-midori
-    sources:
-      - name: 埼玉県神社庁
-        url: https://www.saitama-jinjacho.or.jp/
-        type: official
   - name: ときがわ町
     slug: tokigawa
     sources:

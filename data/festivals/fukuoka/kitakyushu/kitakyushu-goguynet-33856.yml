@@ -1,0 +1,29 @@
+id: kitakyushu-goguynet-33856
+name: 第2回 赤坂池公園 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: 八幡西区
+venue:
+  name: 北九州市八幡西区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakyushuyahatanishi.goguynet.jp/2026/06/28/akasakaikekouennatumaturi/
+    source_name: 号外NET 北九州市八幡西区・八幡東区・若松区
+    source_type: media
+    checked_at: 2026-08-04

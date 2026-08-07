@@ -9,8 +9,8 @@ area:
 venue:
   name: ひらりん（平野区老人福祉センター）２階
   address: null
-  lat: 34.626393
-  lng: 135.526627
+  lat: null
+  lng: null
 organizer: null
 stalls: unknown
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-31
-    start_time: 11:00
-    end_time: 15:00
+    start_time: null
+    end_time: null
     status: confirmed
     source_url: https://hirano.goguynet.jp/2026/07/20/hirarinbonodoritaikai/
     source_name: 号外NET 大阪市平野区

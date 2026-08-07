@@ -1,0 +1,32 @@
+id: kitakyushu-gotouti-kitaq-media-134668
+name: リバキッズフェスタ 2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 福岡県
+  city: 北九州市
+  ward: null
+venue:
+  name: 北九州市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: リバーウォーク北九州のホームページ
+    url: https://riverwalk.co.jp/event/ribakidsfesta_2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-01
+      - 2026-05-02
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://kitaq.media/134668/
+    source_name: 北九州ノコト
+    source_type: media
+    checked_at: 2026-08-06

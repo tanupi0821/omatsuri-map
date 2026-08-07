@@ -1,0 +1,31 @@
+id: fukuoka-shi-goguynet-62262
+name: 第31回Fukuoka東区花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: null
+venue:
+  name: 御島グリーンベイウォーク
+  address: 福岡市東区香椎浜
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: Fukuoka東区花火大会の公式サイト
+    url: https://higashiku-hanabi.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokahakata.goguynet.jp/2026/04/18/f-higasiku-hanabi-2/
+    source_name: 号外NET 福岡市博多区
+    source_type: media
+    checked_at: 2026-08-04

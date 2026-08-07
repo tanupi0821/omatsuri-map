@@ -1,0 +1,29 @@
+id: sakai-gotouti-sakai-times-17038
+name: 堺市美原区 夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 堺市
+  ward: null
+venue:
+  name: Le’coeur（ルクール）敷地内
+  address: 堺市美原区大保13
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sakai-times.com/20260706-1/
+    source_name: サカイタイムズ
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,34 @@
+id: nagoya-summer-ar0623e74976
+name: 第69回 円頓寺七夕まつり
+kind: 夏祭り
+scale: 市
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 西区
+venue:
+  name: 円頓寺商店街・円頓寺本町商店街内
+  address: 名古屋市西区那古野1～2
+  lat: 35.176373
+  lng: 136.890082
+organizer: 円頓寺本町商店街
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://endojishotengai.com/news01/3075.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-29
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://summer.walkerplus.com/odekake/detail_e/ar0623e74976/
+    source_name: 夏休みおでかけガイド2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+    note: 掲載の2日付は期間の初日と最終日
+station: 名古屋市営地下鉄国際センター駅から徒歩5分

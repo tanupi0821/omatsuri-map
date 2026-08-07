@@ -1,0 +1,29 @@
+id: hiroshima-shi-goguynet-43436
+name: 納涼ナイト☆サファリ
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 広島県
+  city: 広島市
+  ward: 安佐北区
+venue:
+  name: 広島市安佐北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiroshima.goguynet.jp/2026/07/11/asazoo-noryo-night-safari-202608--hiroshimaedit2--/
+    source_name: 号外NET 広島市
+    source_type: media
+    checked_at: 2026-08-04

@@ -1,0 +1,33 @@
+id: shizuoka-314-hanabi-ar0622e01024
+name: 鹿島の花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 浜松市天竜区
+  ward: null
+venue:
+  name: 天竜川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: 鹿島の花火大会実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://kajima-hanabi.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e01024/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 遠州鉄道・天竜浜名湖鉄道西鹿島駅から徒歩10分

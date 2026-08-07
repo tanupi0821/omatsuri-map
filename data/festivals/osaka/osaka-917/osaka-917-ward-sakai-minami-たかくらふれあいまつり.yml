@@ -1,0 +1,29 @@
+id: osaka-917-ward-sakai-minami-たかくらふれあいまつり
+name: たかくらふれあいまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 堺市南区
+  ward: null
+venue:
+  name: 泉北高倉小学校
+  address: 堺市南区高倉台3丁5-1
+  lat: 34.49028
+  lng: 135.52888
+organizer: 高倉台地域
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2025
+    dates:
+      - 2025-10-04
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05

@@ -1,0 +1,29 @@
+id: niigata-313-gotouti-niikei-2074300
+name: 日本海ゆうひ花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 新潟県
+  city: 新潟市西区
+  ward: null
+venue:
+  name: 新潟市西区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.niikei.jp/2074300/
+    source_name: にいがた経済新聞
+    source_type: media
+    checked_at: 2026-08-06

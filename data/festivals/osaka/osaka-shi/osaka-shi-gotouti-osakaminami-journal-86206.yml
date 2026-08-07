@@ -1,0 +1,35 @@
+id: osaka-shi-gotouti-osakaminami-journal-86206
+name: 次世代の花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: null
+venue:
+  name: 舞洲スポーツアイランド
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://skylumina.jp/#ticket
+  - title: 公式サイト
+    url: https://skylumina.jp/
+  - title: 大阪ミナミじゃーなる
+    url: https://osakaminami-journal.com/2026/06/15/%e3%83%af%e3%82%a4%e3%83%89%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ae%e6%b2%a1%e5%85%a5%e4%bd%93%e9%a8%93%ef%bc%81%e8%8a%b1%e7%81%ab%e3%81%a8%e3%83%89%e3%83%ad%e3%83%bc%e3%83%b3%e3%81%8c%e8%9e%8d%e5%90%88/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://osakaminami-journal.com/2026/05/09/%e6%9c%80%e5%a4%a72000%e6%a9%9f%e3%81%ae%e3%83%89%e3%83%ad%e3%83%bc%e3%83%b3%e3%81%a81%e4%b8%87%e7%99%ba%e3%81%ae%e8%8a%b1%e7%81%ab%e3%81%8c%e8%88%9e%e6%b4%b2%e3%82%92%e3%82%b8%e3%83%a3%e3%83%83/
+    source_name: 大阪ミナミじゃーなる
+    source_type: media
+    checked_at: 2026-08-06

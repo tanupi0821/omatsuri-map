@@ -1,0 +1,29 @@
+id: osaka-shi-gotouti-uemachiweb-15291
+name: 阿倍野区の盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪市
+  ward: null
+venue:
+  name: 文の里中学校
+  address: 大阪市阿倍野区松崎町1-2-50
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://uemachiweb.com/news/%e9%98%bf%e5%80%8d%e9%87%8e%e5%8c%ba%e3%81%ae%e7%9b%86%e8%b8%8a%e3%82%8a/
+    source_name: うえまち新聞web
+    source_type: media
+    checked_at: 2026-08-06

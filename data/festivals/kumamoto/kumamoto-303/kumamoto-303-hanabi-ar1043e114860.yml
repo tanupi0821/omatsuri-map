@@ -1,0 +1,33 @@
+id: kumamoto-303-hanabi-ar1043e114860
+name: TKU 江津湖花火大会2026
+kind: 花火
+scale: 市
+area:
+  pref: 熊本県
+  city: 熊本市東区
+  ward: null
+venue:
+  name: 水前寺江津湖公園
+  address: 熊本市東区広木町
+  lat: 32.768504
+  lng: 130.756369
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://hanabi.kumamoto-guide.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 19:15
+    end_time: 20:15
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar1043e114860/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: 熊本市電神水交差点停留所、動植物園入口停留所、健軍町停留所から徒歩20分

@@ -1,0 +1,29 @@
+id: sapporo-gotouti-sapporo-sokuho-104347
+name: 豊平川花火大会 一夜限りのディナーブッフェ in札幌ライラックスクエアホール
+kind: 花火
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市
+  ward: null
+venue:
+  name: 札幌市内
+  address: 札幌市中央区南10条西1丁目1-48
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sapporo-sokuho.com/archives/post-104347.html
+    source_name: 札幌速報
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,32 @@
+id: kobe-gotouti-kobe-journal-330205
+name: 夏祭りイベント
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: TOTTEI
+  address: 神戸市中央区新港町2-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://ticket.bleague.jp/clubs/ns/events?_ga=2.228771676.1307423843.1785727952-1413299038.1785727952
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kobe-journal.com/archives/9887558655.html
+    source_name: 神戸ジャーナル
+    source_type: media
+    checked_at: 2026-08-06

@@ -1,0 +1,29 @@
+id: okayama-goguynet-111308
+name: 大祓い夏まつり・奉納七夕まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岡山県
+  city: 岡山市
+  ward: 北区
+venue:
+  name: 御本殿・拝殿
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/07/19/oomoto-munetadajinja-9/
+    source_name: 号外NET 岡山市
+    source_type: media
+    checked_at: 2026-08-04

@@ -18,7 +18,9 @@ shrine: 久伊豆神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 埼玉県神社庁
+    url: https://www.saitama-jinjacho.or.jp/shrine/9068/
 occurrences:
   - year: 2026
     dates:

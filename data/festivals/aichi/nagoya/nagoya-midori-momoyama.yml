@@ -1,0 +1,29 @@
+id: nagoya-midori-momoyama
+name: 桃山学区夏まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: 緑区
+venue:
+  name: 緑黒石第一公園
+  address: 名古屋市緑区桃山三丁目
+  lat: null
+  lng: null
+organizer: 桃山学区
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.nagoya.jp/midori/oshirase/1024402/1051527.html
+    source_name: 名古屋市緑区
+    source_type: gov
+    checked_at: 2026-08-06

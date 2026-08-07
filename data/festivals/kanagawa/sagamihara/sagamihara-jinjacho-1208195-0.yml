@@ -1,0 +1,35 @@
+id: sagamihara-jinjacho-1208195-0
+name: 鹿島神社 秋祭
+kind: 秋祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 相模原市
+  ward: 南区
+venue:
+  name: 鹿島神社
+  address: 相模原市南区上鶴間本町3-7-11
+  lat: null
+  lng: null
+recurrence: 11月23日
+recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1208195-000/
+organizer: 鹿島神社
+shrine: 鹿島神社
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 神奈川県神社庁
+    url: https://www.kanagawa-jinja.or.jp/shrine/1208195-000/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.kanagawa-jinja.or.jp/shrine/1208195-000/
+    source_name: 神奈川県神社庁
+    source_type: official
+    checked_at: 2026-08-02
+    note: 日付は神社庁が公開している例祭日「11月23日」から導いたもので、神社が2026年の日程として発表したものではない

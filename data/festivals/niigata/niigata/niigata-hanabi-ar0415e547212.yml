@@ -1,0 +1,33 @@
+id: niigata-hanabi-ar0415e547212
+name: まき夏まつり 花火大会
+kind: 花火
+scale: 市
+area:
+  pref: 新潟県
+  city: 新潟市
+  ward: 西蒲区
+venue:
+  name: 矢川ふれあい公園
+  address: 新潟市西蒲区巻
+  lat: 37.763648
+  lng: 138.878502
+organizer: まき夏まつり協賛会本部
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://maki-niigata.com/%e3%81%be%e3%81%8d%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-13
+    start_time: 20:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0415e547212/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR巻駅から徒歩15分

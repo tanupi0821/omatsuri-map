@@ -1,0 +1,31 @@
+id: hiroshima-503-goguynet-42869
+name: とうかさん大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 広島市中区
+  ward: null
+venue:
+  name: 広島市中区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-05
+      - 2026-06-06
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiroshima.goguynet.jp/2026/05/10/toukasan-2026-hiroshima--hiroshimaedit2--/
+    source_name: 号外NET 広島市
+    source_type: media
+    checked_at: 2026-08-04

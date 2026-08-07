@@ -1,0 +1,29 @@
+id: shizuoka-shi-goguynet-13752
+name: 浮月夏祭り-2026-
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 静岡市
+  ward: 葵区
+venue:
+  name: 静岡市葵区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://aoi.goguynet.jp/2026/08/01/post-13752/
+    source_name: 号外NET 静岡市葵区
+    source_type: media
+    checked_at: 2026-08-04

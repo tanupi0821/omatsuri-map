@@ -1,0 +1,33 @@
+id: nagoya-gotouti-nagoyajin-nagoya-21631
+name: 一夜限りの盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市
+  ward: null
+venue:
+  name: Meieki
+  address: null
+  lat: null
+  lng: null
+organizer: 名鉄都市開発株式会社
+stalls: yes
+tags: []
+description: null
+links:
+  - title: Meieki Parklet公式サイト
+    url: https://www.chunichi-adnet.co.jp/meiekiparklet
+  - title: ナゴヤトコトン
+    url: https://nagoyato.com/posts/16735
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: 17:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://nagoyajin.nagoya/meieki-parklet-bonodori-nagoya-20260710/
+    source_name: NAGOYAJIN
+    source_type: media
+    checked_at: 2026-08-06
