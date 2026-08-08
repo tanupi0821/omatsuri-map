@@ -114,6 +114,12 @@ const jsonld =
         },
         ...(f.organizer ? { organizer: { '@type': 'Organization', name: f.organizer } } : {}),
         isAccessibleForFree: true,
+        // **画像と説明が無いと Search Console が警告を出す**（Event の推奨項目）。
+        // 写真があるものは 184 件しかないので、無いときはサイトの既定の画像を使う。
+        // 説明は本文と同じものを渡す（別の文を作ると食い違う）
+        image: [f.photos?.[0]?.url ?? new URL('/ogp.png', Astro.site).href],
+        description: festivalMetaDescription(f),
+        url: new URL(Astro.url.pathname, Astro.site).href,
       }
     : null;
 
