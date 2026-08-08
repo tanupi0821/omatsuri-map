@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR大船渡線BRT大船渡駅から徒歩3分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（1マス8000円(5人まで利用可、2メートル×2メートル、数量限定)。詳細は公式サイト参照）

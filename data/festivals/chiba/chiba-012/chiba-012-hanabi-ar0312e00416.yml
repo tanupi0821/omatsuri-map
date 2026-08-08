@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR上総亀山駅から徒歩7分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（席種・料金は出典に記載なし）

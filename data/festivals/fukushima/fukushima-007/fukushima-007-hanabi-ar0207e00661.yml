@@ -34,3 +34,5 @@ occurrences:
     checked_at: 2026-08-06
     note: ゲートの開場は16:00。終了時刻は公式サイトに記載がない
 station: JR常磐線 泉駅（バスで約15分）
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細決定次第公式サイトで発表）

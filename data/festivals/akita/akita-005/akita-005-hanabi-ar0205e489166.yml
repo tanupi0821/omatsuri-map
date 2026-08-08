@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR大曲駅から徒歩30分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（【前売り】 テーブル席(4名まで) 30000円、イス席(1名) 7000円、カメラマン席(1名) 10000円 【当日券】※残席がある場合のみ販売 テーブル席(4名まで) 32000円、イス席(1名) 8000円）

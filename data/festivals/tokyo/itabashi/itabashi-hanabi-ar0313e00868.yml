@@ -35,6 +35,8 @@ links:
     url: https://itabashi-times.com/archives/jcom-hanabi2026.html
   - title: いたばしTIMES
     url: https://itabashi-times.com/archives/hanabi20260801.html
+  - title: いたばし花火大会 2026 有料指定席・有料自由席のご案内
+    url: https://itabashihanabi.jp/seat/
 occurrences:
   - year: 2026
     dates:
@@ -63,3 +65,5 @@ photos:
     license: CC BY-SA 4.0
     license_url: https://creativecommons.org/licenses/by-sa/4.0
     source: https://commons.wikimedia.org/wiki/File:Itabashi_Fireworks_Festival_20230805c.jpg
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。有料自由席2000円のほか、有料指定席はA席4500円、S席5000円、陸上競技場イス席5500円、プライムシート6000円、ボックス席（4枚1組）1万8000円、陸上競技場丸テーブル席（4枚1組）3万2000円、グループ席（8枚1組）3万6000〜4万8000円。区内先行販売が6月6日10時〜12日、一般販売は6月13日10時から

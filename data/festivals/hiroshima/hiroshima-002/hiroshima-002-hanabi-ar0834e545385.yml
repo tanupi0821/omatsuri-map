@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR福山駅からトモテツバスで鞆車庫前停留所下車
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（個人A協賛席7000円、個人B協賛席4000円。詳細は公式サイト参照）

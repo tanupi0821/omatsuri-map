@@ -18,6 +18,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.otsuka.co.jp/orc/daigassyo/
+  - title: 花火大会2026（ウォーカープラス）第60回 葛飾納涼花火大会
+    url: https://hanabi.walkerplus.com/detail/ar0313e00861/
 occurrences:
   - year: 2026
     dates:
@@ -29,3 +31,5 @@ occurrences:
     source_name: 号外NET 葛飾区
     source_type: media
     checked_at: 2026-08-04
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。全席種が完売済みで当日券の販売は無い（2026年6月時点）。無料エリアの場所取りは当日0:00から（前日以前は不可）

@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 大沼公園駅からタクシーで約15分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（1席2000円(限定50席・要予約制)）

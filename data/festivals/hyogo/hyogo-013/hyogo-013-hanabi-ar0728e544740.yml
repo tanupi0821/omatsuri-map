@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR相生駅から徒歩20分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（階段席(前方・自由席)3000円、芝生席(後方・自由席)1000円。チケット購入は公式サイト参照）

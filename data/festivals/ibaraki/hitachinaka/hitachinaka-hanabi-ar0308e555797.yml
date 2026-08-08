@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR勝田駅から会場へ直行するシャトルバスあり(有料)
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（全席有料。大人8000円、中学生・高校生6000円、小学生4000円、駐車券2500円。入場券は1枚につき1名のみ有効。参加当日時点で未就学の子どもは無料(保護者同伴に限る)）

@@ -34,3 +34,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 観覧会場は17:00オープン、19:15開会式、花火は19:30から20:15、21:00消灯（公式サイトの進行）
 station: JR内房線 青堀駅
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

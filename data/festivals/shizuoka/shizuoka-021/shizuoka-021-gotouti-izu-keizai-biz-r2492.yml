@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 花火大会2026（ウォーカープラス）第79回 沼津夏まつり・狩野川花火大会
+    url: https://hanabi.walkerplus.com/detail/ar0622e00888/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,5 @@ occurrences:
     source_name: 沼津経済新聞
     source_type: media
     checked_at: 2026-08-06
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。花火協賛の桟敷席が1マス6名までで1万1500円・1万4500円・1万6000円の3種類、プレミアム席（テーブル席4名まで）3万円

@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR十文字駅からバス(稲川方面行きで約10分)で役場前停留所下車、徒歩5分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（桟敷席1マス(5名)1万5000円）

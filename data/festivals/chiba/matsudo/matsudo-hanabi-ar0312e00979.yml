@@ -38,3 +38,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 荒天の場合は中止・順延なし
 station: JR常磐線 松戸駅・北松戸駅（徒歩約35分）
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（席の販売開始は6月中旬を予定。公式サイト参照）

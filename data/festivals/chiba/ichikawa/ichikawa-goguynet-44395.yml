@@ -18,6 +18,8 @@ description: null
 links:
   - title: 市川市民納涼花火大会公式サイト
     url: https://www.ichikawa-hanabi.net/overview/
+  - title: 市川市民納涼花火大会 公式サイト
+    url: https://www.ichikawa-hanabi.net/
 occurrences:
   - year: 2026
     dates:
@@ -29,3 +31,5 @@ occurrences:
     source_name: 号外NET 市川市
     source_type: media
     checked_at: 2026-08-04
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。桟敷席2万5000円、ペア席1万3000円、椅子席8000円、自由席5000円、アイ・リンクタウン展望施設特別観覧席6000円

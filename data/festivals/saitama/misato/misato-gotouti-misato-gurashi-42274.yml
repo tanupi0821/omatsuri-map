@@ -15,7 +15,9 @@ organizer: 三郷市商工会青年部
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 三郷市商工会青年部 花火大会
+    url: https://misato-impulse.com/fireworks/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,5 @@ occurrences:
     source_name: 三郷ぐらし
     source_type: media
     checked_at: 2026-08-06
+paid_seats: yes
+paid_seats_note: 2026年は全席有料。北席・中央席・南席の3種類で、販売は8月24日〜9月6日23:59（購入にパスコードが要る）。協賛者には口数にかかわらず有料観覧席チケット2枚の特典がある

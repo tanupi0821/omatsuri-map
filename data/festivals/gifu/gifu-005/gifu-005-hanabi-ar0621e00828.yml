@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 長良川鉄道徳永駅から徒歩5分
+paid_seats: unknown
+paid_seats_note: 出典の「有料席」欄は「なし」だが、会場が入場料の要る施設なので無料とは言えない。施設の入場料については別途確認が要る

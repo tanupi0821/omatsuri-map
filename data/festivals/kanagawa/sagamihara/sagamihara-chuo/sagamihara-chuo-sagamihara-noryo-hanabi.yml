@@ -36,3 +36,5 @@ occurrences:
     checked_at: 2026-08-05
     note: 協賛エリアの入場開始は13:00。終了時刻は公式サイトに記載がない
 station: JR相模原駅からバスで水郷田名停留所下車、徒歩5分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細未定。決定次第公式サイトにて発表）

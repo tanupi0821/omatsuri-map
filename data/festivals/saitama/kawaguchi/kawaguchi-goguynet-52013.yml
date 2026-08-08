@@ -18,6 +18,8 @@ description: null
 links:
   - title: 公式サイト
     url: https://1110hanabi.com/
+  - title: 川口花火大会 公式サイト
+    url: http://www.1110hanabi.com/
 occurrences:
   - year: 2026
     dates:
@@ -29,3 +31,5 @@ occurrences:
     source_name: 号外NET 川口市
     source_type: media
     checked_at: 2026-08-04
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。11月14日の第6回はA席（テーブル・イス4席）とB席（斜面）。8月開催の第5回はAエリア ガーデンチェア席（1卓4名）3万円、Bエリア 土手シート席1名3000円

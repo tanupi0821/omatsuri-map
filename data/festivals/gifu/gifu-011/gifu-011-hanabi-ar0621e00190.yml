@@ -31,3 +31,5 @@ occurrences:
     source_type: gov
     checked_at: 2026-08-06
 station: 名鉄各務原線 苧ヶ瀬駅（北へ徒歩15分）
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

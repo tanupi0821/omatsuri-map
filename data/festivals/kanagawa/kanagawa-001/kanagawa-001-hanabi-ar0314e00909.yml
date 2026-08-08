@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 箱根登山電車箱根湯本駅から箱根町港行バスで約40分、箱根町港停留所下車徒歩すぐ
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

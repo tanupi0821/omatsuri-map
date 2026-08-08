@@ -18,6 +18,8 @@ description: null
 links:
   - title: 号外NET 千葉市
     url: https://chiba.goguynet.jp/2026/04/29/makuharikaihinkoen/
+  - title: 幕張ビーチ花火フェスタ2026 観覧席
+    url: https://chiba-hanabi.jp/seat.html
 occurrences:
   - year: 2026
     dates:
@@ -30,3 +32,5 @@ occurrences:
     source_type: media
     checked_at: 2026-08-06
     note: 取り込みを読み直すと日付が1つも取れなくなる（記事本文に開催日の書き方が無い）。日付が消えるほうが害が大きいので、いまの値を残した
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。プライムグループ席（5人まで）5万円などの席種があり、2026年7月31日に全席種が完売して当日販売は無かった

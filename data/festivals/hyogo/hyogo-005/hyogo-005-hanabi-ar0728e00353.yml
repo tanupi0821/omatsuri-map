@@ -40,3 +40,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 全席有料。会場周辺は当日全面駐車禁止
 station: 山陽電鉄 飾磨駅
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細は公式サイトをご確認ください）

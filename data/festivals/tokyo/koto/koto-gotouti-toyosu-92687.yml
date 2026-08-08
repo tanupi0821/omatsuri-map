@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 江東花火大会2026 チケットについて
+    url: https://koto-hanabi.com/ticket
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,5 @@ occurrences:
     source_name: とよすと
     source_type: media
     checked_at: 2026-08-06
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。パイプいす席・階段席・ベンチ席が各1人5000円、ガーデン席が1人7500円。江東区民の優先販売が7月18日10:00〜7月31日、一般販売は8月1日10:00から（有料席が余った場合のみ）。会場に入れるのは有料席の購入者と区民限定無料席の当選者だけ（無料席の募集は令和8年6月19日に終了）

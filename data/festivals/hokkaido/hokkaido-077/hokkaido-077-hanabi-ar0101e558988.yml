@@ -32,3 +32,5 @@ occurrences:
     checked_at: 2026-08-06
     note: ステージイベントは16:30から。予備日は8月23日
 station: JR白糠駅から徒歩15分
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

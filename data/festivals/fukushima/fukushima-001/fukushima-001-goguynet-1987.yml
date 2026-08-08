@@ -30,3 +30,5 @@ occurrences:
     source_type: media
     checked_at: 2026-08-06
     note: 8月8日（土）の1日だけ。データにあった8月7日は根拠がない（サポーター席の販売に関する日付とみられる）
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（有料サポーター席 1万円～）

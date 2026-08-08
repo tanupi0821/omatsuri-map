@@ -18,6 +18,8 @@ description: null
 links:
   - title: 引用：岡崎市 HP
     url: https://www.city.okazaki.lg.jp/shisei/koho/1006195/1006358/1014944/1015500.html
+  - title: 岡崎市観光協会 岡崎の夏の花火大会
+    url: https://okazaki-kanko.jp/feature/hanabitaikai/hanabitokusyu
 occurrences:
   - year: 2026
     dates:
@@ -29,3 +31,5 @@ occurrences:
     source_name: 岡崎にゅーす
     source_type: media
     checked_at: 2026-08-06
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。桟敷席（定員6名）4万5000円のほか、乙川マス席南・桜城橋上下の席、2026年新設の岡崎城天守席（市制110周年記念特別席・1組20人・110万円）と乙川南階段区画席（4人区画）がある。申し込みは7月上旬の電話受付で当日券の販売は無い

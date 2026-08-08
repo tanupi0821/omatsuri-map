@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 幕張ビーチ花火フェスタ2026 観覧席
+    url: https://chiba-hanabi.jp/seat.html
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,5 @@ occurrences:
     source_name: 号外NET 千葉市
     source_type: media
     checked_at: 2026-08-04
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり。プライムグループ席（5人まで）5万円などの席種があり、2026年7月31日に全席種が完売して当日販売は無かった

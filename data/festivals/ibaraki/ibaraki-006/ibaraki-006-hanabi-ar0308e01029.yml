@@ -35,3 +35,5 @@ occurrences:
     source_type: official
     checked_at: 2026-08-06
 station: JR宇都宮線 古河駅／東武日光線 新古河駅
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（1席4名まで2万3100円、ほか）
