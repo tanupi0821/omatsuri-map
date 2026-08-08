@@ -20,6 +20,9 @@ const SOURCE_TYPES = ['official', 'gov', 'media', 'aggregator'];
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 // 屋台・露店の有無。おでかけ先を探す人にとって決定的なので独立項目
 const STALLS = ['yes', 'no', 'unknown'];
+// 有料観覧席の有無。**花火大会は入場無料と言い切れない**（有料席がある）。
+// 構造化データの isAccessibleForFree をここで出し分ける
+const PAID_SEATS = ['yes', 'no', 'unknown'];
 const STALE_WARN_DAYS = 180;
 
 function walk(dir) {
@@ -61,6 +64,7 @@ for (const path of files) {
 
   if (f.kind && !KINDS.includes(f.kind)) err(`kind が不正: ${f.kind}`);
   if (f.stalls && !STALLS.includes(f.stalls)) err(`stalls が不正: ${f.stalls}`);
+  if (f.paid_seats && !PAID_SEATS.includes(f.paid_seats)) err(`paid_seats が不正: ${f.paid_seats}`);
   // 写真は出典・著作者・ライセンスが揃っていないものを載せない
   for (const [i, ph] of (f.photos ?? []).entries()) {
     for (const k of ['url', 'credit', 'license', 'source']) {

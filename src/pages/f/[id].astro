@@ -113,7 +113,15 @@ const jsonld =
           },
         },
         ...(f.organizer ? { organizer: { '@type': 'Organization', name: f.organizer } } : {}),
-        isAccessibleForFree: true,
+        /**
+         * **入場無料と言い切れるものだけ言う。**
+         * 町内会の盆踊り・神社の例祭で入場料を取ることは実質ないので断定してよいが、
+         * **花火大会には有料観覧席がある**。確かめていないものは黙る
+         * （`paid_seats` が `no` と確認できたものだけ無料と申告する）。
+         */
+        ...(f.kind === '花火' || /花火/.test(f.name)
+          ? (f.paid_seats === 'no' ? { isAccessibleForFree: true } : {})
+          : { isAccessibleForFree: true }),
         // **画像と説明が無いと Search Console が警告を出す**（Event の推奨項目）。
         // 写真があるものは 184 件しかないので、無いときはサイトの既定の画像を使う。
         // 説明は本文と同じものを渡す（別の文を作ると食い違う）
@@ -214,6 +222,17 @@ const desc = festivalMetaDescription(f);
             : '未確認。出典元や神社にご確認ください'}
       </dd>
     </div>
+    {(f.kind === '花火' || /花火/.test(f.name)) && (
+      <div class="fact">
+        <dt>有料席</dt>
+        <dd>
+          {f.paid_seats === 'yes' ? '有料観覧席があります'
+            : f.paid_seats === 'no' ? '有料席はありません（どこからでも無料で見られます）'
+              : <span class="unknown">未確認。主催者の発表をご確認ください</span>}
+          {f.paid_seats_note && <span class="note">{f.paid_seats_note}</span>}
+        </dd>
+      </div>
+    )}
     {f.station && <div class="fact"><dt>最寄駅</dt><dd>{f.station}</dd></div>}
     {f.organizer && <div class="fact"><dt>主催</dt><dd>{f.organizer}</dd></div>}
     {f.shrine && <div class="fact"><dt>神社</dt><dd>{f.shrine}</dd></div>}
