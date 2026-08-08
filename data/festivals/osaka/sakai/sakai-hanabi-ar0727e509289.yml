@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 南海本線堺駅から徒歩10分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（公式サイト参照）

@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR佐賀駅バスセンターからバス(古湯北山方面行きで約30分)で川上橋停留所下車、徒歩3分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細は公式サイトに掲載予定）

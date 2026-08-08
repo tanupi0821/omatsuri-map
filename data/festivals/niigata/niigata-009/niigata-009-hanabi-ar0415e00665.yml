@@ -43,3 +43,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 開催日は毎年8月2日・3日で固定。会場内の観覧には有料観覧席チケットが必要（無料席はない）
 station: JR長岡駅から徒歩30分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（観覧会場内は全席有料。詳細は公式サイトをご確認ください）

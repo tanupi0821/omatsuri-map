@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR松本駅から直行シャトルバス
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（中学生以上4500円、小学生以下無料。会場乗り入れ許可証料金9000円(車1台につき1枚)）

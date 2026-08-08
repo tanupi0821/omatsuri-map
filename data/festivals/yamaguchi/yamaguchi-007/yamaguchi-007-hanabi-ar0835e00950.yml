@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR長門市駅から徒歩5分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（4名1テーブル・駐車券1台付き1万円。有料席の申し込みはLINEから）

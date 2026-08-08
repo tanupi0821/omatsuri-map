@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 埼玉高速鉄道浦和美園駅から徒歩8分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（駐車場付き有料観覧チケット：1区画/4名 1万円。埼玉スタジアム2002公式サイトより事前申し込み。当日会場の専用チケット売り場にて現金またはPayPay支払い）

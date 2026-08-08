@@ -32,3 +32,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 荒天時は翌日に順延。時刻は観光協会のページに記載がなく、以前の発表による
 station: JR湯浅駅から西へ徒歩10分
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

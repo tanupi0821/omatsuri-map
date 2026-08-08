@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR小海駅から町営バス(松原湖行きで約15分)で松原湖観光案内所前停留所または松原湖入口停留所下車すぐ
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

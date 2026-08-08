@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR倉吉駅からバス(市内方面行きで約5分)で総合事務所前停留所下車、徒歩すぐ
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

@@ -35,3 +35,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 春季は4月26日と5月24日の2日。この2日で全部なので日付の取りこぼしではない
 station: JR東海道本線 熱海駅
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

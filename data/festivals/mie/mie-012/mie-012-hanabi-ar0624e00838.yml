@@ -33,3 +33,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 近鉄名張駅西口から徒歩15分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（観覧席：3000円(1席)、桟敷席：2万円(1区画)※1区画は2.7メートル×1.8メートル(6名まで)。7月上旬販売予定。詳細は公式サイトを参照）

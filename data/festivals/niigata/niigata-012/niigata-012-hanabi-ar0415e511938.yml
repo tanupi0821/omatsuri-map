@@ -36,3 +36,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 雨天時は7月20日に順延
 station: JR見附駅下車、見附市役所から無料臨時シャトルバスで約10分
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

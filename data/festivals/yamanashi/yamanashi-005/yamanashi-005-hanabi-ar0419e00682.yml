@@ -36,3 +36,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 警報級の荒天の場合は8月23日（日）に延期。協賛者席以外は無料観覧席
 station: JR石和温泉駅から徒歩20分
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

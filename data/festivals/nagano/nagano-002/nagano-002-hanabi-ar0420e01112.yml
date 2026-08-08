@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR長野駅東口から徒歩30分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（売り切れ次第終了。※詳細は公式サイトを確認）

@@ -32,3 +32,5 @@ occurrences:
     checked_at: 2026-08-05
     note: 出典は2025年の日程のまま。2026年の開催は発表されていない
 station: JR辰野駅からタクシーで約5分
+paid_seats: unknown
+paid_seats_note: 出典の「有料席」欄は「なし」だが、会場が入場料の要る施設なので無料とは言えない。施設の入場料については別途確認が要る

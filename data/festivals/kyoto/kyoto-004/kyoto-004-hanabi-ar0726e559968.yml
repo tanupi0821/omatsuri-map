@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 近鉄線寺田駅から無料シャトルバス運行(要入場チケット)
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（小学生以上チケット必要。2000円(城陽市観光協会)、2500円(チケットぴあ)。当日券販売なし。販売開始は7月25日(土)。詳細は公式サイト参照）

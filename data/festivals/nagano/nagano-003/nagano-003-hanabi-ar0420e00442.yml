@@ -32,3 +32,5 @@ occurrences:
     checked_at: 2026-08-06
     note: 花火は約600発。時刻・会場は市のページに記載がない
 station: JR伊那市駅から循環バスで約30分、市役所前下車すぐ
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

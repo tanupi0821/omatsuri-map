@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR桜ノ宮駅から桜之宮公園沿いを南へ徒歩2分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（各会場ごとに料金が異なるため、JTB天神祭特別観覧席ページ(https://www.jtb.co.jp/stores/j6638-0/tenjin/index.asp)をご確認ください。）

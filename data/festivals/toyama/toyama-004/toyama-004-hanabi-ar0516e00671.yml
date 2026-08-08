@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR入善駅からタクシーで約20分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（椅子席2000円(100席限定)、マス席6000円(10席限定)）

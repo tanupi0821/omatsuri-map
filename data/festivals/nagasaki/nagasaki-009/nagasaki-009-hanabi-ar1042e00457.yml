@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR佐世保駅から徒歩3分、佐世保駅前バスセンターから西肥バス(平戸桟橋行きで約90分)で平戸口桟橋バスターミナル下車
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

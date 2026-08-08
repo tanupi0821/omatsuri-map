@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR上田駅からバス(真田行きまたは菅原高原行きで約25分)で幸村の郷夢工房前停留所下車、徒歩10分
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

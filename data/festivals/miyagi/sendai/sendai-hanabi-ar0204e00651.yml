@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR仙台駅西口から徒歩30分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（未定(詳細が決定次第、公式サイトにて情報を更新)）

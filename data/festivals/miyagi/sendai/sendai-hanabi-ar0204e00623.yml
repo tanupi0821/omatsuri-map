@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: 仙台市営地下鉄泉中央駅から徒歩5分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細は公式サイトを参照）

@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR福知山駅から徒歩15分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（シート(5～7人)1万円、階段席(小学生以上・1人)2000円。詳細は公式サイト参照）

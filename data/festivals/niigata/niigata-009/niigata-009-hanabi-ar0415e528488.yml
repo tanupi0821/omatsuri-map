@@ -31,3 +31,5 @@ occurrences:
     source_type: aggregator
     checked_at: 2026-08-05
 station: JR長岡駅からバスで約40分、終点下車すぐ
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（席種・料金は出典に記載なし）
