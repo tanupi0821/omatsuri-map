@@ -18,6 +18,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <title>{full}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {/* **アイコンが無いと、検索結果に汎用の地球マークが出る。**
+        Google はモバイルの検索結果に 16〜24px で表示する。
+        SVG を先に置き、対応していない環境のために PNG も出す */}
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta property="og:title" content={full} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />

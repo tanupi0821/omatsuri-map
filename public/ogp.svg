@@ -1,39 +1,108 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!--
+    SNS に貼られたときの絵。**サイトのバナーと同じ言語で描く**
+    （夜空・花火・提灯の列・縁日の屋台）。前の版はデザイン刷新前の
+    生成り＋橙のままで、いまのサイトを開いたときと印象が食い違っていた。
+
+    写真が 184 件にしか無いので、写真の無い祭りの構造化データでも
+    この画像を使う。つまり**検索結果にもここが出る**。
+    scripts/gen-ogp.mjs で PNG に焼く。
+  -->
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#fdfaf5"/>
-      <stop offset="1" stop-color="#ffe9d6"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1526"/>
+      <stop offset=".58" stop-color="#132c48"/>
+      <stop offset="1" stop-color="#1d3f63"/>
+    </linearGradient>
+    <linearGradient id="lan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff3d2"/>
+      <stop offset=".5" stop-color="#f5ab45"/>
+      <stop offset="1" stop-color="#b02730"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffbe63" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#ffbe63" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1526" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#0b1526" stop-opacity=".85"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
 
-  <!-- 提灯。祭りの絵として一番わかりやすい -->
+  <rect width="1200" height="630" fill="url(#sky)"/>
+
+  <!-- 花火。放射する光条と、先端の光の粒 -->
+  <g stroke="#ffd27a" stroke-width="2.6" stroke-linecap="round" opacity=".9" fill="none">
+    <path d="M950 60L950 8M950 60L985 25M950 60L1000 60M950 60L985 95M950 60L950 112M950 60L915 95M950 60L900 60M950 60L915 25M950 60L972 12M950 60L998 38M950 60L998 82M950 60L972 108M950 60L928 108M950 60L902 82M950 60L902 38M950 60L928 12"/>
+  </g>
+  <g stroke="#ffb0a8" stroke-width="1.8" stroke-linecap="round" opacity=".55" fill="none">
+    <path d="M1090 150L1090 118M1090 150L1112 128M1090 150L1122 150M1090 150L1112 172M1090 150L1090 182M1090 150L1068 172M1090 150L1058 150M1090 150L1068 128"/>
+  </g>
+  <g stroke="#a8d8ff" stroke-width="1.8" stroke-linecap="round" opacity=".5" fill="none">
+    <path d="M812 128L812 96M812 128L834 106M812 128L844 128M812 128L834 150M812 128L812 160M812 128L790 150M812 128L780 128M812 128L790 106"/>
+  </g>
+
+  <!-- 提灯の綱。中央がたわむ -->
+  <path d="M-10 92 Q600 132 1210 88" stroke="#e8d5b0" stroke-width="2" fill="none" opacity=".45"/>
   <g>
-    <line x1="0" y1="120" x2="1200" y2="120" stroke="#c2410c" stroke-width="4"/>
-    <g transform="translate(150 120)">
-      <ellipse cx="0" cy="70" rx="46" ry="58" fill="#c2410c"/>
-      <rect x="-22" y="8" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-22" y="124" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-14" y="0" width="28" height="12" fill="#7c2d12"/>
+    <g transform="translate(60,116)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(200,124)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(340,131)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(480,136)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(620,137)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(760,134)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(900,127)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+    <g transform="translate(1040,117)"><rect x="-5" y="-17" width="10" height="4" fill="#4a3320"/><ellipse rx="11" ry="14" fill="url(#lan)"/><rect x="-5" y="13" width="10" height="4" fill="#4a3320"/></g>
+  </g>
+
+  <!-- 縁日の屋台。肩を寄せ合って隙間なく並べる。庇は紅白の縦縞 -->
+  <g>
+    <rect x="0" y="470" width="1200" height="160" fill="#0f1c30"/>
+    <rect x="0" y="474" width="1200" height="34" fill="#ffd68a" opacity=".85"/>
+    <rect x="0" y="508" width="1200" height="28" fill="url(#glow)"/>
+    <!-- 庇 -->
+    <rect x="0" y="432" width="1200" height="38" fill="#c62b34"/>
+    <g fill="#f7f0e2" opacity=".92">
+      <rect x="30" y="432" width="30" height="38"/><rect x="90" y="432" width="30" height="38"/>
+      <rect x="150" y="432" width="30" height="38"/><rect x="210" y="432" width="30" height="38"/>
+      <rect x="270" y="432" width="30" height="38"/><rect x="330" y="432" width="30" height="38"/>
+      <rect x="390" y="432" width="30" height="38"/><rect x="450" y="432" width="30" height="38"/>
+      <rect x="510" y="432" width="30" height="38"/><rect x="570" y="432" width="30" height="38"/>
+      <rect x="630" y="432" width="30" height="38"/><rect x="690" y="432" width="30" height="38"/>
+      <rect x="750" y="432" width="30" height="38"/><rect x="810" y="432" width="30" height="38"/>
+      <rect x="870" y="432" width="30" height="38"/><rect x="930" y="432" width="30" height="38"/>
+      <rect x="990" y="432" width="30" height="38"/><rect x="1050" y="432" width="30" height="38"/>
+      <rect x="1110" y="432" width="30" height="38"/><rect x="1170" y="432" width="30" height="38"/>
     </g>
-    <g transform="translate(400 120)">
-      <ellipse cx="0" cy="86" rx="54" ry="68" fill="#ea580c"/>
-      <rect x="-26" y="18" width="52" height="9" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-26" y="148" width="52" height="9" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-16" y="0" width="32" height="14" fill="#7c2d12"/>
-    </g>
-    <g transform="translate(1050 120)">
-      <ellipse cx="0" cy="70" rx="46" ry="58" fill="#ea580c"/>
-      <rect x="-22" y="8" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-22" y="124" width="44" height="8" fill="#fdfaf5" opacity=".75"/>
-      <rect x="-14" y="0" width="28" height="12" fill="#7c2d12"/>
+    <rect x="0" y="467" width="1200" height="4" fill="#2a1c05" opacity=".45"/>
+    <!-- 柱。屋台どうしの境目 -->
+    <g fill="#241606" opacity=".8">
+      <rect x="238" y="432" width="6" height="198"/><rect x="478" y="432" width="6" height="198"/>
+      <rect x="718" y="432" width="6" height="198"/><rect x="958" y="432" width="6" height="198"/>
     </g>
   </g>
 
-  <text x="100" y="380" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
-        font-size="86" font-weight="700" fill="#1c1917">お祭りマップ</text>
-  <text x="100" y="452" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
-        font-size="38" fill="#78716c">全国の祭りを、町内会のものまで</text>
-  <text x="100" y="530" font-family="'Hiragino Sans','Noto Sans JP',sans-serif"
-        font-size="28" fill="#c2410c">大手サイトに載らない自治会の盆踊りまで、出典つきで</text>
+  <!-- そぞろ歩く人。屋台の明かりを背にした影 -->
+  <g fill="#050b16">
+    <g transform="translate(120,630)"><circle cy="-104" r="17"/><path d="M-17 -87h34l12 87h-58z"/></g>
+    <g transform="translate(196,630)"><circle cy="-96" r="15"/><path d="M-15 -80h30l10 80h-50z"/></g>
+    <g transform="translate(560,630)"><circle cy="-100" r="16"/><path d="M-16 -84h32l11 84h-54z"/></g>
+    <g transform="translate(628,630)"><circle cy="-92" r="14"/><path d="M-14 -77h28l10 77h-48z"/></g>
+    <g transform="translate(1010,630)"><circle cy="-98" r="16"/><path d="M-16 -82h32l11 82h-54z"/></g>
+  </g>
+
+  <rect x="0" y="300" width="1200" height="330" fill="url(#scrim)"/>
+
+  <!-- 名前。ここだけは文字。焼き印は header の .seal と同じ茜 -->
+  <g transform="translate(80,236)">
+    <rect x="0" y="-56" width="76" height="76" rx="10" fill="#b02730" transform="rotate(-3 38 -18)"/>
+    <text x="38" y="-2" text-anchor="middle" font-family="Hiragino Sans, Noto Sans JP, Yu Gothic, Meiryo, sans-serif"
+          font-size="50" font-weight="700" fill="#fff">祭</text>
+    <text x="104" y="4" font-family="Hiragino Sans, Noto Sans JP, Yu Gothic, Meiryo, sans-serif"
+          font-size="72" font-weight="800" fill="#fdf6e6" letter-spacing="3">お祭りマップ</text>
+  </g>
+  <text x="80" y="316" font-family="Hiragino Sans, Noto Sans JP, Yu Gothic, Meiryo, sans-serif"
+        font-size="34" fill="#cfe0f0">全国、町内会の盆踊りまで</text>
+  <text x="80" y="372" font-family="Hiragino Sans, Noto Sans JP, Yu Gothic, Meiryo, sans-serif"
+        font-size="26" fill="#9fb8d0">すべて出典と最終確認日つき　omatsuri-map.com</text>
 </svg>
