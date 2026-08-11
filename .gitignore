@@ -2,3 +2,9 @@ node_modules/
 dist/
 .astro/
 .DS_Store
+
+# クロールしたページの控え。**380MB・13,329 ファイルあり、リポジトリを運ぶだけで重い。**
+# ビルド（validate + astro build）は data/festivals と data/areas しか読まないので、
+# ここを持ち歩く必要がない。取り直せるものなので手元にだけ置く。
+# 消すと enrich が再クロールから始まるだけで、公開中のデータは失われない。
+data/raw/
