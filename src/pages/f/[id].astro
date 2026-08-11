@@ -17,25 +17,48 @@ export function getStaticPaths() {
     groups.set(k, (groups.get(k) ?? 0) + 1);
   }
   // 衝突している組の中で、どこまで細かくすれば全員バラバラになるかを決める
+  // 衝突している組だけを集める。`locators()` は 1 件につき 1 回しか呼ばない
+  const peersOf = new Map();
+  for (const f of all) {
+    const k = `${f.area.city}${f.area.ward ?? ''}|${f.name}`;
+    if (groups.get(k) === 1) continue;
+    if (!peersOf.has(k)) peersOf.set(k, []);
+    peersOf.get(k).push(f);
+  }
+  const candOf = new Map();
+  for (const list of peersOf.values()) for (const f of list) candOf.set(f.id, locators(f));
+
   const whereOf = new Map();
   for (const f of all) {
     const k = `${f.area.city}${f.area.ward ?? ''}|${f.name}`;
-    const cand = locators(f);
-    if (groups.get(k) === 1) { whereOf.set(f.id, cand[0]); continue; }
-    const peers = all.filter((x) => `${x.area.city}${x.area.ward ?? ''}|${x.name}` === k);
+    if (groups.get(k) === 1) { whereOf.set(f.id, locators(f)[0]); continue; }
+    const cand = candOf.get(f.id);
+    const peers = peersOf.get(k);
     // 粗い方から試して、その粒度で自分だけになる最初のものを使う
     const lv = [1, 2, 3].find((i) =>
-      peers.filter((x) => locators(x)[i] === cand[i]).length === 1);
+      peers.filter((x) => candOf.get(x.id)[i] === cand[i]).length === 1);
     whereOf.set(f.id, cand[lv ?? 1]);
+  }
+
+  /**
+   * 同じ市区町村ごとに先に束ねておく。
+   *
+   * **1 件ごとに全件を filter していた。** 5,000 件なら 2,500 万回の走査になり、
+   * ページが増えるほど二乗で効いてくる。ビルドが 10 分を超えてきたのはこれが一因。
+   * Cloudflare Pages のビルドは 20 分で打ち切られるので、ここは効く。
+   */
+  const nearbyOf = new Map();
+  for (const x of all) {
+    const k = `${x._prefSlug}/${x._citySlug}/${x.area.ward ?? ''}`;
+    if (!nearbyOf.has(k)) nearbyOf.set(k, []);
+    nearbyOf.get(k).push(x);
   }
 
   return all.map((f) => {
     // 同じ市区町村の他の祭り。1 件見た人は「近所で他に何かないか」を知りたい。
     // これが無いと詳細ページが行き止まりになる
-    const nearby = all
-      .filter((x) => x.id !== f.id
-        && x._prefSlug === f._prefSlug && x._citySlug === f._citySlug
-        && (x.area.ward ?? null) === (f.area.ward ?? null))
+    const nearby = (nearbyOf.get(`${f._prefSlug}/${f._citySlug}/${f.area.ward ?? ''}`) ?? [])
+      .filter((x) => x.id !== f.id)
       .map((x) => {
         const o = [...(x.occurrences ?? [])].sort((a, b) => b.year - a.year)[0];
         return { x, next: (o?.dates ?? []).find((d) => d >= today) ?? null, o };
