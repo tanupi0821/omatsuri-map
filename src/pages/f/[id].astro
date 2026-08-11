@@ -80,6 +80,23 @@ const SOURCE_TIER = {
   aggregator: 'まとめサイト',
 };
 
+/**
+ * **無料であることを `offers` の形でも出す。**
+ *
+ * Search Console は Event に `offers` が無いと「改善できる」と言う。
+ * `isAccessibleForFree: true` と同じ主張を、Google が読む形で書くだけなので、
+ * 新しく何かを断定するわけではない。**有料席があるもの・確かめていないものには
+ * 付けない**（価格を知らないのに price を書くことになる）。
+ */
+const FREE_OFFER = {
+  offers: {
+    '@type': 'Offer',
+    price: '0',
+    priceCurrency: 'JPY',
+    availability: 'https://schema.org/InStock',
+  },
+};
+
 const { f, nearby, where } = Astro.props;
 const occ = latestOccurrence(f);
 const past = [...(f.occurrences ?? [])].sort((a, b) => b.year - a.year).slice(1);
@@ -135,7 +152,23 @@ const jsonld =
             streetAddress: f.venue.address ?? f.venue.name,
           },
         },
-        ...(f.organizer ? { organizer: { '@type': 'Organization', name: f.organizer } } : {}),
+        /**
+         * 主催。**出典が主催者の公式発表なら、その URL は主催者のページ**なので
+         * `organizer.url` に入れてよい。行政やメディアの記事は主催者のページでは
+         * ないので入れない（Search Console は「url がありません」と言うが、
+         * 別人の URL を主催者の URL として出す方が悪い）。
+         */
+        ...(f.organizer
+          ? {
+              organizer: {
+                '@type': 'Organization',
+                name: f.organizer,
+                ...(occ?.source_type === 'official' && occ?.source_url
+                  ? { url: occ.source_url }
+                  : {}),
+              },
+            }
+          : {}),
         /**
          * **入場無料と言い切れるものだけ言う。**
          * 町内会の盆踊り・神社の例祭で入場料を取ることは実質ないので断定してよいが、
@@ -143,8 +176,8 @@ const jsonld =
          * （`paid_seats` が `no` と確認できたものだけ無料と申告する）。
          */
         ...(f.kind === '花火' || /花火/.test(f.name)
-          ? (f.paid_seats === 'no' ? { isAccessibleForFree: true } : {})
-          : { isAccessibleForFree: true }),
+          ? (f.paid_seats === 'no' ? { isAccessibleForFree: true, ...FREE_OFFER } : {})
+          : { isAccessibleForFree: true, ...FREE_OFFER }),
         // **画像と説明が無いと Search Console が警告を出す**（Event の推奨項目）。
         // 写真があるものは 184 件しかないので、無いときはサイトの既定の画像を使う。
         // 説明は本文と同じものを渡す（別の文を作ると食い違う）
