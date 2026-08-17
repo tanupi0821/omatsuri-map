@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 北九州市門司区内
-  address: 福岡県北九州市門司区西海岸1
+  address: 北九州市門司区西海岸1
   lat: null
   lng: null
 organizer: null
@@ -25,13 +25,11 @@ occurrences:
     dates:
       - 2026-11-14
       - 2026-11-15
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
     source_name: 北九州市門司区
     source_type: gov
     checked_at: 2026-08-05
-  - start_time: 10:00
-    end_time: 16:00
     note: 時刻は前回(2025年)の発表による

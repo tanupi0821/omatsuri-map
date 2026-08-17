@@ -1,0 +1,217 @@
+---
+/**
+ * 記事: 町内会の盆踊りの探し方
+ *
+ * 「大手に載らない」は感想ではなく、出典の内訳を数えれば出る事実。
+ * まずそれを見せてから、では実際どこにあるのか、という順で書く。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('find-local-bon-odori');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const SRC_LABEL = { official: '主催者・神社の公式', gov: '行政の発表', media: '地域メディア', aggregator: 'まとめサイト' };
+const SRC_ORDER = ['aggregator', 'media', 'gov', 'official'];
+
+// 規模ごとの件数と出典の内訳
+const SCALES = ['市', '区', '地区', '町内会'];
+const scaleRows = SCALES.map((s) => {
+  const list = all.filter((f) => f.scale === s);
+  const src = {};
+  for (const f of list) {
+    const t = latestOccurrence(f)?.source_type ?? 'other';
+    src[t] = (src[t] ?? 0) + 1;
+  }
+  return { s, n: list.length, src };
+}).filter((r) => r.n > 0);
+
+const small = all.filter((f) => f.scale === '町内会' || f.scale === '地区');
+const smallSrc = {};
+for (const f of small) {
+  const t = latestOccurrence(f)?.source_type ?? 'other';
+  smallSrc[t] = (smallSrc[t] ?? 0) + 1;
+}
+const bigAgg = all.filter((f) => f.scale === '市' && latestOccurrence(f)?.source_type === 'aggregator').length;
+const bigN = all.filter((f) => f.scale === '市').length;
+
+// 自治体のサイトを出典にしているもの
+const govList = all.filter((f) => latestOccurrence(f)?.source_type === 'gov');
+const govDom = new Set();
+for (const f of govList) {
+  try { govDom.add(new URL(latestOccurrence(f).source_url).hostname.replace(/^www\./, '')); } catch { /* 検証で弾かれる */ }
+}
+
+// 町内会・地区規模が厚い市区町村
+const cities = new Map();
+for (const f of small) {
+  const k = `${f.area.pref}|${f.area.city}${f.area.ward ?? ''}`;
+  if (!cities.has(k)) cities.set(k, { pref: f.area.pref, place: `${f.area.city}${f.area.ward ?? ''}`, slug: f._prefSlug, citySlug: f._citySlug, n: 0 });
+  cities.get(k).n++;
+}
+const topCities = [...cities.values()].sort((a, b) => b.n - a.n).slice(0, 12);
+
+// 盆踊りが多い市区町村
+const bon = all.filter((f) => f.kind === '盆踊り');
+const bonCities = new Map();
+for (const f of bon) {
+  const k = `${f.area.pref}|${f.area.city}${f.area.ward ?? ''}`;
+  if (!bonCities.has(k)) bonCities.set(k, { pref: f.area.pref, place: `${f.area.city}${f.area.ward ?? ''}`, slug: f._prefSlug, citySlug: f._citySlug, n: 0 });
+  bonCities.get(k).n++;
+}
+const topBon = [...bonCities.values()].sort((a, b) => b.n - a.n).slice(0, 8);
+
+// 1件しか掲載できていない市区町村
+const perCity = new Map();
+for (const f of all) {
+  const k = `${f.area.pref}|${f.area.city}${f.area.ward ?? ''}`;
+  perCity.set(k, (perCity.get(k) ?? 0) + 1);
+}
+const thin = [...perCity.values()].filter((v) => v <= 2).length;
+---
+
+<Guide
+  title={g.title}
+  description={`町内会・地区規模の祭り${small.length.toLocaleString()}件の出典を数えると、全国型のイベントサイト由来は${pct(smallSrc.aggregator ?? 0, small.length)}%しかありません。では実際どこに情報があるのかを整理しました。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    近所の盆踊りに行きたいのに、検索しても出てこない。
+    出てくるのは駅前の大きな祭りばかり。
+    これは探し方が悪いのではなく、<strong>そもそも情報が置かれている場所が違う</strong>からです。
+    当サイトのデータで、それがはっきり数字に出ます。
+  </p>
+
+  <h2>大手に載らないことは、数えれば分かる</h2>
+  <p>
+    掲載中の祭りを規模で分け、それぞれ<strong>どこから拾ってきたか</strong>を並べました。
+  </p>
+  <div class="tw">
+    <table>
+      <thead>
+        <tr>
+          <th>規模</th><th>掲載数</th>
+          {SRC_ORDER.map((t) => <th>{SRC_LABEL[t]}</th>)}
+        </tr>
+      </thead>
+      <tbody>
+        {scaleRows.map((r) => (
+          <tr>
+            <td>{r.s}規模</td>
+            <td class="n">{r.n.toLocaleString()}</td>
+            {SRC_ORDER.map((t) => <td class="n">{pct(r.src[t] ?? 0, r.n)}%</td>)}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="key">
+    市が主催するような大きな祭りは、{pct(bigAgg, bigN)}%が全国型のイベントサイトから拾えます。
+    ところが町内会・地区規模の{small.length.toLocaleString()}件では、
+    その割合は<strong>{pct(smallSrc.aggregator ?? 0, small.length)}%</strong>しかありません。
+    大手のイベントサイトを何時間眺めても近所の盆踊りが出てこないのは、当然のことでした。
+  </p>
+  <p>
+    かわりに効いているのが、地域メディア（{pct(smallSrc.media ?? 0, small.length)}%）、
+    神社や町会自身の発信（{pct(smallSrc.official ?? 0, small.length)}%）、
+    そして自治体の発表（{pct(smallSrc.gov ?? 0, small.length)}%）です。
+    当サイトはこの三つを一件ずつ辿って集めています。
+  </p>
+
+  <h2>情報が実際にある場所</h2>
+  <h3>1. 市区町村・区役所のイベント一覧</h3>
+  <p>
+    いちばん確実な公開情報です。当サイトも{govDom.size}のドメインの自治体サイトから
+    {govList.length.toLocaleString()}件を拾っています。
+    区役所の広報紙、区のイベントカレンダー、地域振興課のお知らせページ。
+    「◯◯区 イベント 8月」で探すと出てきます。
+    小さな祭りを一覧にしている自治体と、まったく載せない自治体の差が非常に大きく、
+    このばらつきがそのまま当サイトの地域の偏りになっています。
+  </p>
+  <h3>2. 町会・自治会連合会のサイト</h3>
+  <p>
+    町会が自分でサイトを持っていることがあります。
+    区の町会連合会がまとめて夏祭りの日程を出している地域もあり、
+    そこには他のどこにも載っていない祭りが並んでいます。
+    「◯◯区 町会連合会」「◯◯町内会」で探してみてください。
+  </p>
+  <h3>3. 神社の掲示と氏子会</h3>
+  <p>
+    例祭に合わせて盆踊りや縁日をやる神社は多く、その告知は境内の掲示板に出ます。
+    都道府県の神社庁が公開している例祭日の一覧も手がかりになります。
+    ただし例祭日は<a href="/guides/shrine-reisai-dates/">決まりで書かれている</a>ことが多く、
+    今年の日付は自分で計算するか、現地で確かめる必要があります。
+  </p>
+  <h3>4. 掲示板と回覧板</h3>
+  <p>
+    最後はここです。
+    町内会の盆踊りは、<strong>インターネットに一度も出ないまま終わる</strong>ことがあります。
+    公園のフェンス、集会所の掲示板、スーパーの入口、電柱の貼り紙。
+    近所を一周するのがいちばん早い、という状況が実際にあります。
+    当サイトが原理的に拾えないのも、この層です。
+  </p>
+
+  <h2>当サイトで探すとき</h2>
+  <p>
+    町内会・地区規模の祭りが厚く集まっている市区町村です。
+    お住まいの地域が入っていれば、そのページから一覧で見られます。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>市区町村</th><th>町内会・地区規模</th></tr></thead>
+      <tbody>
+        {topCities.map((c) => (
+          <tr>
+            <td><a href={`/a/${c.slug}/${c.citySlug}/`}>{c.place}</a>（{c.pref}）</td>
+            <td class="n">{c.n}件</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>盆踊りに限ると、こうなります。</p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>市区町村</th><th>盆踊り</th></tr></thead>
+      <tbody>
+        {topBon.map((c) => (
+          <tr>
+            <td><a href={`/a/${c.slug}/${c.citySlug}/`}>{c.place}</a>（{c.pref}）</td>
+            <td class="n">{c.n}件</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="caveat">
+    <p>
+      この表は「その街に祭りが多い」ことを示すものではありません。
+      <strong>その街の情報が公開されていて、当サイトが拾えた</strong>ことを示すだけです。
+      掲載が2件以下の市区町村がまだ{thin.toLocaleString()}あります。
+      そこに祭りが無いのではなく、こちらが見つけられていません。
+    </p>
+  </div>
+
+  <h2>探す手順のまとめ</h2>
+  <ol>
+    <li>当サイトの<a href="/search/">さがす</a>で市区町村と日付を指定する。まずここで当たりを付ける</li>
+    <li>見つからなければ、その市区町村の公式サイトで「イベント」「夏まつり」を探す</li>
+    <li>町会連合会のサイトと、近所の神社の告知を見る</li>
+    <li>七月に入ったら、公園と集会所の掲示板を見に行く。ここが最終手段で、いちばん確実です</li>
+  </ol>
+  <p>
+    そして見つけた祭りが当サイトに載っていなかったら、
+    <a href="/about/">連絡先</a>から教えてください。次に探す人のためのデータになります。
+  </p>
+  <p>
+    いつごろ開かれるかの見当は
+    <a href="/guides/bon-odori-calendar/">盆踊りは何月に多いのか</a>、
+    はじめて行くときの勝手は
+    <a href="/guides/first-bon-odori/">はじめての盆踊り・縁日の歩き方</a>にまとめています。
+  </p>
+</Guide>

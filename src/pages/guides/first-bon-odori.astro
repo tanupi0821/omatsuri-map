@@ -1,0 +1,209 @@
+---
+/**
+ * 記事: はじめての盆踊り・縁日の歩き方
+ *
+ * この記事だけは一般知識に寄る。だからこそ、**言えることは全部データで裏を取る**。
+ * 「夕方から」ではなく「18時台が最多で◯%」と書く。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('first-bon-odori');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const hourOf = (t) => Number(String(t).slice(0, 2));
+const minsOf = (t) => Number(String(t).slice(0, 2)) * 60 + Number(String(t).slice(3, 5));
+
+function timeStats(list) {
+  const starts = [];
+  const ends = [];
+  const durs = [];
+  for (const f of list) {
+    const o = latestOccurrence(f);
+    if (o?.start_time) starts.push(o.start_time);
+    if (o?.end_time) ends.push(o.end_time);
+    if (o?.start_time && o?.end_time) {
+      const d = minsOf(o.end_time) - minsOf(o.start_time);
+      if (d > 0) durs.push(d);
+    }
+  }
+  durs.sort((a, b) => a - b);
+  const byHour = new Map();
+  for (const t of starts) byHour.set(hourOf(t), (byHour.get(hourOf(t)) ?? 0) + 1);
+  return {
+    n: list.length,
+    starts: starts.length,
+    ends: ends.length,
+    byHour: [...byHour].sort((a, b) => a[0] - b[0]),
+    top: [...byHour].sort((a, b) => b[1] - a[1])[0] ?? null,
+    med: durs.length ? durs[Math.floor(durs.length / 2)] : null,
+    endTop: [...ends.reduce((m, t) => m.set(t, (m.get(t) ?? 0) + 1), new Map())]
+      .sort((a, b) => b[1] - a[1]).slice(0, 4),
+  };
+}
+
+const bon = timeStats(all.filter((f) => f.kind === '盆踊り'));
+const natsu = timeStats(all.filter((f) => f.kind === '夏祭り'));
+const hana = timeStats(all.filter((f) => f.kind === '花火'));
+const allT = timeStats(all);
+const maxBon = Math.max(...bon.byHour.map(([, v]) => v));
+
+// 開始時刻そのものの上位
+const exact = new Map();
+for (const f of all) {
+  const t = latestOccurrence(f)?.start_time;
+  if (t) exact.set(t, (exact.get(t) ?? 0) + 1);
+}
+const topExact = [...exact].sort((a, b) => b[1] - a[1]).slice(0, 6);
+
+// 屋台
+const stallsYes = all.filter((f) => f.stalls === 'yes').length;
+// 曜日
+const WD = ['日', '月', '火', '水', '木', '金', '土'];
+const wd = new Array(7).fill(0);
+let D = 0;
+for (const f of all) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) {
+  const [y, m, dd] = d.split('-').map(Number);
+  wd[new Date(Date.UTC(y, m - 1, dd)).getUTCDay()]++;
+  D++;
+}
+---
+
+<Guide
+  title={g.title}
+  description={`盆踊りの開始時刻は18時台が最多で${bon.top ? pct(bon.top[1], bon.starts) : ''}%、終わりは21時ごろ、続く時間の中央値は${bon.med}分。掲載データの時刻から、はじめて行く人が迷いやすいところを説明します。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    近所の盆踊りに行ってみようと思ったとき、いちばん困るのは
+    「何時に行けばいいのか」だと思います。
+    始まる時刻は書いてあっても、盛り上がるのが何時なのか、何時まで屋台が出ているのかは書いてありません。
+    掲載中の{N.toLocaleString()}件のうち、開始時刻が分かっているものが{allT.starts.toLocaleString()}件あるので、
+    そこから見当をつけてみます。
+  </p>
+
+  <h2>盆踊りは18時台に始まる</h2>
+  <ul class="bars">
+    {bon.byHour.filter(([, v]) => v > 0).map(([h, v]) => (
+      <li>
+        <span class="k">{h}時台</span>
+        <span class={`b${v / maxBon < 0.08 ? ' dim' : ''}`} style={`width:${(v / maxBon) * 100}%`}></span>
+        <span class="v">{v}件（{pct(v, bon.starts)}%）</span>
+      </li>
+    ))}
+  </ul>
+  <p class="key">
+    {bon.top && (<>いちばん多いのは{bon.top[0]}時台で、開始時刻の分かっている{bon.starts}件のうち{pct(bon.top[1], bon.starts)}%。</>)}
+    17時台と合わせると過半数になります。
+    <strong>18時に着けば、たいていの会場は始まったところか、始まる直前です。</strong>
+  </p>
+  <p>
+    実際の時刻としては、こう書かれているものが多くありました（種類を問わない全体の集計です）。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>開始時刻</th><th>件数</th></tr></thead>
+      <tbody>
+        {topExact.map(([t, v]) => (
+          <tr><td>{t}</td><td class="n">{v}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    30分刻みではなく、きっちり正時に始まるものが目立ちます。
+    早めに着いて、屋台を見ながら開始を待つのがちょうどいい配分です。
+  </p>
+
+  <h2>終わりは21時ごろ、続くのは3時間</h2>
+  <p>
+    盆踊りの終了時刻でいちばん多いのは
+    {bon.endTop.map(([t, v], i) => (<>{i > 0 ? '、次いで' : ''}{t}（{v}件）</>))}でした。
+    始まりと終わりの両方が分かっているものから続く時間を出すと、中央値は{bon.med}分です。
+    夏祭り全体では{natsu.med}分、花火大会は{hana.med}分。
+  </p>
+  <p>
+    住宅地のなかでやる行事なので、<strong>21時にはきっちり終わります</strong>。
+    音を出せる時間に制限があるからです。
+    20時半をまわると片づけが始まり、屋台から品切れが出ます。
+    最後まで見るつもりなら、19時台には着いておきたいところです。
+  </p>
+
+  <h2>種類によって時間帯がまるで違う</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>種類</th><th>開始時刻が分かるもの</th><th>いちばん多い時間帯</th><th>続く時間の中央値</th></tr></thead>
+      <tbody>
+        <tr><td>盆踊り</td><td class="n">{bon.starts}</td><td>{bon.top?.[0]}時台</td><td class="n">{bon.med}分</td></tr>
+        <tr><td>夏祭り</td><td class="n">{natsu.starts.toLocaleString()}</td><td>{natsu.top?.[0]}時台</td><td class="n">{natsu.med}分</td></tr>
+        <tr><td>花火大会</td><td class="n">{hana.starts}</td><td>{hana.top?.[0]}時台</td><td class="n">{hana.med}分</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p>
+    夏祭りは幅が広く、朝から夕方まで続くものと、夕方だけのものが混ざります。
+    子ども向けの催しを昼にやり、夜は盆踊り、という二部構成の祭りが多いためです。
+    花火大会は19時台が中心で、続く時間はいちばん短くなります。
+    <strong>花火は開始の1時間以上前に場所を取る必要がある</strong>ので、
+    表の数字より長い時間を見ておいてください。
+  </p>
+
+  <h2>持っていくもの</h2>
+  <ul>
+    <li>
+      <strong>小銭。</strong>町内会の模擬店は現金だけのところがほとんどです。
+      チケット制の会場もあり、入口で買う形になります。千円札と小銭を用意していくと確実です。
+    </li>
+    <li>
+      <strong>虫よけ。</strong>公園や河川敷の会場では効きます。
+    </li>
+    <li>
+      <strong>羽織るもの。</strong>21時をまわると、河原は思ったより冷えます。
+    </li>
+    <li>
+      <strong>ごみ袋。</strong>小さな会場ではごみ箱が置かれないことがあります。
+      屋台の容器は自分で持ち帰る前提でいるほうが安全です。
+    </li>
+  </ul>
+  <p>
+    屋台が出るかどうかは、当サイトの一覧でしるしを付けています。
+    現在しるしが付いているのは{stallsYes.toLocaleString()}件。
+    ただし<strong>しるしが無いものは「出ない」ではなく「分からない」</strong>です。
+    このあたりの事情は<a href="/guides/stalls-data/">屋台が出る祭りはどれくらいあるのか</a>に書きました。
+  </p>
+
+  <h2>踊りの輪に入っていいのか</h2>
+  <p>
+    町内会の盆踊りは、住民の行事です。ただ、輪に入るのを断る会場はまず無いと思っていいはずです。
+    櫓のまわりを回るだけの踊りが多く、前の人の動きを真似ていれば形になります。
+    <strong>逆回りにならないよう、輪の流れる向きだけ見てから入ってください。</strong>
+    踊りの合間に子ども向けの抽選会や、地域の団体の演目が入ることもあります。
+  </p>
+  <p>
+    写真を撮るときは、他の参加者の顔が大きく写らないように気をつけてください。
+    近所の人たちの集まりなので、公開されている祭りとはいえ配慮が要ります。
+  </p>
+
+  <h2>いつ行くか</h2>
+  <p>
+    掲載中の開催日{D.toLocaleString()}日分を曜日で数えると、
+    土曜が{pct(wd[6], D)}%、日曜が{pct(wd[0], D)}%、金曜が{pct(wd[5], D)}%です。
+    週末に寄っているので、土曜の夕方に予定を空けておけば選択肢がいちばん多くなります。
+    どの週末が混むかは<a href="/guides/crowded-days/">祭りが重なる日、空いている週末</a>に、
+    月ごとの分布は<a href="/guides/bon-odori-calendar/">盆踊りは何月に多いのか</a>にまとめました。
+  </p>
+  <div class="caveat">
+    <p>
+      開始時刻が分かっているのは掲載全体の{pct(allT.starts, N)}%です。
+      残りは出典に時刻が書かれていません。
+      各ページの出典リンクから主催者の告知を開くのがいちばん確実です。
+      荒天のときの扱いも祭りごとに違うので、
+      <a href="/guides/cancelled-postponed/">中止・延期は、どう知ればいいのか</a>も見ておいてください。
+    </p>
+  </div>
+</Guide>

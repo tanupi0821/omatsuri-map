@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 沼津市内
-  address: null
+  address: 静岡県沼津市原1200-3（原地区センター）
   lat: null
   lng: null
 organizer: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 19:30
     status: confirmed
     source_url: http://izu.keizai.biz/headline/2491/
     source_name: 沼津経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 昼の部11:30〜15:30、夕方・夜の部16:00〜19:30。20:00から会場北側・井出地先で花火約1000発。荒天時は8/2に順延

@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 北区内
-  address: null
+  address: 東京都北区王子本町1丁目1-12（王子神社）
   lat: null
   lng: null
-organizer: null
+organizer: 王子神社
 stalls: unknown
 tags: []
 description: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: 赤羽マガジン新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 8/7宵宮は18:30から盆踊り、8/8・8/9はおみこしが出る（田楽舞奉納は今年は9/27に分離開催）

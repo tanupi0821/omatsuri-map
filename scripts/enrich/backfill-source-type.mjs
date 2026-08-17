@@ -73,9 +73,11 @@ for (const path of walk(join(ROOT, 'data', 'festivals'))) {
       o.source_type = t;
       filled++;
       changed = true;
-    } else {
+    } else if (o.source_url) {
       unknown.add(new URL(o.source_url).hostname);
     }
+    // source_url の無い開催回で new URL(undefined) になり collect 全体が
+    // 止まったことがある。無いものは黙って飛ばす（validate が別途拾う）
   }
 
   if (changed) writeFileSync(path, stringify(f, { lineWidth: 0 }), 'utf8');

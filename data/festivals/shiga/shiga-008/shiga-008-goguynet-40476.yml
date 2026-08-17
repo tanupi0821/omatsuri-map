@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 近江八幡市内
-  address: null
+  address: 滋賀県近江八幡市安土町常楽寺1（沙沙貴神社）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 沙沙貴神社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 沙沙貴神社
+    url: https://sasakijinja.or.jp/event/
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +30,4 @@ occurrences:
     source_name: 号外NET 東近江市・近江八幡市
     source_type: media
     checked_at: 2026-08-04
+    note: 1日目は宵宮祭・大松明奉納、2日目は沙沙貴十二座神事・子供まつり・管絃祭（例年の内容）

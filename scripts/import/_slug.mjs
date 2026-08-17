@@ -75,6 +75,24 @@ function scanFestivalDirs(root) {
  * @param {string} root リポジトリのルート
  * @returns {{get(pref,city):string|null, assign(pref,city,prefSlug,base?):string}}
  */
+/**
+ * **政令市の区は、市の slug に割ってから引く。**
+ *
+ * 「千葉市美浜区」を市の名前のまま引くと、定義にもディレクトリにも無いので
+ * 新しい連番を発行してしまう。しかも前回発行したディレクトリは統合で消えて
+ * いるから、**実行のたびに別の番号**（chiba-906 → chiba-908 …）になり、
+ * 統合の記録（merged.json）では追えない重複が毎回 17 組再生していた。
+ * `src/lib/data.js` の splitWard と同じ判定で、先に市へ寄せる。
+ */
+const SEIREI = [
+  '札幌市', '仙台市', 'さいたま市', '千葉市', '横浜市', '川崎市', '相模原市',
+  '新潟市', '静岡市', '浜松市', '名古屋市', '京都市', '大阪市', '堺市', '神戸市',
+  '岡山市', '広島市', '北九州市', '福岡市', '熊本市',
+];
+export function cityOfWard(raw) {
+  return SEIREI.find((c) => raw !== c && raw.startsWith(c) && raw.endsWith('区')) ?? null;
+}
+
 export function makeSlugPool(root) {
   /** `${pref}|${city}` → slug。既に決まっているものは絶対に変えない */
   const known = new Map();
@@ -107,7 +125,8 @@ export function makeSlugPool(root) {
   return {
     /** 既に決まっている slug（無ければ null） */
     get(pref, city) {
-      return known.get(`${pref}|${city}`) ?? null;
+      const c = cityOfWard(city) ?? city;
+      return known.get(`${pref}|${c}`) ?? null;
     },
 
     /**
@@ -118,12 +137,15 @@ export function makeSlugPool(root) {
      * @param {number} base 連番の起点（インポーターごとに変える）
      */
     assign(pref, city, prefSlug, base = 1) {
-      const key = `${pref}|${city}`;
+      // 政令市の区は市に寄せる（「千葉市美浜区」→ 千葉市の slug）。
+      // ここで寄せないと、区の名前に毎回新しい連番を発行してしまう
+      const c = cityOfWard(city) ?? city;
+      const key = `${pref}|${c}`;
       if (known.has(key)) return known.get(key);
       const set = used;
 
       // まずはローマ字表があればそれ。空いていなければ県ごとの連番
-      let slug = citySlug(city);
+      let slug = citySlug(c);
       if (!slug || set.has(slug)) {
         let n = Math.max(seq.get(prefSlug) ?? 0, base - 1);
         do {

@@ -4,6 +4,7 @@ import FestivalList from '../components/FestivalList.astro';
 import Hero from '../components/Hero.astro';
 import { loadFestivals, latestOccurrence } from '../lib/data.js';
 import { PREFS, REGIONS } from '../../scripts/lib/prefs.mjs';
+import { GUIDES } from '../lib/guides.js';
 
 const festivals = loadFestivals();
 
@@ -74,6 +75,15 @@ const byRegion = REGIONS
     </>
   ))}
 
+  <h2>読みもの</h2>
+  <p class="lede">掲載している{festivals.length.toLocaleString()}件のデータを実際に数えて書いた記事です。</p>
+  <ul class="guides">
+    {GUIDES.slice(0, 4).map((g) => (
+      <li><a href={`/guides/${g.slug}/`}>{g.title}</a></li>
+    ))}
+    <li class="more"><a href="/guides/">読みもの一覧 →</a></li>
+  </ul>
+
   <h2>これから開催される祭り</h2>
   <p class="lede">開催日の近い順に {upcoming.length} 件。エリアで絞るときは上の都道府県から選んでください。</p>
   <FestivalList festivals={upcoming} />
@@ -103,5 +113,10 @@ const byRegion = REGIONS
       background: var(--card);
     }
     .areas .c { font-size: 12px; color: var(--muted); }
+    /* 読みものへの導線。祭りの一覧と見分けが付くよう、丸ではなく行で並べる */
+    .guides { list-style: none; padding: 0; margin: 0; }
+    .guides li { margin-bottom: var(--s1); font-size: var(--t4); }
+    .guides li::before { content: "―"; color: var(--muted); margin-right: var(--s2); }
+    .guides .more { font-size: var(--t3); margin-top: var(--s2); }
   </style>
 </Base>

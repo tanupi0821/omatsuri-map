@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 加須市内
-  address: null
+  address: 埼玉県加須市中央1-11-41（加須市商工会館前、祭り本部）
   lat: null
   lng: null
-organizer: null
+organizer: 加須夏祭り委員会
 stalls: unknown
 tags: []
 description: null
@@ -21,10 +21,11 @@ occurrences:
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 22:00
     status: confirmed
     source_url: https://kazo-hanyu.goguynet.jp/2026/07/16/kazo-dontokoi-matsuri/
     source_name: 号外NET 加須市・羽生市・行田市
     source_type: media
     checked_at: 2026-08-04
+    note: 会場は加須駅北口周辺の市街地。加須市商工会・加須市物産観光協会が後援

@@ -12,12 +12,14 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links:
   - title: 北九州市のホームページ
     url: https://www.city.kitakyushu.lg.jp/yahatanishi/file_0131.html
+  - title: 北九州ノコト
+    url: https://kitaq.media/138849/
 occurrences:
   - year: 2026
     dates:

@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 台東区内
-  address: null
+  address: 東京都台東区浅草2-3-1（浅草神社）
   lat: null
   lng: null
-organizer: null
+organizer: 浅草神社奉賛会（氏子四十四ヶ町と浅草組合）
 stalls: unknown
 tags: []
 description: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-15
-    start_time: null
+    start_time: 13:00
     end_time: null
     status: confirmed
     source_url: https://taito.goguynet.jp/2026/05/11/sanjyamatsuri/
     source_name: 号外NET 台東区
     source_type: media
     checked_at: 2026-08-04
+    note: 5/15は大行列13:00・びんざさら舞14:20/15:00、5/16は例大祭式典10:00・各町神輿連合渡御12:00、5/17は本社神輿宮出し7:00

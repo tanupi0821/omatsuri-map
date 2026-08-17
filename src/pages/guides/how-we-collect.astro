@@ -1,0 +1,215 @@
+---
+/**
+ * 記事: 5,000件の祭りを、どう集めて確かめているか
+ *
+ * **できていることと同じ分量で、できていないことを書く。**
+ * ここで格好をつけると、他の記事の数字まで信用されなくなる。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence, staleDays } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+import { SITE_NAME } from '../../lib/site.js';
+
+const g = guideBySlug('how-we-collect');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const prefs = new Set(all.map((f) => f.area.pref)).size;
+const areas = new Set(all.map((f) => `${f.area.pref}/${f.area.city}/${f.area.ward ?? ''}`)).size;
+
+// 出典の四段階
+const TIERS = [
+  { t: 'official', k: '主催者・神社の公式発表', d: '主催者や神社、都道府県神社庁が自分で出しているもの' },
+  { t: 'gov', k: '行政の発表', d: '市区町村・区役所が公開しているイベント一覧' },
+  { t: 'media', k: '地域メディア', d: '地域の報道機関、地域に根ざした情報サイトの記事' },
+  { t: 'aggregator', k: 'まとめサイト', d: '全国のイベントを集めているサイト' },
+];
+for (const tier of TIERS) tier.n = all.filter((f) => latestOccurrence(f)?.source_type === tier.t).length;
+const maxTier = Math.max(...TIERS.map((t) => t.n));
+
+// 出典のドメイン
+const dom = new Map();
+for (const f of all) {
+  const u = latestOccurrence(f)?.source_url;
+  if (!u) continue;
+  try {
+    const h = new URL(u).hostname.replace(/^www\./, '');
+    dom.set(h, (dom.get(h) ?? 0) + 1);
+  } catch { /* 出典の URL が壊れているものは検証で弾かれる */ }
+}
+const lgjp = [...dom].filter(([h]) => /\.lg\.jp$|\.tokyo\.jp$|city\.|town\.|vill\./.test(h));
+const jinja = [...dom].filter(([h]) => /jinja|jinjacho/.test(h));
+const sum = (a) => a.reduce((x, y) => x + y[1], 0);
+
+// 検証で通していること
+const noSource = all.filter((f) => !latestOccurrence(f)?.source_url).length;
+const noChecked = all.filter((f) => !latestOccurrence(f)?.checked_at).length;
+const stale = all.filter((f) => staleDays(latestOccurrence(f)) > 180).length;
+
+// 埋まっている項目・埋まっていない項目
+const fields = [
+  { k: '出典のリンク', n: N - noSource },
+  { k: '最終確認日', n: N - noChecked },
+  { k: '会場の名前', n: all.filter((f) => f.venue?.name).length },
+  { k: '主催者', n: all.filter((f) => f.organizer).length },
+  { k: '最寄り駅からの道順', n: all.filter((f) => f.station).length },
+  { k: '地図に出せる座標', n: all.filter((f) => f.venue?.lat).length },
+  { k: '開始時刻', n: all.filter((f) => latestOccurrence(f)?.start_time).length },
+  { k: '屋台の有無', n: all.filter((f) => f.stalls === 'yes' || f.stalls === 'no').length },
+  { k: '写真', n: all.filter((f) => f.photos?.length).length },
+];
+
+const estimated = all.filter((f) => latestOccurrence(f)?.status === 'estimated').length;
+const stallsYes = all.filter((f) => f.stalls === 'yes').length;
+const stallsNo = all.filter((f) => f.stalls === 'no').length;
+const rec = all.filter((f) => f.recurrence).length;
+const recSourced = all.filter((f) => f.recurrence && f.recurrence_source).length;
+---
+
+<Guide
+  title={g.title}
+  description={`${SITE_NAME}が全国${areas}市区町村・${N.toLocaleString()}件の祭りをどう集め、どう検証しているか。出典の四段階、推定した日程の扱い、埋まっていない項目まで公開します。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    {SITE_NAME}は、{prefs}都道府県・{areas}市区町村から{N.toLocaleString()}件の祭りを掲載しています。
+    個人で運営しているサイトなので、「なぜその日付を信じていいのか」に答えられないと
+    ただの寄せ集めになります。この記事では、集め方と、まだできていないことを書きます。
+  </p>
+
+  <h2>出典を四段階に分けている</h2>
+  <p>
+    掲載しているのは<strong>公開されている告知だけ</strong>です。
+    関係者しか知らない情報は扱いません。そのうえで、どこから拾ったかを四段階に分け、
+    各ページに表示しています。
+  </p>
+  <ul class="bars">
+    {TIERS.map((t) => (
+      <li>
+        <span class="k">{t.k}</span>
+        <span class="b" style={`width:${(t.n / maxTier) * 100}%`}></span>
+        <span class="v">{t.n.toLocaleString()}件（{pct(t.n, N)}%）</span>
+      </li>
+    ))}
+  </ul>
+  <div class="tw">
+    <table>
+      <thead><tr><th>段階</th><th>中身</th></tr></thead>
+      <tbody>
+        {TIERS.map((t) => (
+          <tr><td>{t.k}</td><td style="white-space:normal">{t.d}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="key">
+    まとめサイトから拾ったものは、主催者の一次情報が見つかり次第、そちらに差し替えています。
+    <strong>この四段階を隠さずに出すこと自体が、情報の質の表示です。</strong>
+    「まとめサイト」と書いてあるページは、それだけ確度が一段落ちると思って見てください。
+  </p>
+  <p>
+    出典は{dom.size.toLocaleString()}のドメインにまたがります。
+    自治体のサイトが{lgjp.length}ドメインで{sum(lgjp).toLocaleString()}件、
+    神社庁など神社関係が{jinja.length}ドメインで{sum(jinja).toLocaleString()}件。
+    一つの大きな情報源に寄りかからないよう、地道に増やしています。
+    情報を取るときは各サイトの robots.txt の指定に従い、利用を認めていないサイトからは取得していません。
+  </p>
+
+  <h2>出典と最終確認日が無いものは、出さない</h2>
+  <p>
+    サイトを組み立てる前に、全データを機械で検証しています。
+    <strong>出典のリンクが無い、最終確認日が無い、日付の形式が違う、
+    同じ識別子が二つある</strong>——このどれかに当たると、そこで止まって公開できません。
+    現在、出典の無いものは{noSource}件、最終確認日の無いものは{noChecked}件です。
+  </p>
+  <p>
+    最終確認から180日を超えたものは警告として出るようにしてあり、いまは{stale.toLocaleString()}件あります。
+    ここが増えると、日付は載っているのに古い、という状態になります。
+    完全に潰せてはいません。
+  </p>
+
+  <h2>例祭日から日付を割り出したものは、推定と書く</h2>
+  <p>
+    神社の例祭は、当年の告知が出ないことのほうが多い行事です。
+    そのかわり「毎年10月第1日曜日」といった決まりが公開されています。
+    当サイトはこの決まりを{rec.toLocaleString()}件持っていて（うち{recSourced.toLocaleString()}件は決まりの出典も記録しています）、
+    そこから今年の日付を計算しています。
+  </p>
+  <p>
+    こうして入れた{estimated.toLocaleString()}件には
+    <strong>「日程は例年からの推定」と明記</strong>し、確定した日程と区別しています。
+    神社が今年の日程として発表したものではないからです。
+    詳しくは<a href="/guides/shrine-reisai-dates/">神社の例祭日はどう決まっているのか</a>に書きました。
+  </p>
+  <div class="caveat">
+    <p>
+      この計算には弱点があります。「◯◯の日の前の土曜日」のように基準の日をずらす言い方や、
+      「宵宮は前日」といった補足は、正しく解けないことがあります。
+      決まりの言い回しは神社ごとに独特で、機械で全部を読み切るのは無理でした。
+      推定の札が付いているものは、必ず現地の告知で確かめてください。
+    </p>
+  </div>
+
+  <h2>「屋台は未確認」と書き続けている理由</h2>
+  <p>
+    屋台が出るかどうかは、このサイトを使う理由のかなりの部分を占める項目です。
+    それでも、出典に書かれていないものは<strong>「未確認」のままにしています</strong>。
+    「盆踊りなら普通は屋台が出るだろう」という推測で埋めることはしません。
+  </p>
+  <p>
+    現在、屋台が出ると確認できたものが{stallsYes.toLocaleString()}件、
+    出ないと確認できたものが{stallsNo}件、残りは未確認です。
+    「出ない」が{stallsNo}件しかないのは、
+    「屋台は出ません」と書く告知がまず存在しないからです。
+    埋めれば見栄えはよくなりますが、それは<strong>調べていないことを調べたことにする</strong>行為です。
+    詳しい内訳は<a href="/guides/stalls-data/">屋台が出る祭りはどれくらいあるのか</a>にまとめました。
+  </p>
+
+  <h2>いま、どこまで埋まっているか</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>項目</th><th>埋まっている件数</th><th>割合</th></tr></thead>
+      <tbody>
+        {fields.map((f) => (
+          <tr><td>{f.k}</td><td class="n">{f.n.toLocaleString()}</td><td class="n">{pct(f.n, N)}%</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    写真がほとんど無いのは、<strong>再利用が許諾されていると確認できたものしか使わない</strong>と決めているからです。
+    掲載しているものには撮影者・ライセンス・出典を必ず表示しています。
+    見栄えのために出所の怪しい画像を並べる選択肢は取りません。
+  </p>
+
+  <h2>できていないこと</h2>
+  <ul>
+    <li>
+      <strong>地域の偏り。</strong>掲載は{areas}市区町村に届いていますが、
+      件数は東京・神奈川・埼玉に大きく寄っています。
+      自治体がイベント一覧を公開しているかどうかで、集められる量が桁違いに変わります。
+    </li>
+    <li>
+      <strong>取りこぼし。</strong>町内会の祭りには、そもそも一覧が存在しません。
+      掲示板の貼り紙と回覧板だけで告知が完結している祭りは、原理的に拾えません。
+    </li>
+    <li>
+      <strong>中止の追跡。</strong>中止の告知は告知ごと消えてしまうため、ほとんど記録できていません。
+      これは<a href="/guides/cancelled-postponed/">祭りの中止・延期は、どう知ればいいのか</a>で詳しく書きました。
+    </li>
+    <li>
+      <strong>更新の速さ。</strong>個人で運営しているので、全件を頻繁に再確認することはできません。
+      各ページの最終確認日を見て判断してください。
+    </li>
+  </ul>
+
+  <h2>訂正のお願い</h2>
+  <p>
+    誤りを見つけたら教えてください。掲載の取り下げのご依頼も含め、
+    <a href="/about/">このサイトについて</a>の連絡先で受け付けています。確認のうえ速やかに直します。
+    「未確認」を1件ずつ減らしていくのが、このサイトのいちばん地味で大事な作業です。
+  </p>
+</Guide>

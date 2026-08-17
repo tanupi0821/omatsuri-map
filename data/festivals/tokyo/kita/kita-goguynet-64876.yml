@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 十条仲原一丁目町会青少年部
 stalls: unknown
 tags: []
 description: null
@@ -22,7 +22,7 @@ occurrences:
       - 2026-08-07
       - 2026-08-08
       - 2026-08-09
-    start_time: null
+    start_time: 18:30
     end_time: null
     status: confirmed
     source_url: https://tokyokita.goguynet.jp/2026/08/02/ojijinjyasairei_jujo_bonodori2026/

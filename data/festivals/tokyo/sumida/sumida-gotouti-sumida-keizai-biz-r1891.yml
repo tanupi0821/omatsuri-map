@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 墨田区内
-  address: null
+  address: 東京都墨田区両国2（両国駅前大通り）
   lat: null
   lng: null
-organizer: null
+organizer: 両国町会
 stalls: unknown
 tags: []
 description: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: http://sumida.keizai.biz/headline/1891/
     source_name: すみだ経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 阿波踊り15:00〜、盆踊り19:15〜、花火19:00〜（前回実績。天候により前後する場合あり）

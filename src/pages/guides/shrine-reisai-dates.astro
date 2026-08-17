@@ -73,10 +73,13 @@ for (const f of etoRow?.list ?? []) {
 }
 const etoTop = [...etoDates].sort((a, b) => b[1] - a[1]).slice(0, 3);
 
-// リンクする実例。決まりの型が素直なものだけを選ぶ
+// リンクする実例。**決まりが一行で読み切れるものだけ**を選ぶ。
+// 「1月第1日曜日／10月8日近い日曜日」のように複数の祭礼を並べたものは、
+// 例として出すと型の話がぼやける
 const nthRow = ruleRows.find((r) => r.k === '第◯◯曜日');
 const nearRow = ruleRows.find((r) => r.k === '◯日に近い曜日');
-const samples = [...(nthRow?.list ?? []).slice(0, 2), ...(nearRow?.list ?? []).slice(0, 2)]
+const simple = (list) => (list ?? []).filter((f) => !/[／/、]/.test(String(f.recurrence)));
+const samples = [...simple(nthRow?.list).slice(0, 2), ...simple(nearRow?.list).slice(0, 2)]
   .map((f) => ({
     id: f.id,
     name: f.name,
@@ -136,7 +139,7 @@ const fixed915 = rec.filter((f) => String(f.recurrence).startsWith('9月15日') 
   </div>
   <p class="key">
     半分以上が<strong>月日を固定</strong>しています。曜日を見ないので、
-    今年の{YEAR}年でいえば9月15日は{w915}曜日ですが、
+    {YEAR}年でいえば9月15日は{w915}曜日ですが、
     「9月15日」と決めている{fixed915}件はそのまま{w915}曜日に行われます。
     平日に神社の前を通ったら幟が立っていた、ということが起きるのはこのためです。
   </p>

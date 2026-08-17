@@ -80,10 +80,35 @@ const seatRows = seatKinds.filter((s) => s.n >= 5).sort((a, b) => a.med - b.med)
 // 車ごと入れる区画。地方の大会に多い形なので、あれば一言添える
 const carSeats = seatKinds.find((s) => s.k === '車で入る席')?.n ?? 0;
 
+/**
+ * 同じ大会が別々の出典から二重に入っていることがある（市のページと県のページ、
+ * 別の媒体、など）。**名前を並べる箇所で同じ大会を二度出すと、数え間違いに見える。**
+ *
+ * 回数・年・括弧書きは媒体ごとにまちまちなので落として突き合わせる。
+ * それでも「立川まつり昭和記念公園花火大会」と
+ * 「立川まつり 国営昭和記念公園花火大会」のような揺れは残るので、
+ * 例として少数を挙げる箇所では市区町村でも重複を落とす。
+ */
+const norm = (s) => String(s)
+  .replace(/[（(][^）)]*[）)]/g, '')
+  .replace(/第\s*\d+\s*回/g, '')
+  .replace(/20\d\d年?/g, '')
+  .replace(/\s+/g, '');
+const uniqBy = (list, key) => {
+  const seen = new Set();
+  return list.filter((x) => {
+    const k = key(x);
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+};
+const uniqFest = (list) => uniqBy(list, (f) => `${f.area.pref}|${norm(f.name)}`);
+
 // 全席有料
-const allSeats = yes.filter((f) => (f.paid_seats_note ?? '').includes('全席'));
+const allSeats = uniqFest(yes.filter((f) => (f.paid_seats_note ?? '').includes('全席')));
 // 施設の入場料が別にかかる会場
-const venueFee = hanabi.filter((f) => /入場料|入園料|入村料/.test(f.paid_seats_note ?? ''));
+const venueFee = uniqFest(hanabi.filter((f) => /入場料|入園料|入村料/.test(f.paid_seats_note ?? '')));
 
 // 都道府県ごと
 const byPref = new Map();
@@ -95,9 +120,10 @@ for (const f of checked) {
 }
 const prefRows = [...byPref.values()].filter((p) => p.n >= 15).sort((a, b) => b.yes / b.n - a.yes / a.n);
 
-// 高い席の実例
-const dearest = [...priced].sort((a, b) => b.max - a.max).slice(0, 3);
-const cheapest = [...priced].sort((a, b) => a.min - b.min).slice(0, 3);
+// 高い席・安い席の実例。3 件だけ挙げるので、同じ市区町村からは 1 件に絞る
+const byCity = (x) => `${x.f.area.pref}|${x.f.area.city}`;
+const dearest = uniqBy([...priced].sort((a, b) => b.max - a.max), byCity).slice(0, 3);
+const cheapest = uniqBy([...priced].sort((a, b) => a.min - b.min), byCity).slice(0, 3);
 ---
 
 <Guide
