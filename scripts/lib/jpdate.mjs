@@ -22,7 +22,12 @@ const WD = { 日: 0, 月: 1, 火: 2, 水: 3, 木: 4, 金: 5, 土: 6 };
 export function normalize(s) {
   return String(s ?? '')
     .replace(/[０-９]/g, (c) => Z2H[c])
-    .replace(/[〜～─―ー]/g, '~')
+    // 「ー」は日付範囲の棒でもあり、カタカナの長音でもある。
+    // 一律に変換すると「スポーツの日」が「スポ~ツの日」になって祝日に
+    // 一致しなくなった。長音の可能性がある「ー」は数字・「日」に挟まれた
+    // ときだけ範囲として扱う
+    .replace(/[〜～─―]/g, '~')
+    .replace(/(?<=[0-9日])ー(?=[0-9])/g, '~')
     .replace(/\s+/g, '')
     // 出典側で月が二重になっていることがある:「7月7月18日に近い日曜日」
     .replace(/^(\d{1,2})月(?=\d{1,2}月)/, '')
@@ -127,12 +132,53 @@ export function resolveFestivalDate(raw, year) {
   if (!s) return null;
 
   // 祝日名
+  //
+  // **祝日名を含むだけで祝日当日を返してはいけない。**
+  // 「10月体育の日の前の土曜日」を体育の日そのもの（月曜）に解決していて、
+  // 青葉区の 7 社の推定日が月曜になっていた。祝日は起点で、
+  // 「の前の◯曜日」「に近い◯曜日」「前日」が付けばそこから動く。
   for (const h of ['成人の日', '建国記念の日', '春分の日', '昭和の日', '憲法記念日', 'みどりの日',
     'こどもの日', '海の日', '山の日', '敬老の日', '秋分の日', 'スポーツの日', '体育の日',
     '文化の日', '勤労感謝の日']) {
     if (s.includes(h)) {
       const r = holiday(year, h);
-      if (r?.d) return { dates: [iso(year, r.m, r.d)], rule: raw, exact: false };
+      if (!r?.d) continue;
+      const after = s.slice(s.indexOf(h) + h.length);
+      const anchor = new Date(Date.UTC(year, r.m - 1, r.d));
+      const shift = (days) => {
+        const t = new Date(anchor.getTime() + days * 86400000);
+        return iso(t.getUTCFullYear(), t.getUTCMonth() + 1, t.getUTCDate());
+      };
+      // 「の前の土曜・日曜」→ 直前の土曜と、その翌日の日曜
+      let m2 = after.match(/(?:の)?(?:直)?前の?土曜?[・、]日曜?/);
+      if (m2) {
+        const back = (anchor.getUTCDay() - 6 + 7) % 7 || 7;
+        return { dates: [shift(-back), shift(-back + 1)], rule: raw, exact: false };
+      }
+      // 「の前の◯曜日」「前の◯曜」→ 祝日より前で一番近いその曜日
+      m2 = after.match(/(?:の)?(?:直)?前の?([日月火水木金土])曜/);
+      if (m2) {
+        const back = (anchor.getUTCDay() - WD[m2[1]] + 7) % 7 || 7;
+        return { dates: [shift(-back)], rule: raw, exact: false };
+      }
+      // 「に近い◯曜日」（／区切りで複数あることがある）
+      const near = [...after.matchAll(/に?近い([日月火水木金土])曜/g)];
+      if (near.length) {
+        const dates = near.map((n) => {
+          const w = WD[n[1]];
+          const diff = ((w - anchor.getUTCDay() + 7) % 7 <= 3)
+            ? (w - anchor.getUTCDay() + 7) % 7
+            : ((w - anchor.getUTCDay() + 7) % 7) - 7;
+          return shift(diff);
+        }).sort();
+        return { dates, rule: raw, exact: false };
+      }
+      // 「の前々日・前日」「の前日」「の翌日」
+      if (/前々日[・、]前日/.test(after)) return { dates: [shift(-2), shift(-1)], rule: raw, exact: false };
+      if (/前日/.test(after)) return { dates: [shift(-1)], rule: raw, exact: false };
+      if (/翌日/.test(after)) return { dates: [shift(1)], rule: raw, exact: false };
+      // 修飾なし＝祝日当日
+      return { dates: [iso(year, r.m, r.d)], rule: raw, exact: false };
     }
   }
 

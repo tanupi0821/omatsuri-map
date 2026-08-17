@@ -121,7 +121,9 @@ for (const f of checked) {
 const prefRows = [...byPref.values()].filter((p) => p.n >= 15).sort((a, b) => b.yes / b.n - a.yes / a.n);
 
 // 高い席・安い席の実例。3 件だけ挙げるので、同じ市区町村からは 1 件に絞る
-const byCity = (x) => `${x.f.area.pref}|${x.f.area.city}`;
+// 会場が市をまたぐ大会は city が「立川市・昭島市」のようになる。
+// 先頭の市で寄せないと、同じ大会が別の市として二度並ぶ
+const byCity = (x) => `${x.f.area.pref}|${x.f.area.city.split(/[・､、]/)[0]}`;
 const dearest = uniqBy([...priced].sort((a, b) => b.max - a.max), byCity).slice(0, 3);
 const cheapest = uniqBy([...priced].sort((a, b) => a.min - b.min), byCity).slice(0, 3);
 ---

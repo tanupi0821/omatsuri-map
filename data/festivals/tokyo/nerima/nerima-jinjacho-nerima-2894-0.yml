@@ -23,6 +23,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-11
+      - 2026-09-05
     start_time: null
     end_time: null
     status: estimated
