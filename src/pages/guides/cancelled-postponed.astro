@@ -41,8 +41,9 @@ const srcRows = [...bySrc].sort((a, b) => b[1] - a[1]);
 const rain = all.filter((f) => (latestOccurrence(f)?.note ?? '').match(/荒天|雨天|順延|中止/));
 // 最終確認日
 const checked = all.map((f) => latestOccurrence(f)?.checked_at).filter(Boolean).sort();
-const oldest = checked[0];
-const newest = checked.at(-1);
+const jp = (d) => (d ? `${Number(d.slice(0, 4))}年${Number(d.slice(5, 7))}月${Number(d.slice(8))}日` : '');
+const oldest = jp(checked[0]);
+const newest = jp(checked.at(-1));
 const stale = all.filter((f) => staleDays(latestOccurrence(f)) > 180).length;
 ---
 
@@ -161,8 +162,8 @@ const stale = all.filter((f) => staleDays(latestOccurrence(f)) > 180).length;
   <div class="caveat">
     <p>
       当サイトの日程は出典の発表時点のもので、その後の変更を反映できていない可能性があります。
-      最終確認から180日以上が経っているものが{stale.toLocaleString()}件あり、
-      これらは特に注意が必要です。各ページに最終確認日を表示しているので、
+      {stale > 0 && `最終確認から180日以上が経っているものが${stale.toLocaleString()}件あり、これらは特に注意が必要です。`}
+      各ページに最終確認日を表示しているので、
       日付が古いものは<strong>出典を自分で開いて確かめてください</strong>。
       中止・変更に気づかれた方は<a href="/about/">連絡先</a>から教えていただけると助かります。
     </p>

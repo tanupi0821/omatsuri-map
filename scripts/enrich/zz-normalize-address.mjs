@@ -13,8 +13,9 @@
  * 混ざっていて、詳細ページで並びが不揃いに見える。
  * 都道府県を落としても指す場所は変わらないので、ここで揃える。
  *
- * 対象は occurrences[0].source_type が official / gov のものだけ。
- * media / aggregator には触れない（別の工程が担当している）。
+ * 当初は official / gov だけを対象にしていた（media / aggregator は別の
+ * エージェントの担当だったため）。分担が終わったので**全件**に広げた。
+ * 落とすのは頭の都道府県だけ、という保守的な規則は変えていない。
  *
  * **やらないこと**: 表記の揺れを直しにいかない。
  * 「◯丁目」を「-」にするような正規化は、元の出典の書き方を壊すうえ、
@@ -36,7 +37,6 @@ const walk = (dir) => {
     if (!e.endsWith('.yml')) continue;
 
     const f = parse(readFileSync(p, 'utf8'));
-    if (!['official', 'gov'].includes(f.occurrences?.[0]?.source_type)) continue;
 
     const addr = f.venue?.address;
     if (!addr || !PREF.test(addr)) continue;

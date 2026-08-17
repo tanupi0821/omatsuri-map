@@ -67,6 +67,9 @@ let checked = 0;
 for (const p of files) {
   let f;
   try { f = parse(readFileSync(p, 'utf8')); } catch { continue; }
+  // 「加須市中央1-11-41（加須市商工会館前）」のように、括弧の中の施設名に
+  // 市名が再登場するのは正当。二重判定の前に括弧の中身を外す
+  const stripParen = (x) => x.replace(/（[^）]*）/g, '').replace(/\([^)]*\)/g, '');
   const addr = f?.venue?.address;
   if (!addr) continue;
   checked++;

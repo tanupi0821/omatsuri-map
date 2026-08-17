@@ -123,7 +123,7 @@ for (const f of all) for (const o of f.occurrences ?? []) for (const d of o.date
   <h2>終わりは21時ごろ、続くのは3時間</h2>
   <p>
     盆踊りの終了時刻でいちばん多いのは
-    {bon.endTop.map(([t, v], i) => (<>{i > 0 ? '、次いで' : ''}{t}（{v}件）</>))}でした。
+    {bon.endTop.map(([t, v], i) => (<>{i === 0 ? '' : i === 1 ? '、次いで' : '、'}{t}（{v}件）</>))}でした。
     始まりと終わりの両方が分かっているものから続く時間を出すと、中央値は{bon.med}分です。
     夏祭り全体では{natsu.med}分、花火大会は{hana.med}分。
   </p>

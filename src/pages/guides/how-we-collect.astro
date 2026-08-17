@@ -126,16 +126,21 @@ const recSourced = all.filter((f) => f.recurrence && f.recurrence_source).length
     現在、出典の無いものは{noSource}件、最終確認日の無いものは{noChecked}件です。
   </p>
   <p>
-    最終確認から180日を超えたものは警告として出るようにしてあり、いまは{stale.toLocaleString()}件あります。
+    そのうえで、最終確認から180日を超えたものは警告として出るようにしています。
+    {stale > 0
+      ? `いまは${stale.toLocaleString()}件が警告に引っかかっていて、完全には潰せていません。`
+      : 'いまのところ警告に引っかかっているものはありませんが、放っておけばまた増えます。'}
     ここが増えると、日付は載っているのに古い、という状態になります。
-    完全に潰せてはいません。
   </p>
 
   <h2>例祭日から日付を割り出したものは、推定と書く</h2>
   <p>
     神社の例祭は、当年の告知が出ないことのほうが多い行事です。
     そのかわり「毎年10月第1日曜日」といった決まりが公開されています。
-    当サイトはこの決まりを{rec.toLocaleString()}件持っていて（うち{recSourced.toLocaleString()}件は決まりの出典も記録しています）、
+    当サイトはこの決まりを{rec.toLocaleString()}件持っています。
+    {recSourced === rec
+      ? '決まりをどこで見たのかという出典も、全件について記録しています。'
+      : `うち${recSourced.toLocaleString()}件は、決まりをどこで見たのかという出典も記録しています。`}
     そこから今年の日付を計算しています。
   </p>
   <p>
@@ -161,8 +166,9 @@ const recSourced = all.filter((f) => f.recurrence && f.recurrence_source).length
   </p>
   <p>
     現在、屋台が出ると確認できたものが{stallsYes.toLocaleString()}件、
-    出ないと確認できたものが{stallsNo}件、残りは未確認です。
-    「出ない」が{stallsNo}件しかないのは、
+    {stallsNo === 0
+      ? '出ないと確認できたものは1件もなく、残りはすべて未確認です。「出ない」が1件も無いのは、'
+      : `出ないと確認できたものが${stallsNo}件、残りは未確認です。「出ない」が${stallsNo}件しかないのは、`}
     「屋台は出ません」と書く告知がまず存在しないからです。
     埋めれば見栄えはよくなりますが、それは<strong>調べていないことを調べたことにする</strong>行為です。
     詳しい内訳は<a href="/guides/stalls-data/">屋台が出る祭りはどれくらいあるのか</a>にまとめました。

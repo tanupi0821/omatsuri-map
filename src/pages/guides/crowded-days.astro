@@ -91,7 +91,14 @@ for (const f of rei) {
 }
 const reiHot = [...reiByPlaceDate.values()].sort((a, b) => b.n - a.n).slice(0, 6);
 
-const summerTotal = summerWeekends.reduce((a, b) => a + b.v, 0);
+/**
+ * 「夏の土日に何割が集まるか」は**祭りの数**で数える。
+ * 日別の件数を足すと、二日にまたがる祭りを二回数えることになり、
+ * 掲載件数に対する割合として書けない
+ */
+const summerWeekendDates = new Set(summerWeekends.map((x) => x.d));
+const summerFest = all.filter((f) => (f.occurrences ?? []).some((o) =>
+  (o.dates ?? []).some((d) => summerWeekendDates.has(d)))).length;
 const busiest = summerWeekends.reduce((a, b) => (b.v > a.v ? b : a));
 const quietest = summerWeekends.filter((x) => x.d >= `${YEAR}-07-01`).reduce((a, b) => (b.v < a.v ? b : a));
 ---
@@ -126,8 +133,9 @@ const quietest = summerWeekends.filter((x) => x.d >= `${YEAR}-07-01`).reduce((a,
   <p class="key">
     最多は{fmt(busiest.d)}の{busiest.v.toLocaleString()}件です。
     上位はほぼ土曜日で、日曜がそれに続きます。
-    {YEAR}年7月・8月の土日{summerWeekends.length}日だけで
-    {summerTotal.toLocaleString()}件、掲載全体の{((summerTotal / N) * 100).toFixed(0)}%が集まります。
+    {YEAR}年7月・8月の土日はぜんぶで{summerWeekends.length}日ですが、
+    この{summerWeekends.length}日のどれかに開かれる祭りが{summerFest.toLocaleString()}件、
+    掲載全体の{((summerFest / N) * 100).toFixed(0)}%にのぼります。
   </p>
 
   <h2>夏の土日、週ごとの起伏</h2>
