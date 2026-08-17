@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://k-nouji.com/event/水ばっかし祭
 occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 16:00
     status: confirmed
     source_url: https://kitakyushukokuraminami.goguynet.jp/2026/07/18/k-nouji2026-07event-no2/
     source_name: 号外NET 北九州市小倉南区

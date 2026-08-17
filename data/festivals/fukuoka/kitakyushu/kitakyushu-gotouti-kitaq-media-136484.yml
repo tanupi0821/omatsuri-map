@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: JR九州ウォーキングのホームページ
+    url: https://www.jrwalking.com/course/?eventdate1_y=&eventdate1_m=&eventdate1=&area_id=40&search=
 occurrences:
   - year: 2026
     dates:

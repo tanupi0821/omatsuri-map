@@ -15,13 +15,15 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 万代島多目的広場大かまのHP
+    url: https://www.niigata-ookama.com/events/article/8327441279
 occurrences:
   - year: 2026
     dates:
       - 2026-05-24
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 17:00
     status: confirmed
     source_url: https://niigatakita-higashi.goguynet.jp/2026/05/16/ookamatomatofesu2026/
     source_name: 号外NET 新潟市

@@ -9,13 +9,17 @@ area:
 venue:
   name: コミュニティプラザ平野
   address: null
-  lat: null
-  lng: null
+  lat: 34.608862
+  lng: 135.567292
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 平野区ホームページ：生涯学習
+    url: https://www.city.osaka.lg.jp/hirano/page/0000486395.html
+  - title: https://www.city.osaka.lg.jp/hirano/page/0000660003.html
+    url: https://www.city.osaka.lg.jp/hirano/page/0000660003.html
 occurrences:
   - year: 2026
     dates:

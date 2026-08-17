@@ -8,20 +8,22 @@ area:
   ward: 住吉区
 venue:
   name: あびんこ商店街(地下鉄あびこ中央商店街)
-  address: null
+  address: 大阪市住吉区苅田5丁目13-14
   lat: null
   lng: null
 organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホームページ
+    url: https://www.abinko.info/yomise2026
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/07/09/abinkoyomise/
     source_name: 号外NET 大阪市住吉区・東住吉区

@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-30
-    start_time: null
-    end_time: null
+    start_time: 09:00
+    end_time: 17:00
     status: confirmed
     source_url: https://fushimi.goguynet.jp/2026/05/25/fujinomori-ajisai-2/
     source_name: 号外NET 京都市伏見区

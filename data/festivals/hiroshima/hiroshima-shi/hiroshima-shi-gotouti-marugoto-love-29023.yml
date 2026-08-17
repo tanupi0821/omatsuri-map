@@ -8,9 +8,9 @@ area:
   ward: 安佐南区
 venue:
   name: 広島市立大塚小学校グラウンド（広島市安佐南区大塚西6-1-1）
-  address: null
-  lat: null
-  lng: null
+  address: 広島市安佐南区大塚西6-1-1
+  lat: 34.447756
+  lng: 132.390459
 organizer: null
 stalls: yes
 tags: []

@@ -9,8 +9,8 @@ area:
 venue:
   name: 元気のもり
   address: null
-  lat: null
-  lng: null
+  lat: 33.889113
+  lng: 130.883725
 organizer: null
 stalls: yes
 tags: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-06-28
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 15:00
     status: confirmed
     source_url: https://kitakyushukokura-moji.goguynet.jp/2026/06/25/genkinomori-2026-06event/
     source_name: 号外NET 北九州市小倉北区・門司区・戸畑区

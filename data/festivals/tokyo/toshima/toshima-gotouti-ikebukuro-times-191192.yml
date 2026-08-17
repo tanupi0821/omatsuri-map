@@ -9,8 +9,8 @@ area:
 venue:
   name: 上池袋さくら公園
   address: 豊島区上池袋2-45-15
-  lat: null
-  lng: null
+  lat: 35.737339
+  lng: 139.712805
 organizer: null
 stalls: yes
 tags: []

@@ -22,8 +22,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 11:30
+    end_time: 21:00
     status: confirmed
     source_url: https://sakai-news.jp/event/20260731_a078_gashifes
     source_name: さかにゅー

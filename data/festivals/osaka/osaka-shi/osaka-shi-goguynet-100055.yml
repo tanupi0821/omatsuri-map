@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 東淀川区公式ホームページの公開情報
+    url: https://www.city.osaka.lg.jp/higashiyodogawa/page/0000571761.html
 occurrences:
   - year: 2026
     dates:

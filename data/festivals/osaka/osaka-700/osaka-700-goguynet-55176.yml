@@ -9,8 +9,8 @@ area:
 venue:
   name: 聖賢小学校
   address: null
-  lat: null
-  lng: null
+  lat: 34.697196
+  lng: 135.543087
 organizer: null
 stalls: unknown
 tags: []

@@ -8,14 +8,16 @@ area:
   ward: 瑞穂区
 venue:
   name: 名古屋市瑞穂区内
-  address: null
+  address: 名古屋市瑞穂区内浜町18-5
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式インスタ
+    url: https://www.instagram.com/uchihama.festival2025/
 occurrences:
   - year: 2026
     dates:

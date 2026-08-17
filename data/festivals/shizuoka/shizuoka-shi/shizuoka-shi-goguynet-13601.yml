@@ -8,9 +8,9 @@ area:
   ward: 葵区
 venue:
   name: 駿府城公園（静岡市葵区駿府城公園1-1）
-  address: null
-  lat: null
-  lng: null
+  address: 静岡市葵区駿府城公園1-1
+  lat: 34.979002
+  lng: 138.380546
 organizer: null
 stalls: yes
 tags: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-09-12
       - 2026-09-13
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 20:00
     status: confirmed
     source_url: https://aoi.goguynet.jp/2026/07/01/post-13601/
     source_name: 号外NET 静岡市葵区

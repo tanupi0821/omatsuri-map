@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 夏まつり仙台すずめ踊り◆公式サイト www.suzume-o
+    url: https://www.suzume-odori.com/
 occurrences:
   - year: 2026
     dates:

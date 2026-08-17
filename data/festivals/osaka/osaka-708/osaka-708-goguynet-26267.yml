@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: HP
+    url: https://www.noda-ebisu.com/r06Summer/index.html
 occurrences:
   - year: 2026
     dates:
