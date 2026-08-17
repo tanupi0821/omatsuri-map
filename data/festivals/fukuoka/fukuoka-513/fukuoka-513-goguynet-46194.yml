@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 福岡市中央区・城南区
+    url: https://fukuokachuo.goguynet.jp/2026/07/18/noryoyoichi/
 occurrences:
   - year: 2026
     dates:

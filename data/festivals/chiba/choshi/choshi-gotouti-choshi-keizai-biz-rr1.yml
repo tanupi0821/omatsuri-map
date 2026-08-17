@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 銚子市内
-  address: null
+  address: 千葉県銚子市犬吠埼9596-1
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 銚子電気鉄道株式会社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 銚電まつり2026 開催決定！
+    url: https://www.choshi-dentetsu.jp/news/7967/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: http://choshi.keizai.biz/headline/58/
     source_name: 銚子経済新聞

@@ -8,23 +8,25 @@ area:
   ward: null
 venue:
   name: 盛岡市内
-  address: null
+  address: 岩手県盛岡市 都南大橋下流 北上川河川敷
   lat: null
   lng: null
-organizer: null
+organizer: 盛岡花火の祭典実行委員会（盛岡商工会議所都南支所内）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 盛岡花火の祭典 公式
+    url: https://www.ccimorioka.or.jp/hanabi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-11
-    start_time: null
-    end_time: null
+    start_time: 19:25
+    end_time: 20:30
     status: confirmed
     source_url: https://morioka.goguynet.jp/2026/06/03/moriokahanabinosaiten2026-senkouhanbai/
     source_name: 号外NET 盛岡市
     source_type: media
     checked_at: 2026-08-06
-    note: 8月11日（火・祝）開催。データにあった6月1日は前売り開始日（6/1〜6/14が販売期間）、8月10日は根拠がない
+    note: 開場16:30

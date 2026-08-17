@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 神戸町内
-  address: null
+  address: 岐阜県安八郡神戸町神戸1
   lat: null
   lng: null
-organizer: null
+organizer: 日吉神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 日吉神社
+    url: https://www.hiyoshi-jinjya.jp/sannou/index.html
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +30,4 @@ occurrences:
     source_name: 号外NET 大垣市（西濃地域）
     source_type: media
     checked_at: 2026-08-04
+    note: 試楽（朝渡御）は4月第4土曜、本楽（還御）は4月第4日曜の午後3時30分から（例年の日程による）

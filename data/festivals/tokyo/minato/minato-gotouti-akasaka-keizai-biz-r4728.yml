@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 港区内
-  address: null
+  address: 東京都港区赤坂8-11-27（乃木神社）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 乃木神社（8/2手持ち花火体験は赤坂八丁目町会と共催）
+stalls: yes
 tags: []
 description: null
 links: []
@@ -28,3 +28,4 @@ occurrences:
     source_name: 赤坂経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 8/1 15:00-20:00、8/2 15:00-19:00（手持ち花火体験18:00-19:00）

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 北九州市内
-  address: null
+  address: 福岡県北九州市八幡西区浅川日の峯1-8-8（日峯神社）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 日峯神社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 日峯神社公式サイト
+    url: https://hinominejinja.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_name: 北九州ノコト
     source_type: media
     checked_at: 2026-08-06
+    note: 子供神輿渡御16:00、祭典18:00、茅の輪くぐり神事18:30、縁日11:00-20:00

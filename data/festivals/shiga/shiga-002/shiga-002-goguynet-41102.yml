@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 東近江市内
-  address: null
+  address: 滋賀県東近江市林町（JR能登川駅西口広場）
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 20:00
     status: confirmed
     source_url: https://higashiomi-omihachiman.goguynet.jp/2026/07/05/notofes-2/
     source_name: 号外NET 東近江市・近江八幡市

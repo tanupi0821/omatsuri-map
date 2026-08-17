@@ -15,7 +15,9 @@ organizer: 明神社祭の会／可部駅前町内会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: まるごとGO！
+    url: https://marugoto.love/archives/260724-01.html
 occurrences:
   - year: 2026
     dates:

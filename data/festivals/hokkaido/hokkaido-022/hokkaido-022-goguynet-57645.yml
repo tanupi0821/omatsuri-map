@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 苫小牧市内
-  address: null
+  address: 北海道苫小牧市若草町2-3-3（苫小牧中央公園）
   lat: null
   lng: null
-organizer: null
+organizer: 苫小牧港まつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 苫小牧市 とまこまい港まつり
+    url: https://www.city.tomakomai.hokkaido.jp/kankojoho/event/minatomatsuri/
 occurrences:
   - year: 2026
     dates:

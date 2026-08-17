@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 弘前市内
-  address: null
+  address: 青森県弘前市下白銀町1-3
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 護国神社（弘前公園総合情報）
+    url: https://www.hirosakipark.jp/505.html
 occurrences:
   - year: 2026
     dates:

@@ -15,7 +15,9 @@ organizer: 黒崎よさこい祭り実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市八幡西区
+    url: https://www.city.kitakyushu.lg.jp/yahatanishi/w6200022.html
 occurrences:
   - year: 2026
     dates:

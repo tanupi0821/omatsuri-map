@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 広島市
+    url: https://hiroshima.goguynet.jp/2026/05/10/toukasan-2026-hiroshima--hiroshimaedit2--/
 occurrences:
   - year: 2026
     dates:

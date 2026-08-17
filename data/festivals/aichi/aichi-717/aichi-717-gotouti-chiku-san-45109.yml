@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 名古屋市千種区内
-  address: null
+  address: 名古屋市千種区仲田本通（広小路・仲田交差点～東市民病院交差点付近）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 仲田本通商店街振興組合
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ちくさん
+    url: https://chiku-san.com/20260723-nakata-natsumatsuri/
+  - title: 名古屋市千種区（商店街のお祭り一覧）
+    url: https://www.city.nagoya.jp/chikusa/page/0000187416.html
 occurrences:
   - year: 2026
     dates:

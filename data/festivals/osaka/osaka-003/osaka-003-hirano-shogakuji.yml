@@ -16,7 +16,9 @@ stalls: unknown
 tags:
   - 山車
 description: null
-links: []
+links:
+  - title: 平野区まちづくりセンター
+    url: https://hiranomachisen.com/?p=4880
 occurrences:
   - year: 2026
     dates:

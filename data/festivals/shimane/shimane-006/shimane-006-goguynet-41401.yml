@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 直江振興会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: なおえ夏祭り公式サイト
+    url: https://sites.google.com/view/naoenatumaturi/
 occurrences:
   - year: 2026
     dates:

@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 北九州市門司区内
-  address: null
+  address: 福岡県北九州市門司区大字大積
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
 occurrences:
   - year: 2026
     dates:
       - 2026-11-03
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 22:00
     status: confirmed
     source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
     source_name: 北九州市門司区
     source_type: gov
     checked_at: 2026-08-05
+    note: 終了予定時刻は「予定」として発表

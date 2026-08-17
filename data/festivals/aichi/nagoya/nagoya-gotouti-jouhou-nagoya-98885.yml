@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 名古屋市内
-  address: null
+  address: 愛知県名古屋市中区栄4-19
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -21,8 +21,8 @@ occurrences:
     dates:
       - 2026-07-20
       - 2026-07-21
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 20:30
     status: confirmed
     source_url: https://jouhou.nagoya/ikedapark-summer2026/
     source_name: 名古屋情報通

@@ -15,7 +15,9 @@ organizer: 幸町一丁目盆踊り実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 千葉市美浜区
+    url: https://www.city.chiba.jp/mihama/chiikizukuri/tiikiibento_08.html
 occurrences:
   - year: 2026
     dates:

@@ -1,5 +1,5 @@
 id: fujisawa-jinjacho-1206021-1
-name: 皇大神宮 1206021000 例大祭宵宮祭
+name: 皇大神宮 例大祭宵宮祭
 kind: 例大祭
 scale: 地区
 area:
@@ -7,18 +7,18 @@ area:
   city: 藤沢市
   ward: null
 venue:
-  name: 皇大神宮 1206021000
+  name: 皇大神宮
   address: 藤沢市鵠沼神明2ｰ11ｰ5
   lat: null
   lng: null
 recurrence: 8月16日
 recurrence_source: https://www.kanagawa-jinja.or.jp/shrine/1206021-000/
-organizer: 皇大神宮 1206021000
-shrine: 皇大神宮 1206021000
+organizer: 皇大神宮
+shrine: 皇大神宮
 tags: []
 description: null
 links:
-  - title: 皇大神宮 1206021000 公式サイト
+  - title: 皇大神宮 公式サイト
     url: http://www.koudaijinguu.com
 occurrences:
   - year: 2026

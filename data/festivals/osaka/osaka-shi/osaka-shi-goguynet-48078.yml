@@ -8,7 +8,7 @@ area:
   ward: 浪速区
 venue:
   name: 大阪市浪速区内
-  address: null
+  address: 大阪府大阪市浪速区恵美須西1-6-10（今宮戎神社）
   lat: null
   lng: null
 organizer: null
@@ -28,3 +28,4 @@ occurrences:
     source_name: 号外NET 大阪市浪速区・西成区
     source_type: media
     checked_at: 2026-08-04
+    note: 今宮戎神社によると2026年・2027年は開催中止、2028年再開予定

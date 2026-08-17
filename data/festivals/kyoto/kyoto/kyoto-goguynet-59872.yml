@@ -8,14 +8,18 @@ area:
   ward: 伏見区
 venue:
   name: 京都市伏見区内
-  address: null
+  address: 京都府京都市伏見区桃山町山ノ下
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 京都市伏見区
+    url: https://fushimi.goguynet.jp/2026/07/11/momo-summer2026/
+  - title: MOMOテラス 夏祭り
+    url: https://momotto.jp/post-5242/
 occurrences:
   - year: 2026
     dates:

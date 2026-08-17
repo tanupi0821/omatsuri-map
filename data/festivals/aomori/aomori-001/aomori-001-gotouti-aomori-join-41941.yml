@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 青森ねぶた祭実行委員会（事務局：公益社団法人青森観光コンベンション協会）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 青森ねぶた祭 公式サイト
+    url: https://www.nebuta.jp/
 occurrences:
   - year: 2026
     dates:

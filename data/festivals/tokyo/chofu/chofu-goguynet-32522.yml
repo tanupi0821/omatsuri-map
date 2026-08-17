@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 調布市内
-  address: null
+  address: 東京都調布市国領町8-2-64（イトーヨーカドー国領店）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: イトーヨーカドー国領店
+    url: https://stores.itoyokado.co.jp/detail/561/
 occurrences:
   - year: 2026
     dates:

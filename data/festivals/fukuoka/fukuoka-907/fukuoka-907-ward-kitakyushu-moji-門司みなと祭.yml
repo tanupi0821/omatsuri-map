@@ -11,11 +11,15 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 門司みなと祭協賛会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
+  - title: 公式サイト
+    url: https://mojiminato.jp/2026/
 occurrences:
   - year: 2026
     dates:

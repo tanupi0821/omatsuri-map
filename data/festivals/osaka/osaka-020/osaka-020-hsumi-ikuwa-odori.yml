@@ -15,7 +15,9 @@ organizer: 育和地域
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大阪市東住吉区
+    url: https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000600898.html
 occurrences:
   - year: 2026
     dates:

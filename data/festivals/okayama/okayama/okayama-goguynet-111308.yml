@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 岡山市
+    url: https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/07/19/oomoto-munetadajinja-9/
 occurrences:
   - year: 2026
     dates:

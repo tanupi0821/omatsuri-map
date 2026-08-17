@@ -8,21 +8,25 @@ area:
   ward: null
 venue:
   name: 大阪市天王寺区内
-  address: null
+  address: 大阪府大阪市天王寺区茶臼山町1-8
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市天王寺区・阿倍野区
+    url: https://tennoji-ku.goguynet.jp/2026/07/11/horikoshi/
+  - title: 公式サイト
+    url: https://www.horikoshijinja.or.jp/matsuri
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 18:00
     status: confirmed
     source_url: https://tennoji-ku.goguynet.jp/2026/07/11/horikoshi/
     source_name: 号外NET 大阪市天王寺区・阿倍野区

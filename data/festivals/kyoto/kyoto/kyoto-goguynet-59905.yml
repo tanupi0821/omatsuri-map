@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 京都市伏見区
+    url: https://fushimi.goguynet.jp/2026/07/15/fujinomori-bonfes2026/
 occurrences:
   - year: 2026
     dates:

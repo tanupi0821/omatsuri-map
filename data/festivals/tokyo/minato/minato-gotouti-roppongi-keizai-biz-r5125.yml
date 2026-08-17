@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 港区内
-  address: null
+  address: 東京都港区六本木3-16-33
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: しゃぶ禅 六本木店
+    url: https://www.shabuzen.jp/roppongi/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-17
-    start_time: null
-    end_time: null
+    start_time: 12:00
+    end_time: 23:00
     status: confirmed
     source_url: http://roppongi.keizai.biz/headline/5125/
     source_name: 六本木経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 12:00-15:00, 17:00-23:00（8月17日〜19日開催）

@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 池田市内
-  address: null
+  address: 大阪府池田市石橋
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: NPO法人石橋商業活性化協議会
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: いしばし商店街
+    url: https://www.ss-ishibashi.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-23
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 19:00
     status: confirmed
     source_url: https://minoh.goguynet.jp/2026/07/11/wakuwakuhiroba/
     source_name: 号外NET 箕面市・池田市

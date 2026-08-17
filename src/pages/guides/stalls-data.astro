@@ -1,0 +1,250 @@
+---
+/**
+ * 記事: 屋台が出る祭りはどれくらいあるのか
+ *
+ * 数字は全部この場で数える。**手で写した数を本文に書かない**。
+ * データが増えれば記事の数字も一緒に動く。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('stalls-data');
+const all = loadFestivals();
+const N = all.length;
+
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+// 全体
+const yes = all.filter((f) => f.stalls === 'yes').length;
+const no = all.filter((f) => f.stalls === 'no').length;
+const unknown = N - yes - no;
+
+// 種類ごと
+const byKind = new Map();
+for (const f of all) {
+  if (!byKind.has(f.kind)) byKind.set(f.kind, { kind: f.kind, n: 0, yes: 0 });
+  const k = byKind.get(f.kind);
+  k.n++;
+  if (f.stalls === 'yes') k.yes++;
+}
+const kinds = [...byKind.values()].sort((a, b) => b.n - a.n).slice(0, 8);
+
+// 規模ごと
+const byScale = new Map();
+for (const f of all) {
+  if (!byScale.has(f.scale)) byScale.set(f.scale, { scale: f.scale, n: 0, yes: 0 });
+  const s = byScale.get(f.scale);
+  s.n++;
+  if (f.stalls === 'yes') s.yes++;
+}
+const scales = ['市', '区', '地区', '町内会']
+  .map((s) => byScale.get(s))
+  .filter(Boolean);
+
+// 出典の種別ごと。ここがこの記事のいちばん大事な表
+const SRC_LABEL = {
+  official: '主催者・神社の公式',
+  gov: '行政の発表',
+  media: '地域メディア',
+  aggregator: 'まとめサイト',
+};
+const bySrc = new Map();
+for (const f of all) {
+  const t = latestOccurrence(f)?.source_type ?? 'other';
+  if (!bySrc.has(t)) bySrc.set(t, { t, n: 0, yes: 0 });
+  const s = bySrc.get(t);
+  s.n++;
+  if (f.stalls === 'yes') s.yes++;
+}
+const srcs = [...bySrc.values()].sort((a, b) => b.yes / b.n - a.yes / a.n);
+
+// 都道府県ごと。件数が少ない県は割合が跳ねるので 30 件以上に絞る
+const byPref = new Map();
+for (const f of all) {
+  if (!byPref.has(f.area.pref)) byPref.set(f.area.pref, { pref: f.area.pref, slug: f._prefSlug, n: 0, yes: 0 });
+  const p = byPref.get(f.area.pref);
+  p.n++;
+  if (f.stalls === 'yes') p.yes++;
+}
+const prefs = [...byPref.values()].filter((p) => p.n >= 30);
+const top = [...prefs].sort((a, b) => b.yes / b.n - a.yes / a.n).slice(0, 6);
+const bottom = [...prefs].sort((a, b) => a.yes / a.n - b.yes / b.n).slice(0, 6);
+const maxKind = Math.max(...kinds.map((k) => k.yes / k.n));
+---
+
+<Guide
+  title={g.title}
+  description={`掲載中の全国${N.toLocaleString()}件の祭りのうち、屋台・露店が出ると確認できたのは${yes.toLocaleString()}件（${pct(yes, N)}%）でした。都道府県・種類・出典の種別ごとの内訳と、「未確認」が半数を超える理由をデータから説明します。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    祭りに出かける理由が屋台だという人は多いと思います。ところが「屋台が出るかどうか」は、
+    告知にきちんと書かれていることのほうが少ない項目です。
+    掲載中の{N.toLocaleString()}件を実際に数えると、次のようになりました。
+  </p>
+
+  <ul class="bars">
+    <li>
+      <span class="k">出ると確認</span>
+      <span class="b" style={`width:${(yes / N) * 100}%`}></span>
+      <span class="v">{yes.toLocaleString()}件（{pct(yes, N)}%）</span>
+    </li>
+    <li>
+      <span class="k">未確認</span>
+      <span class="b dim" style={`width:${(unknown / N) * 100}%`}></span>
+      <span class="v">{unknown.toLocaleString()}件（{pct(unknown, N)}%）</span>
+    </li>
+    <li>
+      <span class="k">出ないと確認</span>
+      <span class="b alt" style={`width:${(no / N) * 100}%`}></span>
+      <span class="v">{no.toLocaleString()}件</span>
+    </li>
+  </ul>
+
+  <p class="key">
+    「出ない」と確認できたものが{no}件しかありません。
+    これは屋台のない祭りが存在しないという意味ではなく、
+    <strong>「屋台は出ません」とわざわざ書く告知がほとんど無い</strong>という意味です。
+    だから当サイトでは、書かれていないものを「出ない」に振り分けず、すべて未確認のままにしています。
+  </p>
+
+  <h2>祭りの種類でまるで違う</h2>
+  <p>
+    種類ごとに、屋台が出ると確認できた割合を並べます。件数の多い上位{kinds.length}種類です。
+  </p>
+  <ul class="bars">
+    {kinds.map((k) => (
+      <li>
+        <span class="k">{k.kind}</span>
+        <span class="b" style={`width:${((k.yes / k.n) / maxKind) * 100}%`}></span>
+        <span class="v">{pct(k.yes, k.n)}%（{k.n.toLocaleString()}件中）</span>
+      </li>
+    ))}
+  </ul>
+  <p>
+    花火大会がいちばん高く、例大祭がいちばん低くなります。
+    ただしこれを「神社の例祭には屋台が出ない」と読んではいけません。
+    例大祭のデータは神社庁の一覧をもとにしたものが中心で、
+    その一覧には<strong>そもそも屋台を書く欄がない</strong>からです。
+    出ないのではなく、書いていないので分からない、というのが正確なところです。
+  </p>
+
+  <h2>「未確認」の正体は、出典の書式</h2>
+  <p>
+    それがはっきり出るのが、出典の種別で割った表です。
+  </p>
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>出典の種別</th><th>掲載数</th><th>屋台ありと確認</th><th>割合</th></tr>
+      </thead>
+      <tbody>
+        {srcs.map((s) => (
+          <tr>
+            <td>{SRC_LABEL[s.t] ?? s.t}</td>
+            <td class="n">{s.n.toLocaleString()}</td>
+            <td class="n">{s.yes.toLocaleString()}</td>
+            <td class="n">{pct(s.yes, s.n)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    まとめサイトを出典にしたものは、屋台の有無が分かる割合が飛び抜けて高くなります。
+    こうしたサイトは掲載の様式に「露店」という欄を持っていて、
+    <strong>取材した人が必ずどれかを埋める</strong>作りになっているからです。
+    反対に、神社や主催者の公式発表を出典にしたものは低く出ます。
+    公式のお知らせは日時と場所を伝えるのが目的で、屋台の話は書かれたり書かれなかったりします。
+  </p>
+  <p class="key">
+    つまりこの表が示しているのは祭りの性質の差ではなく、<strong>出典の書式の差</strong>です。
+    データを都道府県で割ったときに出る差も、大部分はこれで説明できます。
+  </p>
+
+  <h2>都道府県の差は、県民性ではない</h2>
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>屋台ありの割合が高い県</th><th>掲載数</th><th>割合</th></tr>
+      </thead>
+      <tbody>
+        {top.map((p) => (
+          <tr>
+            <td><a href={`/a/${p.slug}/`}>{p.pref}</a></td>
+            <td class="n">{p.n.toLocaleString()}</td>
+            <td class="n">{pct(p.yes, p.n)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>低い県</th><th>掲載数</th><th>割合</th></tr>
+      </thead>
+      <tbody>
+        {bottom.map((p) => (
+          <tr>
+            <td><a href={`/a/${p.slug}/`}>{p.pref}</a></td>
+            <td class="n">{p.n.toLocaleString()}</td>
+            <td class="n">{pct(p.yes, p.n)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="caveat">
+    <p>
+      いちばん低いのは東京都と神奈川県ですが、これは首都圏の祭りに屋台が少ないからではありません。
+      両都県は神社庁の例祭日の一覧から集めたデータの比率が高く、
+      その一覧に屋台の欄が無いために未確認が積み上がっています。
+      掲載件数が少ない県ほど、まとめサイト由来の大きな祭りが占める割合が高くなり、
+      結果として割合が高く出ます。<strong>この表は各県の祭りの実態ではなく、
+      当サイトのデータの偏りを表したものとして読んでください。</strong>
+    </p>
+  </div>
+
+  <h2>規模で見ると、素直な差が出る</h2>
+  <div class="tw">
+    <table>
+      <thead>
+        <tr><th>規模</th><th>掲載数</th><th>屋台ありの割合</th></tr>
+      </thead>
+      <tbody>
+        {scales.map((s) => (
+          <tr>
+            <td>{s.scale}規模</td>
+            <td class="n">{s.n.toLocaleString()}</td>
+            <td class="n">{pct(s.yes, s.n)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    市が主催するような大きな祭りは、ほとんどで屋台の有無が分かっています。
+    規模が小さくなるほど割合は下がりますが、
+    これも「町内会の盆踊りには屋台が出ない」という話ではありません。
+    町内会の告知は掲示板の貼り紙や区の広報が出どころで、
+    そこには開催日と場所しか書かれていないことが多いのです。
+    実際に行ってみると、焼きそばとかき氷の模擬店が出ていた、ということはよくあります。
+  </p>
+
+  <h2>探すときにどう使うか</h2>
+  <p>
+    当サイトの一覧では、屋台が出ると確認できた祭りに提灯色のしるしを付けています。
+    しるしが付いていないものは「出ない」ではなく「分からない」なので、
+    屋台目当てで遠出するなら、しるしの付いたものから選ぶのが確実です。
+    近所であれば、しるしが無いものも一度のぞいてみる価値があります。
+  </p>
+  <ul>
+    <li>屋台の確認が取れやすいのは<a href="/a/hokkaido/">北海道</a>や<a href="/a/niigata/">新潟県</a>のように、まとめサイトが丁寧に押さえている地域です</li>
+    <li>都市部は<a href="/a/tokyo/">東京都</a>のように未確認が多くなります。件数そのものは圧倒的に多いので、<a href="/search/">さがす</a>から日付で絞るほうが早く見つかります</li>
+    <li>屋台の有無を主催者に確認できた方は、<a href="/about/">連絡先</a>から教えていただけると助かります。1件ずつ「未確認」を減らしています</li>
+  </ul>
+</Guide>

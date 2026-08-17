@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ちくさん
+    url: https://chiku-san.com/20260623-nakataginza-matsuri/
 occurrences:
   - year: 2026
     dates:

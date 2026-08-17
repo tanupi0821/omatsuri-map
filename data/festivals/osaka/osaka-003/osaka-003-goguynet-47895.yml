@@ -8,24 +8,27 @@ area:
   ward: null
 venue:
   name: 大阪市平野区内
-  address: null
+  address: 大阪府大阪市平野区加美正覚寺1丁目17-30（旭神社、本宮会場）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市平野区
+    url: https://hirano.goguynet.jp/2026/07/14/kamihokutoudanjirimaturi/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-05
       - 2026-07-15
       - 2026-07-16
-    start_time: null
+    start_time: 13:00
     end_time: null
     status: confirmed
     source_url: https://hirano.goguynet.jp/2026/07/14/kamihokutoudanjirimaturi/
     source_name: 号外NET 大阪市平野区
     source_type: media
     checked_at: 2026-08-04
+    note: 宵宮(7/15)・本宮(7/16)とも午後1時から。本宮は旭神社、宵宮はJR衣摺加美北駅前（ミニストップ東大阪衣摺店付近）

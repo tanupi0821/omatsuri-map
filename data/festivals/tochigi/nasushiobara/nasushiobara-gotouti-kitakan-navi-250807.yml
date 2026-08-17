@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 那須塩原市内
-  address: null
+  address: 栃木県那須塩原市豊町2-1（黒磯小学校校庭）
   lat: null
   lng: null
-organizer: null
+organizer: 第109回那須塩原市盆踊り大会実行委員会（委員長：平川琢己）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 那須塩原市商工会 盆踊り大会情報
+    url: https://nasushiobara-shokokai.jp/2026/06/08/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E9%82%A3%E9%A0%88%E5%A1%A9%E5%8E%9F%E5%B8%82%E7%9B%86%E8%B8%8A%E3%82%8A%E5%A4%A7%E4%BC%9A-2-2-2/
 occurrences:
   - year: 2026
     dates:

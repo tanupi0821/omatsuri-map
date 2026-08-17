@@ -1,0 +1,181 @@
+---
+/**
+ * 記事: 祭りの中止・延期は、どう知ればいいのか
+ *
+ * **中止のデータはほとんど残らない。** その事実そのものを記事にする。
+ * 実例は今あるものを自動で拾う。無くなったら本文の作りも変える。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence, staleDays } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('cancelled-postponed');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const status = {};
+for (const f of all) {
+  const s = latestOccurrence(f)?.status ?? 'none';
+  status[s] = (status[s] ?? 0) + 1;
+}
+const cancelled = [];
+for (const f of all) {
+  for (const o of f.occurrences ?? []) {
+    if (o.status === 'cancelled' || o.status === 'postponed') cancelled.push({ f, o });
+  }
+}
+const estimated = status.estimated ?? 0;
+const confirmed = status.confirmed ?? 0;
+
+// 出典の種別ごとの件数。中止の告知がどこに出るかの話に使う
+const SRC_LABEL = { official: '主催者・神社の公式', gov: '行政の発表', media: '地域メディア', aggregator: 'まとめサイト' };
+const bySrc = new Map();
+for (const f of all) {
+  const t = latestOccurrence(f)?.source_type ?? 'other';
+  bySrc.set(t, (bySrc.get(t) ?? 0) + 1);
+}
+const srcRows = [...bySrc].sort((a, b) => b[1] - a[1]);
+
+// 荒天時の扱いが注記に書かれているもの
+const rain = all.filter((f) => (latestOccurrence(f)?.note ?? '').match(/荒天|雨天|順延|中止/));
+// 最終確認日
+const checked = all.map((f) => latestOccurrence(f)?.checked_at).filter(Boolean).sort();
+const oldest = checked[0];
+const newest = checked.at(-1);
+const stale = all.filter((f) => staleDays(latestOccurrence(f)) > 180).length;
+---
+
+<Guide
+  title={g.title}
+  description={`掲載中の${N.toLocaleString()}件のうち、中止・延期として記録できているのは${cancelled.length}件だけです。中止の情報がデータに残りにくい理由と、出かける前に自分で確かめる手順を書きました。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    祭りは中止になります。台風、酷暑、担い手不足、そして災害。
+    ところが<strong>「中止になった」という情報は、驚くほどデータに残りません</strong>。
+    当サイトの{N.toLocaleString()}件のうち、中止・延期として記録できているのは
+    {cancelled.length}件だけです。この数字が少なすぎることを、この記事では正直に扱います。
+  </p>
+
+  <h2>掲載中の日程の状態</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>状態</th><th>件数</th><th>割合</th></tr></thead>
+      <tbody>
+        <tr><td>主催者・出典が発表した日程</td><td class="n">{confirmed.toLocaleString()}</td><td class="n">{pct(confirmed, N)}%</td></tr>
+        <tr><td>例年の決まりからの推定</td><td class="n">{estimated.toLocaleString()}</td><td class="n">{pct(estimated, N)}%</td></tr>
+        <tr><td>中止・延期</td><td class="n">{cancelled.length}</td><td class="n">{pct(cancelled.length, N)}%</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>なぜ中止の情報は残らないのか</h2>
+  <p>
+    集めていて分かったのは、<strong>中止の告知は、告知そのものと一緒に消える</strong>ということです。
+    主催者のサイトはイベントのページを丸ごと下げてしまうことが多く、
+    「◯◯祭は中止します」という一行が残らない。
+    町内会の掲示板に貼り紙が出ていても、それは網にかかりません。
+    結果として、開催されなかったという事実がどこにも記録されないまま、
+    翌年の告知が出るまで空白になります。
+  </p>
+  <p>
+    もうひとつは時期の問題です。当サイトが出典を最後に確認したのは
+    {oldest === newest ? `${oldest}` : `${oldest}から${newest}`}です。
+    多くの中止は開催の直前か当日に決まります。
+    <strong>データを集めた時点より後に起きたことは、当然ながら入っていません。</strong>
+  </p>
+
+  {cancelled.length > 0 && (
+    <>
+      <h2>記録できている例</h2>
+      <ul>
+        {cancelled.map(({ f, o }) => (
+          <li>
+            <a href={`/f/${f.id}/`}>{f.name}</a>（{f.area.pref}{f.area.city}）
+            — {o.status === 'cancelled' ? '中止' : '延期'}
+            {o.note && <span>。{o.note}</span>}
+          </li>
+        ))}
+      </ul>
+      <p>
+        いずれも、報道や自治体の発表という<strong>祭りの外側の情報源</strong>で中止を知った例です。
+        主催者のページだけを見ていたら分からなかったと思います。
+      </p>
+    </>
+  )}
+
+  <h2>出かける前に確かめる手順</h2>
+  <p>
+    そこで、当サイトを使ってもらう前提で、実際にやっている確認の順番を書いておきます。
+    上から順に、確度が高い順です。
+  </p>
+  <ol>
+    <li>
+      <strong>主催者の公式サイト・公式SNS。</strong>
+      当サイトの各ページには出典へのリンクを必ず付けています。まずそこを開いてください。
+      更新が止まっている場合、去年のページを見ている可能性があります。年号を確認します。
+    </li>
+    <li>
+      <strong>市区町村・区役所のイベント案内。</strong>
+      主催者にサイトが無い小さな祭りでも、自治体の一覧に載っていれば
+      中止のときに一覧から消えるか、注記が入ります。
+    </li>
+    <li>
+      <strong>地域のニュース。</strong>
+      災害や事故で広域の祭りが止まるときは、まず報道に出ます。
+      当サイトが中止を記録できた例も、この経路で分かったものです。
+    </li>
+    <li>
+      <strong>当日の朝。</strong>
+      荒天の判断はたいてい当日の午前に出ます。主催者のSNSがいちばん早い。
+      SNSが無ければ、開催予定の会場に電話で問い合わせるのが確実です。
+    </li>
+  </ol>
+  <p>
+    出典の種別ごとの掲載件数は次のとおりです。
+    主催者の公式発表を出典にしているものは、確認の一段目が短くて済みます。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>出典の種別</th><th>掲載件数</th></tr></thead>
+      <tbody>
+        {srcRows.map(([t, n]) => (
+          <tr><td>{SRC_LABEL[t] ?? t}</td><td class="n">{n.toLocaleString()}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>荒天のときの扱いは、祭りごとに違う</h2>
+  <p>
+    荒天や雨天のときにどうするかが出典に書かれていたものは{rain.length.toLocaleString()}件あり、
+    当サイトでは注記としてそのページに載せています。
+    「小雨決行」「荒天中止」「翌日に順延」「花火のみ中止で盆踊りは実施」と、扱いは本当にばらばらです。
+    <strong>雨だから中止、と決めつけないでください。</strong>
+    逆に、晴れていても河川敷の増水で中止になる花火大会があります。
+  </p>
+
+  <div class="caveat">
+    <p>
+      当サイトの日程は出典の発表時点のもので、その後の変更を反映できていない可能性があります。
+      最終確認から180日以上が経っているものが{stale.toLocaleString()}件あり、
+      これらは特に注意が必要です。各ページに最終確認日を表示しているので、
+      日付が古いものは<strong>出典を自分で開いて確かめてください</strong>。
+      中止・変更に気づかれた方は<a href="/about/">連絡先</a>から教えていただけると助かります。
+    </p>
+  </div>
+
+  <h2>推定の日程は、別の意味で要注意</h2>
+  <p>
+    例年の決まりから割り出した日程が{estimated.toLocaleString()}件あります。
+    これは中止とは違い、<strong>そもそも今年開かれるかどうかが確認できていない</strong>ものです。
+    神社の例祭は多くが毎年続きますが、担い手が減って規模を縮めたり、
+    神事だけにして一般向けの催しを取りやめたりすることがあります。
+    推定の札が付いているものは、必ず現地の告知で確かめてください。
+    どうやって推定しているかは
+    <a href="/guides/shrine-reisai-dates/">神社の例祭日はどう決まっているのか</a>に書きました。
+  </p>
+</Guide>

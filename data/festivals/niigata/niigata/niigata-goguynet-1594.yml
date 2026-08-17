@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 新潟市西区・西蒲区
+    url: https://niigatanishi-nishikan.goguynet.jp/2026/05/31/kurosakimaturi/
 occurrences:
   - year: 2026
     dates:

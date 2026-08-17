@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 高知市内
-  address: null
+  address: 高知県高知市帯屋町1丁目11（東洋電化中央公園）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: こうち天然あゆまつり 公式
+    url: https://kochi-ayu.pref.kochi.lg.jp/ayufestival/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 20:00
     status: confirmed
     source_url: https://kochi.goguynet.jp/2026/07/25/event_ayufestival2026/
     source_name: 号外NET 高知市

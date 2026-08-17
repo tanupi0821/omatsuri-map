@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市鶴見区・城東区
+    url: https://tsurumi-joto.goguynet.jp/2026/07/20/natsumaturi2026/
 occurrences:
   - year: 2026
     dates:

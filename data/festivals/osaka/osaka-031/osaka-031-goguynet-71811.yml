@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 八尾市内
-  address: null
+  address: 大阪府八尾市空港1-81（陸上自衛隊八尾駐屯地）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 陸上自衛隊八尾駐屯地
+    url: https://www.mod.go.jp/gsdf/mae/3d/yao/index.html
 occurrences:
   - year: 2026
     dates:
       - 2026-10-06
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 19:50
     status: confirmed
     source_url: https://yao.goguynet.jp/2026/07/28/jieitai-hanabi2026/
     source_name: 号外NET 八尾市

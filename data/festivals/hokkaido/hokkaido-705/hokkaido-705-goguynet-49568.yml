@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 札幌市中央区
+    url: https://sapporochuo.goguynet.jp/2026/04/13/sapporo_miyoshi_jinja-4/
 occurrences:
   - year: 2026
     dates:

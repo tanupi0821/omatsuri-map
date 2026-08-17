@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市平野区
+    url: https://hirano.goguynet.jp/2026/07/24/nagayosikawanabebonodoritaitkai/
 occurrences:
   - year: 2026
     dates:

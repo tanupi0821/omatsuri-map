@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 東近江市内
-  address: null
+  address: 滋賀県東近江市能登川町伊庭34（繖峰三神社）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: びわこビジターズビューロー 伊庭の坂下し祭
+    url: https://www.biwako-visitors.jp/event/detail/162/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-04
-    start_time: null
+    start_time: 12:30
     end_time: null
     status: confirmed
     source_url: https://higashiomi-omihachiman.goguynet.jp/2026/05/02/iba/
     source_name: 号外NET 東近江市・近江八幡市
     source_type: media
     checked_at: 2026-08-04
+    note: 山頂出発(宮出し)12:30ごろ、麓の大鳥居到着16:00ごろ予定

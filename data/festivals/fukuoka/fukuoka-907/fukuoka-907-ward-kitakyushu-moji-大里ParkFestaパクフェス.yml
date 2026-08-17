@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 北九州市門司区内
-  address: null
+  address: 福岡県北九州市門司区不老町1-1（大里公園）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
 occurrences:
   - year: 2026
     dates:

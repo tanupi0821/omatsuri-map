@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 吹田市内
-  address: null
+  address: 大阪府吹田市千里山松が丘25-1（千里第二小学校）
   lat: null
   lng: null
 organizer: null
@@ -20,7 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
+    start_time: 19:00
     end_time: null
     status: confirmed
     source_url: https://suita.goguynet.jp/2026/05/27/tamayeah/

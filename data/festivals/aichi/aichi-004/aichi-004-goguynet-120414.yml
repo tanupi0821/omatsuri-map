@@ -11,17 +11,21 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 豊田おいでんまつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 豊田おいでんまつり公式サイト
+    url: https://www.oidenmaturi.com/
+  - title: 豊田市
+    url: https://www.city.toyota.aichi.jp/event/event/1077501.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 21:00
     status: confirmed
     source_url: https://toyota.goguynet.jp/2026/07/24/oidennmaturi-rinnzidaiya-meitetu-aikann-toyotasi/
     source_name: 号外NET 豊田市

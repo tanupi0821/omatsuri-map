@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 名古屋市名東区
+    url: https://www.city.nagoya.jp/meito/kosodate/1025302/1025306/1036338.html
 occurrences:
   - year: 2026
     dates:

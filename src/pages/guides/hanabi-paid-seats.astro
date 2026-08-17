@@ -1,0 +1,285 @@
+---
+/**
+ * 記事: 花火大会の有料席は、いくらぐらいなのか
+ *
+ * paid_seats / paid_seats_note を 1 件ずつ調べた結果の集計。
+ * **値段の書式は出典ごとにばらばら**なので、拾えた分だけを集計していること、
+ * 1 人あたりと 1 区画あたりが混ざっていることを本文で必ず断る。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('hanabi-paid-seats');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+const yen = (v) => `${v.toLocaleString()}円`;
+
+const hanabi = all.filter((f) => f.kind === '花火');
+const H = hanabi.length;
+const checked = hanabi.filter((f) => f.paid_seats);
+const yes = checked.filter((f) => f.paid_seats === 'yes');
+const no = checked.filter((f) => f.paid_seats === 'no');
+const unk = checked.filter((f) => f.paid_seats === 'unknown');
+
+/** 注記の文章から金額を拾う。「1万6000円」のような書き方にも当てる */
+function pricesIn(t) {
+  const out = [];
+  for (const m of String(t ?? '').matchAll(/([0-9,]{3,9}|[0-9]+万[0-9]*)円/g)) {
+    const s = m[1];
+    let v;
+    if (s.includes('万')) {
+      const [a, b] = s.split('万');
+      v = Number(a) * 10000 + (b ? Number(b) : 0);
+    } else v = Number(s.replace(/,/g, ''));
+    // 極端な値は書式の読み違いなので落とす
+    if (v >= 100 && v <= 500000) out.push(v);
+  }
+  return out;
+}
+
+const priced = yes
+  .map((f) => ({ f, p: pricesIn(f.paid_seats_note) }))
+  .filter((x) => x.p.length)
+  .map((x) => ({ f: x.f, min: Math.min(...x.p), max: Math.max(...x.p) }));
+
+const mins = priced.map((x) => x.min).sort((a, b) => a - b);
+const maxs = priced.map((x) => x.max).sort((a, b) => a - b);
+const q = (a, p) => a[Math.floor((a.length - 1) * p)];
+
+const bands = [
+  { k: '1,000円まで', lo: 0, hi: 1000 },
+  { k: '1,001〜2,000円', lo: 1001, hi: 2000 },
+  { k: '2,001〜3,000円', lo: 2001, hi: 3000 },
+  { k: '3,001〜5,000円', lo: 3001, hi: 5000 },
+  { k: '5,001〜10,000円', lo: 5001, hi: 10000 },
+  { k: '10,001円以上', lo: 10001, hi: Infinity },
+];
+for (const b of bands) b.v = mins.filter((v) => v >= b.lo && v <= b.hi).length;
+const maxBand = Math.max(...bands.map((b) => b.v));
+
+// 席の呼び方ごとの安い席の中央値
+const seatKinds = [
+  { k: 'イス席・椅子席', words: ['イス席', 'いす席', '椅子'] },
+  { k: '桟敷・マス席', words: ['桟敷', 'マス席', 'ます席'] },
+  { k: 'シート席', words: ['シート'] },
+  { k: 'ペア・テーブル席', words: ['ペア', 'テーブル'] },
+  { k: 'カメラマン席', words: ['カメラ'] },
+  { k: '車で入る席', words: ['駐車スペース', '車1台', '車2台', '1台'] },
+];
+for (const s of seatKinds) {
+  const list = priced.filter((x) => s.words.some((w) => (x.f.paid_seats_note ?? '').includes(w)));
+  s.n = list.length;
+  const a = list.map((x) => x.min).sort((c, d) => c - d);
+  s.med = a.length ? q(a, 0.5) : null;
+  s.lo = a[0] ?? null;
+  s.hi = a.at(-1) ?? null;
+}
+const seatRows = seatKinds.filter((s) => s.n >= 5).sort((a, b) => a.med - b.med);
+// 車ごと入れる区画。地方の大会に多い形なので、あれば一言添える
+const carSeats = seatKinds.find((s) => s.k === '車で入る席')?.n ?? 0;
+
+// 全席有料
+const allSeats = yes.filter((f) => (f.paid_seats_note ?? '').includes('全席'));
+// 施設の入場料が別にかかる会場
+const venueFee = hanabi.filter((f) => /入場料|入園料|入村料/.test(f.paid_seats_note ?? ''));
+
+// 都道府県ごと
+const byPref = new Map();
+for (const f of checked) {
+  if (!byPref.has(f.area.pref)) byPref.set(f.area.pref, { pref: f.area.pref, slug: f._prefSlug, n: 0, yes: 0 });
+  const p = byPref.get(f.area.pref);
+  p.n++;
+  if (f.paid_seats === 'yes') p.yes++;
+}
+const prefRows = [...byPref.values()].filter((p) => p.n >= 15).sort((a, b) => b.yes / b.n - a.yes / a.n);
+
+// 高い席の実例
+const dearest = [...priced].sort((a, b) => b.max - a.max).slice(0, 3);
+const cheapest = [...priced].sort((a, b) => a.min - b.min).slice(0, 3);
+---
+
+<Guide
+  title={g.title}
+  description={`掲載中の花火大会${H.toLocaleString()}件の有料観覧席を一件ずつ調べました。有料席があるのは${yes.length}件。値段を書けた${priced.length}大会で、いちばん安い席の中央値は${yen(q(mins, 0.5))}でした。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    花火大会は入場無料、と言い切れなくなって久しく経ちます。
+    有料の観覧席が用意され、いい場所は先に売れてしまう。
+    では実際にいくらぐらいなのか。
+    掲載中の花火大会{H.toLocaleString()}件について、
+    有料席の有無と値段を一件ずつ出典にあたって調べました。その結果です。
+  </p>
+
+  <h2>半分以上に有料席がある</h2>
+  <p>
+    有料席の有無を確かめられたのは{checked.length.toLocaleString()}件です。
+  </p>
+  <ul class="bars">
+    <li>
+      <span class="k">有料席あり</span>
+      <span class="b" style={`width:${(yes.length / checked.length) * 100}%`}></span>
+      <span class="v">{yes.length}件（{pct(yes.length, checked.length)}%）</span>
+    </li>
+    <li>
+      <span class="k">有料席なし</span>
+      <span class="b alt" style={`width:${(no.length / checked.length) * 100}%`}></span>
+      <span class="v">{no.length}件（{pct(no.length, checked.length)}%）</span>
+    </li>
+    <li>
+      <span class="k">判断できず</span>
+      <span class="b dim" style={`width:${(unk.length / checked.length) * 100}%`}></span>
+      <span class="v">{unk.length}件</span>
+    </li>
+  </ul>
+  <p class="key">
+    無料で見られる大会もまだ{no.length}件あります。
+    ただし「有料席がある」と「有料席でないと見られない」は別の話です。
+    多くの大会は、有料席のほかに無料で見られる場所を残しています。
+  </p>
+
+  <h2>いちばん安い席は3,000円前後</h2>
+  <p>
+    有料席のある{yes.length}件のうち、出典に具体的な金額が書かれていて集計できたのは
+    {priced.length}大会でした。その大会ごとに<strong>いちばん安い席の値段</strong>を取り出して並べます。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>統計</th><th>いちばん安い席</th><th>いちばん高い席</th></tr></thead>
+      <tbody>
+        <tr><td>下から4分の1</td><td class="n">{yen(q(mins, 0.25))}</td><td class="n">{yen(q(maxs, 0.25))}</td></tr>
+        <tr><td>中央値</td><td class="n">{yen(q(mins, 0.5))}</td><td class="n">{yen(q(maxs, 0.5))}</td></tr>
+        <tr><td>上から4分の1</td><td class="n">{yen(q(mins, 0.75))}</td><td class="n">{yen(q(maxs, 0.75))}</td></tr>
+        <tr><td>上位1割</td><td class="n">{yen(q(mins, 0.9))}</td><td class="n">{yen(q(maxs, 0.9))}</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p>いちばん安い席の値段を、帯で分けるとこうなります。</p>
+  <ul class="bars">
+    {bands.map((b) => (
+      <li>
+        <span class="k">{b.k}</span>
+        <span class="b" style={`width:${(b.v / maxBand) * 100}%`}></span>
+        <span class="v">{b.v}大会（{pct(b.v, priced.length)}%）</span>
+      </li>
+    ))}
+  </ul>
+  <p class="key">
+    ひとまず<strong>ひとり3,000円前後を見ておけば、多くの大会でいちばん安い席に手が届く</strong>、
+    というのがこの{priced.length}大会から見える線です。
+    上を見ればきりがなく、いちばん高い席の中央値は{yen(q(maxs, 0.5))}になります。
+  </p>
+
+  <div class="caveat">
+    <p>
+      値段の書き方は出典によってばらばらです。<strong>ひとり分の値段と、
+      1区画あたりの値段（4人まで、車1台分など）が同じ文中に混ざっています。</strong>
+      上の集計は文中の金額をそのまま拾ったもので、この二つを分けていません。
+      「安い席のほうがひとり単価に近い」という程度の目安として読んでください。
+      正確な条件は必ず各大会の公式サイトで確認してください。
+    </p>
+  </div>
+
+  <h2>席の呼び方で相場が違う</h2>
+  <p>
+    注記に出てくる席の呼び方ごとに、その大会のいちばん安い席の中央値を出しました。
+    同じ大会が複数の分類に入ります。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>席の呼び方</th><th>大会数</th><th>安い席の中央値</th><th>幅</th></tr></thead>
+      <tbody>
+        {seatRows.map((s) => (
+          <tr>
+            <td>{s.k}</td>
+            <td class="n">{s.n}</td>
+            <td class="n">{yen(s.med)}</td>
+            <td class="n">{yen(s.lo)}〜{yen(s.hi)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    桟敷やマス席は一区画をまとめて買う形が多く、そのぶん高く出ます。
+    人数で割ると必ずしも割高ではありません。
+    {carSeats > 0 && (
+      <>車ごと入れる区画を用意する大会も{carSeats}件ありました。
+      河川敷の駐車場を観覧席として売る形で、地方の大会に多く見られます。</>
+    )}
+  </p>
+
+  <h2>「全席有料」の大会が{allSeats.length}件ある</h2>
+  <p>
+    注記に「全席有料」と明記されている大会が{allSeats.length}件ありました。
+    無料で見られる場所が用意されていない、つまり<strong>チケットが無いと会場に入れない</strong>形式です。
+    ふらりと出かけて締め出される、ということが起こり得ます。
+  </p>
+  <ul>
+    {allSeats.slice(0, 8).map((f) => (
+      <li><a href={`/f/${f.id}/`}>{f.name}</a>（{f.area.pref}{f.area.city}）</li>
+    ))}
+  </ul>
+
+  <h2>入場料が別にかかる会場</h2>
+  <p>
+    遊園地・テーマパーク・球場のように、施設そのものに入場料がある会場で行われる花火が
+    {venueFee.length}件あります。
+    出典の「有料席」の欄が「なし」になっていても、
+    <strong>入場料を払わないと見られないので、無料とは言えません</strong>。
+    こうした大会は当サイトで有料席の扱いを「未確認」にし、
+    施設の入場料を別に確かめる必要がある旨を注記しています。
+  </p>
+  <ul>
+    {venueFee.slice(0, 6).map((f) => (
+      <li><a href={`/f/${f.id}/`}>{f.name}</a>（{f.area.pref}{f.area.city}）</li>
+    ))}
+  </ul>
+
+  <h2>地域による差</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>地域</th><th>調べた大会</th><th>有料席あり</th></tr></thead>
+      <tbody>
+        {prefRows.map((p) => (
+          <tr>
+            <td><a href={`/a/${p.slug}/`}>{p.pref}</a></td>
+            <td class="n">{p.n}</td>
+            <td class="n">{pct(p.yes, p.n)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    人が集まる都市部ほど有料席の比率が高くなります。
+    観客の整理と安全の確保に費用がかかるほど、席を売って賄う形になるのは自然です。
+    ただし件数が少ない地域は割合が跳ねるので、掲載15件以上の地域だけを載せています。
+  </p>
+
+  <h2>買うときに気をつけること</h2>
+  <ul>
+    <li>売り出しは大会の数か月前です。人気の大会は夏を待たずに完売します</li>
+    <li>専用の販売サイトでしか買えないものがあります。当日券が無い大会も珍しくありません</li>
+    <li>雨天の扱いは大会ごとに違います。順延した場合にチケットが有効かどうかは、買う前に確認してください</li>
+    <li>区画売りは人数の上限があります。人数を超えると入れません</li>
+  </ul>
+  <p>
+    値段の高い順に挙げると、
+    {dearest.map((x, i) => (
+      <>{i > 0 ? '、' : ''}<a href={`/f/${x.f.id}/`}>{x.f.name}</a>（最高{yen(x.max)}）</>
+    ))}
+    といったところです。
+    逆にいちばん安い席が手ごろなのは
+    {cheapest.map((x, i) => (
+      <>{i > 0 ? '、' : ''}<a href={`/f/${x.f.id}/`}>{x.f.name}</a>（{yen(x.min)}から）</>
+    ))}
+    でした。
+    各ページに有料席の内訳と出典へのリンクを載せています。
+    花火大会の一覧は<a href="/search/">さがす</a>から地域と日付で絞れます。
+  </p>
+</Guide>

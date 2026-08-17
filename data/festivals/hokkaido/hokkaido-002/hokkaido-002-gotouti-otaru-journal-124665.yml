@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 小樽市内
-  address: null
+  address: 北海道小樽市末広町38
   lat: null
   lng: null
 organizer: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-03-31
-    start_time: null
+    start_time: 10:00
     end_time: null
     status: confirmed
     source_url: https://www.otaru-journal.com/2026/06/post-124665/
     source_name: 小樽ジャーナル
     source_type: media
     checked_at: 2026-08-06
+    note: 本祭の開始時刻。宵宮祭は前日18:00から

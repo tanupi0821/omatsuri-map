@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 北九州市小倉南区
+    url: https://kitakyushukokuraminami.goguynet.jp/2026/05/18/kidssmail-fest2026-0524/
 occurrences:
   - year: 2026
     dates:

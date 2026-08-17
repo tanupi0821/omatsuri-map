@@ -1,0 +1,35 @@
+id: saitama-706-hanabi-ar0311e00513
+name: 令和8年度 さいたま市花火大会 東浦和 大間木公園会場
+kind: 花火
+scale: 市
+area:
+  pref: 埼玉県
+  city: さいたま市緑区
+  ward: null
+venue:
+  name: 大間木公園周辺
+  address: さいたま市緑区大字大間木
+  lat: 35.8653
+  lng: 139.710395
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 公式サイト
+    url: https://visitsaitamacity.jp/events/29
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: 19:30
+    end_time: 20:20
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0311e00513/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-08-05
+station: JR東浦和駅から観覧場所誘導ルートを通って徒歩15分
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（詳細はさいたま市公式観光サイトをご確認ください）

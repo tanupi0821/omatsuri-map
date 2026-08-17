@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 葉山町内
-  address: null
+  address: 神奈川県三浦郡葉山町一色（小磯の鼻）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 葉山町
+    url: https://www.town.hayama.lg.jp/soshiki/sangyou/1/14061.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-22
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 19:40
     status: confirmed
     source_url: http://zushi-hayama.keizai.biz/headline/1089/
     source_name: 逗子葉山経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 一色海岸会場（打ち上げ約10分間、480発）

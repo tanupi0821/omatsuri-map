@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: みずほん
+    url: https://mizuhon.com/horita-sum-fes-2026-info/
 occurrences:
   - year: 2026
     dates:

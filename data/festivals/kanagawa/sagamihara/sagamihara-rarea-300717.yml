@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 相模原市内
-  address: null
+  address: 神奈川県相模原市緑区久保沢2-26-2（もみじホール城山 多目的ホール）
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-17
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 17:00
     status: confirmed
     source_url: https://rarea.events/event/300717
     source_name: レアリア

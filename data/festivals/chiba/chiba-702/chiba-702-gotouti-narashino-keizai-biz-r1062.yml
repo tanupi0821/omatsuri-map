@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 習志野市内
-  address: null
+  address: 千葉県習志野市谷津4-6-33 K&Y時遊館
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: むぎのいえ Instagram
+    url: https://www.instagram.com/muginoie.jozocho_imai/
 occurrences:
   - year: 2026
     dates:

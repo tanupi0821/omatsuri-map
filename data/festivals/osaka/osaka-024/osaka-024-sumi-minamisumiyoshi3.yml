@@ -15,7 +15,9 @@ organizer: 南住吉3丁目町会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 大阪市住吉区
+    url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
 occurrences:
   - year: 2026
     dates:

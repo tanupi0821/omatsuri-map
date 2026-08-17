@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 名古屋市名東区・千種区
+    url: https://nagoyameito-chikusa.goguynet.jp/2026/04/04/fujigaokasakuramatsuri/
 occurrences:
   - year: 2026
     dates:

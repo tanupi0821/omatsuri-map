@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 新宿区内
-  address: null
+  address: 東京都新宿区西早稲田3丁目10番12号
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 戸塚第一小学校PTA
+stalls: yes
 tags: []
 description: null
 links: []

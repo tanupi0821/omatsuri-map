@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 流山市内
-  address: null
+  address: 千葉県流山市流山1丁目〜3丁目地先 江戸川堤
   lat: null
   lng: null
-organizer: null
+organizer: 流山花火大会実行委員会事務局（流山商工会議所）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 花火大会2026（ウォーカープラス）
+    url: https://hanabi.walkerplus.com/detail/ar0312e00885/
 occurrences:
   - year: 2026
     dates:
       - 2026-10-03
-    start_time: null
-    end_time: null
+    start_time: 18:00
+    end_time: 18:40
     status: confirmed
     source_url: https://nagareyama-noda.goguynet.jp/2026/07/20/nagareyamahanabitaikai-5/
     source_name: 号外NET 流山市・野田市

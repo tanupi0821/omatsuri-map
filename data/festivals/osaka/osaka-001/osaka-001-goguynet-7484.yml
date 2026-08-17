@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 泉南市内
-  address: null
+  address: 大阪府泉南市りんくう南浜2-201（泉南りんくう公園 海のマルシェ）
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://izumisano-sennan-hannan.goguynet.jp/2026/07/26/merchearea-renewal/
     source_name: 号外NET 泉佐野市・泉南市・阪南市

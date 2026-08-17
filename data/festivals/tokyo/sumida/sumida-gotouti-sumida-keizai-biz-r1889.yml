@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 墨田区内
-  address: null
+  address: 東京都墨田区八広6（吾嬬西公園）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 21:00
     status: confirmed
     source_url: http://sumida.keizai.biz/headline/1889/
     source_name: すみだ経済新聞

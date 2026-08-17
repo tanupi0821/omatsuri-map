@@ -1,0 +1,136 @@
+---
+/**
+ * 読みものの記事の枠。
+ *
+ * 一覧・詳細ページと同じ見た目のままで、**本文が長い**という一点だけが違う。
+ * だから寸法も色も Base.astro の変数しか使わない。新しい段階を作らない。
+ *
+ * 本文は `<slot />` で受け取る。Astro のスコープ付きスタイルは差し込まれた
+ * 中身には効かないので、記事本文用の見た目だけ `is:global` にして
+ * `.guide` の下に閉じ込めている。
+ */
+import Base from './Base.astro';
+import { SITE_NAME } from '../lib/site.js';
+import { otherGuides } from '../lib/guides.js';
+
+const { title, description, lede, slug, count, updated = '2026年8月' } = Astro.props;
+
+const related = otherGuides(slug, 3);
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  inLanguage: 'ja',
+  isAccessibleForFree: true,
+  publisher: { '@type': 'Organization', name: SITE_NAME },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': new URL(Astro.url.pathname, Astro.site).href,
+  },
+};
+---
+
+<Base title={title} description={description} jsonld={jsonld}>
+  <nav class="crumb">
+    <a href="/">{SITE_NAME}</a> ／ <a href="/guides/">読みもの</a> ／ {title}
+  </nav>
+  <h1>{title}</h1>
+  <p class="lede">{lede}</p>
+
+  <div class="guide">
+    <slot />
+  </div>
+
+  <p class="datanote">
+    {count != null
+      ? `この記事の数字は、お祭りマップに掲載している ${count.toLocaleString()} 件の祭りのデータをページの生成時に集計したものです（${updated}時点）。`
+      : `この記事の数字は、お祭りマップのデータをページの生成時に集計したものです（${updated}時点）。`}
+    掲載件数が増えれば数字も動きます。集計に使ったのは各祭りの
+    <a href="/about/">出典つきの掲載データ</a>だけで、外部の統計は使っていません。
+  </p>
+
+  <h2>ほかの読みもの</h2>
+  <ul class="rel">
+    {related.map((g) => (
+      <li>
+        <a href={`/guides/${g.slug}/`}>{g.title}</a>
+        <span>{g.lede}</span>
+      </li>
+    ))}
+  </ul>
+
+  <p class="back">
+    <a href="/guides/">← 読みもの一覧</a> ／ <a href="/search/">祭りをさがす</a>
+  </p>
+
+  <style>
+    .crumb { font-size: var(--t3); color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: var(--s1); }
+    .lede { font-size: var(--t4); color: var(--muted); margin: var(--s2) 0 var(--s5); }
+    .datanote {
+      margin-top: var(--s6); padding: var(--s3) var(--s4);
+      border: 1px dashed var(--line); border-radius: var(--r2);
+      background: var(--card2); color: var(--muted); font-size: var(--t2);
+    }
+    .rel { list-style: none; padding: 0; margin: 0; }
+    .rel li { margin-bottom: var(--s3); }
+    .rel a { font-size: var(--t4); font-weight: 700; }
+    .rel span { display: block; font-size: var(--t2); color: var(--muted); }
+    .back { margin-top: var(--s6); font-size: var(--t3); }
+  </style>
+
+  {/* 本文（slot で差し込まれる側）の見た目。`.guide` の下だけに効かせる */}
+  <style is:global>
+    .guide p, .guide li { font-size: var(--t4); }
+    .guide h2 { font-size: var(--t5); margin: var(--s5) 0 var(--s2); }
+    .guide h3 {
+      font-size: var(--t4); font-weight: 700; margin: var(--s5) 0 var(--s2);
+      padding-left: var(--s2); border-left: 3px solid var(--kaki);
+    }
+    .guide ul, .guide ol { padding-left: 1.2em; }
+    .guide li { margin-bottom: var(--s1); }
+
+    /* 数の並び。棒の長さで大小を見せる。色は藍と柿渋だけ */
+    .guide .bars { list-style: none; padding: 0; margin: var(--s3) 0; }
+    .guide .bars li {
+      display: grid; grid-template-columns: 7.5em 1fr auto; gap: var(--s2);
+      align-items: center; margin-bottom: var(--s1); font-size: var(--t3);
+    }
+    .guide .bars .k { color: var(--muted); text-align: right; }
+    .guide .bars .b {
+      height: 12px; border-radius: var(--r1); background: var(--ai); min-width: 2px;
+    }
+    .guide .bars .b.alt { background: var(--kaki); }
+    .guide .bars .b.dim { background: var(--line); }
+    .guide .bars .v { font-variant-numeric: tabular-nums; font-size: var(--t2); }
+
+    /* 表。狭い画面でははみ出す前に横に流す */
+    .guide .tw { overflow-x: auto; margin: var(--s3) 0; }
+    .guide table { border-collapse: collapse; width: 100%; font-size: var(--t3); }
+    .guide th, .guide td {
+      border-bottom: 1px solid var(--line2); padding: var(--s2);
+      text-align: left; white-space: nowrap;
+    }
+    .guide th { color: var(--muted); font-weight: 600; font-size: var(--t2); }
+    .guide td.n { text-align: right; font-variant-numeric: tabular-nums; }
+    .guide tbody tr:hover { background: var(--card2); }
+
+    /* 数えた結果のうち、そのまま持ち帰ってほしい一行 */
+    .guide .key {
+      margin: var(--s4) 0; padding: var(--s3) var(--s4);
+      background: var(--ai-soft); border-left: 4px solid var(--ai);
+      border-radius: var(--r1); font-size: var(--t4);
+    }
+    /* 断定できないこと・気をつけてほしいこと */
+    .guide .caveat {
+      margin: var(--s4) 0; padding: var(--s3) var(--s4);
+      background: var(--warn-bg); color: var(--warn-fg);
+      border: 1px dashed var(--warn-line); border-radius: var(--r1);
+      font-size: var(--t3);
+    }
+    .guide .caveat p, .guide .caveat li { font-size: var(--t3); }
+    .guide figcaption { font-size: var(--t2); color: var(--muted); margin-top: var(--s1); }
+    .guide figure { margin: var(--s4) 0; }
+  </style>
+</Base>

@@ -1,0 +1,224 @@
+---
+/**
+ * 記事: 盆踊りは何月に多いのか
+ *
+ * occurrences[].dates を全部ばらして数える。祭りの数と日付の数は違うので、
+ * どちらで数えたのかを本文で必ず言い分ける。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('bon-odori-calendar');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const bon = all.filter((f) => f.kind === '盆踊り');
+const dates = [];
+for (const f of bon) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) dates.push(d);
+const D = dates.length;
+
+// 月別（日付の数で数える）
+const months = new Array(13).fill(0);
+for (const d of dates) months[Number(d.slice(5, 7))]++;
+const monthRows = months
+  .map((v, i) => ({ m: i, v }))
+  .filter((x) => x.m >= 1 && x.v > 0);
+const maxMonth = Math.max(...monthRows.map((x) => x.v));
+
+// 旬（じゅん）別
+const buckets = [
+  { k: '7月上旬', m: 7, lo: 1, hi: 10 },
+  { k: '7月中旬', m: 7, lo: 11, hi: 20 },
+  { k: '7月下旬', m: 7, lo: 21, hi: 31 },
+  { k: '8月上旬', m: 8, lo: 1, hi: 10 },
+  { k: '8月中旬', m: 8, lo: 11, hi: 20 },
+  { k: '8月下旬', m: 8, lo: 21, hi: 31 },
+];
+for (const b of buckets) {
+  b.v = dates.filter((d) => Number(d.slice(5, 7)) === b.m && Number(d.slice(8)) >= b.lo && Number(d.slice(8)) <= b.hi).length;
+}
+const other78 = D - buckets.reduce((a, b) => a + b.v, 0);
+const maxBucket = Math.max(...buckets.map((b) => b.v));
+
+// 日付ランキング（月日で束ねる）
+const dayCount = new Map();
+for (const d of dates) dayCount.set(d.slice(5), (dayCount.get(d.slice(5)) ?? 0) + 1);
+const topDays = [...dayCount].sort((a, b) => b[1] - a[1]).slice(0, 8)
+  .map(([md, v]) => ({ md: `${Number(md.slice(0, 2))}月${Number(md.slice(3))}日`, v }));
+
+// お盆の期間（8/13〜16）
+const OBON = ['08-13', '08-14', '08-15', '08-16'];
+const obonDates = dates.filter((d) => OBON.includes(d.slice(5))).length;
+const obonFest = bon.filter((f) => (f.occurrences ?? []).some((o) => (o.dates ?? []).some((d) => OBON.includes(d.slice(5))))).length;
+
+// 曜日
+const WD = ['日', '月', '火', '水', '木', '金', '土'];
+const wd = new Array(7).fill(0);
+for (const d of dates) {
+  const [y, m, dd] = d.split('-').map(Number);
+  wd[new Date(Date.UTC(y, m - 1, dd)).getUTCDay()]++;
+}
+const wdRows = [6, 0, 5, 4, 1, 2, 3].map((i) => ({ w: WD[i], v: wd[i] }));
+const maxWd = Math.max(...wd);
+const weekendFest = bon.filter((f) => (f.occurrences ?? []).some((o) => (o.dates ?? []).some((d) => {
+  const [y, m, dd] = d.split('-').map(Number);
+  const w = new Date(Date.UTC(y, m - 1, dd)).getUTCDay();
+  return w === 0 || w === 6;
+}))).length;
+
+// 都道府県ごとの 7 月・8 月の比率
+function share(pref) {
+  const list = bon.filter((f) => f.area.pref === pref);
+  const ds = [];
+  for (const f of list) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) ds.push(d);
+  const j = ds.filter((d) => d.slice(5, 7) === '07').length;
+  const a = ds.filter((d) => d.slice(5, 7) === '08').length;
+  const slug = list[0]?._prefSlug;
+  return { pref, slug, n: list.length, d: ds.length, j, a };
+}
+const prefRows = ['東京都', '千葉県', '神奈川県', '大阪府', '愛知県', '北海道']
+  .map(share)
+  .filter((r) => r.d > 0)
+  .sort((a, b) => b.j / b.d - a.j / a.d);
+
+// 沖縄には盆踊りとして掲載しているものが無い。正直に触れる
+const okinawa = all.filter((f) => f.area.pref === '沖縄県');
+const okinawaBon = okinawa.filter((f) => f.kind === '盆踊り').length;
+---
+
+<Guide
+  title={g.title}
+  description={`掲載中の盆踊り${bon.length.toLocaleString()}件の開催日${D.toLocaleString()}日分を月・旬・曜日で数えました。7月と8月でほぼ半々、お盆の期間そのものに開くものは${pct(obonFest, bon.length)}%だけでした。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    盆踊りは八月のお盆にやるもの、という感覚があります。
+    掲載中の盆踊り{bon.length.toLocaleString()}件、開催日にして{D.toLocaleString()}日分を数えてみると、
+    実際の分布はその感覚とだいぶずれていました。
+  </p>
+
+  <h2>7月と8月で、ほぼ半々</h2>
+  <ul class="bars">
+    {monthRows.map((x) => (
+      <li>
+        <span class="k">{x.m}月</span>
+        <span class={`b${x.v / maxMonth < 0.05 ? ' dim' : ''}`} style={`width:${(x.v / maxMonth) * 100}%`}></span>
+        <span class="v">{x.v.toLocaleString()}日（{pct(x.v, D)}%）</span>
+      </li>
+    ))}
+  </ul>
+  <p>
+    7月と8月でほぼ拮抗しています。9月以降に散らばるものもありますが、
+    合わせても全体のごく一部です。
+    盆踊りは「夏の二か月に押し込まれた行事」だと言ってよさそうです。
+  </p>
+
+  <h2>山は7月下旬と8月上旬</h2>
+  <p>もう少し細かく、上旬・中旬・下旬に割ります。</p>
+  <ul class="bars">
+    {buckets.map((b) => (
+      <li>
+        <span class="k">{b.k}</span>
+        <span class="b" style={`width:${(b.v / maxBucket) * 100}%`}></span>
+        <span class="v">{b.v.toLocaleString()}日（{pct(b.v, D)}%）</span>
+      </li>
+    ))}
+    <li>
+      <span class="k">それ以外</span>
+      <span class="b dim" style={`width:${(other78 / maxBucket) * 100}%`}></span>
+      <span class="v">{other78.toLocaleString()}日（{pct(other78, D)}%）</span>
+    </li>
+  </ul>
+  <p class="key">
+    山は<strong>7月下旬と8月上旬</strong>で、その谷間にあたる8月中旬が明確に落ち込みます。
+    8月中旬はお盆の期間そのものです。お盆に盆踊りが減る、という妙なかたちになっています。
+  </p>
+
+  <h2>お盆の期間に開く盆踊りは、思ったより少ない</h2>
+  <p>
+    8月13日から16日にかかる盆踊りを数えると、{obonFest}件でした。
+    掲載中の盆踊り{bon.length.toLocaleString()}件のうち{pct(obonFest, bon.length)}%です。
+    開催日で数えても{obonDates}日分、全体の{pct(obonDates, D)}%にとどまります。
+  </p>
+  <p>
+    実際に多いのはこの日でした。上位{topDays.length}日を並べます。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>日付</th><th>開催件数</th></tr></thead>
+      <tbody>
+        {topDays.map((d) => (
+          <tr><td>{d.md}</td><td class="n">{d.v}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    並んでいるのはお盆の前後の土日です。理由は曜日の分布を見ると分かります。
+  </p>
+
+  <h2>半分が土曜日</h2>
+  <ul class="bars">
+    {wdRows.map((r) => (
+      <li>
+        <span class="k">{r.w}曜日</span>
+        <span class={`b${r.v / maxWd < 0.1 ? ' dim' : ''}`} style={`width:${(r.v / maxWd) * 100}%`}></span>
+        <span class="v">{r.v.toLocaleString()}日（{pct(r.v, D)}%）</span>
+      </li>
+    ))}
+  </ul>
+  <p class="key">
+    土日どちらかを含む盆踊りは{weekendFest.toLocaleString()}件、{pct(weekendFest, bon.length)}%にのぼります。
+    町内会や自治会が開く盆踊りは、準備も当日の運営も住民の手で回すものです。
+    平日にはやれないので、<strong>お盆の日付そのものより、直前直後の土日に寄る</strong>。
+    月別の谷間はこれで説明できます。
+  </p>
+  <div class="caveat">
+    <p>
+      ここで数えたのは当サイトに掲載できた盆踊りだけです。
+      お盆の当日にひっそり開かれる小さな踊りは、そもそも告知が出ないので拾えていない可能性があります。
+      「お盆当日は少ない」ではなく「<strong>お盆当日に告知が出るものは少ない</strong>」と読むのが安全です。
+    </p>
+  </div>
+
+  <h2>地域によってずれる</h2>
+  <p>掲載件数の多い地域について、開催日が7月に寄るか8月に寄るかを出しました。</p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>地域</th><th>盆踊り</th><th>7月</th><th>8月</th></tr></thead>
+      <tbody>
+        {prefRows.map((r) => (
+          <tr>
+            <td><a href={`/a/${r.slug}/`}>{r.pref}</a></td>
+            <td class="n">{r.n}件</td>
+            <td class="n">{pct(r.j, r.d)}%</td>
+            <td class="n">{pct(r.a, r.d)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    首都圏は7月に寄り、西へ行くと8月に寄ります。
+    旧暦のお盆を7月に読むか8月に読むかの違いが、そのまま残っていると考えるのが自然ですが、
+    当サイトのデータだけでそう断定はできません。掲載件数の地域差が効いている可能性があるからです。
+    傾向として見てください。
+  </p>
+  <p>
+    なお沖縄県には{okinawa.length}件を掲載していますが、盆踊りとして分類したものは{okinawaBon}件です。
+    沖縄の盆の行事はエイサーの形で行われ、掲載しているものも夏祭りや花火大会として告知されています。
+    「沖縄に盆踊りが無い」のではなく、<strong>当サイトの分類では盆踊りの欄に入ってこない</strong>ということです。
+  </p>
+
+  <h2>予定を立てるときに</h2>
+  <ul>
+    <li>7月下旬と8月上旬の土曜日を空けておくと、いちばん多くの選択肢に当たります</li>
+    <li>お盆の帰省中に近所の盆踊りを、と考えているなら早めに調べてください。件数が落ちる時期です</li>
+    <li>同じ土曜に何十件も重なります。どの日が混むかは<a href="/guides/crowded-days/">祭りが重なる日、空いている週末</a>にまとめました</li>
+    <li>開始時刻の傾向は<a href="/guides/first-bon-odori/">はじめての盆踊り・縁日の歩き方</a>で扱っています</li>
+  </ul>
+</Guide>

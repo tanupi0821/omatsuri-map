@@ -8,19 +8,21 @@ area:
   ward: null
 venue:
   name: 豊中市内
-  address: null
+  address: 大阪府豊中市服部元町1-2-17（服部天神宮）
   lat: null
   lng: null
-organizer: null
+organizer: 服部天神宮
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 服部天神宮公式サイト
+    url: https://hattoritenjingu.or.jp/news/1255/
 occurrences:
   - year: 2026
     dates:
       - 2026-05-05
-    start_time: null
+    start_time: 9:00
     end_time: null
     status: confirmed
     source_url: https://toyonaka.goguynet.jp/2026/04/29/hattori-tenjingu-tango/

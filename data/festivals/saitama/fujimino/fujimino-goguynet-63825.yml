@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: ふじみ野市内
-  address: null
+  address: 埼玉県ふじみ野市大井954-1（大井氷川神社）
   lat: null
   lng: null
 organizer: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: 号外NET 富士見市・ふじみ野市
     source_type: media
     checked_at: 2026-08-04
+    note: 子供の部は午前8時開始（東原小学校周辺コース）、大人の部は午後2時開始（大井地区内周回コース）

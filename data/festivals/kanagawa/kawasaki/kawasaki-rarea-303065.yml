@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 川崎市内
-  address: null
+  address: 神奈川県川崎市高津区溝口1-4-1（高津市民館）
   lat: null
   lng: null
-organizer: null
+organizer: 高津区役所 地域ケア推進課
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 川崎市高津区 健康福祉まつり
+    url: https://www.city.kawasaki.jp/takatsu/page/0000185654.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-11
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 15:00
     status: confirmed
     source_url: https://rarea.events/event/303065
     source_name: レアリア

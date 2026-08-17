@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 墨田区内
-  address: null
+  address: 東京都墨田区八広4（八広地域プラザ吾嬬の里）
   lat: null
   lng: null
 organizer: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: すみだ経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 祝賀会11:30-13:00、ちょうちん行列・歩行者天国18:30-20:00

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 堺市堺区・西区
+    url: https://sakai-nishi.goguynet.jp/2026/07/02/sakaioouoyoiti2026/
 occurrences:
   - year: 2026
     dates:

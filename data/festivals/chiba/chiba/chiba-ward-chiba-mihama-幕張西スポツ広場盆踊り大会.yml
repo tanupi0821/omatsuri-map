@@ -15,7 +15,9 @@ organizer: 第30地区町内自治会連絡協議会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 千葉市美浜区
+    url: https://www.city.chiba.jp/mihama/chiikizukuri/tiikiibento_08.html
 occurrences:
   - year: 2026
     dates:

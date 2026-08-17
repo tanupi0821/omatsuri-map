@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 台東区内
-  address: null
+  address: 東京都台東区鳥越2-4-1（鳥越神社）
   lat: null
   lng: null
-organizer: null
+organizer: 鳥越神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 東京都神社庁（鳥越神社）
+    url: http://www.tokyo-jinjacho.or.jp/taito/200116
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_name: 号外NET 台東区
     source_type: media
     checked_at: 2026-08-04
+    note: 宵宮6/5～大祭式6/9。千貫神輿渡御「鳥越の夜祭り」は6/7夕刻

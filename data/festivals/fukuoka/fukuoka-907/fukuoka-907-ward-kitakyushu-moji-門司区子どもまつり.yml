@@ -8,20 +8,24 @@ area:
   ward: null
 venue:
   name: 北九州市門司区内
-  address: null
+  address: 北九州市門司区西海岸一丁目3番5号（旧大連航路上屋）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
+  - title: きたきゅうスタイル
+    url: https://kitaq.style/moji_kodomo_matsuri_2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-04-29
-    start_time: null
-    end_time: null
+    start_time: 10:30
+    end_time: 15:00
     status: confirmed
     source_url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
     source_name: 北九州市門司区

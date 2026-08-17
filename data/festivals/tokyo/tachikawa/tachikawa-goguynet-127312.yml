@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 立川市内
-  address: null
+  address: 東京都立川市緑町3173
   lat: null
   lng: null
-organizer: null
+organizer: 立川まつり国営昭和記念公園花火大会実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 立川まつり国営昭和記念公園花火大会
+    url: https://hanabi.tokyo-tachikawa.org/about/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 20:15
     status: confirmed
     source_url: https://tachikawa-akishima.goguynet.jp/2026/07/02/tachikawa-hanabi-commons-natsumatsuri-20260725/
     source_name: 号外NET 立川市・昭島市

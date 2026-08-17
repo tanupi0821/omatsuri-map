@@ -8,21 +8,23 @@ area:
   ward: null
 venue:
   name: 宗像市内
-  address: null
+  address: 福岡県宗像市田野2331
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 粋工房株式会社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.suikoubou.net/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 9:00
+    end_time: 17:00
     status: confirmed
     source_url: https://munakata-fukutsu-koga.goguynet.jp/2026/07/23/suikobo-natsumatsuri2026/
     source_name: 号外NET 宗像市・福津市・古賀市

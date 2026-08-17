@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 蓮田市内
-  address: null
+  address: 埼玉県蓮田市緑町2-3-26（殖産自治会館）
   lat: null
   lng: null
-organizer: null
+organizer: 殖産自治会
 stalls: unknown
 tags: []
 description: null
@@ -20,7 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
+    start_time: 16:00
     end_time: null
     status: confirmed
     source_url: https://shiraoka-hasuda.goguynet.jp/2026/07/16/shokusan_natsumatsuri/

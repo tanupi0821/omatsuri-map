@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 徳島市内
-  address: null
+  address: 徳島県徳島市蔵本町（蔵本八坂神社）
   lat: null
   lng: null
 organizer: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: 号外NET 徳島市
     source_type: media
     checked_at: 2026-08-04
+    note: 19日18:00〜（19:00〜大ビンゴ大会）、20日18:00〜ライブ、21日18:00〜カラオケ大会

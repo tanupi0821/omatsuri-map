@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 港区内
-  address: null
+  address: 東京都港区麻布台1（麻布台ヒルズ中央広場）
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-08
-    start_time: null
-    end_time: null
+    start_time: 17:00
+    end_time: 20:30
     status: confirmed
     source_url: http://roppongi.keizai.biz/headline/5129/
     source_name: 六本木経済新聞

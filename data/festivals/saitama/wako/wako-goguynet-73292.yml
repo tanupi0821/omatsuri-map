@@ -8,20 +8,22 @@ area:
   ward: null
 venue:
   name: 和光市内
-  address: null
+  address: 埼玉県和光市白子2-15-50（武州白子熊野神社）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 武州白子熊野神社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 武州白子熊野神社公式サイト
+    url: https://shirako-kumanojinja.wixsite.com/kumajin
 occurrences:
   - year: 2026
     dates:
       - 2026-04-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://asaka-wako.goguynet.jp/2026/04/16/tsutsuji/
     source_name: 号外NET 朝霞市・和光市

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 関市内
-  address: null
+  address: 岐阜県関市大杉567-10（ふる里農園美の関）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 美濃関株式会社
+    url: http://minoseki.co.jp/
 occurrences:
   - year: 2026
     dates:

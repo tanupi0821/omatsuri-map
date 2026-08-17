@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 福岡市中央区内
-  address: null
+  address: 福岡市中央区今川2-1-17
   lat: null
   lng: null
-organizer: null
+organizer: 鳥飼八幡宮
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 福岡市中央区・城南区
+    url: https://fukuokachuo.goguynet.jp/2026/07/30/hurugimatsuri/
+  - title: 鳥飼八幡宮
+    url: https://hachimansama.jp/activities/event
 occurrences:
   - year: 2026
     dates:

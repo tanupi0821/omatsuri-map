@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 立川まつり国営昭和記念公園花火大会実行委員会
 stalls: unknown
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:15
+    end_time: 20:15
     status: confirmed
     source_url: http://tachikawa.keizai.biz/headline/4199/
     source_name: 立川経済新聞

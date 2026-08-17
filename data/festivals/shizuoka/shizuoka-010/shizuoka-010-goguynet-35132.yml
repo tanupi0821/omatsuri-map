@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 袋井市内
-  address: null
+  address: 静岡県袋井市愛野3164-1（原野谷川親水公園）
   lat: null
   lng: null
-organizer: null
+organizer: ふくろい遠州の花火実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.fukuroi-hanabi.jp/
 occurrences:
   - year: 2026
     dates:

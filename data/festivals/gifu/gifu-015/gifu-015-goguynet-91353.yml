@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 岐阜市内
-  address: null
+  address: 岐阜県岐阜市柳ケ瀬通
   lat: null
   lng: null
 organizer: null
@@ -27,3 +27,4 @@ occurrences:
     source_name: 号外NET 岐阜市（岐阜地域）
     source_type: media
     checked_at: 2026-08-04
+    note: 8日13:00-20:00、9日11:00-16:00（開催日によって時間が異なる）

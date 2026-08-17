@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 白山市内
-  address: null
+  address: 石川県白山市美川南町ヌ167（藤塚神社）
   lat: null
   lng: null
-organizer: null
+organizer: 藤塚神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 美川おかえり祭り 藤塚神社
+    url: http://fujitukajinja.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_name: 号外NET 白山市・能美市・野々市市
     source_type: media
     checked_at: 2026-08-04
+    note: 藤塚神社の春季例祭。例年5月第3土・日曜開催

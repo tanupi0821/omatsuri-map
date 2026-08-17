@@ -8,19 +8,21 @@ area:
   ward: null
 venue:
   name: 足尾町内
-  address: null
+  address: 栃木県日光市足尾町通洞
   lat: null
   lng: null
 organizer: null
 tags: []
 description: null
-links: []
+links:
+  - title: 足尾町納涼祭｜日光旅ナビ
+    url: https://www.nikko-kankou.org/event/405
 occurrences:
   - year: 2026
     dates:
       - 2026-08-13
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 21:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0309/sg0999/
     source_name: 夏休みおでかけガイド（ウォーカープラス）

@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 川口市内
-  address: null
+  address: 埼玉県川口市鳩ヶ谷本町1-6-2（鳩ヶ谷氷川神社境内）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []

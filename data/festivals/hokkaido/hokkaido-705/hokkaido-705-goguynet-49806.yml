@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 札幌市中央区
+    url: https://sapporochuo.goguynet.jp/2026/07/10/post-49806/
 occurrences:
   - year: 2026
     dates:

@@ -8,20 +8,24 @@ area:
   ward: 中央区
 venue:
   name: 新潟市中央区内
-  address: null
+  address: 新潟県新潟市中央区関屋（関屋浜海水浴場）
   lat: null
   lng: null
-organizer: null
+organizer: 関屋浜海の花火大会実行委員会事務局（株式会社シン）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 新潟市
+    url: https://niigatakita-higashi.goguynet.jp/2026/06/21/sekiyahamauminohanabitaikai/
+  - title: 公式サイト
+    url: https://sekiya-beach.info/2026/07/19fireflower-official/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 19:30
+    end_time: 20:30
     status: confirmed
     source_url: https://niigatakita-higashi.goguynet.jp/2026/06/21/sekiyahamauminohanabitaikai/
     source_name: 号外NET 新潟市

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 北九州市小倉北区・門司区・戸畑区
+    url: https://kitakyushukokura-moji.goguynet.jp/2026/06/25/genkinomori-2026-06event/
 occurrences:
   - year: 2026
     dates:

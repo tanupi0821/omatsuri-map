@@ -61,7 +61,11 @@ const strip = (h) =>
 /** 1 神社ページから 神社名・住所・祭礼一覧 を抜く */
 function parse(html, url) {
   const name = strip((html.match(/<title>([^<]*)<\/title>/) ?? [])[1] ?? '')
-    .replace(/\s*-\s*神奈川県神社庁\s*$/, '');
+    .replace(/\s*-\s*神奈川県神社庁\s*$/, '')
+    // まれに title に管理用の神社 ID が入っている（「皇大神宮 1206021000」）。
+    // そのまま通すと祭り名・会場名・主催にまで ID が漏れて、ページの題名が
+    // 「藤沢市 皇大神宮 1206021000 例大祭」になる（実際に 4 件出た）
+    .replace(/\s*\d{7,}\s*/g, ' ').trim();
 
   const addrRaw = (html.match(/<div class="address">([\s\S]*?)<\/div>/) ?? [])[1] ?? '';
   const addr = strip(addrRaw).replace(/^住所：\s*/, '');

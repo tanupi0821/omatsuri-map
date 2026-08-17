@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 筑紫野市内
-  address: null
+  address: 福岡県筑紫野市二日市中央３丁目６−３５
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-04-11
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 17:00
     status: confirmed
     source_url: https://chikushino-dazaifu-asakura.goguynet.jp/2026/04/09/shunkitaisai-2/
     source_name: 号外NET 筑紫野市・太宰府市・朝倉市

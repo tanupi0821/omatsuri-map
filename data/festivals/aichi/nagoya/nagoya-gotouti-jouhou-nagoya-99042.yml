@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 名古屋市内
-  address: null
+  address: 名古屋市西区那古野1-6-16
   lat: null
   lng: null
-organizer: null
+organizer: 円頓寺商店街振興組合
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 名古屋市観光情報 名古屋コンシェルジュ
+    url: https://www.nagoya-info.jp/event/detail/119/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-29
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 21:00
     status: confirmed
     source_url: https://jouhou.nagoya/endouji-tanabata2026/
     source_name: 名古屋情報通
     source_type: media
     checked_at: 2026-08-06
+    note: 平日は16時頃、土日は11時頃から開始予定

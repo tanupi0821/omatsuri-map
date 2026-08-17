@@ -11,19 +11,24 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 難波八阪神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: ぶらっとなんば
+    url: https://ebisubashi-magazine.com/namba-yasaka-jinjya-rikutogyo/
+  - title: 難波八阪神社公式サイト
+    url: https://nambayasaka.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-14
-    start_time: null
+    start_time: 10:30
     end_time: null
     status: confirmed
     source_url: https://ebisubashi-magazine.com/namba-yasaka-jinjya-rikutogyo/
     source_name: ぶらっとなんば
     source_type: media
     checked_at: 2026-08-06
+    note: 10:30難波八阪神社出発、千日前・道頓堀・戎橋筋商店街などを巡行、21:00頃餅まき

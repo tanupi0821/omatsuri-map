@@ -15,7 +15,9 @@ organizer: ／法善寺横丁まつり実行委員会
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ぶらっとなんば
+    url: https://ebisubashi-magazine.com/hozenji-yokocho-matsuri/
 occurrences:
   - year: 2026
     dates:

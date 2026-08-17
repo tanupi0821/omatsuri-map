@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 荒川区内
-  address: null
+  address: 東京都荒川区南千住8-13-1
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://arakawa.goguynet.jp/2026/07/22/sumidagawahanabitaikai-4/
     source_name: 号外NET 荒川区

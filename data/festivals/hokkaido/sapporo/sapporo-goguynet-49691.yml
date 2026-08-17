@@ -8,10 +8,10 @@ area:
   ward: 北区
 venue:
   name: 札幌市北区内
-  address: null
+  address: 札幌市北区拓北6条2丁目（拓北西公園）
   lat: null
   lng: null
-organizer: null
+organizer: 拓北盆まつり事務局
 stalls: unknown
 tags: []
 description: null
@@ -21,10 +21,11 @@ occurrences:
     dates:
       - 2026-08-01
       - 2026-08-02
-    start_time: null
-    end_time: null
+    start_time: 14:00
+    end_time: 20:00
     status: confirmed
     source_url: https://sapporokitaku.goguynet.jp/2026/08/01/takuhokubonmaturi-2/
     source_name: 号外NET 札幌市北区
     source_type: media
     checked_at: 2026-08-04
+    note: 8/1は14:00〜20:00、8/2は10:00〜17:00

@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 岐阜市内
-  address: null
+  address: 岐阜県岐阜市蔵前6-8-22（手力雄神社）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 岐阜市観光コンベンション協会
+    url: https://www.gifucvb.or.jp/event/detail_spring.php?eid=00004&season=spring&shiki_keisai=1
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,76 @@
+---
+/**
+ * 読みものの一覧。
+ *
+ * 祭りのデータそのものは一覧・詳細ページが受け持っている。ここに置くのは
+ * **そのデータを数えないと書けないこと**だけ。よそで読める一般論は書かない。
+ */
+import Base from '../../layouts/Base.astro';
+import { SITE_NAME } from '../../lib/site.js';
+import { GUIDES } from '../../lib/guides.js';
+import { loadFestivals } from '../../lib/data.js';
+
+const all = loadFestivals();
+const n = all.length;
+const areas = new Set(all.map((f) => `${f.area.pref}/${f.area.city}/${f.area.ward ?? ''}`)).size;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: '読みもの',
+  description: `${SITE_NAME}に掲載している祭りのデータを集計した記事の一覧。`,
+  hasPart: GUIDES.map((g) => ({
+    '@type': 'Article',
+    headline: g.title,
+    description: g.lede,
+    url: new URL(`/guides/${g.slug}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title="読みもの"
+  description={`${SITE_NAME}に掲載している全国${n}件の祭りのデータを実際に集計して書いた記事の一覧です。屋台の有無、盆踊りの開催月、神社の例祭日の決まり方、花火大会の有料席の相場など。`}
+  jsonld={jsonld}
+>
+  <nav class="crumb"><a href="/">{SITE_NAME}</a> ／ 読みもの</nav>
+  <h1>読みもの</h1>
+  <p class="lede">
+    掲載している{areas}市区町村・{n.toLocaleString()}件の祭りのデータを、実際に数えて書いた記事です。
+    どこかで読める一般論ではなく、<strong>このデータを数えないと分からないこと</strong>だけを扱います。
+    数えられなかったことは「数えられなかった」と書いています。
+  </p>
+
+  <h2>記事</h2>
+  <ul class="list">
+    {GUIDES.map((g) => (
+      <li>
+        <a href={`/guides/${g.slug}/`}>
+          <span class="badge muted">{g.tag}</span>
+          <strong>{g.title}</strong>
+          <span class="l">{g.lede}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+
+  <h2>祭りそのものを探す</h2>
+  <p class="lede">
+    地域や日付から探すときは<a href="/search/">さがす</a>から。
+    このサイトの成り立ちと掲載の基準は<a href="/about/">このサイトについて</a>にまとめています。
+  </p>
+
+  <style>
+    .crumb { font-size: var(--t3); color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: var(--s1); }
+    .lede { font-size: var(--t4); color: var(--muted); }
+    .list { list-style: none; padding: 0; margin: 0; }
+    .list li { margin-bottom: var(--s3); }
+    .list a {
+      display: block; padding: var(--s3) var(--s4); text-decoration: none; color: inherit;
+      border: 1px solid var(--line); border-radius: var(--r2); background: var(--card);
+    }
+    .list strong { display: block; font-size: var(--t5); color: var(--ai); margin-top: var(--s1); }
+    .list .l { display: block; font-size: var(--t3); color: var(--muted); margin-top: var(--s1); }
+  </style>
+</Base>

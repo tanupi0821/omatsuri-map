@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 前橋市内
-  address: null
+  address: 群馬県前橋市富士見町赤城山地内（赤城大沼湖畔、大洞地区）
   lat: null
   lng: null
-organizer: null
+organizer: 赤城山夏まつり実行委員会
 stalls: unknown
 tags: []
 description: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 21:00
     status: confirmed
     source_url: http://takasaki.keizai.biz/headline/5282/
     source_name: 高崎前橋経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 10:00-20:00会場、ランタン点灯18:00-21:00、灯ろう流し19:00-

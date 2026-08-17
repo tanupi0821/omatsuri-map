@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 大多喜町内
-  address: null
+  address: 千葉県夷隅郡大多喜町大多喜486-21
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 大多喜マチルシェ実行委員会
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大多喜マチルシェ（Instagram）
+    url: https://www.instagram.com/ootakimachirche/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 19:30
     status: confirmed
     source_url: http://sotobo.keizai.biz/headline/777/
     source_name: 外房経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 時刻は前回(2025年)の発表による

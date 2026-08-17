@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 浜松市内
-  address: null
+  address: 静岡県浜松市北区初生町
   lat: null
   lng: null
 organizer: null
@@ -20,7 +20,7 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-25
-    start_time: null
+    start_time: 17:00
     end_time: null
     status: confirmed
     source_url: https://hamamatsu.goguynet.jp/2026/07/25/hatsuoibonodorinoyuube/

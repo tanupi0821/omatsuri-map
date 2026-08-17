@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 長岡市内
-  address: null
+  address: 新潟県長岡市（信濃川河川敷）
   lat: null
   lng: null
-organizer: null
+organizer: 一般財団法人 長岡花火財団
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 長岡花火 公式サイト
+    url: https://nagaokamatsuri.com/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_name: 号外NET 長岡市
     source_type: media
     checked_at: 2026-08-04
+    note: この日付(6/21)は記事にある屋上観覧席応募キャンペーンの応募締切。花火大会本番は8/2・8/3の19:20〜21:10、信濃川河川敷（A会場：長岡駅側、B会場：長岡インター側）で開催

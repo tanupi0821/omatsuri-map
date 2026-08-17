@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 神戸市兵庫区・長田区
+    url: https://kobehyogoku-nagataku.goguynet.jp/2026/06/03/post-58807/
 occurrences:
   - year: 2026
     dates:

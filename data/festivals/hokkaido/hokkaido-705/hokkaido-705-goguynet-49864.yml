@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 札幌市中央区
+    url: https://sapporochuo.goguynet.jp/2026/08/03/shotengai-maruyama_natsumatsuri/
 occurrences:
   - year: 2026
     dates:

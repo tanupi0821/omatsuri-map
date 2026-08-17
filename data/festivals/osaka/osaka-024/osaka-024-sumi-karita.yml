@@ -12,10 +12,14 @@ venue:
   lat: 34.6019500000003
   lng: 135.516178
 organizer: 苅田地域活動協議会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市住吉区・東住吉区
+    url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/08/03/karitabonodori/
+  - title: 大阪市住吉区
+    url: https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html
 occurrences:
   - year: 2026
     dates:

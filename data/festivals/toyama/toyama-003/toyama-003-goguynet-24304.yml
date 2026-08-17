@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 一般社団法人トヤマチミライ
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: トヤマチ夏祭り＆KNBサマーフェスティバル2026
+    url: https://toyamachimirai.com/
 occurrences:
   - year: 2026
     dates:

@@ -11,17 +11,19 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 戸田橋花火大会実行委員会（戸田市側）／板橋区観光協会（板橋区側）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: いたばし花火大会 公式サイト
+    url: https://itabashihanabi.jp/overview/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 19:00
+    end_time: 20:30
     status: confirmed
     source_url: https://akabane-shinbun.com/archives/259582
     source_name: 赤羽マガジン新聞

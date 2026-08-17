@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: みどり市内
-  address: null
+  address: 群馬県みどり市大間々町大間々1635（ながめ余興場）
   lat: null
   lng: null
-organizer: null
+organizer: 千紫万紅事務局
 tags: []
 description: null
-links: []
+links:
+  - title: いこーよ
+    url: https://iko-yo.net/events/583115
 occurrences:
   - year: 2026
     dates:
       - 2026-08-29
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 17:00
     status: confirmed
     source_url: https://summer.walkerplus.com/odekake/list/ar0310/sg0999/
     source_name: 夏休みおでかけガイド（ウォーカープラス）
     source_type: aggregator
     checked_at: 2026-08-03
+    note: 開場12:30
 stalls: unknown

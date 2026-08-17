@@ -15,7 +15,9 @@ organizer: 城山台地域
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 堺市南区
+    url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
 occurrences:
   - year: 2026
     dates:

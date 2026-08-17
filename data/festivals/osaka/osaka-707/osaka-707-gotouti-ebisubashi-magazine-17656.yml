@@ -11,19 +11,22 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 難波八阪神社船渡御保存会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: ぶらっとなんば
+    url: https://ebisubashi-magazine.com/namba-yasaka-jinjya-funatogyo/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-13
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: https://ebisubashi-magazine.com/namba-yasaka-jinjya-funatogyo/
     source_name: ぶらっとなんば
     source_type: media
     checked_at: 2026-08-06
+    note: 宵宮祭7/13・本宮祭7/14とも18時より獅子舞台で獅子舞・餅まき。船渡御は7/14 18:30〜21:00頃、道頓堀川（日吉橋〜日本橋間）

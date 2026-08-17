@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 泉区プラス
+    url: https://izumikuplus.com/event/20260716/42316.html
 occurrences:
   - year: 2026
     dates:

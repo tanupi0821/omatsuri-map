@@ -8,14 +8,16 @@ area:
   ward: 西蒲区
 venue:
   name: 新潟市西蒲区内
-  address: null
+  address: 新潟県新潟市西蒲区巻甲2224（巻神社ほか、本町通り〜市場通り一帯）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 新潟市西区・西蒲区
+    url: https://niigatanishi-nishikan.goguynet.jp/2026/06/11/makinatumaturi/
 occurrences:
   - year: 2026
     dates:

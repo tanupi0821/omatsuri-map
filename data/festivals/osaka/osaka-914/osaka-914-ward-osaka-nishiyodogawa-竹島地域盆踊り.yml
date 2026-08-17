@@ -15,7 +15,9 @@ organizer: 竹島地域
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 大阪市西淀川区
+    url: https://www.city.osaka.lg.jp/nishiyodogawa/page/0000678487.html
 occurrences:
   - year: 2026
     dates:

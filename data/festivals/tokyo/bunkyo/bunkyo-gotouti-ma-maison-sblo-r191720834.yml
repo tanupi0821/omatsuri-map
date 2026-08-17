@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 文京区内
-  address: null
+  address: 東京都文京区白山5丁目31-26（白山神社・白山公園）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 文京区観光協会
+    url: https://b-kanko.jp/event/419
 occurrences:
   - year: 2026
     dates:
       - 2026-06-06
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: http://ma-maison.sblo.jp/article/191720834.html
     source_name: 播磨坂わんだ～ぁらぅんど
     source_type: media
     checked_at: 2026-08-06
+    note: 期間は6月6日～14日、富士塚の特別公開時間

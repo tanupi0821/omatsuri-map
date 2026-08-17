@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: まるごとGO！
+    url: https://marugoto.love/archives/260724-02.html
 occurrences:
   - year: 2026
     dates:

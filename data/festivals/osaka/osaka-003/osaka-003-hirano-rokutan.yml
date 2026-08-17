@@ -15,7 +15,9 @@ organizer: 長吉六反地域
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 平野区まちづくりセンター
+    url: https://hiranomachisen.com/?p=4880
 occurrences:
   - year: 2026
     dates:

@@ -15,11 +15,23 @@ organizer: 桃山台 福泉中央地域
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 堺市南区
+    url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
 occurrences:
   - year: 2026
     dates:
       - 2026-08-02
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://www.city.sakai.lg.jp/minami/shokaimiryoku/chiiki/event.html
+    source_name: 堺市南区
+    source_type: gov
+    checked_at: 2026-08-05
+  - year: 2025
+    dates:
+      - 2025-08-03
     start_time: 16:00
     end_time: 21:00
     status: confirmed

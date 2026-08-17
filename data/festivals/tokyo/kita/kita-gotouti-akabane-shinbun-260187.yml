@@ -11,7 +11,7 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 十条仲原一丁目町会青少年部
 stalls: unknown
 tags: []
 description: null
@@ -21,7 +21,7 @@ occurrences:
     dates:
       - 2026-08-03
       - 2026-08-07
-    start_time: null
+    start_time: 18:30
     end_time: null
     status: confirmed
     source_url: https://akabane-shinbun.com/archives/260187

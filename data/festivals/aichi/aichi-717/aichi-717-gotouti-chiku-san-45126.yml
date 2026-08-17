@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ちくさん
+    url: https://chiku-san.com/20260725-kakuozan-bonodori/
 occurrences:
   - year: 2026
     dates:

@@ -8,19 +8,21 @@ area:
   ward: null
 venue:
   name: 福津市内
-  address: null
+  address: 福岡県福津市宮司元町7-1
   lat: null
   lng: null
-organizer: null
+organizer: 宮地嶽神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 宮地嶽神社 公式サイト
+    url: https://www.miyajidake.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-28
-    start_time: null
+    start_time: 10:00
     end_time: null
     status: confirmed
     source_url: https://munakata-fukutsu-koga.goguynet.jp/2026/07/24/miyajidakejina-okunomiyafudoujinja-kakitaisai2026/

@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 東松島市内
-  address: null
+  address: 宮城県東松島市矢本河戸7（東松島市商工会駐車場）
   lat: null
   lng: null
 organizer: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-08-22
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 19:00
     status: confirmed
     source_url: https://ishinomaki-higashimatsushima.goguynet.jp/2026/07/21/post-18308/
     source_name: 号外NET 石巻市・東松島市

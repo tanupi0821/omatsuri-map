@@ -11,19 +11,22 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
+organizer: 松本ぼんぼん実行委員会（事務局：松本商工会議所地域振興部）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 松本ぼんぼん公式サイト
+    url: https://matsubon.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-01
-    start_time: null
-    end_time: null
+    start_time: 17:30
+    end_time: 19:18
     status: confirmed
     source_url: http://matsumoto.keizai.biz/headline/4553/
     source_name: 松本経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 歩行者天国17:00-19:50。会場は松本市中心市街地（本町通り・大名町通り・伊勢町通りなど）

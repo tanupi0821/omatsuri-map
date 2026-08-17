@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 河内長野市内
-  address: null
+  address: 大阪府河内長野市市町469（千代田神社）
   lat: null
   lng: null
-organizer: null
+organizer: 千代田神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 千代田天神祭 公式サイト
+    url: https://tenjinsai.wixsite.com/2016tenjinsai
 occurrences:
   - year: 2026
     dates:
       - 2026-07-18
       - 2026-07-19
-    start_time: null
-    end_time: null
+    start_time: 15:00
+    end_time: 22:00
     status: confirmed
     source_url: https://tondabayashi-kawachinagano.goguynet.jp/2026/07/14/chiyoda_tenjinsai/
     source_name: 号外NET 富田林市・河内長野市
     source_type: media
     checked_at: 2026-08-04
+    note: 宵宮7/18は15:00〜22:00、本宮7/19は14:00〜22:00（予定）

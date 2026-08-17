@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 喜多方市内
-  address: null
+  address: 福島県喜多方市塩川町遠田字琵琶阿湖（日橋川緑地自由広場）
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 喜多方市 日橋川緑地自由広場
+    url: https://www.city.kitakata.fukushima.jp/soshiki/sangyo-s/63155.html
 occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
+    start_time: 10:00
     end_time: null
     status: confirmed
     source_url: https://aizu.goguynet.jp/2026/07/13/nippasihanabi/
     source_name: 号外NET 会津若松市・喜多方市
     source_type: media
     checked_at: 2026-08-04
+    note: 昼の部(イカダ下り)10:00開始、夜の部(花火大会)は19:30開始

@@ -12,7 +12,7 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -28,3 +28,4 @@ occurrences:
     source_name: 赤坂経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 8/8 12:00-19:00、8/9 9:00-17:00（会場ホテルニューオータニ。住所が千代田区のため掲載市区町村と不一致、venue.addressは未設定）

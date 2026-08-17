@@ -1,0 +1,29 @@
+id: saitama-706-gotouti-urawa-misono-69291
+name: 大門八坂神社例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 埼玉県
+  city: さいたま市緑区
+  ward: null
+venue:
+  name: 大門八坂神社
+  address: null
+  lat: null
+  lng: null
+organizer: 大門八坂神社例祭実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: 09:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://www.urawa-misono.net/entry/daimon-fes-2026/
+    source_name: URAWA-MISONO.net
+    source_type: media
+    checked_at: 2026-08-06

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 大阪市此花区
+    url: https://www.city.osaka.lg.jp/konohana/page/0000654633.html
 occurrences:
   - year: 2026
     dates:

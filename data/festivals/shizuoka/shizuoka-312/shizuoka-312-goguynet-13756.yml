@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 静岡市葵区
+    url: https://aoi.goguynet.jp/2026/08/02/post-13756/
 occurrences:
   - year: 2026
     dates:

@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 市原市内
-  address: null
+  address: 千葉県市原市高滝1
   lat: null
   lng: null
-organizer: null
+organizer: 髙瀧神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://takataki-jinja.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-04-19
-    start_time: null
+    start_time: 10:30
     end_time: null
     status: confirmed
     source_url: https://ichihara.goguynet.jp/2026/04/09/419haru_m/
     source_name: 号外NET 市原市
     source_type: media
     checked_at: 2026-08-04
+    note: 10:30 祭典、13:30 花嫁・稚児行列

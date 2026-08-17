@@ -11,13 +11,15 @@ venue:
   address: 横浜市西区みなとみらい1-1
   lat: 35.459423
   lng: 139.637255
-organizer: null
+organizer: パシフィコ横浜
 stalls: yes
 tags: []
 description: null
 links:
   - title: 公式サイト
     url: https://www.pacifico.co.jp/event/MM_BonOdori
+  - title: 夏休みおでかけガイド2026（ウォーカープラス）
+    url: https://summer.walkerplus.com/odekake/detail_e/ar0314e77064/
 occurrences:
   - year: 2026
     dates:

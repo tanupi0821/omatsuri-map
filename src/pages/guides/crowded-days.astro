@@ -1,0 +1,196 @@
+---
+/**
+ * 記事: 祭りが重なる日、空いている週末
+ *
+ * 「日付 × 市区町村」で数える。**同じ日に何件あるか**は、
+ * 一覧を眺めているだけでは分からないのに、予定を立てるときに効く。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('crowded-days');
+const all = loadFestivals();
+const N = all.length;
+const WD = ['日', '月', '火', '水', '木', '金', '土'];
+const wdOf = (d) => {
+  const [y, m, dd] = d.split('-').map(Number);
+  return WD[new Date(Date.UTC(y, m - 1, dd)).getUTCDay()];
+};
+const fmt = (d) => `${Number(d.slice(5, 7))}月${Number(d.slice(8))}日(${wdOf(d)})`;
+
+// 最新の年（データがいちばん厚い年）を対象にする
+const years = new Map();
+for (const f of all) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) {
+  years.set(d.slice(0, 4), (years.get(d.slice(0, 4)) ?? 0) + 1);
+}
+const YEAR = [...years].sort((a, b) => b[1] - a[1])[0][0];
+
+// 全国・日別
+const byDate = new Map();
+for (const f of all) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) {
+  if (!d.startsWith(`${YEAR}-`)) continue;
+  byDate.set(d, (byDate.get(d) ?? 0) + 1);
+}
+const topDates = [...byDate].sort((a, b) => b[1] - a[1]).slice(0, 10);
+const maxTop = topDates[0][1];
+
+// 7〜8月の土日だけを順に並べる
+const summerWeekends = [...byDate]
+  .filter(([d]) => /^\d{4}-0[78]/.test(d) && ['土', '日'].includes(wdOf(d)))
+  .sort()
+  .map(([d, v]) => ({ d, v }));
+const maxWeekend = Math.max(...summerWeekends.map((x) => x.v));
+
+// 市区町村 × 日
+const byPlaceDate = new Map();
+for (const f of all) {
+  const place = `${f.area.pref}|${f.area.city}${f.area.ward ?? ''}`;
+  for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) {
+    if (!d.startsWith(`${YEAR}-`)) continue;
+    const k = `${place}|${d}`;
+    if (!byPlaceDate.has(k)) byPlaceDate.set(k, { pref: f.area.pref, slug: f._prefSlug, citySlug: f._citySlug, place: `${f.area.city}${f.area.ward ?? ''}`, d, n: 0 });
+    byPlaceDate.get(k).n++;
+  }
+}
+const hotspots = [...byPlaceDate.values()].sort((a, b) => b.n - a.n).slice(0, 10);
+
+// 例大祭は固定日に重なる
+const rei = all.filter((f) => f.kind === '例大祭' || f.kind === '秋祭り');
+const reiByPlaceDate = new Map();
+for (const f of rei) {
+  for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) {
+    if (!d.startsWith(`${YEAR}-`)) continue;
+    const k = `${f.area.pref}|${f.area.city}${f.area.ward ?? ''}|${d}`;
+    if (!reiByPlaceDate.has(k)) reiByPlaceDate.set(k, { pref: f.area.pref, slug: f._prefSlug, place: `${f.area.city}${f.area.ward ?? ''}`, d, n: 0 });
+    reiByPlaceDate.get(k).n++;
+  }
+}
+const reiHot = [...reiByPlaceDate.values()].sort((a, b) => b.n - a.n).slice(0, 6);
+
+const summerTotal = summerWeekends.reduce((a, b) => a + b.v, 0);
+const busiest = summerWeekends.reduce((a, b) => (b.v > a.v ? b : a));
+const quietest = summerWeekends.filter((x) => x.d >= `${YEAR}-07-01`).reduce((a, b) => (b.v < a.v ? b : a));
+---
+
+<Guide
+  title={g.title}
+  description={`掲載中の祭りを開催日で数えると、夏の土曜に極端に集中します。いちばん多い${fmt(busiest.d)}には全国で${busiest.v}件。同じ市区町村に何件重なるかも数えました。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    「今週末どこかで祭りをやっていないか」を調べる人にとって、
+    知っておくと役に立つのは<strong>週末ごとの当たり外れが大きい</strong>という事実です。
+    掲載中の祭りを{YEAR}年の開催日で数えたところ、夏の土曜に極端な偏りがありました。
+  </p>
+
+  <h2>いちばん混む日</h2>
+  <ul class="bars">
+    {topDates.map(([d, v]) => (
+      <li>
+        <span class="k">{fmt(d)}</span>
+        <span class={`b${wdOf(d) === '土' ? '' : ' alt'}`} style={`width:${(v / maxTop) * 100}%`}></span>
+        <span class="v">{v.toLocaleString()}件</span>
+      </li>
+    ))}
+  </ul>
+  <p class="key">
+    最多は{fmt(busiest.d)}の{busiest.v.toLocaleString()}件です。
+    上位はほぼ土曜日で、日曜がそれに続きます。
+    {YEAR}年7月・8月の土日{summerWeekends.length}日だけで
+    {summerTotal.toLocaleString()}件、掲載全体の{((summerTotal / N) * 100).toFixed(0)}%が集まります。
+  </p>
+
+  <h2>夏の土日、週ごとの起伏</h2>
+  <p>7月と8月の土日を、日付の順に並べます。</p>
+  <ul class="bars">
+    {summerWeekends.map((x) => (
+      <li>
+        <span class="k">{fmt(x.d)}</span>
+        <span class={`b${x.v / maxWeekend < 0.2 ? ' dim' : wdOf(x.d) === '日' ? ' alt' : ''}`} style={`width:${(x.v / maxWeekend) * 100}%`}></span>
+        <span class="v">{x.v.toLocaleString()}件</span>
+      </li>
+    ))}
+  </ul>
+  <p>
+    山と谷の差が10倍近くあります。7月上旬はまだ静かで、
+    梅雨明けあたりから一気に立ち上がり、お盆の週にいったん落ち、
+    8月の下旬にもう一度小さな山が来て、9月に向けて引いていきます。
+  </p>
+  <p>
+    いちばん少なかったのは{fmt(quietest.d)}の{quietest.v}件でした。
+    この日に出かけるなら、あらかじめ場所を決めておかないと空振りします。
+    逆に混む日は、ひとつの街のなかで<strong>いくつもはしごできる</strong>ということでもあります。
+  </p>
+
+  <h2>同じ街に何件も重なる</h2>
+  <p>
+    市区町村ごとに、同じ日に何件開かれているかを数えました。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>市区町村</th><th>日付</th><th>件数</th></tr></thead>
+      <tbody>
+        {hotspots.map((h) => (
+          <tr>
+            <td><a href={`/a/${h.slug}/${h.citySlug}/`}>{h.place}</a>（{h.pref}）</td>
+            <td>{fmt(h.d)}</td>
+            <td class="n">{h.n}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="key">
+    ひとつの区のなかで、一晩に{hotspots[0].n}件の祭りが同時に開かれている日があります。
+    町内会ごと・自治会ごとに開くからで、
+    <strong>徒歩や自転車で回れる距離に何か所も屋台と櫓が立つ</strong>ということです。
+    どれかひとつを選ぶ、という考え方をやめると急に楽しくなります。
+  </p>
+  <p>
+    上の表に東京23区や政令市の区が並ぶのは、掲載件数がそこに厚いからです。
+    集めきれていない地域では同じことが起きていても数字に出ません。
+    このあたりの限界は<a href="/guides/how-we-collect/">どう集めて確かめているか</a>に書きました。
+  </p>
+
+  <h2>神社の例祭は、別の理由で重なる</h2>
+  <p>
+    夏祭りが土曜に集まるのに対して、神社の例祭は<strong>曜日と関係なく重なります</strong>。
+    決まった月日に行う神社が多いためです。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>市区町村</th><th>日付</th><th>件数</th></tr></thead>
+      <tbody>
+        {reiHot.map((h) => (
+          <tr>
+            <td><a href={`/a/${h.slug}/`}>{h.place}</a>（{h.pref}）</td>
+            <td>{fmt(h.d)}</td>
+            <td class="n">{h.n}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    同じ区の複数の神社が、同じ日に同じように幟を立てます。
+    どうしてその日なのかは<a href="/guides/shrine-reisai-dates/">神社の例祭日はどう決まっているのか</a>で扱いました。
+  </p>
+  <div class="caveat">
+    <p>
+      例祭の日付には、決まりから割り出した推定が多く含まれます。
+      推定のものには各ページで「日程は例年からの推定」と表示しています。
+      上の表は<strong>そのまま出かける計画に使わないでください</strong>。
+      神社の例祭は氏子の行事で、一般の参拝者向けの催しが無い日もあります。
+    </p>
+  </div>
+
+  <h2>使い方</h2>
+  <ul>
+    <li>混む日を狙う。同じ市区町村のページを開けば、その日に何があるか一度に見えます</li>
+    <li>混む日は屋台の出る祭りも多くなります。<a href="/guides/stalls-data/">屋台が出る祭りはどれくらいあるのか</a>と合わせてどうぞ</li>
+    <li>地域と日付での絞り込みは<a href="/search/">さがす</a>から</li>
+  </ul>
+</Guide>

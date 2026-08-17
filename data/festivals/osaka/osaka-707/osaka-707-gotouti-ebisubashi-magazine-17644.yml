@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ぶらっとなんば
+    url: https://ebisubashi-magazine.com/osaka-minami-nigiwai-square/
 occurrences:
   - year: 2026
     dates:

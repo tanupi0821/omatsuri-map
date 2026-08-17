@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 神楽坂まつり実行委員会
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 神楽坂まつり公式サイト
+    url: https://www.kagurazaka.in/kagurazaka_festival/52th/
 occurrences:
   - year: 2026
     dates:
@@ -27,3 +29,4 @@ occurrences:
     source_name: 市ケ谷経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: ほおずき市（22・23日）17:00-21:00、阿波踊り大会（24・25日）19:00-21:00

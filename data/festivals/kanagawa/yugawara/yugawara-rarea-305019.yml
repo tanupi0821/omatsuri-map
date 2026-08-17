@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 湯河原町内
-  address: null
+  address: 神奈川県足柄下郡湯河原町吉浜海岸
   lat: null
   lng: null
-organizer: null
+organizer: 湯河原町観光課
 stalls: unknown
 tags: []
 description: null
@@ -28,3 +28,4 @@ occurrences:
     source_name: レアリア
     source_type: media
     checked_at: 2026-08-05
+    note: 2日18:00-21:00（湯河原小学校前～桜木公園前）、3日6:00-7:30（幕山公園通り）、海上花火大会は3日20:00-20:20

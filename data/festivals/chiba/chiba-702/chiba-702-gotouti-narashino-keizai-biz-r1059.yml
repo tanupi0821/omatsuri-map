@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 習志野市内
-  address: null
+  address: 習志野市津田沼一丁目（八坂神社）
   lat: null
   lng: null
 organizer: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
+    start_time: 13:00
     end_time: null
     status: confirmed
     source_url: http://narashino.keizai.biz/headline/1059/
     source_name: 習志野経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: みこしは13:00に八坂神社を出発、津田沼駅北口ロータリー等を巡行し16:30以降に帰社

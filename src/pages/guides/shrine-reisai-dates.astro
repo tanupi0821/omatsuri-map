@@ -1,0 +1,249 @@
+---
+/**
+ * 記事: 神社の例祭日はどう決まっているのか
+ *
+ * recurrence（例祭日の決まり）を持つデータを型に分けて数える。
+ * **この記事で使う日付は推定である**ことを本文で必ず言う。
+ */
+import Guide from '../../layouts/Guide.astro';
+import { loadFestivals, latestOccurrence } from '../../lib/data.js';
+import { guideBySlug } from '../../lib/guides.js';
+
+const g = guideBySlug('shrine-reisai-dates');
+const all = loadFestivals();
+const N = all.length;
+const pct = (a, b) => ((a / b) * 100).toFixed(1);
+
+const rec = all.filter((f) => f.recurrence);
+const R = rec.length;
+const shrines = rec.filter((f) => f.shrine).length;
+const estimated = rec.filter((f) => latestOccurrence(f)?.status === 'estimated').length;
+
+// 決まりの型に分ける
+const RULES = [
+  { k: '月日そのもの', ex: '「9月15日」', test: (r) => /^\d{1,2}月\d{1,2}日$/.test(r) },
+  { k: '第◯◯曜日', ex: '「10月第1日曜日」', test: (r) => /第[0-9０-９一二三四五六七八九][週]?[日月火水木金土]曜/.test(r) },
+  { k: '◯日に近い曜日', ex: '「9月15日に近い日曜日」', test: (r) => /近い/.test(r) },
+  { k: '干支の日', ex: '「2月初午」', test: (r) => /初午|[二三][のノ]?午|午の日|酉の日/.test(r) },
+  { k: '上旬・中旬・下旬', ex: '「8月下旬の土曜日」', test: (r) => /[上中下]旬|初旬/.test(r) },
+  { k: '祝日を基準', ex: '「敬老の日の前日」', test: (r) => /体育の日|スポーツの日|海の日|敬老の日|山の日|文化の日|春分|秋分/.test(r) },
+];
+const counted = new Set();
+const ruleRows = RULES.map((rule) => {
+  const list = rec.filter((f) => !counted.has(f.id) && rule.test(String(f.recurrence)));
+  for (const f of list) counted.add(f.id);
+  return { ...rule, n: list.length, list };
+}).sort((a, b) => b.n - a.n);
+const rest = R - counted.size;
+const maxRule = Math.max(...ruleRows.map((r) => r.n));
+
+// 月の分布（決まりの文言の先頭の月）
+const months = new Array(13).fill(0);
+for (const f of rec) {
+  const m = String(f.recurrence).match(/^(\d{1,2})月/);
+  if (m) months[Number(m[1])]++;
+}
+const monthRows = months.map((v, i) => ({ m: i, v })).filter((x) => x.m >= 1);
+const maxMonth = Math.max(...monthRows.map((x) => x.v));
+
+// 例大祭が集中する月日
+const rei = all.filter((f) => f.kind === '例大祭');
+const dayCount = new Map();
+for (const f of rei) for (const o of f.occurrences ?? []) for (const d of o.dates ?? []) dayCount.set(d.slice(5), (dayCount.get(d.slice(5)) ?? 0) + 1);
+const topDays = [...dayCount].sort((a, b) => b[1] - a[1]).slice(0, 8)
+  .map(([md, v]) => ({ md: `${Number(md.slice(0, 2))}月${Number(md.slice(3))}日`, v }));
+
+// 「第◯曜」の中で多い組み合わせ
+const nth = new Map();
+for (const f of rec) {
+  const m = String(f.recurrence).match(/(\d{1,2})月.*?第([0-9０-９一二三四五六七八九])[週]?([日月火水木金土])曜/);
+  if (m) {
+    const k = `${Number(m[1])}月 第${m[2]}${m[3]}曜日`;
+    nth.set(k, (nth.get(k) ?? 0) + 1);
+  }
+}
+const topNth = [...nth].sort((a, b) => b[1] - a[1]).slice(0, 6);
+
+// 干支の日の例（今年どこに落ちたか）
+const etoRow = ruleRows.find((r) => r.k === '干支の日');
+const etoDates = new Map();
+for (const f of etoRow?.list ?? []) {
+  const d = latestOccurrence(f)?.dates?.[0];
+  if (d) etoDates.set(d, (etoDates.get(d) ?? 0) + 1);
+}
+const etoTop = [...etoDates].sort((a, b) => b[1] - a[1]).slice(0, 3);
+
+// リンクする実例。決まりの型が素直なものだけを選ぶ
+const nthRow = ruleRows.find((r) => r.k === '第◯◯曜日');
+const nearRow = ruleRows.find((r) => r.k === '◯日に近い曜日');
+const samples = [...(nthRow?.list ?? []).slice(0, 2), ...(nearRow?.list ?? []).slice(0, 2)]
+  .map((f) => ({
+    id: f.id,
+    name: f.name,
+    where: `${f.area.pref}${f.area.city}${f.area.ward ?? ''}`,
+    rule: f.recurrence,
+    date: latestOccurrence(f)?.dates?.[0] ?? null,
+  }));
+
+// 9月15日が今年は何曜日か
+const WD = ['日', '月', '火', '水', '木', '金', '土'];
+const YEAR = new Date().getFullYear();
+const w915 = WD[new Date(Date.UTC(YEAR, 8, 15)).getUTCDay()];
+const fixed915 = rec.filter((f) => String(f.recurrence).startsWith('9月15日') && !/近い/.test(String(f.recurrence))).length;
+---
+
+<Guide
+  title={g.title}
+  description={`例祭日の決まりを持つ${R.toLocaleString()}件のデータから、「毎年10月第1日曜」「9月15日に近い日曜日」「初午」といった型がそれぞれ何件あるかを数えました。決まりから割り出した日付をどう扱っているかも書いています。`}
+  lede={g.lede}
+  slug={g.slug}
+  count={N}
+>
+  <p>
+    神社の例祭は、毎年ほぼ同じ時期に行われます。ただし「同じ時期」の決め方は神社ごとに違い、
+    日付を固定しているところ、曜日で決めているところ、干支で決めているところがあります。
+    当サイトには例祭日の決まりが分かっているものが{R.toLocaleString()}件あり、
+    うち{shrines.toLocaleString()}件が神社です。この文言を型に分けて数えました。
+  </p>
+
+  <h2>いちばん多いのは「月日そのもの」</h2>
+  <ul class="bars">
+    {ruleRows.map((r) => (
+      <li>
+        <span class="k">{r.k}</span>
+        <span class="b" style={`width:${(r.n / maxRule) * 100}%`}></span>
+        <span class="v">{r.n.toLocaleString()}件（{pct(r.n, R)}%）</span>
+      </li>
+    ))}
+    <li>
+      <span class="k">その他</span>
+      <span class="b dim" style={`width:${(rest / maxRule) * 100}%`}></span>
+      <span class="v">{rest.toLocaleString()}件（{pct(rest, R)}%）</span>
+    </li>
+  </ul>
+  <p>
+    型ごとに、こういう文言です。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>型</th><th>書かれ方の例</th><th>件数</th></tr></thead>
+      <tbody>
+        {ruleRows.map((r) => (
+          <tr><td>{r.k}</td><td>{r.ex}</td><td class="n">{r.n.toLocaleString()}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="key">
+    半分以上が<strong>月日を固定</strong>しています。曜日を見ないので、
+    今年の{YEAR}年でいえば9月15日は{w915}曜日ですが、
+    「9月15日」と決めている{fixed915}件はそのまま{w915}曜日に行われます。
+    平日に神社の前を通ったら幟が立っていた、ということが起きるのはこのためです。
+  </p>
+
+  <h2>曜日で決めている神社は、どの週に置くか</h2>
+  <p>
+    「第◯◯曜日」と決めているのは{nthRow?.n ?? 0}件です。多い組み合わせを挙げます。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>決まり</th><th>件数</th></tr></thead>
+      <tbody>
+        {topNth.map(([k, v]) => (
+          <tr><td>{k}</td><td class="n">{v}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    土曜日と日曜日に集中します。宵宮を土曜、本祭を日曜に置く形が多く、
+    「第2土・日曜日」のように二日をひとまとまりで書いている神社もあります。
+    月日を固定する古い形から、人が集まりやすい週末へ寄せていった結果と考えられますが、
+    いつ変えたのかまではデータに残っていないので、そこは推測です。
+  </p>
+  <p>
+    「9月15日に近い日曜日」のように、<strong>固定日を残したまま、いちばん近い週末に寄せる</strong>書き方も
+    {nearRow?.n ?? 0}件あります。日付を動かさない建前と、人が集まる都合の折り合いをつけた形です。
+  </p>
+
+  <h2>干支で決まる祭りは、毎年日付が動く</h2>
+  <p>
+    暦の上の「午の日」「酉の日」で決めているものが{etoRow?.n ?? 0}件あります。
+    稲荷社の初午がその代表です。日の干支は12日周期なので、
+    <strong>初午の日付は毎年変わります</strong>。前の年と同じ日ではありません。
+  </p>
+  {etoTop.length > 0 && (
+    <p>
+      今年のデータでは、{etoTop.map(([d, v], i) => (
+        <>{i > 0 ? '、' : ''}{Number(d.slice(5, 7))}月{Number(d.slice(8))}日に{v}件</>
+      ))}が集まりました。
+    </p>
+  )}
+
+  <h2>いつ集まるのか</h2>
+  <p>決まりの文言に書かれた月を数えると、秋に大きな山ができます。</p>
+  <ul class="bars">
+    {monthRows.map((x) => (
+      <li>
+        <span class="k">{x.m}月</span>
+        <span class={`b${x.v / maxMonth < 0.08 ? ' dim' : ''}`} style={`width:${(x.v / maxMonth) * 100}%`}></span>
+        <span class="v">{x.v.toLocaleString()}件</span>
+      </li>
+    ))}
+  </ul>
+  <p>
+    9月と10月が突出し、次いで4月です。収穫を祝う秋祭りと、田植え前の春祭りという
+    二つの山があり、その間の夏に、天王祭など疫病除けの夏の祭礼が乗ります。
+    掲載中の例大祭が実際に開かれた日付でも、同じ日に固まります。
+  </p>
+  <div class="tw">
+    <table>
+      <thead><tr><th>日付</th><th>例大祭の件数</th></tr></thead>
+      <tbody>
+        {topDays.map((d) => (
+          <tr><td>{d.md}</td><td class="n">{d.v}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>決まりから割り出した日付を、どう扱っているか</h2>
+  <p>
+    当サイトは、決まりの文言から今年の日付を機械的に割り出しています。
+    「10月第1日曜日」なら今年の10月の最初の日曜日を計算する、という具合です。
+    こうして日付を入れた{estimated.toLocaleString()}件には、
+    <strong>「日程は例年からの推定」の札を付けています</strong>。
+    神社が今年の日程として発表したものではないからです。
+  </p>
+  <div class="caveat">
+    <p>
+      この割り出しには分かっている弱点があります。
+      「◯◯の日の前の土曜日」のように基準の日をさらにずらす言い方や、
+      「宵宮は前日」といった書き方は、正しく解けないことがあります。
+      推定の札が付いているものは、<strong>出かける前に神社か氏子会の告知で必ず確かめてください</strong>。
+      推定と分かる形で出しているのは、そもそも当年の告知が出ない神社が多く、
+      何も出さないより「毎年このころ」が分かるほうが役に立つと考えたからです。
+    </p>
+  </div>
+
+  <h2>実例</h2>
+  <div class="tw">
+    <table>
+      <thead><tr><th>神社</th><th>場所</th><th>決まり</th></tr></thead>
+      <tbody>
+        {samples.map((s) => (
+          <tr>
+            <td><a href={`/f/${s.id}/`}>{s.name}</a></td>
+            <td>{s.where}</td>
+            <td>{s.rule}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p>
+    決まりが分かっているものは各ページに書いてあります。
+    地域から辿るときは<a href="/search/">さがす</a>から、
+    データの集め方については<a href="/guides/how-we-collect/">5,000件の祭りを、どう集めて確かめているか</a>を見てください。
+  </p>
+</Guide>

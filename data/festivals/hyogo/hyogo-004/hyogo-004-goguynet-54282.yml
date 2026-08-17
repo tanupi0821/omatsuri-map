@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 西宮市内
-  address: null
+  address: 兵庫県西宮市社家町1-17（西宮神社）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 西宮神社
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 西宮神社公式サイト
+    url: https://nishinomiya-ebisu.com/
 occurrences:
   - year: 2026
     dates:

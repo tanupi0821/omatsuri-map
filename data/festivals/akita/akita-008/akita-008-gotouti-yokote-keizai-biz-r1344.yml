@@ -8,11 +8,11 @@ area:
   ward: null
 venue:
   name: 横手市内
-  address: null
+  address: 秋田県横手市駅前町（横手駅東口）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
 links: []
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-05-16
-    start_time: null
-    end_time: null
+    start_time: 11:00
+    end_time: 18:00
     status: confirmed
     source_url: http://yokote.keizai.biz/headline/1344/
     source_name: 横手経済新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 抽選会は13時・17時

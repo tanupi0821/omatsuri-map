@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 広島市中区内
-  address: null
+  address: 広島県広島市中区基町21-2（広島護国神社）
   lat: null
   lng: null
-organizer: null
+organizer: 広島護国神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 広島市
+    url: https://hiroshima.goguynet.jp/2026/05/26/hiroshima-gokoku-mantou-mitamamatsuri-2026--hiroshimaedit2--/
+  - title: 広島護国神社公式サイト
+    url: http://www.h-gokoku.or.jp/
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +32,4 @@ occurrences:
     source_name: 号外NET 広島市
     source_type: media
     checked_at: 2026-08-04
+    note: 30日は19時よりみこ踊り

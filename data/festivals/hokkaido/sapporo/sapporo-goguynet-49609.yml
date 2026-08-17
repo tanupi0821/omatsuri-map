@@ -8,20 +8,22 @@ area:
   ward: 北区
 venue:
   name: 札幌市北区内
-  address: null
+  address: 北海道札幌市北区麻生町8丁目 創成川水再生プラザ敷地内
   lat: null
   lng: null
 organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://sapporo-src.com/kagakukan/
 occurrences:
   - year: 2026
     dates:
       - 2026-07-20
-    start_time: null
-    end_time: null
+    start_time: 9:30
+    end_time: 16:00
     status: confirmed
     source_url: https://sapporokitaku.goguynet.jp/2026/07/10/natsu-gesuido-2/
     source_name: 号外NET 札幌市北区

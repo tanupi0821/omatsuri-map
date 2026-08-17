@@ -8,7 +8,7 @@ area:
   ward: null
 venue:
   name: 池田市内
-  address: null
+  address: 大阪府池田市室町7-4（呉服神社）
   lat: null
   lng: null
 organizer: null
@@ -20,10 +20,11 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-18
-    start_time: null
+    start_time: 10:00
     end_time: null
     status: confirmed
     source_url: https://minoh.goguynet.jp/2026/07/15/kurehajinjya/
     source_name: 号外NET 箕面市・池田市
     source_type: media
     checked_at: 2026-08-04
+    note: 大祓式は10:00開始。茅の輪くぐりは31日15時頃まで自由参加

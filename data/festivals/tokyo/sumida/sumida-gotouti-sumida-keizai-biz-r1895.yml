@@ -8,19 +8,21 @@ area:
   ward: null
 venue:
   name: 墨田区内
-  address: null
+  address: 東京都墨田区押上1（東京スカイツリータウン ソラマチひろば）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 墨田区
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: すみだ観光サイト 夏まつり情報
+    url: https://visit-sumida.jp/event/soramachi-natsumatsuri2026/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-03
-    start_time: null
+    start_time: 18:00
     end_time: null
     status: confirmed
     source_url: http://sumida.keizai.biz/headline/1895/

@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 北区内
-  address: null
+  address: 東京都北区赤羽1-24-6（北区立赤羽小学校）
   lat: null
   lng: null
-organizer: null
+organizer: 赤羽馬鹿祭り実行委員会（委員長：森岡謙二）
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 赤羽馬鹿祭り公式サイト
+    url: https://bakamatsuri.com/
 occurrences:
   - year: 2026
     dates:
       - 2026-04-26
-    start_time: null
+    start_time: 12:00
     end_time: null
     status: confirmed
     source_url: https://akabane-shinbun.com/archives/246169
     source_name: 赤羽マガジン新聞
     source_type: media
     checked_at: 2026-08-06
+    note: 赤羽小学校発、パレード開始時刻

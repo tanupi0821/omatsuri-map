@@ -15,7 +15,9 @@ organizer: 大清水学区
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 名古屋市緑区
+    url: https://www.city.nagoya.jp/midori/oshirase/1024402/1051527.html
 occurrences:
   - year: 2026
     dates:

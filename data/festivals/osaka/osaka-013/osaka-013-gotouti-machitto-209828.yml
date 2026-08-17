@@ -8,23 +8,26 @@ area:
   ward: null
 venue:
   name: 池田市内
-  address: null
+  address: 大阪府池田市石橋1丁目15（石橋駅前公園）
   lat: null
   lng: null
-organizer: null
+organizer: 石橋まつり実行委員会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.ss-ishibashi.jp/ishibashi_matsuri
 occurrences:
   - year: 2026
     dates:
       - 2026-07-25
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 16:00
+    end_time: 22:00
     status: confirmed
     source_url: https://machitto.jp/kashiwa/209828/
     source_name: まちっと北摂
     source_type: media
     checked_at: 2026-08-06
+    note: 25日16:00-22:00、26日16:00-21:00

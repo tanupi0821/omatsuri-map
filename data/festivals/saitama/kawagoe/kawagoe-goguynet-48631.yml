@@ -8,14 +8,16 @@ area:
   ward: null
 venue:
   name: 川越市内
-  address: null
+  address: 埼玉県川越市大字安比奈新田字下屋舗附140番1地先
   lat: null
   lng: null
-organizer: null
+organizer: 公益社団法人小江戸川越観光協会
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 第32回小江戸川越花火大会
+    url: https://koedo.or.jp/event/%E7%AC%AC32%E5%9B%9E%E5%B0%8F%E6%B1%9F%E6%88%B8%E5%B7%9D%E8%B6%8A%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A/
 occurrences:
   - year: 2026
     dates:

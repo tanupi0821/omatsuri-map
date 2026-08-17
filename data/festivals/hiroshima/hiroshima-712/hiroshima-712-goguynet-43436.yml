@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 広島市安佐北区内
-  address: null
+  address: 広島県広島市安佐北区安佐町動物園（安佐動物公園）
   lat: null
   lng: null
-organizer: null
+organizer: 広島市安佐動物公園
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 広島市
+    url: https://hiroshima.goguynet.jp/2026/07/11/asazoo-noryo-night-safari-202608--hiroshimaedit2--/
+  - title: 安佐動物公園（Instagram）
+    url: https://www.instagram.com/asazoo_hiroshima
 occurrences:
   - year: 2026
     dates:

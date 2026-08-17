@@ -8,14 +8,18 @@ area:
   ward: null
 venue:
   name: 北九州市門司区内
-  address: null
+  address: 福岡県北九州市門司区東港町1-12（門司港レトロ中央広場周辺）
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: 門司港レトロ倶楽部
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 北九州市門司区
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100129.html
+  - title: 門司港レトロインフォメーション
+    url: https://www.mojiko.info/event/info/2605-4/
 occurrences:
   - year: 2026
     dates:
@@ -28,3 +32,4 @@ occurrences:
     source_name: 北九州市門司区
     source_type: gov
     checked_at: 2026-08-05
+    note: 5月3日は11:00-17:00、5月4日は12:00-20:00。シーサイド花火は5月4日20:00-20:05

@@ -18,7 +18,9 @@ shrine: 針名神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 名古屋市
+    url: https://www.city.nagoya.jp/kankou/rekishi/1017203/1017220.html
 occurrences:
   - year: 2026
     dates:

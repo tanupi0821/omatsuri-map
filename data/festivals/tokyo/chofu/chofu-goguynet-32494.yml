@@ -8,22 +8,25 @@ area:
   ward: null
 venue:
   name: 調布市内
-  address: null
+  address: 東京都調布市調布ヶ丘1-8-1（布多天神社）
   lat: null
   lng: null
-organizer: null
+organizer: 布多天神社
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 布多天神社公式サイト
+    url: http://fudatenjin.or.jp/
 occurrences:
   - year: 2026
     dates:
       - 2026-06-25
-    start_time: null
+    start_time: 14:00
     end_time: null
     status: confirmed
     source_url: https://chofu-komae.goguynet.jp/2026/06/18/post-32494/
     source_name: 号外NET 調布市・狛江市
     source_type: media
     checked_at: 2026-08-04
+    note: 参列受付13:30～、大祓式・茅の輪神事14:00～、境内ライトアップは夕暮れ～20時頃

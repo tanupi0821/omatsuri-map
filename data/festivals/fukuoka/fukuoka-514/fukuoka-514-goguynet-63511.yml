@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 福岡市博多区
+    url: https://fukuokahakata.goguynet.jp/2026/07/28/hakatanatumaturi2026/
 occurrences:
   - year: 2026
     dates:

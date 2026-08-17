@@ -11,11 +11,13 @@ venue:
   address: null
   lat: null
   lng: null
-organizer: null
-stalls: unknown
+organizer: ホテルメトロポリタン エドモント
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: ホテルメトロポリタン エドモント
+    url: https://edmont.metropolitan.jp/index.html
 occurrences:
   - year: 2026
     dates:

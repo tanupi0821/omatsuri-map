@@ -8,10 +8,10 @@ area:
   ward: null
 venue:
   name: 仙台市内
-  address: null
+  address: 仙台市青葉区中央1-3-1（アエル2階アトリウム）
   lat: null
   lng: null
-organizer: null
+organizer: 宮城教育大学大学院生 えむわんず（Mones）
 stalls: unknown
 tags: []
 description: null
@@ -20,8 +20,8 @@ occurrences:
   - year: 2026
     dates:
       - 2026-07-26
-    start_time: null
-    end_time: null
+    start_time: 10:00
+    end_time: 16:00
     status: confirmed
     source_url: https://sendai-tushin.jp/2026/07/23/post-518693/
     source_name: 仙台つーしん

@@ -8,21 +8,23 @@ area:
   ward: null
 venue:
   name: 松戸市内
-  address: null
+  address: 千葉県松戸市松戸1810-1（春雨橋親水広場）
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: http://www.kentou.org/
 occurrences:
   - year: 2026
     dates:
       - 2026-08-09
       - 2026-08-10
-    start_time: null
-    end_time: null
+    start_time: 13:00
+    end_time: 21:00
     status: confirmed
     source_url: http://matsudo.keizai.biz/headline/1200/
     source_name: 松戸経済新聞
