@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 公式サイト
+    url: https://www.town.urausu.hokkaido.jp/kankou/event/mikaku20260802.html
 occurrences:
   - year: 2026
     dates:

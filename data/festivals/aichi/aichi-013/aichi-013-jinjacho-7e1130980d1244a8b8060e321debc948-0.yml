@@ -1,0 +1,34 @@
+id: aichi-013-jinjacho-7e1130980d1244a8b8060e321debc948-0
+name: 若宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 蒲郡市
+  ward: null
+venue:
+  name: 若宮社
+  address: 蒲郡市三谷町一舗91番地
+  lat: null
+  lng: null
+station: 三河三谷駅
+recurrence: 10月第4土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7e113098-0d12-44a8-b806-0e321debc948
+organizer: 若宮社
+shrine: 若宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7e113098-0d12-44a8-b806-0e321debc948
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4土曜日」から導いたもので、神社が2026年の日程として発表したものではない

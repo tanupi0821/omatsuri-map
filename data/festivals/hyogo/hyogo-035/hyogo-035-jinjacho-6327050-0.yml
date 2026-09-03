@@ -1,0 +1,33 @@
+id: hyogo-035-jinjacho-6327050-0
+name: 内田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 洲本市
+  ward: null
+venue:
+  name: 内田神社
+  address: 洲本市由良町内田217
+  lat: 34.308688
+  lng: 134.922846
+recurrence: 1月成人の日の前日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6327050.html
+organizer: 内田神社
+shrine: 内田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6327050.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月成人の日の前日」から導いたもので、神社が2026年の日程として発表したものではない

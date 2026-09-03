@@ -1,0 +1,34 @@
+id: aichi-718-jinjacho-569ba47b6f36429898a41703ada6300b-0
+name: 東八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 東八幡社
+  address: 名古屋市瑞穂区中根町3-40
+  lat: null
+  lng: null
+station: 市バス 弥冨通三丁目
+recurrence: 10月第二日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=569ba47b-6f36-4298-98a4-1703ada6300b
+organizer: 東八幡社
+shrine: 東八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=569ba47b-6f36-4298-98a4-1703ada6300b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: minamifurano-jinjacho-fabaee85a9ef-0
+name: 南富良野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 空知郡南富良野町
+  ward: null
+venue:
+  name: 南富良野神社
+  address: 空知郡南富良野町字幾寅1210
+  lat: null
+  lng: null
+recurrence: 9月17日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%8d%97%e5%af%8c%e8%89%af%e9%87%8e%e7%a5%9e%e7%a4%be/
+organizer: 南富良野神社
+shrine: 南富良野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%8d%97%e5%af%8c%e8%89%af%e9%87%8e%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない

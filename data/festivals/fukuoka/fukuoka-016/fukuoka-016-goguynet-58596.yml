@@ -1,0 +1,29 @@
+id: fukuoka-016-goguynet-58596
+name: 赤司八幡宮放生会 奉納花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 久留米市
+  ward: null
+venue:
+  name: 赤司八幡宮
+  address: 久留米市北野町赤司1765
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: 20:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kurume.goguynet.jp/2026/08/30/akajihachimangu-hanabitaikai2026/
+    source_name: 号外NET 久留米市(筑後北部)
+    source_type: media
+    checked_at: 2026-09-03

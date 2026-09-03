@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-c2524e40c1c44a5d9f4702d062d7cb17-0
+name: 柏木神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 柏木神社
+  address: 豊川市大木町山ノ奥109番地35
+  lat: null
+  lng: null
+station: 飯田線三河一宮駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c2524e40-c1c4-4a5d-9f47-02d062d7cb17
+organizer: 柏木神社
+shrine: 柏木神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c2524e40-c1c4-4a5d-9f47-02d062d7cb17
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

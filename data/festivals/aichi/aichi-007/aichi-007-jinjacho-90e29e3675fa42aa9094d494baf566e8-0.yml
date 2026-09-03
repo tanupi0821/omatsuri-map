@@ -1,0 +1,33 @@
+id: aichi-007-jinjacho-90e29e3675fa42aa9094d494baf566e8-0
+name: 稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 稲荷神社
+  address: 岡崎市井ノ口町字楼28番地
+  lat: null
+  lng: null
+recurrence: 10月第3土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=90e29e36-75fa-42aa-9094-d494baf566e8
+organizer: 稲荷神社
+shrine: 稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=90e29e36-75fa-42aa-9094-d494baf566e8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3土曜日」から導いたもので、神社が2026年の日程として発表したものではない

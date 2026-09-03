@@ -1,0 +1,33 @@
+id: hiroshima-703-jinjacho-0539c71c0fb5-0
+name: 諏訪神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 世羅町
+  ward: null
+venue:
+  name: 諏訪神社
+  address: 世羅町大字安田772番地
+  lat: 34.649625
+  lng: 133.00975549999998
+recurrence: 11月23日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+organizer: 諏訪神社
+shrine: 諏訪神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月23日」から導いたもので、神社が2026年の日程として発表したものではない

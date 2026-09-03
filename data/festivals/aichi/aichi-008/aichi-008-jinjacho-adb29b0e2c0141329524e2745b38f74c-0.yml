@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-adb29b0e2c0141329524e2745b38f74c-0
+name: 進雄神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 進雄神社
+  address: 豊川市本野町百々１３番地
+  lat: null
+  lng: null
+station: 名鉄 豊川線 諏訪駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=adb29b0e-2c01-4132-9524-e2745b38f74c
+organizer: 進雄神社
+shrine: 進雄神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=adb29b0e-2c01-4132-9524-e2745b38f74c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

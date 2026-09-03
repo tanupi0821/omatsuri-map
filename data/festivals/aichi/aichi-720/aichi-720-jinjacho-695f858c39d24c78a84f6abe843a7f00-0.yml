@@ -1,0 +1,33 @@
+id: aichi-720-jinjacho-695f858c39d24c78a84f6abe843a7f00-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市昭和区
+  ward: null
+venue:
+  name: 神明社
+  address: 名古屋市昭和区五軒家町十九番地ノ十四
+  lat: null
+  lng: null
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=695f858c-39d2-4c78-a84f-6abe843a7f00
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=695f858c-39d2-4c78-a84f-6abe843a7f00
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

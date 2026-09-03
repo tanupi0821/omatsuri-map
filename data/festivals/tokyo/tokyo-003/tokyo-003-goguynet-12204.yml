@@ -1,0 +1,29 @@
+id: tokyo-003-goguynet-12204
+name: 秋季例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 羽村市
+  ward: null
+venue:
+  name: 羽村市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ome-hamura.goguynet.jp/2026/09/03/inari-shrine/
+    source_name: 号外NET 青梅市・羽村市・瑞穂町
+    source_type: media
+    checked_at: 2026-09-03

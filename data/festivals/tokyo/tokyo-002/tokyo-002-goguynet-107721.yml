@@ -1,0 +1,31 @@
+id: tokyo-002-goguynet-107721
+name: 八坂神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 日野市
+  ward: null
+venue:
+  name: 日野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 日野市の公式ホームページ
+    url: https://www.city.hino.lg.jp/bunka/bunka/jigyo/1012151/bunkasai/index.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hino.goguynet.jp/2026/08/26/yasaka-reitai-2026/
+    source_name: 号外NET 日野市
+    source_type: media
+    checked_at: 2026-09-03

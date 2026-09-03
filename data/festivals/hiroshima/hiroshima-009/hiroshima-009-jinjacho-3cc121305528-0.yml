@@ -1,0 +1,33 @@
+id: hiroshima-009-jinjacho-3cc121305528-0
+name: 國司神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 庄原市
+  ward: null
+venue:
+  name: 國司神社
+  address: 庄原市東城町千鳥甲1162番地
+  lat: 34.98966548276765
+  lng: 133.28723523068845
+recurrence: 10月第4日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=24
+organizer: 國司神社
+shrine: 國司神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=24
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

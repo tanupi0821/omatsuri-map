@@ -1,0 +1,33 @@
+id: aichi-031-jinjacho-6c0fa6cda49543d08239fc55ae1f9dd2-0
+name: 市原稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 刈谷市
+  ward: null
+venue:
+  name: 市原稲荷神社
+  address: 刈谷市司町8丁目52番地
+  lat: null
+  lng: null
+recurrence: 5月1日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6c0fa6cd-a495-43d0-8239-fc55ae1f9dd2
+organizer: 市原稲荷神社
+shrine: 市原稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6c0fa6cd-a495-43d0-8239-fc55ae1f9dd2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月1日」から導いたもので、神社が2026年の日程として発表したものではない

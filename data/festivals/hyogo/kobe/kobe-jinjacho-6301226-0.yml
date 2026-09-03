@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301226-0
+name: 雄岡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 西区
+venue:
+  name: 雄岡神社
+  address: 神戸市西区神出町東1189
+  lat: 34.758924
+  lng: 135.022442
+recurrence: 9月10日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301226.html
+organizer: 雄岡神社
+shrine: 雄岡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301226.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月10日」から導いたもので、神社が2026年の日程として発表したものではない

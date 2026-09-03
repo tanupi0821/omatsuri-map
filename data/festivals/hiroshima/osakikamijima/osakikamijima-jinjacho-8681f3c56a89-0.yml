@@ -1,0 +1,33 @@
+id: osakikamijima-jinjacho-8681f3c56a89-0
+name: 日吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 大崎上島町
+  ward: null
+venue:
+  name: 日吉神社
+  address: 大崎上島町原田678番地
+  lat: 34.230488901925746
+  lng: 132.87441365515588
+recurrence: 10月第4日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=32
+organizer: 日吉神社
+shrine: 日吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=32
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

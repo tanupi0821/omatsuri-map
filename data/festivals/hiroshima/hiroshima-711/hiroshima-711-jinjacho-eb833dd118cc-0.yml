@@ -1,0 +1,33 @@
+id: hiroshima-711-jinjacho-eb833dd118cc-0
+name: 光廣神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 広島市安佐南区
+  ward: null
+venue:
+  name: 光廣神社
+  address: 広島市安佐南区八木三丁目26番16号
+  lat: 34.48166025452469
+  lng: 132.491197279797
+recurrence: 10月19日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+organizer: 光廣神社
+shrine: 光廣神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない

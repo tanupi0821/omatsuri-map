@@ -1,0 +1,34 @@
+id: kitanagoya-jinjacho-859cd1b5ab7f4da4bd3a18b0775ab08d-0
+name: 西裏神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北名古屋市
+  ward: null
+venue:
+  name: 西裏神明社
+  address: 北名古屋市九之坪神明１２番地
+  lat: null
+  lng: null
+station: 名鉄 西春駅 名鉄・地下鉄 上小田井駅
+recurrence: 10月19日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=859cd1b5-ab7f-4da4-bd3a-18b0775ab08d
+organizer: 西裏神明社
+shrine: 西裏神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=859cd1b5-ab7f-4da4-bd3a-18b0775ab08d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない

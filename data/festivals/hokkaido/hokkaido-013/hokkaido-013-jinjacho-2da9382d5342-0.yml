@@ -1,0 +1,33 @@
+id: hokkaido-013-jinjacho-2da9382d5342-0
+name: 比遅里神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 比遅里神社
+  address: 函館市桔梗町201番地
+  lat: null
+  lng: null
+recurrence: 9月3日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%af%94%e9%81%85%e9%87%8c%e7%a5%9e%e7%a4%be/
+organizer: 比遅里神社
+shrine: 比遅里神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%af%94%e9%81%85%e9%87%8c%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月3日」から導いたもので、神社が2026年の日程として発表したものではない

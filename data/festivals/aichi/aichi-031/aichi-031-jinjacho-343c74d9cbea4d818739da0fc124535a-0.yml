@@ -1,0 +1,34 @@
+id: aichi-031-jinjacho-343c74d9cbea4d818739da0fc124535a-0
+name: 八王子神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 刈谷市
+  ward: null
+venue:
+  name: 八王子神社
+  address: 刈谷市泉田町中西96番地
+  lat: null
+  lng: null
+station: 名鉄線 富士松駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=343c74d9-cbea-4d81-8739-da0fc124535a
+organizer: 八王子神社
+shrine: 八王子神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=343c74d9-cbea-4d81-8739-da0fc124535a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

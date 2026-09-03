@@ -1,0 +1,33 @@
+id: hokkaido-061-jinjacho-9b5612ecd7e3-0
+name: 檜山護國神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 江差町
+  ward: null
+venue:
+  name: 檜山護國神社
+  address: 江差町字本町216番地
+  lat: null
+  lng: null
+recurrence: 5月17日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%aa%9c%e5%b1%b1%e8%ad%b7%e5%9c%8b%e7%a5%9e%e7%a4%be/
+organizer: 檜山護國神社
+shrine: 檜山護國神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%aa%9c%e5%b1%b1%e8%ad%b7%e5%9c%8b%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月17日」から導いたもので、神社が2026年の日程として発表したものではない

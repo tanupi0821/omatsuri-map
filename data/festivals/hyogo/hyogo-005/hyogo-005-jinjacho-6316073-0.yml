@@ -1,0 +1,34 @@
+id: hyogo-005-jinjacho-6316073-0
+name: 高田稲荷社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 姫路市
+  ward: null
+venue:
+  name: 高田稲荷社
+  address: 姫路市岡町4
+  lat: 34.838701
+  lng: 134.686774
+recurrence: 3月第2日曜日：9月敬老の日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6316073.html
+organizer: 高田稲荷社
+shrine: 高田稲荷社
+stalls: unknown
+tags:
+  - 春祭り：秋祭り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6316073.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第2日曜日：9月敬老の日」から導いたもので、神社が2026年の日程として発表したものではない

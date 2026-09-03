@@ -1,0 +1,33 @@
+id: sapporo-teine-jinjacho-22588752c80a-0
+name: 手稲神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市手稲区
+  ward: null
+venue:
+  name: 手稲神社
+  address: 札幌市手稲区手稲本町2条3丁目4番28号
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%89%8b%e7%a8%b2%e7%a5%9e%e7%a4%be/
+organizer: 手稲神社
+shrine: 手稲神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%89%8b%e7%a8%b2%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

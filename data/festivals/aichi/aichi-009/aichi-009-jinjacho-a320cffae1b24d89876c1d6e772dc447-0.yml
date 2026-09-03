@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-a320cffae1b24d89876c1d6e772dc447-0
+name: 日吉社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 日吉社
+  address: 安城市浜屋町屋敷山6番地
+  lat: null
+  lng: null
+station: 名鉄本線 新安城駅
+recurrence: 10月14日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a320cffa-e1b2-4d89-876c-1d6e772dc447
+organizer: 日吉社
+shrine: 日吉社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a320cffa-e1b2-4d89-876c-1d6e772dc447
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない

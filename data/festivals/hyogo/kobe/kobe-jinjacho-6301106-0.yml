@@ -1,0 +1,34 @@
+id: kobe-jinjacho-6301106-0
+name: 八多神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 八多神社
+  address: 神戸市北区八多町下小名田284
+  lat: 34.84369
+  lng: 135.215395
+recurrence: 10月16日、神幸祭10月の第3土曜
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301106.html
+organizer: 八多神社
+shrine: 八多神社
+stalls: unknown
+tags:
+  - 秋季大祭・神幸祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301106.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日、神幸祭10月の第3土曜」から導いたもので、神社が2026年の日程として発表したものではない

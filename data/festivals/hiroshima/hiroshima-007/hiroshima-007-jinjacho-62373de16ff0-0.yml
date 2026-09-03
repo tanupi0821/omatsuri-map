@@ -1,0 +1,33 @@
+id: hiroshima-007-jinjacho-62373de16ff0-0
+name: 御袖天満宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 尾道市
+  ward: null
+venue:
+  name: 御袖天満宮
+  address: 尾道市長江一丁目11番16号
+  lat: 34.413388167691956
+  lng: 133.20215253624576
+recurrence: 7月25日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=26
+organizer: 御袖天満宮
+shrine: 御袖天満宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=26
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月25日」から導いたもので、神社が2026年の日程として発表したものではない

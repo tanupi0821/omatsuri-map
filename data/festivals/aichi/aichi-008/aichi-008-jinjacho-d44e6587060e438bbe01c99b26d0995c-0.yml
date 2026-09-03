@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-d44e6587060e438bbe01c99b26d0995c-0
+name: 若宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 若宮神社
+  address: 豊川市東上町丸塚４１番地１
+  lat: null
+  lng: null
+station: ＪＲ飯田線江島駅
+recurrence: 3月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d44e6587-060e-438b-be01-c99b26d0995c
+organizer: 若宮神社
+shrine: 若宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d44e6587-060e-438b-be01-c99b26d0995c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

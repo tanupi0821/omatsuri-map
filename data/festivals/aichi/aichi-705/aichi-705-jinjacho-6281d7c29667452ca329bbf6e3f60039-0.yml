@@ -1,0 +1,34 @@
+id: aichi-705-jinjacho-6281d7c29667452ca329bbf6e3f60039-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 神明社
+  address: 小牧市小牧5丁目153番地
+  lat: null
+  lng: null
+station: 名鉄小牧線小牧駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6281d7c2-9667-452c-a329-bbf6e3f60039
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6281d7c2-9667-452c-a329-bbf6e3f60039
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-d3df7c2285454bd8a34813e7327be8cf-0
+name: 御幸神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 御幸神社
+  address: 豊橋市西幸町字古並240番地
+  lat: null
+  lng: null
+station: JR東海道線 二川駅
+recurrence: 1月4日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d3df7c22-8545-4bd8-a348-13e7327be8cf
+organizer: 御幸神社
+shrine: 御幸神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d3df7c22-8545-4bd8-a348-13e7327be8cf
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月4日」から導いたもので、神社が2026年の日程として発表したものではない

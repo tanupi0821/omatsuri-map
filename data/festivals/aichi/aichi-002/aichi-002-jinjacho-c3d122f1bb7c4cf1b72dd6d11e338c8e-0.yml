@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-c3d122f1bb7c4cf1b72dd6d11e338c8e-0
+name: 岩倉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 岩倉神社
+  address: 新城市有海字コロミチ41番地
+  lat: null
+  lng: null
+station: JR飯田線鳥居駅
+recurrence: 3月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c3d122f1-bb7c-4cf1-b72d-d6d11e338c8e
+organizer: 岩倉神社
+shrine: 岩倉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c3d122f1-bb7c-4cf1-b72d-d6d11e338c8e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

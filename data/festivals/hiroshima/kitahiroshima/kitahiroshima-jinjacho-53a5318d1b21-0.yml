@@ -1,0 +1,33 @@
+id: kitahiroshima-jinjacho-53a5318d1b21-0
+name: 亀尾山八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 北広島町
+  ward: null
+venue:
+  name: 亀尾山八幡神社
+  address: 北広島町川戸5156番地
+  lat: 34.744122357636876
+  lng: 132.54089925912172
+recurrence: 10月最終土曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=22
+organizer: 亀尾山八幡神社
+shrine: 亀尾山八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-31
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=22
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月最終土曜日」から導いたもので、神社が2026年の日程として発表したものではない

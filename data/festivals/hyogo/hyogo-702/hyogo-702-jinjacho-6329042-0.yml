@@ -1,0 +1,33 @@
+id: hyogo-702-jinjacho-6329042-0
+name: 石上神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 南あわじ市
+  ward: null
+venue:
+  name: 石上神社
+  address: 南あわじ市八木寺内10
+  lat: 34.282636
+  lng: 134.794438
+recurrence: 9月16日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6329042.html
+organizer: 石上神社
+shrine: 石上神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6329042.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月16日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hyogo-017-jinjacho-6322003-0
+name: 小田井縣神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 小田井縣神社
+  address: 豊岡市小田井町15-6
+  lat: 35.55045
+  lng: 134.82358
+recurrence: 4月10日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322003.html
+organizer: 小田井縣神社
+shrine: 小田井縣神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322003.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月10日」から導いたもので、神社が2026年の日程として発表したものではない

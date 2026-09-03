@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-cd888b3bf02d4806a097adc3283f82e2-0
+name: 朝日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 朝日神社
+  address: 新城市下吉田字大沢105番地の1
+  lat: null
+  lng: null
+station: JR飯田線三河大野駅
+recurrence: 3月23日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cd888b3b-f02d-4806-a097-adc3283f82e2
+organizer: 朝日神社
+shrine: 朝日神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cd888b3b-f02d-4806-a097-adc3283f82e2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月23日」から導いたもので、神社が2026年の日程として発表したものではない

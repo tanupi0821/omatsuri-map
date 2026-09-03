@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301048-0
+name: 四宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 中央区
+venue:
+  name: 四宮神社
+  address: 神戸市中央区中山手通5-2-13
+  lat: 34.691243
+  lng: 135.181848
+recurrence: 5月11日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301048.html
+organizer: 四宮神社
+shrine: 四宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301048.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月11日」から導いたもので、神社が2026年の日程として発表したものではない

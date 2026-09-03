@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-9b66553589954ef09dba046e71539107-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 新城市巣山字ハンノ木34番地
+  lat: null
+  lng: null
+station: JR飯田線本長篠駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9b665535-8995-4ef0-9dba-046e71539107
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9b665535-8995-4ef0-9dba-046e71539107
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

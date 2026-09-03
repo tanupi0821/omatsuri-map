@@ -1,0 +1,34 @@
+id: aichi-028-jinjacho-a16aa334294646918d2bd68f36b29fa3-0
+name: 大濵熊野大神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 碧南市
+  ward: null
+venue:
+  name: 大濵熊野大神社
+  address: 碧南市宮町五丁目46番地
+  lat: null
+  lng: null
+station: 名鉄三河線 碧南駅
+recurrence: 10月10日（スポーツの日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a16aa334-2946-4691-8d2b-d68f36b29fa3
+organizer: 大濵熊野大神社
+shrine: 大濵熊野大神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a16aa334-2946-4691-8d2b-d68f36b29fa3
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日（スポーツの日）」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: niki-jinjacho-32f3d23725d1-0
+name: 大江神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 余市郡仁木町
+  ward: null
+venue:
+  name: 大江神社
+  address: 余市郡仁木町大江2丁目445番地
+  lat: null
+  lng: null
+recurrence: 9月8日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%a4%a7%e6%b1%9f%e7%a5%9e%e7%a4%be/
+organizer: 大江神社
+shrine: 大江神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%a4%a7%e6%b1%9f%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月8日」から導いたもので、神社が2026年の日程として発表したものではない

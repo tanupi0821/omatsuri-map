@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-ab0d0b47fa87405ca8c8d53855ecf171-0
+name: 八剱社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 八剱社
+  address: 名古屋市南区鳥栖2丁目20-29
+  lat: null
+  lng: null
+station: 地下鉄 鶴里
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ab0d0b47-fa87-405c-a8c8-d53855ecf171
+organizer: 八剱社
+shrine: 八剱社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ab0d0b47-fa87-405c-a8c8-d53855ecf171
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

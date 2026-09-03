@@ -1,0 +1,39 @@
+id: saga-002-manual-aki-kunchi
+name: 唐津くんち
+kind: 例大祭
+scale: 市
+area:
+  pref: 佐賀県
+  city: 唐津市
+  ward: null
+venue:
+  name: 唐津神社周辺（唐津市街地）
+  address: null
+  lat: null
+  lng: null
+recurrence: 11月2日〜4日
+recurrence_source: https://www.city.karatsu.lg.jp/page/4344.html
+organizer: 唐津神社
+shrine: 唐津神社
+tags:
+  - 山車
+  - ユネスコ無形文化遺産
+description: null
+links:
+  - title: 唐津市 唐津くんち
+    url: https://www.city.karatsu.lg.jp/page/4344.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-02
+      - 2026-11-03
+      - 2026-11-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.city.karatsu.lg.jp/page/4344.html
+    source_name: 唐津市
+    source_type: gov
+    checked_at: 2026-09-03
+    note: 唐津神社の秋季例大祭。毎年11月2日（宵曳山）・3日（御旅所神幸）・4日（翌日祭）の固定開催
+stalls: unknown

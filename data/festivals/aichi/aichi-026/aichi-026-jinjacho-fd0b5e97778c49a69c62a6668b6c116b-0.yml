@@ -1,0 +1,34 @@
+id: aichi-026-jinjacho-fd0b5e97778c49a69c62a6668b6c116b-0
+name: 三狐社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: あま市
+  ward: null
+venue:
+  name: 三狐社
+  address: あま市甚目寺茶ノ木田25番地
+  lat: null
+  lng: null
+station: 名鉄甚目寺駅
+recurrence: 4月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fd0b5e97-778c-49a6-9c62-a6668b6c116b
+organizer: 三狐社
+shrine: 三狐社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fd0b5e97-778c-49a6-9c62-a6668b6c116b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月15日」から導いたもので、神社が2026年の日程として発表したものではない

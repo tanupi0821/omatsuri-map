@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-0d85b293fb364eb49579585ccc8b4893-0
+name: 摩訶戸神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 摩訶戸神社
+  address: 新城市一鍬田字下六田34番地
+  lat: null
+  lng: null
+station: JR飯田線新城駅
+recurrence: 10月9日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0d85b293-fb36-4eb4-9579-585ccc8b4893
+organizer: 摩訶戸神社
+shrine: 摩訶戸神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0d85b293-fb36-4eb4-9579-585ccc8b4893
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月9日」から導いたもので、神社が2026年の日程として発表したものではない

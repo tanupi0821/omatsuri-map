@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-7af4b23e614f476698c16a93f7e864d9-0
+name: 青塚社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 青塚社
+  address: 一宮市北方町北方宮西12番地
+  lat: null
+  lng: null
+station: JR木曽川駅
+recurrence: 9月11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7af4b23e-614f-4766-98c1-6a93f7e864d9
+organizer: 青塚社
+shrine: 青塚社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7af4b23e-614f-4766-98c1-6a93f7e864d9
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月11日」から導いたもので、神社が2026年の日程として発表したものではない

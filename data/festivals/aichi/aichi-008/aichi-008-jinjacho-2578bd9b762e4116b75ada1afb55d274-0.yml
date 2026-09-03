@@ -1,0 +1,35 @@
+id: aichi-008-jinjacho-2578bd9b762e4116b75ada1afb55d274-0
+name: 宮道天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 宮道天神社
+  address: 豊川市赤坂町宮路１１２０番地
+  lat: null
+  lng: null
+station: 名鉄本線 名電赤坂
+recurrence: 8月第3土・日曜日（14日、15日、16日が含まれる場合は第4土・日曜日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2578bd9b-762e-4116-b75a-da1afb55d274
+organizer: 宮道天神社
+shrine: 宮道天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2578bd9b-762e-4116-b75a-da1afb55d274
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月第3土・日曜日（14日、15日、16日が含まれる場合は第4土・日曜日）」から導いたもので、神社が2026年の日程として発表したものではない

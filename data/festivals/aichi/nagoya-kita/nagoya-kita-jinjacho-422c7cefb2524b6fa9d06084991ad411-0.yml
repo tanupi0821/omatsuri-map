@@ -1,0 +1,34 @@
+id: nagoya-kita-jinjacho-422c7cefb2524b6fa9d06084991ad411-0
+name: 別小江神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市北区
+  ward: null
+venue:
+  name: 別小江神社
+  address: 名古屋市北区安井4-14-14
+  lat: null
+  lng: null
+station: 地下鉄上飯田線上飯田
+recurrence: 10月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=422c7cef-b252-4b6f-a9d0-6084991ad411
+organizer: 別小江神社
+shrine: 別小江神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=422c7cef-b252-4b6f-a9d0-6084991ad411
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月12日」から導いたもので、神社が2026年の日程として発表したものではない

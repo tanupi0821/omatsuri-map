@@ -1,0 +1,34 @@
+id: agui-jinjacho-8e067652bd2b48c38dd5bf4076f867aa-0
+name: 大山衹神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡阿久比町
+  ward: null
+venue:
+  name: 大山衹神社
+  address: 知多郡阿久比町大字萩字白山西8
+  lat: null
+  lng: null
+station: 名鉄河和線植大駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8e067652-bd2b-48c3-8dd5-bf4076f867aa
+organizer: 大山衹神社
+shrine: 大山衹神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8e067652-bd2b-48c3-8dd5-bf4076f867aa
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

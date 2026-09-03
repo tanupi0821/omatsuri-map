@@ -1,0 +1,33 @@
+id: hiroshima-003-jinjacho-a0f5b9d5880b-0
+name: 太歳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 三次市
+  ward: null
+venue:
+  name: 太歳神社
+  address: 三次市三次町1111
+  lat: 34.81879143166473
+  lng: 132.84474420422976
+recurrence: 10月第3土曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+organizer: 太歳神社
+shrine: 太歳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3土曜日」から導いたもので、神社が2026年の日程として発表したものではない

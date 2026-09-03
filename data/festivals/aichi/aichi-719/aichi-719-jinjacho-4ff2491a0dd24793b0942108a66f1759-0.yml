@@ -1,0 +1,34 @@
+id: aichi-719-jinjacho-4ff2491a0dd24793b0942108a66f1759-0
+name: 北野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 北野神社
+  address: 名古屋市中区大須2-12-17
+  lat: null
+  lng: null
+station: 地下鉄 大須観音駅 上前津駅
+recurrence: 3月25日9月25日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4ff2491a-0dd2-4793-b094-2108a66f1759
+organizer: 北野神社
+shrine: 北野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4ff2491a-0dd2-4793-b094-2108a66f1759
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月25日9月25日」から導いたもので、神社が2026年の日程として発表したものではない

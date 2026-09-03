@@ -1,0 +1,33 @@
+id: hamatonbetsu-jinjacho-4cbd0097faf0-0
+name: 浜頓別神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 枝幸郡浜頓別町
+  ward: null
+venue:
+  name: 浜頓別神社
+  address: 枝幸郡浜頓別町北4条1-20
+  lat: null
+  lng: null
+recurrence: 8月2日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%b5%9c%e9%a0%93%e5%88%a5%e7%a5%9e%e7%a4%be/
+organizer: 浜頓別神社
+shrine: 浜頓別神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%b5%9c%e9%a0%93%e5%88%a5%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月2日」から導いたもので、神社が2026年の日程として発表したものではない

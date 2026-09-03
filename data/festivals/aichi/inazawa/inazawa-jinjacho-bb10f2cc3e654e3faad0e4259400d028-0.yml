@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-bb10f2cc3e654e3faad0e4259400d028-0
+name: 淺井神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 淺井神社
+  address: 稲沢市浅井町宮西305番地
+  lat: null
+  lng: null
+station: 名鉄 尾西線 山崎駅
+recurrence: 10月1日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bb10f2cc-3e65-4e3f-aad0-e4259400d028
+organizer: 淺井神社
+shrine: 淺井神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bb10f2cc-3e65-4e3f-aad0-e4259400d028
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月1日」から導いたもので、神社が2026年の日程として発表したものではない

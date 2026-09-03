@@ -23,7 +23,7 @@ import {
 } from './_article.mjs';
 import { buildGazetteer, actualCity } from './_gazetteer.mjs';
 
-const CHECKED = '2026-08-04';
+const CHECKED = '2026-09-03';
 const RAW = join(ROOT, 'data', 'raw', 'goguynet');
 
 if (!existsSync(RAW)) {

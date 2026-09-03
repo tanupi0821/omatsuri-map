@@ -1,0 +1,33 @@
+id: hiroshima-004-jinjacho-cbc8a794483b-0
+name: 下賀茂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 竹原市
+  ward: null
+venue:
+  name: 下賀茂神社
+  address: 竹原市下野町3048番地
+  lat: 34.355968631738016
+  lng: 132.90210800013892
+recurrence: 9月第2日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=30
+organizer: 下賀茂神社
+shrine: 下賀茂神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=30
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

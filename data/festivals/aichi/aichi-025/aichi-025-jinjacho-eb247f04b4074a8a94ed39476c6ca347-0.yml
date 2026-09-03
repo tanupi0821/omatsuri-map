@@ -1,0 +1,34 @@
+id: aichi-025-jinjacho-eb247f04b4074a8a94ed39476c6ca347-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 八幡社
+  address: 津島市蛭間町字西屋敷1174番地
+  lat: null
+  lng: null
+station: 名鉄青塚駅
+recurrence: 10月第1土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=eb247f04-b407-4a8a-94ed-39476c6ca347
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=eb247f04-b407-4a8a-94ed-39476c6ca347
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1土曜日」から導いたもので、神社が2026年の日程として発表したものではない

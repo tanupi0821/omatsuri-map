@@ -1,0 +1,33 @@
+id: hiroshima-701-jinjacho-20c8e737426f-0
+name: 厳島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 東広島市
+  ward: null
+venue:
+  name: 厳島神社
+  address: 東広島市黒瀬町楢原1158番地
+  lat: 34.3295227
+  lng: 132.664966999999
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+organizer: 厳島神社
+shrine: 厳島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

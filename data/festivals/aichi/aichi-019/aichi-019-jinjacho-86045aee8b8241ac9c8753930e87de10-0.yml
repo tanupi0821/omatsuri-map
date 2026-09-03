@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-86045aee8b8241ac9c8753930e87de10-0
+name: 平川神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 平川神明社
+  address: 豊橋市平川本町2丁目14番地1
+  lat: null
+  lng: null
+station: 豊橋鉄道市内線 運動公園前停留所
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=86045aee-8b82-41ac-9c87-53930e87de10
+organizer: 平川神明社
+shrine: 平川神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=86045aee-8b82-41ac-9c87-53930e87de10
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hokkaido-705-jinjacho-58f01104600f-0
+name: 円山西町神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 円山西町神社
+  address: 札幌市中央区円山西町6丁目518番地6
+  lat: null
+  lng: null
+recurrence: 9月第2日曜日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%86%86%e5%b1%b1%e8%a5%bf%e7%94%ba%e7%a5%9e%e7%a4%be/
+organizer: 円山西町神社
+shrine: 円山西町神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%86%86%e5%b1%b1%e8%a5%bf%e7%94%ba%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

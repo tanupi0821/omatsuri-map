@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-a9928f5b679f43ed907b166b571865df-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 八幡社
+  address: 西尾市吉良町大島一反畑7番地
+  lat: null
+  lng: null
+station: 名鉄西尾線吉良吉田駅
+recurrence: 5月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a9928f5b-679f-43ed-907b-166b571865df
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a9928f5b-679f-43ed-907b-166b571865df
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

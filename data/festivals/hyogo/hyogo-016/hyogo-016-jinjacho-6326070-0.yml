@@ -1,0 +1,33 @@
+id: hyogo-016-jinjacho-6326070-0
+name: 安明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 美方郡香美町
+  ward: null
+venue:
+  name: 安明神社
+  address: 美方郡香美町小代区城山143
+  lat: 35.457946
+  lng: 134.534865
+recurrence: 9月28日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6326070.html
+organizer: 安明神社
+shrine: 安明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6326070.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月28日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,35 @@
+id: aichi-008-jinjacho-dedd5036617a41ec9a96ba87aaef7c2e-0
+name: 久保神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 久保神社
+  address: 豊川市久保町社地３番地
+  lat: null
+  lng: null
+station: 名鉄本線 国府駅
+recurrence: 4月最終土・日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dedd5036-617a-41ec-9a96-ba87aaef7c2e
+organizer: 久保神社
+shrine: 久保神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-25
+      - 2026-04-26
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dedd5036-617a-41ec-9a96-ba87aaef7c2e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月最終土・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -79,6 +79,82 @@ export const CITY_SLUG = {
   下仁田町: 'shimonita', 甘楽町: 'kanra', 安中市: 'annaka', 渋川市: 'shibukawa',
   館林市: 'tatebayashi', 藤岡市: 'fujioka', 草津町: 'kusatsu', 中之条町: 'nakanojo',
   千代田町: 'chiyoda-gunma', 明和町: 'meiwa',
+
+  // ---- 愛知県（神社庁の神社DBに出てくるうち、nationwide.yml に無いものだけ）----
+  // 名古屋市の区は、愛知のエリア定義では「名古屋市◯区」で 1 市区町村として扱う
+  // （nationwide.yml がその形で持っているので合わせる）
+  名古屋市中川区: 'nagoya-nakagawa',
+  半田市: 'handa', 大府市: 'obu', 尾張旭市: 'owariasahi', 岩倉市: 'iwakura',
+  日進市: 'nisshin', 清須市: 'kiyosu', 稲沢市: 'inazawa', 高浜市: 'takahama',
+  長久手市: 'nagakute', 北名古屋市: 'kitanagoya',
+  愛知郡東郷町: 'togo', 西春日井郡豊山町: 'toyoyama',
+  丹羽郡大口町: 'oguchi', 丹羽郡扶桑町: 'fuso',
+  海部郡大治町: 'oharu', 海部郡蟹江町: 'kanie', 海部郡飛島村: 'tobishima',
+  知多郡阿久比町: 'agui', 知多郡東浦町: 'higashiura',
+  額田郡幸田町: 'kota',
+  北設楽郡設楽町: 'shitara', 北設楽郡豊根村: 'toyone',
+
+  // ---- 広島県（神社庁の神社DBに出てくるうち、nationwide.yml に無いものだけ）----
+  // 広島市の区も「広島市◯区」で 1 市区町村として扱う（nationwide.yml に合わせる）
+  広島市東区: 'hiroshima-higashi', 広島市佐伯区: 'hiroshima-saeki',
+  広島市安芸区: 'hiroshima-aki',
+  安芸高田市: 'akitakata', 大竹市: 'otake',
+  // nationwide.yml には「廿日市」（市が抜けている）で入っている。
+  // 神社庁の住所は「廿日市市」なので、正しい名前の方をここで定義する
+  廿日市市: 'hatsukaichi',
+  // 郡が付かない町。出典が「安芸郡海田町」ではなく「海田町」と書いている
+  海田町: 'kaita', 坂町: 'saka', 府中町: 'fuchucho', 北広島町: 'kitahiroshima',
+  安芸太田町: 'akiota', 神石高原町: 'jinsekikogen', 大崎上島町: 'osakikamijima',
+
+  // ---- 兵庫県（神社庁の神社DBに出てくるうち、nationwide.yml に無いものだけ）----
+  // 神戸市は政令市として city=神戸市 / ward=◯区 で入れるので、区は書かない
+  小野市: 'ono', 赤穂市: 'ako',
+  多可郡多可町: 'taka', 赤穂郡上郡町: 'kamigori', 神崎郡市川町: 'ichikawa-cho',
+  加古郡稲美町: 'inami', 加古郡播磨町: 'harima', 揖保郡太子町: 'taishi',
+
+  // ---- 北海道（神社庁の神社DBに出てくるうち、nationwide.yml に無いものだけ）----
+  // 住所は「桧山郡江差町」と郡付き。nationwide.yml が郡なしで持っている町
+  // （江差町・乙部町・今金町・中札内村・更別村・枝幸町など）は import 側で
+  // 郡を落として引き当てるので、ここには書かない
+  札幌市西区: 'sapporo-nishi', 札幌市北区: 'sapporo-kita', 札幌市白石区: 'sapporo-shiroishi',
+  札幌市厚別区: 'sapporo-atsubetsu', 札幌市手稲区: 'sapporo-teine', 札幌市清田区: 'sapporo-kiyota',
+  士別市: 'shibetsu', 石狩市: 'ishikari', 歌志内市: 'utashinai', 夕張市: 'yubari',
+  富良野市: 'furano',
+  // 同じ読みが他県にある市町村は県名を足して分ける（id は県を含まないため）
+  沙流郡日高町: 'hidaka-hokkaido', 上川郡清水町: 'shimizu-hokkaido',
+  松前郡福島町: 'fukushima-hokkaido', 中川郡池田町: 'ikeda-hokkaido',
+  上川郡上川町: 'kamikawa-cho', 釧路郡釧路町: 'kushiro-cho', 標津郡標津町: 'shibetsu-cho',
+  中川郡豊頃町: 'toyokoro', 上川郡東神楽町: 'higashikagura', 天塩郡遠別町: 'embetsu',
+  松前郡松前町: 'matsumae', 虻田郡豊浦町: 'toyoura', 野付郡別海町: 'betsukai',
+  樺戸郡浦臼町: 'urausu', 奥尻郡奥尻町: 'okushiri', 様似郡様似町: 'samani',
+  桧山郡上ノ国町: 'kaminokuni', 上川郡比布町: 'pippu', 天塩郡天塩町: 'teshio',
+  岩内郡共和町: 'kyowa', 島牧郡島牧村: 'shimamaki', 夕張郡栗山町: 'kuriyama',
+  留萌郡小平町: 'obira', 斜里郡清里町: 'kiyosato', 石狩郡当別町: 'tobetsu',
+  浦河郡浦河町: 'urakawa', 利尻郡利尻富士町: 'rishirifuji', 古宇郡神恵内村: 'kamoenai',
+  川上郡弟子屈町: 'teshikaga', 久遠郡せたな町: 'setana', 雨竜郡秩父別町: 'chippubetsu',
+  苫前郡苫前町: 'tomamae', 夕張郡由仁町: 'yuni', 紋別郡雄武町: 'oumu',
+  上川郡新得町: 'shintoku', 上川郡下川町: 'shimokawa', 桧山郡厚沢部町: 'assabu',
+  夕張郡長沼町: 'naganuma', 苫前郡初山別村: 'shosanbetsu', 勇払郡安平町: 'abira',
+  厚岸郡浜中町: 'hamanaka', 寿都郡寿都町: 'suttsu', 幌泉郡えりも町: 'erimo',
+  古宇郡泊村: 'tomari', 寿都郡黒松内町: 'kuromatsunai', 増毛郡増毛町: 'mashike',
+  余市郡仁木町: 'niki', 紋別郡西興部村: 'nishiokoppe', 樺戸郡月形町: 'tsukigata',
+  磯谷郡蘭越町: 'rankoshi', 上川郡鷹栖町: 'takasu', 古平郡古平町: 'furubira',
+  苫前郡羽幌町: 'haboro', 雨竜郡雨竜町: 'uryu', 紋別郡滝上町: 'takinoue',
+  勇払郡占冠村: 'shimukappu', 枝幸郡浜頓別町: 'hamatonbetsu', 虻田郡留寿都村: 'rusutsu',
+  樺戸郡新十津川町: 'shintotsukawa', 上川郡剣淵町: 'kembuchi', 余市郡赤井川村: 'akaigawa',
+  枝幸郡中頓別町: 'nakatonbetsu', 空知郡上砂川町: 'kamisunagawa', 中川郡美深町: 'bifuka',
+  上川郡東川町: 'higashikawa', 目梨郡羅臼町: 'rausu', 河東郡鹿追町: 'shikaoi',
+  厚岸郡厚岸町: 'akkeshi', 天塩郡幌延町: 'horonobe', 礼文郡礼文町: 'rebun',
+  網走郡津別町: 'tsubetsu', 常呂郡置戸町: 'oketo', 虻田郡京極町: 'kyogoku',
+  河東郡上士幌町: 'kamishihoro', 紋別郡湧別町: 'yubetsu', 虻田郡倶知安町: 'kutchan',
+  空知郡奈井江町: 'naie', 山越郡長万部町: 'oshamambe', 利尻郡利尻町: 'rishiri',
+  斜里郡斜里町: 'shari', 上川郡和寒町: 'wassamu', 上川郡愛別町: 'aibetsu',
+  有珠郡壮瞥町: 'sobetsu', 斜里郡小清水町: 'koshimizu', 雨竜郡妹背牛町: 'moseushi',
+  空知郡南幌町: 'nanporo', 上川郡美瑛町: 'biei', 虻田郡真狩村: 'makkari',
+  十勝郡浦幌町: 'urahoro', 空知郡上富良野町: 'kamifurano', 雨竜郡北竜町: 'hokuryu',
+  雨竜郡幌加内町: 'horokanai', 中川郡中川町: 'nakagawa', 常呂郡佐呂間町: 'saroma',
+  網走郡美幌町: 'bihoro', 沙流郡平取町: 'biratori', 白老郡白老町: 'shiraoi',
+  天塩郡豊富町: 'toyotomi', 空知郡南富良野町: 'minamifurano', 川上郡標茶町: 'shibecha',
 };
 
 /** 政令市の区（都県をまたいで同名の区があるので、市ごとに分ける） */

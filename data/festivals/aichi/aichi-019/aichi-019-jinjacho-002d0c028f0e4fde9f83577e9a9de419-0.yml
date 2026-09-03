@@ -1,0 +1,33 @@
+id: aichi-019-jinjacho-002d0c028f0e4fde9f83577e9a9de419-0
+name: 春日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 春日神社
+  address: 豊橋市多米東町1丁目20番地3
+  lat: null
+  lng: null
+recurrence: 3月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=002d0c02-8f0e-4fde-9f83-577e9a9de419
+organizer: 春日神社
+shrine: 春日神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=002d0c02-8f0e-4fde-9f83-577e9a9de419
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

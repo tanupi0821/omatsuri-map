@@ -1,0 +1,33 @@
+id: shitara-jinjacho-d9598ce2677f4697a3ddedfcb5e0c797-0
+name: 長江神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北設楽郡設楽町
+  ward: null
+venue:
+  name: 長江神社
+  address: 北設楽郡設楽町長江字横曽連25番地の225番地の326番地
+  lat: null
+  lng: null
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d9598ce2-677f-4697-a3dd-edfcb5e0c797
+organizer: 長江神社
+shrine: 長江神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d9598ce2-677f-4697-a3dd-edfcb5e0c797
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

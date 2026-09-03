@@ -1,0 +1,33 @@
+id: hyogo-017-jinjacho-6322134-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 豊岡市竹野町須野谷611-1
+  lat: 35.570551
+  lng: 134.698117
+recurrence: 9月8日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322134.html
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322134.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月8日」から導いたもので、神社が2026年の日程として発表したものではない

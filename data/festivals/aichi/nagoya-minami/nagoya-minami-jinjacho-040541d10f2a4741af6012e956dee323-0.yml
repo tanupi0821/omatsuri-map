@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-040541d10f2a4741af6012e956dee323-0
+name: 喚続社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 喚続社
+  address: 名古屋市南区星崎1丁目146番地
+  lat: null
+  lng: null
+station: 名鉄 本星崎駅
+recurrence: 10月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=040541d1-0f2a-4741-af60-12e956dee323
+organizer: 喚続社
+shrine: 喚続社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=040541d1-0f2a-4741-af60-12e956dee323
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

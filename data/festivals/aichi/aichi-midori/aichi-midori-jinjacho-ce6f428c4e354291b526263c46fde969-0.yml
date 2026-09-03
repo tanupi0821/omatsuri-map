@@ -1,0 +1,34 @@
+id: aichi-midori-jinjacho-ce6f428c4e354291b526263c46fde969-0
+name: 桶狭間神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市緑区
+  ward: null
+venue:
+  name: 桶狭間神明社
+  address: 名古屋市緑区桶狭間神明1520番地
+  lat: null
+  lng: null
+station: バス停 寺前
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ce6f428c-4e35-4291-b526-263c46fde969
+organizer: 桶狭間神明社
+shrine: 桶狭間神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ce6f428c-4e35-4291-b526-263c46fde969
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

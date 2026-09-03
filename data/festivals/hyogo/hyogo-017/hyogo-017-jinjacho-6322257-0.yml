@@ -1,0 +1,33 @@
+id: hyogo-017-jinjacho-6322257-0
+name: 威徳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 威徳神社
+  address: 豊岡市日高町栃本301
+  lat: 35.483095
+  lng: 134.694534
+recurrence: 10月1日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322257.html
+organizer: 威徳神社
+shrine: 威徳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322257.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月1日」から導いたもので、神社が2026年の日程として発表したものではない

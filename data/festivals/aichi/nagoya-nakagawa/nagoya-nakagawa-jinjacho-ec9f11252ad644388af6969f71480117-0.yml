@@ -1,0 +1,33 @@
+id: nagoya-nakagawa-jinjacho-ec9f11252ad644388af6969f71480117-0
+name: 若宮八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 若宮八幡社
+  address: 名古屋市中川区小塚町11
+  lat: null
+  lng: null
+recurrence: 10月第一日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ec9f1125-2ad6-4438-8af6-969f71480117
+organizer: 若宮八幡社
+shrine: 若宮八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ec9f1125-2ad6-4438-8af6-969f71480117
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第一日曜日」から導いたもので、神社が2026年の日程として発表したものではない

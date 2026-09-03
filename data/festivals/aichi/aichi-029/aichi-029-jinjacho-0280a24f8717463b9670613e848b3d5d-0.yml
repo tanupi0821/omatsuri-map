@@ -1,0 +1,34 @@
+id: aichi-029-jinjacho-0280a24f8717463b9670613e848b3d5d-0
+name: 天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 春日井市
+  ward: null
+venue:
+  name: 天神社
+  address: 春日井市勝川町1丁目3番地の2
+  lat: null
+  lng: null
+station: JR中央本線勝川駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0280a24f-8717-463b-9670-613e848b3d5d
+organizer: 天神社
+shrine: 天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0280a24f-8717-463b-9670-613e848b3d5d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

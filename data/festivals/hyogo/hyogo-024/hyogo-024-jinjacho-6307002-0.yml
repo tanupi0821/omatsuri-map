@@ -1,0 +1,33 @@
+id: hyogo-024-jinjacho-6307002-0
+name: 丹波太神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 丹波篠山市
+  ward: null
+venue:
+  name: 丹波太神宮
+  address: 丹波篠山市畑宮375
+  lat: 35.086436
+  lng: 135.257396
+recurrence: 5月22日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6307002.html
+organizer: 丹波太神宮
+shrine: 丹波太神宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6307002.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月22日」から導いたもので、神社が2026年の日程として発表したものではない

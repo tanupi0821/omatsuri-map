@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-076a9d3e00f848cdb5c5a0b6b15d1763-0
+name: 琴飛羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 琴飛羅社
+  address: 名古屋市南区星崎1丁目213
+  lat: null
+  lng: null
+station: 名鉄 本星崎駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=076a9d3e-00f8-48cd-b5c5-a0b6b15d1763
+organizer: 琴飛羅社
+shrine: 琴飛羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=076a9d3e-00f8-48cd-b5c5-a0b6b15d1763
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

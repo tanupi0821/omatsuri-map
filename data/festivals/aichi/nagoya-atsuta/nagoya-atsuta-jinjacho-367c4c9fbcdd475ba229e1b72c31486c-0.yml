@@ -1,0 +1,34 @@
+id: nagoya-atsuta-jinjacho-367c4c9fbcdd475ba229e1b72c31486c-0
+name: 景清社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市熱田区
+  ward: null
+venue:
+  name: 景清社
+  address: 名古屋市熱田区神戸町402
+  lat: null
+  lng: null
+station: 地下鉄名城線伝馬駅 下車
+recurrence: 9月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=367c4c9f-bcdd-475b-a229-e1b72c31486c
+organizer: 景清社
+shrine: 景清社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=367c4c9f-bcdd-475b-a229-e1b72c31486c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない

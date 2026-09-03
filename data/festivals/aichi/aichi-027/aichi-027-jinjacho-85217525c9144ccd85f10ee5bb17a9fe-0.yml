@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-85217525c9144ccd85f10ee5bb17a9fe-0
+name: 貴船神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 貴船神明社
+  address: 一宮市奥町字貴船8番地
+  lat: null
+  lng: null
+station: 名鉄 奥町駅
+recurrence: 4月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=85217525-c914-4ccd-85f1-0ee5bb17a9fe
+organizer: 貴船神明社
+shrine: 貴船神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=85217525-c914-4ccd-85f1-0ee5bb17a9fe
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月10日」から導いたもので、神社が2026年の日程として発表したものではない

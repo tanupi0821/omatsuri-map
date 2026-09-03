@@ -1,0 +1,33 @@
+id: hyogo-005-jinjacho-6316122-0
+name: 武大神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 姫路市
+  ward: null
+venue:
+  name: 武大神社
+  address: 姫路市網干区福井113
+  lat: 34.808097
+  lng: 134.580602
+recurrence: 5月第3日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6316122.html
+organizer: 武大神社
+shrine: 武大神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6316122.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-c05c39d83faf4a7585802cf55a53ef76-0
+name: 菟足神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 菟足神社
+  address: 豊川市小坂井町宮脇２番地
+  lat: null
+  lng: null
+station: JR飯田線 小坂井
+recurrence: 4月第二日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c05c39d8-3faf-4a75-8580-2cf55a53ef76
+organizer: 菟足神社
+shrine: 菟足神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c05c39d8-3faf-4a75-8580-2cf55a53ef76
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第二日曜」から導いたもので、神社が2026年の日程として発表したものではない

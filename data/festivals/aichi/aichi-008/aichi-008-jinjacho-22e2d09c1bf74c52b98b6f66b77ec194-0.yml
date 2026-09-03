@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-22e2d09c1bf74c52b98b6f66b77ec194-0
+name: 行明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 行明神社
+  address: 豊川市行明町宮井戸596番地
+  lat: null
+  lng: null
+station: 飯田線 牛久保駅
+recurrence: 4月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=22e2d09c-1bf7-4c52-b98b-6f66b77ec194
+organizer: 行明神社
+shrine: 行明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=22e2d09c-1bf7-4c52-b98b-6f66b77ec194
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

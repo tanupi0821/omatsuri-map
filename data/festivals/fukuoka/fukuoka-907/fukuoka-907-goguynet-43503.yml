@@ -1,0 +1,35 @@
+id: fukuoka-907-goguynet-43503
+name: 関門海峡花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市門司区
+  ward: null
+venue:
+  name: 門司区西海岸周辺ほか
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.kanmon-hanabi.love
+  - title: ホームページ
+    url: https://www.city.kitakyushu.lg.jp/moji/w1100625.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kitakyushukokura-moji.goguynet.jp/2026/08/09/kanmonkaikyohanabitaikai2026/
+    source_name: 号外NET 北九州市小倉北区・門司区・戸畑区
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（協賛チケットあり。種別・席情報などは公式サイトにて要確認）

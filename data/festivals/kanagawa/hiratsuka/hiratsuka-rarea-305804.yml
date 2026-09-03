@@ -1,0 +1,31 @@
+id: hiratsuka-rarea-305804
+name: 第74回湘南ひらつか花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 平塚市
+  ward: null
+venue:
+  name: 正面の観覧には
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+    start_time: 19:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://rarea.events/event/305804
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（有料席チケット販売の開始は2026年7月上旬頃(予定)、詳細は公式サイトをご確認ください）

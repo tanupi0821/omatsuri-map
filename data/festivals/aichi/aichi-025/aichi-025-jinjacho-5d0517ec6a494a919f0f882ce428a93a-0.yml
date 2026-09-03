@@ -1,0 +1,34 @@
+id: aichi-025-jinjacho-5d0517ec6a494a919f0f882ce428a93a-0
+name: 日破社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 日破社
+  address: 津島市大坪町字壺里24番地
+  lat: null
+  lng: null
+station: 大坪名鉄バス停
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5d0517ec-6a49-4a91-9f0f-882ce428a93a
+organizer: 日破社
+shrine: 日破社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5d0517ec-6a49-4a91-9f0f-882ce428a93a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

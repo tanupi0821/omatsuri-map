@@ -1,0 +1,33 @@
+id: hyogo-032-jinjacho-6305024-0
+name: 素盞嗚神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 伊丹市
+  ward: null
+venue:
+  name: 素盞嗚神社
+  address: 伊丹市中野北1-5-5
+  lat: 34.795462
+  lng: 135.383733
+recurrence: 10月第4日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6305024.html
+organizer: 素盞嗚神社
+shrine: 素盞嗚神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6305024.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

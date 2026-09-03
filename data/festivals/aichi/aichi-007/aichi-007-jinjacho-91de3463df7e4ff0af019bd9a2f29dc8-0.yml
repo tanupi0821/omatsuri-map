@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-91de3463df7e4ff0af019bd9a2f29dc8-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 神明社
+  address: 岡崎市坂左右町字上堀合37番地1
+  lat: null
+  lng: null
+station: ＪＲ線岡崎駅
+recurrence: 10月第4日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=91de3463-df7e-4ff0-af01-9bd9a2f29dc8
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=91de3463-df7e-4ff0-af01-9bd9a2f29dc8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

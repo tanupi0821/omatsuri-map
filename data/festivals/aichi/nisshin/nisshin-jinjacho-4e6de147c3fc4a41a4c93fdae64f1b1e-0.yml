@@ -1,0 +1,34 @@
+id: nisshin-jinjacho-4e6de147c3fc4a41a4c93fdae64f1b1e-0
+name: 白山宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 日進市
+  ward: null
+venue:
+  name: 白山宮
+  address: 日進市本郷町宮下519
+  lat: null
+  lng: null
+station: 名古屋鉄道 豊田線 日進駅
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4e6de147-c3fc-4a41-a4c9-3fdae64f1b1e
+organizer: 白山宮
+shrine: 白山宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4e6de147-c3fc-4a41-a4c9-3fdae64f1b1e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-f1b8f7166009433bbbfae81b2958bd32-0
+name: 八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 八幡宮
+  address: 岡崎市保久町字宮下24番地
+  lat: null
+  lng: null
+station: 名鉄本線東岡崎駅
+recurrence: 10月11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f1b8f716-6009-433b-bbfa-e81b2958bd32
+organizer: 八幡宮
+shrine: 八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f1b8f716-6009-433b-bbfa-e81b2958bd32
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月11日」から導いたもので、神社が2026年の日程として発表したものではない

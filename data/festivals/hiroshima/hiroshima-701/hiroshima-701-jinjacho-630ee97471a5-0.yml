@@ -1,0 +1,33 @@
+id: hiroshima-701-jinjacho-630ee97471a5-0
+name: 真野本神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 東広島市
+  ward: null
+venue:
+  name: 真野本神社
+  address: 東広島市黒瀬町丸山字真野本1043番地
+  lat: 34.3281939
+  lng: 132.678714099999
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+organizer: 真野本神社
+shrine: 真野本神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-cc72202db6884de9a51788b9f463aa06-0
+name: 国玉神社八劔社合殿 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 国玉神社八劔社合殿
+  address: 名古屋市中川区富田町万場字郷中113
+  lat: null
+  lng: null
+station: 市営バス万場大橋 下車
+recurrence: 5月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc72202d-b688-4de9-a517-88b9f463aa06
+organizer: 国玉神社八劔社合殿
+shrine: 国玉神社八劔社合殿
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc72202d-b688-4de9-a517-88b9f463aa06
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月5日」から導いたもので、神社が2026年の日程として発表したものではない

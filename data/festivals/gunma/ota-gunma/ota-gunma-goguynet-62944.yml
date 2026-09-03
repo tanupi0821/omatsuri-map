@@ -1,0 +1,29 @@
+id: ota-gunma-goguynet-62944
+name: 刀水橋花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 群馬県
+  city: 太田市
+  ward: null
+venue:
+  name: 今年も利根川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-31
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ota.goguynet.jp/2026/08/18/tousuibashi_hanab/
+    source_name: 号外NET 太田市
+    source_type: media
+    checked_at: 2026-09-03

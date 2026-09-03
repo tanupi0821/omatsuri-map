@@ -1,0 +1,33 @@
+id: hyogo-016-jinjacho-6326012-0
+name: 等余神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 美方郡香美町
+  ward: null
+venue:
+  name: 等余神社
+  address: 美方郡香美町村岡区市原497-2
+  lat: 35.44359
+  lng: 134.600067
+recurrence: 9月29日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6326012.html
+organizer: 等余神社
+shrine: 等余神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-29
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6326012.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月29日」から導いたもので、神社が2026年の日程として発表したものではない

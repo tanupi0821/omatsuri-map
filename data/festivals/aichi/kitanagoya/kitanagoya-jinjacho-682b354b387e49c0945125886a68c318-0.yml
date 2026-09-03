@@ -1,0 +1,34 @@
+id: kitanagoya-jinjacho-682b354b387e49c0945125886a68c318-0
+name: 生田社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北名古屋市
+  ward: null
+venue:
+  name: 生田社
+  address: 北名古屋市徳重生田３５番地
+  lat: null
+  lng: null
+station: 名鉄 徳重・名古屋芸大駅
+recurrence: 10月31日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=682b354b-387e-49c0-9451-25886a68c318
+organizer: 生田社
+shrine: 生田社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-31
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=682b354b-387e-49c0-9451-25886a68c318
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月31日」から導いたもので、神社が2026年の日程として発表したものではない

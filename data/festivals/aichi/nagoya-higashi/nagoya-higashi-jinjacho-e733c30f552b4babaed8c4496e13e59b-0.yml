@@ -1,0 +1,35 @@
+id: nagoya-higashi-jinjacho-e733c30f552b4babaed8c4496e13e59b-0
+name: 須佐之男社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市東区
+  ward: null
+venue:
+  name: 須佐之男社
+  address: 名古屋市東区新出来１丁目９０３番の３
+  lat: null
+  lng: null
+station: 名鉄瀬戸線森下
+recurrence: 6月第1土、日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e733c30f-552b-4bab-aed8-c4496e13e59b
+organizer: 須佐之男社
+shrine: 須佐之男社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-06
+      - 2026-06-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e733c30f-552b-4bab-aed8-c4496e13e59b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月第1土、日」から導いたもので、神社が2026年の日程として発表したものではない

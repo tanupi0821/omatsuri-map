@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-8e69196da29e48bdb6d6bed52aea039c-0
+name: 縣社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 縣社
+  address: 稲沢市小池正明寺町アガタ三二三〇番地
+  lat: null
+  lng: null
+station: 名鉄 国府宮駅
+recurrence: 10月22日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8e69196d-a29e-48bd-b6d6-bed52aea039c
+organizer: 縣社
+shrine: 縣社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8e69196d-a29e-48bd-b6d6-bed52aea039c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月22日」から導いたもので、神社が2026年の日程として発表したものではない

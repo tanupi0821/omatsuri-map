@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-5faa7eeca213448185d516f804b1f16c-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 神明社
+  address: 一宮市丹陽町五日市場字北浦１５０５番地
+  lat: null
+  lng: null
+station: JR東海道本線 稲沢駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5faa7eec-a213-4481-85d5-16f804b1f16c
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5faa7eec-a213-4481-85d5-16f804b1f16c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

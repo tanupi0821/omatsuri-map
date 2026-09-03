@@ -1,0 +1,35 @@
+id: aichi-008-jinjacho-fde7252b48fb4ce2bc7a8752fa5bc389-0
+name: 御油神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 御油神社
+  address: 豊川市御油町膳ノ棚31
+  lat: null
+  lng: null
+station: 名鉄 御油駅
+recurrence: 8月第1土・日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fde7252b-48fb-4ce2-bc7a-8752fa5bc389
+organizer: 御油神社
+shrine: 御油神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-01
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fde7252b-48fb-4ce2-bc7a-8752fa5bc389
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月第1土・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

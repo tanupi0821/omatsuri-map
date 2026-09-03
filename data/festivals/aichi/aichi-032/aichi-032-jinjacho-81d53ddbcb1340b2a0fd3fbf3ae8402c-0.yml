@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-81d53ddbcb1340b2a0fd3fbf3ae8402c-0
+name: 志葉都神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 志葉都神社
+  address: 西尾市吉良町津平中谷78番地
+  lat: null
+  lng: null
+station: 名鉄西尾線上横須賀駅
+recurrence: 10月第三日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=81d53ddb-cb13-40b2-a0fd-3fbf3ae8402c
+organizer: 志葉都神社
+shrine: 志葉都神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=81d53ddb-cb13-40b2-a0fd-3fbf3ae8402c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第三日曜日」から導いたもので、神社が2026年の日程として発表したものではない

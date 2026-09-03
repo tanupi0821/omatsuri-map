@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-93c8752521ee47c8a5abe1e421424817-0
+name: 天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 天神社
+  address: 稲沢市中之庄町辻畑一二番地
+  lat: null
+  lng: null
+station: 名鉄 本線 大里駅
+recurrence: 10月20日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=93c87525-21ee-47c8-a5ab-e1e421424817
+organizer: 天神社
+shrine: 天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=93c87525-21ee-47c8-a5ab-e1e421424817
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月20日」から導いたもので、神社が2026年の日程として発表したものではない

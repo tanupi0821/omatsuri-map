@@ -1,0 +1,33 @@
+id: fuchu-hiroshima-jinjacho-0ee56d86e9c0-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 府中市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 府中市上下町岡屋725番地
+  lat: 34.6815559
+  lng: 133.161034299999
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=31
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=31
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hyogo-025-jinjacho-6312036-0
+name: 八坂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 西脇市
+  ward: null
+venue:
+  name: 八坂神社
+  address: 西脇市野村町1796-17
+  lat: 34.975276
+  lng: 134.967575
+recurrence: 2月7日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6312036.html
+organizer: 八坂神社
+shrine: 八坂神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6312036.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「2月7日」から導いたもので、神社が2026年の日程として発表したものではない

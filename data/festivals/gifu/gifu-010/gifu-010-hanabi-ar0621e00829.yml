@@ -19,7 +19,19 @@ description: null
 links:
   - title: 公式サイト
     url: https://www.city.tajimi.lg.jp/kanko/event2014/20140803hanabi.html
+  - title: 号外NET 多治見市（東濃地域）
+    url: https://tajimi.goguynet.jp/2026/08/30/tajimihanabisajiki/
 occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/08/30/tajimihanabisajiki/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-09-03
   - year: 2025
     dates:
       - 2025-11-08

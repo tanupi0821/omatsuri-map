@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-db0186a0477a410b9341f1cc34fc8eca-0
+name: 中原社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 中原社
+  address: 西尾市中原町宮下25番地
+  lat: null
+  lng: null
+station: 名鉄西尾線桜町前駅
+recurrence: 11月第一日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=db0186a0-477a-410b-9341-f1cc34fc8eca
+organizer: 中原社
+shrine: 中原社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=db0186a0-477a-410b-9341-f1cc34fc8eca
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第一日曜日」から導いたもので、神社が2026年の日程として発表したものではない

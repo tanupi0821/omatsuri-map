@@ -1,0 +1,33 @@
+id: hokkaido-016-jinjacho-2e3831ee035a-0
+name: 遠軽神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 紋別郡遠軽町
+  ward: null
+venue:
+  name: 遠軽神社
+  address: 紋別郡遠軽町宮前町2番地30
+  lat: null
+  lng: null
+recurrence: 9月18日
+recurrence_source: https://hokkaidojinjacho.jp/%e9%81%a0%e8%bb%bd%e7%a5%9e%e7%a4%be/
+organizer: 遠軽神社
+shrine: 遠軽神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e9%81%a0%e8%bb%bd%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月18日」から導いたもので、神社が2026年の日程として発表したものではない

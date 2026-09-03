@@ -21,7 +21,7 @@ import { PREFS } from '../lib/prefs.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 
-const CHECKED = '2026-08-03';
+const CHECKED = '2026-09-03';
 const RAW = join(ROOT, 'data', 'raw', 'hanabi');
 
 if (!existsSync(RAW)) {

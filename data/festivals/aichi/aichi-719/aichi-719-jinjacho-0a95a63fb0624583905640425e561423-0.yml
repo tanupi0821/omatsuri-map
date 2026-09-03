@@ -1,0 +1,34 @@
+id: aichi-719-jinjacho-0a95a63fb0624583905640425e561423-0
+name: 桜天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 桜天神社
+  address: 名古屋市中区錦2丁目4番6号
+  lat: null
+  lng: null
+station: 地下鉄 丸の内駅 久屋大通駅 伏見駅
+recurrence: 3月25日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0a95a63f-b062-4583-9056-40425e561423
+organizer: 桜天神社
+shrine: 桜天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0a95a63f-b062-4583-9056-40425e561423
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月25日」から導いたもので、神社が2026年の日程として発表したものではない

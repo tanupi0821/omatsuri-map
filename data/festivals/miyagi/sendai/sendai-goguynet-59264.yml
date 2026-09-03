@@ -1,0 +1,29 @@
+id: sendai-goguynet-59264
+name: ふるさとまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 仙台市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 13:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://sendaitaihaku.goguynet.jp/2026/08/20/furusatomatsuri2026/
+    source_name: 号外NET 仙台市太白区
+    source_type: media
+    checked_at: 2026-09-03

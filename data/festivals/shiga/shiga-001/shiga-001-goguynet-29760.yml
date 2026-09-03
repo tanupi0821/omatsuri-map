@@ -1,0 +1,32 @@
+id: shiga-001-goguynet-29760
+name: 四宮祭礼図絵巻
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 滋賀県
+  city: 大津市
+  ward: null
+venue:
+  name: 大津市歴史博物館（御陵町２番２号）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-08
+      - 2026-11-01
+      - 2026-09-21
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otsu.goguynet.jp/2026/08/28/otsumatsuri_new_discovery/
+    source_name: 号外NET 大津市
+    source_type: media
+    checked_at: 2026-09-03

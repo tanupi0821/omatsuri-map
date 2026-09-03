@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-35699d4c3c5f4ea6bd6e4981eb213f46-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 神明社
+  address: 豊橋市前田南町2丁目20番地3
+  lat: null
+  lng: null
+station: JR/名鉄豊橋駅～豊鉄渥美線 柳生橋駅
+recurrence: 10月第2土曜・日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=35699d4c-3c5f-4ea6-bd6e-4981eb213f46
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=35699d4c-3c5f-4ea6-bd6e-4981eb213f46
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜・日曜」から導いたもので、神社が2026年の日程として発表したものではない

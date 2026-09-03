@@ -50,8 +50,10 @@ export function emit(rows, ctx) {
       venue: {
         name: r.venue,
         address: r.address ? `${city}${ward ?? ''}${r.address}` : null,
-        lat: null,
-        lng: null,
+        // 出典が緯度経度を持っていることがある（広島・兵庫の神社庁など）。
+        // 無ければ従来どおり null
+        lat: Number.isFinite(r.lat) ? r.lat : null,
+        lng: Number.isFinite(r.lng) ? r.lng : null,
       },
       ...(r.station ? { station: r.station } : {}),
       ...(r.recurrence ? { recurrence: r.recurrence } : {}),

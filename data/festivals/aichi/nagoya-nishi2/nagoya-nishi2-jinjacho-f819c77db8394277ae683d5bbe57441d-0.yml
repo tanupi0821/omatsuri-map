@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-f819c77db8394277ae683d5bbe57441d-0
+name: 須佐之男社加具土社合殿 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 須佐之男社加具土社合殿
+  address: 名古屋市西区幅下2丁目20番19号
+  lat: null
+  lng: null
+station: 地下鉄 浅間町
+recurrence: 10月2日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f819c77d-b839-4277-ae68-3d5bbe57441d
+organizer: 須佐之男社加具土社合殿
+shrine: 須佐之男社加具土社合殿
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f819c77d-b839-4277-ae68-3d5bbe57441d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月2日」から導いたもので、神社が2026年の日程として発表したものではない

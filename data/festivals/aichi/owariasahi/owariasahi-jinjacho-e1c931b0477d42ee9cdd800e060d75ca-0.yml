@@ -1,0 +1,34 @@
+id: owariasahi-jinjacho-e1c931b0477d42ee9cdd800e060d75ca-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 尾張旭市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 尾張旭市井田町１丁目２１８番地
+  lat: null
+  lng: null
+station: 名鉄瀬戸線 三郷駅
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1c931b0-477d-42ee-9cdd-800e060d75ca
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1c931b0-477d-42ee-9cdd-800e060d75ca
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

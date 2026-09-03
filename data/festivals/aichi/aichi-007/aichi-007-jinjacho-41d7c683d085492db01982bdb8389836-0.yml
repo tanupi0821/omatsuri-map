@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-41d7c683d085492db01982bdb8389836-0
+name: 貴舟社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 貴舟社
+  address: 岡崎市上地町字下屋敷８０番地
+  lat: null
+  lng: null
+station: JR 岡崎駅
+recurrence: 10月第1土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41d7c683-d085-492d-b019-82bdb8389836
+organizer: 貴舟社
+shrine: 貴舟社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41d7c683-d085-492d-b019-82bdb8389836
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1土曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: aichi-004-jinjacho-6af6e9738c55474d998e2375a6fac941-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: 神明社
+  address: 豊田市穂積町本口5番地
+  lat: null
+  lng: null
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6af6e973-8c55-474d-998e-2375a6fac941
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6af6e973-8c55-474d-998e-2375a6fac941
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

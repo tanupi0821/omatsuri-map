@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-010d47b87a07411e9002b2b7dbfb099b-0
+name: 金石神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 金石神社
+  address: 西尾市上町宮前1番地
+  lat: null
+  lng: null
+station: 西尾駅
+recurrence: 10月8日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=010d47b8-7a07-411e-9002-b2b7dbfb099b
+organizer: 金石神社
+shrine: 金石神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=010d47b8-7a07-411e-9002-b2b7dbfb099b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月8日」から導いたもので、神社が2026年の日程として発表したものではない

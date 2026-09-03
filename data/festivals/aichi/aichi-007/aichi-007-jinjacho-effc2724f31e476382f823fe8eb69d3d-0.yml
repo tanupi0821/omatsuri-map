@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-effc2724f31e476382f823fe8eb69d3d-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 神明社
+  address: 岡崎市日影町字堂ノ洞２５番地
+  lat: null
+  lng: null
+station: 名鉄線 東岡崎駅
+recurrence: 10月第2土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=effc2724-f31e-4763-82f8-23fe8eb69d3d
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=effc2724-f31e-4763-82f8-23fe8eb69d3d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hokkaido-057-jinjacho-a70c027b406a-0
+name: 諏訪神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 乙部町
+  ward: null
+venue:
+  name: 諏訪神社
+  address: 乙部町字花磯3番地
+  lat: null
+  lng: null
+recurrence: 9月27日
+recurrence_source: https://hokkaidojinjacho.jp/%e8%ab%8f%e8%a8%aa%e7%a5%9e%e7%a4%be-2/
+organizer: 諏訪神社
+shrine: 諏訪神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e8%ab%8f%e8%a8%aa%e7%a5%9e%e7%a4%be-2/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月27日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-303-jinjacho-b9d62f25cda04974a8ce29c74bd4c084-0
+name: 稲荷社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市港区
+  ward: null
+venue:
+  name: 稲荷社
+  address: 名古屋市港区辰巳町30-11
+  lat: null
+  lng: null
+station: 地下鉄名港線 東海通駅 下車
+recurrence: 10月第三日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b9d62f25-cda0-4974-a8ce-29c74bd4c084
+organizer: 稲荷社
+shrine: 稲荷社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b9d62f25-cda0-4974-a8ce-29c74bd4c084
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第三日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-7407c050a0714abb97201ed1c7fee089-0
+name: 星神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 星神社
+  address: 名古屋市西区上小田井1丁目172番地
+  lat: null
+  lng: null
+station: 名鉄犬山線中小田井駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7407c050-a071-4abb-9720-1ed1c7fee089
+organizer: 星神社
+shrine: 星神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7407c050-a071-4abb-9720-1ed1c7fee089
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

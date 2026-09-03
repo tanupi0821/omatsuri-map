@@ -1,0 +1,33 @@
+id: hyogo-023-jinjacho-6320060-0
+name: 東諏訪神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 宍粟市
+  ward: null
+venue:
+  name: 東諏訪神社
+  address: 宍粟市山崎町高下1277
+  lat: 35.022008
+  lng: 134.507182
+recurrence: 10月2日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6320060.html
+organizer: 東諏訪神社
+shrine: 東諏訪神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6320060.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月2日」から導いたもので、神社が2026年の日程として発表したものではない

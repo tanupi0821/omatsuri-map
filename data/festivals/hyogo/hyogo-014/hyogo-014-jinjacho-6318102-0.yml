@@ -1,0 +1,34 @@
+id: hyogo-014-jinjacho-6318102-0
+name: 神戸神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: たつの市
+  ward: null
+venue:
+  name: 神戸神社
+  address: たつの市揖保川町神戸北山222
+  lat: 34.826923
+  lng: 134.520437
+recurrence: 10月午の日の前日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6318102.html
+organizer: 神戸神社
+shrine: 神戸神社
+stalls: unknown
+tags:
+  - 菜食わず祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6318102.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月午の日の前日」から導いたもので、神社が2026年の日程として発表したものではない

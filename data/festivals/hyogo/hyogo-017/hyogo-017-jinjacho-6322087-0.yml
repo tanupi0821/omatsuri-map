@@ -1,0 +1,33 @@
+id: hyogo-017-jinjacho-6322087-0
+name: 阿牟加神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 阿牟加神社
+  address: 豊岡市森尾485
+  lat: 35.521585
+  lng: 134.874339
+recurrence: 4月18日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322087.html
+organizer: 阿牟加神社
+shrine: 阿牟加神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322087.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月18日」から導いたもので、神社が2026年の日程として発表したものではない

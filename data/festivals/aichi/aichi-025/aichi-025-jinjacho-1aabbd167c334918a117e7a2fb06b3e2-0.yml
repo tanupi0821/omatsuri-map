@@ -1,0 +1,34 @@
+id: aichi-025-jinjacho-1aabbd167c334918a117e7a2fb06b3e2-0
+name: 逆川社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 逆川社
+  address: 津島市蛭間町字西屋敷1101番地
+  lat: null
+  lng: null
+station: 名鉄青塚駅
+recurrence: 9月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1aabbd16-7c33-4918-a117-e7a2fb06b3e2
+organizer: 逆川社
+shrine: 逆川社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1aabbd16-7c33-4918-a117-e7a2fb06b3e2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -37,6 +37,15 @@ const MERGED = join(ROOT, 'data', 'merged.json');
 const mergedInto = existsSync(MERGED) ? JSON.parse(readFileSync(MERGED, 'utf8')) : {};
 
 /**
+ * **人が「別物」と確認した組**（data/not-duplicates.json、id の配列の配列）。
+ * 会場が「◯◯区内」だと会場の歯止めが効かず、平野区の別々の町会の
+ * 「盆踊り大会」（加美神明公園 8/21-22 と長吉川辺 7/25）が候補に上がった。
+ * 機械では見分けられないと分かった組はここに書いて、二度と候補に出さない。
+ */
+const NOTDUP = join(ROOT, 'data', 'not-duplicates.json');
+const notDupPairs = existsSync(NOTDUP) ? JSON.parse(readFileSync(NOTDUP, 'utf8')) : [];
+
+/**
  * 統合してよい組の目印になる id。
  *
  * まとめサイト（hanabi/summer）は一次情報と重なる。
@@ -120,12 +129,42 @@ for (const path of files) {
     bySource.get(sk).push({ path, f });
   }
 }
-// 出典が同じ組は、名前で作った組より確実なので先に入れておく
+/**
+ * **1 つの URL が 1 つの祭りとは限らない。**
+ *
+ * 「出典 URL と名前が同じなら同じ祭り」は、出典が祭り 1 件ごとのページなら
+ * 成り立つが、**一覧ページを出典にしている取り込みでは成り立たない**。
+ * 広島県神社庁は社ごとのページを持たず、区域の一覧 1 枚に全社が載っているので、
+ * 同じ一覧 URL に「河内神社 例祭」が 5 社ぶん並ぶ。素朴に統合すると
+ * 大竹市の 5 つの河内神社（前飯谷・栗谷町大栗林・栗谷町谷和・穂仁原…）が
+ * 1 社に潰れる。実データで 67 組 258 件がこれに当たった。
+ *
+ * そこで**住所が食い違う組は分ける**。ただし
+ * 「横浜市青葉区…」と「青葉区…」のように**一方がもう一方を含む**のは、
+ * 区を市として扱っていた頃の版と市＋区の版が並んでいるだけなので同じ祭り。
+ * 住所を持たない側も、食い違いの証拠が無いので同じ組のままにする。
+ */
+const addrOf = (f) => String(f.venue?.address ?? '').replace(/\s/g, '');
+const sameSpot = (a, b) => !a || !b || a === b || a.includes(b) || b.includes(a);
+
 for (const [sk, list] of bySource) {
   if (list.length < 2) continue;
   if (groups.has(sk)) continue;
-  groups.set(sk, list);
-  sourceKeys.add(sk);
+  // 住所が両立するものだけをまとめる（先に入ったものを核にして寄せる）
+  const clusters = [];
+  for (const it of list) {
+    const a = addrOf(it.f);
+    const c = clusters.find((cl) => cl.every((x) => sameSpot(addrOf(x.f), a)));
+    if (c) c.push(it);
+    else clusters.push([it]);
+  }
+  clusters.forEach((cl, i) => {
+    if (cl.length < 2) return;
+    const key = i === 0 ? sk : `${sk}#${i}`;
+    if (groups.has(key)) return;
+    groups.set(key, cl);
+    sourceKeys.add(key);
+  });
 }
 
 /** 出典の質・写真の有無で「残す方」を選ぶ */
@@ -169,6 +208,8 @@ const gone = new Set();
 for (const [key, rawItems] of groups) {
   const items = rawItems.filter((x) => !gone.has(x.path));
   if (items.length < 2) continue;
+  // 人が「別物」と確認した組は候補にも出さない
+  if (notDupPairs.some((pair) => pair.every((id) => items.some((x) => x.f.id === id)))) continue;
   // まとめサイト由来を含まない組は、同名の別の祭り（別の神社）なので触らない。
   // ただし出典 URL が同じ組は別（同じページから 2 回作られたことが確定している）
   if (!sourceKeys.has(key) && !items.some((x) => FROM_AGGREGATOR.test(x.f.id))) continue;

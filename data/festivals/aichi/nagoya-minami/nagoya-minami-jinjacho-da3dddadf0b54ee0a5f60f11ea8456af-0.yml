@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-da3dddadf0b54ee0a5f60f11ea8456af-0
+name: 宝生神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 宝生神明社
+  address: 名古屋市南区本星崎町南割3395番地
+  lat: null
+  lng: null
+station: バス停 宝生町
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da3dddad-f0b5-4ee0-a5f6-0f11ea8456af
+organizer: 宝生神明社
+shrine: 宝生神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da3dddad-f0b5-4ee0-a5f6-0f11ea8456af
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

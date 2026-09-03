@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301067-0
+name: 五宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 兵庫区
+venue:
+  name: 五宮神社
+  address: 神戸市兵庫区五宮町22-10
+  lat: 34.693424
+  lng: 135.170586
+recurrence: 9月12日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301067.html
+organizer: 五宮神社
+shrine: 五宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301067.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月12日」から導いたもので、神社が2026年の日程として発表したものではない

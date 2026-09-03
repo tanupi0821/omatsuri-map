@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-f686f5e2e5be4056a63d19c37cecb9c8-0
+name: 太田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 太田神社
+  address: 豊橋市石巻本町字太田32番地1
+  lat: null
+  lng: null
+station: 豊橋駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f686f5e2-e5be-4056-a63d-19c37cecb9c8
+organizer: 太田神社
+shrine: 太田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f686f5e2-e5be-4056-a63d-19c37cecb9c8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

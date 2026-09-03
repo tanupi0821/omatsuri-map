@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301090-0
+name: 小河大歳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 小河大歳神社
+  address: 神戸市北区山田町小河向山24
+  lat: 34.746834
+  lng: 135.098062
+recurrence: 9月最終日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301090.html
+organizer: 小河大歳神社
+shrine: 小河大歳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301090.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月最終日曜日」から導いたもので、神社が2026年の日程として発表したものではない

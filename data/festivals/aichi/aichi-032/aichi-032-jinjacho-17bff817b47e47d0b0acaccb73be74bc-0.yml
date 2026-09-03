@@ -1,0 +1,35 @@
+id: aichi-032-jinjacho-17bff817b47e47d0b0acaccb73be74bc-0
+name: 若一神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 若一神社
+  address: 西尾市一色町赤羽下郷中114番地
+  lat: null
+  lng: null
+station: 西尾駅
+recurrence: 10月第二土・日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=17bff817-b47e-47d0-b0ac-accb73be74bc
+organizer: 若一神社
+shrine: 若一神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=17bff817-b47e-47d0-b0ac-accb73be74bc
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二土・日」から導いたもので、神社が2026年の日程として発表したものではない

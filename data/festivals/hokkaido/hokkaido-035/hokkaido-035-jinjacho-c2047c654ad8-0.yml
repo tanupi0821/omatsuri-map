@@ -1,0 +1,33 @@
+id: hokkaido-035-jinjacho-c2047c654ad8-0
+name: 矢不来天満宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 北斗市
+  ward: null
+venue:
+  name: 矢不来天満宮
+  address: 北斗市矢不来138番地
+  lat: null
+  lng: null
+recurrence: 9月25日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%9f%a2%e4%b8%8d%e6%9d%a5%e5%a4%a9%e6%ba%80%e5%ae%ae/
+organizer: 矢不来天満宮
+shrine: 矢不来天満宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%9f%a2%e4%b8%8d%e6%9d%a5%e5%a4%a9%e6%ba%80%e5%ae%ae/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月25日」から導いたもので、神社が2026年の日程として発表したものではない

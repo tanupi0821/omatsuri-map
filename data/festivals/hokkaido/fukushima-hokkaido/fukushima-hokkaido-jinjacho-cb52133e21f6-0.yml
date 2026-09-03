@@ -1,0 +1,33 @@
+id: fukushima-hokkaido-jinjacho-cb52133e21f6-0
+name: 月崎神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 松前郡福島町
+  ward: null
+venue:
+  name: 月崎神社
+  address: 松前郡福島町字月崎211番地2
+  lat: null
+  lng: null
+recurrence: 8月16日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%9c%88%e5%b4%8e%e7%a5%9e%e7%a4%be/
+organizer: 月崎神社
+shrine: 月崎神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%9c%88%e5%b4%8e%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月16日」から導いたもので、神社が2026年の日程として発表したものではない

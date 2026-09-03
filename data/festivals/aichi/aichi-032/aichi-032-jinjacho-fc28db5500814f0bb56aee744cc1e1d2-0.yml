@@ -1,0 +1,35 @@
+id: aichi-032-jinjacho-fc28db5500814f0bb56aee744cc1e1d2-0
+name: 塩竃神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 塩竃神社
+  address: 西尾市一色町千間小柳13番地
+  lat: null
+  lng: null
+station: 吉良吉田駅
+recurrence: 4月第三土・日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc28db55-0081-4f0b-b56a-ee744cc1e1d2
+organizer: 塩竃神社
+shrine: 塩竃神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc28db55-0081-4f0b-b56a-ee744cc1e1d2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第三土・日」から導いたもので、神社が2026年の日程として発表したものではない

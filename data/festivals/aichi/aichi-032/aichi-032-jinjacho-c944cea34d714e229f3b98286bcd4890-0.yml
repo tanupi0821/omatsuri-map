@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-c944cea34d714e229f3b98286bcd4890-0
+name: 鹿島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 鹿島社
+  address: 西尾市国森町郷蔵南75番地
+  lat: null
+  lng: null
+station: 名鉄西尾駅
+recurrence: 10月第四日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c944cea3-4d71-4e22-9f3b-98286bcd4890
+organizer: 鹿島社
+shrine: 鹿島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c944cea3-4d71-4e22-9f3b-98286bcd4890
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第四日曜日」から導いたもので、神社が2026年の日程として発表したものではない

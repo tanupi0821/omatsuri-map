@@ -1,0 +1,33 @@
+id: hiroshima-higashi-jinjacho-4b87cddd71fc-0
+name: 自在坂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 広島市東区
+  ward: null
+venue:
+  name: 自在坂神社
+  address: 広島市東区牛田新町三丁目3番1号
+  lat: 34.42679175298879
+  lng: 132.47195895067807
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+organizer: 自在坂神社
+shrine: 自在坂神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

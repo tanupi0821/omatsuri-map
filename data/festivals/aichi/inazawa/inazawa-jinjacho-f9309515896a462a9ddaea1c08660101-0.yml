@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-f9309515896a462a9ddaea1c08660101-0
+name: 裳咋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 裳咋神社
+  address: 稲沢市目比町字天神東1244番地
+  lat: null
+  lng: null
+station: 稲沢市コミュニティバス 目比
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f9309515-896a-462a-9dda-ea1c08660101
+organizer: 裳咋神社
+shrine: 裳咋神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f9309515-896a-462a-9dda-ea1c08660101
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: owariasahi-jinjacho-d2aaece430e743a69aa2dbd99e5a8642-0
+name: 高靇社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 尾張旭市
+  ward: null
+venue:
+  name: 高靇社
+  address: 尾張旭市桜ケ丘町西275
+  lat: null
+  lng: null
+station: 名鉄「印場」
+recurrence: 5月第1日曜日・9月第1日曜日日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d2aaece4-30e7-43a6-9aa2-dbd99e5a8642
+organizer: 高靇社
+shrine: 高靇社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d2aaece4-30e7-43a6-9aa2-dbd99e5a8642
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月第1日曜日・9月第1日曜日日」から導いたもので、神社が2026年の日程として発表したものではない

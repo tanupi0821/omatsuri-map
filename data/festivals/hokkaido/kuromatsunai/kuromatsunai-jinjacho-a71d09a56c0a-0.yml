@@ -1,0 +1,33 @@
+id: kuromatsunai-jinjacho-a71d09a56c0a-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 寿都郡黒松内町
+  ward: null
+venue:
+  name: 熊野神社
+  address: 寿都郡黒松内町大字作開村字南作開168番地
+  lat: null
+  lng: null
+recurrence: 8月20日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%86%8a%e9%87%8e%e7%a5%9e%e7%a4%be-2/
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%86%8a%e9%87%8e%e7%a5%9e%e7%a4%be-2/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月20日」から導いたもので、神社が2026年の日程として発表したものではない

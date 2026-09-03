@@ -1,0 +1,33 @@
+id: fuchu-hiroshima-jinjacho-6bab322e4f7e-0
+name: 高木神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 府中市
+  ward: null
+venue:
+  name: 高木神社
+  address: 府中市木野山町甲1819
+  lat: 34.6212982
+  lng: 133.21695699999998
+recurrence: 11月第1日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=31
+organizer: 高木神社
+shrine: 高木神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=31
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

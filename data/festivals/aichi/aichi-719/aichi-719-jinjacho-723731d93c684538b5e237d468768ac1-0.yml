@@ -1,0 +1,34 @@
+id: aichi-719-jinjacho-723731d93c684538b5e237d468768ac1-0
+name: 榊森白山社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 榊森白山社
+  address: 名古屋市中区金山1-8-23
+  lat: null
+  lng: null
+station: 地下鉄 名鉄 ＪＲ 金山駅
+recurrence: 10月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=723731d9-3c68-4538-b5e2-37d468768ac1
+organizer: 榊森白山社
+shrine: 榊森白山社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=723731d9-3c68-4538-b5e2-37d468768ac1
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月5日」から導いたもので、神社が2026年の日程として発表したものではない

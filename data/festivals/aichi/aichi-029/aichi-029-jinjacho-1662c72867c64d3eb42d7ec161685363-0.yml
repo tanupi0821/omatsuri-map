@@ -1,0 +1,34 @@
+id: aichi-029-jinjacho-1662c72867c64d3eb42d7ec161685363-0
+name: 諸大明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 春日井市
+  ward: null
+venue:
+  name: 諸大明神社
+  address: 春日井市松本町504番地
+  lat: null
+  lng: null
+station: JR中央本線神領駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1662c728-67c6-4d3e-b42d-7ec161685363
+organizer: 諸大明神社
+shrine: 諸大明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1662c728-67c6-4d3e-b42d-7ec161685363
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

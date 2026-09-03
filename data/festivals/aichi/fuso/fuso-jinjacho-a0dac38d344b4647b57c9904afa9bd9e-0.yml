@@ -1,0 +1,34 @@
+id: fuso-jinjacho-a0dac38d344b4647b57c9904afa9bd9e-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 丹羽郡扶桑町
+  ward: null
+venue:
+  name: 神明社
+  address: 丹羽郡扶桑町大字小渕字本郷1231番地
+  lat: null
+  lng: null
+station: 名鉄犬山線 扶桑駅
+recurrence: 10月20日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a0dac38d-344b-4647-b57c-9904afa9bd9e
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a0dac38d-344b-4647-b57c-9904afa9bd9e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月20日」から導いたもので、神社が2026年の日程として発表したものではない

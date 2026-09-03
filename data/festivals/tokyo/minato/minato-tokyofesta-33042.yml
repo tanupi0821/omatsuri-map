@@ -1,0 +1,31 @@
+id: minato-tokyofesta-33042
+name: アークヒルズ 秋祭り 2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 港区
+  ward: null
+venue:
+  name: アークヒルズ
+  address: null
+  lat: 35.665374
+  lng: 139.738383
+organizer: アークヒルズ自治会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-11
+      - 2026-09-12
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tokyofesta.com/23ku/33042/
+    source_name: 東京フェスタ
+    source_type: media
+    checked_at: 2026-09-03

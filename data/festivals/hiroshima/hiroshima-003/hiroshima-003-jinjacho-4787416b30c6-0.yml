@@ -1,0 +1,33 @@
+id: hiroshima-003-jinjacho-4787416b30c6-0
+name: 志賀神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 三次市
+  ward: null
+venue:
+  name: 志賀神社
+  address: 三次市下志和地町488
+  lat: 34.7409635
+  lng: 132.806364199999
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+organizer: 志賀神社
+shrine: 志賀神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

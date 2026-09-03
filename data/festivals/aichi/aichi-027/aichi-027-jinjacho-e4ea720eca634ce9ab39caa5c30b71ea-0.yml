@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-e4ea720eca634ce9ab39caa5c30b71ea-0
+name: 津嶋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 津嶋神社
+  address: 一宮市萩原町西御堂字郷西切818番地
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 国府宮駅
+recurrence: 4月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4ea720e-ca63-4ce9-ab39-caa5c30b71ea
+organizer: 津嶋神社
+shrine: 津嶋神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4ea720e-ca63-4ce9-ab39-caa5c30b71ea
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月16日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-fc1919a215384f0483b343e28179ba01-0
+name: 白山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 白山神社
+  address: 名古屋市西区押切2丁目5番2号
+  lat: null
+  lng: null
+station: 地下鉄 浅間町
+recurrence: 7月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc1919a2-1538-4f04-83b3-43e28179ba01
+organizer: 白山神社
+shrine: 白山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc1919a2-1538-4f04-83b3-43e28179ba01
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月17日」から導いたもので、神社が2026年の日程として発表したものではない

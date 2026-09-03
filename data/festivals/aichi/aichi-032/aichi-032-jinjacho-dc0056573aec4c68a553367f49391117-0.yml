@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-dc0056573aec4c68a553367f49391117-0
+name: 八幡社八劔社合殿 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 八幡社八劔社合殿
+  address: 西尾市山下町東八幡山75番地
+  lat: null
+  lng: null
+station: 西尾駅
+recurrence: 9月14日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dc005657-3aec-4c68-a553-367f49391117
+organizer: 八幡社八劔社合殿
+shrine: 八幡社八劔社合殿
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dc005657-3aec-4c68-a553-367f49391117
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月14日」から導いたもので、神社が2026年の日程として発表したものではない

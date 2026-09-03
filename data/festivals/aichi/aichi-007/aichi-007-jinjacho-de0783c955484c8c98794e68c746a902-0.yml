@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-de0783c955484c8c98794e68c746a902-0
+name: 八柱神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 八柱神社
+  address: 岡崎市洞町八王子22
+  lat: null
+  lng: null
+station: 名鉄本線 東岡崎駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=de0783c9-5548-4c8c-9879-4e68c746a902
+organizer: 八柱神社
+shrine: 八柱神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=de0783c9-5548-4c8c-9879-4e68c746a902
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

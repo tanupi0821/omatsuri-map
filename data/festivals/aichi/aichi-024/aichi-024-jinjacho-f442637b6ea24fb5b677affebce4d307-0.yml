@@ -1,0 +1,33 @@
+id: aichi-024-jinjacho-f442637b6ea24fb5b677affebce4d307-0
+name: 八龍社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 八龍社
+  address: 愛西市葛木町長池33番地2
+  lat: null
+  lng: null
+recurrence: 10月7日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f442637b-6ea2-4fb5-b677-affebce4d307
+organizer: 八龍社
+shrine: 八龍社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f442637b-6ea2-4fb5-b677-affebce4d307
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月7日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-2bd726b273a54c07bd167013d2873dea-0
+name: 若宮八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 若宮八幡社
+  address: 豊橋市瓜郷町一新替52番地
+  lat: null
+  lng: null
+station: JR飯田線 下地駅
+recurrence: 12月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2bd726b2-73a5-4c07-bd16-7013d2873dea
+organizer: 若宮八幡社
+shrine: 若宮八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2bd726b2-73a5-4c07-bd16-7013d2873dea
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「12月15日」から導いたもので、神社が2026年の日程として発表したものではない

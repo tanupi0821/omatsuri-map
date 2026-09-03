@@ -1,0 +1,34 @@
+id: aichi-704-jinjacho-a18ea7eb62ce42429825c95835959b2d-0
+name: 白山社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 江南市
+  ward: null
+venue:
+  name: 白山社
+  address: 江南市尾崎町白山34番地
+  lat: null
+  lng: null
+station: 名鉄犬山線 江南駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a18ea7eb-62ce-4242-9825-c95835959b2d
+organizer: 白山社
+shrine: 白山社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a18ea7eb-62ce-4242-9825-c95835959b2d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

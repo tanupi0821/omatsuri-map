@@ -1,0 +1,33 @@
+id: aichi-027-jinjacho-f161faf159cc4617b46d6e5bedf59c30-0
+name: 若栗神社八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 若栗神社八幡宮
+  address: 一宮市島村南裏山75番地
+  lat: null
+  lng: null
+recurrence: 10月20日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f161faf1-59cc-4617-b46d-6e5bedf59c30
+organizer: 若栗神社八幡宮
+shrine: 若栗神社八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f161faf1-59cc-4617-b46d-6e5bedf59c30
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月20日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-9cb0113d213a4dc2b028be007b185a27-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 神明社
+  address: 一宮市大和町馬引字宮浦1727番地
+  lat: null
+  lng: null
+station: JR東海道本線 尾張一宮駅
+recurrence: 10月19日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9cb0113d-213a-4dc2-b028-be007b185a27
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9cb0113d-213a-4dc2-b028-be007b185a27
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない

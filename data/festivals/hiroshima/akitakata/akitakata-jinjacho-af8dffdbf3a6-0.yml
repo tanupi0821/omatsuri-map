@@ -1,0 +1,33 @@
+id: akitakata-jinjacho-af8dffdbf3a6-0
+name: 宮崎神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 安芸高田市
+  ward: null
+venue:
+  name: 宮崎神社
+  address: 安芸高田市吉田町相合261番地
+  lat: 34.6712563
+  lng: 132.68374819999997
+recurrence: 9月15日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=8
+organizer: 宮崎神社
+shrine: 宮崎神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=8
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

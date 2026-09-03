@@ -1,0 +1,33 @@
+id: hidaka-hokkaido-jinjacho-ad62a4d96400-0
+name: 大神宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 沙流郡日高町
+  ward: null
+venue:
+  name: 大神宮社
+  address: 沙流郡日高町富川東2-6-12
+  lat: null
+  lng: null
+recurrence: 6月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%a4%a7%e7%a5%9e%e5%ae%ae%e7%a4%be/
+organizer: 大神宮社
+shrine: 大神宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%a4%a7%e7%a5%9e%e5%ae%ae%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月15日」から導いたもので、神社が2026年の日程として発表したものではない

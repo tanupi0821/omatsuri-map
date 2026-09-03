@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-c4d27bf4b1ab404c817b42245e85ef20-0
+name: 内外神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 内外神明社
+  address: 安城市宇頭茶屋町宮前3番地
+  lat: null
+  lng: null
+station: 名鉄本線 新安城駅
+recurrence: 10月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c4d27bf4-b1ab-404c-817b-42245e85ef20
+organizer: 内外神明社
+shrine: 内外神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c4d27bf4-b1ab-404c-817b-42245e85ef20
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日」から導いたもので、神社が2026年の日程として発表したものではない

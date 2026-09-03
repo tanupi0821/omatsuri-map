@@ -1,0 +1,33 @@
+id: aichi-024-jinjacho-04001546177344e5bafd1c60027032b3-0
+name: 甘楽社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 甘楽社
+  address: 愛西市甘村井町西出割48番地
+  lat: null
+  lng: null
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=04001546-1773-44e5-bafd-1c60027032b3
+organizer: 甘楽社
+shrine: 甘楽社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=04001546-1773-44e5-bafd-1c60027032b3
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

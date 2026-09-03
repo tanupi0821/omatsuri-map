@@ -1,0 +1,31 @@
+id: kazo-goguynet-18174
+name: 打ち上げ花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 加須市
+  ward: null
+venue:
+  name: 加須市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: むさしの村の公式サイト
+    url: https://www.musashinomura.co.jp/events/2026fireworks/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kazo-hanyu.goguynet.jp/2026/08/09/musashi-no-mura-3/
+    source_name: 号外NET 加須市・羽生市・行田市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,33 @@
+id: hokkaido-013-jinjacho-8e4d54a351db-0
+name: 亀田八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 亀田八幡宮
+  address: 函館市八幡町3番2号
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%ba%80%e7%94%b0%e5%85%ab%e5%b9%a1%e5%ae%ae/
+organizer: 亀田八幡宮
+shrine: 亀田八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%ba%80%e7%94%b0%e5%85%ab%e5%b9%a1%e5%ae%ae/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

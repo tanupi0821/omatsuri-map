@@ -1,0 +1,33 @@
+id: hokkaido-068-jinjacho-fff5e4f0ded5-0
+name: 花咲港金刀比羅神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 根室市
+  ward: null
+venue:
+  name: 花咲港金刀比羅神社
+  address: 根室市花咲港82番地1
+  lat: null
+  lng: null
+recurrence: 10月10日
+recurrence_source: https://hokkaidojinjacho.jp/%e8%8a%b1%e5%92%b2%e6%b8%af%e9%87%91%e5%88%80%e6%af%94%e7%be%85%e7%a5%9e%e7%a4%be-2/
+organizer: 花咲港金刀比羅神社
+shrine: 花咲港金刀比羅神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e8%8a%b1%e5%92%b2%e6%b8%af%e9%87%91%e5%88%80%e6%af%94%e7%be%85%e7%a5%9e%e7%a4%be-2/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

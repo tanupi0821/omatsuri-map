@@ -1,0 +1,34 @@
+id: aichi-717-jinjacho-0a5f4e3ea643419ea648d59b8ca5bc58-0
+name: 高牟神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市千種区
+  ward: null
+venue:
+  name: 高牟神社
+  address: 名古屋市千種区今池1丁目4番18号
+  lat: null
+  lng: null
+station: JR中央線 地下鉄東山線 千種駅
+recurrence: 10月14日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0a5f4e3e-a643-419e-a648-d59b8ca5bc58
+organizer: 高牟神社
+shrine: 高牟神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0a5f4e3e-a643-419e-a648-d59b8ca5bc58
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない

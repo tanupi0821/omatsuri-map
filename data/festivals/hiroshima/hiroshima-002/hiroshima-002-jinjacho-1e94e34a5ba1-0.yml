@@ -1,0 +1,33 @@
+id: hiroshima-002-jinjacho-1e94e34a5ba1-0
+name: 神森神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 福山市
+  ward: null
+venue:
+  name: 神森神社
+  address: 福山市坪生町189
+  lat: 34.5318896
+  lng: 133.4430797
+recurrence: 10月第2月曜日（体育の日）
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+organizer: 神森神社
+shrine: 神森神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2月曜日（体育の日）」から導いたもので、神社が2026年の日程として発表したものではない

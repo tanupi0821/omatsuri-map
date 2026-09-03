@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-90ec10f0a71544a99ab16fdc0660f5bb-0
+name: 六昇社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 六昇社
+  address: 一宮市萩原町朝宮字宮西1313番地
+  lat: null
+  lng: null
+station: 名鉄尾西線 二子駅
+recurrence: 10月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=90ec10f0-a715-44a9-9ab1-6fdc0660f5bb
+organizer: 六昇社
+shrine: 六昇社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=90ec10f0-a715-44a9-9ab1-6fdc0660f5bb
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-41426ab007f540c286b6b77f47fa4984-0
+name: 神明社土之宮合殿 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 神明社土之宮合殿
+  address: 名古屋市中川区助光1-106
+  lat: null
+  lng: null
+station: 近鉄助光駅 又は市営バス助光住宅 下車
+recurrence: 10月第二土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41426ab0-07f5-40c2-86b6-b77f47fa4984
+organizer: 神明社土之宮合殿
+shrine: 神明社土之宮合殿
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41426ab0-07f5-40c2-86b6-b77f47fa4984
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二土曜日」から導いたもので、神社が2026年の日程として発表したものではない

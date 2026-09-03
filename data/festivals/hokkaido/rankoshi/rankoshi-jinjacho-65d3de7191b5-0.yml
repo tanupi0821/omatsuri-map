@@ -1,0 +1,33 @@
+id: rankoshi-jinjacho-65d3de7191b5-0
+name: 白鳥神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 磯谷郡蘭越町
+  ward: null
+venue:
+  name: 白鳥神社
+  address: 磯谷郡蘭越町港町北尻別鷲の沢10番地
+  lat: null
+  lng: null
+recurrence: 9月8日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%99%bd%e9%b3%a5%e7%a5%9e%e7%a4%be/
+organizer: 白鳥神社
+shrine: 白鳥神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%99%bd%e9%b3%a5%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月8日」から導いたもので、神社が2026年の日程として発表したものではない

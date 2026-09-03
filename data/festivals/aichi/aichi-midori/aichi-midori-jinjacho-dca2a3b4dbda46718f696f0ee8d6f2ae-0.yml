@@ -1,0 +1,34 @@
+id: aichi-midori-jinjacho-dca2a3b4dbda46718f696f0ee8d6f2ae-0
+name: 齋山稲荷社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市緑区
+  ward: null
+venue:
+  name: 齋山稲荷社
+  address: 名古屋市緑区大高町字齋山46番地
+  lat: null
+  lng: null
+station: 名鉄名和駅
+recurrence: 5月7日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dca2a3b4-dbda-4671-8f69-6f0ee8d6f2ae
+organizer: 齋山稲荷社
+shrine: 齋山稲荷社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=dca2a3b4-dbda-4671-8f69-6f0ee8d6f2ae
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月7日」から導いたもので、神社が2026年の日程として発表したものではない

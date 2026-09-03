@@ -1,0 +1,33 @@
+id: aichi-011-jinjacho-e29e341f365648e2a0817ebbad87cdcb-0
+name: 三社大明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 瀬戸市
+  ward: null
+venue:
+  name: 三社大明神社
+  address: 瀬戸市中水野町1丁目579番地
+  lat: null
+  lng: null
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e29e341f-3656-48e2-a081-7ebbad87cdcb
+organizer: 三社大明神社
+shrine: 三社大明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e29e341f-3656-48e2-a081-7ebbad87cdcb
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

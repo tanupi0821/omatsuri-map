@@ -23,6 +23,12 @@ const PREF = {
   saitama: { name: '埼玉県', file: 'saitama-cities.yml', source: 'https://www.saitama-jinjacho.or.jp/' },
   tokyo: { name: '東京都', file: 'tokyo-cities.yml', source: 'http://www.tokyo-jinjacho.or.jp/' },
   kanagawa: { name: '神奈川県', file: 'kanagawa-generated.yml', source: 'https://www.kanagawa-jinja.or.jp/' },
+  // 愛知は nationwide.yml が 47 市区町村を先に定義しているので、
+  // ここで作るのはそこに無かったぶんだけになる
+  aichi: { name: '愛知県', file: 'aichi-cities.yml', source: 'https://www.aichi-jinjacho.or.jp/' },
+  hiroshima: { name: '広島県', file: 'hiroshima-cities.yml', source: 'https://www.hiroshima-jinjacho.jp/hirosima_jinja/' },
+  hyogo: { name: '兵庫県', file: 'hyogo-cities.yml', source: 'https://www.hyogo-jinjacho.com/' },
+  hokkaido: { name: '北海道', file: 'hokkaido-cities.yml', source: 'https://hokkaidojinjacho.jp/jinja' },
 };
 
 const pref = process.argv[2];
@@ -65,7 +71,10 @@ for (const f of readdirSync(dir).filter((x) => x.endsWith('.json'))) {
 const cities = [];
 const missing = [];
 for (const [name, wards] of [...found].sort((a, b) => a[0].localeCompare(b[0], 'ja'))) {
+  // エリア定義が郡を落とした形（「江差町」）で既に持っていることがある。
+  // 郡付きで足すと同じ町が 2 つのエリアになるので、その場合は足さない
   if (defined.has(name)) continue;
+  if (/^.{1,6}郡./.test(name) && defined.has(name.replace(/^.{1,6}郡/, ''))) continue;
   // URL に自治体のローマ字が入っている都県は、それをそのまま slug にする
   const slug = hints.get(name) ?? citySlug(name);
   if (!slug) { missing.push(name); continue; }

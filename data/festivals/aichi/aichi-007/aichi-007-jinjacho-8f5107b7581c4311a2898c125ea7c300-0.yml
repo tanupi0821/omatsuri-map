@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-8f5107b7581c4311a2898c125ea7c300-0
+name: 春日社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 春日社
+  address: 岡崎市丸山町ハサマ１
+  lat: null
+  lng: null
+station: 名鉄本線 東岡崎駅
+recurrence: 4月15日に近い日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8f5107b7-581c-4311-a289-8c125ea7c300
+organizer: 春日社
+shrine: 春日社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8f5107b7-581c-4311-a289-8c125ea7c300
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月15日に近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない

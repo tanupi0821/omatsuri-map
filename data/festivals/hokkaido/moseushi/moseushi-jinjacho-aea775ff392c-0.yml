@@ -1,0 +1,33 @@
+id: moseushi-jinjacho-aea775ff392c-0
+name: 妹背牛神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 雨竜郡妹背牛町
+  ward: null
+venue:
+  name: 妹背牛神社
+  address: 雨竜郡妹背牛町字妹背牛畑466番地
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%a6%b9%e8%83%8c%e7%89%9b%e7%a5%9e%e7%a4%be/
+organizer: 妹背牛神社
+shrine: 妹背牛神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%a6%b9%e8%83%8c%e7%89%9b%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-029-jinjacho-63c2eeb6a7c047b19c906f962952884b-0
+name: 大國主社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 春日井市
+  ward: null
+venue:
+  name: 大國主社
+  address: 春日井市細野町3052
+  lat: null
+  lng: null
+station: JR中央本線高蔵寺駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=63c2eeb6-a7c0-47b1-9c90-6f962952884b
+organizer: 大國主社
+shrine: 大國主社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=63c2eeb6-a7c0-47b1-9c90-6f962952884b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

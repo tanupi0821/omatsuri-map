@@ -1,0 +1,40 @@
+id: nagasaki-014-manual-aki-kunchi
+name: 長崎くんち
+kind: 例大祭
+scale: 市
+area:
+  pref: 長崎県
+  city: 長崎市
+  ward: null
+venue:
+  name: 諏訪神社・お旅所・八坂神社・中央公園くんち観覧場
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月7日〜9日
+recurrence_source: https://nagasaki-kunchi.com/
+organizer: 長崎伝統芸能振興会
+shrine: 諏訪神社
+tags:
+  - ユネスコ無形文化遺産
+description: null
+links:
+  - title: 長崎くんち（長崎伝統芸能振興会）
+    url: https://nagasaki-kunchi.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-07
+      - 2026-10-08
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagasaki-kunchi.com/
+    source_name: 長崎伝統芸能振興会
+    source_type: official
+    checked_at: 2026-09-03
+    note: 諏訪神社の秋季大祭。毎年10月7日〜9日固定開催。踊町の庭先回りは無料、諏訪神社・中央公園などの会場には有料指定席がある
+stalls: unknown
+paid_seats: yes
+paid_seats_note: 会場ごとに有料の指定席（桝席など）を販売。販売開始時期は会場により異なる（諏訪神社は6月、中央公園は8月頃）

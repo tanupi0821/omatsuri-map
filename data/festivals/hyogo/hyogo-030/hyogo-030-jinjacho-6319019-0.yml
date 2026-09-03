@@ -1,0 +1,33 @@
+id: hyogo-030-jinjacho-6319019-0
+name: 金刀比羅神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 佐用郡佐用町
+  ward: null
+venue:
+  name: 金刀比羅神社
+  address: 佐用郡佐用町平福705-7
+  lat: 35.046621
+  lng: 134.370899
+recurrence: 7月10日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6319019.html
+organizer: 金刀比羅神社
+shrine: 金刀比羅神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6319019.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月10日」から導いたもので、神社が2026年の日程として発表したものではない

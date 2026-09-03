@@ -1,0 +1,34 @@
+id: aichi-031-jinjacho-6316e6b3ee9443d8aaaf10b4c151bab2-0
+name: 神明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 刈谷市
+  ward: null
+venue:
+  name: 神明神社
+  address: 刈谷市小垣江町下56
+  lat: null
+  lng: null
+station: 名鉄三河線 小垣江駅
+recurrence: 10月16日（神賑行事は16日以降の日曜日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6316e6b3-ee94-43d8-aaaf-10b4c151bab2
+organizer: 神明神社
+shrine: 神明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6316e6b3-ee94-43d8-aaaf-10b4c151bab2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日（神賑行事は16日以降の日曜日）」から導いたもので、神社が2026年の日程として発表したものではない

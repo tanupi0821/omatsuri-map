@@ -1,0 +1,142 @@
+# 愛知県のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 愛知県
+cities:
+  - name: 愛知郡東郷町
+    slug: togo
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 稲沢市
+    slug: inazawa
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 海部郡蟹江町
+    slug: kanie
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 海部郡大治町
+    slug: oharu
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 海部郡飛島村
+    slug: tobishima
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 額田郡幸田町
+    slug: kota
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 岩倉市
+    slug: iwakura
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 高浜市
+    slug: takahama
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 清須市
+    slug: kiyosu
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 西春日井郡豊山町
+    slug: toyoyama
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 大府市
+    slug: obu
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 丹羽郡大口町
+    slug: oguchi
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 丹羽郡扶桑町
+    slug: fuso
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 知多郡阿久比町
+    slug: agui
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 知多郡東浦町
+    slug: higashiura
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 長久手市
+    slug: nagakute
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 日進市
+    slug: nisshin
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 半田市
+    slug: handa
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 尾張旭市
+    slug: owariasahi
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 北設楽郡設楽町
+    slug: shitara
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 北設楽郡豊根村
+    slug: toyone
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 北名古屋市
+    slug: kitanagoya
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official
+  - name: 名古屋市中川区
+    slug: nagoya-nakagawa
+    sources:
+      - name: 愛知県神社庁
+        url: https://www.aichi-jinjacho.or.jp/
+        type: official

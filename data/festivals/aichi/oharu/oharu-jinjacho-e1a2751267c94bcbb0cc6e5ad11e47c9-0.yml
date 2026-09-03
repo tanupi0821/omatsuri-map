@@ -1,0 +1,34 @@
+id: oharu-jinjacho-e1a2751267c94bcbb0cc6e5ad11e47c9-0
+name: 前田社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 海部郡大治町
+  ward: null
+venue:
+  name: 前田社
+  address: 海部郡大治町大字長牧字前田48番地
+  lat: null
+  lng: null
+station: 大治東条バス停
+recurrence: 10月第4日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1a27512-67c9-4bcb-b0cc-6e5ad11e47c9
+organizer: 前田社
+shrine: 前田社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1a27512-67c9-4bcb-b0cc-6e5ad11e47c9
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-731db325576946d0b15ca2b03ca072da-0
+name: 下賀茂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 下賀茂神社
+  address: 豊川市萩町下森前７１番地
+  lat: null
+  lng: null
+station: 名鉄本線 名電赤坂駅
+recurrence: 4月第1日曜日とその前日の2日間
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=731db325-5769-46d0-b15c-a2b03ca072da
+organizer: 下賀茂神社
+shrine: 下賀茂神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=731db325-5769-46d0-b15c-a2b03ca072da
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第1日曜日とその前日の2日間」から導いたもので、神社が2026年の日程として発表したものではない

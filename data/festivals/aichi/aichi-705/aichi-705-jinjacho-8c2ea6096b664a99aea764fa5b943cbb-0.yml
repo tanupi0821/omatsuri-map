@@ -1,0 +1,34 @@
+id: aichi-705-jinjacho-8c2ea6096b664a99aea764fa5b943cbb-0
+name: 八釼社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 八釼社
+  address: 小牧市舟津1338
+  lat: null
+  lng: null
+station: 名鉄犬山線岩倉駅
+recurrence: 10月スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8c2ea609-6b66-4a99-aea7-64fa5b943cbb
+organizer: 八釼社
+shrine: 八釼社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8c2ea609-6b66-4a99-aea7-64fa5b943cbb
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

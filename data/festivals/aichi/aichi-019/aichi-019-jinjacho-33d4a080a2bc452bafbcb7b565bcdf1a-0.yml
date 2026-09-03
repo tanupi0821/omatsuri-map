@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-33d4a080a2bc452bafbcb7b565bcdf1a-0
+name: 石巻神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 石巻神社
+  address: 豊橋市向山町字池下28番地2
+  lat: null
+  lng: null
+station: JR線豊橋駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=33d4a080-a2bc-452b-afbc-b7b565bcdf1a
+organizer: 石巻神社
+shrine: 石巻神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=33d4a080-a2bc-452b-afbc-b7b565bcdf1a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

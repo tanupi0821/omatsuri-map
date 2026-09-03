@@ -1,0 +1,33 @@
+id: suttsu-jinjacho-cbbc99311228-0
+name: 伊都岐島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 寿都郡寿都町
+  ward: null
+venue:
+  name: 伊都岐島神社
+  address: 寿都郡寿都町字磯谷町横澗1217番地
+  lat: null
+  lng: null
+recurrence: 9月16日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%bc%8a%e9%83%bd%e5%b2%90%e5%b3%b6%e7%a5%9e%e7%a4%be/
+organizer: 伊都岐島神社
+shrine: 伊都岐島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%bc%8a%e9%83%bd%e5%b2%90%e5%b3%b6%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月16日」から導いたもので、神社が2026年の日程として発表したものではない

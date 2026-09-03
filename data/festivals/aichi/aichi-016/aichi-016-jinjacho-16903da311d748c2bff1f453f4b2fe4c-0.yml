@@ -1,0 +1,34 @@
+id: aichi-016-jinjacho-16903da311d748c2bff1f453f4b2fe4c-0
+name: 彌榮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北設楽郡東栄町
+  ward: null
+venue:
+  name: 彌榮神社
+  address: 北設楽郡東栄町大字川角字西切山24番地
+  lat: null
+  lng: null
+station: 東栄
+recurrence: 7月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=16903da3-11d7-48c2-bff1-f453f4b2fe4c
+organizer: 彌榮神社
+shrine: 彌榮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=16903da3-11d7-48c2-bff1-f453f4b2fe4c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月15日」から導いたもので、神社が2026年の日程として発表したものではない

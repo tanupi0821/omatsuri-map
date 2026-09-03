@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-911eecb10fe74fa4845027397b85b431-0
+name: 伊豆神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 伊豆神社
+  address: 犬山市字焼野48-1
+  lat: null
+  lng: null
+station: 名鉄小牧線 楽田駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=911eecb1-0fe7-4fa4-8450-27397b85b431
+organizer: 伊豆神社
+shrine: 伊豆神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=911eecb1-0fe7-4fa4-8450-27397b85b431
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

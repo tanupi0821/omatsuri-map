@@ -1,6 +1,3 @@
-# 全国のエリア定義。scripts/import/*-nationwide.mjs が生成する。
-# 関東など手で整えた都県は含めない（そちらの定義を使う）。
-# slug は読めるローマ字ではなく県ごとの連番。当て字を機械生成して間違えるよりはよい。
 pref: 愛知県
 cities:
   - name: 東海市
@@ -262,6 +259,8 @@ cities:
     slug: hokkaido-310
   - name: 札幌市南区
     slug: hokkaido-311
+  - name: 松前町
+    slug: ehime-702
 ---
 pref: 秋田県
 cities:
@@ -508,6 +507,10 @@ cities:
     slug: fukushima-703
   - name: 柳津町
     slug: fukushima-016
+  - name: 二本松市
+    slug: nihonmatsu
+  - name: 湯川村
+    slug: fukushima-018
 ---
 pref: 岐阜県
 cities:
@@ -561,6 +564,8 @@ cities:
     slug: gifu-017
   - name: 神戸町
     slug: gifu-018
+  - name: 美濃加茂市
+    slug: gifu-026
 ---
 pref: 広島県
 cities:
@@ -677,6 +682,8 @@ cities:
     slug: hyogo-700
   - name: 神戸市中央区
     slug: hyogo-503
+  - name: 神戸市長田区
+    slug: hyogo-006
 ---
 pref: 石川県
 cities:
@@ -1353,6 +1360,8 @@ cities:
     slug: osaka-003
   - name: 大阪市西成区
     slug: osaka-507
+  - name: 大阪市東住吉区
+    slug: osaka-020
 ---
 pref: 佐賀県
 cities:
@@ -1759,6 +1768,18 @@ cities:
     slug: yokohama
   - name: 相模原市
     slug: sagamihara
+  - name: 横浜市金沢区
+    slug: kanagawa-325
+  - name: 相模原市中央区
+    slug: kanagawa-326
+  - name: 川崎市高津区
+    slug: kanagawa-327
+  - name: 相模原市緑区
+    slug: kanagawa-328
+  - name: 横浜市中区
+    slug: kanagawa-329
+  - name: 横浜市西区
+    slug: kanagawa-505
 ---
 pref: 埼玉県
 cities:
@@ -1856,6 +1877,8 @@ cities:
     slug: tokyo-702
   - name: 利島村
     slug: toshima-mura
+  - name: 羽村市
+    slug: tokyo-003
 ---
 pref: 茨城県
 cities:

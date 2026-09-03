@@ -1,0 +1,33 @@
+id: hiroshima-002-jinjacho-12ecad64f6da-0
+name: 素盞嗚神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 福山市
+  ward: null
+venue:
+  name: 素盞嗚神社
+  address: 福山市新市町大字戸手字天王1番地の1
+  lat: 34.55270112855507
+  lng: 133.27930457486877
+recurrence: 7月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+organizer: 素盞嗚神社
+shrine: 素盞嗚神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

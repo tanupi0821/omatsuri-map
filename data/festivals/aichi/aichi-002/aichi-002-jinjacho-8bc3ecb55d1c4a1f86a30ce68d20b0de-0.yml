@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-8bc3ecb55d1c4a1f86a30ce68d20b0de-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 新城市中島字藪下66番地
+  lat: null
+  lng: null
+station: ＪＲ飯田線本長篠駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8bc3ecb5-5d1c-4a1f-86a3-0ce68d20b0de
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8bc3ecb5-5d1c-4a1f-86a3-0ce68d20b0de
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-004-jinjacho-b8237104cd48422db1c8ef49cd0aae4c-0
+name: 龍岡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: 龍岡神社
+  address: 豊田市竜岡町豊田254番地
+  lat: null
+  lng: null
+station: 名鉄線豊田市駅
+recurrence: 9月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b8237104-cd48-422d-b1c8-ef49cd0aae4c
+organizer: 龍岡神社
+shrine: 龍岡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b8237104-cd48-422d-b1c8-ef49cd0aae4c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hyogo-012-jinjacho-6311154-0
+name: 住吉大明神 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加東市
+  ward: null
+venue:
+  name: 住吉大明神
+  address: 加東市吉井98
+  lat: 34.891288
+  lng: 135.030695
+recurrence: 10月13日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6311154.html
+organizer: 住吉大明神
+shrine: 住吉大明神
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6311154.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月13日」から導いたもので、神社が2026年の日程として発表したものではない

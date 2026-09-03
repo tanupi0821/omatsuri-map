@@ -1,0 +1,33 @@
+id: jinsekikogen-jinjacho-553420b56276-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 神石高原町
+  ward: null
+venue:
+  name: 八幡神社
+  address: 神石高原町井関206番地
+  lat: 34.7142748
+  lng: 133.30749200000002
+recurrence: 10月体育の日の前の日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=3
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=3
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月体育の日の前の日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-be2863c96b264efea83651f745accbff-0
+name: 栗栖神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 栗栖神社
+  address: 犬山市大字栗栖字大平40番地
+  lat: null
+  lng: null
+station: 名鉄犬山線 犬山遊園駅
+recurrence: 4月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=be2863c9-6b26-4efe-a836-51f745accbff
+organizer: 栗栖神社
+shrine: 栗栖神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=be2863c9-6b26-4efe-a836-51f745accbff
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月12日」から導いたもので、神社が2026年の日程として発表したものではない

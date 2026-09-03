@@ -1,0 +1,33 @@
+id: hokkaido-705-jinjacho-bb31fa841bbe-0
+name: 札幌護國神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 札幌護國神社
+  address: 札幌市中央区南15条西5丁目1番地
+  lat: null
+  lng: null
+recurrence: 7月6日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%9c%ad%e5%b9%8c%e8%ad%b7%e5%9c%8b%e7%a5%9e%e7%a4%be/
+organizer: 札幌護國神社
+shrine: 札幌護國神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-06
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%9c%ad%e5%b9%8c%e8%ad%b7%e5%9c%8b%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月6日」から導いたもので、神社が2026年の日程として発表したものではない

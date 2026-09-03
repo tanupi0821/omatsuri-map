@@ -1,0 +1,33 @@
+id: assabu-jinjacho-6b49f3f5620c-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 桧山郡厚沢部町
+  ward: null
+venue:
+  name: 神明社
+  address: 桧山郡厚沢部町本町137番地
+  lat: null
+  lng: null
+recurrence: 9月16日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%a5%9e%e6%98%8e%e7%a4%be/
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%a5%9e%e6%98%8e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月16日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-e4de8273ed934f11b4c42f50cee63fc6-0
+name: 徳王稲荷社金刀比羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 徳王稲荷社金刀比羅社
+  address: 岡崎市西中町2丁目1番地
+  lat: null
+  lng: null
+station: 名鉄 名古屋本線 東岡崎駅
+recurrence: 4月11日・10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4de8273-ed93-4f11-b4c4-2f50cee63fc6
+organizer: 徳王稲荷社金刀比羅社
+shrine: 徳王稲荷社金刀比羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4de8273-ed93-4f11-b4c4-2f50cee63fc6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月11日・10月10日」から導いたもので、神社が2026年の日程として発表したものではない

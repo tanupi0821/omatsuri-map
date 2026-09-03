@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-af77c457e6cd4e9285efc3a8098aa985-0
+name: 熊野社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 熊野社
+  address: 犬山市大字塔野地字東屋敷31
+  lat: null
+  lng: null
+station: 名鉄広見線 富岡前駅
+recurrence: 10月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=af77c457-e6cd-4e92-85ef-c3a8098aa985
+organizer: 熊野社
+shrine: 熊野社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=af77c457-e6cd-4e92-85ef-c3a8098aa985
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

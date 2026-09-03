@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301169-0
+name: 蛭子神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 蛭子神社
+  address: 神戸市長田区駒ケ林町4-4-1
+  lat: 34.648832
+  lng: 135.147259
+recurrence: 5月10日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301169.html
+organizer: 蛭子神社
+shrine: 蛭子神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301169.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月10日」から導いたもので、神社が2026年の日程として発表したものではない

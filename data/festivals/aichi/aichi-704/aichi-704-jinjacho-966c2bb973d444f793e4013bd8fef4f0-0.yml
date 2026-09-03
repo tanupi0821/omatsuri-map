@@ -1,0 +1,34 @@
+id: aichi-704-jinjacho-966c2bb973d444f793e4013bd8fef4f0-0
+name: 藤之宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 江南市
+  ward: null
+venue:
+  name: 藤之宮
+  address: 江南市赤童子町藤宮40番地1
+  lat: null
+  lng: null
+station: 名鉄犬山線 江南駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=966c2bb9-73d4-44f7-93e4-013bd8fef4f0
+organizer: 藤之宮
+shrine: 藤之宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=966c2bb9-73d4-44f7-93e4-013bd8fef4f0
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

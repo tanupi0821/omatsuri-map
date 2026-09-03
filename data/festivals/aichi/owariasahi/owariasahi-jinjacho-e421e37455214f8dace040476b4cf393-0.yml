@@ -1,0 +1,34 @@
+id: owariasahi-jinjacho-e421e37455214f8dace040476b4cf393-0
+name: 白山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 尾張旭市
+  ward: null
+venue:
+  name: 白山神社
+  address: 尾張旭市狩宿町3丁目－143
+  lat: null
+  lng: null
+station: 名鉄瀬戸線 三郷駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e421e374-5521-4f8d-ace0-40476b4cf393
+organizer: 白山神社
+shrine: 白山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e421e374-5521-4f8d-ace0-40476b4cf393
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

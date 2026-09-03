@@ -1,0 +1,33 @@
+id: harima-jinjacho-6314167-0
+name: 稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古郡播磨町
+  ward: null
+venue:
+  name: 稲荷神社
+  address: 加古郡播磨町二子字立辻47
+  lat: 34.712384
+  lng: 134.877624
+recurrence: 11月23日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6314167.html
+organizer: 稲荷神社
+shrine: 稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6314167.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月23日」から導いたもので、神社が2026年の日程として発表したものではない

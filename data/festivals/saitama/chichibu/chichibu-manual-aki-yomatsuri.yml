@@ -1,0 +1,41 @@
+id: chichibu-manual-aki-yomatsuri
+name: 秩父夜祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 埼玉県
+  city: 秩父市
+  ward: null
+venue:
+  name: 秩父神社・秩父市街地
+  address: null
+  lat: null
+  lng: null
+recurrence: 12月2日（宵宮）・12月3日（本祭）
+recurrence_source: https://www.chichibuji.gr.jp/event/yomatsuri/
+organizer: 秩父まつり対策本部
+shrine: 秩父神社
+tags:
+  - 山車
+  - 花火
+  - ユネスコ無形文化遺産
+description: null
+links:
+  - title: 秩父観光協会 秩父夜祭
+    url: https://www.chichibuji.gr.jp/event/yomatsuri/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-02
+      - 2026-12-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.chichibuji.gr.jp/event/yomatsuri/
+    source_name: 秩父観光協会
+    source_type: official
+    checked_at: 2026-09-03
+    note: 秩父神社の例大祭で毎年12月2日・3日固定開催。日本三大曳山祭・ユネスコ無形文化遺産。2026年の詳細（時刻・観覧席）は確認時点で秩父観光協会サイトに未掲載
+stalls: yes
+paid_seats: yes
+paid_seats_note: 有料観覧席あり（秩父観光協会で販売）。詳細・販売時期は秩父観光協会公式サイトを要確認

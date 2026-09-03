@@ -29,7 +29,7 @@ import {
 } from './_article.mjs';
 import { buildGazetteer, GAZETTEER, citiesIn } from './_gazetteer.mjs';
 
-const CHECKED = '2026-08-06';
+const CHECKED = '2026-09-03';
 const RAW = join(ROOT, 'data', 'raw', 'gotouti', 'media');
 // REST が塞がっている媒体は RSS から取っている（`crawl/gotouti-rss.mjs`）。
 // 出力の形は media/ と同じにしてあるので、同じ処理で読める

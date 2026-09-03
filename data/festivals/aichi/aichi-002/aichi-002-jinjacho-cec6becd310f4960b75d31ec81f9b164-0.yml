@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-cec6becd310f4960b75d31ec81f9b164-0
+name: 天白神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 天白神社
+  address: 新城市細川字大沢39番地
+  lat: null
+  lng: null
+station: JR飯田線三河大野駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cec6becd-310f-4960-b75d-31ec81f9b164
+organizer: 天白神社
+shrine: 天白神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cec6becd-310f-4960-b75d-31ec81f9b164
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

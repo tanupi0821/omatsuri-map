@@ -1,0 +1,34 @@
+id: aichi-028-jinjacho-4d19cc72806a43cebd7159f60417b447-0
+name: 津島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 碧南市
+  ward: null
+venue:
+  name: 津島社
+  address: 碧南市天王町7丁目26番地
+  lat: null
+  lng: null
+station: 名鉄三河線碧南中央駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4d19cc72-806a-43ce-bd71-59f60417b447
+organizer: 津島社
+shrine: 津島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4d19cc72-806a-43ce-bd71-59f60417b447
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

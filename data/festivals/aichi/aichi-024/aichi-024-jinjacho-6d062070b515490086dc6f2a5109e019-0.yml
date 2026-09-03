@@ -1,0 +1,33 @@
+id: aichi-024-jinjacho-6d062070b515490086dc6f2a5109e019-0
+name: 津島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 津島社
+  address: 愛西市新右ｴ門新田町郷前40番地2
+  lat: null
+  lng: null
+recurrence: 9月30日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6d062070-b515-4900-86dc-6f2a5109e019
+organizer: 津島社
+shrine: 津島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-30
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6d062070-b515-4900-86dc-6f2a5109e019
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月30日」から導いたもので、神社が2026年の日程として発表したものではない

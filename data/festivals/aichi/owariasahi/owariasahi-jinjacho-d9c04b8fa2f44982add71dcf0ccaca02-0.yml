@@ -1,0 +1,34 @@
+id: owariasahi-jinjacho-d9c04b8fa2f44982add71dcf0ccaca02-0
+name: 山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 尾張旭市
+  ward: null
+venue:
+  name: 山神社
+  address: 尾張旭市瀬戸川町1丁目44番地
+  lat: null
+  lng: null
+station: 名鉄瀬戸線三郷町
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d9c04b8f-a2f4-4982-add7-1dcf0ccaca02
+organizer: 山神社
+shrine: 山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d9c04b8f-a2f4-4982-add7-1dcf0ccaca02
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

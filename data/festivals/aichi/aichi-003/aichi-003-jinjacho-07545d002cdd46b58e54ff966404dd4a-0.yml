@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-07545d002cdd46b58e54ff966404dd4a-0
+name: 三明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 三明神社
+  address: 犬山市大字羽黒新田字北野屋敷20番地
+  lat: null
+  lng: null
+station: 名鉄小牧線 羽黒駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=07545d00-2cdd-46b5-8e54-ff966404dd4a
+organizer: 三明神社
+shrine: 三明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=07545d00-2cdd-46b5-8e54-ff966404dd4a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

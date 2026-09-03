@@ -1,0 +1,33 @@
+id: hokkaido-705-jinjacho-26d92f2bb259-0
+name: 三吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 三吉神社
+  address: 札幌市中央区南1条西8丁目17番地
+  lat: null
+  lng: null
+recurrence: 5月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%b8%89%e5%90%89%e7%a5%9e%e7%a4%be-3/
+organizer: 三吉神社
+shrine: 三吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%b8%89%e5%90%89%e7%a5%9e%e7%a4%be-3/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月15日」から導いたもので、神社が2026年の日程として発表したものではない

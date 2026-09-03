@@ -1,0 +1,34 @@
+id: aichi-719-jinjacho-1dd68b61819849e7950d5b58da15da11-0
+name: 名古屋東照宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 名古屋東照宮
+  address: 名古屋市中区丸の内2丁目3番37号
+  lat: null
+  lng: null
+station: 地下鉄丸の内駅
+recurrence: 4月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1dd68b61-8198-49e7-950d-5b58da15da11
+organizer: 名古屋東照宮
+shrine: 名古屋東照宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1dd68b61-8198-49e7-950d-5b58da15da11
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月17日」から導いたもので、神社が2026年の日程として発表したものではない

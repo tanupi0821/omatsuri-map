@@ -1,0 +1,33 @@
+id: hyogo-003-jinjacho-6304009-0
+name: 稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: 稲荷神社
+  address: 尼崎市北初島町2
+  lat: 34.709114
+  lng: 135.423161
+recurrence: 4月1日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6304009.html
+organizer: 稲荷神社
+shrine: 稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6304009.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月1日」から導いたもので、神社が2026年の日程として発表したものではない

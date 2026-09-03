@@ -1,0 +1,34 @@
+id: aichi-033-jinjacho-def44cb520ad41c6a53a2452d3cd4685-0
+name: 御嶽神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多市
+  ward: null
+venue:
+  name: 御嶽神社
+  address: 知多市八幡新町1丁目6番地の5
+  lat: null
+  lng: null
+station: 名鉄常滑線朝倉駅
+recurrence: 4月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=def44cb5-20ad-41c6-a53a-2452d3cd4685
+organizer: 御嶽神社
+shrine: 御嶽神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=def44cb5-20ad-41c6-a53a-2452d3cd4685
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

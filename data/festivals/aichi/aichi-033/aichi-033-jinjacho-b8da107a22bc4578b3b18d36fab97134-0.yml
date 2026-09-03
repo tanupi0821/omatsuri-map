@@ -1,0 +1,34 @@
+id: aichi-033-jinjacho-b8da107a22bc4578b3b18d36fab97134-0
+name: 稲荷社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多市
+  ward: null
+venue:
+  name: 稲荷社
+  address: 知多市金沢字稲荷山32
+  lat: null
+  lng: null
+station: 名鉄 新舞子駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b8da107a-22bc-4578-b3b1-8d36fab97134
+organizer: 稲荷社
+shrine: 稲荷社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b8da107a-22bc-4578-b3b1-8d36fab97134
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

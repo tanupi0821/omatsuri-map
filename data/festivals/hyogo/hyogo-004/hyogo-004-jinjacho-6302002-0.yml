@@ -1,0 +1,34 @@
+id: hyogo-004-jinjacho-6302002-0
+name: 西宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 西宮市
+  ward: null
+venue:
+  name: 西宮神社
+  address: 西宮市社家町1-17
+  lat: 34.735699
+  lng: 135.334541
+recurrence: 9月22日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6302002.html
+organizer: 西宮神社
+shrine: 西宮神社
+stalls: unknown
+tags:
+  - 西宮まつり
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6302002.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月22日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-bc90a2b2454e41e5b367d9bcd787f1a6-0
+name: 関川社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 関川社
+  address: 豊川市赤坂町関川１１１番地
+  lat: null
+  lng: null
+station: 名鉄本線 名電赤坂
+recurrence: 1月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bc90a2b2-454e-41e5-b367-d9bcd787f1a6
+organizer: 関川社
+shrine: 関川社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bc90a2b2-454e-41e5-b367-d9bcd787f1a6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

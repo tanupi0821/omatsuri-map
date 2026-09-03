@@ -1,0 +1,34 @@
+id: nagoya-nakamura-jinjacho-28c1bbb739d346629483df81865978e2-0
+name: 明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中村区
+  ward: null
+venue:
+  name: 明神社
+  address: 名古屋市中村区東宿町1-57
+  lat: null
+  lng: null
+station: 地下鉄中村公園駅
+recurrence: 10月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=28c1bbb7-39d3-4662-9483-df81865978e2
+organizer: 明神社
+shrine: 明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=28c1bbb7-39d3-4662-9483-df81865978e2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月12日」から導いたもので、神社が2026年の日程として発表したものではない

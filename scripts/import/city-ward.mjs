@@ -24,7 +24,7 @@ import { makeSlugPool } from './_slug.mjs';
 import { byName } from '../lib/prefs.mjs';
 import { writeNationwideAreas } from './_nationwide.mjs';
 
-const CHECKED = '2026-08-05';
+const CHECKED = '2026-09-03';
 const YEAR = 2026;
 const RAW = join(ROOT, 'data', 'raw', 'city-ward');
 

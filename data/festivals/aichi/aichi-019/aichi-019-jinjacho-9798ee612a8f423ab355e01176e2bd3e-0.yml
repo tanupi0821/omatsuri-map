@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-9798ee612a8f423ab355e01176e2bd3e-0
+name: 安海熊野社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 安海熊野社
+  address: 豊橋市魚町１１５番地
+  lat: null
+  lng: null
+station: 豊橋鉄道市内線 札木停留所
+recurrence: 5月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9798ee61-2a8f-423a-b355-e01176e2bd3e
+organizer: 安海熊野社
+shrine: 安海熊野社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9798ee61-2a8f-423a-b355-e01176e2bd3e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月5日」から導いたもので、神社が2026年の日程として発表したものではない

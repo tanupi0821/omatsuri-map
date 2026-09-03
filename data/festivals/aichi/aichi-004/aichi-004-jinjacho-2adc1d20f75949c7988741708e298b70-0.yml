@@ -1,0 +1,33 @@
+id: aichi-004-jinjacho-2adc1d20f75949c7988741708e298b70-0
+name: 渕原神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊田市
+  ward: null
+venue:
+  name: 渕原神社
+  address: 豊田市石飛町飯野境20番地
+  lat: null
+  lng: null
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2adc1d20-f759-49c7-9887-41708e298b70
+organizer: 渕原神社
+shrine: 渕原神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2adc1d20-f759-49c7-9887-41708e298b70
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-020-jinjacho-2648f9e0df2246bbb8681759da05fc2e-0
+name: 豊石神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡武豊町
+  ward: null
+venue:
+  name: 豊石神社
+  address: 知多郡武豊町字明神戸60番地
+  lat: null
+  lng: null
+station: ＪＲ武豊駅
+recurrence: 7月20日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2648f9e0-df22-46bb-b868-1759da05fc2e
+organizer: 豊石神社
+shrine: 豊石神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2648f9e0-df22-46bb-b868-1759da05fc2e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月20日」から導いたもので、神社が2026年の日程として発表したものではない

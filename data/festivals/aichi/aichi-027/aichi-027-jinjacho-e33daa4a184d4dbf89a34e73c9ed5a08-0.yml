@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-e33daa4a184d4dbf89a34e73c9ed5a08-0
+name: 厳島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 厳島社
+  address: 一宮市千秋町佐野字弁財天浦3,308
+  lat: null
+  lng: null
+station: 名鉄犬山線 石仏駅
+recurrence: 4月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e33daa4a-184d-4dbf-89a3-4e73c9ed5a08
+organizer: 厳島社
+shrine: 厳島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e33daa4a-184d-4dbf-89a3-4e73c9ed5a08
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-f133babaa96d48878f13eff2d7948a8d-0
+name: 猿田彦神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 猿田彦神社
+  address: 田原市六連町山本11番地
+  lat: null
+  lng: null
+station: 豊鉄渥美線 谷熊駅
+recurrence: 10月9日10月第三日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f133baba-a96d-4887-8f13-eff2d7948a8d
+organizer: 猿田彦神社
+shrine: 猿田彦神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f133baba-a96d-4887-8f13-eff2d7948a8d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月9日10月第三日曜」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-5f55bc874c1849f2b2506fdde6e2fdc8-0
+name: 紀左衛門神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 紀左衛門神社
+  address: 名古屋市南区内田橋1丁目33番25号
+  lat: null
+  lng: null
+station: 名鉄 豊田本町
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5f55bc87-4c18-49f2-b250-6fdde6e2fdc8
+organizer: 紀左衛門神社
+shrine: 紀左衛門神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5f55bc87-4c18-49f2-b250-6fdde6e2fdc8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

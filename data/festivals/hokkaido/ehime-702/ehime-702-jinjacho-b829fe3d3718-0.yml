@@ -1,0 +1,33 @@
+id: ehime-702-jinjacho-b829fe3d3718-0
+name: 徳山大神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 松前町
+  ward: null
+venue:
+  name: 徳山大神宮
+  address: 松前町字神明66番地
+  lat: null
+  lng: null
+recurrence: 9月17日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%be%b3%e5%b1%b1%e5%a4%a7%e7%a5%9e%e5%ae%ae/
+organizer: 徳山大神宮
+shrine: 徳山大神宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%be%b3%e5%b1%b1%e5%a4%a7%e7%a5%9e%e5%ae%ae/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない

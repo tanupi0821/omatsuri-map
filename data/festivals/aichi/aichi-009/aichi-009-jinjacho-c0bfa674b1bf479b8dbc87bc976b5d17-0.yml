@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-c0bfa674b1bf479b8dbc87bc976b5d17-0
+name: 明治川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 明治川神社
+  address: 安城市東栄町6丁目25番地1
+  lat: null
+  lng: null
+station: 名鉄本線 新安城駅
+recurrence: 4月18日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c0bfa674-b1bf-479b-8dbc-87bc976b5d17
+organizer: 明治川神社
+shrine: 明治川神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c0bfa674-b1bf-479b-8dbc-87bc976b5d17
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月18日」から導いたもので、神社が2026年の日程として発表したものではない

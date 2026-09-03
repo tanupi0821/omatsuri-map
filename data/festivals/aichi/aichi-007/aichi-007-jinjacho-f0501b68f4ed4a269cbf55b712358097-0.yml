@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-f0501b68f4ed4a269cbf55b712358097-0
+name: 綿積神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 綿積神社
+  address: 岡崎市柱２丁目１０番地１
+  lat: null
+  lng: null
+station: ＪＲ東海道本線 岡崎駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f0501b68-f4ed-4a26-9cbf-55b712358097
+organizer: 綿積神社
+shrine: 綿積神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f0501b68-f4ed-4a26-9cbf-55b712358097
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

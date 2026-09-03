@@ -1,0 +1,35 @@
+id: ehime-008-manual-aki-taiko
+name: 新居浜太鼓祭り
+kind: 例大祭
+scale: 市
+area:
+  pref: 愛媛県
+  city: 新居浜市
+  ward: null
+venue:
+  name: 新居浜市内8地区（各地区の神社・広場ほか）
+  address: null
+  lat: null
+  lng: null
+organizer: 新居浜市（観光課）
+tags:
+  - 山車
+description: null
+links:
+  - title: 新居浜市 新居浜太鼓祭り
+    url: https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html
+    source_name: 新居浜市
+    source_type: gov
+    checked_at: 2026-09-03
+    note: 四国三大祭の一つ。例年10月16日〜18日開催（各地区の神社の秋季例大祭を市全体で「太鼓祭り」と呼ぶ）。50台以上の太鼓台が市内8地区を巡行。確認時点で新居浜市サイトに2026年の明記は無く、2025年（10/15〜18）の掲載のみ
+stalls: unknown

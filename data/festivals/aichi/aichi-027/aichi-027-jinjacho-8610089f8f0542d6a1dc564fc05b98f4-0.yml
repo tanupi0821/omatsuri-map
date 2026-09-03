@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-8610089f8f0542d6a1dc564fc05b98f4-0
+name: 小塞神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 小塞神社
+  address: 一宮市浅井町尾関同者6番地
+  lat: null
+  lng: null
+station: 名鉄名古屋本線新木曽川駅
+recurrence: 10月19日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8610089f-8f05-42d6-a1dc-564fc05b98f4
+organizer: 小塞神社
+shrine: 小塞神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8610089f-8f05-42d6-a1dc-564fc05b98f4
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない

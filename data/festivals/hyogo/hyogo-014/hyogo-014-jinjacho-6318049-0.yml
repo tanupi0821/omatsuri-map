@@ -1,0 +1,33 @@
+id: hyogo-014-jinjacho-6318049-0
+name: 大神神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: たつの市
+  ward: null
+venue:
+  name: 大神神社
+  address: たつの市神岡町大住寺794-5
+  lat: 34.89074
+  lng: 134.564157
+recurrence: 5月第2土曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6318049.html
+organizer: 大神神社
+shrine: 大神神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6318049.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-030-jinjacho-39d5ab645d0d43f0979eca7fea196e72-0
+name: 大己貴神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡美浜町
+  ward: null
+venue:
+  name: 大己貴神社
+  address: 知多郡美浜町大字奥田字海道田181
+  lat: null
+  lng: null
+station: 名鉄 野間駅
+recurrence: 4月3日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=39d5ab64-5d0d-43f0-979e-ca7fea196e72
+organizer: 大己貴神社
+shrine: 大己貴神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=39d5ab64-5d0d-43f0-979e-ca7fea196e72
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月3日」から導いたもので、神社が2026年の日程として発表したものではない

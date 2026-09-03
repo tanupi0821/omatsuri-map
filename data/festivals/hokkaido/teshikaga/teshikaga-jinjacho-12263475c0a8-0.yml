@@ -1,0 +1,33 @@
+id: teshikaga-jinjacho-12263475c0a8-0
+name: 川湯神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 川上郡弟子屈町
+  ward: null
+venue:
+  name: 川湯神社
+  address: 川上郡弟子屈町川湯温泉3-2-45
+  lat: null
+  lng: null
+recurrence: 8月28日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%b7%9d%e6%b9%af%e7%a5%9e%e7%a4%be/
+organizer: 川湯神社
+shrine: 川湯神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%b7%9d%e6%b9%af%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月28日」から導いたもので、神社が2026年の日程として発表したものではない

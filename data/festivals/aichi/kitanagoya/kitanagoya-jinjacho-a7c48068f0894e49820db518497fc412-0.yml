@@ -1,0 +1,34 @@
+id: kitanagoya-jinjacho-a7c48068f0894e49820db518497fc412-0
+name: 喰守社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北名古屋市
+  ward: null
+venue:
+  name: 喰守社
+  address: 北名古屋市西之保犬井１００番地
+  lat: null
+  lng: null
+station: 名鉄犬山線 西春駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a7c48068-f089-4e49-820d-b518497fc412
+organizer: 喰守社
+shrine: 喰守社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a7c48068-f089-4e49-820d-b518497fc412
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

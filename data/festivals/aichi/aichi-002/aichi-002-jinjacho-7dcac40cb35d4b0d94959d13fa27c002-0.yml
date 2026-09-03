@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-7dcac40cb35d4b0d94959d13fa27c002-0
+name: 廣瀬廣島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 廣瀬廣島神社
+  address: 新城市川路字廣瀬山54番地
+  lat: null
+  lng: null
+station: JR飯田線茶臼山駅
+recurrence: 4月4日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7dcac40c-b35d-4b0d-9495-9d13fa27c002
+organizer: 廣瀬廣島神社
+shrine: 廣瀬廣島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7dcac40c-b35d-4b0d-9495-9d13fa27c002
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月4日」から導いたもので、神社が2026年の日程として発表したものではない

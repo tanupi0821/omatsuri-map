@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-1b6d7ef7d865461db849e287a97ba78f-0
+name: 津島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 津島神社
+  address: 名古屋市中川区中郷5-146
+  lat: null
+  lng: null
+station: 市営バス一柳中 下車
+recurrence: 10月第二月曜（体育の日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1b6d7ef7-d865-461d-b849-e287a97ba78f
+organizer: 津島神社
+shrine: 津島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1b6d7ef7-d865-461d-b849-e287a97ba78f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二月曜（体育の日）」から導いたもので、神社が2026年の日程として発表したものではない

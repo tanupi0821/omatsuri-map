@@ -1,0 +1,34 @@
+id: nagoya-atsuta-jinjacho-8ff213734f7947b9ac90df32df534b05-0
+name: 金刀比羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市熱田区
+  ward: null
+venue:
+  name: 金刀比羅社
+  address: 名古屋市熱田区白鳥2-10-5
+  lat: null
+  lng: null
+station: 市営地下鉄神宮西駅 下車
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8ff21373-4f79-47b9-ac90-df32df534b05
+organizer: 金刀比羅社
+shrine: 金刀比羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8ff21373-4f79-47b9-ac90-df32df534b05
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

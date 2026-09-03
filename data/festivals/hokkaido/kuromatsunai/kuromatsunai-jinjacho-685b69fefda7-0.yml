@@ -1,0 +1,33 @@
+id: kuromatsunai-jinjacho-685b69fefda7-0
+name: 中ノ川神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 寿都郡黒松内町
+  ward: null
+venue:
+  name: 中ノ川神社
+  address: 寿都郡黒松内町字添別20番地1
+  lat: null
+  lng: null
+recurrence: 9月17日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%b8%ad%e3%83%8e%e5%b7%9d%e7%a5%9e%e7%a4%be/
+organizer: 中ノ川神社
+shrine: 中ノ川神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%b8%ad%e3%83%8e%e5%b7%9d%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月17日」から導いたもので、神社が2026年の日程として発表したものではない

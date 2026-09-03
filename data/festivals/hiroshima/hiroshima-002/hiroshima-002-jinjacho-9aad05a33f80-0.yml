@@ -1,0 +1,33 @@
+id: hiroshima-002-jinjacho-9aad05a33f80-0
+name: 嚴島神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 福山市
+  ward: null
+venue:
+  name: 嚴島神社
+  address: 福山市駅家町下山守二本木467
+  lat: 34.5262949
+  lng: 133.34331870000005
+recurrence: 10月第1日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+organizer: 嚴島神社
+shrine: 嚴島神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=2
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

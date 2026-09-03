@@ -1,0 +1,33 @@
+id: aichi-718-jinjacho-3cb213130a5a47cc8f9b2358929e5c3f-0
+name: 一之御前社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 一之御前社
+  address: 名古屋市瑞穂区平郷町五丁目十三番地
+  lat: null
+  lng: null
+recurrence: 10月第2土曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3cb21313-0a5a-47cc-8f9b-2358929e5c3f
+organizer: 一之御前社
+shrine: 一之御前社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3cb21313-0a5a-47cc-8f9b-2358929e5c3f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜」から導いたもので、神社が2026年の日程として発表したものではない

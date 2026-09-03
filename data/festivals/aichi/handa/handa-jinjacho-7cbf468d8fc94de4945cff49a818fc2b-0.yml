@@ -1,0 +1,34 @@
+id: handa-jinjacho-7cbf468d8fc94de4945cff49a818fc2b-0
+name: 市杵島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 半田市
+  ward: null
+venue:
+  name: 市杵島社
+  address: 半田市向山町1丁目128番地
+  lat: null
+  lng: null
+station: JR武豊線 乙川駅
+recurrence: 3月第3土曜日・日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7cbf468d-8fc9-4de4-945c-ff49a818fc2b
+organizer: 市杵島社
+shrine: 市杵島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=7cbf468d-8fc9-4de4-945c-ff49a818fc2b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第3土曜日・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

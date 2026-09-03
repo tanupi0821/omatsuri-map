@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 札幌市北区
+    url: https://sapporokitaku.goguynet.jp/2026/05/09/harunotaisai/
 occurrences:
   - year: 2026
     dates:

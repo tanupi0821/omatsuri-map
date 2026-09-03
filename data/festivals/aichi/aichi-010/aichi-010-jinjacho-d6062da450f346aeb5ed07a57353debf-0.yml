@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-d6062da450f346aeb5ed07a57353debf-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 八幡社
+  address: 田原市浦町北条1番地
+  lat: null
+  lng: null
+station: 渥美線 三河田原駅
+recurrence: 10月第2土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d6062da4-50f3-46ae-b5ed-07a57353debf
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d6062da4-50f3-46ae-b5ed-07a57353debf
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

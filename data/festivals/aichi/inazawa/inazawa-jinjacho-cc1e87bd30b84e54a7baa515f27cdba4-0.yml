@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-cc1e87bd30b84e54a7baa515f27cdba4-0
+name: 内荒神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 内荒神社
+  address: 稲沢市平和町法立国道東一三七番地
+  lat: null
+  lng: null
+station: 名鉄 尾西線 丸渕駅
+recurrence: 8月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc1e87bd-30b8-4e54-a7ba-a515f27cdba4
+organizer: 内荒神社
+shrine: 内荒神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc1e87bd-30b8-4e54-a7ba-a515f27cdba4
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月12日」から導いたもので、神社が2026年の日程として発表したものではない

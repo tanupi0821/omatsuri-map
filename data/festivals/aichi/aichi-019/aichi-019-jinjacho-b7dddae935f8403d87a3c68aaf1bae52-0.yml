@@ -1,0 +1,35 @@
+id: aichi-019-jinjacho-b7dddae935f8403d87a3c68aaf1bae52-0
+name: 逆戈神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 逆戈神社
+  address: 豊橋市浜道町字芝切43番地
+  lat: null
+  lng: null
+station: 豊鉄渥美線 芦原駅・高師駅、ＪＲ二川駅
+recurrence: 10月第2土、日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b7dddae9-35f8-403d-87a3-c68aaf1bae52
+organizer: 逆戈神社
+shrine: 逆戈神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b7dddae9-35f8-403d-87a3-c68aaf1bae52
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土、日曜日」から導いたもので、神社が2026年の日程として発表したものではない

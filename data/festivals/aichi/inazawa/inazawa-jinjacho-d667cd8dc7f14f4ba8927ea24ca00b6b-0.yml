@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-d667cd8dc7f14f4ba8927ea24ca00b6b-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 八幡社
+  address: 稲沢市中之庄町辻畑一五四番地
+  lat: null
+  lng: null
+station: 名鉄 本線 大里駅
+recurrence: 10月20日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d667cd8d-c7f1-4f4b-a892-7ea24ca00b6b
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d667cd8d-c7f1-4f4b-a892-7ea24ca00b6b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月20日」から導いたもので、神社が2026年の日程として発表したものではない

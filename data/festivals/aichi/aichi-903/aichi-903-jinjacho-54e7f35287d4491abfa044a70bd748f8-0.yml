@@ -1,0 +1,34 @@
+id: aichi-903-jinjacho-54e7f35287d4491abfa044a70bd748f8-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市名東区
+  ward: null
+venue:
+  name: 神明社
+  address: 名古屋市名東区本郷1-22
+  lat: null
+  lng: null
+station: 地下鉄本郷駅
+recurrence: 10月スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=54e7f352-87d4-491a-bfa0-44a70bd748f8
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=54e7f352-87d4-491a-bfa0-44a70bd748f8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

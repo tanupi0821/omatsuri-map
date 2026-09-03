@@ -1,0 +1,34 @@
+id: handa-jinjacho-6ad9420c44044e679a8d6e829e1c5326-0
+name: 浪寄社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 半田市
+  ward: null
+venue:
+  name: 浪寄社
+  address: 半田市栄町4丁目260番地
+  lat: null
+  lng: null
+station: 名鉄河和線 成岩駅
+recurrence: 7月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6ad9420c-4404-4e67-9a8d-6e829e1c5326
+organizer: 浪寄社
+shrine: 浪寄社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6ad9420c-4404-4e67-9a8d-6e829e1c5326
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

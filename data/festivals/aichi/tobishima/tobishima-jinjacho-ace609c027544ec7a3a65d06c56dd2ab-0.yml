@@ -1,0 +1,34 @@
+id: tobishima-jinjacho-ace609c027544ec7a3a65d06c56dd2ab-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 海部郡飛島村
+  ward: null
+venue:
+  name: 神明社
+  address: 海部郡飛島村飛島村大字三福1丁目83番地
+  lat: null
+  lng: null
+station: 飛島公共交通バス神戸山バス停
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ace609c0-2754-4ec7-a3a6-5d06c56dd2ab
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ace609c0-2754-4ec7-a3a6-5d06c56dd2ab
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

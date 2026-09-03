@@ -1,0 +1,33 @@
+id: harima-jinjacho-6314156-0
+name: 本荘大歳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古郡播磨町
+  ward: null
+venue:
+  name: 本荘大歳神社
+  address: 加古郡播磨町宮北2-9-15
+  lat: 34.717911
+  lng: 134.863427
+recurrence: 2月8日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6314156.html
+organizer: 本荘大歳神社
+shrine: 本荘大歳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6314156.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「2月8日」から導いたもので、神社が2026年の日程として発表したものではない

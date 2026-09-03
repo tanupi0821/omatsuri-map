@@ -1,0 +1,33 @@
+id: hiroshima-002-goguynet-49925
+name: あしだ川花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 広島県
+  city: 福山市
+  ward: null
+venue:
+  name: 福山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式ホームページ
+    url: https://fukuyama-natsumatsuri.jp/ashida/
+  - title: 号外NET 福山市
+    url: https://fukuyama.goguynet.jp/2026/08/15/ashidagawahanabi2026kaisai/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuyama.goguynet.jp/2026/08/10/ashidagawahanabi2026/
+    source_name: 号外NET 福山市
+    source_type: media
+    checked_at: 2026-09-03

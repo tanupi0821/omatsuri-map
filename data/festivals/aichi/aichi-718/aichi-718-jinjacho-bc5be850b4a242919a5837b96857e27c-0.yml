@@ -1,0 +1,33 @@
+id: aichi-718-jinjacho-bc5be850b4a242919a5837b96857e27c-0
+name: 津賀田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 津賀田神社
+  address: 名古屋市瑞穂区津賀田町三丁目4番地
+  lat: null
+  lng: null
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bc5be850-b4a2-4291-9a58-37b96857e27c
+organizer: 津賀田神社
+shrine: 津賀田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bc5be850-b4a2-4291-9a58-37b96857e27c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

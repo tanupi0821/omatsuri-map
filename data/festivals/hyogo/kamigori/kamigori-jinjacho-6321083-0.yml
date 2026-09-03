@@ -1,0 +1,34 @@
+id: kamigori-jinjacho-6321083-0
+name: 高嶺神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 赤穂郡上郡町
+  ward: null
+venue:
+  name: 高嶺神社
+  address: 赤穂郡上郡町山野里2745
+  lat: 34.863807
+  lng: 134.343843
+recurrence: 4月第2日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6321083.html
+organizer: 高嶺神社
+shrine: 高嶺神社
+stalls: unknown
+tags:
+  - 春祭り(御田植祭・穂揃い祭)
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6321083.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

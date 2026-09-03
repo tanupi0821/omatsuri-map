@@ -1,0 +1,33 @@
+id: hyogo-015-jinjacho-6326119-0
+name: 黒杉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 美方郡新温泉町
+  ward: null
+venue:
+  name: 黒杉神社
+  address: 美方郡新温泉町切畑字西畑91
+  lat: 35.51698
+  lng: 134.50076
+recurrence: 10月13日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6326119.html
+organizer: 黒杉神社
+shrine: 黒杉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6326119.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月13日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-ffa95b04f4d445a8b5087751c74c2e35-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 神明社
+  address: 名古屋市西区則武新町1丁目11番6号
+  lat: null
+  lng: null
+station: 地下鉄 浅間町駅
+recurrence: 10月7日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ffa95b04-f4d4-45a8-b508-7751c74c2e35
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ffa95b04-f4d4-45a8-b508-7751c74c2e35
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月7日」から導いたもので、神社が2026年の日程として発表したものではない

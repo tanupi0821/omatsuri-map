@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-1bee419086b846a082627ccd087ec14a-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 神明社
+  address: 一宮市平島1丁目8番15号
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 名鉄一宮
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1bee4190-86b8-46a0-8262-7ccd087ec14a
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1bee4190-86b8-46a0-8262-7ccd087ec14a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

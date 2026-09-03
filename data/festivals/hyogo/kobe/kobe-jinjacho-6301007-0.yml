@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301007-0
+name: 保久良神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 東灘区
+venue:
+  name: 保久良神社
+  address: 神戸市東灘区本山町北畑680
+  lat: 34.735551
+  lng: 135.27803
+recurrence: 5月5日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301007.html
+organizer: 保久良神社
+shrine: 保久良神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301007.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月5日」から導いたもので、神社が2026年の日程として発表したものではない

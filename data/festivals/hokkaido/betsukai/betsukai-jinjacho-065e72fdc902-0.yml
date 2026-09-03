@@ -1,0 +1,33 @@
+id: betsukai-jinjacho-065e72fdc902-0
+name: 野付神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 野付郡別海町
+  ward: null
+venue:
+  name: 野付神社
+  address: 野付郡別海町尾岱沼潮見町123番地
+  lat: null
+  lng: null
+recurrence: 8月24日
+recurrence_source: https://hokkaidojinjacho.jp/%e9%87%8e%e4%bb%98%e7%a5%9e%e7%a4%be/
+organizer: 野付神社
+shrine: 野付神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-24
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e9%87%8e%e4%bb%98%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月24日」から導いたもので、神社が2026年の日程として発表したものではない

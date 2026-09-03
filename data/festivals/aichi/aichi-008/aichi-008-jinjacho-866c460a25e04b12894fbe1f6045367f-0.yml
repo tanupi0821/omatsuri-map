@@ -1,0 +1,35 @@
+id: aichi-008-jinjacho-866c460a25e04b12894fbe1f6045367f-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 豊川市下長山町西道貝津８７番地
+  lat: null
+  lng: null
+station: ＪＲ飯田線 牛久保駅
+recurrence: 4月第2土・日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=866c460a-25e0-4b12-894f-be1f6045367f
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-11
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=866c460a-25e0-4b12-894f-be1f6045367f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2土・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

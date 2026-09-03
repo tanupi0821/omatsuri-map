@@ -1,0 +1,33 @@
+id: hokkaido-705-jinjacho-41f70832c986-0
+name: 北海道神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 北海道神宮
+  address: 札幌市中央区宮ケ丘474番地
+  lat: null
+  lng: null
+recurrence: 6月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%8c%97%e6%b5%b7%e9%81%93%e7%a5%9e%e5%ae%ae/
+organizer: 北海道神宮
+shrine: 北海道神宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%8c%97%e6%b5%b7%e9%81%93%e7%a5%9e%e5%ae%ae/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月15日」から導いたもので、神社が2026年の日程として発表したものではない

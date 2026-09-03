@@ -1,0 +1,33 @@
+id: hiroshima-703-jinjacho-ee31fff5fb69-0
+name: 八雲神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 世羅町
+  ward: null
+venue:
+  name: 八雲神社
+  address: 世羅町大字賀茂2243番地
+  lat: 34.5865207
+  lng: 132.9493291
+recurrence: 7月第2日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+organizer: 八雲神社
+shrine: 八雲神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

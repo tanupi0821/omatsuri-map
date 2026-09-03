@@ -1,0 +1,33 @@
+id: hiroshima-013-jinjacho-6dc0f2555b9f-0
+name: 亀山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 呉市
+  ward: null
+venue:
+  name: 亀山神社
+  address: 呉市清水1丁目9番36号
+  lat: 34.2415942
+  lng: 132.5693404
+recurrence: 10月第2日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+organizer: 亀山神社
+shrine: 亀山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

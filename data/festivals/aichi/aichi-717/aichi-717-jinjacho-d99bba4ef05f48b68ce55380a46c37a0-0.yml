@@ -1,0 +1,34 @@
+id: aichi-717-jinjacho-d99bba4ef05f48b68ce55380a46c37a0-0
+name: 蝮ヶ池八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市千種区
+  ward: null
+venue:
+  name: 蝮ヶ池八幡宮
+  address: 名古屋市千種区向陽1丁目3番32号
+  lat: null
+  lng: null
+station: 地下鉄池下駅
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d99bba4e-f05f-48b6-8ce5-5380a46c37a0
+organizer: 蝮ヶ池八幡宮
+shrine: 蝮ヶ池八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d99bba4e-f05f-48b6-8ce5-5380a46c37a0
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,30 @@
+id: fujisawa-goguynet-76668
+name: 湘南T-SITE 夏祭り 2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 湘南T-SITE
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://fujisawa.goguynet.jp/2026/08/07/shonan-tsite-natsumatsuri2026/
+    source_name: 号外NET 藤沢市
+    source_type: media
+    checked_at: 2026-09-03

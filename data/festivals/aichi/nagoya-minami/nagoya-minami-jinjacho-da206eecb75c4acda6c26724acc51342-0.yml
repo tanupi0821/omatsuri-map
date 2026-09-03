@@ -1,0 +1,34 @@
+id: nagoya-minami-jinjacho-da206eecb75c4acda6c26724acc51342-0
+name: 若宮八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市南区
+  ward: null
+venue:
+  name: 若宮八幡社
+  address: 名古屋市南区元鳴尾町432番地
+  lat: null
+  lng: null
+station: 市営バス／大慶橋
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da206eec-b75c-4acd-a6c2-6724acc51342
+organizer: 若宮八幡社
+shrine: 若宮八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da206eec-b75c-4acd-a6c2-6724acc51342
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hyogo-706-jinjacho-6310046-0
+name: 御酒神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 三木市
+  ward: null
+venue:
+  name: 御酒神社
+  address: 三木市別所町石野941
+  lat: 34.792519
+  lng: 134.94127
+recurrence: 5月1日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6310046.html
+organizer: 御酒神社
+shrine: 御酒神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6310046.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月1日」から導いたもので、神社が2026年の日程として発表したものではない

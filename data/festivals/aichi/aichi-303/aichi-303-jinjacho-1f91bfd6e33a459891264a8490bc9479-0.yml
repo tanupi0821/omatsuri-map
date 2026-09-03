@@ -1,0 +1,34 @@
+id: aichi-303-jinjacho-1f91bfd6e33a459891264a8490bc9479-0
+name: 南陽神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市港区
+  ward: null
+venue:
+  name: 南陽神社
+  address: 名古屋市港区春田野3-202
+  lat: null
+  lng: null
+station: 市営バス南陽町または南陽中 下車
+recurrence: 5月10日,10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1f91bfd6-e33a-4598-9126-4a8490bc9479
+organizer: 南陽神社
+shrine: 南陽神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1f91bfd6-e33a-4598-9126-4a8490bc9479
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月10日,10月10日」から導いたもので、神社が2026年の日程として発表したものではない

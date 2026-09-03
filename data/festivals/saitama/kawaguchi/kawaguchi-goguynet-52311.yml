@@ -1,0 +1,31 @@
+id: kawaguchi-goguynet-52311
+name: 第6回川口花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 川口市
+  ward: null
+venue:
+  name: 川口市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-14
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawaguchi.goguynet.jp/2026/08/29/post-52311/
+    source_name: 号外NET 川口市
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: yes
+paid_seats_note: 記事に「有料観覧席チケットは8月17日より販売中」「有料観覧席限定のグルメエリアも登場」とあり、2026年は有料観覧席を設ける（料金・席種は記事に記載なし）

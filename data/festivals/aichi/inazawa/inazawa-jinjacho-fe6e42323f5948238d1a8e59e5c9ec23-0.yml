@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-fe6e42323f5948238d1a8e59e5c9ec23-0
+name: 八劔社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 八劔社
+  address: 稲沢市竹腰町雁畑二五九番地
+  lat: null
+  lng: null
+station: 名鉄 尾西線 山崎駅
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fe6e4232-3f59-4823-8d1a-8e59e5c9ec23
+organizer: 八劔社
+shrine: 八劔社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fe6e4232-3f59-4823-8d1a-8e59e5c9ec23
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-fc76487902bb4bffa0cd789d8be34c1b-0
+name: 豊富神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 豊富神社
+  address: 岡崎市牧平町字大門28番地
+  lat: null
+  lng: null
+station: 名鉄バス額田センター
+recurrence: 4月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc764879-02bb-4bff-a0cd-789d8be34c1b
+organizer: 豊富神社
+shrine: 豊富神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fc764879-02bb-4bff-a0cd-789d8be34c1b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

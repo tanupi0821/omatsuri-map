@@ -1,0 +1,33 @@
+id: aichi-031-jinjacho-a32e3cf3317443dfb626cbd1d9c88434-0
+name: 秋葉社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 刈谷市
+  ward: null
+venue:
+  name: 秋葉社
+  address: 刈谷市銀座2丁目101番地
+  lat: null
+  lng: null
+recurrence: 7月最終土曜日と日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a32e3cf3-3174-43df-b626-cbd1d9c88434
+organizer: 秋葉社
+shrine: 秋葉社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a32e3cf3-3174-43df-b626-cbd1d9c88434
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月最終土曜日と日曜日」から導いたもので、神社が2026年の日程として発表したものではない

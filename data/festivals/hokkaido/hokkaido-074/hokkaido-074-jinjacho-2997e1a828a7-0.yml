@@ -1,0 +1,33 @@
+id: hokkaido-074-jinjacho-2997e1a828a7-0
+name: 鹿部稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 茅部郡鹿部町
+  ward: null
+venue:
+  name: 鹿部稲荷神社
+  address: 茅部郡鹿部町字宮浜321番地
+  lat: null
+  lng: null
+recurrence: 7月9日
+recurrence_source: https://hokkaidojinjacho.jp/%e9%b9%bf%e9%83%a8%e7%a8%b2%e8%8d%b7%e7%a5%9e%e7%a4%be/
+organizer: 鹿部稲荷神社
+shrine: 鹿部稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e9%b9%bf%e9%83%a8%e7%a8%b2%e8%8d%b7%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月9日」から導いたもので、神社が2026年の日程として発表したものではない

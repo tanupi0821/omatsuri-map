@@ -1,0 +1,35 @@
+id: aichi-019-jinjacho-ac486a3ccb5e4e8b8780e1b145cb956d-0
+name: 談合神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 談合神社
+  address: 豊橋市談合町75番地
+  lat: null
+  lng: null
+station: 豊橋鉄道市内線 豊橋公園停留所、東八町停留所
+recurrence: 2月10・11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ac486a3c-cb5e-4e8b-8780-e1b145cb956d
+organizer: 談合神社
+shrine: 談合神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-10
+      - 2026-02-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ac486a3c-cb5e-4e8b-8780-e1b145cb956d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「2月10・11日」から導いたもので、神社が2026年の日程として発表したものではない

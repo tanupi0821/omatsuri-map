@@ -1,0 +1,34 @@
+id: aichi-024-jinjacho-aaccf898624a4d7082b5b46cd34cf6b0-0
+name: 津島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 津島社
+  address: 愛西市町方町五軒家9番地
+  lat: null
+  lng: null
+station: 名鉄町方駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=aaccf898-624a-4d70-82b5-b46cd34cf6b0
+organizer: 津島社
+shrine: 津島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=aaccf898-624a-4d70-82b5-b46cd34cf6b0
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

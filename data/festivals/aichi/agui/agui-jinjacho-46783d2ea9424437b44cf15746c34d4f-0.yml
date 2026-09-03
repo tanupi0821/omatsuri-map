@@ -1,0 +1,34 @@
+id: agui-jinjacho-46783d2ea9424437b44cf15746c34d4f-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡阿久比町
+  ward: null
+venue:
+  name: 神明社
+  address: 知多郡阿久比町大字植大字植向山2番地
+  lat: null
+  lng: null
+station: 名鉄河和線 植大駅
+recurrence: 4月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=46783d2e-a942-4437-b44c-f15746c34d4f
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=46783d2e-a942-4437-b44c-f15746c34d4f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,29 @@
+id: yamaguchi-013-goguynet-119643
+name: 須々万ふれあい盆踊り＆花火大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 周南市
+  ward: null
+venue:
+  name: 中央付近にはステージがあり
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/08/08/susumahanabi/
+    source_name: 号外NET 周南市・下松市・光市
+    source_type: media
+    checked_at: 2026-09-03

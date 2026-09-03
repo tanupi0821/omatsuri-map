@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-290c15767e7d4877a6378b8ca6a1b866-0
+name: 冨士天満社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 冨士天満社
+  address: 名古屋市中川区荒子町4-208-1
+  lat: null
+  lng: null
+station: あおなみ線南荒子駅または市営バス荒中町 下車
+recurrence: 10月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=290c1576-7e7d-4877-a637-8b8ca6a1b866
+organizer: 冨士天満社
+shrine: 冨士天満社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=290c1576-7e7d-4877-a637-8b8ca6a1b866
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hokkaido-024-jinjacho-b6f75c15c805-0
+name: 大麻神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 江別市
+  ward: null
+venue:
+  name: 大麻神社
+  address: 江別市大麻宮町3番地2
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%a4%a7%e9%ba%bb%e7%a5%9e%e7%a4%be/
+organizer: 大麻神社
+shrine: 大麻神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%a4%a7%e9%ba%bb%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

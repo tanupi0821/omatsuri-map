@@ -1,0 +1,37 @@
+id: kyoto-manual-aki-jidai
+name: 時代祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 京都府
+  city: 京都市
+  ward: null
+venue:
+  name: 平安神宮（時代行列は京都御所〜平安神宮）
+  address: 京都市左京区岡崎西天王町97
+  lat: null
+  lng: null
+recurrence: 10月22日（雨天順延）
+recurrence_source: https://www.heianjingu.or.jp/ritual/jidaimatsuri/
+organizer: 平安神宮
+shrine: 平安神宮
+tags: []
+description: null
+links:
+  - title: 平安神宮 時代祭
+    url: https://www.heianjingu.or.jp/ritual/jidaimatsuri/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.heianjingu.or.jp/ritual/jidaimatsuri/
+    source_name: 平安神宮
+    source_type: official
+    checked_at: 2026-09-03
+    note: 京都三大祭の一つ。毎年10月22日固定開催（雨天の場合は順延）。時代行列は京都御所・建礼門前を12時に出発。有料観覧席あり（詳細は京都市観光協会）
+stalls: unknown
+paid_seats: yes
+paid_seats_note: 有料観覧席あり。販売・詳細は京都市観光協会に確認

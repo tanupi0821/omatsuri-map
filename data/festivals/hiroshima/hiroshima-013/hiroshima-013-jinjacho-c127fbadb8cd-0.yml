@@ -1,0 +1,33 @@
+id: hiroshima-013-jinjacho-c127fbadb8cd-0
+name: 風呂谷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 呉市
+  ward: null
+venue:
+  name: 風呂谷神社
+  address: 呉市安浦町大字下垣内639
+  lat: 34.2987602
+  lng: 132.712313699999
+recurrence: 10月30日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+organizer: 風呂谷神社
+shrine: 風呂谷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-30
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月30日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-025-jinjacho-3565d2e077714262a7c8c7dd192dec8a-0
+name: 八剱社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 八剱社
+  address: 津島市莪原町字宮東54番地
+  lat: null
+  lng: null
+station: 名鉄バス莪原停留所
+recurrence: 10月3日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3565d2e0-7771-4262-a7c8-c7dd192dec8a
+organizer: 八剱社
+shrine: 八剱社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3565d2e0-7771-4262-a7c8-c7dd192dec8a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月3日」から導いたもので、神社が2026年の日程として発表したものではない

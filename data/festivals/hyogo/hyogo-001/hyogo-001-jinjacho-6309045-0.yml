@@ -1,0 +1,33 @@
+id: hyogo-001-jinjacho-6309045-0
+name: 大歳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: 大歳神社
+  address: 明石市大久保町大久保町909
+  lat: 34.675817
+  lng: 134.945562
+recurrence: 10月19日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6309045.html
+organizer: 大歳神社
+shrine: 大歳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6309045.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月19日」から導いたもので、神社が2026年の日程として発表したものではない

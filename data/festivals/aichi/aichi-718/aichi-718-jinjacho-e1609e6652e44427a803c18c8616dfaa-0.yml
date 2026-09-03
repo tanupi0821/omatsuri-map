@@ -1,0 +1,33 @@
+id: aichi-718-jinjacho-e1609e6652e44427a803c18c8616dfaa-0
+name: 山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 山神社
+  address: 名古屋市瑞穂区下山町一丁目四十一番地
+  lat: null
+  lng: null
+recurrence: 10月スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1609e66-52e4-4427-a803-c18c8616dfaa
+organizer: 山神社
+shrine: 山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e1609e66-52e4-4427-a803-c18c8616dfaa
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

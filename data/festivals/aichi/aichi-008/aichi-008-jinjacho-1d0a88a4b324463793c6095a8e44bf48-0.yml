@@ -1,0 +1,35 @@
+id: aichi-008-jinjacho-1d0a88a4b324463793c6095a8e44bf48-0
+name: 天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 天神社
+  address: 豊川市三上町西高川原１番地
+  lat: null
+  lng: null
+station: JR飯田線豊川駅又は名鉄豊川稲荷駅
+recurrence: 10月第三土・日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1d0a88a4-b324-4637-93c6-095a8e44bf48
+organizer: 天神社
+shrine: 天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1d0a88a4-b324-4637-93c6-095a8e44bf48
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第三土・日曜日」から導いたもので、神社が2026年の日程として発表したものではない

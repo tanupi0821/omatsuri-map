@@ -1,0 +1,33 @@
+id: hiroshima-saeki-jinjacho-f8657b7e25d2-0
+name: 湯之山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 広島市佐伯区
+  ward: null
+venue:
+  name: 湯之山神社
+  address: 広島市佐伯区湯来町大字和田471番地
+  lat: 34.497238624415765
+  lng: 132.28291294966812
+recurrence: 11月20日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+organizer: 湯之山神社
+shrine: 湯之山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=10
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月20日」から導いたもので、神社が2026年の日程として発表したものではない

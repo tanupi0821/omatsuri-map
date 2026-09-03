@@ -1,0 +1,33 @@
+id: ehime-702-jinjacho-9a6c7c90c55b-0
+name: 浅間神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 松前町
+  ward: null
+venue:
+  name: 浅間神社
+  address: 松前町字静浦343番地
+  lat: null
+  lng: null
+recurrence: 6月18日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%b5%85%e9%96%93%e7%a5%9e%e7%a4%be/
+organizer: 浅間神社
+shrine: 浅間神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%b5%85%e9%96%93%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月18日」から導いたもので、神社が2026年の日程として発表したものではない

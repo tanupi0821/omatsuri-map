@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301101-0
+name: 六條八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 六條八幡宮
+  address: 神戸市北区山田町中宮ノ片57
+  lat: 34.767561
+  lng: 135.130492
+recurrence: 10月第2日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301101.html
+organizer: 六條八幡宮
+shrine: 六條八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301101.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

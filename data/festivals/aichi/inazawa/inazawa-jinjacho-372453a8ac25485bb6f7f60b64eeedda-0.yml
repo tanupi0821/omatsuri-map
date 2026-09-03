@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-372453a8ac25485bb6f7f60b64eeedda-0
+name: 屯倉社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 屯倉社
+  address: 稲沢市平和町下三宅舟附670番地
+  lat: null
+  lng: null
+station: 名鉄 津島線 勝幡駅
+recurrence: 7月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=372453a8-ac25-485b-b6f7-f60b64eeedda
+organizer: 屯倉社
+shrine: 屯倉社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=372453a8-ac25-485b-b6f7-f60b64eeedda
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月15日」から導いたもので、神社が2026年の日程として発表したものではない

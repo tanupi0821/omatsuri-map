@@ -1,0 +1,29 @@
+id: aichi-012-goguynet-14258
+name: 第２５回 知立よいとこ祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 知立市
+  ward: null
+venue:
+  name: 知立市役所駐車場
+  address: 知立市広見3丁目1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kariya-chiryu.goguynet.jp/2026/08/15/chiryuyoitokomatsuri/
+    source_name: 号外NET 刈谷市・知立市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,33 @@
+id: hiroshima-703-jinjacho-f5001c9e7522-0
+name: 艮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 世羅町
+  ward: null
+venue:
+  name: 艮神社
+  address: 世羅町大字中原314
+  lat: 34.5831411281497
+  lng: 133.00832371163938
+recurrence: 11月第1日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+organizer: 艮神社
+shrine: 艮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=27
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

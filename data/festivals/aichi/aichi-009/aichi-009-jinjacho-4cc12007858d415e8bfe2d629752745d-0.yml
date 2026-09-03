@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-4cc12007858d415e8bfe2d629752745d-0
+name: 不乗森神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 不乗森神社
+  address: 安城市里町森38番地
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 新安城駅
+recurrence: 10月9日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4cc12007-858d-415e-8bfe-2d629752745d
+organizer: 不乗森神社
+shrine: 不乗森神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4cc12007-858d-415e-8bfe-2d629752745d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月9日」から導いたもので、神社が2026年の日程として発表したものではない

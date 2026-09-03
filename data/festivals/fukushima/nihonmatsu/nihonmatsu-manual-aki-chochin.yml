@@ -1,0 +1,39 @@
+id: nihonmatsu-manual-aki-chochin
+name: 二本松の提灯祭り（二本松神社例大祭）
+kind: 例大祭
+scale: 市
+area:
+  pref: 福島県
+  city: 二本松市
+  ward: null
+venue:
+  name: 二本松神社・二本松市街地
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月第1土・日・月曜日
+recurrence_source: https://www.city.nihonmatsu.lg.jp/kankou/matsuri/cyochin/page000417.html
+organizer: null
+shrine: 二本松神社
+tags:
+  - 提灯
+  - 太鼓台
+description: null
+links:
+  - title: 二本松市 二本松の提灯祭り
+    url: https://www.city.nihonmatsu.lg.jp/kankou/matsuri/cyochin/page000417.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+      - 2026-10-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.city.nihonmatsu.lg.jp/kankou/matsuri/cyochin/page000417.html
+    source_name: 二本松市
+    source_type: gov
+    checked_at: 2026-09-04
+    note: 日付は市の案内にある開催規則「10月の第1土・日・月曜日」から導いたもので、2026年の日程としての発表はページに無い
+stalls: unknown

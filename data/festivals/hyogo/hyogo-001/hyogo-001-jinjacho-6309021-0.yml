@@ -1,0 +1,33 @@
+id: hyogo-001-jinjacho-6309021-0
+name: 恵比須神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: 恵比須神社
+  address: 明石市林1-9-22
+  lat: 34.64467
+  lng: 134.972566
+recurrence: 4月15日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6309021.html
+organizer: 恵比須神社
+shrine: 恵比須神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6309021.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: shikaoi-jinjacho-716614188c82-0
+name: 瓜幕神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 河東郡鹿追町
+  ward: null
+venue:
+  name: 瓜幕神社
+  address: 河東郡鹿追町瓜幕東3丁目6番地
+  lat: null
+  lng: null
+recurrence: 9月7日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%93%9c%e5%b9%95%e7%a5%9e%e7%a4%be/
+organizer: 瓜幕神社
+shrine: 瓜幕神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%93%9c%e5%b9%95%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月7日」から導いたもので、神社が2026年の日程として発表したものではない

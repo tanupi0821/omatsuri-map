@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-99796d5a58144405b2d5ae272386b349-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 八幡社
+  address: 稲沢市平野町加世24番地
+  lat: null
+  lng: null
+station: 名鉄国府宮駅
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=99796d5a-5814-4405-b2d5-ae272386b349
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=99796d5a-5814-4405-b2d5-ae272386b349
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

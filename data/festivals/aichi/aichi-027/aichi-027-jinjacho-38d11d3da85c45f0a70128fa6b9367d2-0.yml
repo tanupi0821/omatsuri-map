@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-38d11d3da85c45f0a70128fa6b9367d2-0
+name: 十二所神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 十二所神社
+  address: 一宮市光明寺大条戸39
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 新木曽川駅
+recurrence: 4月4日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=38d11d3d-a85c-45f0-a701-28fa6b9367d2
+organizer: 十二所神社
+shrine: 十二所神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=38d11d3d-a85c-45f0-a701-28fa6b9367d2
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月4日」から導いたもので、神社が2026年の日程として発表したものではない

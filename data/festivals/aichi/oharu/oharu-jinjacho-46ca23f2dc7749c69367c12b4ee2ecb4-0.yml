@@ -1,0 +1,33 @@
+id: oharu-jinjacho-46ca23f2dc7749c69367c12b4ee2ecb4-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 海部郡大治町
+  ward: null
+venue:
+  name: 八幡社
+  address: 海部郡大治町大字花常字東屋敷6番地
+  lat: null
+  lng: null
+recurrence: 10月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=46ca23f2-dc77-49c6-9367-c12b4ee2ecb4
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=46ca23f2-dc77-49c6-9367-c12b4ee2ecb4
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月5日」から導いたもので、神社が2026年の日程として発表したものではない

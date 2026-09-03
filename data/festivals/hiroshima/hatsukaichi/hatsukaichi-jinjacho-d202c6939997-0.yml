@@ -1,0 +1,33 @@
+id: hatsukaichi-jinjacho-d202c6939997-0
+name: 福佐売神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 廿日市市
+  ward: null
+venue:
+  name: 福佐売神社
+  address: 廿日市市可愛2番20号
+  lat: 34.3541181999999
+  lng: 132.331080199999
+recurrence: 10月第2土曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=25
+organizer: 福佐売神社
+shrine: 福佐売神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=25
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

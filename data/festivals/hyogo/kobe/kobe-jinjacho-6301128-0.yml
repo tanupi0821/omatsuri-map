@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301128-0
+name: 長尾神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 長尾神社
+  address: 神戸市北区長尾町上津4288
+  lat: 34.883801
+  lng: 135.173247
+recurrence: 10月体育の日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301128.html
+organizer: 長尾神社
+shrine: 長尾神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301128.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月体育の日」から導いたもので、神社が2026年の日程として発表したものではない

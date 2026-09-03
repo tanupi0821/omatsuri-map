@@ -1,0 +1,34 @@
+id: hyogo-007-jinjacho-6324126-0
+name: 荒霊神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 養父市
+  ward: null
+venue:
+  name: 荒霊神社
+  address: 養父市奈良尾38-1
+  lat: 35.369746
+  lng: 134.54142
+recurrence: 9月24日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6324126.html
+organizer: 荒霊神社
+shrine: 荒霊神社
+stalls: unknown
+tags:
+  - 秋祭り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-24
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6324126.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月24日」から導いたもので、神社が2026年の日程として発表したものではない

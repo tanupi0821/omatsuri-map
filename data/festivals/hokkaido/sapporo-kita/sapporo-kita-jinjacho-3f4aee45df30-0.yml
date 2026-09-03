@@ -1,0 +1,33 @@
+id: sapporo-kita-jinjacho-3f4aee45df30-0
+name: 新琴似神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市北区
+  ward: null
+venue:
+  name: 新琴似神社
+  address: 札幌市北区新琴似8条3丁目1番6号
+  lat: null
+  lng: null
+recurrence: 5月20日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%96%b0%e7%90%b4%e4%bc%bc%e7%a5%9e%e7%a4%be/
+organizer: 新琴似神社
+shrine: 新琴似神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%96%b0%e7%90%b4%e4%bc%bc%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月20日」から導いたもので、神社が2026年の日程として発表したものではない

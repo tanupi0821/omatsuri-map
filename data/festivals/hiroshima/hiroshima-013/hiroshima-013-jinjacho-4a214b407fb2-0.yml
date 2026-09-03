@@ -1,0 +1,33 @@
+id: hiroshima-013-jinjacho-4a214b407fb2-0
+name: 新堂平神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 呉市
+  ward: null
+venue:
+  name: 新堂平神社
+  address: 呉市郷原町新堂平1948番地
+  lat: 34.3028997
+  lng: 132.6348324
+recurrence: 11月3日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+organizer: 新堂平神社
+shrine: 新堂平神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=9
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月3日」から導いたもので、神社が2026年の日程として発表したものではない

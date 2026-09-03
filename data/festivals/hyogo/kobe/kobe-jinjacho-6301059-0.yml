@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301059-0
+name: 三石神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 兵庫区
+venue:
+  name: 三石神社
+  address: 神戸市兵庫区和田宮通3-2-51
+  lat: 34.657629
+  lng: 135.174623
+recurrence: 5月17日に近い日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301059.html
+organizer: 三石神社
+shrine: 三石神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301059.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月17日に近い日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-5e7ddfcff0fc4a05a062184642b56a0c-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 神明社
+  address: 豊川市土筒町前屋敷9番地
+  lat: null
+  lng: null
+station: JR飯田線 豊川駅
+recurrence: 3月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5e7ddfcf-f0fc-4a05-a062-184642b56a0c
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5e7ddfcf-f0fc-4a05-a062-184642b56a0c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

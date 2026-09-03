@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-1f5a75d52df4445da51b21d35ebef109-0
+name: 諏訪社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 諏訪社
+  address: 岡崎市夏山町字海道38番地
+  lat: null
+  lng: null
+station: 名鉄 本宿駅
+recurrence: 2月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1f5a75d5-2df4-445d-a51b-21d35ebef109
+organizer: 諏訪社
+shrine: 諏訪社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1f5a75d5-2df4-445d-a51b-21d35ebef109
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「2月12日」から導いたもので、神社が2026年の日程として発表したものではない

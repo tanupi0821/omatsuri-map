@@ -1,0 +1,33 @@
+id: aichi-024-jinjacho-1ab1e3353b954867aacb780b3014c24d-0
+name: 富士浅間社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 富士浅間社
+  address: 愛西市善太新田町十一上37番地の1
+  lat: null
+  lng: null
+recurrence: 10月11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1ab1e335-3b95-4867-aacb-780b3014c24d
+organizer: 富士浅間社
+shrine: 富士浅間社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1ab1e335-3b95-4867-aacb-780b3014c24d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月11日」から導いたもので、神社が2026年の日程として発表したものではない

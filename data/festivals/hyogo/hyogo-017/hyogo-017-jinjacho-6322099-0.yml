@@ -1,0 +1,34 @@
+id: hyogo-017-jinjacho-6322099-0
+name: 韓國神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 韓國神社
+  address: 豊岡市城崎町飯谷250-1
+  lat: 35.60868
+  lng: 134.833298
+recurrence: 10月14日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322099.html
+organizer: 韓國神社
+shrine: 韓國神社
+stalls: unknown
+tags:
+  - 秋祭り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322099.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない

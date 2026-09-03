@@ -1,0 +1,33 @@
+id: harima-jinjacho-6314153-0
+name: 阿閇神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古郡播磨町
+  ward: null
+venue:
+  name: 阿閇神社
+  address: 加古郡播磨町本荘4-11-21
+  lat: 34.717483
+  lng: 134.856258
+recurrence: 10月23日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6314153.html
+organizer: 阿閇神社
+shrine: 阿閇神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6314153.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月23日」から導いたもので、神社が2026年の日程として発表したものではない

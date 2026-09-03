@@ -58,8 +58,9 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const SITE = {
   hanabi: {
     url: (id, page) => `https://hanabi.walkerplus.com/detail/${id}/${page}.html`,
-    // 花火は開催時間もヘッダに出るので map だけでよい
-    pages: ['map'],
+    // 開催時間は map だけで足りるが、「有料席」欄は data.html にしか無い
+    // （scripts/enrich/paid-seats-01-walker.mjs が読む）。新規分にも必要なので取る
+    pages: ['map', 'data'],
     re: /hanabi\.walkerplus\.com\/detail\/([a-z0-9]+)\//,
   },
   summer: {

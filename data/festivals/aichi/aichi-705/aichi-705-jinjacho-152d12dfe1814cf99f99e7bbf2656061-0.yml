@@ -1,0 +1,34 @@
+id: aichi-705-jinjacho-152d12dfe1814cf99f99e7bbf2656061-0
+name: 六所社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 六所社
+  address: 小牧市郷中2丁目163番地
+  lat: null
+  lng: null
+station: 名鉄小牧線間内駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=152d12df-e181-4cf9-9f99-e7bbf2656061
+organizer: 六所社
+shrine: 六所社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=152d12df-e181-4cf9-9f99-e7bbf2656061
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

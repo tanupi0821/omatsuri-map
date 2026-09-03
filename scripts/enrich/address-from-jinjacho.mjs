@@ -28,8 +28,12 @@ if (!existsSync(RAW)) {
 // 「市区町村|社号」→ 住所。同名が複数あるものは捨てる
 const seen = new Map();
 for (const pref of readdirSync(RAW)) {
+  // *-index / *-url は一覧の控え（XML や URL 表）で、社ごとの JSON ではない
+  if (/-(index|url)$/.test(pref)) continue;
   for (const f of readdirSync(join(RAW, pref))) {
-    const j = JSON.parse(readFileSync(join(RAW, pref, f), 'utf8'));
+    if (!f.endsWith('.json')) continue;
+    let j;
+    try { j = JSON.parse(readFileSync(join(RAW, pref, f), 'utf8')); } catch { continue; }
     if (!j.name || !j.address) continue;
     const city = (j.address.match(/^(.+?[市区町村])/) ?? [])[1];
     if (!city) continue;

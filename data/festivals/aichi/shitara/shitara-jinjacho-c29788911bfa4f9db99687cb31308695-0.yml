@@ -1,0 +1,33 @@
+id: shitara-jinjacho-c29788911bfa4f9db99687cb31308695-0
+name: 津具八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北設楽郡設楽町
+  ward: null
+venue:
+  name: 津具八幡宮
+  address: 北設楽郡設楽町津具宮畑1番地
+  lat: null
+  lng: null
+recurrence: 8月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c2978891-1bfa-4f9d-b996-87cb31308695
+organizer: 津具八幡宮
+shrine: 津具八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c2978891-1bfa-4f9d-b996-87cb31308695
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月15日」から導いたもので、神社が2026年の日程として発表したものではない

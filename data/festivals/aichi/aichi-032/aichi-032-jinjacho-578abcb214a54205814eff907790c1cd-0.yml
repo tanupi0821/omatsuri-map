@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-578abcb214a54205814eff907790c1cd-0
+name: 西小梛神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 西小梛神明社
+  address: 西尾市小梛町1丁目155番地
+  lat: null
+  lng: null
+station: 西尾駅
+recurrence: 4月第三日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=578abcb2-14a5-4205-814e-ff907790c1cd
+organizer: 西小梛神明社
+shrine: 西小梛神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=578abcb2-14a5-4205-814e-ff907790c1cd
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第三日曜日」から導いたもので、神社が2026年の日程として発表したものではない

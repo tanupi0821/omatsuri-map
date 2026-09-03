@@ -30,7 +30,7 @@ import {
   IS_FESTIVAL, NOT_FESTIVAL, KIND, pickDates, pickName, usableName,
 } from './_article.mjs';
 
-const CHECKED = '2026-08-05';
+const CHECKED = '2026-09-03';
 const RAW = join(ROOT, 'data', 'raw', 'tsushin');
 
 if (!existsSync(RAW)) {

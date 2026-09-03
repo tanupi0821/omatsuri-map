@@ -1,0 +1,35 @@
+id: fuchu-manual-aki-torinoichi
+name: 大國魂神社 酉の市（大鷲神社例祭）
+kind: 縁日
+scale: 市
+area:
+  pref: 東京都
+  city: 府中市
+  ward: null
+venue:
+  name: 大國魂神社（境内 大鷲神社）
+  address: 府中市宮町3-1
+  lat: null
+  lng: null
+organizer: 大國魂神社
+shrine: 大鷲神社
+tags:
+  - 縁日
+description: null
+links:
+  - title: 大國魂神社
+    url: https://www.ookunitamajinja.or.jp/matsuri/11-ootori.php
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+      - 2026-11-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://torinoichi.jp/
+    source_name: 浅草・酉の市（公式、関東の酉の市日程まとめ）
+    source_type: official
+    checked_at: 2026-09-03
+    note: 2026年（令和8年）は一の酉11月7日・二の酉11月19日の2回（三の酉は無し）。関東三大酉の市の一つ。参道に縁起熊手の露店が並ぶ（食べ物の屋台の有無は未確認）
+stalls: yes

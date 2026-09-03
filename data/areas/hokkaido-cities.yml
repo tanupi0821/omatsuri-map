@@ -1,0 +1,664 @@
+# 北海道のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 北海道
+cities:
+  - name: 虻田郡京極町
+    slug: kyogoku
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 虻田郡倶知安町
+    slug: kutchan
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 虻田郡真狩村
+    slug: makkari
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 虻田郡豊浦町
+    slug: toyoura
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 虻田郡留寿都村
+    slug: rusutsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 磯谷郡蘭越町
+    slug: rankoshi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 雨竜郡雨竜町
+    slug: uryu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 雨竜郡秩父別町
+    slug: chippubetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 雨竜郡北竜町
+    slug: hokuryu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 雨竜郡幌加内町
+    slug: horokanai
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 雨竜郡妹背牛町
+    slug: moseushi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 浦河郡浦河町
+    slug: urakawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 奥尻郡奥尻町
+    slug: okushiri
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 歌志内市
+    slug: utashinai
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 河東郡鹿追町
+    slug: shikaoi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 河東郡上士幌町
+    slug: kamishihoro
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 樺戸郡浦臼町
+    slug: urausu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 樺戸郡月形町
+    slug: tsukigata
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 樺戸郡新十津川町
+    slug: shintotsukawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 岩内郡共和町
+    slug: kyowa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 久遠郡せたな町
+    slug: setana
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 空知郡上砂川町
+    slug: kamisunagawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 空知郡上富良野町
+    slug: kamifurano
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 空知郡奈井江町
+    slug: naie
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 空知郡南富良野町
+    slug: minamifurano
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 空知郡南幌町
+    slug: nanporo
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 釧路郡釧路町
+    slug: kushiro-cho
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 古宇郡神恵内村
+    slug: kamoenai
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 古宇郡泊村
+    slug: tomari
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 古平郡古平町
+    slug: furubira
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 厚岸郡厚岸町
+    slug: akkeshi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 厚岸郡浜中町
+    slug: hamanaka
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 沙流郡日高町
+    slug: hidaka-hokkaido
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 沙流郡平取町
+    slug: biratori
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市厚別区
+    slug: sapporo-atsubetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市手稲区
+    slug: sapporo-teine
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市清田区
+    slug: sapporo-kiyota
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市西区
+    slug: sapporo-nishi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市白石区
+    slug: sapporo-shiroishi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 札幌市北区
+    slug: sapporo-kita
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 山越郡長万部町
+    slug: oshamambe
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 士別市
+    slug: shibetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 枝幸郡中頓別町
+    slug: nakatonbetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 枝幸郡浜頓別町
+    slug: hamatonbetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 斜里郡斜里町
+    slug: shari
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 斜里郡小清水町
+    slug: koshimizu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 斜里郡清里町
+    slug: kiyosato
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 寿都郡黒松内町
+    slug: kuromatsunai
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 寿都郡寿都町
+    slug: suttsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 十勝郡浦幌町
+    slug: urahoro
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 松前郡福島町
+    slug: fukushima-hokkaido
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡愛別町
+    slug: aibetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡下川町
+    slug: shimokawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡剣淵町
+    slug: kembuchi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡上川町
+    slug: kamikawa-cho
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡新得町
+    slug: shintoku
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡清水町
+    slug: shimizu-hokkaido
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡鷹栖町
+    slug: takasu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡東神楽町
+    slug: higashikagura
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡東川町
+    slug: higashikawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡比布町
+    slug: pippu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡美瑛町
+    slug: biei
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 上川郡和寒町
+    slug: wassamu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 常呂郡佐呂間町
+    slug: saroma
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 常呂郡置戸町
+    slug: oketo
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 石狩郡当別町
+    slug: tobetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 石狩市
+    slug: ishikari
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 川上郡弟子屈町
+    slug: teshikaga
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 川上郡標茶町
+    slug: shibecha
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 増毛郡増毛町
+    slug: mashike
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 中川郡池田町
+    slug: ikeda-hokkaido
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 中川郡中川町
+    slug: nakagawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 中川郡美深町
+    slug: bifuka
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 中川郡豊頃町
+    slug: toyokoro
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 天塩郡遠別町
+    slug: embetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 天塩郡天塩町
+    slug: teshio
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 天塩郡豊富町
+    slug: toyotomi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 天塩郡幌延町
+    slug: horonobe
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 島牧郡島牧村
+    slug: shimamaki
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 苫前郡羽幌町
+    slug: haboro
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 苫前郡初山別村
+    slug: shosanbetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 苫前郡苫前町
+    slug: tomamae
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 白老郡白老町
+    slug: shiraoi
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 桧山郡厚沢部町
+    slug: assabu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 桧山郡上ノ国町
+    slug: kaminokuni
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 標津郡標津町
+    slug: shibetsu-cho
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 富良野市
+    slug: furano
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 幌泉郡えりも町
+    slug: erimo
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 網走郡津別町
+    slug: tsubetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 網走郡美幌町
+    slug: bihoro
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 目梨郡羅臼町
+    slug: rausu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 紋別郡西興部村
+    slug: nishiokoppe
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 紋別郡滝上町
+    slug: takinoue
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 紋別郡湧別町
+    slug: yubetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 紋別郡雄武町
+    slug: oumu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 野付郡別海町
+    slug: betsukai
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 勇払郡安平町
+    slug: abira
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 勇払郡占冠村
+    slug: shimukappu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 有珠郡壮瞥町
+    slug: sobetsu
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 夕張郡栗山町
+    slug: kuriyama
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 夕張郡長沼町
+    slug: naganuma
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 夕張郡由仁町
+    slug: yuni
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 夕張市
+    slug: yubari
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 余市郡仁木町
+    slug: niki
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 余市郡赤井川村
+    slug: akaigawa
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 様似郡様似町
+    slug: samani
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 利尻郡利尻町
+    slug: rishiri
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 利尻郡利尻富士町
+    slug: rishirifuji
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 留萌郡小平町
+    slug: obira
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official
+  - name: 礼文郡礼文町
+    slug: rebun
+    sources:
+      - name: 北海道神社庁
+        url: https://hokkaidojinjacho.jp/jinja
+        type: official

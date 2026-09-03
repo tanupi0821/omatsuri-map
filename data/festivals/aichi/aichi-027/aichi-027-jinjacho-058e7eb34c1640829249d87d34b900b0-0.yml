@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-058e7eb34c1640829249d87d34b900b0-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 八幡社
+  address: 一宮市三ツ井２丁目１５番２１号
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 名鉄一宮
+recurrence: 10月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=058e7eb3-4c16-4082-9249-d87d34b900b0
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=058e7eb3-4c16-4082-9249-d87d34b900b0
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日」から導いたもので、神社が2026年の日程として発表したものではない

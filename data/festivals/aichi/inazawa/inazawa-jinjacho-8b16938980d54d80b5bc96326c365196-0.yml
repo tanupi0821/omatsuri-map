@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-8b16938980d54d80b5bc96326c365196-0
+name: 正明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 正明神社
+  address: 稲沢市正明寺一丁目四番一六号
+  lat: null
+  lng: null
+station: 名鉄 国府宮駅
+recurrence: 10月22日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8b169389-80d5-4d80-b5bc-96326c365196
+organizer: 正明神社
+shrine: 正明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8b169389-80d5-4d80-b5bc-96326c365196
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月22日」から導いたもので、神社が2026年の日程として発表したものではない

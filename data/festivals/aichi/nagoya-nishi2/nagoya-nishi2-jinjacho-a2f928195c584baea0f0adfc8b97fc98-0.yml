@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-a2f928195c584baea0f0adfc8b97fc98-0
+name: 大之伎神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 大之伎神社
+  address: 名古屋市西区大野木2丁目233番地
+  lat: null
+  lng: null
+station: 地下鉄庄内緑地公園駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a2f92819-5c58-4bae-a0f0-adfc8b97fc98
+organizer: 大之伎神社
+shrine: 大之伎神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a2f92819-5c58-4bae-a0f0-adfc8b97fc98
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

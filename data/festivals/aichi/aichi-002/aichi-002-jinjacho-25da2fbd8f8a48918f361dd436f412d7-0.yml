@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-25da2fbd8f8a48918f361dd436f412d7-0
+name: 日吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 日吉神社
+  address: 新城市日吉字原18番地
+  lat: null
+  lng: null
+station: JR飯田線東新町駅
+recurrence: 11月2日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=25da2fbd-8f8a-4891-8f36-1dd436f412d7
+organizer: 日吉神社
+shrine: 日吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=25da2fbd-8f8a-4891-8f36-1dd436f412d7
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月2日」から導いたもので、神社が2026年の日程として発表したものではない

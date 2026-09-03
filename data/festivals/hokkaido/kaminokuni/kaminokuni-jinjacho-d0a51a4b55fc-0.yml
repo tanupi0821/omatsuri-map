@@ -1,0 +1,33 @@
+id: kaminokuni-jinjacho-d0a51a4b55fc-0
+name: 瀧澤神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 桧山郡上ノ国町
+  ward: null
+venue:
+  name: 瀧澤神社
+  address: 桧山郡上ノ国町字扇石300番地
+  lat: null
+  lng: null
+recurrence: 8月13日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%80%a7%e6%be%a4%e7%a5%9e%e7%a4%be/
+organizer: 瀧澤神社
+shrine: 瀧澤神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%80%a7%e6%be%a4%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月13日」から導いたもので、神社が2026年の日程として発表したものではない

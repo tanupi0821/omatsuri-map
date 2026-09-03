@@ -1,0 +1,34 @@
+id: kobe-jinjacho-6301064-0
+name: 大山咋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 兵庫区
+venue:
+  name: 大山咋神社
+  address: 神戸市兵庫区山王町1-6-5
+  lat: 34.692181
+  lng: 135.163301
+recurrence: 5月5日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301064.html
+organizer: 大山咋神社
+shrine: 大山咋神社
+stalls: unknown
+tags:
+  - 春祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301064.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月5日」から導いたもので、神社が2026年の日程として発表したものではない

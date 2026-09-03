@@ -1,0 +1,33 @@
+id: hyogo-018-jinjacho-6302033-0
+name: 打出天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 打出天神社
+  address: 芦屋市春日町1-21
+  lat: 34.733702
+  lng: 135.315227
+recurrence: 10月17日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6302033.html
+organizer: 打出天神社
+shrine: 打出天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6302033.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

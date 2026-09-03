@@ -18,10 +18,34 @@ const KANJI_NUM = {
 };
 const WD = { 日: 0, 月: 1, 火: 2, 水: 3, 木: 4, 金: 5, 土: 6 };
 
+/**
+ * 漢数字「二十二」→ 22。1〜31 だけを見る（月日にしか使わない）。
+ * 読めなければ null を返し、呼び出し側は元の字のままにする。
+ */
+function kanjiNum(s) {
+  const D = { 一: 1, 二: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9 };
+  if (/^[一二三四五六七八九]$/.test(s)) return D[s];
+  if (s === '十') return 10;
+  let m = s.match(/^十([一二三四五六七八九])$/);
+  if (m) return 10 + D[m[1]];
+  m = s.match(/^([二三])十$/);
+  if (m) return D[m[1]] * 10;
+  m = s.match(/^([二三])十([一二三四五六七八九])$/);
+  if (m) return D[m[1]] * 10 + D[m[2]];
+  return null;
+}
+
 /** 全角数字→半角、空白の正規化 */
 export function normalize(s) {
   return String(s ?? '')
     .replace(/[０-９]/g, (c) => Z2H[c])
+    // **漢数字の月日**（「十月十五日」「九月十七日」「十月第二日曜日」）。
+    // 変換するのは月・日のすぐ前だけにする。ここを広げると
+    // 「二ノ午」「三の酉」のような十二支の表記まで数字に化けて読めなくなる
+    .replace(/[一二三四五六七八九十]{1,4}(?=[月日])/g, (t) => {
+      const n = kanjiNum(t);
+      return n === null ? t : String(n);
+    })
     // 「ー」は日付範囲の棒でもあり、カタカナの長音でもある。
     // 一律に変換すると「スポーツの日」が「スポ~ツの日」になって祝日に
     // 一致しなくなった。長音の可能性がある「ー」は数字・「日」に挟まれた
@@ -29,6 +53,12 @@ export function normalize(s) {
     .replace(/[〜～─―]/g, '~')
     .replace(/(?<=[0-9日])ー(?=[0-9])/g, '~')
     .replace(/\s+/g, '')
+    // 「毎年4月 第2日曜日」の頭。日付の決まりとしては意味を持たない
+    .replace(/^毎年/, '')
+    // 「10月の第二日曜日」の「の」。入っているだけで第◯曜日の規則から外れていた
+    .replace(/月の第/g, '月第')
+    // 「3月最後の日曜日」＝「3月最終日曜日」
+    .replace(/最後の/g, '最終')
     // 出典側で月が二重になっていることがある:「7月7月18日に近い日曜日」
     .replace(/^(\d{1,2})月(?=\d{1,2}月)/, '')
     .trim();
@@ -131,6 +161,25 @@ export function resolveFestivalDate(raw, year) {
   const s = normalize(raw);
   if (!s) return null;
 
+  // **「／」は別の祭りの区切り**（「9月9日／9月10日」「2月初午／11月15日」）。
+  // 範囲の記号として読むと「5月15日／11月酉の日」が 15日〜11日の空range になって
+  // その神社の例祭が丸ごと落ちる。1 つずつ解いて足し合わせる。
+  // 半角の「/」は「2022/7/23」のような書き損じに使われるので対象にしない
+  if (s.includes('／')) {
+    const parts = s.split('／').map((x) => x.trim()).filter(Boolean);
+    if (parts.length > 1) {
+      const all = new Set();
+      let exact = true;
+      for (const p of parts) {
+        const r = resolveFestivalDate(p, year);
+        if (!r) continue;
+        r.dates.forEach((d) => all.add(d));
+        if (!r.exact) exact = false;
+      }
+      return { dates: [...all].sort(), rule: raw, exact };
+    }
+  }
+
   // 祝日名
   //
   // **祝日名を含むだけで祝日当日を返してはいけない。**
@@ -227,6 +276,20 @@ export function resolveFestivalDate(raw, year) {
     return { dates: out, rule: raw, exact: false };
   }
 
+  // 「10月最終土・日」— 曜日が省かれた形。
+  // **2 つ並んでいるときだけ許す。**「10月最終日」は月の最終日の意味でありうる
+  m = s.match(/^(\d{1,2})月最終([日月火水木金土])[・、]([日月火水木金土])(?:曜日?)?$/);
+  if (m) {
+    const mo = +m[1];
+    const first = lastWeekday(year, mo, WD[m[2]]);
+    const base = Date.UTC(year, mo - 1, first);
+    const out = [0, 1].map((i) => {
+      const t = new Date(base + i * 86400000);
+      return iso(t.getUTCFullYear(), t.getUTCMonth() + 1, t.getUTCDate());
+    });
+    return { dates: out, rule: raw, exact: false };
+  }
+
   // 「9月秋分」「3月春分」
   m = s.match(/^(\d{1,2})月?(春分|秋分)/);
   if (m) {
@@ -239,6 +302,25 @@ export function resolveFestivalDate(raw, year) {
   if (m) {
     const r = nearestWeekday(year, +m[1], +m[2], WD[m[3]]);
     return r ? { dates: [iso(r.y, r.m, r.d)], rule: raw, exact: false } : null;
+  }
+
+  // 「10月第三土・日」「10月第2土、日曜日」「4月第1土日」
+  //
+  // **曜日が 2 つ並んでいるときだけ「曜日」の省略を許す。**
+  // 1 つのときまで許すと「10月第1日」を「10月第1日曜日」と読んでしまい、
+  // 「10月1日」のつもりで書かれていた場合に別の日になる。
+  // 2 つ並ぶ形（土・日）は曜日以外に読みようがない
+  m = s.match(/^(\d{1,2})月第([一二三四五六七八九十\d])(?:週)?([日月火水木金土])[・、]?([日月火水木金土])(?:曜日?)?$/);
+  if (m) {
+    const mo = +m[1];
+    const n = nthOf(m[2]);
+    const out = [];
+    for (const w of [m[3], m[4]]) {
+      const d = nthWeekday(year, mo, n, WD[w]);
+      if (d) out.push(iso(year, mo, d));
+    }
+    out.sort();
+    if (out.length) return { dates: out, rule: raw, exact: false };
   }
 
   // 「10月第1日曜日」「4月第2土・日曜日」「8月第一土曜日」
@@ -263,7 +345,8 @@ export function resolveFestivalDate(raw, year) {
   }
 
   // 「10月9日~10日」「10月9日・10日」「9月3・4日」（1つ目の「日」が省かれることがある）
-  m = s.match(/^(\d{1,2})月(\d{1,2})日?[~・、](\d{1,2})日/);
+  // 「10月8.9日」のように中黒の代わりに読点や小数点が使われることもある
+  m = s.match(/^(\d{1,2})月(\d{1,2})日?[~・、.](\d{1,2})日/);
   if (m) {
     const mo = +m[1];
     const out = [];

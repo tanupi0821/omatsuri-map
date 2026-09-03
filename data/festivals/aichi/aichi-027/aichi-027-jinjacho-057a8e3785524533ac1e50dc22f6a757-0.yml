@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-057a8e3785524533ac1e50dc22f6a757-0
+name: 金刀比羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 金刀比羅社
+  address: 一宮市丹陽町重吉字新田郷１０２１－１
+  lat: null
+  lng: null
+station: 名鉄犬山線 岩倉駅
+recurrence: 10月1日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=057a8e37-8552-4533-ac1e-50dc22f6a757
+organizer: 金刀比羅社
+shrine: 金刀比羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=057a8e37-8552-4533-ac1e-50dc22f6a757
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月1日」から導いたもので、神社が2026年の日程として発表したものではない

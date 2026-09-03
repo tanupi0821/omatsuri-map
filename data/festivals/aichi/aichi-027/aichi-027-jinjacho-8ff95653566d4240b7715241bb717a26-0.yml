@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-8ff95653566d4240b7715241bb717a26-0
+name: 西宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 西宮社
+  address: 一宮市木曽川町門間字東大坪43
+  lat: null
+  lng: null
+station: 名鉄名古屋本線 新木曽川駅
+recurrence: 10月第3土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8ff95653-566d-4240-b771-5241bb717a26
+organizer: 西宮社
+shrine: 西宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8ff95653-566d-4240-b771-5241bb717a26
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3土曜日」から導いたもので、神社が2026年の日程として発表したものではない

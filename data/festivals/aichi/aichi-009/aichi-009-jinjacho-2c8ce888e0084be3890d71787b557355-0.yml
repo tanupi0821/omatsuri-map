@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-2c8ce888e0084be3890d71787b557355-0
+name: 八柱神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 八柱神社
+  address: 安城市川島町藤野31番地の2
+  lat: null
+  lng: null
+station: 名鉄西尾線 碧海古井駅
+recurrence: 10月第三土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2c8ce888-e008-4be3-890d-71787b557355
+organizer: 八柱神社
+shrine: 八柱神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2c8ce888-e008-4be3-890d-71787b557355
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第三土曜日」から導いたもので、神社が2026年の日程として発表したものではない

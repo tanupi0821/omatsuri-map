@@ -1,0 +1,34 @@
+id: aichi-030-jinjacho-6edfaea3ed514309b0a0797534af329b-0
+name: 壬生神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡美浜町
+  ward: null
+venue:
+  name: 壬生神社
+  address: 知多郡美浜町大字河和字岡の脇
+  lat: null
+  lng: null
+station: 名鉄 河和駅
+recurrence: 4月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6edfaea3-ed51-4309-b0a0-797534af329b
+organizer: 壬生神社
+shrine: 壬生神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6edfaea3-ed51-4309-b0a0-797534af329b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

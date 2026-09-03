@@ -1,0 +1,34 @@
+id: kobe-jinjacho-6301170-0
+name: 神戸水天宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 神戸水天宮
+  address: 神戸市長田区長田天神町5-5-1
+  lat: 34.68206
+  lng: 135.146196
+recurrence: 10月5日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301170.html
+organizer: 神戸水天宮
+shrine: 神戸水天宮
+stalls: unknown
+tags:
+  - 秋の大祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301170.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月5日」から導いたもので、神社が2026年の日程として発表したものではない

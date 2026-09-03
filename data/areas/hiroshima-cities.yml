@@ -1,0 +1,82 @@
+# 広島県のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 広島県
+cities:
+  - name: 安芸高田市
+    slug: akitakata
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 安芸太田町
+    slug: akiota
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 海田町
+    slug: kaita
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 広島市安芸区
+    slug: hiroshima-aki
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 広島市佐伯区
+    slug: hiroshima-saeki
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 広島市東区
+    slug: hiroshima-higashi
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 坂町
+    slug: saka
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 神石高原町
+    slug: jinsekikogen
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 大崎上島町
+    slug: osakikamijima
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 大竹市
+    slug: otake
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 廿日市市
+    slug: hatsukaichi
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 府中町
+    slug: fuchucho
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official
+  - name: 北広島町
+    slug: kitahiroshima
+    sources:
+      - name: 広島県神社庁
+        url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/
+        type: official

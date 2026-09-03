@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-e828c28c7b934e5788964a59dc0e17e1-0
+name: 吉田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 吉田神社
+  address: 西尾市吉良町吉田須原120番地
+  lat: null
+  lng: null
+station: 名鉄線吉良吉田駅
+recurrence: 10月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e828c28c-7b93-4e57-8896-4a59dc0e17e1
+organizer: 吉田神社
+shrine: 吉田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e828c28c-7b93-4e57-8896-4a59dc0e17e1
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

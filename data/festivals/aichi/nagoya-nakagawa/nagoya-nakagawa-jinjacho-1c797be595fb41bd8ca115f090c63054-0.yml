@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-1c797be595fb41bd8ca115f090c63054-0
+name: 富田忠魂社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 富田忠魂社
+  address: 名古屋市中川区東春田2-98
+  lat: null
+  lng: null
+station: JR関西本線春田駅 下車
+recurrence: 11月第二水曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1c797be5-95fb-41bd-8ca1-15f090c63054
+organizer: 富田忠魂社
+shrine: 富田忠魂社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1c797be5-95fb-41bd-8ca1-15f090c63054
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第二水曜日」から導いたもので、神社が2026年の日程として発表したものではない

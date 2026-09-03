@@ -1,0 +1,34 @@
+id: hyogo-003-jinjacho-6304010-0
+name: 難波八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: 難波八幡神社
+  address: 尼崎市東難波町3-6-15
+  lat: 34.726796
+  lng: 135.410694
+recurrence: 10月15日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6304010.html
+organizer: 難波八幡神社
+shrine: 難波八幡神社
+stalls: unknown
+tags:
+  - 秋季大祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6304010.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

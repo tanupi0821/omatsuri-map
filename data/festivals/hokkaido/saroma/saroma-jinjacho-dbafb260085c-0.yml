@@ -1,0 +1,33 @@
+id: saroma-jinjacho-dbafb260085c-0
+name: 佐呂間神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 常呂郡佐呂間町
+  ward: null
+venue:
+  name: 佐呂間神社
+  address: 常呂郡佐呂間町字宮前町96番地
+  lat: null
+  lng: null
+recurrence: 9月25日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%bd%90%e5%91%82%e9%96%93%e7%a5%9e%e7%a4%be/
+organizer: 佐呂間神社
+shrine: 佐呂間神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%bd%90%e5%91%82%e9%96%93%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月25日」から導いたもので、神社が2026年の日程として発表したものではない

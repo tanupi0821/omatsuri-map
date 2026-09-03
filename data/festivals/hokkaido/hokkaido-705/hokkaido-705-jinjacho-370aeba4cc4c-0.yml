@@ -1,0 +1,33 @@
+id: hokkaido-705-jinjacho-370aeba4cc4c-0
+name: 伏見稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 伏見稲荷神社
+  address: 札幌市中央区伏見2丁目2番17号
+  lat: null
+  lng: null
+recurrence: 9月9日
+recurrence_source: https://hokkaidojinjacho.jp/%e4%bc%8f%e8%a6%8b%e7%a8%b2%e8%8d%b7%e7%a5%9e%e7%a4%be/
+organizer: 伏見稲荷神社
+shrine: 伏見稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e4%bc%8f%e8%a6%8b%e7%a8%b2%e8%8d%b7%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月9日」から導いたもので、神社が2026年の日程として発表したものではない

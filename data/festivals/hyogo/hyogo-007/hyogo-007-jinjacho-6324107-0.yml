@@ -1,0 +1,33 @@
+id: hyogo-007-jinjacho-6324107-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 養父市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 養父市尾崎33-5
+  lat: 35.381033
+  lng: 134.666419
+recurrence: 10月9日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6324107.html
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6324107.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月9日」から導いたもので、神社が2026年の日程として発表したものではない

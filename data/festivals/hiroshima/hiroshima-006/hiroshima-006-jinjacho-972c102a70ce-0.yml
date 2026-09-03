@@ -1,0 +1,33 @@
+id: hiroshima-006-jinjacho-972c102a70ce-0
+name: 氏八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 三原市
+  ward: null
+venue:
+  name: 氏八幡神社
+  address: 三原市大和町和木王子原1118番地
+  lat: 34.50790603080739
+  lng: 132.92171810000002
+recurrence: 11月2日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=20
+organizer: 氏八幡神社
+shrine: 氏八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=20
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月2日」から導いたもので、神社が2026年の日程として発表したものではない

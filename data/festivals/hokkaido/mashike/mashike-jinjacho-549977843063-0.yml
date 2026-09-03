@@ -1,0 +1,33 @@
+id: mashike-jinjacho-549977843063-0
+name: 舎熊神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 増毛郡増毛町
+  ward: null
+venue:
+  name: 舎熊神社
+  address: 増毛郡増毛町大字舎熊村字舎熊244番地
+  lat: null
+  lng: null
+recurrence: 7月20日
+recurrence_source: https://hokkaidojinjacho.jp/%e8%88%8e%e7%86%8a%e7%a5%9e%e7%a4%be/
+organizer: 舎熊神社
+shrine: 舎熊神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-20
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e8%88%8e%e7%86%8a%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月20日」から導いたもので、神社が2026年の日程として発表したものではない

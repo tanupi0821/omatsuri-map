@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-cc3229afd2214a8a8a24fdbe505ec24b-0
+name: 板屋稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 板屋稲荷神社
+  address: 岡崎市板屋町４３
+  lat: null
+  lng: null
+station: 名鉄本線 東岡崎駅
+recurrence: 3月初午の日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc3229af-d221-4a8a-8a24-fdbe505ec24b
+organizer: 板屋稲荷神社
+shrine: 板屋稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cc3229af-d221-4a8a-8a24-fdbe505ec24b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月初午の日」から導いたもので、神社が2026年の日程として発表したものではない

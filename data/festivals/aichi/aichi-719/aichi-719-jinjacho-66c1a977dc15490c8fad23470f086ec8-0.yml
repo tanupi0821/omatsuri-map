@@ -1,0 +1,35 @@
+id: aichi-719-jinjacho-66c1a977dc15490c8fad23470f086ec8-0
+name: 那古野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 那古野神社
+  address: 名古屋市中区丸の内2丁目3番17号
+  lat: null
+  lng: null
+station: 地下鉄 丸の内駅 市役所駅
+recurrence: 7月15日・16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=66c1a977-dc15-490c-8fad-23470f086ec8
+organizer: 那古野神社
+shrine: 那古野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+      - 2026-07-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=66c1a977-dc15-490c-8fad-23470f086ec8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月15日・16日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -40,8 +40,12 @@ if (!existsSync(RAW)) {
 /** 「市区町村」→ [{name, address}] */
 const byCity = new Map();
 for (const pref of readdirSync(RAW)) {
+  // *-index / *-url は一覧の控え（XML や URL 表）で、社ごとの JSON ではない
+  if (/-(index|url)$/.test(pref)) continue;
   for (const f of readdirSync(join(RAW, pref))) {
-    const j = JSON.parse(readFileSync(join(RAW, pref, f), 'utf8'));
+    if (!f.endsWith('.json')) continue;
+    let j;
+    try { j = JSON.parse(readFileSync(join(RAW, pref, f), 'utf8')); } catch { continue; }
     if (!j.name || !j.address) continue;
     // 神社庁の社号に神社IDが付いたまま入っていることがある（「皇大神宮 1206021000」）。
     // これを落とさないと社号が一致せず、その神社だけ住所を入れられない

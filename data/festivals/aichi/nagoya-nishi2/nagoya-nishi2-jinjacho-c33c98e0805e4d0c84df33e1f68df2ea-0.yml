@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-c33c98e0805e4d0c84df33e1f68df2ea-0
+name: 六所神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 六所神社
+  address: 名古屋市西区比良3丁目１５３番地
+  lat: null
+  lng: null
+station: 東海交通事業 城北線 比良駅
+recurrence: 9月敬老の日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c33c98e0-805e-4d0c-84df-33e1f68df2ea
+organizer: 六所神社
+shrine: 六所神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-21
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c33c98e0-805e-4d0c-84df-33e1f68df2ea
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月敬老の日」から導いたもので、神社が2026年の日程として発表したものではない

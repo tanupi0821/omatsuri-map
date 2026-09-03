@@ -1,0 +1,38 @@
+id: hyogo-005-manual-aki-kenka
+name: 灘のけんか祭り（松原八幡神社秋季例大祭）
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 姫路市
+  ward: null
+venue:
+  name: 松原八幡神社
+  address: 姫路市白浜町
+  lat: null
+  lng: null
+station: 山陽電車「白浜の宮駅」 徒歩約5分
+recurrence: 10月14日（宵宮）・15日（本宮）
+recurrence_source: https://www.nadamatsuri.jp/schedule/
+organizer: 松原八幡神社
+shrine: 松原八幡神社
+tags:
+  - 山車
+description: null
+links:
+  - title: 灘のけんか祭り・松原八幡神社秋季例大祭（公式）
+    url: https://www.nadamatsuri.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.nadamatsuri.jp/
+    source_name: 灘のけんか祭り公式サイト
+    source_type: official
+    checked_at: 2026-09-03
+    note: 毎年10月14日・15日固定開催。3基の神輿をぶつけ合う神事と、7ヶ村の屋台（山車）が練り競う「屋台練り」が中心。ここでの「屋台」は山車を指し、食べ物の露店の有無は未確認
+stalls: yes

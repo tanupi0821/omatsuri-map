@@ -1,0 +1,33 @@
+id: aichi-018-jinjacho-9296c33fc5de459683ee2e3ce272461d-0
+name: 久須神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡南知多町
+  ward: null
+venue:
+  name: 久須神社
+  address: 知多郡南知多町大字内海字楠35
+  lat: null
+  lng: null
+recurrence: 9月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9296c33f-c5de-4596-83ee-2e3ce272461d
+organizer: 久須神社
+shrine: 久須神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9296c33f-c5de-4596-83ee-2e3ce272461d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月16日」から導いたもので、神社が2026年の日程として発表したものではない

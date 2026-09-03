@@ -1,0 +1,33 @@
+id: hokkaido-009-jinjacho-60fddaf5f58c-0
+name: 栗澤神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 岩見沢市
+  ward: null
+venue:
+  name: 栗澤神社
+  address: 岩見沢市栗沢町幸穂13番地
+  lat: null
+  lng: null
+recurrence: 9月18日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%a0%97%e6%be%a4%e7%a5%9e%e7%a4%be/
+organizer: 栗澤神社
+shrine: 栗澤神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%a0%97%e6%be%a4%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月18日」から導いたもので、神社が2026年の日程として発表したものではない

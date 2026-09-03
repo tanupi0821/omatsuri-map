@@ -1,0 +1,34 @@
+id: aichi-031-jinjacho-4328020478734bf8890c490e384a0312-0
+name: 金刀比羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 刈谷市
+  ward: null
+venue:
+  name: 金刀比羅社
+  address: 刈谷市小垣江町塩浜55番地
+  lat: null
+  lng: null
+station: 名鉄三河線 小垣江駅
+recurrence: 4月10日（神賑行事は10日以降の日曜日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=43280204-7873-4bf8-890c-490e384a0312
+organizer: 金刀比羅社
+shrine: 金刀比羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=43280204-7873-4bf8-890c-490e384a0312
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月10日（神賑行事は10日以降の日曜日）」から導いたもので、神社が2026年の日程として発表したものではない

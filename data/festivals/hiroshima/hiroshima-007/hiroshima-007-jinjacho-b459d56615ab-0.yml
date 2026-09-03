@@ -1,0 +1,33 @@
+id: hiroshima-007-jinjacho-b459d56615ab-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 尾道市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 尾道市百島町宮迴1446
+  lat: 34.376797406250525
+  lng: 133.27201581824647
+recurrence: 10月第3日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=26
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=26
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-719-jinjacho-eb79ee7ee2bb4aff9b98c3465bff08d5-0
+name: 山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中区
+  ward: null
+venue:
+  name: 山神社
+  address: 名古屋市中区松原1丁目6番18号
+  lat: null
+  lng: null
+station: 地下鉄 大須観音駅
+recurrence: 11月7日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=eb79ee7e-e2bb-4aff-9b98-c3465bff08d5
+organizer: 山神社
+shrine: 山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=eb79ee7e-e2bb-4aff-9b98-c3465bff08d5
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月7日」から導いたもので、神社が2026年の日程として発表したものではない

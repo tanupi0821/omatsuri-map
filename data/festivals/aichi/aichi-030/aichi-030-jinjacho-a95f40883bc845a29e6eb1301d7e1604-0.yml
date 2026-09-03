@@ -1,0 +1,33 @@
+id: aichi-030-jinjacho-a95f40883bc845a29e6eb1301d7e1604-0
+name: 十二神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡美浜町
+  ward: null
+venue:
+  name: 十二神社
+  address: 知多郡美浜町大字北方字東側43
+  lat: null
+  lng: null
+recurrence: 4月3日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a95f4088-3bc8-45a2-9e6e-b1301d7e1604
+organizer: 十二神社
+shrine: 十二神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a95f4088-3bc8-45a2-9e6e-b1301d7e1604
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月3日」から導いたもので、神社が2026年の日程として発表したものではない

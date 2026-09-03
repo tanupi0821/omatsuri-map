@@ -1,0 +1,33 @@
+id: hiroshima-701-jinjacho-90b4d1c935f0-0
+name: 榎野山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 東広島市
+  ward: null
+venue:
+  name: 榎野山神社
+  address: 東広島市黒瀬町宗近柳国字権現原2768番地
+  lat: 34.32758192134023
+  lng: 132.71218049451215
+recurrence: 10月第2日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+organizer: 榎野山神社
+shrine: 榎野山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=29
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

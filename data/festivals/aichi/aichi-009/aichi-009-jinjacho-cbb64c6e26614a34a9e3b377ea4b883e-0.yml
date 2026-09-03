@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-cbb64c6e26614a34a9e3b377ea4b883e-0
+name: 市杵島姫社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 市杵島姫社
+  address: 安城市新田町宮町66番地
+  lat: null
+  lng: null
+station: 名鉄 北安城駅
+recurrence: 11月3日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cbb64c6e-2661-4a34-a9e3-b377ea4b883e
+organizer: 市杵島姫社
+shrine: 市杵島姫社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cbb64c6e-2661-4a34-a9e3-b377ea4b883e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月3日」から導いたもので、神社が2026年の日程として発表したものではない

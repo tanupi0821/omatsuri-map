@@ -1,0 +1,33 @@
+id: hyogo-017-jinjacho-6322207-0
+name: 大岡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 豊岡市
+  ward: null
+venue:
+  name: 大岡神社
+  address: 豊岡市日高町大岡278-1
+  lat: 35.50487
+  lng: 134.731519
+recurrence: 10月15日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6322207.html
+organizer: 大岡神社
+shrine: 大岡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6322207.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

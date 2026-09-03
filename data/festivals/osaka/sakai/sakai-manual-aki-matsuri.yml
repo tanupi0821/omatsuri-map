@@ -1,0 +1,33 @@
+id: sakai-manual-aki-matsuri
+name: 堺まつり
+kind: 秋祭り
+scale: 市
+area:
+  pref: 大阪府
+  city: 堺市
+  ward: null
+venue:
+  name: 大小路筋ほか堺市堺区一帯
+  address: null
+  lat: null
+  lng: null
+organizer: 公益社団法人堺観光コンベンション協会
+tags: []
+description: null
+links:
+  - title: 堺観光ガイド 堺まつり
+    url: https://www.sakai-tcb.or.jp/about-sakai/sakaimatsuri/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.sakai-tcb.or.jp/event/detail/883
+    source_name: 堺観光コンベンション協会
+    source_type: official
+    checked_at: 2026-09-03
+    note: 第53回堺まつり。鉄炮隊の実演やふとん太鼓の担ぎ合いなど。堺最大のイベント
+stalls: unknown

@@ -1,0 +1,33 @@
+id: aichi-718-jinjacho-b491a0e8128f4df2aec96a50b0341ef4-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 八幡社
+  address: 名古屋市瑞穂区東栄町五丁目十八番地ノ四
+  lat: null
+  lng: null
+recurrence: 10月第2日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b491a0e8-128f-4df2-aec9-6a50b0341ef4
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b491a0e8-128f-4df2-aec9-6a50b0341ef4
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜」から導いたもので、神社が2026年の日程として発表したものではない

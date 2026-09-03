@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-ba35e756231042caa57502d2a526e7cf-0
+name: 尾張大國靈神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 尾張大國靈神社
+  address: 稲沢市国府宮1丁目1番1号
+  lat: null
+  lng: null
+station: 名鉄 国府宮駅
+recurrence: 5月6日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ba35e756-2310-42ca-a575-02d2a526e7cf
+organizer: 尾張大國靈神社
+shrine: 尾張大國靈神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-06
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ba35e756-2310-42ca-a575-02d2a526e7cf
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月6日」から導いたもので、神社が2026年の日程として発表したものではない

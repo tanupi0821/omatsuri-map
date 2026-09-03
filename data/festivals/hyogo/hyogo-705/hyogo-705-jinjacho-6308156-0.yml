@@ -1,0 +1,33 @@
+id: hyogo-705-jinjacho-6308156-0
+name: 岩戸神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 丹波市
+  ward: null
+venue:
+  name: 岩戸神社
+  address: 丹波市春日町国領39-1
+  lat: 35.140805
+  lng: 135.124353
+recurrence: 10月17日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6308156.html
+organizer: 岩戸神社
+shrine: 岩戸神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6308156.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

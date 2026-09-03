@@ -1,0 +1,33 @@
+id: furubira-jinjacho-40c809bf2feb-0
+name: 恵比須神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 古平郡古平町
+  ward: null
+venue:
+  name: 恵比須神社
+  address: 古平郡古平町大字浜町989番地
+  lat: null
+  lng: null
+recurrence: 9月第2日曜日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%81%b5%e6%af%94%e9%a0%88%e7%a5%9e%e7%a4%be-4/
+organizer: 恵比須神社
+shrine: 恵比須神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%81%b5%e6%af%94%e9%a0%88%e7%a5%9e%e7%a4%be-4/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

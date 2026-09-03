@@ -1,0 +1,33 @@
+id: otake-jinjacho-9ef7f79d769e-0
+name: 大歳神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 大竹市
+  ward: null
+venue:
+  name: 大歳神社
+  address: 大竹市比作3779番地
+  lat: 34.2327249280447
+  lng: 132.1841481061516
+recurrence: 10月17日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=28
+organizer: 大歳神社
+shrine: 大歳神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=28
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

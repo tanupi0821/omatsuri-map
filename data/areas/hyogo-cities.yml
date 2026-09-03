@@ -1,0 +1,52 @@
+# 兵庫県のエリア定義。scripts/gen-areas.mjs が神社庁のクロール結果から生成する。
+# 手で書いた area ファイルで定義済みの市町村は含めない。
+pref: 兵庫県
+cities:
+  - name: 加古郡稲美町
+    slug: inami
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 加古郡播磨町
+    slug: harima
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 小野市
+    slug: ono
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 神崎郡市川町
+    slug: ichikawa-cho
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 赤穂郡上郡町
+    slug: kamigori
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 赤穂市
+    slug: ako
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 多可郡多可町
+    slug: taka
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official
+  - name: 揖保郡太子町
+    slug: taishi
+    sources:
+      - name: 兵庫県神社庁
+        url: https://www.hyogo-jinjacho.com/
+        type: official

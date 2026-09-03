@@ -1,0 +1,33 @@
+id: hyogo-002-jinjacho-6314051-0
+name: 具平親王神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古川市
+  ward: null
+venue:
+  name: 具平親王神社
+  address: 加古川市野口町古大内457
+  lat: 34.749322
+  lng: 134.854512
+recurrence: 10月17日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6314051.html
+organizer: 具平親王神社
+shrine: 具平親王神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6314051.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-tempaku-jinjacho-34eeec98d92f4f6e954122c8f9709bb8-0
+name: 菅田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市天白区
+  ward: null
+venue:
+  name: 菅田神社
+  address: 名古屋市天白区菅田2丁目103番地
+  lat: null
+  lng: null
+station: 地下鉄 桜通線 野並駅
+recurrence: 10月第1日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=34eeec98-d92f-4f6e-9541-22c8f9709bb8
+organizer: 菅田神社
+shrine: 菅田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=34eeec98-d92f-4f6e-9541-22c8f9709bb8
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜」から導いたもので、神社が2026年の日程として発表したものではない

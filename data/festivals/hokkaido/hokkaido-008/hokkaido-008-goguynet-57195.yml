@@ -1,0 +1,31 @@
+id: hokkaido-008-goguynet-57195
+name: ばんえい夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 帯広市
+  ward: null
+venue:
+  name: 帯広市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.banei-keiba.or.jp/ed_detail.php?id=1641
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://obihiro.goguynet.jp/2026/08/14/banei-keiba_banei_natsumatsuri20260815-17/
+    source_name: 号外NET 帯広市
+    source_type: media
+    checked_at: 2026-09-03

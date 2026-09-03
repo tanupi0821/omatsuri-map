@@ -1,0 +1,34 @@
+id: nagoya-nakamura-jinjacho-80c7beffa8f54382955ddcd43bc02c4d-0
+name: 下中八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中村区
+  ward: null
+venue:
+  name: 下中八幡宮
+  address: 名古屋市中村区押木田町1-1
+  lat: null
+  lng: null
+station: 地下鉄中村公園
+recurrence: 10月第2月曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=80c7beff-a8f5-4382-955d-dcd43bc02c4d
+organizer: 下中八幡宮
+shrine: 下中八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=80c7beff-a8f5-4382-955d-dcd43bc02c4d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2月曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: aichi-015-jinjacho-816f3c558f8042f5a7dc917e35999e47-0
+name: 八柱社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: みよし市
+  ward: null
+venue:
+  name: 八柱社
+  address: みよし市明知町西ノ口1番地
+  lat: null
+  lng: null
+recurrence: 10月第4日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=816f3c55-8f80-42f5-a7dc-917e35999e47
+organizer: 八柱社
+shrine: 八柱社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=816f3c55-8f80-42f5-a7dc-917e35999e47
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

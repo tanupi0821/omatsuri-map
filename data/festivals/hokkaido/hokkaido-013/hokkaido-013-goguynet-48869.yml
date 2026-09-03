@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 函館市
+    url: https://hakodate.goguynet.jp/2026/04/22/post-48869/
 occurrences:
   - year: 2026
     dates:

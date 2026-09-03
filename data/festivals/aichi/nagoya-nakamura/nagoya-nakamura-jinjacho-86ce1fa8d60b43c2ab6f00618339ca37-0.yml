@@ -1,0 +1,34 @@
+id: nagoya-nakamura-jinjacho-86ce1fa8d60b43c2ab6f00618339ca37-0
+name: 津島社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中村区
+  ward: null
+venue:
+  name: 津島社
+  address: 名古屋市中村区名駅南2-1-13
+  lat: null
+  lng: null
+station: 地下鉄名古屋駅
+recurrence: 7月第3土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=86ce1fa8-d60b-43c2-ab6f-00618339ca37
+organizer: 津島社
+shrine: 津島社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=86ce1fa8-d60b-43c2-ab6f-00618339ca37
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月第3土曜日」から導いたもので、神社が2026年の日程として発表したものではない

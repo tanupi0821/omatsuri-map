@@ -1,0 +1,34 @@
+id: handa-jinjacho-a26741704038408d83b17ea69b704da4-0
+name: 愛宕社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 半田市
+  ward: null
+venue:
+  name: 愛宕社
+  address: 半田市新居町3丁目1番地
+  lat: null
+  lng: null
+station: JR武豊線 乙川駅
+recurrence: 5月3日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a2674170-4038-408d-83b1-7ea69b704da4
+organizer: 愛宕社
+shrine: 愛宕社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a2674170-4038-408d-83b1-7ea69b704da4
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月3日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: ono-jinjacho-6311016-0
+name: 日吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 小野市
+  ward: null
+venue:
+  name: 日吉神社
+  address: 小野市日吉町666-2
+  lat: 34.845611
+  lng: 134.973264
+recurrence: 10月13日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6311016.html
+organizer: 日吉神社
+shrine: 日吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6311016.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月13日」から導いたもので、神社が2026年の日程として発表したものではない

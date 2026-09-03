@@ -1,0 +1,37 @@
+id: nagasaki-002-manual-aki-kunchi
+name: 佐世保くんち
+kind: 例大祭
+scale: 市
+area:
+  pref: 長崎県
+  city: 佐世保市
+  ward: null
+venue:
+  name: 亀山八幡宮
+  address: 佐世保市八幡町3-3
+  lat: null
+  lng: null
+recurrence: 11月1日〜3日
+recurrence_source: https://www.sasebo99.com/event/61270
+organizer: させぼおくんち振興会
+shrine: 亀山八幡宮
+tags: []
+description: null
+links:
+  - title: させぼ観光情報 佐世保くんち
+    url: https://www.sasebo99.com/event/61270
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+      - 2026-11-02
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.sasebo99.com/event/61270
+    source_name: させぼ・小値賀観光情報（公式）
+    source_type: official
+    checked_at: 2026-09-03
+    note: 亀山八幡宮の秋の例祭。毎年11月1日〜3日固定開催。1日は神社から松浦公園への「お下り」、3日は「お上り」の行列
+stalls: unknown

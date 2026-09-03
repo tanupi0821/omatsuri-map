@@ -1,0 +1,38 @@
+id: kawagoe-manual-aki-matsuri
+name: 川越まつり
+kind: 例大祭
+scale: 市
+area:
+  pref: 埼玉県
+  city: 川越市
+  ward: null
+venue:
+  name: 川越氷川神社・川越市街地（蔵造りの町並み周辺）
+  address: null
+  lat: null
+  lng: null
+recurrence: 10月第3土曜日・日曜日
+recurrence_source: https://koedo.or.jp/event/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A-4/
+organizer: 川越まつり協賛会（川越市観光課内）
+shrine: 川越氷川神社
+tags:
+  - 山車
+  - 神輿
+description: null
+links:
+  - title: 小江戸川越観光協会 川越まつり
+    url: https://koedo.or.jp/event/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A-4/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://koedo.or.jp/event/%E5%B7%9D%E8%B6%8A%E3%81%BE%E3%81%A4%E3%82%8A-4/
+    source_name: 小江戸川越観光協会
+    source_type: official
+    checked_at: 2026-09-03
+    note: 川越氷川神社の例大祭・神幸祭と山車行事から成る。10月17日は宵山（18〜19時頃）、18日は市役所前山車巡行。時刻詳細は川越まつり公式サイトで順次公表予定
+stalls: unknown

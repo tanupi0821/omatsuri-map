@@ -16,19 +16,21 @@ recurrence: 11月酉日
 recurrence_source: http://www.tokyo-jinjacho.or.jp/taito/3133
 organizer: 鷲神社
 shrine: 鷲神社
-tags: []
+tags:
+  - 縁日
 description: null
 links: []
 occurrences:
   - year: 2026
     dates:
       - 2026-11-07
+      - 2026-11-19
     start_time: null
     end_time: null
-    status: estimated
-    source_url: http://www.tokyo-jinjacho.or.jp/taito/3133
-    source_name: 東京都神社庁
+    status: confirmed
+    source_url: https://torinoichi.jp/
+    source_name: 浅草・酉の市（公式）
     source_type: official
-    checked_at: 2026-08-02
-    note: 日付は神社庁が公開している例祭日「11月酉日」から導いたもので、神社が2026年の日程として発表したものではない
-stalls: unknown
+    checked_at: 2026-09-03
+    note: 2026年（令和8年）は一の酉11月7日・二の酉11月19日の2回（三の酉は無し）。会場は隣接する長國寺と共同で「酉の市」を開催
+stalls: yes

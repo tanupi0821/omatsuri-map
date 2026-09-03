@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-75a12d802045433ea858d91fc8b68097-0
+name: 佐脇神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 佐脇神社
+  address: 豊川市御津町上佐脇深田４４番地
+  lat: null
+  lng: null
+station: JR線 愛知御津 名鉄線 小田渕
+recurrence: 4月第一日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=75a12d80-2045-433e-a858-d91fc8b68097
+organizer: 佐脇神社
+shrine: 佐脇神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=75a12d80-2045-433e-a858-d91fc8b68097
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第一日曜」から導いたもので、神社が2026年の日程として発表したものではない

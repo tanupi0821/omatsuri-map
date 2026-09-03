@@ -1,0 +1,33 @@
+id: hyogo-005-jinjacho-6316225-0
+name: 竹宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 姫路市
+  ward: null
+venue:
+  name: 竹宮神社
+  address: 姫路市山田町南山田1139
+  lat: 34.910125
+  lng: 134.787617
+recurrence: 10月体育の日の前日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6316225.html
+organizer: 竹宮神社
+shrine: 竹宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6316225.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月体育の日の前日」から導いたもので、神社が2026年の日程として発表したものではない

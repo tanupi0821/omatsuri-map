@@ -1,0 +1,33 @@
+id: hyogo-014-jinjacho-6318027-0
+name: 構荒神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: たつの市
+  ward: null
+venue:
+  name: 構荒神社
+  address: たつの市揖西町構207
+  lat: 34.858015
+  lng: 134.510022
+recurrence: 7月23日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6318027.html
+organizer: 構荒神社
+shrine: 構荒神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-23
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6318027.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月23日」から導いたもので、神社が2026年の日程として発表したものではない

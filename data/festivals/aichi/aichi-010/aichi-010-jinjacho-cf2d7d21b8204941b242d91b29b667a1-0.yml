@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-cf2d7d21b8204941b242d91b29b667a1-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 神明社
+  address: 田原市仁崎町山ノ田16
+  lat: null
+  lng: null
+station: 豊橋鉄道渥美線三河田原駅
+recurrence: 10月11日（10月第二土曜日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cf2d7d21-b820-4941-b242-d91b29b667a1
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=cf2d7d21-b820-4941-b242-d91b29b667a1
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月11日（10月第二土曜日）」から導いたもので、神社が2026年の日程として発表したものではない

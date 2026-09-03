@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-48535d8debc04640a64574aff19c9f3d-0
+name: 船山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 船山神社
+  address: 岡崎市岡町船山13
+  lat: null
+  lng: null
+station: 名鉄本線東岡崎駅
+recurrence: 10月10日スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=48535d8d-ebc0-4640-a645-74aff19c9f3d
+organizer: 船山神社
+shrine: 船山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=48535d8d-ebc0-4640-a645-74aff19c9f3d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

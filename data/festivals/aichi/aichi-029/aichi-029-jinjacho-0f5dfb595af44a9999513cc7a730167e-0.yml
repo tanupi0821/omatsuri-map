@@ -1,0 +1,33 @@
+id: aichi-029-jinjacho-0f5dfb595af44a9999513cc7a730167e-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 春日井市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 春日井市大手町1番地
+  lat: null
+  lng: null
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0f5dfb59-5af4-4a99-9951-3cc7a730167e
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0f5dfb59-5af4-4a99-9951-3cc7a730167e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

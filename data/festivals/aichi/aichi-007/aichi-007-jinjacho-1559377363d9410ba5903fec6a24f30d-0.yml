@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-1559377363d9410ba5903fec6a24f30d-0
+name: 神明宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 神明宮
+  address: 岡崎市明大寺町字諸神3番地
+  lat: null
+  lng: null
+station: 名鉄本線 東岡崎駅
+recurrence: 10月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=15593773-63d9-410b-a590-3fec6a24f30d
+organizer: 神明宮
+shrine: 神明宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=15593773-63d9-410b-a590-3fec6a24f30d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-kita-jinjacho-a902ba49570741888a9cc08ae9078318-0
+name: 六所社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市北区
+  ward: null
+venue:
+  name: 六所社
+  address: 名古屋市北区下飯田町１丁目１番地
+  lat: null
+  lng: null
+station: 地下鉄名城線志賀本通・平安通
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a902ba49-5707-4188-8a9c-c08ae9078318
+organizer: 六所社
+shrine: 六所社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a902ba49-5707-4188-8a9c-c08ae9078318
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

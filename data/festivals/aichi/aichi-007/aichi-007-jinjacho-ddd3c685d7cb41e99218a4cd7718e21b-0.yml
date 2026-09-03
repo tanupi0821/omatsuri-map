@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-ddd3c685d7cb41e99218a4cd7718e21b-0
+name: 和志取神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 和志取神社
+  address: 岡崎市西本郷町御立4
+  lat: null
+  lng: null
+station: 名鉄 宇頭駅
+recurrence: 10月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ddd3c685-d7cb-41e9-9218-a4cd7718e21b
+organizer: 和志取神社
+shrine: 和志取神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=ddd3c685-d7cb-41e9-9218-a4cd7718e21b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月12日」から導いたもので、神社が2026年の日程として発表したものではない

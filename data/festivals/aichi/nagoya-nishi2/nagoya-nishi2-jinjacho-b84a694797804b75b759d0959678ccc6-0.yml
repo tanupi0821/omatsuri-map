@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-b84a694797804b75b759d0959678ccc6-0
+name: 宗像神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 宗像神社
+  address: 名古屋市西区上名古屋2丁目7番2号
+  lat: null
+  lng: null
+station: 地下鉄 浄心駅
+recurrence: 10月9日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b84a6947-9780-4b75-b759-d0959678ccc6
+organizer: 宗像神社
+shrine: 宗像神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b84a6947-9780-4b75-b759-d0959678ccc6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月9日」から導いたもので、神社が2026年の日程として発表したものではない

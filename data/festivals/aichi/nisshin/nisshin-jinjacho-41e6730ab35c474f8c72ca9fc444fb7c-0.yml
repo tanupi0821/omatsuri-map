@@ -1,0 +1,34 @@
+id: nisshin-jinjacho-41e6730ab35c474f8c72ca9fc444fb7c-0
+name: 神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 日進市
+  ward: null
+venue:
+  name: 神明社
+  address: 日進市岩崎町神明5-25
+  lat: null
+  lng: null
+station: 名鉄バス名古屋・瀬戸線 ７３，７４ 岩崎神明
+recurrence: 9月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41e6730a-b35c-474f-8c72-ca9fc444fb7c
+organizer: 神明社
+shrine: 神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=41e6730a-b35c-474f-8c72-ca9fc444fb7c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

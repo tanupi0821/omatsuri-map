@@ -1,0 +1,33 @@
+id: aichi-706-jinjacho-df0dfc25908149f59eed3c2775bdd1ab-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 弥富市
+  ward: null
+venue:
+  name: 八幡社
+  address: 弥富市馬ケ地2丁目62番地
+  lat: null
+  lng: null
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=df0dfc25-9081-49f5-9eed-3c2775bdd1ab
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=df0dfc25-9081-49f5-9eed-3c2775bdd1ab
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

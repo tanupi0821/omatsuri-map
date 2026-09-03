@@ -1,0 +1,29 @@
+id: hachioji-goguynet-101549
+name: しょうが祭（永福稲荷神社例大祭）
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 永福稲荷神社・竹の花公園（東京都八王子市新町）
+  address: null
+  lat: null
+  lng: null
+organizer: 新町町会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://hachioji.goguynet.jp/2026/08/28/shouga-fes/
+    source_name: 号外NET 八王子市
+    source_type: media
+    checked_at: 2026-09-03

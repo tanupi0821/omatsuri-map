@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-b34bb0bbe5f44fd7ada7456fd4c97c3f-0
+name: 金山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 金山神社
+  address: 岡崎市井沢町字皿田4番地
+  lat: null
+  lng: null
+station: 名鉄東岡崎駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b34bb0bb-e5f4-4fd7-ada7-456fd4c97c3f
+organizer: 金山神社
+shrine: 金山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b34bb0bb-e5f4-4fd7-ada7-456fd4c97c3f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

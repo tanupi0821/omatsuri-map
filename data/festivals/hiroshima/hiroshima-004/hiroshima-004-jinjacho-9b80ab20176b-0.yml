@@ -1,0 +1,33 @@
+id: hiroshima-004-jinjacho-9b80ab20176b-0
+name: 賀茂神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 竹原市
+  ward: null
+venue:
+  name: 賀茂神社
+  address: 竹原市東野町字中条1483
+  lat: 34.380152606766494
+  lng: 132.88004965382845
+recurrence: 10月第2日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=30
+organizer: 賀茂神社
+shrine: 賀茂神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=30
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-kita-jinjacho-327650c505c14c72b3eea20accce06b9-0
+name: 八王子神社春日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市北区
+  ward: null
+venue:
+  name: 八王子神社春日神社
+  address: 名古屋市北区清水二丁目１５－２０
+  lat: null
+  lng: null
+station: 名鉄瀬戸線清水
+recurrence: 5月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=327650c5-05c1-4c72-b3ee-a20accce06b9
+organizer: 八王子神社春日神社
+shrine: 八王子神社春日神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-05-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=327650c5-05c1-4c72-b3ee-a20accce06b9
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「5月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

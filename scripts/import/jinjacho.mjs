@@ -20,7 +20,10 @@ import { resolveFestivalDate, normalize } from '../lib/jpdate.mjs';
 import { loadAreaList } from '../lib/areas.mjs';
 
 const YEAR = 2026;
-const CHECKED = '2026-08-02';
+// 県ごとの最終確認日（その県をクロールした日）。既存ファイルは上書きしないので、
+// あとから足した県だけが新しい日付になる
+const CHECKED_DEFAULT = '2026-08-02';
+const CHECKED_BY_PREF = { aichi: '2026-09-03', hiroshima: '2026-09-03', hyogo: '2026-09-03', hokkaido: '2026-09-03' };
 
 // 参拝者が集まる祭り
 const INCLUDE = /例大祭|例祭|大祭|祭礼|天王祭|祇園|夏祭|春祭|秋祭|収穫祭|火祭|湯立|獅子舞|神幸祭|浜降|山王祭|酉の市|ど[んン]ど/;
@@ -98,7 +101,18 @@ function existingKeys() {
 }
 
 // ------------------------------------------------------------------------ 実行
-const PREF_NAME = { kanagawa: '神奈川県', saitama: '埼玉県', tokyo: '東京都' };
+const PREF_NAME = {
+  kanagawa: '神奈川県', saitama: '埼玉県', tokyo: '東京都',
+  // 愛知は JSON API から取る（scripts/crawl/jinjacho-aichi.mjs）。
+  // 例祭日を持つ神社が 3,100 社あり、その 3 分の 2 が 10 月に集まる
+  aichi: '愛知県',
+  // 広島は一覧ページの地図用属性に例祭日と緯度経度が入っている
+  hiroshima: '広島県',
+  // 兵庫は社ごとの詳細ページに例祭日がある
+  hyogo: '兵庫県',
+  // 北海道は支部ごとの一覧から社ごとのページへ。9 月の例祭が多い
+  hokkaido: '北海道',
+};
 const PREF_DIRS = readdirSync(join(ROOT, 'data', 'raw', 'jinjacho'));
 const cities = areaIndex();
 const skipKeys = existingKeys();
@@ -125,7 +139,11 @@ for (const prefDir of PREF_DIRS) {
     if (!area) continue;
     if (s.city) area.city = s.city; // 東京はページに自治体名が入っている
 
-    const cityInfo = cities.get(norm(area.city));
+    // 郡の扱いは出典によって違う（住所は「桧山郡江差町」、エリア定義は「江差町」）。
+    // 郡付きで引けなければ郡を落として引き直す。**逆はしない**
+    // （郡を勝手に補うと、同名の町を別の郡のものと取り違える）
+    const cityInfo = cities.get(norm(area.city))
+      ?? (/^.{1,6}郡./.test(area.city) ? cities.get(norm(area.city.replace(/^.{1,6}郡/, ''))) : null);
     if (!cityInfo) {
       stats.noArea++; PP.noArea++;
       unknownAreas.add(area.city);
@@ -181,6 +199,9 @@ for (const prefDir of PREF_DIRS) {
         organizer: s.name,
         venue: s.name,
         address: area.rest || null,
+        // 広島・兵庫の神社庁は鎮座地の緯度経度も公開している
+        lat: typeof s.lat === 'number' ? s.lat : null,
+        lng: typeof s.lng === 'number' ? s.lng : null,
         shrine: s.name,
         scale: '地区',
         station: s.station ?? null,
@@ -205,7 +226,7 @@ for (const [prefSlug, rows] of byPref) {
     pref: PREF_NAME[prefSlug],
     prefSlug,
     label: `神社庁（${PREF_NAME[prefSlug]}）`,
-    checkedAt: CHECKED,
+    checkedAt: CHECKED_BY_PREF[prefSlug] ?? CHECKED_DEFAULT,
     year: YEAR,
   });
 }

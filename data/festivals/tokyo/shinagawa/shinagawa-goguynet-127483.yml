@@ -1,0 +1,32 @@
+id: shinagawa-goguynet-127483
+name: 戸越八幡神社 例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 戸越八幡神社（品川区戸越2-6-23）
+  address: 品川区戸越2-6-23
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: https://togoshihachiman.jp/8053/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/08/31/post-127483/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-09-03

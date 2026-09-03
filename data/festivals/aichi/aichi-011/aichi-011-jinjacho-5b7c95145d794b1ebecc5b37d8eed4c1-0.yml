@@ -1,0 +1,34 @@
+id: aichi-011-jinjacho-5b7c95145d794b1ebecc5b37d8eed4c1-0
+name: 大目神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 瀬戸市
+  ward: null
+venue:
+  name: 大目神社
+  address: 瀬戸市巡間町1番地
+  lat: null
+  lng: null
+station: 無し
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5b7c9514-5d79-4b1e-becc-5b37d8eed4c1
+organizer: 大目神社
+shrine: 大目神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5b7c9514-5d79-4b1e-becc-5b37d8eed4c1
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

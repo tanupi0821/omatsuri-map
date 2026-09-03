@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-66a2bad4f24c48d8991e6849b7989106-0
+name: 三宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 三宮社
+  address: 稲沢市大塚南1丁目27番地
+  lat: null
+  lng: null
+station: 名鉄 国府宮駅
+recurrence: 10月12日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=66a2bad4-f24c-48d8-991e-6849b7989106
+organizer: 三宮社
+shrine: 三宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=66a2bad4-f24c-48d8-991e-6849b7989106
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月12日」から導いたもので、神社が2026年の日程として発表したものではない

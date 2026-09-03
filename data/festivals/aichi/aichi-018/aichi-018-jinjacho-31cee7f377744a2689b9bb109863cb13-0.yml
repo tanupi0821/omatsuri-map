@@ -1,0 +1,33 @@
+id: aichi-018-jinjacho-31cee7f377744a2689b9bb109863cb13-0
+name: 豊受神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡南知多町
+  ward: null
+venue:
+  name: 豊受神社
+  address: 知多郡南知多町大字大井字北側42
+  lat: null
+  lng: null
+recurrence: 10月第2土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=31cee7f3-7774-4a26-89b9-bb109863cb13
+organizer: 豊受神社
+shrine: 豊受神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=31cee7f3-7774-4a26-89b9-bb109863cb13
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

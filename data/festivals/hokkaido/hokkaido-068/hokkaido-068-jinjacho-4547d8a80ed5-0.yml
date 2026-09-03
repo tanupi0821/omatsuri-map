@@ -1,0 +1,33 @@
+id: hokkaido-068-jinjacho-4547d8a80ed5-0
+name: 珸瑶瑁金刀比羅神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 根室市
+  ward: null
+venue:
+  name: 珸瑶瑁金刀比羅神社
+  address: 根室市珸瑶瑁1丁目128番地
+  lat: null
+  lng: null
+recurrence: 9月28日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%8f%b8%e7%91%b6%e7%91%81%e9%87%91%e5%88%80%e6%af%94%e7%be%85%e7%a5%9e%e7%a4%be/
+organizer: 珸瑶瑁金刀比羅神社
+shrine: 珸瑶瑁金刀比羅神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-28
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%8f%b8%e7%91%b6%e7%91%81%e9%87%91%e5%88%80%e6%af%94%e7%be%85%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月28日」から導いたもので、神社が2026年の日程として発表したものではない

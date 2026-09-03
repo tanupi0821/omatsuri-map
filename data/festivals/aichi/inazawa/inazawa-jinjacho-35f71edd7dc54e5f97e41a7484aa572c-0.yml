@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-35f71edd7dc54e5f97e41a7484aa572c-0
+name: 布智神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 布智神社
+  address: 稲沢市祖父江町本甲宮東4番地
+  lat: null
+  lng: null
+station: 名鉄 尾西線 森上駅
+recurrence: 10月13日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=35f71edd-7dc5-4e5f-97e4-1a7484aa572c
+organizer: 布智神社
+shrine: 布智神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=35f71edd-7dc5-4e5f-97e4-1a7484aa572c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月13日」から導いたもので、神社が2026年の日程として発表したものではない

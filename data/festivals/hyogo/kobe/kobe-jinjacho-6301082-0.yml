@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301082-0
+name: 原野天津彦根神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 原野天津彦根神社
+  address: 神戸市北区山田町原野八王子1
+  lat: 34.768608
+  lng: 135.148935
+recurrence: 10月12日(隔年)
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301082.html
+organizer: 原野天津彦根神社
+shrine: 原野天津彦根神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301082.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月12日(隔年)」から導いたもので、神社が2026年の日程として発表したものではない

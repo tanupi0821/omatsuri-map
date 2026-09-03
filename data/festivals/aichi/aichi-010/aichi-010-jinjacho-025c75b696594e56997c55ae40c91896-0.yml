@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-025c75b696594e56997c55ae40c91896-0
+name: 華山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 華山神社
+  address: 田原市田原町田江17番地４
+  lat: null
+  lng: null
+station: 三河田原駅
+recurrence: 10月11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=025c75b6-9659-4e56-997c-55ae40c91896
+organizer: 華山神社
+shrine: 華山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=025c75b6-9659-4e56-997c-55ae40c91896
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月11日」から導いたもので、神社が2026年の日程として発表したものではない

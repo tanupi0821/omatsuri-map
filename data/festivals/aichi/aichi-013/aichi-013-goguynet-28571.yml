@@ -1,0 +1,29 @@
+id: aichi-013-goguynet-28571
+name: 盆踊りって、なんとなく昔ながらのイベントでしょ？
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 蒲郡市
+  ward: null
+venue:
+  name: ラグーナ
+  address: 蒲郡市海陽町2-2
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: 10:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://toyokawa-gamagori.goguynet.jp/2026/08/09/post-28571/
+    source_name: 号外NET 豊川市・蒲郡市
+    source_type: media
+    checked_at: 2026-09-03

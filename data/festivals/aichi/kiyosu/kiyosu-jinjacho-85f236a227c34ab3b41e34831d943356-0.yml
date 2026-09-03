@@ -1,0 +1,34 @@
+id: kiyosu-jinjacho-85f236a227c34ab3b41e34831d943356-0
+name: 稲荷社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 清須市
+  ward: null
+venue:
+  name: 稲荷社
+  address: 清須市上条2丁目4番地の15
+  lat: null
+  lng: null
+station: 名鉄本線新清州
+recurrence: 10月22日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=85f236a2-27c3-4ab3-b41e-34831d943356
+organizer: 稲荷社
+shrine: 稲荷社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=85f236a2-27c3-4ab3-b41e-34831d943356
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月22日」から導いたもので、神社が2026年の日程として発表したものではない

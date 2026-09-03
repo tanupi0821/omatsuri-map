@@ -1,0 +1,33 @@
+id: hyogo-705-jinjacho-6308139-0
+name: 大神宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 丹波市
+  ward: null
+venue:
+  name: 大神宮神社
+  address: 丹波市青垣町田井縄700
+  lat: 35.240044
+  lng: 135.027568
+recurrence: 8月18日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6308139.html
+organizer: 大神宮神社
+shrine: 大神宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6308139.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月18日」から導いたもので、神社が2026年の日程として発表したものではない

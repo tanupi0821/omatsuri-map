@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-09a011077ab24d7b94bad18d25991542-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 西尾市刈宿町後畑57番地
+  lat: null
+  lng: null
+station: 西尾駅
+recurrence: 11月第一土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=09a01107-7ab2-4d7b-94ba-d18d25991542
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=09a01107-7ab2-4d7b-94ba-d18d25991542
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第一土曜日」から導いたもので、神社が2026年の日程として発表したものではない

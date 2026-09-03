@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-f6336385782d48d6bbc83c1beb6760cf-0
+name: 中嶋宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 中嶋宮
+  address: 一宮市萩原町中島字丸宮33番地
+  lat: null
+  lng: null
+station: 名鉄尾西線・津島行 苅安賀駅
+recurrence: 4月11日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f6336385-782d-48d6-bbc8-3c1beb6760cf
+organizer: 中嶋宮
+shrine: 中嶋宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f6336385-782d-48d6-bbc8-3c1beb6760cf
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月11日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301209-0
+name: 西盛日吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 西区
+venue:
+  name: 西盛日吉神社
+  address: 神戸市西区押部谷町西盛652
+  lat: 34.756116
+  lng: 135.030722
+recurrence: 10月22日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301209.html
+organizer: 西盛日吉神社
+shrine: 西盛日吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301209.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月22日」から導いたもので、神社が2026年の日程として発表したものではない

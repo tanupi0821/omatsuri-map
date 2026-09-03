@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-83329c17bb7a4868ad155a2acb585a56-0
+name: 六社神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 六社神社
+  address: 新城市名越字宮ノ前13番地
+  lat: null
+  lng: null
+station: JR飯田線三河槙原駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=83329c17-bb7a-4868-ad15-5a2acb585a56
+organizer: 六社神社
+shrine: 六社神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=83329c17-bb7a-4868-ad15-5a2acb585a56
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

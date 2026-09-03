@@ -1,0 +1,33 @@
+id: tachikawa-goguynet-127790
+name: 諏訪神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 立川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 諏訪神社公式サイト
+    url: https://suwajinja.or.jp/index.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tachikawa-akishima.goguynet.jp/2026/08/23/suwa-jinja-reitaisai-2026/
+    source_name: 号外NET 立川市・昭島市
+    source_type: media
+    checked_at: 2026-09-03

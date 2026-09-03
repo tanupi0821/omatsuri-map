@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-b311e4879f61422a9c2fcba4ededf718-0
+name: 子守神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 子守神社
+  address: 新城市門谷字宮下13
+  lat: null
+  lng: null
+station: ＪＲ飯田線本長篠駅
+recurrence: 3月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b311e487-9f61-422a-9c2f-cba4ededf718
+organizer: 子守神社
+shrine: 子守神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b311e487-9f61-422a-9c2f-cba4ededf718
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

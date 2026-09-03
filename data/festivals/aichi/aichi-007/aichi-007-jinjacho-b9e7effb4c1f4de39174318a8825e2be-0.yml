@@ -1,0 +1,33 @@
+id: aichi-007-jinjacho-b9e7effb4c1f4de39174318a8825e2be-0
+name: 大友天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 大友天神社
+  address: 岡崎市西大友町字天神10番地
+  lat: null
+  lng: null
+recurrence: 10月18日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b9e7effb-4c1f-4de3-9174-318a8825e2be
+organizer: 大友天神社
+shrine: 大友天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b9e7effb-4c1f-4de3-9174-318a8825e2be
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月18日」から導いたもので、神社が2026年の日程として発表したものではない

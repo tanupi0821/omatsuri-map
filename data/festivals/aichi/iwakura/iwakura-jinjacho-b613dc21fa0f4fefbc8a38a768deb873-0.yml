@@ -1,0 +1,34 @@
+id: iwakura-jinjacho-b613dc21fa0f4fefbc8a38a768deb873-0
+name: 白髭社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岩倉市
+  ward: null
+venue:
+  name: 白髭社
+  address: 岩倉市北島町宮西1,350
+  lat: null
+  lng: null
+station: 名鉄犬山線 岩倉駅
+recurrence: 10月体育の日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b613dc21-fa0f-4fef-bc8a-38a768deb873
+organizer: 白髭社
+shrine: 白髭社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=b613dc21-fa0f-4fef-bc8a-38a768deb873
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月体育の日」から導いたもので、神社が2026年の日程として発表したものではない

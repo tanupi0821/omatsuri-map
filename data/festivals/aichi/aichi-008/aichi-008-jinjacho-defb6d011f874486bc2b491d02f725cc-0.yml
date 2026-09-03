@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-defb6d011f874486bc2b491d02f725cc-0
+name: 仲条新草社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 仲条新草社
+  address: 豊川市三谷原町石坪１６番地
+  lat: null
+  lng: null
+station: JR飯田線豊川駅又は名鉄豊川稲荷駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=defb6d01-1f87-4486-bc2b-491d02f725cc
+organizer: 仲条新草社
+shrine: 仲条新草社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=defb6d01-1f87-4486-bc2b-491d02f725cc
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

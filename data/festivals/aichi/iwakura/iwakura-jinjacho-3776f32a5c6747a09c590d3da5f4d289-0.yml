@@ -1,0 +1,34 @@
+id: iwakura-jinjacho-3776f32a5c6747a09c590d3da5f4d289-0
+name: 神明大一社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岩倉市
+  ward: null
+venue:
+  name: 神明大一社
+  address: 岩倉市中本町西出口4
+  lat: null
+  lng: null
+station: 名鉄犬山線 岩倉駅
+recurrence: 10月17日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3776f32a-5c67-47a0-9c59-0d3da5f4d289
+organizer: 神明大一社
+shrine: 神明大一社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3776f32a-5c67-47a0-9c59-0d3da5f4d289
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月17日」から導いたもので、神社が2026年の日程として発表したものではない

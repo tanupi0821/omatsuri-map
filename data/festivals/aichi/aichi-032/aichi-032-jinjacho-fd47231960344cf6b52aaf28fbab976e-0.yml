@@ -1,0 +1,35 @@
+id: aichi-032-jinjacho-fd47231960344cf6b52aaf28fbab976e-0
+name: 前野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 前野神社
+  address: 西尾市一色町前野新田1番地
+  lat: null
+  lng: null
+station: 吉良吉田駅
+recurrence: 11月第一土・日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fd472319-6034-4cf6-b52a-af28fbab976e
+organizer: 前野神社
+shrine: 前野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+      - 2026-11-07
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fd472319-6034-4cf6-b52a-af28fbab976e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月第一土・日」から導いたもので、神社が2026年の日程として発表したものではない

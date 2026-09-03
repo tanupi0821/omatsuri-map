@@ -1,0 +1,33 @@
+id: hyogo-703-jinjacho-6328048-0
+name: 愛宕神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 淡路市
+  ward: null
+venue:
+  name: 愛宕神社
+  address: 淡路市久留麻字岩滝1337
+  lat: 34.512056
+  lng: 134.975316
+recurrence: 8月24日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6328048.html
+organizer: 愛宕神社
+shrine: 愛宕神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-24
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6328048.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月24日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: makkari-jinjacho-c887d2b4e31b-0
+name: 真狩神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 虻田郡真狩村
+  ward: null
+venue:
+  name: 真狩神社
+  address: 虻田郡真狩村字社79番地
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%9c%9f%e7%8b%a9%e7%a5%9e%e7%a4%be/
+organizer: 真狩神社
+shrine: 真狩神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%9c%9f%e7%8b%a9%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

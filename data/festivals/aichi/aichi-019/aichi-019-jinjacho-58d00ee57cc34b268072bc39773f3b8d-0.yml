@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-58d00ee57cc34b268072bc39773f3b8d-0
+name: 吉田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 吉田神社
+  address: 豊橋市関屋町2番地
+  lat: null
+  lng: null
+station: JR/名鉄豊橋駅～豊鉄市内線の札木停留場
+recurrence: 7月第3金曜~日曜
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=58d00ee5-7cc3-4b26-8072-bc39773f3b8d
+organizer: 吉田神社
+shrine: 吉田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=58d00ee5-7cc3-4b26-8072-bc39773f3b8d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月第3金曜~日曜」から導いたもので、神社が2026年の日程として発表したものではない

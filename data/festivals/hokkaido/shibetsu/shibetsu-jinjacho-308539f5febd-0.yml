@@ -1,0 +1,33 @@
+id: shibetsu-jinjacho-308539f5febd-0
+name: 士別神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 士別市
+  ward: null
+venue:
+  name: 士別神社
+  address: 士別市東8条北1丁目436番地（九十九山）
+  lat: null
+  lng: null
+recurrence: 7月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e5%a3%ab%e5%88%a5%e7%a5%9e%e7%a4%be/
+organizer: 士別神社
+shrine: 士別神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-07-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e5%a3%ab%e5%88%a5%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「7月15日」から導いたもので、神社が2026年の日程として発表したものではない

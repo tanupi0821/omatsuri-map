@@ -454,3 +454,25 @@
 /a/tokyo/tokyo-006/ /a/tokyo/tokyo-023/ 301
 /a/tokyo/tokyo-007/ /a/tokyo/tokyo-022/ 301
 /a/tokyo/tokyo-012/ /a/tokyo/tokyo-005/ 301
+
+# 2026-09-04 此花区・住吉区の置き場所を定義どおりに統一
+/f/osaka-006-konohana-asahishinmeisha/ /f/osaka-915-konohana-asahishinmeisha/ 301
+/f/osaka-006-konohana-hongu-karasumiya/ /f/osaka-915-konohana-hongu-karasumiya/ 301
+/f/osaka-006-konohana-miotsukushi-sumiyoshi/ /f/osaka-915-konohana-miotsukushi-sumiyoshi/ 301
+/f/osaka-006-konohana-nishikujo/ /f/osaka-915-konohana-nishikujo/ 301
+/f/osaka-006-konohana-shikanjima-sumiyoshi/ /f/osaka-915-konohana-shikanjima-sumiyoshi/ 301
+/f/osaka-006-konohana-ubusuna/ /f/osaka-915-konohana-ubusuna/ 301
+/f/osaka-024-sumi-bandaihigashi/ /f/osaka-916-sumi-bandaihigashi/ 301
+/f/osaka-024-sumi-karita/ /f/osaka-916-sumi-karita/ 301
+/f/osaka-024-sumi-karitakita/ /f/osaka-916-sumi-karitakita/ 301
+/f/osaka-024-sumi-minamisumiyoshi-festa/ /f/osaka-916-sumi-minamisumiyoshi-festa/ 301
+/f/osaka-024-sumi-minamisumiyoshi3/ /f/osaka-916-sumi-minamisumiyoshi3/ 301
+/f/osaka-024-sumi-nagai/ /f/osaka-916-sumi-nagai/ 301
+/f/osaka-024-sumi-sawanocho1/ /f/osaka-916-sumi-sawanocho1/ 301
+/f/osaka-024-sumi-sentai/ /f/osaka-916-sumi-sentai/ 301
+/f/osaka-024-sumi-shimizugaoka/ /f/osaka-916-sumi-shimizugaoka/ 301
+/f/osaka-024-sumi-shinan/ /f/osaka-916-sumi-shinan/ 301
+/f/osaka-024-sumi-sumiyoshi5/ /f/osaka-916-sumi-sumiyoshi5/ 301
+/f/osaka-024-sumi-yamanouchi/ /f/osaka-916-sumi-yamanouchi/ 301
+/a/osaka/osaka-006/ /a/osaka/osaka-915/ 301
+/a/osaka/osaka-024/ /a/osaka/osaka-916/ 301

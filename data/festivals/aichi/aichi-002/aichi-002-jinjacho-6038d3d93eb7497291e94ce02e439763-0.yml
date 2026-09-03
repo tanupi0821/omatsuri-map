@@ -1,0 +1,34 @@
+id: aichi-002-jinjacho-6038d3d93eb7497291e94ce02e439763-0
+name: 大脇神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 新城市
+  ward: null
+venue:
+  name: 大脇神社
+  address: 新城市庭野字薬師前6番地ノ2
+  lat: null
+  lng: null
+station: JR飯田線新城駅
+recurrence: 4月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6038d3d9-3eb7-4972-91e9-4ce02e439763
+organizer: 大脇神社
+shrine: 大脇神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=6038d3d9-3eb7-4972-91e9-4ce02e439763
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

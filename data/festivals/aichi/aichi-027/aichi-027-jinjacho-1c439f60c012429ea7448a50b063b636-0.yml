@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-1c439f60c012429ea7448a50b063b636-0
+name: 白山社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 白山社
+  address: 一宮市浅井町前野字郷西31番地
+  lat: null
+  lng: null
+station: ＪＲ東海道本線木曽川駅
+recurrence: 10月第二日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1c439f60-c012-429e-a744-8a50b063b636
+organizer: 白山社
+shrine: 白山社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=1c439f60-c012-429e-a744-8a50b063b636
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二日曜日」から導いたもので、神社が2026年の日程として発表したものではない

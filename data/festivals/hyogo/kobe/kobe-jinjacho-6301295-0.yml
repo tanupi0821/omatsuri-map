@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301295-0
+name: 大将軍神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 西区
+venue:
+  name: 大将軍神社
+  address: 神戸市西区平野町常本466
+  lat: 34.720764
+  lng: 134.987793
+recurrence: 1月4日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301295.html
+organizer: 大将軍神社
+shrine: 大将軍神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301295.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月4日」から導いたもので、神社が2026年の日程として発表したものではない

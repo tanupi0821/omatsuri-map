@@ -1,0 +1,33 @@
+id: aichi-026-jinjacho-da0c77678d794a95ad3fb30da06e7c3e-0
+name: 菅安社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: あま市
+  ward: null
+venue:
+  name: 菅安社
+  address: あま市蜂須賀北本郷1343番地の1
+  lat: null
+  lng: null
+recurrence: 10月14日近くの土日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da0c7767-8d79-4a95-ad3f-b30da06e7c3e
+organizer: 菅安社
+shrine: 菅安社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=da0c7767-8d79-4a95-ad3f-b30da06e7c3e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日近くの土日」から導いたもので、神社が2026年の日程として発表したものではない

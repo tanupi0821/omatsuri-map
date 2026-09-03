@@ -1,0 +1,34 @@
+id: nagoya-nakagawa-jinjacho-a37da89884fc45d2a7aa0b6b1699066b-0
+name: 雨宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市中川区
+  ward: null
+venue:
+  name: 雨宮社
+  address: 名古屋市中川区中郷2-164
+  lat: null
+  lng: null
+station: 市営バス中郷町 下車
+recurrence: 10月第二月曜（体育の日）
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a37da898-84fc-45d2-a7aa-0b6b1699066b
+organizer: 雨宮社
+shrine: 雨宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a37da898-84fc-45d2-a7aa-0b6b1699066b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二月曜（体育の日）」から導いたもので、神社が2026年の日程として発表したものではない

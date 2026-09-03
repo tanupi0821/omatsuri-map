@@ -1,0 +1,34 @@
+id: hyogo-003-jinjacho-6304001-0
+name: 貴布禰神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: 貴布禰神社
+  address: 尼崎市西本町6-238
+  lat: 34.716985
+  lng: 135.408946
+recurrence: 8月2日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6304001.html
+organizer: 貴布禰神社
+shrine: 貴布禰神社
+stalls: unknown
+tags:
+  - 貴布禰だんじりまつり
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6304001.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月2日」から導いたもので、神社が2026年の日程として発表したものではない

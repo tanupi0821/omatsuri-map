@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-751c34737f60409896110232fe0a3aec-0
+name: 犬山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 犬山神社
+  address: 犬山市大字犬山字北古券12
+  lat: null
+  lng: null
+station: 名鉄犬山線 犬山駅
+recurrence: 4月22日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=751c3473-7f60-4098-9611-0232fe0a3aec
+organizer: 犬山神社
+shrine: 犬山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-22
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=751c3473-7f60-4098-9611-0232fe0a3aec
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月22日」から導いたもので、神社が2026年の日程として発表したものではない

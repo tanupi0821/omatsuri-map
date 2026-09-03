@@ -1,0 +1,33 @@
+id: hyogo-002-jinjacho-6314012-0
+name: 日岡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加古川市
+  ward: null
+venue:
+  name: 日岡神社
+  address: 加古川市加古川町美乃利496
+  lat: 34.768586
+  lng: 134.851127
+recurrence: 6月16日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6314012.html
+organizer: 日岡神社
+shrine: 日岡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6314012.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月16日」から導いたもので、神社が2026年の日程として発表したものではない

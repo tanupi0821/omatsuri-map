@@ -1,0 +1,33 @@
+id: hiroshima-009-jinjacho-a3deb41796e5-0
+name: 熊野神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 庄原市
+  ward: null
+venue:
+  name: 熊野神社
+  address: 庄原市西城町熊野1160番地
+  lat: 35.027901
+  lng: 133.081268799999
+recurrence: 11月3日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=24
+organizer: 熊野神社
+shrine: 熊野神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=24
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「11月3日」から導いたもので、神社が2026年の日程として発表したものではない

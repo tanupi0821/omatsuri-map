@@ -1,0 +1,34 @@
+id: aichi-028-jinjacho-0849511d27ce41f8a3cb1c2f8044800d-0
+name: 霞浦神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 碧南市
+  ward: null
+venue:
+  name: 霞浦神社
+  address: 碧南市平七町1丁目21番地
+  lat: null
+  lng: null
+station: 名鉄線 碧南中央駅
+recurrence: 10月第4日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0849511d-27ce-41f8-a3cb-1c2f8044800d
+organizer: 霞浦神社
+shrine: 霞浦神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0849511d-27ce-41f8-a3cb-1c2f8044800d
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

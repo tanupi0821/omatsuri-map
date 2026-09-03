@@ -1,0 +1,39 @@
+id: shinjuku-manual-aki-torinoichi
+name: 花園神社大酉祭（酉の市）
+kind: 縁日
+scale: 区
+area:
+  pref: 東京都
+  city: 新宿区
+  ward: null
+venue:
+  name: 花園神社
+  address: 新宿区新宿5-17-3
+  lat: null
+  lng: null
+station: 東京メトロ丸ノ内線・副都心線「新宿三丁目駅」 都営新宿線「新宿三丁目駅」
+recurrence: 11月の酉の日
+recurrence_source: https://harunohi.jp/1209_torinoichi-itsu/
+organizer: 花園神社
+shrine: 花園神社
+tags:
+  - 縁日
+description: null
+links:
+  - title: 花園神社
+    url: http://hanazono-jinja.or.jp/ceremony/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+      - 2026-11-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://torinoichi.jp/
+    source_name: 浅草・酉の市（公式、関東の酉の市日程まとめ）
+    source_type: official
+    checked_at: 2026-09-03
+    note: 2026年（令和8年）は一の酉11月7日・二の酉11月19日の2回（三の酉は無し）。縁起熊手の露店に加え、境内・周辺道路に飲食の屋台も並ぶ
+stalls: yes
+paid_seats: unknown

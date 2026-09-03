@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-mzka6a2fe5fb4178a802202a815z0149-0
+name: 武島天神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 武島天神社
+  address: 名古屋市西区城西5丁目16番4号
+  lat: null
+  lng: null
+station: 地下鉄 浄心駅
+recurrence: 10月第3日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=mzka6a2f-e5fb-4178-a802-202a815z0149
+organizer: 武島天神社
+shrine: 武島天神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=mzka6a2f-e5fb-4178-a802-202a815z0149
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3日曜日」から導いたもので、神社が2026年の日程として発表したものではない

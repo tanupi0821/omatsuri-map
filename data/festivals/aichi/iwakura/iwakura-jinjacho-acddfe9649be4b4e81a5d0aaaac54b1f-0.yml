@@ -1,0 +1,34 @@
+id: iwakura-jinjacho-acddfe9649be4b4e81a5d0aaaac54b1f-0
+name: 八劔社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岩倉市
+  ward: null
+venue:
+  name: 八劔社
+  address: 岩倉市大字野寄字屋敷イ920番地
+  lat: null
+  lng: null
+station: 名鉄犬山線 岩倉駅
+recurrence: 10月祝日スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=acddfe96-49be-4b4e-81a5-d0aaaac54b1f
+organizer: 八劔社
+shrine: 八劔社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=acddfe96-49be-4b4e-81a5-d0aaaac54b1f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月祝日スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

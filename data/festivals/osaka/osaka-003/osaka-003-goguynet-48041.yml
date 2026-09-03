@@ -1,0 +1,30 @@
+id: osaka-003-goguynet-48041
+name: 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: 加美神明公園（平野区加美東1-1-6）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hirano.goguynet.jp/2026/08/14/kamisinmyoukouenbonodoritaikai/
+    source_name: 号外NET 大阪市平野区
+    source_type: media
+    checked_at: 2026-09-03

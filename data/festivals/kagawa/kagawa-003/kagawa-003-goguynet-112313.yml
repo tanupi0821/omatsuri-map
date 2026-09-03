@@ -1,0 +1,29 @@
+id: kagawa-003-goguynet-112313
+name: 香北マリンフェスタin香西花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 香川県
+  city: 高松市
+  ward: null
+venue:
+  name: 観覧場所：香西西地区港湾緑地多目的広場所在地（打上場所）：香川県高松市香西北町
+  address: 高松市香西北町747-44
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takamatsu.goguynet.jp/2026/08/29/hanabitaikai-takamatsu/
+    source_name: 号外NET 高松市
+    source_type: media
+    checked_at: 2026-09-03

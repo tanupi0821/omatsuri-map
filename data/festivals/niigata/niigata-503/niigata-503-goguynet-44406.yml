@@ -1,0 +1,33 @@
+id: niigata-503-goguynet-44406
+name: 新潟まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市中央区
+  ward: null
+venue:
+  name: 新潟駅南口広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 新潟まつりのホームページ
+    url: https://niigata-matsuri.com/schedule/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatakita-higashi.goguynet.jp/2026/08/06/niigatamaturi2026/
+    source_name: 号外NET 新潟市
+    source_type: media
+    checked_at: 2026-09-03

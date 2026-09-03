@@ -1,0 +1,34 @@
+id: aichi-032-jinjacho-f8dc84766907462c8cbacfab2f895c8c-0
+name: 諏訪神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 西尾市
+  ward: null
+venue:
+  name: 諏訪神社
+  address: 西尾市一色町一色宮添129番地
+  lat: null
+  lng: null
+station: 名鉄西尾線吉良吉田駅
+recurrence: 8月27日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f8dc8476-6907-462c-8cba-cfab2f895c8c
+organizer: 諏訪神社
+shrine: 諏訪神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-27
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=f8dc8476-6907-462c-8cba-cfab2f895c8c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月27日」から導いたもので、神社が2026年の日程として発表したものではない

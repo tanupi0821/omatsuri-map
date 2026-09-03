@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301112-0
+name: 平田稲荷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 平田稲荷神社
+  address: 神戸市北区道場町平田966
+  lat: 34.851693
+  lng: 135.239704
+recurrence: 10月2日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301112.html
+organizer: 平田稲荷神社
+shrine: 平田稲荷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301112.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月2日」から導いたもので、神社が2026年の日程として発表したものではない

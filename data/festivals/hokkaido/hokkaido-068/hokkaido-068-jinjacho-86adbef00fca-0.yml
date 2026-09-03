@@ -1,0 +1,33 @@
+id: hokkaido-068-jinjacho-86adbef00fca-0
+name: 根室出雲神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 根室市
+  ward: null
+venue:
+  name: 根室出雲神社
+  address: 根室市定基町4丁目5番地
+  lat: null
+  lng: null
+recurrence: 6月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e6%a0%b9%e5%ae%a4%e5%87%ba%e9%9b%b2%e7%a5%9e%e7%a4%be/
+organizer: 根室出雲神社
+shrine: 根室出雲神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e6%a0%b9%e5%ae%a4%e5%87%ba%e9%9b%b2%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月15日」から導いたもので、神社が2026年の日程として発表したものではない

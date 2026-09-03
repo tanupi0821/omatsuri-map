@@ -1,0 +1,34 @@
+id: aichi-706-jinjacho-4ab95332582a47548820cb9c2502be94-0
+name: 末廣神明社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 弥富市
+  ward: null
+venue:
+  name: 末廣神明社
+  address: 弥富市東末広1丁目59番地
+  lat: null
+  lng: null
+station: 近鉄弥富駅
+recurrence: 10月第1土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4ab95332-582a-4754-8820-cb9c2502be94
+organizer: 末廣神明社
+shrine: 末廣神明社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=4ab95332-582a-4754-8820-cb9c2502be94
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1土曜日」から導いたもので、神社が2026年の日程として発表したものではない

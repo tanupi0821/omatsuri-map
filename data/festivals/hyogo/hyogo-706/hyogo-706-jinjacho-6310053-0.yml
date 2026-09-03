@@ -1,0 +1,33 @@
+id: hyogo-706-jinjacho-6310053-0
+name: 大日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 三木市
+  ward: null
+venue:
+  name: 大日神社
+  address: 三木市細川町桃津352
+  lat: 34.834115
+  lng: 135.029593
+recurrence: 9月13日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6310053.html
+organizer: 大日神社
+shrine: 大日神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6310053.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月13日」から導いたもので、神社が2026年の日程として発表したものではない

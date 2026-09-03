@@ -1,0 +1,34 @@
+id: aichi-706-jinjacho-7665108542ff4f78a9f1c515bdc933aa-0
+name: 彌富神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 弥富市
+  ward: null
+venue:
+  name: 彌富神社
+  address: 弥富市鯏浦町上本田135番地
+  lat: null
+  lng: null
+station: JR・名鉄弥富駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=76651085-42ff-4f78-a9f1-c515bdc933aa
+organizer: 彌富神社
+shrine: 彌富神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=76651085-42ff-4f78-a9f1-c515bdc933aa
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

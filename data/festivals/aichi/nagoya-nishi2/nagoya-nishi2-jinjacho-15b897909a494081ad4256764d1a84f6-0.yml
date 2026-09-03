@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-15b897909a494081ad4256764d1a84f6-0
+name: 浅間神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 浅間神社
+  address: 名古屋市西区那古野1丁目29番地3号
+  lat: null
+  lng: null
+station: 地下鉄国際センター駅
+recurrence: 10月2日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=15b89790-9a49-4081-ad42-56764d1a84f6
+organizer: 浅間神社
+shrine: 浅間神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=15b89790-9a49-4081-ad42-56764d1a84f6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月2日」から導いたもので、神社が2026年の日程として発表したものではない

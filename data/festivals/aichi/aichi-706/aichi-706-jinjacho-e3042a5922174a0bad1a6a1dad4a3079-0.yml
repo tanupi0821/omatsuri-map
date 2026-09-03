@@ -1,0 +1,33 @@
+id: aichi-706-jinjacho-e3042a5922174a0bad1a6a1dad4a3079-0
+name: 日吉神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 弥富市
+  ward: null
+venue:
+  name: 日吉神社
+  address: 弥富市神戸2丁目50番地
+  lat: null
+  lng: null
+recurrence: 10月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e3042a59-2217-4a0b-ad1a-6a1dad4a3079
+organizer: 日吉神社
+shrine: 日吉神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e3042a59-2217-4a0b-ad1a-6a1dad4a3079
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月5日」から導いたもので、神社が2026年の日程として発表したものではない

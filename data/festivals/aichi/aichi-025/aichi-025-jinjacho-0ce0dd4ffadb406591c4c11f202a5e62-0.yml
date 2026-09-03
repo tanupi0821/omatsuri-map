@@ -1,0 +1,34 @@
+id: aichi-025-jinjacho-0ce0dd4ffadb406591c4c11f202a5e62-0
+name: 穂歳社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 津島市
+  ward: null
+venue:
+  name: 穂歳社
+  address: 津島市神守町字中切45番地
+  lat: null
+  lng: null
+station: 東神守名鉄バス停
+recurrence: 10月第1日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0ce0dd4f-fadb-4065-91c4-c11f202a5e62
+organizer: 穂歳社
+shrine: 穂歳社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=0ce0dd4f-fadb-4065-91c4-c11f202a5e62
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第1日曜日」から導いたもので、神社が2026年の日程として発表したものではない

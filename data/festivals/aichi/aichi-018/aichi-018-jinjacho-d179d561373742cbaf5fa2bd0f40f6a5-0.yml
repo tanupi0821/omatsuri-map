@@ -1,0 +1,34 @@
+id: aichi-018-jinjacho-d179d561373742cbaf5fa2bd0f40f6a5-0
+name: 神明神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 知多郡南知多町
+  ward: null
+venue:
+  name: 神明神社
+  address: 知多郡南知多町大字篠島字神戸101
+  lat: null
+  lng: null
+station: 名鉄 師崎駅
+recurrence: 1月4日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d179d561-3737-42cb-af5f-a2bd0f40f6a5
+organizer: 神明神社
+shrine: 神明神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-04
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d179d561-3737-42cb-af5f-a2bd0f40f6a5
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月4日」から導いたもので、神社が2026年の日程として発表したものではない

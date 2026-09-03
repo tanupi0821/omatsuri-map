@@ -1,0 +1,34 @@
+id: kobe-jinjacho-6301119-0
+name: 宮前八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 北区
+venue:
+  name: 宮前八幡神社
+  address: 神戸市北区有野中町3-5-18
+  lat: 34.829935
+  lng: 135.22651
+recurrence: 4月第2日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301119.html
+organizer: 宮前八幡神社
+shrine: 宮前八幡神社
+stalls: unknown
+tags:
+  - お当祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301119.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

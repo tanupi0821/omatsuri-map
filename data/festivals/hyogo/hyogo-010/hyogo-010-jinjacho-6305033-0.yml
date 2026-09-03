@@ -1,0 +1,33 @@
+id: hyogo-010-jinjacho-6305033-0
+name: 多田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 川西市
+  ward: null
+venue:
+  name: 多田神社
+  address: 川西市多田院多田所町1-1
+  lat: 34.861254
+  lng: 135.402731
+recurrence: 4月10日・10月27日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6305033.html
+organizer: 多田神社
+shrine: 多田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6305033.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月10日・10月27日」から導いたもので、神社が2026年の日程として発表したものではない

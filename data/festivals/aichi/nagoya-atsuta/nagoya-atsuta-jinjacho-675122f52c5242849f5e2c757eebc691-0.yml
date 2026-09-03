@@ -1,0 +1,33 @@
+id: nagoya-atsuta-jinjacho-675122f52c5242849f5e2c757eebc691-0
+name: 熱田神宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市熱田区
+  ward: null
+venue:
+  name: 熱田神宮
+  address: 名古屋市熱田区神宮1丁目1番1号
+  lat: 35.12441
+  lng: 136.90923
+recurrence: 6月5日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=675122f5-2c52-4284-9f5e-2c757eebc691
+organizer: 熱田神宮
+shrine: 熱田神宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-06-05
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=675122f5-2c52-4284-9f5e-2c757eebc691
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「6月5日」から導いたもので、神社が2026年の日程として発表したものではない

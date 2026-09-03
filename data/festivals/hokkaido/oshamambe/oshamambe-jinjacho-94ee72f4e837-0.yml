@@ -1,0 +1,33 @@
+id: oshamambe-jinjacho-94ee72f4e837-0
+name: 飯生神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 山越郡長万部町
+  ward: null
+venue:
+  name: 飯生神社
+  address: 山越郡長万部町字長万部379番地
+  lat: null
+  lng: null
+recurrence: 8月11日
+recurrence_source: https://hokkaidojinjacho.jp/%e9%a3%af%e7%94%9f%e7%a5%9e%e7%a4%be/
+organizer: 飯生神社
+shrine: 飯生神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e9%a3%af%e7%94%9f%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「8月11日」から導いたもので、神社が2026年の日程として発表したものではない

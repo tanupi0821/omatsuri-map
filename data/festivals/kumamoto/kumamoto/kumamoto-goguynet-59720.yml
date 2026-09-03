@@ -1,0 +1,31 @@
+id: kumamoto-goguynet-59720
+name: 再春館製薬所 TKU 江津湖花火大会2026
+kind: 花火
+scale: 町内会
+area:
+  pref: 熊本県
+  city: 熊本市
+  ward: null
+venue:
+  name: 熊本市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: https://hanabi.kumamoto-guide.jp/topics/detail/1460.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kumamotochuo-higashi.goguynet.jp/2026/08/12/eduko-5/
+    source_name: 号外NET 熊本市
+    source_type: media
+    checked_at: 2026-09-03

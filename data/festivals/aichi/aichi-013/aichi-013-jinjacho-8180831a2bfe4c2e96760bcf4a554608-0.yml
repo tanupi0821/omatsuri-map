@@ -1,0 +1,34 @@
+id: aichi-013-jinjacho-8180831a2bfe4c2e96760bcf4a554608-0
+name: 水竹神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 蒲郡市
+  ward: null
+venue:
+  name: 水竹神社
+  address: 蒲郡市水竹町大坪２番地
+  lat: null
+  lng: null
+station: 蒲郡駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8180831a-2bfe-4c2e-9676-0bcf4a554608
+organizer: 水竹神社
+shrine: 水竹神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=8180831a-2bfe-4c2e-9676-0bcf4a554608
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

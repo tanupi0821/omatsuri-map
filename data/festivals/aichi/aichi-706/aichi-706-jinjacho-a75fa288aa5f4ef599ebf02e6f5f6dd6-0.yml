@@ -1,0 +1,34 @@
+id: aichi-706-jinjacho-a75fa288aa5f4ef599ebf02e6f5f6dd6-0
+name: 八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 弥富市
+  ward: null
+venue:
+  name: 八幡神社
+  address: 弥富市平島町中新田25番地
+  lat: null
+  lng: null
+station: 近鉄弥富駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a75fa288-aa5f-4ef5-99eb-f02e6f5f6dd6
+organizer: 八幡神社
+shrine: 八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a75fa288-aa5f-4ef5-99eb-f02e6f5f6dd6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

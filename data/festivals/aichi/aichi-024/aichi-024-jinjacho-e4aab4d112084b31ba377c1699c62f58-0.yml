@@ -1,0 +1,34 @@
+id: aichi-024-jinjacho-e4aab4d112084b31ba377c1699c62f58-0
+name: 相江社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 愛西市
+  ward: null
+venue:
+  name: 相江社
+  address: 愛西市内佐屋町郷588番地
+  lat: null
+  lng: null
+station: 名鉄佐屋駅
+recurrence: 10月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4aab4d1-1208-4b31-ba37-7c1699c62f58
+organizer: 相江社
+shrine: 相江社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e4aab4d1-1208-4b31-ba37-7c1699c62f58
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月16日」から導いたもので、神社が2026年の日程として発表したものではない

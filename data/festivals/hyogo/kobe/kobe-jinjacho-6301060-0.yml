@@ -1,0 +1,33 @@
+id: kobe-jinjacho-6301060-0
+name: 荒田八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 兵庫区
+venue:
+  name: 荒田八幡神社
+  address: 神戸市兵庫区荒田町3-99
+  lat: 34.685461
+  lng: 135.168612
+recurrence: 10月14日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301060.html
+organizer: 荒田八幡神社
+shrine: 荒田八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301060.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない

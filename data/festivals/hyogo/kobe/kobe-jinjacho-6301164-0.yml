@@ -1,0 +1,34 @@
+id: kobe-jinjacho-6301164-0
+name: 射場八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: 長田区
+venue:
+  name: 射場八幡神社
+  address: 神戸市長田区東尻池町1-14-4
+  lat: 34.661072
+  lng: 135.153911
+recurrence: 1月18日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6301164.html
+organizer: 射場八幡神社
+shrine: 射場八幡神社
+stalls: unknown
+tags:
+  - 厄神祭
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-01-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6301164.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「1月18日」から導いたもので、神社が2026年の日程として発表したものではない

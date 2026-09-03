@@ -1,0 +1,34 @@
+id: nagoya-tempaku-jinjacho-fb47e966c2f445eeae3dc013f45e9b6f-0
+name: 五社宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市天白区
+  ward: null
+venue:
+  name: 五社宮
+  address: 名古屋市天白区八事天道322番地
+  lat: null
+  lng: null
+station: 地下鉄 鶴舞線・名城線 八事駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fb47e966-c2f4-45ee-ae3d-c013f45e9b6f
+organizer: 五社宮
+shrine: 五社宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=fb47e966-c2f4-45ee-ae3d-c013f45e9b6f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

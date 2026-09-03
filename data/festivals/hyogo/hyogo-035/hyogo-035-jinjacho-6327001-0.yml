@@ -1,0 +1,33 @@
+id: hyogo-035-jinjacho-6327001-0
+name: 洲本八幡神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 洲本市
+  ward: null
+venue:
+  name: 洲本八幡神社
+  address: 洲本市山手2-1-10
+  lat: 34.339467
+  lng: 134.899221
+recurrence: 9月15日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6327001.html
+organizer: 洲本八幡神社
+shrine: 洲本八幡神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6327001.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-2483f721899541a29fcf643fe868c473-0
+name: 春日神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 春日神社
+  address: 田原市馬伏町中瀬古549番地
+  lat: null
+  lng: null
+station: 豊橋鉄道伊良湖本線新江比間バス停
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2483f721-8995-41a2-9fcf-643fe868c473
+organizer: 春日神社
+shrine: 春日神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2483f721-8995-41a2-9fcf-643fe868c473
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

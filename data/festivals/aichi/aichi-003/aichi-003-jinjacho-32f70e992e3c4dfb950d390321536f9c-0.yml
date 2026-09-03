@@ -1,0 +1,34 @@
+id: aichi-003-jinjacho-32f70e992e3c4dfb950d390321536f9c-0
+name: 東之宮社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 犬山市
+  ward: null
+venue:
+  name: 東之宮社
+  address: 犬山市大字犬山字北白山平7
+  lat: null
+  lng: null
+station: 名鉄犬山線 犬山遊園駅
+recurrence: 4月18日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=32f70e99-2e3c-4dfb-950d-390321536f9c
+organizer: 東之宮社
+shrine: 東之宮社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-18
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=32f70e99-2e3c-4dfb-950d-390321536f9c
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月18日」から導いたもので、神社が2026年の日程として発表したものではない

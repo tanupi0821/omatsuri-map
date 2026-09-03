@@ -1,0 +1,34 @@
+id: aichi-013-jinjacho-deeae99de84041e78fa09d458fc7be04-0
+name: 砥神神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 蒲郡市
+  ward: null
+venue:
+  name: 砥神神社
+  address: 蒲郡市豊岡町下久貝17番地
+  lat: null
+  lng: null
+station: 三河三谷駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=deeae99d-e840-41e7-8fa0-9d458fc7be04
+organizer: 砥神神社
+shrine: 砥神神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=deeae99d-e840-41e7-8fa0-9d458fc7be04
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

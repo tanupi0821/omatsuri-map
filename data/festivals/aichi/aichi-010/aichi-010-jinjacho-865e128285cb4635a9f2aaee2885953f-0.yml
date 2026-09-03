@@ -1,0 +1,34 @@
+id: aichi-010-jinjacho-865e128285cb4635a9f2aaee2885953f-0
+name: 巴江神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 田原市
+  ward: null
+venue:
+  name: 巴江神社
+  address: 田原市田原町巴江10
+  lat: null
+  lng: null
+station: 豊橋鉄道渥美線三河田原駅
+recurrence: 9月19日9月第三日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=865e1282-85cb-4635-a9f2-aaee2885953f
+organizer: 巴江神社
+shrine: 巴江神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=865e1282-85cb-4635-a9f2-aaee2885953f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月19日9月第三日曜日」から導いたもので、神社が2026年の日程として発表したものではない

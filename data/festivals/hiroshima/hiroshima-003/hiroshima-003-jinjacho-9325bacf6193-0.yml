@@ -1,0 +1,33 @@
+id: hiroshima-003-jinjacho-9325bacf6193-0
+name: 天満宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 三次市
+  ward: null
+venue:
+  name: 天満宮
+  address: 三次市作木町伊賀和志36番地の3
+  lat: 34.89204171028251
+  lng: 132.66661078349762
+recurrence: 10月第2土曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+organizer: 天満宮
+shrine: 天満宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=21
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2土曜日」から導いたもので、神社が2026年の日程として発表したものではない

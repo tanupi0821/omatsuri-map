@@ -1,0 +1,33 @@
+id: hyogo-012-jinjacho-6311140-0
+name: 古家八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 加東市
+  ward: null
+venue:
+  name: 古家八幡宮
+  address: 加東市秋津182
+  lat: 34.927405
+  lng: 135.07551
+recurrence: 2月19日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6311140.html
+organizer: 古家八幡宮
+shrine: 古家八幡宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-02-19
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6311140.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「2月19日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-008-jinjacho-c9ab55c684db4f18b7bfde1a2d63a67e-0
+name: 大木神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 大木神社
+  address: 豊川市大木町横町58番地
+  lat: null
+  lng: null
+station: 飯田線三河一宮駅
+recurrence: 10月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c9ab55c6-84db-4f18-b7bf-de1a2d63a67e
+organizer: 大木神社
+shrine: 大木神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c9ab55c6-84db-4f18-b7bf-de1a2d63a67e
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,33 @@
+id: hiroshima-006-jinjacho-1f3e06824b6c-0
+name: 亀山神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 三原市
+  ward: null
+venue:
+  name: 亀山神社
+  address: 三原市大和町下徳良2363番地
+  lat: 34.5436722
+  lng: 132.955104099999
+recurrence: 10月第4日曜日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=20
+organizer: 亀山神社
+shrine: 亀山神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=20
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第4日曜日」から導いたもので、神社が2026年の日程として発表したものではない

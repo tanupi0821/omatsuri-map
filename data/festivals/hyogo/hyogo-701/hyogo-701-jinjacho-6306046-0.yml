@@ -1,0 +1,34 @@
+id: hyogo-701-jinjacho-6306046-0
+name: 駒宇佐八幡宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 三田市
+  ward: null
+venue:
+  name: 駒宇佐八幡宮
+  address: 三田市上本庄1221
+  lat: 34.986614
+  lng: 135.193395
+recurrence: 9月15日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6306046.html
+organizer: 駒宇佐八幡宮
+shrine: 駒宇佐八幡宮
+stalls: unknown
+tags:
+  - 秋祭り
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6306046.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

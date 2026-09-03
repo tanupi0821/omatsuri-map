@@ -1,0 +1,34 @@
+id: nagoya-moriyama-jinjacho-54f3063a02d746baa10006b4d4750c14-0
+name: 八劔神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市守山区
+  ward: null
+venue:
+  name: 八劔神社
+  address: 名古屋市守山区森孝3丁目203番地
+  lat: null
+  lng: null
+station: 向野田バス停・三軒家バス停 地下鉄藤が丘駅
+recurrence: 10月第二月曜スポーツの日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=54f3063a-02d7-46ba-a100-06b4d4750c14
+organizer: 八劔神社
+shrine: 八劔神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=54f3063a-02d7-46ba-a100-06b4d4750c14
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第二月曜スポーツの日」から導いたもので、神社が2026年の日程として発表したものではない

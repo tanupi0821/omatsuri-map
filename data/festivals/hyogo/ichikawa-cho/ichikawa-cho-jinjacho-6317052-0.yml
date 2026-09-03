@@ -1,0 +1,33 @@
+id: ichikawa-cho-jinjacho-6317052-0
+name: 塩谷神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 神崎郡市川町
+  ward: null
+venue:
+  name: 塩谷神社
+  address: 神崎郡市川町上牛尾2112-12
+  lat: 35.033317
+  lng: 134.829224
+recurrence: 3月16日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6317052.html
+organizer: 塩谷神社
+shrine: 塩谷神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6317052.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月16日」から導いたもので、神社が2026年の日程として発表したものではない

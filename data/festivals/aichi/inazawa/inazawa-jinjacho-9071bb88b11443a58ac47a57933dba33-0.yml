@@ -1,0 +1,34 @@
+id: inazawa-jinjacho-9071bb88b11443a58ac47a57933dba33-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 稲沢市
+  ward: null
+venue:
+  name: 八幡社
+  address: 稲沢市平和町下起北九〇番地
+  lat: null
+  lng: null
+station: 名鉄 尾西線 淵高駅
+recurrence: 10月15日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9071bb88-b114-43a5-8ac4-7a57933dba33
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=9071bb88-b114-43a5-8ac4-7a57933dba33
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月15日」から導いたもので、神社が2026年の日程として発表したものではない

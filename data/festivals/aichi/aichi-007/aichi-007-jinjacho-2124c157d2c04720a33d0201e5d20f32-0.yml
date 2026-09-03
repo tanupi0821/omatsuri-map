@@ -1,0 +1,34 @@
+id: aichi-007-jinjacho-2124c157d2c04720a33d0201e5d20f32-0
+name: 大国主社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 岡崎市
+  ward: null
+venue:
+  name: 大国主社
+  address: 岡崎市南大須町字寺入17番地
+  lat: null
+  lng: null
+station: 名鉄東岡崎駅
+recurrence: 10月第3土曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2124c157-d2c0-4720-a33d-0201e5d20f32
+organizer: 大国主社
+shrine: 大国主社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2124c157-d2c0-4720-a33d-0201e5d20f32
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第3土曜日」から導いたもので、神社が2026年の日程として発表したものではない

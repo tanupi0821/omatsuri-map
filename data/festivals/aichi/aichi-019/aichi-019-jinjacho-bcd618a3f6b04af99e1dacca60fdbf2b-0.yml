@@ -1,0 +1,33 @@
+id: aichi-019-jinjacho-bcd618a3f6b04af99e1dacca60fdbf2b-0
+name: 素盞嗚神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 素盞嗚神社
+  address: 豊橋市下条東町字宮脇31番地
+  lat: null
+  lng: null
+recurrence: 3月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bcd618a3-f6b0-4af9-9e1d-acca60fdbf2b
+organizer: 素盞嗚神社
+shrine: 素盞嗚神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=bcd618a3-f6b0-4af9-9e1d-acca60fdbf2b
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

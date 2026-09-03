@@ -1,0 +1,33 @@
+id: hyogo-023-jinjacho-6320048-0
+name: 武大神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 宍粟市
+  ward: null
+venue:
+  name: 武大神社
+  address: 宍粟市山崎町三津字北山618
+  lat: 35.026708
+  lng: 134.548488
+recurrence: 10月第2日曜日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6320048.html
+organizer: 武大神社
+shrine: 武大神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6320048.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

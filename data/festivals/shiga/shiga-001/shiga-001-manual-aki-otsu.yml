@@ -1,0 +1,36 @@
+id: shiga-001-manual-aki-otsu
+name: 大津祭
+kind: 例大祭
+scale: 市
+area:
+  pref: 滋賀県
+  city: 大津市
+  ward: null
+venue:
+  name: 天孫神社・JR大津駅周辺〜中央大通り一帯
+  address: null
+  lat: null
+  lng: null
+organizer: 大津祭曳山連盟
+shrine: 天孫神社
+tags:
+  - 山車
+  - ユネスコ無形文化遺産
+description: null
+links:
+  - title: 大津祭曳山連盟
+    url: http://www.otsu-matsuri.jp/home/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://otsu.or.jp/event/otsumatsuri_festival26
+    source_name: 大津市観光協会
+    source_type: official
+    checked_at: 2026-09-03
+    note: 天孫神社の祭礼。宵宮10月10日夕刻〜21時、本祭10月11日9時〜17時30分。13基の曳山が巡行。国指定重要無形民俗文化財、2025年12月にユネスコ無形文化遺産登録
+stalls: unknown

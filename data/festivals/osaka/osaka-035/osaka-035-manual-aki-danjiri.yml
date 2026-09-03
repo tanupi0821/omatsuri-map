@@ -1,0 +1,38 @@
+id: osaka-035-manual-aki-danjiri
+name: 岸和田だんじり祭（9月祭礼）
+kind: 例大祭
+scale: 市
+area:
+  pref: 大阪府
+  city: 岸和田市
+  ward: null
+venue:
+  name: 岸和田地区・春木地区
+  address: null
+  lat: null
+  lng: null
+recurrence: 敬老の日直前の土曜・日曜（9月祭礼）
+recurrence_source: https://www.enjoytokyo.jp/event/2068738/
+organizer: 岸和田市観光振興協会
+shrine: null
+tags:
+  - だんじり
+  - やりまわし
+description: null
+links:
+  - title: レッツエンジョイ東京 岸和田だんじり祭（9月祭礼）
+    url: https://www.enjoytokyo.jp/event/2068738/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: '06:00'
+    end_time: '22:00'
+    status: confirmed
+    source_url: https://www.enjoytokyo.jp/event/2068738/
+    source_name: レッツエンジョイ東京
+    source_type: media
+    checked_at: 2026-09-04
+    note: 宵宮9月19日6時〜22時・本宮9月20日9時〜22時。別日に試験曳きあり（日程は岸和田市公式で要確認）
+stalls: unknown

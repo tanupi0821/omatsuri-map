@@ -1,0 +1,34 @@
+id: aichi-009-jinjacho-a7a1781dce4e4e97b0f73259924a4cba-0
+name: 天満宮 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 安城市
+  ward: null
+venue:
+  name: 天満宮
+  address: 安城市池浦町丸田78番地
+  lat: null
+  lng: null
+station: 名鉄 新安城駅
+recurrence: 4月29日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a7a1781d-ce4e-4e97-b0f7-3259924a4cba
+organizer: 天満宮
+shrine: 天満宮
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-29
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a7a1781d-ce4e-4e97-b0f7-3259924a4cba
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月29日」から導いたもので、神社が2026年の日程として発表したものではない

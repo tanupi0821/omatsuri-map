@@ -1,0 +1,34 @@
+id: aichi-718-jinjacho-2bad33c95a454cf880c9e6caa2c900e6-0
+name: 田光八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市瑞穂区
+  ward: null
+venue:
+  name: 田光八幡社
+  address: 名古屋市瑞穂区大喜新町3丁目23番地
+  lat: null
+  lng: null
+station: 市バス 大喜 ・ 地下鉄 名城線 堀田駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2bad33c9-5a45-4cf8-80c9-e6caa2c900e6
+organizer: 田光八幡社
+shrine: 田光八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=2bad33c9-5a45-4cf8-80c9-e6caa2c900e6
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

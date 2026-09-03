@@ -1,0 +1,34 @@
+id: aichi-016-jinjacho-c708d08e06b241f488ce0899d35f4a62-0
+name: 諏訪南宮神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 北設楽郡東栄町
+  ward: null
+venue:
+  name: 諏訪南宮神社
+  address: 北設楽郡東栄町大字本郷字大森1番地
+  lat: null
+  lng: null
+station: JR飯田線 東栄
+recurrence: 4月16日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c708d08e-06b2-41f4-88ce-0899d35f4a62
+organizer: 諏訪南宮神社
+shrine: 諏訪南宮神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-16
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=c708d08e-06b2-41f4-88ce-0899d35f4a62
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月16日」から導いたもので、神社が2026年の日程として発表したものではない

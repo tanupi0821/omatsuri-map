@@ -1,0 +1,34 @@
+id: aichi-705-jinjacho-5bee81f5e8674b2bbd7a2aa1448dacc5-0
+name: 熊野社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 熊野社
+  address: 小牧市岩崎1337番地
+  lat: null
+  lng: null
+station: 名鉄小牧線味岡駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5bee81f5-e867-4b2b-bd7a-2aa1448dacc5
+organizer: 熊野社
+shrine: 熊野社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=5bee81f5-e867-4b2b-bd7a-2aa1448dacc5
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: aichi-015-jinjacho-e13ae09b426744928646a41415aea362-0
+name: 八柱社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: みよし市
+  ward: null
+venue:
+  name: 八柱社
+  address: みよし市福谷町宮ノ前１番地
+  lat: null
+  lng: null
+station: 名鉄三好ヶ丘駅
+recurrence: 10月第2月曜日(スポーツの日)
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e13ae09b-4267-4492-8646-a41415aea362
+organizer: 八柱社
+shrine: 八柱社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=e13ae09b-4267-4492-8646-a41415aea362
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月第2月曜日(スポーツの日)」から導いたもので、神社が2026年の日程として発表したものではない

@@ -1,0 +1,34 @@
+id: nagoya-nishi2-jinjacho-3281e5f5996b438a8ec135ad654ddae1-0
+name: 金刀比羅社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 名古屋市西区
+  ward: null
+venue:
+  name: 金刀比羅社
+  address: 名古屋市西区那古野1丁目6番16号
+  lat: null
+  lng: null
+station: 地下鉄丸の内駅
+recurrence: 10月10日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3281e5f5-996b-438a-8ec1-35ad654ddae1
+organizer: 金刀比羅社
+shrine: 金刀比羅社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=3281e5f5-996b-438a-8ec1-35ad654ddae1
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月10日」から導いたもので、神社が2026年の日程として発表したものではない

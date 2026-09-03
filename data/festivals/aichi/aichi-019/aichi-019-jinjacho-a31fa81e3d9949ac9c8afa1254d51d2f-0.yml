@@ -1,0 +1,34 @@
+id: aichi-019-jinjacho-a31fa81e3d9949ac9c8afa1254d51d2f-0
+name: 赤澤神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 赤澤神社
+  address: 豊橋市東赤沢町字東横根68
+  lat: null
+  lng: null
+station: 豊橋鉄道渥美線大清水駅
+recurrence: 3月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a31fa81e-3d99-49ac-9c8a-fa1254d51d2f
+organizer: 赤澤神社
+shrine: 赤澤神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-03-08
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=a31fa81e-3d99-49ac-9c8a-fa1254d51d2f
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「3月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

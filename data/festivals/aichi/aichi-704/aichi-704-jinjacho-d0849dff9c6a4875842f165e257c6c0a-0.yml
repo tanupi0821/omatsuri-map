@@ -1,0 +1,34 @@
+id: aichi-704-jinjacho-d0849dff9c6a4875842f165e257c6c0a-0
+name: 布袋神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 江南市
+  ward: null
+venue:
+  name: 布袋神社
+  address: 江南市五明町青木177
+  lat: null
+  lng: null
+station: 名鉄 布袋駅
+recurrence: 4月第2日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d0849dff-9c6a-4875-842f-165e257c6c0a
+organizer: 布袋神社
+shrine: 布袋神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-12
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=d0849dff-9c6a-4875-842f-165e257c6c0a
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月第2日曜日」から導いたもので、神社が2026年の日程として発表したものではない

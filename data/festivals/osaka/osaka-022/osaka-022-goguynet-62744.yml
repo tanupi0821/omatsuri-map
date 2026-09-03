@@ -1,0 +1,29 @@
+id: osaka-022-goguynet-62744
+name: 神社もお寺もない街の、ちょっとはやい秋祭り。
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 摂津市
+  ward: null
+venue:
+  name: 嘉円公園
+  address: 摂津市桜町2丁目2-1
+  lat: null
+  lng: null
+organizer: 桜町自治会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://settsu.goguynet.jp/2026/08/28/sakuramachi-fes-2/
+    source_name: 号外NET 摂津・千里丘・南茨木
+    source_type: media
+    checked_at: 2026-09-03

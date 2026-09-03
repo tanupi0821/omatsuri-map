@@ -1,0 +1,33 @@
+id: hatsukaichi-jinjacho-4d9e5d41d58e-0
+name: 速田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 広島県
+  city: 廿日市市
+  ward: null
+venue:
+  name: 速田神社
+  address: 廿日市市友田64番地の1
+  lat: 34.36044148582745
+  lng: 132.21744535337302
+recurrence: 9月15日
+recurrence_source: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=25
+organizer: 速田神社
+shrine: 速田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hiroshima-jinjacho.jp/hirosima_jinja/?search_area=25
+    source_name: 広島県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

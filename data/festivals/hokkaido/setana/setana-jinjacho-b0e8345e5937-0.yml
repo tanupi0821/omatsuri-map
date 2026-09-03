@@ -1,0 +1,33 @@
+id: setana-jinjacho-b0e8345e5937-0
+name: 若松神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 久遠郡せたな町
+  ward: null
+venue:
+  name: 若松神社
+  address: 久遠郡せたな町北桧山区若松611番地
+  lat: null
+  lng: null
+recurrence: 9月15日
+recurrence_source: https://hokkaidojinjacho.jp/%e8%8b%a5%e6%9d%be%e7%a5%9e%e7%a4%be/
+organizer: 若松神社
+shrine: 若松神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-15
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e8%8b%a5%e6%9d%be%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月15日」から導いたもので、神社が2026年の日程として発表したものではない

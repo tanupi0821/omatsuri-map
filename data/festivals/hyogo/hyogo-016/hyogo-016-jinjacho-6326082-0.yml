@@ -1,0 +1,33 @@
+id: hyogo-016-jinjacho-6326082-0
+name: 熱田神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 美方郡香美町
+  ward: null
+venue:
+  name: 熱田神社
+  address: 美方郡香美町小代区新屋439
+  lat: 35.415172
+  lng: 134.524863
+recurrence: 10月25日
+recurrence_source: https://www.hyogo-jinjacho.com/data/6326082.html
+organizer: 熱田神社
+shrine: 熱田神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.hyogo-jinjacho.com/data/6326082.html
+    source_name: 兵庫県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月25日」から導いたもので、神社が2026年の日程として発表したものではない

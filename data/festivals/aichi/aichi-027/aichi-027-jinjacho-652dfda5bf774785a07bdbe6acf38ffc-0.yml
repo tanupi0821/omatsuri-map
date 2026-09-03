@@ -1,0 +1,34 @@
+id: aichi-027-jinjacho-652dfda5bf774785a07bdbe6acf38ffc-0
+name: 坂手神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 坂手神社
+  address: 一宮市佐千原字宮東91番地
+  lat: null
+  lng: null
+station: 尾張一宮駅、名鉄バス「一宮自動車学校前」
+recurrence: 10月14日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=652dfda5-bf77-4785-a07b-dbe6acf38ffc
+organizer: 坂手神社
+shrine: 坂手神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-14
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=652dfda5-bf77-4785-a07b-dbe6acf38ffc
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「10月14日」から導いたもので、神社が2026年の日程として発表したものではない

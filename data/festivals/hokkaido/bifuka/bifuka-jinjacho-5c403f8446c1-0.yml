@@ -1,0 +1,33 @@
+id: bifuka-jinjacho-5c403f8446c1-0
+name: 美深神社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 北海道
+  city: 中川郡美深町
+  ward: null
+venue:
+  name: 美深神社
+  address: 中川郡美深町字西2条南6丁目61
+  lat: null
+  lng: null
+recurrence: 9月3日
+recurrence_source: https://hokkaidojinjacho.jp/%e7%be%8e%e6%b7%b1%e7%a5%9e%e7%a4%be/
+organizer: 美深神社
+shrine: 美深神社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://hokkaidojinjacho.jp/%e7%be%8e%e6%b7%b1%e7%a5%9e%e7%a4%be/
+    source_name: 北海道神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「9月3日」から導いたもので、神社が2026年の日程として発表したものではない

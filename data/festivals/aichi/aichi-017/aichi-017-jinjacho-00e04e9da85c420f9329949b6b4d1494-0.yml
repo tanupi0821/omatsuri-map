@@ -1,0 +1,34 @@
+id: aichi-017-jinjacho-00e04e9da85c420f9329949b6b4d1494-0
+name: 八幡社 例祭
+kind: 例大祭
+scale: 地区
+area:
+  pref: 愛知県
+  city: 常滑市
+  ward: null
+venue:
+  name: 八幡社
+  address: 常滑市大谷字奥條150番地の2
+  lat: null
+  lng: null
+station: 名鉄 常滑駅 知多武豊駅
+recurrence: 4月3日以前の日曜日
+recurrence_source: https://www.aichi-jinjacho.or.jp/search_detail.html?id=00e04e9d-a85c-420f-9329-949b6b4d1494
+organizer: 八幡社
+shrine: 八幡社
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-04-03
+    start_time: null
+    end_time: null
+    status: estimated
+    source_url: https://www.aichi-jinjacho.or.jp/search_detail.html?id=00e04e9d-a85c-420f-9329-949b6b4d1494
+    source_name: 愛知県神社庁
+    source_type: official
+    checked_at: 2026-09-03
+    note: 日付は神社庁が公開している例祭日「4月3日以前の日曜日」から導いたもので、神社が2026年の日程として発表したものではない

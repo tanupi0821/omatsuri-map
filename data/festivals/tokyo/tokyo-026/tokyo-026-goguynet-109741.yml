@@ -1,0 +1,31 @@
+id: tokyo-026-goguynet-109741
+name: 落合川沿いにある不動橋広場 秋祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 東久留米市
+  ward: null
+venue:
+  name: 当日は不動橋広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 東久留米市新川町自治会のホームページ
+    url: https://shinkawa-cho.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://higashikurume-kiyose.goguynet.jp/2026/09/03/202609hudoubasiakimaturi/
+    source_name: 号外NET 東久留米市・清瀬市
+    source_type: media
+    checked_at: 2026-09-03
