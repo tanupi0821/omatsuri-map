@@ -1,0 +1,31 @@
+id: yamato-rarea-306714
+name: 大和市花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 大和市
+  ward: null
+venue:
+  name: テックみらいパーク（引地台公園）内の大和スタジアム
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 大和市
+    url: https://yamato.goguynet.jp/2026/07/15/hanabi_yamatocity/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: 17:30
+    end_time: 19:30
+    status: confirmed
+    source_url: https://rarea.events/event/306714
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-09-03

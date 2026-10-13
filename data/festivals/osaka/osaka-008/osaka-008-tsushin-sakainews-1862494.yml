@@ -1,0 +1,29 @@
+id: osaka-008-tsushin-sakainews-1862494
+name: お寺マルシェ 西教寺の秋祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 和泉市
+  ward: null
+venue:
+  name: 和泉市内
+  address: 和泉市幸2丁目8-22
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakai-news.jp/event/20260904_a078_oteramarche
+    source_name: さかにゅー
+    source_type: media
+    checked_at: 2026-09-03

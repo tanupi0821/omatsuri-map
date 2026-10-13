@@ -1,0 +1,31 @@
+id: mie-005-goguynet-64545
+name: すずか夏祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 鈴鹿市
+  ward: null
+venue:
+  name: 鈴鹿市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 「すずか夏祭り特設ホームページ」
+    url: https://suzunoya2025.com/suzuka-summer-festival-2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-15
+    start_time: 10:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://suzuka-kameyama.goguynet.jp/2026/08/05/suzuka-summer-festival2026/
+    source_name: 号外NET 鈴鹿市・亀山市
+    source_type: media
+    checked_at: 2026-09-03

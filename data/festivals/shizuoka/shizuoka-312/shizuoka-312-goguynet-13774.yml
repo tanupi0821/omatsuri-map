@@ -1,0 +1,37 @@
+id: shizuoka-312-goguynet-13774
+name: 駿府城夏まつり2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 静岡市葵区
+  ward: null
+venue:
+  name: 駿府城公園
+  address: 静岡市葵区駿府城公園1-1
+  lat: 34.979002
+  lng: 138.380546
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 静岡市葵区
+    url: https://aoi.goguynet.jp/2026/07/01/post-13601/
+  - title: 号外NET 静岡市葵区
+    url: https://aoi.goguynet.jp/2026/09/01/post-13889/
+  - title: 号外NET 静岡市葵区
+    url: https://aoi.goguynet.jp/2026/09/12/post-13945/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-13
+      - 2026-08-07
+    start_time: 12:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://aoi.goguynet.jp/2026/08/09/post-13774/
+    source_name: 号外NET 静岡市葵区
+    source_type: media
+    checked_at: 2026-09-03

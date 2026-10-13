@@ -1,0 +1,29 @@
+id: osaka-009-tsushin-sakainews-1877339
+name: 狭山池大遊祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 大阪狭山市
+  ward: null
+venue:
+  name: 大阪狭山市内
+  address: 大阪狭山市岩室
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-01
+    start_time: 10:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://sakai-news.jp/event/20261017-pr_a078_daiyusai
+    source_name: さかにゅー
+    source_type: media
+    checked_at: 2026-09-03

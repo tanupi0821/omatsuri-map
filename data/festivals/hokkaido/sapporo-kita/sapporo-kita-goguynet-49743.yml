@@ -1,0 +1,29 @@
+id: sapporo-kita-goguynet-49743
+name: 浄土寺夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市北区
+  ward: null
+venue:
+  name: 札幌市北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 11:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://sapporokitaku.goguynet.jp/2026/08/19/jyododera/
+    source_name: 号外NET 札幌市北区
+    source_type: media
+    checked_at: 2026-09-03

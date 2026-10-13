@@ -1,0 +1,29 @@
+id: inzai-goguynet-50368
+name: タイトリ×おやつとえがお夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 木下駅前にぎわい広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/27/tinytreatsnatsumatsuri2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-09-03

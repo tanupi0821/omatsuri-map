@@ -1,0 +1,29 @@
+id: inzai-goguynet-50342
+name: 大塚前公園夏祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 大塚前公園（印西市小倉台1-385）
+  address: 印西市小倉台1-385
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/08/21/otsukamaematsuri2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-09-03

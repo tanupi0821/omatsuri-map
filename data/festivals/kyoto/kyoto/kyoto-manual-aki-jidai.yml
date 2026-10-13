@@ -35,3 +35,18 @@ occurrences:
 stalls: unknown
 paid_seats: yes
 paid_seats_note: 有料観覧席あり。販売・詳細は京都市観光協会に確認
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Jidai_Matsuri_2009_457.jpg/1280px-Jidai_Matsuri_2009_457.jpg
+    width: 1000
+    height: 667
+    credit: Corpse Reviver
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Jidai_Matsuri_2009_457.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Jidai_Matsuri_2009_480_%28cropped_to_central_figures%29.jpg
+    width: 1000
+    height: 1317
+    credit: Corpse Reviver
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Jidai_Matsuri_2009_480_(cropped_to_central_figures).jpg

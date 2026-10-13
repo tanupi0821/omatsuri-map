@@ -139,9 +139,6 @@
 /f/hyogo-004-hanabi-ar0728e00432/ /f/hyogo-027-hanabi-ar0728e00432/ 301
 /f/hyogo-004-tsushin-nishi2-333820/ /f/hyogo-004-tsushin-nishi2-333695/ 301
 /f/hyogo-005-goguynet-131146/ /f/kobe-goguynet-131146/ 301
-/f/hyogo-006-goguynet-58503/ /f/kobe-goguynet-58503/ 301
-/f/hyogo-006-goguynet-59043/ /f/kobe-goguynet-59043/ 301
-/f/hyogo-006-goguynet-59054/ /f/kobe-goguynet-59054/ 301
 /f/hyogo-006-hanabi-ar0728e00545/ /f/hyogo-030-hanabi-ar0728e00545/ 301
 /f/hyogo-008-goguynet-104060/ /f/hyogo-032-goguynet-104060/ 301
 /f/hyogo-008-goguynet-104089/ /f/hyogo-032-goguynet-104089/ 301
@@ -473,12 +470,11 @@
 /f/osaka-024-sumi-shinan/ /f/osaka-916-sumi-shinan/ 301
 /f/osaka-024-sumi-sumiyoshi5/ /f/osaka-916-sumi-sumiyoshi5/ 301
 /f/osaka-024-sumi-yamanouchi/ /f/osaka-916-sumi-yamanouchi/ 301
-/a/osaka/osaka-006/ /a/osaka/osaka-915/ 301
 /a/osaka/osaka-024/ /a/osaka/osaka-916/ 301
 
 # >>> 公開後に消えた URL の転送（gen-redirects-from-history.mjs が書く）
-# 重複の統合と置き場所の修正で消えた 1908 本のうち 1379 本。
-# 中身は行き先の URL に生きている。上限に入らなかった 529 本は 404 のまま。
+# 重複の統合と置き場所の修正で消えた 1908 本のうち 1383 本。
+# 中身は行き先の URL に生きている。上限に入らなかった 525 本は 404 のまま。
 /f/yokohama-hanabi-ar0314e00878/ /f/kanagawa-325-hanabi-ar0314e00878/ 301
 /f/yokohama-hanabi-ar0314e407738/ /f/kanagawa-329-hanabi-ar0314e407738/ 301
 /f/yokohama-jinjacho-1202003-0/ /f/tsurumi-jinjacho-1202003-0/ 301
@@ -1858,4 +1854,8 @@
 /f/takasaki-hanabi-ar0310e513939/ /f/takasaki-haruna-furusato-matsuri/ 301
 /f/tokyo-012-goguynet-69732/ /f/tokyo-005-goguynet-69732/ 301
 /f/tokyo-012-goguynet-69812/ /f/tokyo-005-goguynet-69812/ 301
+/f/tokyo-012-goguynet-69934/ /f/tokyo-005-goguynet-69934/ 301
+/f/tokyo-015-goguynet-69732/ /f/tokyo-005-goguynet-69732/ 301
+/f/tokyo-015-goguynet-69812/ /f/tokyo-005-goguynet-69812/ 301
+/f/tokyo-015-goguynet-69934/ /f/tokyo-005-goguynet-69934/ 301
 # <<< ここまで

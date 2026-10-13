@@ -1,0 +1,29 @@
+id: hokkaido-022-goguynet-58075
+name: いぶり・ひだかグルメフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 苫小牧市
+  ward: null
+venue:
+  name: 苫小牧漁港区西側広場（花火会場内）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tomakomai.goguynet.jp/2026/10/06/hyakunenhanabi/
+    source_name: 号外NET 苫小牧市
+    source_type: media
+    checked_at: 2026-09-03

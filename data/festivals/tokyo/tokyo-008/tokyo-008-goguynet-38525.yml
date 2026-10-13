@@ -1,0 +1,30 @@
+id: tokyo-008-goguynet-38525
+name: 新川天神社大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 三鷹市
+  ward: null
+venue:
+  name: 新川天神社
+  address: 三鷹市新川2丁目1-21
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://mitaka.goguynet.jp/2026/09/04/post-38525/
+    source_name: 号外NET 三鷹市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,32 @@
+id: shizuoka-027-hanabi-ar0622e318492
+name: ナイトスカイウォーク・花火祭
+kind: 花火
+scale: 市
+area:
+  pref: 静岡県
+  city: 三島市
+  ward: null
+venue:
+  name: 三島スカイウォーク
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags:
+  - 花火
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+      - 2026-11-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hanabi.walkerplus.com/detail/ar0622e318492/
+    source_name: 花火大会2026（ウォーカープラス）
+    source_type: aggregator
+    checked_at: 2026-09-03
+    note: 掲載の2日付は期間の初日と最終日

@@ -1,0 +1,29 @@
+id: yokosuka-goguynet-45149
+name: 第14回久里浜食の祭典＆ハロウィンフェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横須賀市
+  ward: null
+venue:
+  name: 久里浜商店街はろーど通り
+  address: 横須賀市久里浜4丁目8-13
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokosuka.goguynet.jp/2026/10/12/kurihama-kita-kurihama-helloween/
+    source_name: 号外NET 横須賀市・三浦市
+    source_type: media
+    checked_at: 2026-09-03

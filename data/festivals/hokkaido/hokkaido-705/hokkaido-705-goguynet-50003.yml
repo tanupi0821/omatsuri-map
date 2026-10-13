@@ -1,0 +1,29 @@
+id: hokkaido-705-goguynet-50003
+name: クラフトこども縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市中央区
+  ward: null
+venue:
+  name: 札幌市中央区内
+  address: 札幌市中央区南1条西3丁目 札幌パルコ 5階～6階
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://sapporochuo.goguynet.jp/2026/09/12/muji_sapporoparco-2/
+    source_name: 号外NET 札幌市中央区
+    source_type: media
+    checked_at: 2026-09-03

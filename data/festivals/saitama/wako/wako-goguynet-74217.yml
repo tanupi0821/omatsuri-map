@@ -1,0 +1,31 @@
+id: wako-goguynet-74217
+name: 秋の花火祭り
+kind: 花火
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 和光市
+  ward: null
+venue:
+  name: 取りとシートのルール
+  address: 和光市新倉6丁目1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 秋の花火祭り 公式HP
+    url: https://wako-hanabi.com/#overview
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asaka-wako.goguynet.jp/2026/09/16/goguynet/
+    source_name: 号外NET 朝霞市・和光市
+    source_type: media
+    checked_at: 2026-09-03

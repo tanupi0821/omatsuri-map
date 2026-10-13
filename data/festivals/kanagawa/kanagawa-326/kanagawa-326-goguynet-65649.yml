@@ -1,0 +1,29 @@
+id: kanagawa-326-goguynet-65649
+name: さがみ秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 相模原市中央区
+  ward: null
+venue:
+  name: 相模原市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 12:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sagamiharachuoku.goguynet.jp/2026/10/01/sagami-autumn-festival/
+    source_name: 号外NET 相模原市中央区
+    source_type: media
+    checked_at: 2026-09-03

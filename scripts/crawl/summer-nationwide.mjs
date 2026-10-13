@@ -81,13 +81,16 @@ function save(p, items) {
   console.log(`${p.name.padEnd(5)} ${uniq.length} 件`);
 }
 
+const REFRESH = process.argv.includes('--refresh');
+
 mkdirSync(OUT, { recursive: true });
 
 const targets = ONLY ? PREFS.filter((p) => p.slug === ONLY) : PREFS;
 let done = 0;
 
 for (const p of targets) {
-  if (existsSync(join(OUT, `${p.slug}.json`))) continue;
+  // --refresh なしだと一度取った県を二度と見ない（新しく載った祭りが入らない）
+  if (existsSync(join(OUT, `${p.slug}.json`)) && !REFRESH) continue;
 
   const items = [];
   try {

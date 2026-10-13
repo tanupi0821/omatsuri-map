@@ -1,0 +1,29 @@
+id: mie-005-goguynet-64576
+name: おはよう朝市 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 鈴鹿市
+  ward: null
+venue:
+  name: 鈴鹿市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-16
+    start_time: 09:00
+    end_time: 12:00
+    status: confirmed
+    source_url: https://suzuka-kameyama.goguynet.jp/2026/08/10/cocorosforest/
+    source_name: 号外NET 鈴鹿市・亀山市
+    source_type: media
+    checked_at: 2026-09-03

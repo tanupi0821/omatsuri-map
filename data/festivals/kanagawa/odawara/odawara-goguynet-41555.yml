@@ -1,0 +1,32 @@
+id: odawara-goguynet-41555
+name: 第35回小田原ちょうちんまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 小田原市
+  ward: null
+venue:
+  name: 小田原市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 小田原市の公式サイト
+    url: https://www.city.odawara.kanagawa.jp/kanko/event/OCT/chochin1002.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://odawara.goguynet.jp/2026/09/26/chouchin-2/
+    source_name: 号外NET 小田原市（県西地域）
+    source_type: media
+    checked_at: 2026-09-03

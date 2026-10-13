@@ -1,0 +1,31 @@
+id: kumamoto-goguynet-59825
+name: 藤崎八旛宮例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 熊本県
+  city: 熊本市
+  ward: null
+venue:
+  name: 熊本市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: http://fujisakigu.or.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kumamotochuo-higashi.goguynet.jp/2026/09/13/fujisaki-2/
+    source_name: 号外NET 熊本市
+    source_type: media
+    checked_at: 2026-09-03

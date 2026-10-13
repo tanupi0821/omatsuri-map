@@ -1,0 +1,29 @@
+id: tokyo-004-goguynet-45068
+name: 秋の祭礼行事
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 西東京市
+  ward: null
+venue:
+  name: 西東京市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nishitokyo.goguynet.jp/2026/10/01/nakayoshikouen/
+    source_name: 号外NET 西東京市
+    source_type: media
+    checked_at: 2026-09-03

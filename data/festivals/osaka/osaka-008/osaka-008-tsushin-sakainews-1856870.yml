@@ -1,0 +1,30 @@
+id: osaka-008-tsushin-sakainews-1856870
+name: izumi ナイターまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 和泉市
+  ward: null
+venue:
+  name: 和泉市内
+  address: 和泉市唐国町3丁目18-50
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-16
+    start_time: 13:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://sakai-news.jp/mamitan_20260329-pr/mamieve/20260807-pr_a078_mainichi
+    source_name: さかにゅー
+    source_type: media
+    checked_at: 2026-09-03

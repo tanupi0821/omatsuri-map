@@ -1,0 +1,30 @@
+id: fukuoka-306-goguynet-43520
+name: 勝山夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市小倉北区
+  ward: null
+venue:
+  name: 勝山夜市
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-23
+    start_time: 19:40
+    end_time: 21:30
+    status: confirmed
+    source_url: https://kitakyushukokura-moji.goguynet.jp/2026/08/11/katuyamayoichi2026/
+    source_name: 号外NET 北九州市小倉北区・門司区・戸畑区
+    source_type: media
+    checked_at: 2026-09-03

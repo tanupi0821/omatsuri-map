@@ -1,0 +1,29 @@
+id: miyamae-rarea-307828
+name: さぎ沼まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 宮前区
+venue:
+  name: 川崎市と東急（株）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/307828
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-09-03

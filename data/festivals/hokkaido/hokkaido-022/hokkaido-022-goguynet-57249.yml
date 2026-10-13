@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 糸井商栄会のホームページ
+    url: https://itoishoeikai.com/
 occurrences:
   - year: 2026
     dates:

@@ -1,0 +1,29 @@
+id: tsukuba-goguynet-69337
+name: 万灯夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 茨城県
+  city: つくば市
+  ward: null
+venue:
+  name: つくば市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://tsukuba.goguynet.jp/2026/08/17/mando-natsu-matsuri2026/
+    source_name: 号外NET つくば市
+    source_type: media
+    checked_at: 2026-09-03

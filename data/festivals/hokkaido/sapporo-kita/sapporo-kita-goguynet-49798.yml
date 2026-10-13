@@ -1,0 +1,29 @@
+id: sapporo-kita-goguynet-49798
+name: 第16回 屯田地区センターまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市北区
+  ward: null
+venue:
+  name: 札幌市北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://sapporokitaku.goguynet.jp/2026/09/06/tondenmatsuri/
+    source_name: 号外NET 札幌市北区
+    source_type: media
+    checked_at: 2026-09-03

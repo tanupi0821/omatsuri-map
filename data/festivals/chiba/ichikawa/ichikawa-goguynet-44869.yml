@@ -1,0 +1,29 @@
+id: ichikawa-goguynet-44869
+name: 中山参道 夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: 市川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-10
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://ichikawa.goguynet.jp/2026/08/09/nakayamasandounatsumatsuri/
+    source_name: 号外NET 市川市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,32 @@
+id: aichi-027-goguynet-125764
+name: 一宮市びさい夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 尾西グリーンプラザ西
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: びさい夏まつり | 今月のイベント | 【公式】一宮市の公式
+    url: https://www.138ss.com/event/detail/8/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+      - 2026-08-09
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichinomiya.goguynet.jp/2026/08/06/2026bisaih/
+    source_name: 号外NET 一宮市
+    source_type: media
+    checked_at: 2026-09-03

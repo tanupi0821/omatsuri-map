@@ -1,0 +1,30 @@
+id: shinagawa-goguynet-127547
+name: 雉子神社 例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 雉子神社（品川区東五反田1-2-33）
+  address: 品川区東五反田1-2-33
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/09/24/post-127547/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-09-03

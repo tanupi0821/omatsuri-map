@@ -1,0 +1,30 @@
+id: aichi-027-goguynet-125944
+name: 開場24周年記念祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: 一宮市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichinomiya.goguynet.jp/2026/09/19/asobix-bisai/
+    source_name: 号外NET 一宮市
+    source_type: media
+    checked_at: 2026-09-03

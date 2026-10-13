@@ -1,0 +1,29 @@
+id: osaka-031-goguynet-72013
+name: 手持ち花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 八尾市
+  ward: null
+venue:
+  name: 八尾市老原1−13-3（FIT365八尾老原店西側空地）
+  address: 八尾市老原1-13-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://yao.goguynet.jp/2026/09/16/yao_oihara_farmers_market-5/
+    source_name: 号外NET 八尾市
+    source_type: media
+    checked_at: 2026-09-03

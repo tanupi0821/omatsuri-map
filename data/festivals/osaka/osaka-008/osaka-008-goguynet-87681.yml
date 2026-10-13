@@ -1,0 +1,30 @@
+id: osaka-008-goguynet-87681
+name: 和泉市制施行70周年フェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 和泉市
+  ward: null
+venue:
+  name: 和泉市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://izumi.goguynet.jp/2026/08/27/kuwabaradanjiri/
+    source_name: 号外NET 和泉市
+    source_type: media
+    checked_at: 2026-09-03

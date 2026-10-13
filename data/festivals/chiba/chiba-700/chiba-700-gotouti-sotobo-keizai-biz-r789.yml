@@ -1,0 +1,29 @@
+id: chiba-700-gotouti-sotobo-keizai-biz-r789
+name: 港の朝市イセエビ祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 千葉県
+  city: いすみ市
+  ward: null
+venue:
+  name: いすみ市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://sotobo.keizai.biz/headline/789/
+    source_name: 外房経済新聞
+    source_type: media
+    checked_at: 2026-09-03

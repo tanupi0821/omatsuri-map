@@ -105,6 +105,8 @@ function save(p, items) {
   console.log(`${p.name.padEnd(5)} ${uniq.length} 件`);
 }
 
+const REFRESH = process.argv.includes('--refresh');
+
 mkdirSync(OUT, { recursive: true });
 
 const targets = ONLY ? PREFS.filter((p) => p.slug === ONLY) : PREFS;
@@ -112,7 +114,9 @@ let done = 0;
 
 for (const p of targets) {
   const path = join(OUT, `${p.slug}.json`);
-  if (existsSync(path)) { continue; }
+  // --refresh を付けないと、一度取った県は二度と見に行かない。
+  // 秋・冬の花火大会は夏に取った時点ではまだ載っていないので、取り直さないと入らない
+  if (existsSync(path) && !REFRESH) { continue; }
 
   const items = [];
   try {

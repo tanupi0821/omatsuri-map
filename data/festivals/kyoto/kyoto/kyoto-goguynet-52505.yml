@@ -1,0 +1,29 @@
+id: kyoto-goguynet-52505
+name: 八瀬えいでん《駅》地ビール祭り２０２６
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京都市
+  ward: null
+venue:
+  name: 八瀬比叡山口駅
+  address: null
+  lat: null
+  lng: null
+organizer: 叡山電鉄株式会社
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-04
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kyoto.goguynet.jp/2026/08/22/beer_m--2ndproof4--/
+    source_name: 号外NET 京都市
+    source_type: media
+    checked_at: 2026-09-03

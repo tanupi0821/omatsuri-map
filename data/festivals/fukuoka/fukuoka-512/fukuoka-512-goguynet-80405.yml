@@ -1,0 +1,29 @@
+id: fukuoka-512-goguynet-80405
+name: 水ばっかし祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 北九州市小倉南区
+  ward: null
+venue:
+  name: 花農丘公園（北九州市立総合農事センター）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-30
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://kitakyushukokuraminami.goguynet.jp/2026/08/29/mizubakkashi2026-0830/
+    source_name: 号外NET 北九州市小倉南区
+    source_type: media
+    checked_at: 2026-09-03

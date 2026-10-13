@@ -1,0 +1,31 @@
+id: osaka-002-goguynet-41711
+name: 第5回水都くらわんか花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 高槻市
+  ward: null
+venue:
+  name: 高槻会場にて
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://takatsuki.goguynet.jp/2026/09/14/kurawankahanabi5th/
+    source_name: 号外NET 高槻市
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（事前予約：テーブル席(6名)4万2000円、バリアフリー席(6名)4万2000円、テーブル席(4名)3万2000円、シート席(6名)3万円、ペアイス席(2名)1万2000円、イス席(1名)4500円、カメラエリア(1名)1万円 ※専用入場レーン、フード＆ドリンクブース、仮設トイレが利用可。詳細は公式サイト参照）

@@ -1,0 +1,31 @@
+id: miyagi-709-goguynet-40281
+name: 第39回高砂夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 宮城県
+  city: 仙台市宮城野区
+  ward: null
+venue:
+  name: 高砂一丁目公園（あけぼの幼稚園東隣）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 号外NET 仙台市宮城野区・若林区
+    url: https://sendaimiyaginoku-wakabayashiku.goguynet.jp/2026/08/21/takasagoittyoumekouen/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 15:30
+    end_time: 19:00
+    status: confirmed
+    source_url: https://sendaimiyaginoku-wakabayashiku.goguynet.jp/2026/08/18/takasagonatu2026/
+    source_name: 号外NET 仙台市宮城野区・若林区
+    source_type: media
+    checked_at: 2026-09-03

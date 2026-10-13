@@ -1,0 +1,29 @@
+id: osaka-039-goguynet-73843
+name: 花むすび市 de 盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 東大阪市
+  ward: null
+venue:
+  name: 東大阪市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://higashiosaka.goguynet.jp/2026/08/22/hanamusubi-iti/
+    source_name: 号外NET 東大阪市
+    source_type: media
+    checked_at: 2026-09-03

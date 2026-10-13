@@ -1,0 +1,32 @@
+id: nara-001-goguynet-58411
+name: 平城京 秋の散楽フェスタ2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 奈良市
+  ward: null
+venue:
+  name: 奈良市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+      - 2026-10-10
+      - 2026-10-11
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nara.goguynet.jp/2026/10/01/post-58411/
+    source_name: 号外NET 奈良市
+    source_type: media
+    checked_at: 2026-09-03

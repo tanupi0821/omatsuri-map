@@ -261,6 +261,10 @@ cities:
     slug: hokkaido-311
   - name: 松前町
     slug: ehime-702
+  - name: 増毛町
+    slug: hokkaido-083
+  - name: 福島町
+    slug: hokkaido-084
 ---
 pref: 秋田県
 cities:
@@ -566,6 +570,12 @@ cities:
     slug: gifu-018
   - name: 美濃加茂市
     slug: gifu-026
+  - name: 可児市
+    slug: gifu-027
+  - name: 川辺町
+    slug: gifu-028
+  - name: 池田町
+    slug: gifu-029
 ---
 pref: 広島県
 cities:
@@ -751,6 +761,8 @@ cities:
     slug: kagawa-701
   - name: 土庄町
     slug: kagawa-702
+  - name: 小豆島町
+    slug: kagawa-700
 ---
 pref: 鹿児島県
 cities:
@@ -901,6 +913,10 @@ cities:
     slug: kyoto-303
   - name: 京都市東山区
     slug: kyoto-503
+  - name: 大山崎町
+    slug: kyoto-008
+  - name: 長岡京市
+    slug: kyoto-013
 ---
 pref: 三重県
 cities:
@@ -948,6 +964,8 @@ cities:
     slug: mie-701
   - name: 明和町
     slug: mie-021
+  - name: いなべ市
+    slug: mie-022
 ---
 pref: 宮城県
 cities:
@@ -1115,6 +1133,10 @@ cities:
     slug: nara-005
   - name: 橿原市
     slug: nara-008
+  - name: 平群町
+    slug: nara-010
+  - name: 三郷町
+    slug: nara-011
 ---
 pref: 新潟県
 cities:
@@ -1362,6 +1384,10 @@ cities:
     slug: osaka-507
   - name: 大阪市東住吉区
     slug: osaka-020
+  - name: 四條畷市
+    slug: osaka-006
+  - name: 藤井寺市
+    slug: osaka-800
 ---
 pref: 佐賀県
 cities:
@@ -1410,6 +1436,8 @@ cities:
     slug: shiga-801
   - name: 愛荘町
     slug: shiga-010
+  - name: 彦根市
+    slug: shiga-800
 ---
 pref: 島根県
 cities:
@@ -1728,6 +1756,10 @@ cities:
     slug: urayasu
   - name: 千葉市
     slug: chiba
+  - name: 四街道市
+    slug: chiba-003
+  - name: いすみ市
+    slug: chiba-700
 ---
 pref: 群馬県
 cities:
@@ -1879,6 +1911,8 @@ cities:
     slug: toshima-mura
   - name: 羽村市
     slug: tokyo-003
+  - name: 西東京市
+    slug: tokyo-004
 ---
 pref: 茨城県
 cities:

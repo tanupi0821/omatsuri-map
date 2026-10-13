@@ -1,0 +1,29 @@
+id: osaka-706-gotouti-katano-times-r20260912
+name: 寺ふれあい秋祭り2025
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 大阪府
+  city: 交野市
+  ward: null
+venue:
+  name: 交野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: 13:00
+    end_time: 19:10
+    status: confirmed
+    source_url: https://www.katano-times.com/event/terafureaifes-20260912.html
+    source_name: 交野タイムズ
+    source_type: media
+    checked_at: 2026-09-03

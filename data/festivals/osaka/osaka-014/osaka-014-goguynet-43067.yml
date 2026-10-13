@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 箕面市・池田市
+    url: https://minoh.goguynet.jp/2026/09/05/kidsfestakodomoru/
 occurrences:
   - year: 2026
     dates:

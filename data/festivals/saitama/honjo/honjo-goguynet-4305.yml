@@ -1,0 +1,33 @@
+id: honjo-goguynet-4305
+name: 利根川坂東大橋花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 本庄市
+  ward: null
+venue:
+  name: 観覧会場の「八斗島ちびっこ広場」周辺はこちら↓
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 号外NET 深谷市・本庄市
+    url: https://fukaya-honjo.goguynet.jp/2026/08/04/hanabi-2/
+  - title: ホームページ
+    url: https://www.city.honjo.lg.jp/soshiki/keizaikankyo/shoukoukankou/tantoujouhou/event/22413.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: 18:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://fukaya-honjo.goguynet.jp/2026/09/17/hanabi-3/
+    source_name: 号外NET 深谷市・本庄市
+    source_type: media
+    checked_at: 2026-09-03

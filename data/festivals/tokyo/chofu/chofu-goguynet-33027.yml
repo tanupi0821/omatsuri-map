@@ -1,0 +1,30 @@
+id: chofu-goguynet-33027
+name: 諏訪神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 調布市
+  ward: null
+venue:
+  name: 調布市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chofu-komae.goguynet.jp/2026/10/04/suwajinja-reitaisai-2/
+    source_name: 号外NET 調布市・狛江市
+    source_type: media
+    checked_at: 2026-09-03

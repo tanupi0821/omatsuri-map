@@ -1,0 +1,30 @@
+id: osaka-039-goguynet-73933
+name: 布施まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 東大阪市
+  ward: null
+venue:
+  name: 布施駅北口交通広場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: 18:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://higashiosaka.goguynet.jp/2026/09/11/fusematuri-2026/
+    source_name: 号外NET 東大阪市
+    source_type: media
+    checked_at: 2026-09-03

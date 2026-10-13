@@ -1,0 +1,29 @@
+id: shiga-011-tsushin-shigamamma-168925
+name: NORA夜市〜びわもりいち〜
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 守山市
+  ward: null
+venue:
+  name: 守山市内
+  address: 守山市焔魔堂町236番地
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/08/13/%e5%ae%88%e5%b1%b1%e3%81%ae%e5%a4%9c%e3%82%92%e6%a5%bd%e3%81%97%e3%82%80%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%ab%e3%82%b7%e3%82%a7%ef%bc%81%e3%80%8cnora%e5%a4%9c%e5%b8%82%e3%80%9c%e3%81%b3/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-09-03

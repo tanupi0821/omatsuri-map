@@ -1,0 +1,36 @@
+id: fujisawa-goguynet-77416
+name: ふじさわ江の島花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 片瀬海岸西浜
+  address: 藤沢市片瀬海岸
+  lat: 35.308801
+  lng: 139.479922
+organizer: ふじさわ江の島花火大会実行委員会
+stalls: yes
+tags:
+  - 花火
+description: null
+links:
+  - title: 藤沢市観光協会
+    url: https://www.fujisawa-kanko.jp/news/20260626-1.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-10-17
+    start_time: 18:00
+    end_time: 18:30
+    status: confirmed
+    source_url: https://fujisawa.goguynet.jp/2026/09/12/enoshimahanabitaikai2026/
+    source_name: 号外NET 藤沢市
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）
+station: 小田急片瀬江ノ島駅から徒歩2分、江ノ島電鉄江ノ島駅から徒歩5分、湘南モノレール湘南江の島駅から徒歩7分

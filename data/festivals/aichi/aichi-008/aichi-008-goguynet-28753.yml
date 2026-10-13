@@ -1,0 +1,29 @@
+id: aichi-008-goguynet-28753
+name: デコトラ見ながらパンケーキでも食べよう会夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 豊川市内
+  address: 豊川市中条町中道85-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2020
+    dates:
+      - 2020-08-29
+    start_time: 13:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://toyokawa-gamagori.goguynet.jp/2026/08/27/post-28753/
+    source_name: 号外NET 豊川市・蒲郡市
+    source_type: media
+    checked_at: 2026-09-03

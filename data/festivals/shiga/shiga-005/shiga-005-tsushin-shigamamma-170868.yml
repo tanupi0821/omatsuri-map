@@ -1,0 +1,33 @@
+id: shiga-005-tsushin-shigamamma-170868
+name: キラリエ秋まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 草津市
+  ward: null
+venue:
+  name: 草津市内
+  address: 草津市大路二丁目1-35
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: イベント詳細HP
+    url: https://www.kusatsu-spp.net/news/?id=470
+  - title: キラリエ草津のHP
+    url: https://kirarie-kusatsu.com/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/10/06/%e3%80%90%e8%8d%89%e6%b4%a5%e5%b8%82%e3%80%91%ef%bc%9c10-24%e5%9c%9f%ef%bc%9e%e4%bb%ae%e8%a3%85%e3%81%a7%e3%81%ae%e3%81%94%e5%8f%82%e5%8a%a0%e5%a4%a7%e6%ad%93%e8%bf%8e%ef%bc%81%e8%a6%aa%e5%ad%90/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-09-03

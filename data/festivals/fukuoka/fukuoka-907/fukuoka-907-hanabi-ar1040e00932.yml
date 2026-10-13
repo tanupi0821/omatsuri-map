@@ -37,3 +37,11 @@ occurrences:
 station: JR門司港駅から徒歩5分(門司側)
 paid_seats: yes
 paid_seats_note: 2026年は有料観覧席あり（協賛チケットあり。種別・席情報などは公式サイトにて要確認）
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Fireworks_13AUG2012_KanmonStraits_Japan.jpg/1280px-Fireworks_13AUG2012_KanmonStraits_Japan.jpg
+    width: 1000
+    height: 564
+    credit: Ka23 13
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Fireworks_13AUG2012_KanmonStraits_Japan.jpg

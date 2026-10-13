@@ -1,0 +1,30 @@
+id: shiga-007-tsushin-shigamamma-170726
+name: 親水公園・にぎわいまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 湖南市
+  ward: null
+venue:
+  name: 湖南市内
+  address: 湖南市夏見589
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-12-19
+      - 2026-12-20
+    start_time: 10:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/10/05/%e3%80%90%e6%b9%96%e5%8d%97%e5%b8%82%e3%80%91%e9%81%8a%e3%82%93%e3%81%a7%e3%80%81%e4%bd%9c%e3%81%a3%e3%81%a6%e3%80%81%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e3%82%82%e3%81%ae%e3%82%82%e2%99%aa%e8%a6%aa/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-09-03

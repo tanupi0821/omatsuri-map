@@ -1,0 +1,29 @@
+id: niigata-goguynet-44720
+name: 木戸病院まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市
+  ward: null
+venue:
+  name: 新潟市東区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: 10:00
+    end_time: 14:00
+    status: confirmed
+    source_url: https://niigatakita-higashi.goguynet.jp/2026/10/09/kidobyouinmaturi2026/
+    source_name: 号外NET 新潟市
+    source_type: media
+    checked_at: 2026-09-03

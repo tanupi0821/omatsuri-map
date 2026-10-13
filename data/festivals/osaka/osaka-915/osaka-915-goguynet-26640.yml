@@ -1,0 +1,29 @@
+id: osaka-915-goguynet-26640
+name: えのえん祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市此花区
+  ward: null
+venue:
+  name: 大阪市此花区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukushima-konohana.goguynet.jp/2026/09/08/enoenmatsuri/
+    source_name: 号外NET 大阪市福島区・此花区
+    source_type: media
+    checked_at: 2026-09-03

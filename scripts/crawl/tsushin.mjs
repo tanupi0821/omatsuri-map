@@ -100,12 +100,23 @@ async function get(url, attempt = 0) {
  * それに気づかず取り込むと全記事を祭りとして扱ってしまう。
  */
 async function searchWorks(host) {
-  const r = await fetch(`https://${host}/wp-json/wp/v2/posts?per_page=1&search=zzzqqqxxx`, {
-    headers: { 'User-Agent': UA },
-  });
+  // **閉鎖した媒体で全体が落ちないようにする。**
+  // higashinada-journal.com が名前解決できなくなっていて、ここで例外が出た
+  // せいで 12 媒体の巡回がまるごと止まっていた（情報が更新されない原因）。
+  let r;
+  try {
+    r = await fetch(`https://${host}/wp-json/wp/v2/posts?per_page=1&search=zzzqqqxxx`, {
+      headers: { 'User-Agent': UA },
+    });
+  } catch (e) {
+    console.warn(`  ${host}: つながらない（${e.cause?.code ?? e.message}）`);
+    return false;
+  }
   if (!r.ok) return false;
   return Number(r.headers.get('x-wp-total') ?? -1) === 0;
 }
+
+const REFRESH = process.argv.includes('--refresh');
 
 mkdirSync(OUT, { recursive: true });
 
@@ -114,7 +125,10 @@ for (const [key, site] of Object.entries(SITES)) {
   const path = join(OUT, `${key}.json`);
   const prev = existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : null;
   const done = new Set(prev?.terms ?? []);
-  const todo = TERMS.filter((t) => !done.has(t));
+  // --refresh は「まだ引いていない語」ではなく全語を引き直す。そうしないと
+  // 一度 20 語すべてを引いた媒体は二度と見に行かず、**新しい記事が入らない**。
+  // 代わりに after を前回の最終記事日にするので、返ってくるのは差分だけ
+  const todo = REFRESH ? TERMS : TERMS.filter((t) => !done.has(t));
   if (prev && !todo.length) { console.log(`${site.name}: 取得済み`); continue; }
 
   const delay = site.delayMs ?? DEFAULT_DELAY;
@@ -125,12 +139,16 @@ for (const [key, site] of Object.entries(SITES)) {
   await sleep(delay);
 
   const posts = new Map((prev?.items ?? []).map((x) => [x.id, x]));
+  // 引き直すときは前回取れた記事のいちばん新しい日から（差分だけ返る）
+  const since = (REFRESH
+    ? [...posts.values()].map((x) => x.date).filter(Boolean).sort().pop()
+    : null) ?? '2026-04-01';
   for (const term of todo) {
     let page = 1; let pages = 1;
     do {
       const url = `https://${site.host}/wp-json/wp/v2/posts`
         + `?per_page=50&page=${page}&search=${encodeURIComponent(term)}`
-        + '&after=2026-04-01T00:00:00';
+        + `&after=${since}T00:00:00`;
       let res;
       try {
         res = await get(url);

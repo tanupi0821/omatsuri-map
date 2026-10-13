@@ -1,0 +1,31 @@
+id: osaka-019-goguynet-83763
+name: 秋季例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 寝屋川市
+  ward: null
+venue:
+  name: 寝屋川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-12
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://neyagawa.goguynet.jp/2026/10/04/otoshi_zinzya-2/
+    source_name: 号外NET 寝屋川市
+    source_type: media
+    checked_at: 2026-09-03

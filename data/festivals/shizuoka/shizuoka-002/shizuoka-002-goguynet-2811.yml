@@ -1,0 +1,30 @@
+id: shizuoka-002-goguynet-2811
+name: ナガヤの納涼祭2026
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 伊東市
+  ward: null
+venue:
+  name: 伊東市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+      - 2026-08-28
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ito-izu-atami-izunokuni.goguynet.jp/2026/08/21/nagayasummer/
+    source_name: 号外NET 伊東市・伊豆市・熱海市・伊豆の国市・函南町
+    source_type: media
+    checked_at: 2026-09-03

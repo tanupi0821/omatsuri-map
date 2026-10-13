@@ -1,0 +1,30 @@
+id: kochi-001-goguynet-46305
+name: 高知 蔦屋書店 大夜市2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 高知県
+  city: 高知市
+  ward: null
+venue:
+  name: 高知市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kochi.goguynet.jp/2026/08/21/event_yoichi2026/
+    source_name: 号外NET 高知市
+    source_type: media
+    checked_at: 2026-09-03

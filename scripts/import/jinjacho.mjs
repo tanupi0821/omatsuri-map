@@ -43,9 +43,17 @@ const KIND = (name) => {
 const norm = (s) => String(s ?? '').replace(/[ケヵカ]/g, 'ヶ').trim();
 
 function areaIndex() {
-  const cities = new Map(); // 市町村名 -> {slug, wards: Map<区名, slug>}
+  /**
+   * **県名を鍵に入れること。** 市町村名だけで引くと、同じ名前の市が
+   * 別の県にあるときに後から読んだほうで上書きされる。実際、
+   * 広島県府中市が東京都府中市の slug（`fuchu`）を、
+   * 北海道伊達市が福島県伊達市の slug（`fukushima-003`）を拾っていて、
+   * 取り込むたびに `hiroshima/fuchu` と `hokkaido/fukushima-003` が
+   * 生まれ直していた（片付けても次の collect で戻る）。
+   */
+  const cities = new Map(); // `${県}|${市町村名}` -> {slug, wards: Map<区名, slug>}
   for (const a of loadAreaList(ROOT)) {
-    cities.set(norm(a.city), {
+    cities.set(`${a.pref}|${norm(a.city)}`, {
       // エリア定義側の表記を正とする（出典が「茅ケ崎市」でも「茅ヶ崎市」で書き出す）
       name: a.city,
       slug: a.slug,
@@ -142,8 +150,10 @@ for (const prefDir of PREF_DIRS) {
     // 郡の扱いは出典によって違う（住所は「桧山郡江差町」、エリア定義は「江差町」）。
     // 郡付きで引けなければ郡を落として引き直す。**逆はしない**
     // （郡を勝手に補うと、同名の町を別の郡のものと取り違える）
-    const cityInfo = cities.get(norm(area.city))
-      ?? (/^.{1,6}郡./.test(area.city) ? cities.get(norm(area.city.replace(/^.{1,6}郡/, ''))) : null);
+    const cityInfo = cities.get(`${pref}|${norm(area.city)}`)
+      ?? (/^.{1,6}郡./.test(area.city)
+        ? cities.get(`${pref}|${norm(area.city.replace(/^.{1,6}郡/, ''))}`)
+        : null);
     if (!cityInfo) {
       stats.noArea++; PP.noArea++;
       unknownAreas.add(area.city);

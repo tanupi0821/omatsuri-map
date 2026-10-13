@@ -1,0 +1,29 @@
+id: tokyo-004-goguynet-45012
+name: 住吉町の尉殿神社(じょうどのじんじゃ)で例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 西東京市
+  ward: null
+venue:
+  name: 西東京市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nishitokyo.goguynet.jp/2026/09/22/reitaisai-2/
+    source_name: 号外NET 西東京市
+    source_type: media
+    checked_at: 2026-09-03

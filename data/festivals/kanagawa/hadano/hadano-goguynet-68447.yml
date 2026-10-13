@@ -1,0 +1,30 @@
+id: hadano-goguynet-68447
+name: たばこ祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 秦野市
+  ward: null
+venue:
+  name: 秦野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hadano-isehara.goguynet.jp/2026/09/24/20260924_hadanoisehara/
+    source_name: 号外NET 秦野市・伊勢原市
+    source_type: media
+    checked_at: 2026-09-03

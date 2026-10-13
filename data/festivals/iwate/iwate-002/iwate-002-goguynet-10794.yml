@@ -1,0 +1,29 @@
+id: iwate-002-goguynet-10794
+name: 中部病院祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 北上市
+  ward: null
+venue:
+  name: 北上市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 11:00
+    end_time: 14:00
+    status: confirmed
+    source_url: https://hanamaki-kitakami-tono.goguynet.jp/2026/09/22/tyuububyouinsai/
+    source_name: 号外NET 花巻市・北上市・遠野市
+    source_type: media
+    checked_at: 2026-09-03

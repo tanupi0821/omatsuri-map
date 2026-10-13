@@ -1,0 +1,29 @@
+id: okayama-503-goguynet-111614
+name: ぼっけぇ盆踊り！2026 in 問屋町
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 岡山県
+  city: 岡山市北区
+  ward: null
+venue:
+  name: 岡山市北区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-09
+    start_time: 05:00
+    end_time: 23:00
+    status: confirmed
+    source_url: https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/08/07/toiyacho/
+    source_name: 号外NET 岡山市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,31 @@
+id: hiroshima-saeki-goguynet-43919
+name: 安全祈願祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 広島市佐伯区
+  ward: null
+venue:
+  name: 広島市佐伯区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://www.hachiman-jinja.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiroshima.goguynet.jp/2026/09/17/itsukaichi-hachiman-jinja-autumn-festival-20261010--hiroshimaedit2--/
+    source_name: 号外NET 広島市
+    source_type: media
+    checked_at: 2026-09-03

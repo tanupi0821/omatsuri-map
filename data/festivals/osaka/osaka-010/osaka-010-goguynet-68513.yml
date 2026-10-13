@@ -1,0 +1,29 @@
+id: osaka-010-goguynet-68513
+name: つながる市民納涼祭
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 泉大津市
+  ward: null
+venue:
+  name: 泉大津市内
+  address: null
+  lat: null
+  lng: null
+organizer: シーパスパーク・クラブ
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: 15:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://kanku-area.goguynet.jp/2026/08/29/sheepathparkclub-13/
+    source_name: 号外NET 泉大津市・高石市・忠岡町
+    source_type: media
+    checked_at: 2026-09-03

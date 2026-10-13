@@ -1,0 +1,29 @@
+id: gifu-027-goguynet-37523
+name: どたばたまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 可児市
+  ward: null
+venue:
+  name: 湯の華アイランド広場（湯の華市場駐車場）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: 10:30
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/09/26/dotabata-2/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-09-03

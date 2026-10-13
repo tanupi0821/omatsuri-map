@@ -1,0 +1,32 @@
+id: inzai-goguynet-50748
+name: 竹袋稲荷神社例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 印西市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 印西市ホームページ
+    url: https://www.city.inzai.lg.jp/0000022097.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/10/09/takefukuroinarijinjareitaisai2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-09-03

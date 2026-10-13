@@ -1,0 +1,29 @@
+id: tokyo-008-goguynet-38517
+name: 地域交流夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 三鷹市
+  ward: null
+venue:
+  name: 牟礼団地
+  address: 三鷹市牟礼6丁目23番地
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: 17:00
+    end_time: 20:45
+    status: confirmed
+    source_url: https://mitaka.goguynet.jp/2026/09/06/mitaka-muredanchinatsumatsuri2026/
+    source_name: 号外NET 三鷹市
+    source_type: media
+    checked_at: 2026-09-03

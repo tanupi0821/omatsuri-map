@@ -1,0 +1,30 @@
+id: tokyo-008-goguynet-38750
+name: 牟礼神明社大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 三鷹市
+  ward: null
+venue:
+  name: 牟礼神明社
+  address: 三鷹市牟礼2丁目6-12
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+    start_time: 11:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://mitaka.goguynet.jp/2026/09/30/mureshinmeisha-taisai/
+    source_name: 号外NET 三鷹市
+    source_type: media
+    checked_at: 2026-09-03

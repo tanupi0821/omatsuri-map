@@ -1,0 +1,29 @@
+id: shinagawa-goguynet-127542
+name: 荏原第四地区子どもまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 上神明小学校（品川区二葉4-4-10）
+  address: 品川区二葉4-4-10
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: 10:00
+    end_time: 12:00
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/09/22/post-127542/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-09-03

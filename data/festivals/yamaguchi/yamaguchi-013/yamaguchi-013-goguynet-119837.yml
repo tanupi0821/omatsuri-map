@@ -1,0 +1,29 @@
+id: yamaguchi-013-goguynet-119837
+name: 須々万八朔祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 周南市
+  ward: null
+venue:
+  name: 菅原神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://shunan-kudamatsu-hikari.goguynet.jp/2026/08/21/2026-8-22-23event-shunan/
+    source_name: 号外NET 周南市・下松市・光市
+    source_type: media
+    checked_at: 2026-09-03

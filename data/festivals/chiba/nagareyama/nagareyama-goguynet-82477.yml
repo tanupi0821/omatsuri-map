@@ -1,0 +1,29 @@
+id: nagareyama-goguynet-82477
+name: 第1回 野々下水辺公園盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 野々下水辺公園
+  address: 流山市野々下2-1-2
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-11
+    start_time: 15:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://nagareyama-noda.goguynet.jp/2026/08/11/kokuhakurokechi/
+    source_name: 号外NET 流山市・野田市
+    source_type: media
+    checked_at: 2026-09-03

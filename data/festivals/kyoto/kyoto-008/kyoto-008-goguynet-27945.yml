@@ -1,0 +1,29 @@
+id: kyoto-008-goguynet-27945
+name: 京都・日本伝統文化の祭典
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 大山崎町
+  ward: null
+venue:
+  name: 大山崎町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-16
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagaokakyo.goguynet.jp/2026/09/12/oyamazaki-yamafes-yukata/
+    source_name: 号外NET 長岡京市（向日市・大山崎町）
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,34 @@
+id: aichi-717-goguynet-42547
+name: 東山動植物園秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 名古屋市千種区
+  ward: null
+venue:
+  name: カリフォルニアアシカ舎付近
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式ページ
+    url: https://www.higashiyama.city.nagoya.jp/calendar/2026/09/76-1.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-11-23
+      - 2026-10-01
+      - 2026-11-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagoyameito-chikusa.goguynet.jp/2026/10/06/higashiyamaakimatsuri-2/
+    source_name: 号外NET 名古屋市名東区・千種区
+    source_type: media
+    checked_at: 2026-09-03

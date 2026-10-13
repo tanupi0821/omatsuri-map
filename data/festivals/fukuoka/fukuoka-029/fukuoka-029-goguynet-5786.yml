@@ -1,0 +1,29 @@
+id: fukuoka-029-goguynet-5786
+name: ふらりとおいでよ 赤間宿 kid’s縁日2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 宗像市
+  ward: null
+venue:
+  name: 宗像市内
+  address: null
+  lat: null
+  lng: null
+organizer: 赤間宿商店組合
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://munakata-fukutsu-koga.goguynet.jp/2026/10/01/furaritooideyo-akamajuku-kidsennichi2026/
+    source_name: 号外NET 宗像市・福津市・古賀市
+    source_type: media
+    checked_at: 2026-09-03

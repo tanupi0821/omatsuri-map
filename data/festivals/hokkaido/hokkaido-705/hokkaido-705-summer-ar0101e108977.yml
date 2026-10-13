@@ -34,3 +34,11 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: 札幌市営地下鉄大通駅から徒歩8分
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/1/19/Raccoondog_festival_in_awa_2006.jpg
+    width: 1000
+    height: 750
+    credit: Tamago915
+    license: CC BY-SA 3.0
+    license_url: http://creativecommons.org/licenses/by-sa/3.0/
+    source: https://commons.wikimedia.org/wiki/File:Raccoondog_festival_in_awa_2006.jpg

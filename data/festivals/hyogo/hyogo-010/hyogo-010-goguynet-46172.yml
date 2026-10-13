@@ -1,0 +1,31 @@
+id: hyogo-010-goguynet-46172
+name: 第77回猪名川花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 川西市
+  ward: null
+venue:
+  name: 猪名川河川敷
+  address: 川西市小花2丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://takarazuka.goguynet.jp/2026/09/04/hanabi_m/
+    source_name: 号外NET 宝塚市・川西市
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: no
+paid_seats_note: 2026年は有料観覧席を設けない（出典の「有料席」欄が「なし」）

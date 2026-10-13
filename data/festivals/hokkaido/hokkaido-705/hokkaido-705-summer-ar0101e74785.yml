@@ -34,3 +34,18 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: 札幌市営地下鉄大通駅または西11丁目駅からすぐ
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg/1280px-SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820797706311%29.jpg
+    width: 1000
+    height: 1500
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._(20797706311).jpg
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820764442536%29.jpg/1280px-SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._%2820764442536%29.jpg
+    width: 1000
+    height: 666
+    credit: MIKI Yoshihito from Sapporo City,Hokkaido., JAPAN
+    license: CC BY 2.0
+    license_url: https://creativecommons.org/licenses/by/2.0
+    source: https://commons.wikimedia.org/wiki/File:SAKURAKO_-_HOKKAI_Bon-odori_Dance_Festival._(20764442536).jpg

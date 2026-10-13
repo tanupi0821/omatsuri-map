@@ -1,0 +1,31 @@
+id: ehime-703-goguynet-57395
+name: 双海の花火大会2026
+kind: 花火
+scale: 町内会
+area:
+  pref: 愛媛県
+  city: 伊予市
+  ward: null
+venue:
+  name: ふたみシーサイド公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 双海の花火大会ホームページ
+    url: https://futami-hanabi.com/#about
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsuyama.goguynet.jp/2026/09/16/futamihanabi-2/
+    source_name: 号外NET 松山市
+    source_type: media
+    checked_at: 2026-09-03

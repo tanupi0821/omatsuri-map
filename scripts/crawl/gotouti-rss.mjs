@@ -94,7 +94,19 @@ console.log(`REST が使えない媒体 ${targets.length} 件`);
 mkdirSync(OUT, { recursive: true });
 const fileOf = (host) => join(OUT, `${host.replace(/[^a-z0-9.-]/gi, '_')}.json`);
 
-let todo = targets.filter((t) => !existsSync(fileOf(t.host)));
+/**
+ * 既定は「まだ取っていない媒体」だけ。これだと**一度取った媒体の新しい記事が
+ * 二度と入らない**（RSS は最新 10〜20 本しか載っていないので、取り直さないと
+ * 9 月以降の記事が永久に抜ける）。--refresh では前回記事が取れた媒体を引き直す。
+ * robots や Content-Signal で断られた媒体は叩き直さない（断りは尊重する）。
+ */
+const REFRESH = process.argv.includes('--refresh');
+let todo = targets.filter((t) => {
+  const f = fileOf(t.host);
+  if (!existsSync(f)) return true;
+  if (!REFRESH) return false;
+  try { return (JSON.parse(readFileSync(f, 'utf8')).items ?? []).length > 0; } catch { return false; }
+});
 if (LIMIT) todo = todo.slice(0, LIMIT);
 console.log(`今回 ${todo.length} 媒体（並列 ${WORKERS}）`);
 

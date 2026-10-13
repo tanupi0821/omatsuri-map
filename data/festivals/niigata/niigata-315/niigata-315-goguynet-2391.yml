@@ -1,0 +1,32 @@
+id: niigata-315-goguynet-2391
+name: 岩室大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 新潟県
+  city: 新潟市西蒲区
+  ward: null
+venue:
+  name: 新潟市西蒲区内
+  address: null
+  lat: null
+  lng: null
+organizer: 「岩室大祭祭礼実行委員会
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 新潟市観光ガイドの公式サイト
+    url: https://www.nvcb.or.jp/event/detail_1358.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niigatanishi-nishikan.goguynet.jp/2026/09/24/iwamuro-taisai/
+    source_name: 号外NET 新潟市西区・西蒲区
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,29 @@
+id: shiga-008-goguynet-41678
+name: はちまんフェスタ2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 滋賀県
+  city: 近江八幡市
+  ward: null
+venue:
+  name: 近江八幡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://higashiomi-omihachiman.goguynet.jp/2026/09/23/hachi-man-festa/
+    source_name: 号外NET 東近江市・近江八幡市
+    source_type: media
+    checked_at: 2026-09-03

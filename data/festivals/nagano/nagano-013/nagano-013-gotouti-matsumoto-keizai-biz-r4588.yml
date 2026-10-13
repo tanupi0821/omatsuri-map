@@ -1,0 +1,30 @@
+id: nagano-013-gotouti-matsumoto-keizai-biz-r4588
+name: 信州ギター祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 長野県
+  city: 松本市
+  ward: null
+venue:
+  name: 松本市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://matsumoto.keizai.biz/headline/4588/
+    source_name: 松本経済新聞
+    source_type: media
+    checked_at: 2026-09-03

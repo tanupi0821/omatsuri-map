@@ -1,0 +1,29 @@
+id: kagoshima-702-gotouti-hiokito-r31597038
+name: 祭り型ウォークイベント
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 鹿児島県
+  city: 日置市
+  ward: null
+venue:
+  name: 日置市内
+  address: null
+  lat: null
+  lng: null
+organizer: 妙円寺詣りふぇすたウォークリー2026実行委員会
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hiokito.jp/31597038.html
+    source_name: ひおきと
+    source_type: media
+    checked_at: 2026-09-03

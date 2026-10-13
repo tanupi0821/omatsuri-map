@@ -1,0 +1,33 @@
+id: oi-goguynet-77802
+name: 多摩川花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 大井町
+  ward: null
+venue:
+  name: 大井町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 世田谷区たまがわ花火大会公式ページ
+    url: https://tamagawa-hanabi.com/
+  - title: 川崎市制記念多摩川花火大会公式ページ
+    url: https://www.city.kawasaki.jp/280/page/0000117559.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamamidori-aoba.goguynet.jp/2026/10/01/tamagawa-hanabi-train/
+    source_name: 号外NET 横浜市緑区・青葉区
+    source_type: media
+    checked_at: 2026-09-03

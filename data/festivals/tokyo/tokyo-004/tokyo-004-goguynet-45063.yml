@@ -1,0 +1,29 @@
+id: tokyo-004-goguynet-45063
+name: 柳沢北口商店街祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 西東京市
+  ward: null
+venue:
+  name: 西東京市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 15:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://nishitokyo.goguynet.jp/2026/09/30/sairei-2/
+    source_name: 号外NET 西東京市
+    source_type: media
+    checked_at: 2026-09-03

@@ -15,7 +15,9 @@ station: 成田
 organizer: 成田山新勝寺
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 成田市・富里市・酒々井町
+    url: https://narita-tomisato.goguynet.jp/2026/08/17/naritasanmitamamaturibonodoritaikai/
 occurrences:
   - year: 2026
     dates:

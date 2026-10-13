@@ -16,7 +16,11 @@ tags:
   - 神輿
   - 山車
 description: null
-links: []
+links:
+  - title: 号外NET 市川市
+    url: https://ichikawa.goguynet.jp/2026/09/26/funabashishiminmatsuri2026/
+  - title: 船橋経済新聞
+    url: http://funabashi.keizai.biz/headline/3824/
 occurrences:
   - year: 2026
     dates:
@@ -29,4 +33,4 @@ occurrences:
     source_name: 地域メディア（まいぷれ船橋／千葉すまいラボ）
     source_type: media
     checked_at: 2026-08-03
-stalls: unknown
+stalls: yes

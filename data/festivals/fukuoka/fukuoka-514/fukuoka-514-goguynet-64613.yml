@@ -1,0 +1,31 @@
+id: fukuoka-514-goguynet-64613
+name: だいこく祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市博多区
+  ward: null
+venue:
+  name: 福岡市博多区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+      - 2026-10-03
+      - 2026-10-04
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokahakata.goguynet.jp/2026/10/03/2026-10-ivent/
+    source_name: 号外NET 福岡市博多区
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,30 @@
+id: nara-005-goguynet-36592
+name: おかげ祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 大和高田市
+  ward: null
+venue:
+  name: 大和高田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+      - 2026-10-12
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://yamatotakadakashihara.goguynet.jp/2026/09/26/okage-11/
+    source_name: 号外NET 大和高田市・橿原市
+    source_type: media
+    checked_at: 2026-09-03

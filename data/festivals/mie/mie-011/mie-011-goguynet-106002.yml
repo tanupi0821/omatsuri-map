@@ -1,0 +1,30 @@
+id: mie-011-goguynet-106002
+name: 桑名盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 桑名市
+  ward: null
+venue:
+  name: 桑名市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kuwana-inabe.goguynet.jp/2026/08/18/bikkuriyomise2026/
+    source_name: 号外NET 桑名市・いなべ市
+    source_type: media
+    checked_at: 2026-09-03

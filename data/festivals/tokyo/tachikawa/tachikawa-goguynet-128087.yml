@@ -1,0 +1,29 @@
+id: tachikawa-goguynet-128087
+name: 第38回 立川よいと祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: サンサンロード（立川北駅すぐ／多摩モノレール下）
+  address: null
+  lat: null
+  lng: null
+organizer: 立川よいと祭り実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: 13:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://tachikawa-akishima.goguynet.jp/2026/09/28/tachikawa-yoitomatsuri-2026/
+    source_name: 号外NET 立川市・昭島市
+    source_type: media
+    checked_at: 2026-09-03

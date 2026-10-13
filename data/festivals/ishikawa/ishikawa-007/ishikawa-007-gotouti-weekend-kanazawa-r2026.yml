@@ -1,0 +1,31 @@
+id: ishikawa-007-gotouti-weekend-kanazawa-r2026
+name: 第19回北陸ラーメン博＆日本全国まんぷく祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 石川県
+  city: 金沢市
+  ward: null
+venue:
+  name: 石川県産業展示館4号館
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.weekend-kanazawa.com/entry/hokuriku-ramen2026?utm_source=feed
+    source_name: 週末、金沢。
+    source_type: media
+    checked_at: 2026-09-03

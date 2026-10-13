@@ -1,0 +1,30 @@
+id: soka-goguynet-58727
+name: 盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 草加市
+  ward: null
+venue:
+  name: 中根町ふれあい広場
+  address: 草加市中根2丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-07
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://soka.goguynet.jp/2026/08/06/bonodoritaikai2026/
+    source_name: 号外NET 草加市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,30 @@
+id: tama-goguynet-53130
+name: 堰稲荷神社 例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 川崎市多摩区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: 16:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/10/09/sekiinarireitaisai/
+    source_name: 号外NET 川崎市多摩区
+    source_type: media
+    checked_at: 2026-09-03

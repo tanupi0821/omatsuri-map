@@ -1,0 +1,29 @@
+id: hiroshima-013-goguynet-40883
+name: 入船山秋祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 呉市
+  ward: null
+venue:
+  name: 青山クラブ中庭
+  address: null
+  lat: null
+  lng: null
+organizer: 入船山秋祭り実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://kure-etajima.goguynet.jp/2026/09/30/irifuneyamaakimatsuri-4/
+    source_name: 号外NET 呉市・江田島市
+    source_type: media
+    checked_at: 2026-09-03

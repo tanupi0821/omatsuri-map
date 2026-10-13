@@ -1,0 +1,29 @@
+id: gifu-010-goguynet-4592
+name: 東美濃文化芸術大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 多治見市
+  ward: null
+venue:
+  name: セラミックパークMINO
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: 10:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://tajimi.goguynet.jp/2026/09/24/geijyutsutaisai/
+    source_name: 号外NET 多治見市（東濃地域）
+    source_type: media
+    checked_at: 2026-09-03

@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: たちかわ妖怪盆踊り実行委員会
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 立川市・昭島市
+    url: https://tachikawa-akishima.goguynet.jp/2026/09/18/tachikawa-yokai-bonodori-2026/
 occurrences:
   - year: 2026
     dates:

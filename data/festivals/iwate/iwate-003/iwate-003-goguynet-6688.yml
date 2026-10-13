@@ -1,0 +1,29 @@
+id: iwate-003-goguynet-6688
+name: 盛岡げんき祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岩手県
+  city: 盛岡市
+  ward: null
+venue:
+  name: 盛岡市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://morioka.goguynet.jp/2026/09/25/moriokagenkimatsuri-2026/
+    source_name: 号外NET 盛岡市
+    source_type: media
+    checked_at: 2026-09-03

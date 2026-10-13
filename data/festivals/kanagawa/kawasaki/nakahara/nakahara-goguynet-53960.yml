@@ -1,0 +1,29 @@
+id: nakahara-goguynet-53960
+name: 川崎市制記念多摩川花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 中原区
+venue:
+  name: 多摩川河川敷
+  address: null
+  lat: null
+  lng: null
+organizer: 川崎市
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 18:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://kawasakinakahara.goguynet.jp/2026/09/08/hanabi-6/
+    source_name: 号外NET 川崎市中原区
+    source_type: media
+    checked_at: 2026-09-03

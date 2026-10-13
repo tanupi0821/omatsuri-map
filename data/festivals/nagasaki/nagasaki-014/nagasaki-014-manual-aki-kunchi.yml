@@ -38,3 +38,18 @@ occurrences:
 stalls: unknown
 paid_seats: yes
 paid_seats_note: 会場ごとに有料の指定席（桝席など）を販売。販売開始時期は会場により異なる（諏訪神社は6月、中央公園は8月頃）
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Kunchi_kasaboko.jpg/1280px-Kunchi_kasaboko.jpg
+    width: 1000
+    height: 1000
+    credit: Houjyou-Minori
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Kunchi_kasaboko.jpg
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jaodori_of_Nagasaki_Kunchi.jpg/1280px-Jaodori_of_Nagasaki_Kunchi.jpg
+    width: 1000
+    height: 750
+    credit: Marine-Blue
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Jaodori_of_Nagasaki_Kunchi.jpg

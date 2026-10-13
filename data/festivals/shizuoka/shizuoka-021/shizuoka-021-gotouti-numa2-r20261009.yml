@@ -1,0 +1,29 @@
+id: shizuoka-021-gotouti-numa2-r20261009
+name: 土曜日にプラサヴェルデでVTuberまつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 静岡県
+  city: 沼津市
+  ward: null
+venue:
+  name: 沼津市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.numa2.jp/archives/gotouchiVtuberMatsuri-20261009
+    source_name: 沼津つーしん
+    source_type: media
+    checked_at: 2026-09-03

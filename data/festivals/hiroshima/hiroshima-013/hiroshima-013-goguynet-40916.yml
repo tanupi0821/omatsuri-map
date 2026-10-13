@@ -1,0 +1,29 @@
+id: hiroshima-013-goguynet-40916
+name: くれ中央秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 広島県
+  city: 呉市
+  ward: null
+venue:
+  name: 呉中央公園ふれあい広場（呉市体育館南）
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: 10:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://kure-etajima.goguynet.jp/2026/10/07/kurechuuouakimatsuri/
+    source_name: 号外NET 呉市・江田島市
+    source_type: media
+    checked_at: 2026-09-03

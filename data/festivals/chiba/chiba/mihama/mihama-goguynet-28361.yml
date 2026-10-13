@@ -1,0 +1,29 @@
+id: mihama-goguynet-28361
+name: 盆踊りナイト
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 千葉市
+  ward: 美浜区
+venue:
+  name: 千葉市美浜区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://chiba.goguynet.jp/2026/09/07/makuharibaypark-3/
+    source_name: 号外NET 千葉市
+    source_type: media
+    checked_at: 2026-09-03

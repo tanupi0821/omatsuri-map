@@ -34,3 +34,11 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: JR京都駅からバスで祇園下車すぐ
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Gion_Matsuri_2017-5.jpg/1280px-Gion_Matsuri_2017-5.jpg
+    width: 1000
+    height: 664
+    credit: 江戸村のとくぞう
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0
+    source: https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg

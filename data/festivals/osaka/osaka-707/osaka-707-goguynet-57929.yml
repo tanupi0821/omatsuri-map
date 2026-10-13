@@ -1,0 +1,29 @@
+id: osaka-707-goguynet-57929
+name: パインアメ夏祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市中央区
+  ward: null
+venue:
+  name: 大阪市中央区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-08
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://osaka.goguynet.jp/2026/08/09/pineamenatsumatsuri2026--2ndproof4--/
+    source_name: 号外NET 大阪市
+    source_type: media
+    checked_at: 2026-09-03

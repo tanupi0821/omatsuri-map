@@ -1,0 +1,32 @@
+id: meguro-goguynet-118583
+name: 八雲氷川神社のお祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 目黒区
+  ward: null
+venue:
+  name: 神酒所
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 目黒区
+    url: https://meguro.goguynet.jp/2026/09/27/yakumohikawajinjya_omatsuri2026_2/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://meguro.goguynet.jp/2026/09/11/yakumohikawajinjya_omatsuri2026/
+    source_name: 号外NET 目黒区
+    source_type: media
+    checked_at: 2026-09-03

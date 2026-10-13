@@ -1,0 +1,29 @@
+id: nara-007-goguynet-25797
+name: ドンキ祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 奈良県
+  city: 生駒市・香芝市周辺
+  ward: null
+venue:
+  name: MEGAドン・キホーテUNY西大和店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: 14:00
+    end_time: 20:30
+    status: confirmed
+    source_url: https://ikoma-kashiba.goguynet.jp/2026/09/03/donki-festival-2026/
+    source_name: 号外NET 生駒市・香芝市
+    source_type: media
+    checked_at: 2026-09-03

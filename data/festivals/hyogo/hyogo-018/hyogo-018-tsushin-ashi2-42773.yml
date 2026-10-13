@@ -1,0 +1,31 @@
+id: hyogo-018-tsushin-ashi2-42773
+name: モンテメールの夏祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市船戸町1-31
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: モンテメール 公式サイト
+    url: https://www.jrw-urban.co.jp/montetmer/event/2473
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: 11:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://ashi2.jp/42773/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-09-03

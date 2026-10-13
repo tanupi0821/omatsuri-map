@@ -1,0 +1,29 @@
+id: hokkaido-013-goguynet-49515
+name: 函館東商工会秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 函館市
+  ward: null
+venue:
+  name: 道の駅なとわ・えさん前特設会場
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://hakodate.goguynet.jp/2026/09/04/akimatsuri/
+    source_name: 号外NET 函館市
+    source_type: media
+    checked_at: 2026-09-03

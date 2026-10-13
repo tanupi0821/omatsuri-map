@@ -1,0 +1,29 @@
+id: tachikawa-goguynet-128310
+name: 六番組秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 立川市
+  ward: null
+venue:
+  name: 柏二中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+    start_time: 13:30
+    end_time: 19:00
+    status: confirmed
+    source_url: https://tachikawa-akishima.goguynet.jp/2026/10/10/6bangumi-akimatsuri/
+    source_name: 号外NET 立川市・昭島市
+    source_type: media
+    checked_at: 2026-09-03

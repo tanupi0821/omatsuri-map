@@ -1,0 +1,29 @@
+id: fujisawa-goguynet-76959
+name: ウエストプラザ夏祭り 2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 藤沢市
+  ward: null
+venue:
+  name: 湘南台ウエストプラザ1番地
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 11:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://fujisawa.goguynet.jp/2026/08/22/shonandai-westplaza-natsumatsuri2026/
+    source_name: 号外NET 藤沢市
+    source_type: media
+    checked_at: 2026-09-03

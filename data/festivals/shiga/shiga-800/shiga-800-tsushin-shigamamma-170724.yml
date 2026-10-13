@@ -1,0 +1,32 @@
+id: shiga-800-tsushin-shigamamma-170724
+name: にぎわい祭り
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 彦根市
+  ward: null
+venue:
+  name: 彦根市内
+  address: 彦根市馬場2丁目1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ふりまるマーケット】公式Instagram
+    url: https://www.instagram.com/furimarumarket/?hl=ja
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-07
+      - 2026-11-08
+    start_time: 10:00
+    end_time: 15:30
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/10/04/%e3%80%90%e5%bd%a6%e6%a0%b9%e5%b8%82%e3%80%91%e3%81%b5%e3%82%8f%e3%81%b5%e3%82%8f%e9%81%8a%e5%85%b7%e3%82%84%e7%b8%81%e6%97%a5%e3%80%81%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-09-03

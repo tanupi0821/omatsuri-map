@@ -1,0 +1,32 @@
+id: hyogo-001-goguynet-34539
+name: 納涼フェスティバル2026
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 明石市
+  ward: null
+venue:
+  name: 明石公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: ◎納涼フェスティバル2026 (明石公園ホームページ
+    url: https://hyogo-akashipark.jp/noryofes2026/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+      - 2026-08-30
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://akashi.goguynet.jp/2026/08/25/noryo_m/
+    source_name: 号外NET 明石市
+    source_type: media
+    checked_at: 2026-09-03

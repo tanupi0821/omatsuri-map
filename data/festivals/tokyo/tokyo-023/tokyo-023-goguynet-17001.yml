@@ -12,10 +12,12 @@ venue:
   lat: null
   lng: null
 organizer: null
-stalls: unknown
+stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 武蔵野市・小金井市
+    url: https://musashino.goguynet.jp/2026/09/12/kichijoji-akimatsuri-2/
 occurrences:
   - year: 2026
     dates:

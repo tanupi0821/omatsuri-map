@@ -1,0 +1,29 @@
+id: osaka-014-goguynet-44022
+name: 天狗祭り（西小路八幡太神社秋季例大祭）
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 箕面市
+  ward: null
+venue:
+  name: 箕面市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://minoh.goguynet.jp/2026/10/01/tengumatsuri-2/
+    source_name: 号外NET 箕面市・池田市
+    source_type: media
+    checked_at: 2026-09-03

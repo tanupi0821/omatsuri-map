@@ -1,0 +1,30 @@
+id: fukuoka-shi-goguynet-64305
+name: 移動のストレスなくお祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: null
+venue:
+  name: 筥崎宮（福岡市東区箱崎1-22-1）
+  address: 福岡市東区箱崎1-22-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokahakata.goguynet.jp/2026/09/11/post-64305/
+    source_name: 号外NET 福岡市博多区
+    source_type: media
+    checked_at: 2026-09-03

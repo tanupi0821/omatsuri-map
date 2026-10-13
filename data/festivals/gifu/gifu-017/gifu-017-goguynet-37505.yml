@@ -1,0 +1,30 @@
+id: gifu-017-goguynet-37505
+name: みたけ光と実りの収穫祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 御嵩町
+  ward: null
+venue:
+  name: 御嵩町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/09/24/hikaritominori/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-09-03

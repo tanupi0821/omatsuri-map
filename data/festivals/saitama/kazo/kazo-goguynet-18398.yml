@@ -1,0 +1,31 @@
+id: kazo-goguynet-18398
+name: おおとね商工夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 加須市
+  ward: null
+venue:
+  name: 豊野コミュニティセンター特設会場
+  address: 加須市豊野台1-345-10
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://kazo-sci.jpn.org/jigyou/ootonesyoukounatumaturi.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kazo-hanyu.goguynet.jp/2026/09/10/ootone-syokou-matsumatsuri-2026/
+    source_name: 号外NET 加須市・羽生市・行田市
+    source_type: media
+    checked_at: 2026-09-03

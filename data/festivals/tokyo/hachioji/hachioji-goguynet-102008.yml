@@ -1,0 +1,29 @@
+id: hachioji-goguynet-102008
+name: 満腹チャンピオン祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 八王子市
+  ward: null
+venue:
+  name: 東京たま未来メッセ入口
+  address: 八王子市旭町13-18
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: 10:00
+    end_time: 16:30
+    status: confirmed
+    source_url: https://hachioji.goguynet.jp/2026/09/16/sasaki-jin/
+    source_name: 号外NET 八王子市
+    source_type: media
+    checked_at: 2026-09-03

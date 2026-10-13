@@ -1,0 +1,35 @@
+id: sakura-chiba-goguynet-77926
+name: 佐倉の秋祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 佐倉市
+  ward: null
+venue:
+  name: 佐倉市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 佐倉の秋祭り(佐倉市ホームページ
+    url: https://www.city.sakura.lg.jp/soshiki/sakuranomiryoku/event_kanko/16470.html
+  - title: ホームページ
+    url: https://sakura-maturi.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-09
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakura-yotsukaido-yachimata.goguynet.jp/2026/09/30/sakuranoakimatsuri2026/
+    source_name: 号外NET 佐倉市・四街道市・八街市
+    source_type: media
+    checked_at: 2026-09-03

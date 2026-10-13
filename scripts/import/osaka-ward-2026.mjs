@@ -14,7 +14,24 @@
  * 東住吉区は「盆踊り・夜店」「模擬店」まで書いてあるので屋台を確定できる。
  * 住吉区は町会主催のものが 7 件あり、**町内会規模がそのまま取れる**。
  */
-import { emit } from './_lib.mjs';
+import { emit, ROOT } from './_lib.mjs';
+import { loadAreaList } from '../lib/areas.mjs';
+
+/**
+ * **区の slug を直書きしてはいけない。**
+ *
+ * ここは `osaka-006`（此花区）と `osaka-024`（住吉区）を直に書いていたが、
+ * エリア定義では `osaka-915` / `osaka-916` になっている。取り込むたびに
+ * 定義と違う置き場所にファイルが増え、**同じ祭りが 2 つの URL に分かれる**。
+ * 9 月に片付けて転送まで出したのに、次の `npm run collect` で元に戻っていた。
+ * 定義から引けば、定義を直すだけで置き場所が追従する。
+ */
+const AREAS = loadAreaList(ROOT);
+function slugOf(city, fallback) {
+  const hit = AREAS.find((a) => a.city === city);
+  if (!hit) console.warn(`  ! エリア定義に ${city} が無い。${fallback} を使う`);
+  return hit?.slug ?? fallback;
+}
 
 const d = (...xs) => xs.map((x) => `2026-${x}`);
 
@@ -142,7 +159,7 @@ emit(higashi, {
   pref: '大阪府',
   prefSlug: 'osaka',
   city: '大阪市東住吉区',
-  citySlug: 'osaka-020',
+  citySlug: slugOf('大阪市東住吉区', 'osaka-020'),
   label: '大阪市東住吉区（区公式）',
   source: 'https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000600898.html',
   sourceName: '大阪市東住吉区',
@@ -155,7 +172,7 @@ emit(konohana, {
   pref: '大阪府',
   prefSlug: 'osaka',
   city: '大阪市此花区',
-  citySlug: 'osaka-006',
+  citySlug: slugOf('大阪市此花区', 'osaka-006'),
   label: '大阪市此花区（区公式・神社の夏祭り）',
   source: 'https://www.city.osaka.lg.jp/konohana/page/0000654633.html',
   sourceName: '大阪市此花区',
@@ -168,7 +185,7 @@ emit(sumi, {
   pref: '大阪府',
   prefSlug: 'osaka',
   city: '大阪市住吉区',
-  citySlug: 'osaka-024',
+  citySlug: slugOf('大阪市住吉区', 'osaka-024'),
   label: '大阪市住吉区（区公式）',
   source: 'https://www.city.osaka.lg.jp/sumiyoshi/page/0000471216.html',
   sourceName: '大阪市住吉区',

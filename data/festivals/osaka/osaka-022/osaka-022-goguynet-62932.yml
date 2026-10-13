@@ -1,0 +1,31 @@
+id: osaka-022-goguynet-62932
+name: 大阪銘木フェスタ2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 摂津市
+  ward: null
+venue:
+  name: 大阪銘木市場
+  address: 摂津市鳥飼銘木町20-40
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 摂津市公式サイト
+    url: https://www.city.settsu.osaka.jp/soshiki/shichoukoushitsu/kouhouka/22588.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://settsu.goguynet.jp/2026/09/27/meibokufesta-5/
+    source_name: 号外NET 摂津・千里丘・南茨木
+    source_type: media
+    checked_at: 2026-09-03

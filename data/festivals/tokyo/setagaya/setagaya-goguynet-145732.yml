@@ -1,0 +1,32 @@
+id: setagaya-goguynet-145732
+name: 世田谷八幡宮の秋季大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 世田谷区
+  ward: null
+venue:
+  name: 世田谷区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://80000.or.jp/access.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://setagaya.goguynet.jp/2026/09/16/hatimangu/
+    source_name: 号外NET 世田谷区
+    source_type: media
+    checked_at: 2026-09-03

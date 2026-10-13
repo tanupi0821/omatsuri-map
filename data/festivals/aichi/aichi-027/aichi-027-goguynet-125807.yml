@@ -1,0 +1,29 @@
+id: aichi-027-goguynet-125807
+name: 盆踊り大会2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 一宮市
+  ward: null
+venue:
+  name: カネスエ北園通店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-21
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://ichinomiya.goguynet.jp/2026/08/19/bonodori_k/
+    source_name: 号外NET 一宮市
+    source_type: media
+    checked_at: 2026-09-03

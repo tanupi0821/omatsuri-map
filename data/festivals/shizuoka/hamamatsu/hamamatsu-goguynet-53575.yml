@@ -1,0 +1,29 @@
+id: hamamatsu-goguynet-53575
+name: ヤタロー地産地消工場店で毎年開催されていた夏祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 静岡県
+  city: 浜松市
+  ward: null
+venue:
+  name: 浜松市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://hamamatsu.goguynet.jp/2026/10/04/yataro-6/
+    source_name: 号外NET 浜松市
+    source_type: media
+    checked_at: 2026-09-03

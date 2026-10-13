@@ -1,0 +1,32 @@
+id: asaka-goguynet-74113
+name: ネオ縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 朝霞市
+  ward: null
+venue:
+  name: 朝霞市内
+  address: 朝霞市宮戸3丁目7-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 朝霞キテレツ企画 公式Instagram
+    url: https://www.instagram.com/kiteretsu.pro
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://asaka-wako.goguynet.jp/2026/09/19/kiteretsu-pro-2/
+    source_name: 号外NET 朝霞市・和光市
+    source_type: media
+    checked_at: 2026-09-03

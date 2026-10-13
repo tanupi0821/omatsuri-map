@@ -1,0 +1,29 @@
+id: okinawa-001-goguynet-8490
+name: 第18回納涼夏祭り
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 沖縄県
+  city: 那覇市
+  ward: null
+venue:
+  name: 全体が大きな熱気につつまれる特別な一日
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://naha.goguynet.jp/2026/09/24/gushi-2/
+    source_name: 号外NET 那覇市
+    source_type: media
+    checked_at: 2026-09-03

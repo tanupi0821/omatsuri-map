@@ -1,0 +1,30 @@
+id: nishi-gotouti-hamakei-r13292
+name: 宿場まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 西区
+venue:
+  name: 西区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+      - 2026-10-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://www.hamakei.com/headline/13292/
+    source_name: ヨコハマ経済新聞
+    source_type: media
+    checked_at: 2026-09-03

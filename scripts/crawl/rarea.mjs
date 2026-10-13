@@ -46,14 +46,23 @@ const path = join(OUT, 'posts.json');
 const prev = existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : null;
 const posts = new Map((prev?.items ?? []).map((x) => [x.id, x]));
 const doneTerms = new Set(prev?.terms ?? []);
+/**
+ * --refresh は全語を引き直す。既定は「まだ引いていない語だけ」なので、
+ * 一度全語を引いたあとは**新しい記事が永久に入らない**。
+ * 代わりに after を前回の最終記事日にして、返るのを差分だけにする。
+ */
+const REFRESH = process.argv.includes('--refresh');
+const SINCE = (REFRESH
+  ? [...posts.values()].map((x) => x.date).filter(Boolean).sort().pop()
+  : null) ?? '2026-03-01';
 
 for (const term of TERMS) {
-  if (doneTerms.has(term)) continue;
+  if (!REFRESH && doneTerms.has(term)) continue;
   let page = 1; let pages = 1;
   do {
     const url = 'https://rarea.events/wp-json/wp/v2/posts'
       + `?per_page=${PER_PAGE}&page=${page}&search=${encodeURIComponent(term)}`
-      + '&after=2026-03-01T00:00:00';
+      + `&after=${SINCE}T00:00:00`;
     let res;
     try {
       res = await get(url);

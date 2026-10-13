@@ -1,0 +1,29 @@
+id: fukuoka-shi-goguynet-46749
+name: 第22回サザエさん商店街通り 夢まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市
+  ward: null
+venue:
+  name: 福岡市早良区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokachuo.goguynet.jp/2026/09/26/sazaesanyumematsuri/
+    source_name: 号外NET 福岡市中央区・城南区
+    source_type: media
+    checked_at: 2026-09-03

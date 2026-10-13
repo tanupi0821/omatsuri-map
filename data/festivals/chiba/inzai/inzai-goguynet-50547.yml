@@ -1,0 +1,34 @@
+id: inzai-goguynet-50547
+name: 牧の原モア 夏の終わりの盆踊り大会2026
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 印西市
+  ward: null
+venue:
+  name: 牧の原モア
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 鎌ケ谷市・白井市・印西市
+    url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/19/makinoharamorebonodori2026henko/
+  - title: 牧の原モア公式サイト
+    url: https://www.makinohara-more.com/event-topics/bonbdori202609/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kamagaya-shiroi-inzai.goguynet.jp/2026/09/15/makinoharamorebonodori2026/
+    source_name: 号外NET 鎌ケ谷市・白井市・印西市
+    source_type: media
+    checked_at: 2026-09-03

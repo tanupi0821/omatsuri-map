@@ -1,0 +1,32 @@
+id: fukuoka-514-goguynet-64590
+name: だいこく祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 福岡県
+  city: 福岡市博多区
+  ward: null
+venue:
+  name: 十日恵比須神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 福岡市博多区
+    url: https://fukuokahakata.goguynet.jp/2026/10/09/tooka-ebisu/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-02
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://fukuokahakata.goguynet.jp/2026/10/01/post-64590/
+    source_name: 号外NET 福岡市博多区
+    source_type: media
+    checked_at: 2026-09-03

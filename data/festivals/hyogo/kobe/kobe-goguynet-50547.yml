@@ -1,0 +1,32 @@
+id: kobe-goguynet-50547
+name: 播州織が彩る、海岸通りの夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 神戸市
+  ward: null
+venue:
+  name: 神戸市垂水区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://mitsui-shopping-park.com/mop/kobe/event/3602409.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kobetarumi.goguynet.jp/2026/09/10/irodorisai/
+    source_name: 号外NET 神戸市垂水区・須磨区
+    source_type: media
+    checked_at: 2026-09-03

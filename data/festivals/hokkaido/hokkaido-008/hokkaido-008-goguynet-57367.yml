@@ -1,0 +1,31 @@
+id: hokkaido-008-goguynet-57367
+name: バスの日フェスタ
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 帯広市
+  ward: null
+venue:
+  name: 帯広市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 北海道拓殖バス公式Instagram
+    url: https://www.instagram.com/hokkaido_takubus
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://obihiro.goguynet.jp/2026/09/27/basunohi_festa_obihiro_otofuke20260927/
+    source_name: 号外NET 帯広市
+    source_type: media
+    checked_at: 2026-09-03

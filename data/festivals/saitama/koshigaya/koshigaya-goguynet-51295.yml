@@ -1,0 +1,31 @@
+id: koshigaya-goguynet-51295
+name: 第51回 越谷市民まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 越谷市
+  ward: null
+venue:
+  name: 越谷市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式ホームページ
+    url: https://www.city.koshigaya.saitama.jp/toiawase/sosiki2/kankyokezai/keizaisinkou/51_koshigaya_shiminmatsuri.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-18
+    start_time: 09:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://koshigaya.goguynet.jp/2026/10/07/koshigayashiminmatsuri/
+    source_name: 号外NET 越谷市
+    source_type: media
+    checked_at: 2026-09-03

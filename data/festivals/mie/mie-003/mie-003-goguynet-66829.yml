@@ -1,0 +1,31 @@
+id: mie-003-goguynet-66829
+name: 夏祭りin松阪けいりん
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 松阪市
+  ward: null
+venue:
+  name: 松阪市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 「松阪けいりん」公式サイト
+    url: https://matsusaka-keirin.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://matsusaka.goguynet.jp/2026/09/09/matsusakakeiirn-natsumatsuri2026/
+    source_name: 号外NET 松阪市
+    source_type: media
+    checked_at: 2026-09-03

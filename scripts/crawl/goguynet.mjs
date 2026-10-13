@@ -36,6 +36,19 @@ const arg = (k, d) => {
 };
 const LIMIT = Number(arg('--limit', Infinity));
 const ONLY = arg('--only', null);
+/**
+ * **新しく出た記事を拾う（毎週のメンテナンス用）。**
+ *
+ * 既定の動きは「まだ引いていない検索語だけを引く」なので、
+ * 一度 20 語すべてを引いた地域は**二度と見に行かない**。
+ * 検索語を足したときは正しいが、これでは**祭りの新しい記事が永久に入らない**。
+ * 実際、9 月以降に出た秋祭りの記事が 1 本も入っていなかった。
+ *
+ * --refresh では検索語ではなく**前回以降に出た記事**を引いて、
+ * 祭りの語を含むものだけ残す。語ごとに 20 回叩く代わりに 1 地域 1〜2 回で済む
+ * （284 地域 × 20 語 = 5,680 回 → 約 300 回）。
+ */
+const REFRESH = process.argv.includes('--refresh');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const strip = (h) => String(h ?? '')
@@ -89,10 +102,36 @@ for (const area of areas.slice(0, LIMIT === Infinity ? areas.length : LIMIT)) {
   const prev = existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : null;
   const doneTerms = new Set(prev?.terms ?? []);
   const todo = TERMS.filter((t) => !doneTerms.has(t));
-  if (prev && !todo.length) continue;
+  if (prev && !todo.length && !REFRESH) continue;
 
   const posts = new Map((prev?.items ?? []).map((x) => [x.id, x]));
   try {
+    if (REFRESH) {
+      // 前回取った記事のいちばん新しい日から。初回は 4 月から
+      const since = [...posts.values()].map((x) => x.date).filter(Boolean).sort().pop()
+        ?? '2026-04-01';
+      const hit = (p) => TERMS.some((t) => `${p.title} ${p.excerpt} ${p.body}`.includes(t));
+      for (let page = 1; page <= 3; page += 1) {
+        const url = `https://${area}.goguynet.jp/wp-json/wp/v2/posts`
+          + `?per_page=100&page=${page}&orderby=date&order=desc`
+          + `&after=${since}T00:00:00`;
+        let list;
+        try { list = await get(url); } catch { break; } // 範囲外のページは 400
+        for (const p of list) {
+          const item = {
+            id: p.id,
+            title: strip(p.title?.rendered),
+            date: p.date?.slice(0, 10) ?? null,
+            url: p.link,
+            excerpt: strip(p.excerpt?.rendered).slice(0, 400),
+            body: strip(p.content?.rendered).slice(0, 2000),
+          };
+          if (hit(item)) posts.set(item.id, item);
+        }
+        await sleep(DELAY_MS);
+        if (list.length < 100) break;
+      }
+    }
     for (const term of todo) {
       const url = `https://${area}.goguynet.jp/wp-json/wp/v2/posts`
         + `?per_page=30&search=${encodeURIComponent(term)}&after=2026-04-01T00:00:00`;

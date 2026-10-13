@@ -1,0 +1,31 @@
+id: hyogo-018-tsushin-ashi2-42794
+name: ラポルテ縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市大原町9-1、船戸町4-1付近
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: ラポルテ公式サイト
+    url: https://laporte.jp/shop_event/%e3%80%90%e6%9c%ac%e9%a4%a8%e3%83%bb%e6%9d%b1%e9%a4%a8%e3%80%91%e3%83%a9%e3%83%9d%e3%83%ab%e3%83%86%e7%b8%81%e6%97%a5%e3%80%80%e9%96%8b%e5%82%ac%ef%bc%81%ef%bc%81/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: 11:00
+    end_time: 18:00
+    status: confirmed
+    source_url: https://ashi2.jp/42794/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-09-03

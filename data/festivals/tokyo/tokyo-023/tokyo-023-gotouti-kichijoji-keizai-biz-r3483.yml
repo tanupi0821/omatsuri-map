@@ -1,0 +1,29 @@
+id: tokyo-023-gotouti-kichijoji-keizai-biz-r3483
+name: 御殿山縁日
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 武蔵野市
+  ward: null
+venue:
+  name: 武蔵野市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-13
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://kichijoji.keizai.biz/headline/3483/
+    source_name: 吉祥寺経済新聞
+    source_type: media
+    checked_at: 2026-09-03

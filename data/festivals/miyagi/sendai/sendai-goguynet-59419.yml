@@ -1,0 +1,32 @@
+id: sendai-goguynet-59419
+name: みやぎNPOまつり2026 in 秋保
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 宮城県
+  city: 仙台市
+  ward: null
+venue:
+  name: 秋保・里センター
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 秋保・里センター公式HP
+    url: https://akiusato.jp/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: 10:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://sendaitaihaku.goguynet.jp/2026/09/13/miyaginpomatsuri2026/
+    source_name: 号外NET 仙台市太白区
+    source_type: media
+    checked_at: 2026-09-03

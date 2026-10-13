@@ -1,0 +1,29 @@
+id: otawara-goguynet-50783
+name: 大田原日曜夜市
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 栃木県
+  city: 大田原市
+  ward: null
+venue:
+  name: 山の手ビル駐車場（山の手整骨院駐車場）
+  address: 大田原市山の手1-6-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: 15:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://nasushiobara-ohtawara.goguynet.jp/2026/09/19/ohtawara-nichiyouyoruichi2609/
+    source_name: 号外NET 那須塩原市・大田原市
+    source_type: media
+    checked_at: 2026-09-03

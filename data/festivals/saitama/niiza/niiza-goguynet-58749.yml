@@ -1,0 +1,29 @@
+id: niiza-goguynet-58749
+name: 大江戸新座祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 埼玉県
+  city: 新座市
+  ward: null
+venue:
+  name: 武野集会所（新座市栗原3丁目）
+  address: 新座市栗原3丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://niiza-shiki.goguynet.jp/2026/08/29/matsuri-10/
+    source_name: 号外NET 新座市・志木市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,29 @@
+id: aichi-029-goguynet-33705
+name: 音楽・大道芸・盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 春日井市
+  ward: null
+venue:
+  name: 春日井市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kasugai.goguynet.jp/2026/08/28/hakusai26/
+    source_name: 号外NET 春日井市
+    source_type: media
+    checked_at: 2026-09-03

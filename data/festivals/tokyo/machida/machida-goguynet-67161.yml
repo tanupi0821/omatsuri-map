@@ -1,0 +1,30 @@
+id: machida-goguynet-67161
+name: 町田天満宮秋季例大祭
+kind: 例大祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 町田市
+  ward: null
+venue:
+  name: 町田市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+      - 2026-09-27
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://machida.goguynet.jp/2026/09/26/machidatenmangu-reitaisai-3/
+    source_name: 号外NET 町田市
+    source_type: media
+    checked_at: 2026-09-03

@@ -15,7 +15,9 @@ organizer: null
 stalls: yes
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 東近江市・近江八幡市
+    url: https://higashiomi-omihachiman.goguynet.jp/2026/08/30/gokasyou-fes-2/
 occurrences:
   - year: 2026
     dates:

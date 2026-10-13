@@ -1,0 +1,31 @@
+id: ichikawa-goguynet-45272
+name: 縁日パラダイス
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 市川市
+  ward: null
+venue:
+  name: ニッケコルトンプラザ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: ニッケコルトンプラザ「コルトンぼんおどり2026」公式ページ
+    url: https://www.nikke-cp.gr.jp/shop/season/bonodori2026.jsp
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-22
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://ichikawa.goguynet.jp/2026/09/22/coltonbondance/
+    source_name: 号外NET 市川市
+    source_type: media
+    checked_at: 2026-09-03

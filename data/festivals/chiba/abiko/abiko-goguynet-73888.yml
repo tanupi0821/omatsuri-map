@@ -1,0 +1,31 @@
+id: abiko-goguynet-73888
+name: 第19回あびこカッパまつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 我孫子市
+  ward: null
+venue:
+  name: 手賀沼公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: あびこカッパまつり公式サイト
+    url: https://www.abikokappa.website/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 10:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://abiko.goguynet.jp/2026/08/25/kappamatsuri/
+    source_name: 号外NET 我孫子市
+    source_type: media
+    checked_at: 2026-09-03

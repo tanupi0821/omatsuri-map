@@ -1,0 +1,29 @@
+id: yachiyo-goguynet-73700
+name: Tom’s 夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 八千代市
+  ward: null
+venue:
+  name: 八千代市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-25
+    start_time: 16:00
+    end_time: 19:00
+    status: confirmed
+    source_url: https://yachiyo-narashino.goguynet.jp/2026/08/24/tomsnatsumatsuri/
+    source_name: 号外NET 八千代市・習志野市
+    source_type: media
+    checked_at: 2026-09-03

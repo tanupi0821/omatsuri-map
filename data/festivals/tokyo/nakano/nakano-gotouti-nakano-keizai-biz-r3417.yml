@@ -1,0 +1,29 @@
+id: nakano-gotouti-nakano-keizai-biz-r3417
+name: ゆとりろん祭
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 東京都
+  city: 中野区
+  ward: null
+venue:
+  name: 中野区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: http://nakano.keizai.biz/headline/3417/
+    source_name: 中野経済新聞
+    source_type: media
+    checked_at: 2026-09-03

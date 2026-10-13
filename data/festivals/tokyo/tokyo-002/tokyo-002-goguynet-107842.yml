@@ -1,0 +1,29 @@
+id: tokyo-002-goguynet-107842
+name: 第49回こどもまつり＆住宅デー
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 日野市
+  ward: null
+venue:
+  name: 日野中央公園
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-04
+    start_time: 10:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://hino.goguynet.jp/2026/09/18/kodomo-matsuri/
+    source_name: 号外NET 日野市
+    source_type: media
+    checked_at: 2026-09-03

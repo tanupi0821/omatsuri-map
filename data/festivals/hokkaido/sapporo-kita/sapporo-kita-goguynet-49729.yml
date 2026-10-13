@@ -1,0 +1,30 @@
+id: sapporo-kita-goguynet-49729
+name: 第4回楽しい街づくりのための篠路夏祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 北海道
+  city: 札幌市北区
+  ward: null
+venue:
+  name: 札幌市北区内
+  address: null
+  lat: null
+  lng: null
+organizer: 篠路中央商店街振興組合
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+      - 2026-08-23
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sapporokitaku.goguynet.jp/2026/08/20/shinoronatsumaturi/
+    source_name: 号外NET 札幌市北区
+    source_type: media
+    checked_at: 2026-09-03

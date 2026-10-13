@@ -1,0 +1,29 @@
+id: takatsu-rarea-307825
+name: こども祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 高津区
+venue:
+  name: 高津区内
+  address: 川崎市高津区坂戸2の20の1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://rarea.events/event/307825
+    source_name: レアリア
+    source_type: media
+    checked_at: 2026-09-03

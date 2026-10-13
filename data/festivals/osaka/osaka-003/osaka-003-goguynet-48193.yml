@@ -1,0 +1,29 @@
+id: osaka-003-goguynet-48193
+name: こどもみんな食堂 秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 大阪市平野区
+  ward: null
+venue:
+  name: 杭全神社
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: 11:00
+    end_time: 16:00
+    status: confirmed
+    source_url: https://hirano.goguynet.jp/2026/09/13/kodomominnasyokudouakimaturi/
+    source_name: 号外NET 大阪市平野区
+    source_type: media
+    checked_at: 2026-09-03

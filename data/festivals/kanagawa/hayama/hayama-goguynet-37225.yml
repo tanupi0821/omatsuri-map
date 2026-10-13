@@ -1,0 +1,29 @@
+id: hayama-goguynet-37225
+name: 森戸の浜の盆踊り大会
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 葉山町
+  ward: null
+venue:
+  name: 神奈川県葉山町
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-13
+    start_time: 19:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://kamakura-zushi.goguynet.jp/2026/08/12/moritono-hamanobonodori/
+    source_name: 号外NET 鎌倉市・逗子市
+    source_type: media
+    checked_at: 2026-09-03

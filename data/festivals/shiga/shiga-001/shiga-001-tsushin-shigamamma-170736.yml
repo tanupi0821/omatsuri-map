@@ -1,0 +1,31 @@
+id: shiga-001-tsushin-shigamamma-170736
+name: 第46回 大津地区 労福協まつり
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 滋賀県
+  city: 大津市
+  ward: null
+venue:
+  name: 大津市内
+  address: 大津市二本松1-1
+  lat: null
+  lng: null
+organizer: 大津地区労働者福祉協議会
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: HP
+    url: https://www.branch-sc.com/otsukyo/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-25
+    start_time: 11:00
+    end_time: 15:00
+    status: confirmed
+    source_url: https://news.p-mom.net/2026/10/05/%e3%80%90%e5%a4%a7%e6%b4%a5%e5%b8%82%e3%80%91%e3%81%93%e3%81%a9%e3%82%82%e7%b8%81%e6%97%a5%ef%bc%86%e3%81%94%e5%bd%93%e5%9c%b0%e3%82%b0%e3%83%ab%e3%83%a1%e3%81%a7%e5%ae%b6%e6%97%8f%e3%81%bf%e3%82%93/
+    source_name: シガマンマ
+    source_type: media
+    checked_at: 2026-09-03

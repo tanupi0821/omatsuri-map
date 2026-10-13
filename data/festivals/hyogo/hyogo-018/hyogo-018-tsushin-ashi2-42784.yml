@@ -1,0 +1,29 @@
+id: hyogo-018-tsushin-ashi2-42784
+name: 生演奏盆踊り
+kind: 盆踊り
+scale: 地区
+area:
+  pref: 兵庫県
+  city: 芦屋市
+  ward: null
+venue:
+  name: 芦屋市内
+  address: 芦屋市三条町8-3
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-22
+    start_time: 16:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://ashi2.jp/42784/
+    source_name: 芦屋つーしん
+    source_type: media
+    checked_at: 2026-09-03

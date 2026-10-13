@@ -1,0 +1,29 @@
+id: mie-003-goguynet-66732
+name: 松阪で踊り狂え夏祭り2026
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 三重県
+  city: 松阪市
+  ward: null
+venue:
+  name: 松阪市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 16:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://matsusaka.goguynet.jp/2026/08/28/djbonodori-2026/
+    source_name: 号外NET 松阪市
+    source_type: media
+    checked_at: 2026-09-03

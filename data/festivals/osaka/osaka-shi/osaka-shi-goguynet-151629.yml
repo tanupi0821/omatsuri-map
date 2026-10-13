@@ -15,7 +15,9 @@ organizer: null
 stalls: unknown
 tags: []
 description: null
-links: []
+links:
+  - title: 号外NET 大阪市住吉区・東住吉区
+    url: https://sumiyoshi-higashisumiyoshi.goguynet.jp/2026/07/31/yatanisifureainatsumatsuri/
 occurrences:
   - year: 2026
     dates:

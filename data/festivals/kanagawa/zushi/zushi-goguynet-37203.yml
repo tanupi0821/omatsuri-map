@@ -1,0 +1,29 @@
+id: zushi-goguynet-37203
+name: 納涼まつり
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 逗子市
+  ward: null
+venue:
+  name: 東逗子ふれあい広場
+  address: 逗子市沼間1丁目2-24
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-23
+    start_time: 15:00
+    end_time: 20:00
+    status: confirmed
+    source_url: https://kamakura-zushi.goguynet.jp/2026/08/22/higashizushinouryomaturi/
+    source_name: 号外NET 鎌倉市・逗子市
+    source_type: media
+    checked_at: 2026-09-03

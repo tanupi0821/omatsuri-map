@@ -1,0 +1,29 @@
+id: arakawa-goguynet-83507
+name: 行われた弁天市・縁日大会
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: 荒川区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/09/07/bentenitiennititaikai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,29 @@
+id: shimane-002-goguynet-10897
+name: 第6回やくも夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 島根県
+  city: 松江市
+  ward: null
+venue:
+  name: 松江市内
+  address: null
+  lat: null
+  lng: null
+organizer: やくも夏まつり実行委員会
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+    start_time: 17:00
+    end_time: 21:00
+    status: confirmed
+    source_url: https://matsue-yasugi.goguynet.jp/2026/08/07/yakumonatsumatsuri26/
+    source_name: 号外NET 松江市・安来市
+    source_type: media
+    checked_at: 2026-09-03

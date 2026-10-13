@@ -1,0 +1,30 @@
+id: hyogo-003-goguynet-120605
+name: 秋祭り縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 兵庫県
+  city: 尼崎市
+  ward: null
+venue:
+  name: 尼崎市内
+  address: 尼崎市塚口本町4丁目8-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-17
+      - 2026-10-18
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://amagasaki.goguynet.jp/2026/10/11/akimatsuri-tsukaguchijinjya-2026/
+    source_name: 号外NET 尼崎市
+    source_type: media
+    checked_at: 2026-09-03

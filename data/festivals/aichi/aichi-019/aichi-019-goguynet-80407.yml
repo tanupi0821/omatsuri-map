@@ -1,0 +1,30 @@
+id: aichi-019-goguynet-80407
+name: 第49回 技科大祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 豊橋市
+  ward: null
+venue:
+  name: 豊橋技術科学大学
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyohashi-tahara.goguynet.jp/2026/10/06/gikadaisai/
+    source_name: 号外NET 豊橋市・田原市
+    source_type: media
+    checked_at: 2026-09-03

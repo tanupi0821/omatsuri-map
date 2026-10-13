@@ -34,3 +34,18 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: JR新潟駅から徒歩20分
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Niigata-Matsuri_20130811-02.JPG/1280px-Niigata-Matsuri_20130811-02.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130811-02.JPG
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Niigata-Matsuri_20130811-01.JPG/1280px-Niigata-Matsuri_20130811-01.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata-Matsuri_20130811-01.JPG

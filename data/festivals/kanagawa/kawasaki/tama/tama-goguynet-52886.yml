@@ -1,0 +1,29 @@
+id: tama-goguynet-52886
+name: 太鼓引きなど秋祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 川崎市
+  ward: 多摩区
+venue:
+  name: 川崎市多摩区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-05
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kawasakitama.goguynet.jp/2026/09/04/noboritoakimatsuri/
+    source_name: 号外NET 川崎市多摩区
+    source_type: media
+    checked_at: 2026-09-03

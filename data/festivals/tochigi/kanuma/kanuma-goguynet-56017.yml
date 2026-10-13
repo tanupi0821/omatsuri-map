@@ -1,0 +1,32 @@
+id: kanuma-goguynet-56017
+name: 鹿沼秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 栃木県
+  city: 鹿沼市
+  ward: null
+venue:
+  name: 鹿沼市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 鹿沼秋まつり公式ホームページ
+    url: https://www.buttsuke.com/venue/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-10
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nikko-kanuma.goguynet.jp/2026/10/09/kanumaakimatsuri-2/
+    source_name: 号外NET 日光市・鹿沼市
+    source_type: media
+    checked_at: 2026-09-03

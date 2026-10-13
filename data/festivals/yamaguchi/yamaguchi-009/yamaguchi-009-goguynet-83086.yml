@@ -1,0 +1,29 @@
+id: yamaguchi-009-goguynet-83086
+name: ラブジョイ縁日
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 山口県
+  city: 宇部市
+  ward: null
+venue:
+  name: 宇部市内
+  address: 宇部市明神町3丁目1-1
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-12
+    start_time: 10:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://ube-sanyoonoda.goguynet.jp/2026/08/09/fujiube_summerevent/
+    source_name: 号外NET 宇部市・山陽小野田市
+    source_type: media
+    checked_at: 2026-09-03

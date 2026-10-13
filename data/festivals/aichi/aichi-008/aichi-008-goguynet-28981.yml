@@ -1,0 +1,29 @@
+id: aichi-008-goguynet-28981
+name: 第2回 御津町花火大会 ナイターの夕べ
+kind: 花火
+scale: 町内会
+area:
+  pref: 愛知県
+  city: 豊川市
+  ward: null
+venue:
+  name: 豊川市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-26
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://toyokawa-gamagori.goguynet.jp/2026/09/23/post-28981/
+    source_name: 号外NET 豊川市・蒲郡市
+    source_type: media
+    checked_at: 2026-09-03

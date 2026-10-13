@@ -1,0 +1,31 @@
+id: konan-goguynet-57541
+name: 上大岡大誕生祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港南区
+venue:
+  name: 横浜市港南区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+      - 2026-09-10
+      - 2026-10-01
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamakonan-sakae.goguynet.jp/2026/09/11/event-kounan-0912/
+    source_name: 号外NET 横浜市港南区・栄区
+    source_type: media
+    checked_at: 2026-09-03

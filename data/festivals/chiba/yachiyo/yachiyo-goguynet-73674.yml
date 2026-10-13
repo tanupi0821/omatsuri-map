@@ -1,0 +1,31 @@
+id: yachiyo-goguynet-73674
+name: ユアエルム夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 八千代市
+  ward: null
+venue:
+  name: ユアエルム八千代台店
+  address: 八千代市八千代台東1丁目
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: この夏最後のユアエルム夏まつり(ユアエルム 八千代台店ホーム
+    url: https://www.yourelm.co.jp/yachiyodai/event/detail.html?CN=431857
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-29
+    start_time: 14:00
+    end_time: 19:30
+    status: confirmed
+    source_url: https://yachiyo-narashino.goguynet.jp/2026/08/26/yourelmnatsumatsuri/
+    source_name: 号外NET 八千代市・習志野市
+    source_type: media
+    checked_at: 2026-09-03

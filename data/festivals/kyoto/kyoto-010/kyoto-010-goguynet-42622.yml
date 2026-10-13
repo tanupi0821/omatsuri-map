@@ -1,0 +1,29 @@
+id: kyoto-010-goguynet-42622
+name: 普賢寺の夏まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 京都府
+  city: 京田辺市
+  ward: null
+venue:
+  name: 京田辺市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-18
+    start_time: 16:00
+    end_time: 19:30
+    status: confirmed
+    source_url: https://kyotanabekizugawa.goguynet.jp/2026/08/12/fugenjinatumaturi/
+    source_name: 号外NET 京田辺市・木津川市・精華町
+    source_type: media
+    checked_at: 2026-09-03

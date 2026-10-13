@@ -1,0 +1,32 @@
+id: sakura-chiba-goguynet-77968
+name: 第12回 草ぶえの丘太鼓まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 佐倉市
+  ward: null
+venue:
+  name: 佐倉草ぶえの丘
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: https://kusabue.shiteikanri-sakura.jp/page/135
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+      - 2026-10-25
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://sakura-yotsukaido-yachimata.goguynet.jp/2026/10/06/kusabuenookataikomatsuri/
+    source_name: 号外NET 佐倉市・四街道市・八街市
+    source_type: media
+    checked_at: 2026-09-03

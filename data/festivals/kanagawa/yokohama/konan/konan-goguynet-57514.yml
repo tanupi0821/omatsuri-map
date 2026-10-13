@@ -1,0 +1,29 @@
+id: konan-goguynet-57514
+name: 笹下台団地自治会 団地祭
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 神奈川県
+  city: 横浜市
+  ward: 港南区
+venue:
+  name: 横浜市港南区内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://yokohamakonan-sakae.goguynet.jp/2026/09/06/danchimatsuri-sasashita-2609/
+    source_name: 号外NET 横浜市港南区・栄区
+    source_type: media
+    checked_at: 2026-09-03

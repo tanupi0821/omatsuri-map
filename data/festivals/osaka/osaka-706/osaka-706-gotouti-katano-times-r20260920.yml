@@ -1,0 +1,29 @@
+id: osaka-706-gotouti-katano-times-r20260920
+name: 第5回 水都くらわんか花火大会
+kind: 花火
+scale: 地区
+area:
+  pref: 大阪府
+  city: 交野市
+  ward: null
+venue:
+  name: 横に事務所がある
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-20
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://www.katano-times.com/event/kurawanka-20260920.html
+    source_name: 交野タイムズ
+    source_type: media
+    checked_at: 2026-09-03

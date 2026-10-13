@@ -1,0 +1,29 @@
+id: saga-004-goguynet-94583
+name: 【佐賀市】六座町の北面天満宮 秋祭り
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 佐賀県
+  city: 佐賀市
+  ward: null
+venue:
+  name: 佐賀市六座町・北面天満宮
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-11-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://saga.goguynet.jp/2026/10/09/sagakensagashirokuzamachi/
+    source_name: 号外NET 佐賀市・小城市・多久市
+    source_type: media
+    checked_at: 2026-09-03

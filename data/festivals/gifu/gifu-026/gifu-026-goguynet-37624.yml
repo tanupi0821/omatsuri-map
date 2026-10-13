@@ -1,0 +1,29 @@
+id: gifu-026-goguynet-37624
+name: HALLOWEEN NIGHT花火大会フェスティバル
+kind: 花火
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 美濃加茂市
+  ward: null
+venue:
+  name: 美濃加茂市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-11
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/10/10/halloween-night/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-09-03

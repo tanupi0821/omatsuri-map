@@ -1,0 +1,32 @@
+id: osaka-008-goguynet-87575
+name: 泉州信太山盆踊り
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 大阪府
+  city: 和泉市
+  ward: null
+venue:
+  name: 和泉市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 号外NET 和泉市
+    url: https://izumi.goguynet.jp/2026/08/15/sinodayamabonodori/
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-08-14
+      - 2026-08-15
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://izumi.goguynet.jp/2026/08/11/2026bonodori/
+    source_name: 号外NET 和泉市
+    source_type: media
+    checked_at: 2026-09-03

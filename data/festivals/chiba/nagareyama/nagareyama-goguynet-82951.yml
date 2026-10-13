@@ -1,0 +1,35 @@
+id: nagareyama-goguynet-82951
+name: 流山花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 流山市
+  ward: null
+venue:
+  name: 流山市内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links:
+  - title: 公式店舗ページ
+    url: https://stores.itoyokado.co.jp/detail/530/
+  - title: 流山市のホームページ
+    url: https://www.city.nagareyama.chiba.jp/tourism/1013059/1050206.html
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://nagareyama-noda.goguynet.jp/2026/10/01/nagareyamahanabitaikai-7/
+    source_name: 号外NET 流山市・野田市
+    source_type: media
+    checked_at: 2026-09-03
+paid_seats: yes
+paid_seats_note: 2026年は有料観覧席あり（グループ席(指定席6人用)3万円、S席(指定席1人用)6000円、A席(自由席1人用)2500円。2025年8月15日(金)10時から発売開始 ※詳細は公式サイトで確認）

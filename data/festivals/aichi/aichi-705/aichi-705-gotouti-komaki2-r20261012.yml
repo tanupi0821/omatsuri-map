@@ -1,0 +1,29 @@
+id: aichi-705-gotouti-komaki2-r20261012
+name: 小牧市民まつり2026
+kind: 夏祭り
+scale: 地区
+area:
+  pref: 愛知県
+  city: 小牧市
+  ward: null
+venue:
+  name: 小牧駅周辺
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-24
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://komaki2.jp/event/shiminmatsuri-20261012.html
+    source_name: 小牧つーしん
+    source_type: media
+    checked_at: 2026-09-03

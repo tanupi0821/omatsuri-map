@@ -1,0 +1,29 @@
+id: chiba-003-goguynet-77838
+name: つながる、ひろがる、地域の輪 ちいさな秋まつり
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 四街道市
+  ward: null
+venue:
+  name: ドコモショップ四街道店
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-27
+    start_time: 10:00
+    end_time: 14:00
+    status: confirmed
+    source_url: https://sakura-yotsukaido-yachimata.goguynet.jp/2026/09/09/chiisanaakimatsuri/
+    source_name: 号外NET 佐倉市・四街道市・八街市
+    source_type: media
+    checked_at: 2026-09-03

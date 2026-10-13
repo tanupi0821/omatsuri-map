@@ -1,0 +1,31 @@
+id: gifu-028-goguynet-37421
+name: 第47回川辺おどり花火大会
+kind: 花火
+scale: 町内会
+area:
+  pref: 岐阜県
+  city: 川辺町
+  ward: null
+venue:
+  name: 川辺町内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: ホームページ
+    url: https://www.akippa.com/event/kawabeodori
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-12
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kani.goguynet.jp/2026/09/08/kawabeodorihanabi/
+    source_name: 号外NET 可児市（中濃地域）
+    source_type: media
+    checked_at: 2026-09-03

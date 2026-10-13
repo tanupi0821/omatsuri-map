@@ -36,3 +36,18 @@ occurrences:
     checked_at: 2026-08-05
     note: 掲載の2日付は期間の初日と最終日
 station: JR新潟駅万代口から徒歩15分
+photos:
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Niigata_Kanbara-Matsuri_20130701-01.JPG/1280px-Niigata_Kanbara-Matsuri_20130701-01.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata_Kanbara-Matsuri_20130701-01.JPG
+  - url: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Niigata_Kanbara-Matsuri_20130702-03.JPG/1280px-Niigata_Kanbara-Matsuri_20130702-03.JPG
+    width: 1000
+    height: 750
+    credit: DAI-nk
+    license: CC BY-SA 3.0
+    license_url: https://creativecommons.org/licenses/by-sa/3.0
+    source: https://commons.wikimedia.org/wiki/File:Niigata_Kanbara-Matsuri_20130702-03.JPG

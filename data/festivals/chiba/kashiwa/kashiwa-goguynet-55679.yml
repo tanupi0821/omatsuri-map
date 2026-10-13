@@ -1,0 +1,31 @@
+id: kashiwa-goguynet-55679
+name: 和装盆踊り日本一への道
+kind: 盆踊り
+scale: 町内会
+area:
+  pref: 千葉県
+  city: 柏市
+  ward: null
+venue:
+  name: マップ
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: unknown
+tags: []
+description: null
+links:
+  - title: 公式サイト
+    url: https://kashiwa-matsuri.jp/news/nws_5uE-etrX_T5azLD1h14Gb
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-19
+    start_time: null
+    end_time: null
+    status: confirmed
+    source_url: https://kashiwa.goguynet.jp/2026/09/18/kashiwamatsuri2026zenjitsu/
+    source_name: 号外NET 柏市
+    source_type: media
+    checked_at: 2026-09-03

@@ -1,0 +1,29 @@
+id: shinagawa-goguynet-127564
+name: 品川納涼祭
+kind: 納涼祭
+scale: 町内会
+area:
+  pref: 東京都
+  city: 品川区
+  ward: null
+venue:
+  name: 西大井広場公園（品川区西大井1丁目4−10）
+  address: 品川区西大井1丁目4-10
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-10-03
+    start_time: 11:00
+    end_time: 17:30
+    status: confirmed
+    source_url: https://shinagawa.goguynet.jp/2026/09/30/post-127564/
+    source_name: 号外NET 品川区
+    source_type: media
+    checked_at: 2026-09-03

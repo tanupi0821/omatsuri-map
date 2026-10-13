@@ -1,0 +1,29 @@
+id: arakawa-goguynet-83462
+name: 弁天市・縁日大会
+kind: 夏祭り
+scale: 町内会
+area:
+  pref: 東京都
+  city: 荒川区
+  ward: null
+venue:
+  name: ジョイフル三の輪商店街アーケード内
+  address: null
+  lat: null
+  lng: null
+organizer: null
+stalls: yes
+tags: []
+description: null
+links: []
+occurrences:
+  - year: 2026
+    dates:
+      - 2026-09-06
+    start_time: 12:00
+    end_time: 17:00
+    status: confirmed
+    source_url: https://arakawa.goguynet.jp/2026/08/30/bentenennititaikai/
+    source_name: 号外NET 荒川区
+    source_type: media
+    checked_at: 2026-09-03
