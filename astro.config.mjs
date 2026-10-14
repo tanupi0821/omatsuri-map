@@ -49,6 +49,18 @@ export default defineConfig({
   site: process.env.SITE_URL ?? 'https://omatsuri-map.com',
   trailingSlash: 'ignore',
   build: { format: 'directory' },
+  /**
+   * **`data/raw` を監視させない。** クロールの控えが 22,193 ファイルあり、
+   * dev サーバがこれを全部見張るせいでモジュールの読み込みが 60 秒で
+   * 時限切れになり、どのページも開けなくなっていた。
+   * アプリが読むのは `data/festivals` と `data/areas` だけで、
+   * `data/raw` は取り込みスクリプトしか触らない。
+   */
+  vite: {
+    server: {
+      watch: { ignored: ['**/data/raw/**', '**/dist/**', '**/.astro/**'] },
+    },
+  },
   // ページが 4700 を超えた。検索側に見つけてもらうには sitemap が要る。
   // 祭りの詳細ページより、エリアのページを先に巡回してほしい。
   integrations: [

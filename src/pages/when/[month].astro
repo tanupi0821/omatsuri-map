@@ -1,0 +1,169 @@
+---
+/**
+ * 月ごとのページ（/when/2026-10/）
+ *
+ * **日付で辿れるページが 1 つも無かった。** 入口は都道府県と市区町村だけで、
+ * 「10月の祭り」「今週末 盆踊り」で探す人の着地先が無く、
+ * Google から見ても**いま旬のページへの道が無い**状態だった
+ * （14,823 ページのうち 10,392 ページが「検出 - インデックス未登録」で
+ * 止まっていたのは、クロール枠がこれだけの URL に配分されないため。
+ * 枠が限られているなら、**いま価値のあるページへの道を太くする**のが先）。
+ *
+ * 月のページは毎月中身が変わるので、同じ URL が更新され続ける。
+ * 祭りの詳細ページを 1 万枚増やすのとは違い、13 枚で全体の鮮度を示せる。
+ */
+import Base from '../../layouts/Base.astro';
+import FestivalList from '../../components/FestivalList.astro';
+import { loadFestivals } from '../../lib/data.js';
+import { SITE_NAME } from '../../lib/site.js';
+
+export function getStaticPaths() {
+  const all = loadFestivals();
+  /** `2026-10` → { festivals: [...], days: Map<日, 件数> } */
+  const byMonth = new Map();
+  for (const f of all) {
+    // その祭りがその月に開催される最初の日。複数の開催回をまたいでも 1 回数える
+    const seen = new Set();
+    for (const o of f.occurrences ?? []) {
+      for (const d of o.dates ?? []) {
+        const s = String(d);
+        const m = s.slice(0, 7);
+        if (!/^\d{4}-\d{2}$/.test(m)) continue;
+        if (!byMonth.has(m)) byMonth.set(m, { items: new Map(), days: new Map() });
+        const bucket = byMonth.get(m);
+        bucket.days.set(s, (bucket.days.get(s) ?? 0) + 1);
+        if (seen.has(m)) continue;
+        seen.add(m);
+        bucket.items.set(f.id, { f, first: s, status: o.status });
+      }
+    }
+  }
+
+  /**
+   * **件数の少ない月と、去年までの月はページにしない。**
+   * 薄いページを増やすと限られたクロール枠を食いつぶす。
+   * 去年の町会の PDF 由来で 2025-10 のような残りがあるが、
+   * 「2025年10月の祭り」を今さら出しても誰の役にも立たない。
+   */
+  const fromYear = `${new Date().getFullYear()}-01`;
+  return [...byMonth]
+    .filter(([m, b]) => m >= fromYear && b.items.size >= 20)
+    .map(([month, b]) => ({
+      params: { month },
+      props: {
+        month,
+        entries: [...b.items.values()].sort((a, b2) => a.first.localeCompare(b2.first)),
+        days: [...b.days].sort(),
+      },
+    }));
+}
+
+const { month, entries, days } = Astro.props;
+const [year, mm] = month.split('-');
+const label = `${year}年${Number(mm)}月`;
+
+const festivals = entries.map((e) => e.f);
+const stalls = festivals.filter((f) => f.stalls === 'yes').length;
+const confirmed = entries.filter((e) => e.status === 'confirmed').length;
+const chokai = festivals.filter((f) => f.scale === '町内会' || f.scale === '地区').length;
+
+// 都道府県ごとの件数。多い順
+const prefs = new Map();
+for (const f of festivals) {
+  const k = f._prefSlug;
+  if (!prefs.has(k)) prefs.set(k, { slug: k, name: f.area.pref, n: 0 });
+  prefs.get(k).n += 1;
+}
+const prefList = [...prefs.values()].sort((a, b) => b.n - a.n);
+
+/** 開催の多い日。「混む日」を知りたい人が多い */
+const busiest = [...days].sort((a, b) => b[1] - a[1]).slice(0, 5)
+  .map(([d, n]) => ({ d, n, wd: '日月火水木金土'[new Date(`${d}T00:00:00Z`).getUTCDay()] }));
+
+/**
+ * 全部並べると 5,000 件で数 MB になる。開催日の近い順に 200 件まで出し、
+ * 残りは都道府県のページへ渡す（そこでも「これから開催」に絞られている）。
+ */
+const shown = entries.slice(0, 200).map((e) => e.f);
+const trimmed = entries.length > shown.length;
+
+const summary = `${label}に開催される祭り・盆踊り・花火大会を ${entries.length.toLocaleString()} 件`
+  + `、${prefList.length} 都道府県ぶん集めました。`
+  + `${chokai ? `うち ${chokai.toLocaleString()} 件は町内会・地区の小さな祭りです。` : ''}`
+  + `${stalls ? `屋台・露店が出ると出典に書かれているものが ${stalls.toLocaleString()} 件。` : ''}`
+  + `${confirmed ? `${confirmed.toLocaleString()} 件は主催者の発表で日程が確定しています。` : ''}`
+  + 'すべて出典と最終確認日つきで掲載しています。';
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: SITE_NAME, item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: '開催月から探す', item: new URL('/when/', Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: label, item: new URL(`/when/${month}/`, Astro.site).href },
+  ],
+};
+---
+
+<Base
+  title={`${label}の祭り・盆踊り（全国${entries.length.toLocaleString()}件）`}
+  description={summary.slice(0, 120)}
+  jsonld={jsonld}
+>
+  <nav class="crumb">
+    <a href="/">{SITE_NAME}</a> ／ <a href="/when/">開催月から探す</a> ／ {label}
+  </nav>
+  <h1>{label}の祭り</h1>
+  <p class="summary">{summary}</p>
+
+  {busiest.length > 0 && (
+    <>
+      <h2>開催が多い日</h2>
+      <ul class="days">
+        {busiest.map((b) => (
+          <li><span class="d">{Number(b.d.slice(8))}日（{b.wd}）</span><span class="c">{b.n.toLocaleString()}件</span></li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <h2>都道府県から探す</h2>
+  <ul class="areas">
+    {prefList.map((p) => (
+      <li><a href={`/a/${p.slug}/`}>{p.name}<span class="c">{p.n.toLocaleString()}</span></a></li>
+    ))}
+  </ul>
+
+  <h2>開催日の近い順</h2>
+  {trimmed && (
+    <p class="lede">
+      {entries.length.toLocaleString()} 件のうち、開催日の早い {shown.length} 件を出しています。
+      残りは上の都道府県から辿ってください。
+    </p>
+  )}
+  <FestivalList festivals={shown} />
+
+  <p style="margin-top:32px"><a href="/when/">← ほかの月を見る</a></p>
+
+  <style>
+    .crumb { font-size: 13px; color: var(--muted); margin: 20px 0 0; }
+    h1 { margin-top: 4px; }
+    h2 { font-size: var(--t5); margin: 28px 0 8px; }
+    .lede { color: var(--muted); font-size: var(--t4); }
+    .summary { font-size: 15px; line-height: 1.9; margin: 12px 0; }
+    .days { list-style: none; padding: 0; margin: 12px 0; display: flex; flex-wrap: wrap; gap: 8px; }
+    .days li {
+      border: 1px solid var(--line); border-radius: var(--r2); background: var(--card);
+      padding: 6px 12px; font-size: var(--t4); display: flex; gap: 8px; align-items: baseline;
+    }
+    .days .c { font-size: var(--t2); color: var(--muted); }
+    .areas { list-style: none; padding: 0; margin: 12px 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .areas a {
+      display: inline-flex; gap: 6px; align-items: baseline;
+      border: 1px solid var(--line); border-radius: 999px;
+      padding: 5px 12px; font-size: var(--t4); text-decoration: none; color: inherit;
+      background: var(--card);
+    }
+    .areas .c { font-size: var(--t2); color: var(--muted); }
+  </style>
+</Base>
