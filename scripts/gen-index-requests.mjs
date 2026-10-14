@@ -9,7 +9,7 @@ import { parse } from 'yaml';
 import { ROOT } from './import/_lib.mjs';
 const OUT = process.argv[2];
 const SITE = 'https://omatsuri-map.com';
-const FROM = '2026-10-04';
+const FROM = new Date().toISOString().slice(0, 10); // 今日。終わった祭りに枠を使わない
 const TO = '2026-11-30';
 
 const fests = [];
@@ -60,8 +60,11 @@ const prefs = [...byPref].sort((a, b) => b[1] - a[1]).slice(0, 8);
 const guides = ['', 'bon-odori-calendar', 'shrine-reisai-dates', 'hanabi-paid-seats', 'crowded-days',
   'stalls-data', 'cancelled-postponed', 'how-we-collect', 'find-local-bon-odori', 'first-bon-odori'];
 
+const monthsAhead = [...new Set(up.map((x) => x.u.d.slice(0, 7)))].sort();
 const rows = [
   { url: `${SITE}/`, why: 'トップ' },
+  { url: `${SITE}/when/`, why: '開催月から探す（新設。まだクロールされていない）' },
+  ...monthsAhead.map((m) => ({ url: `${SITE}/when/${m}/`, why: `${m.slice(0,4)}年${Number(m.slice(5))}月のページ（新設）` })),
   ...guides.map((g) => ({ url: `${SITE}/guides/${g}`, why: g ? '読み物（独自の集計記事）' : '読み物の入口' })),
   ...prefs.map(([p, n]) => ({ url: `${SITE}/a/${p}/`, why: `県のページ（これから ${n} 件開催）` })),
   ...up.slice(0, 60).map((x) => ({
@@ -70,7 +73,7 @@ const rows = [
   })),
 ];
 
-let md = `# インデックス登録をリクエストする URL（2026-10-04 作成）\n\n`
+let md = `# インデックス登録をリクエストする URL（${FROM} 作成）\n\n`
   + `Search Console の上部の検索窓に URL を貼る → 「インデックス登録をリクエスト」。\n`
   + `**1 日 10 件ほどで上限**に当たるので、上から順に消化してください。\n`
   + `秋の開催が終わると価値が落ちるので、**日付の早いものを優先**しています。\n\n`
